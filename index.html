@@ -1090,11 +1090,11 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
               <button type="button" class="x-flag x-flag--toggle" id="hiring" aria-pressed="false"><span class="x-flag__k">--</span>hiring-ops</button>
             </div></div>
             <div class="x-cli__row"><span class="x-cli__key">Zone</span><div class="x-chips" id="zones" role="group" aria-label="Pace zone"></div></div>
+            <div class="x-cli__row"><span class="x-cli__key">Stage</span><div class="x-chips" id="stages" role="group" aria-label="Stage"></div></div>
             <div class="x-cli__row x-cli__row--sort"><span class="x-cli__key">Sort</span><div class="x-chips" id="sorts" role="group" aria-label="Sort order"></div></div>
             <details class="x-adv" id="adv">
-              <summary class="x-adv__sum"><span class="x-cli__key">More</span><span class="x-adv__lbl"><span class="x-flag__k">--</span>distance, stage, industry<b id="advcount"></b></span><i aria-hidden="true">+</i></summary>
+              <summary class="x-adv__sum"><span class="x-cli__key">More</span><span class="x-adv__lbl"><span class="x-flag__k">--</span>distance, industry<b id="advcount"></b></span><i aria-hidden="true">+</i></summary>
               <div class="x-cli__row"><span class="x-cli__key">Distance</span><div class="x-chips" id="dists" role="group" aria-label="Distance"></div></div>
-              <div class="x-cli__row"><span class="x-cli__key">Stage</span><div class="x-chips" id="stages" role="group" aria-label="Stage"></div></div>
               <div class="x-cli__row"><span class="x-cli__key">Industry</span><div class="x-chips" id="industries" role="group" aria-label="Industry"></div></div>
             </details>
             </div>
@@ -1578,7 +1578,7 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
           const active = state.hiring || state.industry !== "All" || state.stage !== "All" || state.zone !== "All" || state.dist !== "All" || q;
           const fc = [state.hiring, state.industry !== "All", state.stage !== "All", state.zone !== "All", state.dist !== "All"].filter(Boolean).length;
           const fcEl = document.getElementById("fcount"); if (fcEl) fcEl.textContent = fc ? String(fc) : "";
-          const ac = [state.industry !== "All", state.stage !== "All", state.dist !== "All"].filter(Boolean).length;
+          const ac = [state.industry !== "All", state.dist !== "All"].filter(Boolean).length;
           const acEl = document.getElementById("advcount"); if (acEl) acEl.textContent = ac ? String(ac) : "";
           count.textContent = active ? `${list.length} ${list.length === 1 ? "match" : "matches"}` : "";
         }
