@@ -18592,5 +18592,117 @@
    "New York",
    "Remote"
   ]
+ },
+ {
+  "name": "OpenRouter",
+  "slug": "openrouter",
+  "site": "https://openrouter.ai",
+  "careers_url": "https://jobs.ashbyhq.com/openrouter",
+  "what_they_do": "One API and marketplace to reach, route and manage 400+ AI models",
+  "problem": "Teams building with AI need many models without separate contracts, keys, outages and cost blind spots",
+  "industry": "AI infrastructure / model gateway",
+  "stage": "Series B (Stripe acquisition agreed Aug 2026)",
+  "last_round": "$113M",
+  "last_round_date": "May 2026",
+  "lead_investors": "CapitalG",
+  "total_open_roles": "28",
+  "ops_roles": "Director, Revenue Operations; AI Provider Operations & Support Engineer; Program Manager, Provider Partnerships; Customer Success Manager",
+  "hiring_trend": "~90 staff (Aug 2026); open roles ~19 in Aug to 28 now (est.)",
+  "headcount": "~90",
+  "latest_news": "Now part of Stripe: agreed Aug 2026 to be acquired for a reported ~$7.5B; runs under its own brand",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+  "traction": "ARR $10M (Oct 2025) to $50M (Apr 2026); 10T+ tokens/day, 10M+ developers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Largest model gateway with 10M+ developers and both sides of the market on it; zero-markup gateways and in-house routing press on fees.",
+  "distance_sources": [
+   {
+    "label": "OpenRouter blog: joining Stripe (Aug 2026)",
+    "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/"
+   },
+   {
+    "label": "TechCrunch: Series B at $1.3B (May 2026)",
+    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/"
+   },
+   {
+    "label": "AOYII: take-rate pressure from Vercel, Cloudflare, LiteLLM (Sep 2026)",
+    "url": "https://www.aoyii.com/stripe-openrouter-ai-routing-layer/"
+   }
+  ],
+  "hiring_locations": [
+   "SF Bay Area",
+   "New York",
+   "Singapore",
+   "Remote (US)",
+   "Remote (APAC)"
+  ]
+ },
+ {
+  "name": "HappyRobot",
+  "slug": "happyrobot",
+  "site": "https://www.happyrobot.ai",
+  "careers_url": "https://jobs.ashbyhq.com/happyrobot.ai",
+  "what_they_do": "AI agents that run phone, email and scheduling work for logistics and enterprise ops",
+  "problem": "Freight and ops teams burn hours on calls, rate negotiation and booking that never ends",
+  "industry": "Enterprise AI agents / logistics tech",
+  "stage": "Series C",
+  "last_round": "$150M",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "Prysm Capital, Eurazeo (co-lead); a16z, Base10, YC participating",
+  "total_open_roles": "76",
+  "ops_roles": "Chief of Staff; Strategic Finance & Business Operations; Deployment Strategist; Product Operations Engineer",
+  "hiring_trend": "Headcount +63% to +229% YoY (est., ~200–250); 76 open roles",
+  "headcount": "~200–250",
+  "latest_news": "Raised $150M Series C at $1.2B valuation; revenue 5x since Series B",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://fortune.com/2026/08/04/happyrobot-worth-1-2-billion-founder-says-just-getting-started/",
+  "traction": "Revenue 5x since Sep 2025 Series B; NDR >150%; 150+ enterprise customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.5",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "12",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/HappyRobot-Reviews-E10675490.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Leader in AI agents for freight brokers with NDR above 150%, but its push into horizontal enterprise agents meets Sierra, Decagon and Parloa.",
+  "distance_sources": [
+   {
+    "label": "Fortune, Aug 2026 (NDR >150%, 150+ customers)",
+    "url": "https://fortune.com/2026/08/04/happyrobot-worth-1-2-billion-founder-says-just-getting-started/"
+   },
+   {
+    "label": "Product Market Fit newsletter, Sep 2026 (8 of top 10 US freight brokers)",
+    "url": "https://www.productmarketfit.tech/p/happyrobot-playbook-from-yc-pivot"
+   },
+   {
+    "label": "CB Insights competitor list (Parloa, Sierra, PolyAI)",
+    "url": "https://www.cbinsights.com/company/happyrobot"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Madrid",
+   "Remote (Mexico)",
+   "Remote (France)"
+  ]
  }
 ]
