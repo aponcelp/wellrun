@@ -800,6 +800,12 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
       .x-legend__n { font: 400 12px/1.4 var(--x-mono); color: var(--text-secondary); }
       .x-legend__d { font: var(--type-small); color: var(--text-secondary); }
 
+      .x-dlegend { border-top: 1px solid var(--text-primary); margin-top: 4px; }
+      .x-dlegend__list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); }
+      .x-dlegend__list li { display: grid; gap: 8px; align-content: start; justify-items: start; padding: 12px 14px 14px; border-left: 1px solid var(--stroke-primary); font: var(--type-small); color: var(--text-secondary); }
+      .x-dlegend__list li:first-child { border-left: 0; }
+      @media (max-width: 860px) { .x-dlegend__list { grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); } }
+
       /* pace on each row */
       .x-pace { display: grid; gap: 6px; justify-items: start; }
       .x-split { font: 800 30px/0.95 var(--x-display); font-stretch: 125%; color: var(--text-primary); white-space: nowrap; font-variant-numeric: tabular-nums lining-nums; letter-spacing: -0.01em; }
@@ -850,7 +856,7 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
       .x-runhead { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 6px 12px; margin: clamp(32px, 5vw, 48px) 0 12px; padding-bottom: 10px; border-bottom: 3px solid var(--x-clay); font: 400 12px/1.4 var(--x-mono); color: var(--text-secondary); }
       .x-runhead h2 { font: 900 clamp(22px, 3.6vw, 32px)/1 var(--x-display); font-stretch: 125%; text-transform: uppercase; letter-spacing: 0; color: var(--text-primary); }
       .x-board-card { border: 2px solid var(--text-primary); border-radius: var(--r-m); background: var(--x-card); overflow: hidden; }
-      .x-cols, .x-proc__main { display: grid; grid-template-columns: 76px minmax(0, 1.5fr) 200px minmax(0, 1fr) 20px; gap: 16px; }
+      .x-cols, .x-proc__main { display: grid; grid-template-columns: 76px minmax(0, 1.5fr) 190px 150px minmax(0, 1fr) 20px; gap: 16px; }
       .x-cols { padding: 10px 65px 10px 0; background: var(--text-primary); color: var(--text-primary-on); font: 500 12px/1.2 var(--x-mono); text-transform: uppercase; letter-spacing: 0.08em; }
       .x-cols span:first-child { padding-left: 16px; }
       .x-log { list-style: none; margin: 0; padding: 0; }
@@ -878,6 +884,9 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
       .x-pills { display: flex; flex-wrap: wrap; gap: 5px; }
       .x-pill { padding: 4px 9px; border: 1px solid var(--stroke-primary); border-radius: var(--r-pill); font: 500 12px/1.2 var(--sans); color: var(--text-secondary); white-space: nowrap; }
       .x-pill--hire { color: var(--text-primary); background: var(--x-lime); border-color: var(--text-primary); font-weight: 700; }
+      .x-dcell { display: flex; flex-direction: column; align-items: flex-start; gap: 5px; min-width: 0; }
+      .x-dengine { font: 400 12px/1.3 var(--x-mono); color: var(--text-secondary); }
+      .x-pill--dist { font-size: 13px; padding: 5px 11px; }
       .x-pill--dist { font-weight: 600; color: var(--text-primary); }
       .x-dist--marathon { background: var(--x-forest-deep); border-color: var(--x-forest-deep); color: var(--x-lime); }
       .x-dist--half { border-color: var(--text-primary); }
@@ -918,7 +927,8 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
         .x-pid { grid-column: 1; grid-row: 1; padding-left: 10px; align-self: start; padding-top: 2px; gap: 6px; }
         .x-who { grid-column: 2; grid-row: 1; }
         .x-pace { grid-column: 2; grid-row: 2; display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; }
-        .x-pills { grid-column: 2; grid-row: 3; }
+        .x-dcell { grid-column: 2; grid-row: 3; flex-direction: row; align-items: center; gap: 8px; }
+        .x-pills { grid-column: 2; grid-row: 4; }
         .x-caret { grid-column: 3; grid-row: 1; align-self: start; padding-top: 4px; }
         .x-pos { font-size: 20px; }
         .x-split { font-size: 26px; }
@@ -976,6 +986,31 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
               </div>
             </details>
             <ul id="legend"></ul>
+            <div class="x-dlegend">
+              <p class="x-legend__rule"><b>Distance = staying power:</b> Pace shows how fast a company is running now. Distance shows whether it can keep going for years. It's a separate label and doesn't change the score or the order.</p>
+              <ul class="x-dlegend__list">
+                <li><span class="x-pill x-pill--dist x-dist--marathon">Marathon</span><span>Built to last. A clear engine, public proof it's working, and little that could knock it out.</span></li>
+                <li><span class="x-pill x-pill--dist x-dist--half">Half</span><span>The engine is forming. Some proof, but not locked in yet.</span></li>
+                <li><span class="x-pill x-pill--dist x-dist--10k">10K</span><span>Fast, but easy to catch. Rivals can copy it, or it depends on someone else.</span></li>
+                <li><span class="x-pill x-pill--dist x-dist--unproven">Unproven</span><span>Too early to tell. No engine visible yet.</span></li>
+              </ul>
+              <details class="x-formula">
+                <summary>How Distance is calculated</summary>
+                <div class="x-formula__body">
+                  <p><b>1. The engine:</b> what gets stronger with every customer? Each company gets one or two:</p>
+                  <dl>
+                    <dt>Lock-in</dt><dd>The product runs core work, so leaving is painful (payroll, books, billing)</dd>
+                    <dt>Network</dt><dd>Each new user makes it better for everyone else (marketplaces)</dd>
+                    <dt>Scale</dt><dd>More volume makes it cheaper to run (data centers, clinics)</dd>
+                    <dt>Data</dt><dd>Usage makes the product smarter (AI trained on real work)</dd>
+                  </dl>
+                  <p>Speed, brand, funding and famous founders help a company get going, but they don't count as an engine.</p>
+                  <p><b>2. Proof (+):</b> public evidence that the engine works: net revenue retention over 110% or low churn, a second product customers actually use, raising prices without losing customers, and no reliance on a few giant accounts.</p>
+                  <p><b>3. Exposure (−):</b> platform risk (it runs on a rival's system), clone risk (big AI labs or incumbents can ship the same thing) and burn risk (growth only lasts while new money keeps coming).</p>
+                  <p><b>Rating:</b> Marathon = clear engine + proof + low exposure · Half = engine with some proof · 10K = real edge but high exposure or easy to copy · Unproven = no engine yet. Every rating links its public sources; open a company to see them.</p>
+                </div>
+              </details>
+            </div>
           </div>
         </header>
 
@@ -989,6 +1024,7 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
               <button type="button" class="x-flag x-flag--toggle" id="hiring" aria-pressed="false"><span class="x-flag__k">--</span>hiring-ops</button>
             </div></div>
             <div class="x-cli__row"><span class="x-cli__key">Zone</span><div class="x-chips" id="zones" role="group" aria-label="Pace zone"></div></div>
+            <div class="x-cli__row"><span class="x-cli__key">Distance</span><div class="x-chips" id="dists" role="group" aria-label="Distance"></div></div>
             <div class="x-cli__row"><span class="x-cli__key">Industry</span><div class="x-chips" id="industries" role="group" aria-label="Industry"></div></div>
             <div class="x-cli__row"><span class="x-cli__key">Stage</span><div class="x-chips" id="stages" role="group" aria-label="Stage"></div></div>
             <div class="x-cli__row"><span class="x-cli__key">Sort</span><div class="x-chips" id="sorts" role="group" aria-label="Sort order"></div></div>
@@ -1003,7 +1039,7 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
             <span id="sortnote">fastest first, ties a–z</span>
           </div>
           <div class="x-board-card">
-            <div class="x-cols" aria-hidden="true"><span>Pos</span><span>Company</span><span>Pace</span><span>Signals</span><span></span></div>
+            <div class="x-cols" aria-hidden="true"><span>Pos</span><span>Company</span><span>Pace</span><span>Distance</span><span>Signals</span><span></span></div>
             <ol class="x-log" id="log"></ol>
             <div class="x-empty" id="empty" hidden="">
               <p>0 companies matched · exit 1</p>
@@ -1229,13 +1265,15 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
         const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
         const slug = (s) => s.toLowerCase().replace(/&/g, "").replace(/\+/g, "-plus").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
         const has = (v) => v != null && String(v).trim() !== "" && String(v).trim().toLowerCase() !== "n.a.";
-        const state = { hiring: false, industry: "All", stage: "All", zone: "All", sort: "fastest", q: "" };
+        const state = { hiring: false, industry: "All", stage: "All", zone: "All", dist: "All", sort: "fastest", q: "" };
+        const DISTS = ["Marathon", "Half", "10K", "Unproven"];
         const open = new Set();
         const byName = (a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" });
         COMPANIES.forEach((c) => {
           c.z = zoneOf(c);
           c.id = "p-" + (c.slug || slug(c.name));
           c.scoreN = Number(c.score) || 0;
+          c.distI = DISTS.indexOf(String(c.distance || "").trim()); if (c.distI < 0) c.distI = 9;
           c.bucket = bucketOf(c);
           c.stageK = stageKey(c);
           c.ops = String(c.ops_roles || "").split(";").map((t) => t.trim()).filter(Boolean);
@@ -1245,6 +1283,7 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
         const INDUSTRIES = ["All"].concat(BUCKET_ORDER.filter((b) => COMPANIES.some((c) => c.bucket === b)));
         const SORTS = {
           fastest: (a, b) => (ZONES.indexOf(a.z) - ZONES.indexOf(b.z)) || (b.scoreN - a.scoreN) || byName(a, b),
+          distance: (a, b) => (a.distI - b.distI) || (ZONES.indexOf(a.z) - ZONES.indexOf(b.z)) || (b.scoreN - a.scoreN) || byName(a, b),
           hiring: (a, b) => ((b.ops.length > 0) - (a.ops.length > 0)) || (ZONES.indexOf(a.z) - ZONES.indexOf(b.z)) || byName(a, b)
         };
         let sorted = [];
@@ -1412,7 +1451,6 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
             : "";
           const pills =
             (hiring ? `<span class="x-pill x-pill--hire">${c.ops.length} ops</span>` : "") +
-            (has(c.distance) ? `<span class="x-pill x-pill--dist x-dist--${esc(String(c.distance).toLowerCase())}" title="Distance: staying power">${esc(c.distance)}</span>` : "") +
             gdBadge;
           return `<li class="x-proc">
             <div class="x-proc__bar">
@@ -1420,6 +1458,7 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
                 <span class="x-pid"><i class="x-dot${hiring ? " on" : ""}" aria-hidden="true"></i><span class="x-pos"><span class="sr-only">Position </span>${c.pid}<span class="sr-only">${hiring ? ", hiring ops" : ""}</span></span></span>
                 <span class="x-who">${logo(c)}<span class="x-whotxt"><span class="x-name">${esc(c.name)}</span><span class="x-tag">${esc(c.what_they_do || "")}</span></span></span>
                 <span class="x-pace z-${c.z.key}"><span class="sr-only">Pace ${c.z.split} per km, ${esc(c.z.name)}, momentum score ${esc(c.score)}.</span><span class="x-split" aria-hidden="true">${c.z.split}<small>/km</small></span><span class="x-pace__low" aria-hidden="true"><span class="x-meter">${meter(c.z.bars)}</span><span class="x-zone">${esc(c.z.name)}</span><span class="x-score-n">${c.scoreN.toFixed(2).replace(/0$/, "")}</span></span></span>
+                <span class="x-dcell">${has(c.distance) ? `<span class="x-pill x-pill--dist x-dist--${esc(String(c.distance).toLowerCase())}">${esc(c.distance)}</span>${has(c.engine) ? `<span class="x-dengine">${esc(c.engine)}</span>` : ""}` : `<span class="x-dengine">Not rated yet</span>`}</span>
                 <span class="x-pills">${pills}</span>
                 <span class="x-caret" aria-hidden="true">+</span>
               </button>
@@ -1441,6 +1480,7 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
             (state.industry === "All" || c.bucket === state.industry) &&
             (state.stage === "All" || c.stageK === state.stage) &&
             (state.zone === "All" || c.z.key === state.zone) &&
+            (state.dist === "All" || c.distance === state.dist) &&
             (!q || c.hay.includes(q))
           );
           log.innerHTML = list.map(row).join("");
@@ -1448,12 +1488,13 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
           let line = "$ well_run";
           if (state.hiring) line += " --hiring-ops";
           if (state.zone !== "All") line += " --zone=" + state.zone;
+          if (state.dist !== "All") line += " --distance=" + slug(state.dist);
           if (state.industry !== "All") line += " --industry=" + slug(state.industry);
           if (state.stage !== "All") line += " --stage=" + slug(state.stage);
           if (state.sort !== "fastest") line += " --sort=" + state.sort;
           if (state.q.trim()) line += ` | grep -i "${state.q.trim()}"`;
           cmd.textContent = line;
-          const active = state.hiring || state.industry !== "All" || state.stage !== "All" || state.zone !== "All" || q;
+          const active = state.hiring || state.industry !== "All" || state.stage !== "All" || state.zone !== "All" || state.dist !== "All" || q;
           count.textContent = active ? `${list.length} ${list.length === 1 ? "match" : "matches"}` : "";
         }
 
@@ -1500,12 +1541,14 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
         const stgEl = document.getElementById("stages");
         const zoneEl = document.getElementById("zones");
         group(zoneEl, ["All"].concat(ZONES.map((z) => z.key)), "zone");
+        const distEl = document.getElementById("dists");
+        group(distEl, ["All"].concat(DISTS), "dist");
         group(indEl, INDUSTRIES, "industry");
         group(stgEl, STAGES, "stage");
         const sortNote = document.getElementById("sortnote");
-        group(document.getElementById("sorts"), ["fastest", "hiring"], "sort", () => {
+        group(document.getElementById("sorts"), ["fastest", "distance", "hiring"], "sort", () => {
           resort();
-          sortNote.textContent = state.sort === "fastest" ? "fastest first, ties a–z" : "hiring ops first, then fastest";
+          sortNote.textContent = state.sort === "fastest" ? "fastest first, ties a–z" : state.sort === "distance" ? "longest distance first, then fastest" : "hiring ops first, then fastest";
         });
 
         const hiringBtn = document.getElementById("hiring");
@@ -1518,10 +1561,10 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
         qEl.addEventListener("input", () => { state.q = qEl.value; render(); });
 
         document.getElementById("reset").addEventListener("click", () => {
-          state.hiring = false; state.industry = "All"; state.stage = "All"; state.zone = "All"; state.q = "";
+          state.hiring = false; state.industry = "All"; state.stage = "All"; state.zone = "All"; state.dist = "All"; state.q = "";
           qEl.value = "";
           hiringBtn.setAttribute("aria-pressed", "false");
-          [indEl, stgEl, zoneEl].forEach((el) => el.querySelectorAll(".x-flag").forEach((o) => o.setAttribute("aria-pressed", String(o.dataset.value === "All"))));
+          [indEl, stgEl, zoneEl, distEl].forEach((el) => el.querySelectorAll(".x-flag").forEach((o) => o.setAttribute("aria-pressed", String(o.dataset.value === "All"))));
           render();
         });
 
