@@ -846,6 +846,8 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
       .x-proc { border-bottom: 1.5px solid var(--text-primary); }
       .x-proc:last-child { border-bottom: 0; }
       .x-proc__bar { display: flex; align-items: stretch; }
+      .x-proc__main .x-logo, .x-proc__main .x-name { cursor: alias; }
+      .x-proc__main .x-name:hover { text-decoration: underline; text-underline-offset: 3px; }
       .x-proc__main {
         flex: 1; min-width: 0; align-items: center; padding: 16px 4px 16px 0; min-height: 76px;
         border: 0; background: none; color: inherit; text-align: left; font: inherit; cursor: pointer;
@@ -4793,6 +4795,11 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
         }
 
         log.addEventListener("click", (e) => {
+          const go = e.target.closest(".x-logo, .x-name");
+          if (go) {
+            const li = go.closest(".x-proc"); const site = li && li.querySelector(".x-site");
+            if (site) { e.preventDefault(); e.stopPropagation(); window.open(site.href, "_blank", "noopener"); return; }
+          }
           const btn = e.target.closest(".x-proc__main");
           if (!btn) return;
           const id = btn.dataset.id;
