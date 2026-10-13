@@ -4333,5 +4333,111 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "Flowhub",
+  "slug": "flowhub",
+  "site": "https://www.flowhub.com",
+  "careers_url": "https://jobs.ashbyhq.com/flowhub",
+  "what_they_do": "Point of sale, payments, ecommerce and compliance software for cannabis dispensaries",
+  "problem": "Dispensaries must sell fast while tracking every product seed to sale under strict, state-by-state rules",
+  "industry": "Cannabis retail tech / POS",
+  "stage": "Series A+ (strategic)",
+  "last_round": "$19M",
+  "last_round_date": "Oct 2021",
+  "lead_investors": "Headline, Poseidon (with Shawn “Jay-Z” Carter)",
+  "total_open_roles": "0",
+  "ops_roles": "",
+  "hiring_trend": "Shrinking: ~89 staff, −11% YoY (est.); repeated layoffs since Jul 2025; 0 open roles on Ashby. HQ now listed as Miami",
+  "headcount": "~89",
+  "latest_news": "Launched MCP connector so operators can run Flowhub from ChatGPT, Claude and Gemini",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/flowhub-launches-mcp-connector-giving-retailers-the-freedom-to-innovate-with-ai-302815679.html",
+  "traction": "Says it is profitable; $4B+ annual cannabis sales processed, up from $3B in 2025",
+  "red_flags": "Repeated layoffs Jul 2025–Jul 2026, including a reduction in force in late Jul 2026 that hit Product, QA and Engineering; headcount −11% YoY; Glassdoor 2.8 with recent reviews citing constant layoffs and senior departures",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor “layoff” reviews, Jul–Aug 2026",
+    "url": "https://www.glassdoor.com/Reviews/Flowhub-layoff-Reviews-EI_IE1000410.0,7_KH8,14.htm"
+   },
+   {
+    "label": "LinkedIn post from laid-off Flowhub engineer, Jul 29, 2026",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7488344115076673536"
+   },
+   {
+    "label": "LinkedIn post from laid-off Flowhub employee, Jul 27, 2026",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487536132000337920"
+   },
+   {
+    "label": "LinkedIn post on May 2026 Flowhub layoff, Jun 3, 2026",
+    "url": "https://www.linkedin.com/posts/castrocarlos6_i-am-sharing-the-unfortunate-news-that-i-activity-7468038341679161345-OR1T"
+   },
+   {
+    "label": "LinkedIn company data: 89 employees, −11% YoY",
+    "url": "https://linkedin.com/company/flowhub"
+   }
+  ],
+  "score": "0",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "2.8",
+  "glassdoor_reviews": "68",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Flowhub-Reviews-E1000410.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "Dutchie",
+  "slug": "dutchie",
+  "site": "https://dutchie.com",
+  "careers_url": "https://job-boards.greenhouse.io/thedutchie",
+  "what_they_do": "POS, ecommerce, payments and loyalty platform for cannabis dispensaries",
+  "problem": "Dispensaries juggle disconnected tools to sell, stay compliant and keep customers in a heavily regulated market",
+  "industry": "Cannabis retail tech / POS",
+  "stage": "Series D-2 (down round)",
+  "last_round": "$100M",
+  "last_round_date": "Jan 2024",
+  "lead_investors": "Thrive Capital",
+  "total_open_roles": "11",
+  "ops_roles": "Manager, Implementation; Implementation Strategist; Senior Project Manager, GTM Launch; Senior Manager, Enterprise Customer Success",
+  "hiring_trend": "Shrinking: ~424 staff, −7% YoY (est.); 11 open roles, all remote",
+  "headcount": "~424",
+  "latest_news": "Launched Consumer AI suite: voice receptionist, agentic shopping, register co-pilot, review insights",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/dutchie-launches-consumer-ai-featuring-voice-ai-agentic-commerce-register-co-pilot-and-consumer-pulse-302799933.html",
+  "traction": "6,500+ dispensaries; ~$22B annual sales processed; store count flat since 2025",
+  "red_flags": "Rolling layoffs through 2025–26 (Glassdoor reviews; support staff union filing in Aug 2025 cited them); headcount −7% YoY; co-founders Ross and Zach Lipson exited Jun 2025; last round was an ~89% down round ($3.75B to $400M, Jan 2024)",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor “layoff” reviews",
+    "url": "https://www.glassdoor.com/Reviews/Dutchie-layoff-Reviews-EI_IE3036285.0,7_KH8,14.htm"
+   },
+   {
+    "label": "UFCW: Dutchie workers file for union election, Aug 2025",
+    "url": "https://www.ufcw.org/press-releases/dutchie-workers-file-for-union-election/"
+   },
+   {
+    "label": "Unify headcount data: 424 employees, −7.2% YoY",
+    "url": "https://www.unifygtm.com/insights-headcount/dutchie"
+   },
+   {
+    "label": "Dutchie: Tim Barash named CEO as co-founders depart, Jun 2025",
+    "url": "https://business.dutchie.com/post/dutchie-appoints-tim-barash-as-new-chief-executive-officer"
+   },
+   {
+    "label": "Reforming Retail: $100M at $400M valuation, Jan 2024",
+    "url": "https://reformingretail.com/index.php/2024/01/30/dutchie-raises-100m-at-400m-valuation-an-89-discount-from-last-valuation/"
+   }
+  ],
+  "score": "0.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.3",
+  "glassdoor_reviews": "236",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Dutchie-Reviews-E3036285.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
  }
 ]
