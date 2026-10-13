@@ -14896,5 +14896,87 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "Assembled",
+  "slug": "assembled",
+  "site": "https://www.assembled.com",
+  "careers_url": "https://jobs.ashbyhq.com/assembledhq",
+  "what_they_do": "Workforce management plus AI chat, email and voice agents for support teams",
+  "problem": "Support leaders juggle separate tools to staff in-house agents, BPO vendors and AI, and miss service levels",
+  "industry": "Customer support software / WFM",
+  "stage": "Series B",
+  "last_round": "$51M",
+  "last_round_date": "May 2022",
+  "lead_investors": "NEA",
+  "total_open_roles": "17",
+  "ops_roles": "Strategic Customer Success Manager; Customer Success Manager",
+  "hiring_trend": "Shrinking: ~143 (Q3 2025) to ~132 staff (Sep 2026), est. −8 to −13% YoY",
+  "headcount": "~132",
+  "latest_news": "Launched Dynamic Routing for AI chat handoffs tied to WFM queue hours",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.assembled.com/blog/dynamic-routing",
+  "traction": "Hundreds of support teams (Stripe, Robinhood, Etsy); 100k agents scheduled monthly",
+  "red_flags": "Headcount shrinking ~8–13% YoY (≈155 peak in late 2025 to ~132 by Sep 2026) with no new round since May 2022; Jul–Aug 2026 Glassdoor reviews report most of the exec team leaving in 6 months, 'constant restructuring' and staff departures",
+  "red_flags_sources": [
+   {
+    "label": "Crustdata, Sep 2026: 132 employees; Sales −46%, Eng −14%, Ops −44% YoY",
+    "url": "https://research.crustdata.com/company/assembled"
+   },
+   {
+    "label": "Revelio Labs: 155 staff Q4 2025 → 142 Q1 2026",
+    "url": "https://www.reveliolabs.com/companies/assembled/employees"
+   },
+   {
+    "label": "LinkedIn: 132 employees (Oct 2026)",
+    "url": "https://www.linkedin.com/company/assembledhq"
+   },
+   {
+    "label": "Glassdoor, Aug 2026: 'most of the exec team has left in the last 6 months'",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Assembled-E1379368-RVW105352682.htm"
+   },
+   {
+    "label": "Glassdoor, Aug 2026: 'constant restructuring'",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Assembled-E1379368-RVW105180771.htm"
+   },
+   {
+    "label": "Glassdoor reviews page: 3.2 (39 reviews), senior mgmt 2.9",
+    "url": "https://www.glassdoor.com/Reviews/Assembled-Reviews-E1379368.htm"
+   },
+   {
+    "label": "TechCrunch, May 2022: last round, $51M Series B",
+    "url": "https://techcrunch.com/2022/05/26/customer-support-management-platform-assembled-lands-51m"
+   }
+  ],
+  "score": "0.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.2",
+  "glassdoor_reviews": "39",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Assembled-Reviews-E1379368.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "A modern challenger in contact-center WFM, where NICE holds roughly a third of seats ahead of Verint/Calabrio and Genesys, while its AI agents face better-funded Decagon, Sierra and Intercom; shrinking team adds exposure.",
+  "distance_sources": [
+   {
+    "label": "ProductBeacon State of WEM 2026: NICE contact-center WFM share leader (32.1%, DMG)",
+    "url": "https://productbeacon.agency/research/state-of-wem-2026/wfm.html"
+   },
+   {
+    "label": "Assembled's own NICE review: NICE 33.8% of WFM seats (DMG, 2025)",
+    "url": "https://www.assembled.com/page/nice-wfm"
+   },
+   {
+    "label": "Mordor/GII 2026 contact-center WFM report: Assembled listed 8th behind NICE, Genesys, Verint, Calabrio",
+    "url": "https://www.giiresearch.com/report/moi2065446-workforce-management-wfm-contact-centers-market.html"
+   },
+   {
+    "label": "ARR Club, Aug 2026: Decagon hit $100M ARR in AI customer support",
+    "url": "https://www.arr.club/decagon/decagon-arr-hit-100m-with-focus-on-speed-and-product-quality"
+   }
+  ]
  }
 ]
