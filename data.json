@@ -28,7 +28,16 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in + Data",
+  "distance": "Half",
+  "distance_why": "Hard-to-switch books and payments for farms; retention data not published yet.",
+  "distance_sources": [
+   {
+    "label": "Upstarts Media: Ambrook raises $30M Series B (Aug 2026)",
+    "url": "https://www.upstartsmedia.com/p/ambrook-raises-30m-series-b-real-economy"
+   }
+  ]
  },
  {
   "name": "Granola",
@@ -59,7 +68,20 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Loved notepad, but Google and others now ship near-identical note-takers.",
+  "distance_sources": [
+   {
+    "label": "Granola: $125M Series C (Mar 2026)",
+    "url": "https://www.granola.ai/blog/series-c"
+   },
+   {
+    "label": "TechCrunch: Google releases a local-first Granola competitor (Oct 2026)",
+    "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
+   }
+  ]
  },
  {
   "name": "Numeric",
@@ -90,7 +112,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Loops",
@@ -121,7 +147,11 @@
   "zone": "Cool-down",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Sierra",
@@ -152,7 +182,20 @@
   "zone": "Sprint",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in + Data",
+  "distance": "Half",
+  "distance_why": "Deeply embedded at big brands, but Salesforce and AI labs chase the same buyers.",
+  "distance_sources": [
+   {
+    "label": "Sierra: $100M ARR in 7 quarters",
+    "url": "https://sierra.ai/blog/100m-arr"
+   },
+   {
+    "label": "Startup Fortune: Sierra vs incumbents",
+    "url": "https://startupfortune.com/sierra-has-635-million-150-million-in-arr-and-a-clear-theory-of-how-to-own-enterprise-ai-before-the-incumbents-wake-up/"
+   }
+  ]
  },
  {
   "name": "WellTheory",
@@ -183,7 +226,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Assured",
@@ -214,7 +261,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Function Health",
@@ -245,7 +296,16 @@
   "zone": "Sprint",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "500k members build a health record, but no retention or updated revenue is public.",
+  "distance_sources": [
+   {
+    "label": "Value Add VC: Function's $450M financing (Sep 2026)",
+    "url": "https://valueaddvc.com/blog/function-health-450m-financing-2026-why-valuation-stayed-at-2-5b"
+   }
+  ]
  },
  {
   "name": "Scribe",
@@ -276,7 +336,20 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Data + Lock-in",
+  "distance": "Half",
+  "distance_why": "15M captured workflows and lean burn; still needs retention proof.",
+  "distance_sources": [
+   {
+    "label": "Scribe: $100M ARR press release (May 2026)",
+    "url": "https://scribe.com/library/100-million-arr-press-release"
+   },
+   {
+    "label": "TechCrunch: Scribe hits $1.3B valuation (Nov 2025)",
+    "url": "https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/"
+   }
+  ]
  },
  {
   "name": "Ramp",
@@ -307,7 +380,16 @@
   "zone": "Sprint",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in + Scale",
+  "distance": "Marathon",
+  "distance_why": "Most customers run several Ramp products, and it funds itself with free cash flow.",
+  "distance_sources": [
+   {
+    "label": "Ramp Series F release (June 2026)",
+    "url": "https://www.gic.com.sg/uploads/2026/06/Ramp-Raises-Series-F-at-44-Billion-Valuation-3.pdf"
+   }
+  ]
  },
  {
   "name": "point.me",
@@ -338,7 +420,11 @@
   "zone": "Cool-down",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Rula",
@@ -369,7 +455,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Didero",
@@ -400,7 +490,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Wrapbook",
@@ -431,7 +525,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Afresh",
@@ -462,7 +560,11 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Commure",
@@ -506,7 +608,11 @@
     "label": "Larson LLP (Adaptamed suit), Apr 2026",
     "url": "https://www.larsonllp.com/adaptameds-commure-trade-secret-lawsuit/"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Steno",
@@ -537,7 +643,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Sumsub",
@@ -581,7 +691,11 @@
     "label": "Rekt News brief, Apr 2026",
     "url": "https://newsletter.rekt.news/p/blockchain-security-brief-hyperbridge-exploit-kyc-chaos-rhea-hack"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Hippocratic AI",
@@ -612,7 +726,20 @@
   "zone": "Sprint",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Data + Lock-in",
+  "distance": "Half",
+  "distance_why": "250M patient calls and payer-wide approvals, but no retention or revenue figures public.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Hippocratic AI expands across verticals (Jan 2026)",
+    "url": "https://www.businesswire.com/news/home/20260113404488/en/Hippocratic-AI-Expands-Across-Healthcare-Verticals-Following-Rapid-Adoption-of-Generative-AI-Healthcare-Agents"
+   },
+   {
+    "label": "PR Newswire: Hippocratic AI Orchestrators (Aug 2026)",
+    "url": "https://www.prnewswire.com/news-releases/hippocratic-ai-announces-next-generation-of-healthcare-ai-orchestrators-focused-on-outcomes-not-tasks-302850620.html"
+   }
+  ]
  },
  {
   "name": "Paper",
@@ -643,7 +770,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Linear",
@@ -674,7 +805,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Campfire",
@@ -705,7 +840,11 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Metaview",
@@ -736,7 +875,11 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "GC AI",
@@ -767,7 +910,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Zip",
@@ -798,7 +945,11 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Maximum",
@@ -829,7 +980,11 @@
   "zone": "Warm-up",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "ShopMy",
@@ -869,7 +1024,11 @@
     "label": "Business of Fashion, Aug 2026",
     "url": "https://www.businessoffashion.com/articles/retail/shopmy-influencer-affiliate-marketing-investigation/"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Imprint",
@@ -900,7 +1059,11 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Harvey",
@@ -931,7 +1094,20 @@
   "zone": "Sprint",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in + Data",
+  "distance": "Half",
+  "distance_why": "Law firms stay and expand, but it runs on models whose makers now compete.",
+  "distance_sources": [
+   {
+    "label": "Harvey: Q3 2025 momentum (GRR/NDR)",
+    "url": "https://www.harvey.ai/blog/harveys-momentum-in-q3"
+   },
+   {
+    "label": "The Weighted Average: Harvey valuation and lab risk",
+    "url": "https://theweightedaverage.com/posts/2026-08-13-harvey-15-5b-legal-ai/"
+   }
+  ]
  },
  {
   "name": "Human Interest",
@@ -962,7 +1138,11 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Wonderful",
@@ -993,7 +1173,16 @@
   "zone": "Sprint",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "On-site teams win big accounts, but services-heavy margins need constant new capital.",
+  "distance_sources": [
+   {
+    "label": "Ctech: Wonderful's economics (52% gross margin, 400 on-site staff)",
+    "url": "https://www.calcalistech.com/ctechnews/article/of77ag6kn"
+   }
+  ]
  },
  {
   "name": "Neko Health",
@@ -1024,7 +1213,20 @@
   "zone": "Sprint",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Scale + Data",
+  "distance": "Half",
+  "distance_why": "Members keep coming back, but every new city means costly clinics and hardware.",
+  "distance_sources": [
+   {
+    "label": "Neko Health: New York opening",
+    "url": "https://www.nekohealth.com/us/en/press/neko-health-opens-its-doors-in-new-york"
+   },
+   {
+    "label": "Neko Health: $700M Series C",
+    "url": "http://nekohealth.com/us/en/press/neko-health-raises-usd700m-series-c-ahead-of-us-launch"
+   }
+  ]
  },
  {
   "name": "Jane",
@@ -1055,7 +1257,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Brightwheel",
@@ -1096,7 +1302,11 @@
     "label": "LinkedIn post (layoff), Jan 2026",
     "url": "https://www.linkedin.com/posts/miranda-v-ramirez_today-is-my-last-day-at-brightwheel-and-activity-7423112879958298624-GW4B"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Era",
@@ -1127,7 +1337,11 @@
   "zone": "Warm-up",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Mercury",
@@ -1158,7 +1372,16 @@
   "zone": "Sprint",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in + Scale",
+  "distance": "Marathon",
+  "distance_why": "Profitable four years, banks a third of startups, and is becoming a real bank.",
+  "distance_sources": [
+   {
+    "label": "Mercury Series D release (May 2026)",
+    "url": "https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-%24200-Million-Series-D-at-%245.2B-Valuation"
+   }
+  ]
  },
  {
   "name": "Glide",
@@ -1189,7 +1412,11 @@
   "zone": "Cool-down",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Pave",
@@ -1220,7 +1447,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Mural",
@@ -1260,7 +1491,11 @@
     "label": "TrueUp layoffs (15%, Aug 2024)",
     "url": "https://www.trueup.io/co/mural/layoffs"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "PermitFlow",
@@ -1291,7 +1526,11 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Iru",
@@ -1322,7 +1561,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Breezeway",
@@ -1354,7 +1597,11 @@
   "keep": "yes",
   "is_new": false,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Nooks",
@@ -1385,7 +1632,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Headway",
@@ -1422,7 +1673,11 @@
     "label": "Glassdoor layoff reviews",
     "url": "https://www.glassdoor.com/Reviews/Headway-NY-layoff-Reviews-EI_IE3019578.0,10_KH11,17.htm"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Payabli",
@@ -1453,7 +1708,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Raspberry AI",
@@ -1484,7 +1743,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Parloa",
@@ -1515,7 +1778,16 @@
   "zone": "Sprint",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Customers spend 50% more each year, but it rents its core models from OpenAI.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Parloa post-Series D update (May 2026)",
+    "url": "https://www.prnewswire.com/news-releases/parloa-builds-off-350m-series-d-with-new-partnerships-research-fueled-innovation-and-global-expansion-302785842.html"
+   }
+  ]
  },
  {
   "name": "Zaya Care",
@@ -1546,7 +1818,11 @@
   "zone": "Cool-down",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Counterpart",
@@ -1577,7 +1853,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Drata",
@@ -1622,7 +1902,11 @@
     "label": "YipitData headcount, 2026",
     "url": "https://www.yipitdata.com/resources/vanta-vs-drata-compliance-software-2026"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Sundial",
@@ -1653,7 +1937,11 @@
   "zone": "Warm-up",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Raycast",
@@ -1684,7 +1972,11 @@
   "zone": "Cool-down",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Haus",
@@ -1715,7 +2007,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Pylon",
@@ -1746,7 +2042,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Rillet",
@@ -1777,7 +2077,16 @@
   "zone": "Sprint",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Once your books live in Rillet, switching is painful; retention numbers aren't public yet.",
+  "distance_sources": [
+   {
+    "label": "Rillet: $100M Series C",
+    "url": "https://www.rillet.com/blog/100m-series-c"
+   }
+  ]
  },
  {
   "name": "Airops",
@@ -1808,7 +2117,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Curri",
@@ -1839,7 +2152,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Vesta",
@@ -1870,7 +2187,11 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Candid Health",
@@ -1901,7 +2222,16 @@
   "zone": "Sprint",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in + Data",
+  "distance": "Marathon",
+  "distance_why": "It becomes the billing system of record, and customers spend more every year.",
+  "distance_sources": [
+   {
+    "label": "Sixth Street: Candid Health Series D",
+    "url": "https://sixthstreet.com/investment_announce/candid-health-raises-120m-led-by-sixth-street-growth-to-fuel-autonomous-revenue-cycle-management-in-healthcare/"
+   }
+  ]
  },
  {
   "name": "Prolific",
@@ -1932,7 +2262,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Prelim",
@@ -1963,7 +2297,11 @@
   "zone": "Warm-up",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Outmarket AI",
@@ -1994,7 +2332,11 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Engine",
@@ -2025,7 +2367,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Sanity",
@@ -2056,7 +2402,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Tremendous",
@@ -2087,7 +2437,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Check",
@@ -2118,7 +2472,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Ashby",
@@ -2149,7 +2507,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Pitch",
@@ -2180,7 +2542,11 @@
   "zone": "Cool-down",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Gamma",
@@ -2211,7 +2577,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Plain",
@@ -2242,7 +2612,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Taxwire",
@@ -2273,7 +2647,11 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Cresta",
@@ -2304,7 +2682,11 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Commas",
@@ -2335,7 +2717,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Valon",
@@ -2366,7 +2752,16 @@
   "zone": "Sprint",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in + Data",
+  "distance": "Half",
+  "distance_why": "Core servicing system is hard to rip out, but most contracts go live in 2027.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Valon Series D (Oct 2026)",
+    "url": "https://www.businesswire.com/news/home/20261005181820/en/Valon-Raises-%24150-Million-Series-D-at-a-%242.3-Billion-Valuation-to-Deploy-ValonOS-and-AI-Agents-into-Mortgage"
+   }
+  ]
  },
  {
   "name": "Abacum",
@@ -2397,7 +2792,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "ElevenLabs",
@@ -2428,7 +2827,24 @@
   "zone": "Sprint",
   "keep": "yes (strong brand, enterprise agents; note AI-model company)",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Data + Scale",
+  "distance": "Half",
+  "distance_why": "Agents platform is taking off, but big platforms now ship rival voice models.",
+  "distance_sources": [
+   {
+    "label": "ElevenLabs: $22B tender (Sep 2026)",
+    "url": "https://elevenlabs.io/blog/tender-22bn"
+   },
+   {
+    "label": "ElevenLabs: $500M ARR (May 2026)",
+    "url": "https://elevenlabs.io/blog/500m-arr-and-new-investors"
+   },
+   {
+    "label": "Tech CEO Daily: Microsoft voice models",
+    "url": "https://www.techceodaily.com/ai/elevenlabs-22-billion-valuation-voice-agents"
+   }
+  ]
  },
  {
   "name": "Fabric",
@@ -2459,7 +2875,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "DEUNA",
@@ -2490,7 +2910,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Triptease",
@@ -2531,7 +2955,11 @@
     "label": "Sonde (Companies House filings), Apr 2026",
     "url": "https://www.sondedata.com/company/08115425"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Ketch",
@@ -2562,7 +2990,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Finni Health",
@@ -2593,7 +3025,11 @@
   "zone": "Tempo",
   "keep": "yes (note: 141 roles inflated by BCBA/practice-owner postings)",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Stedi",
@@ -2624,7 +3060,11 @@
   "zone": "Tempo",
   "keep": "yes (API product, but business-facing with strong brand and ops roles)",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Maisa AI",
@@ -2655,7 +3095,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Equip",
@@ -2695,7 +3139,11 @@
     "label": "MedCity News, Jun 2026",
     "url": "https://medcitynews.com/2026/06/healthcare-moves-layoffs-retirement"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Attio",
@@ -2726,7 +3174,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "tldraw",
@@ -2757,7 +3209,11 @@
   "zone": "Warm-up",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Framer",
@@ -2788,7 +3244,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Decagon",
@@ -2819,7 +3279,16 @@
   "zone": "Sprint",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast and well liked, but support agents are converging and rivals are bigger.",
+  "distance_sources": [
+   {
+    "label": "Value Add VC: Decagon $100M ARR (Aug 2026)",
+    "url": "https://valueaddvc.com/pulse/decagon-100m-arr-ai-customer-agents-2026"
+   }
+  ]
  },
  {
   "name": "Vanta",
@@ -2850,7 +3319,11 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Fieldguide",
@@ -2881,7 +3354,11 @@
   "zone": "Race",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Monarch Money",
@@ -2912,7 +3389,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Thatch",
@@ -2943,7 +3424,16 @@
   "zone": "Sprint",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Growing fast in a crowded field where rival benefits platforms offer the same model.",
+  "distance_sources": [
+   {
+    "label": "TFN: Thatch $108M Series C, competitors",
+    "url": "https://techfundingnews.com/unicorn-alert-thatch-raises-108m-from-general-catalyst-and-index-ventures-at-1b-valuation/"
+   }
+  ]
  },
  {
   "name": "Hostie",
@@ -2974,7 +3464,11 @@
   "zone": "Warm-up",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Omni",
@@ -3005,7 +3499,16 @@
   "zone": "Sprint",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Business logic lives in its semantic layer, and it's profitable; retention not yet public.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Omni Series C (Apr 2026)",
+    "url": "https://www.businesswire.com/news/home/20260423569749/en/Omni-Raises-Series-C-at-%241.5B-Valuation-Building-the-AI-Analytics-Platform-for-the-Enterprise"
+   }
+  ]
  },
  {
   "name": "RevenueCat",
@@ -3036,7 +3539,11 @@
   "zone": "Tempo",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Duvo",
@@ -3067,7 +3574,11 @@
   "zone": "Tempo",
   "keep": "yes (note: Europe-centric; most roles EU/UK)",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Ambience Healthcare",
@@ -3098,7 +3609,11 @@
   "zone": "Tempo",
   "keep": "yes (a reported $250M Series D in Aug 2026 is unconfirmed, not scored)",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "zerohash",
@@ -3129,7 +3644,11 @@
   "zone": "Steady",
   "keep": "yes",
   "is_new": true,
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "status": "new",
@@ -3160,7 +3679,11 @@
   "latest_news_url": "https://techfundingnews.com/stuut-raises-52-5m-from-insight-partners-and-a16z-to-let-ai-agents-chase-enterprises-unpaid-invoices/",
   "score": "4.5",
   "zone": "Race",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "status": "new",
@@ -3191,7 +3714,11 @@
   "latest_news_url": "https://www.useflai.com/blog/flai-series-a-base10",
   "score": "4.5",
   "zone": "Race",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "status": "new",
@@ -3222,7 +3749,11 @@
   "latest_news_url": "https://www.finsmes.com/2026/10/siena-raises-17m-in-series-a-funding.html",
   "score": "3.75",
   "zone": "Tempo",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "status": "new",
@@ -3253,7 +3784,11 @@
   "latest_news_url": "https://www.bootstrappedwealth.com/2026/10/07/ex-ramp-engineers-burn-their-code-land-20m-for-ai-ad-startup",
   "score": "4.0",
   "zone": "Tempo",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "status": "new",
@@ -3284,7 +3819,11 @@
   "latest_news_url": "https://www.finsmes.com/2026/10/sante-raises-15m-in-series-a-funding.html",
   "score": "4.0",
   "zone": "Tempo",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "DoorLoop",
@@ -3321,7 +3860,11 @@
     "label": "Glassdoor layoff reviews",
     "url": "https://www.glassdoor.com/Reviews/DoorLoop-layoff-Reviews-EI_IE6826868.0,8_KH9,15.htm"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "EliseAI",
@@ -3353,7 +3896,20 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in + Data",
+  "distance": "Half",
+  "distance_why": "Runs one in six US apartments, but sits on top of Yardi and RealPage.",
+  "distance_sources": [
+   {
+    "label": "EliseAI: $200M ARR release",
+    "url": "https://www.businesswire.com/news/home/20260610244988/en/EliseAI-Hits-%24200M-ARR-After-Five-Consecutive-Years-of-100-Growth-Across-Housing-and-Healthcare"
+   },
+   {
+    "label": "PropTechBuzz: EliseAI $350M raise",
+    "url": "https://www.proptechbuzz.com/news/eliseai-raises-350m"
+   }
+  ]
  },
  {
   "name": "TypeSafe AI",
@@ -3394,7 +3950,11 @@
     "label": "Dealroom News, Oct 2026",
     "url": "https://dealroom.co/news/x-2108956624966844866-typesafe-ai-raises-870m-series-a-at-a-7-5bn-valuation-three-weeks-after/"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "PostHog",
@@ -3426,7 +3986,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Mixpanel",
@@ -3467,7 +4031,11 @@
     "label": "Glassdoor review, Sep 2026",
     "url": "https://www.glassdoor.com/Reviews/Employee-Review-Mixpanel-E406910-RVW105764655.htm"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Pindrop",
@@ -3499,7 +4067,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Arena",
@@ -3531,7 +4103,16 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Network + Data",
+  "distance": "Half",
+  "distance_why": "Millions of free voters feed paid evals, but revenue is usage-based, not recurring.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Arena $100M run rate (Jun 2026)",
+    "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business"
+   }
+  ]
  },
  {
   "name": "Owner",
@@ -3572,7 +4153,11 @@
     "label": "Restaurant Business, May 2025",
     "url": "https://www.restaurantbusinessonline.com/technology/restaurant-tech-supplier-popmenu-sues-rival-ownercom-over-website-grading-tool"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Rogo",
@@ -3604,7 +4189,20 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in + Data",
+  "distance": "10K",
+  "distance_why": "Banks love it and even invest, but churn is undisclosed and rivals multiply.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Rogo $160M Series D (Apr 2026)",
+    "url": "https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html"
+   },
+   {
+    "label": "The Inference: banks bought into Rogo (Oct 2026)",
+    "url": "https://theinference.org/article/nine-banks-with-20-trillion-in-assets-bought-into-rogo-the-ai-their-analysts-already-pay-to-use"
+   }
+  ]
  },
  {
   "name": "Monaco",
@@ -3636,7 +4234,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Peec AI",
@@ -3668,7 +4270,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Pelico",
@@ -3700,7 +4306,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Maze",
@@ -3741,7 +4351,11 @@
     "label": "LinkedIn post (company-wide RIF), Jul 2025",
     "url": "https://www.linkedin.com/posts/mitali-avadhani_hi-all-i-was-recently-impacted-by-a-company-wide-activity-7354543909500342272-YVb8"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Quartermaster",
@@ -3773,7 +4387,16 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Network + Data",
+  "distance": "10K",
+  "distance_why": "Vessel network is a real data moat, but it's built on free hardware.",
+  "distance_sources": [
+   {
+    "label": "Quartermaster blog: $140M raise (Sep 2026)",
+    "url": "https://www.quartermaster.us/blog/the-price-of-not-knowing"
+   }
+  ]
  },
  {
   "name": "Range",
@@ -3805,7 +4428,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Pika",
@@ -3837,7 +4464,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Aurasell",
@@ -3869,7 +4500,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Zero",
@@ -3901,7 +4536,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Jeeves",
@@ -3933,7 +4572,20 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Most customers run several finance products on it; still leans on partner banks.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Jeeves $110M raise (Sep 2026)",
+    "url": "https://www.prnewswire.com/news-releases/jeeves-raises-110-million-equity-round-to-scale-its-stablecoin-native-banking-platform-for-global-enterprises-across-35-countries-302892811.html"
+   },
+   {
+    "label": "DevCuration: Jeeves raise analysis (Sep 2026)",
+    "url": "https://devcuration.com/articles/jeeves-raises-110m-in-equity-funding"
+   }
+  ]
  },
  {
   "name": "Brex",
@@ -3965,7 +4617,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Deel",
@@ -4006,7 +4662,11 @@
     "label": "The Next Web, Sep 2026",
     "url": "https://thenextweb.com/news/deel-rippling-spying-case-witness-ruling"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Hark",
@@ -4038,7 +4698,20 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Launched Oct 2026 with its own models; staying power not yet visible.",
+  "distance_sources": [
+   {
+    "label": "Hark: Introducing Hark Pro (Oct 2026)",
+    "url": "https://hark.com/articles/introducing-hark-pro"
+   },
+   {
+    "label": "TechCrunch: Hark releases an AI personal assistant (Oct 2026)",
+    "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"
+   }
+  ]
  },
  {
   "name": "Instinct",
@@ -4083,7 +4756,11 @@
     "label": "TechCrunch, Sep 2026",
     "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Legora",
@@ -4115,7 +4792,20 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Firm-wide rollouts and costly switching build stickiness; runs on others' models.",
+  "distance_sources": [
+   {
+    "label": "Dealroom: Legora doubles to $200M ARR (Sep 2026)",
+    "url": "https://dealroom.co/news/155480-legora-doubles-to-200m-arr-in-six-months/"
+   },
+   {
+    "label": "Bytevyte: Legora valuation, switching costs, acquisitions (Sep 2026)",
+    "url": "https://bytevyte.com/legora-valuation-nears-8-5b-as-legal-ai-startup-seeks-300m/"
+   }
+  ]
  },
  {
   "name": "n8n",
@@ -4147,7 +4837,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Eve",
@@ -4179,7 +4873,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Paraform",
@@ -4211,7 +4909,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Hex",
@@ -4243,7 +4945,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Gumloop",
@@ -4275,7 +4981,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Metabase",
@@ -4312,7 +5022,11 @@
     "label": "Metabase blog, Aug 2026",
     "url": "https://www.metabase.com/blog/vulnerability-what-happened"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Suno",
@@ -4353,7 +5067,11 @@
     "label": "The Next Web, Sep 2026",
     "url": "https://thenextweb.com/news/universal-sony-second-lawsuit-suno-60202-recordings"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Fish Audio",
@@ -4398,7 +5116,11 @@
     "label": "BBC News, Jun 2026",
     "url": "https://www.bbc.co.uk/news/articles/c7v9py713g4o"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Duetti",
@@ -4430,7 +5152,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Venn",
@@ -4462,7 +5188,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Shinkei",
@@ -4494,7 +5224,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Planhat",
@@ -4526,7 +5260,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Extenteam",
@@ -4567,7 +5305,11 @@
     "label": "Glassdoor reviews",
     "url": "https://www.glassdoor.com/Reviews/Extenteam-Reviews-E5350965.htm"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Crux",
@@ -4599,7 +5341,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Narmi",
@@ -4631,7 +5377,11 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "red_flags_sources": []
+  "red_flags_sources": [],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Grow Therapy",
@@ -4668,7 +5418,11 @@
     "label": "LegalClarity, Jun 2026",
     "url": "https://legalclarity.org/grow-therapy-lawsuit-billing-misclassification-and-privacy/"
    }
-  ]
+  ],
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Flowhub",
@@ -4721,7 +5475,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Flowhub-Reviews-E1000410.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Dutchie",
@@ -4774,7 +5532,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Dutchie-Reviews-E3036285.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Lattice",
@@ -4835,7 +5597,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Lattice-Reviews-E1654146.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Rippling",
@@ -4867,7 +5633,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Rippling-Reviews-E2521509.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Común",
@@ -4912,7 +5682,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Comun-Reviews-E9612286.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Gusto",
@@ -4961,7 +5735,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Gusto-Reviews-E1069704.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Jerry",
@@ -5002,7 +5780,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Jerry-Reviews-E3856415.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Overstory",
@@ -5034,7 +5816,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Overstory-Reviews-E5896774.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Baseten",
@@ -5066,7 +5852,20 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Baseten-Reviews-E6565642.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Explosive growth on rented GPUs; margins undisclosed and hyperscalers sell the same.",
+  "distance_sources": [
+   {
+    "label": "Baseten blog: Series F (Jun 2026)",
+    "url": "http://baseten.co/blog/announcing-our-series-f"
+   },
+   {
+    "label": "AgentSciX: Baseten gross margin undisclosed (Jul 2026)",
+    "url": "https://agentscix.com/blog/ai-revenue/baseten-13b-inference-gross-margin-undisclosed"
+   }
+  ]
  },
  {
   "name": "Sanas",
@@ -5115,7 +5914,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Sanas-CA-Reviews-E7773306.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "PolyAI",
@@ -5147,7 +5950,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/PolyAI-Reviews-E2360836.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Arketa",
@@ -5179,7 +5986,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Arketa-Reviews-E7728139.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Surge AI",
@@ -5224,7 +6035,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Surge-AI-Reviews-E10550503.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Doppel",
@@ -5269,7 +6084,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Doppel-Reviews-E10338242.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Monk",
@@ -5301,7 +6120,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Matia",
@@ -5333,7 +6156,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Matia-Reviews-E10296663.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Augment",
@@ -5374,7 +6201,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Augment-Reviews-E10490414.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Triple Whale",
@@ -5406,7 +6237,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Triple-Whale-Reviews-E7015366.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Pomelo Care",
@@ -5438,7 +6273,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Pomelo-Care-Reviews-E9429297.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Leena AI",
@@ -5483,7 +6322,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Leena-AI-Reviews-E2286508.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Mercor",
@@ -5528,7 +6371,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Mercor-Reviews-E9031572.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Flex (rent)",
@@ -5560,7 +6407,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Flexible-Finance-Reviews-E4355206.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Flex (business)",
@@ -5592,7 +6443,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Whatnot",
@@ -5633,7 +6488,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Whatnot-Reviews-E5065998.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Split Pay",
@@ -5674,7 +6533,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Leona Health",
@@ -5706,7 +6569,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Outer Spaces",
@@ -5738,7 +6605,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Alta",
@@ -5770,7 +6641,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Rosebud",
@@ -5802,7 +6677,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Norm Ai",
@@ -5834,7 +6713,11 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Norm-Ai-Reviews-E10750306.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Numeral",
@@ -5866,7 +6749,16 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Numeral-Reviews-E10923424.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data + Lock-in",
+  "distance": "Half",
+  "distance_why": "Every filing sharpens its tax engine, but retention and pricing aren't public yet.",
+  "distance_sources": [
+   {
+    "label": "Salesforce Ventures: Numeral Series C (Sep 2026)",
+    "url": "https://salesforceventures.com/perspectives/automating-the-sales-tax-back-office/"
+   }
+  ]
  },
  {
   "name": "ResolveAI",
@@ -5898,7 +6790,20 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Strong enterprise wins, but observability incumbents now ship the same agent.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Resolve AI $1.5B (Apr 2026)",
+    "url": "https://www.prnewswire.com/news-releases/resolve-ai-announces-series-a-extension-at-a-1-5b-valuation-and-launches-resolve-ai-labs-to-advance-ai-systems-for-complex-production-environments-302743888.html"
+   },
+   {
+    "label": "Datadog Q4 2025 results (Bits AI SRE)",
+    "url": "https://www.globenewswire.com/news-release/2026/02/10/3235171/0/en/datadog-announces-fourth-quarter-and-fiscal-year-2025-financial-results.html"
+   }
+  ]
  },
  {
   "name": "Latent",
@@ -5930,7 +6835,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Starcloud",
@@ -5975,7 +6884,16 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "One test satellite so far; the plan rests on unbuilt chips and scarce rockets.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Starcloud $250M (Aug 2026)",
+    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
+   }
+  ]
  },
  {
   "name": "Prime Intellect",
@@ -6007,7 +6925,20 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Scale + Data",
+  "distance": "Half",
+  "distance_why": "Doubled prices and multi-product use, but growth hinges on buying scarce GPUs.",
+  "distance_sources": [
+   {
+    "label": "Prime Intellect blog: $130M Series A (Jul 2026)",
+    "url": "http://primeintellect.ai/blog/series-a"
+   },
+   {
+    "label": "TBPN Digest: interview with CEO Vincent Weisser (Jul 2026)",
+    "url": "https://www.tbpndigest.com/story/2026-07-08/prime-intellect-raises-130m-at-1b-valuation-to-build-open-sovereign-ai-stack"
+   }
+  ]
  },
  {
   "name": "Strala",
@@ -6039,7 +6970,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Emerald AI",
@@ -6080,7 +7015,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Trajectory",
@@ -6112,7 +7051,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "FurtherAI",
@@ -6144,7 +7087,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Periodic Labs",
@@ -6176,7 +7123,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "XDOF",
@@ -6208,7 +7159,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Salient",
@@ -6240,7 +7195,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Aaru",
@@ -6285,7 +7244,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "DualEntry",
@@ -6326,7 +7289,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Scope AI",
@@ -6358,7 +7325,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Composio",
@@ -6403,7 +7374,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Julius AI",
@@ -6440,7 +7415,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Brain Co.",
@@ -6481,7 +7460,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "7AI",
@@ -6513,7 +7496,20 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Millions of investigations sharpen its agents, but security incumbents ship lookalikes.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: 7AI 7M investigations (May 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/05/26/3301008/0/en/After-7-Million-Investigations-in-Production-7AI-Widens-the-Gap-in-Agentic-Security-with-PLAID-ELITE-and-100-New-AI-Jobs-in-Boston.html"
+   },
+   {
+    "label": "Datadog Q1 2026 results (Bits AI Security Analyst)",
+    "url": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-announces-first-quarter-2026-financial-results"
+   }
+  ]
  },
  {
   "name": "1001 AI",
@@ -6545,7 +7541,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Fleet AI",
@@ -6582,7 +7582,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "General Intuition",
@@ -6614,7 +7618,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Keenable.ai",
@@ -6646,7 +7654,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Wafer",
@@ -6678,7 +7690,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Juna AI",
@@ -6710,7 +7726,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Safe Superintelligence",
@@ -6747,7 +7767,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Thinking Machines Lab",
@@ -6788,7 +7812,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Applied Intuition",
@@ -6820,7 +7848,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Modal",
@@ -6852,7 +7884,20 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "Own runtime and a big second product; still exposed to rented GPU supply.",
+  "distance_sources": [
+   {
+    "label": "Modal blog: Series C, $300M+ annualized revenue (May 2026)",
+    "url": "http://modal.com/blog/modal-series-c"
+   },
+   {
+    "label": "Tech Funding News: Modal $15B talks, margin risk (Sep 2026)",
+    "url": "https://techfundingnews.com/modal-labs-funding-talks-15b-valuation-ai-inference/"
+   }
+  ]
  },
  {
   "name": "Cohere",
@@ -6884,7 +7929,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Glean",
@@ -6916,7 +7965,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "LangChain",
@@ -6948,7 +8001,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Cognition",
@@ -6980,7 +8037,20 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Huge revenue, but lab-built coding agents are close substitutes and switching is easy.",
+  "distance_sources": [
+   {
+    "label": "Cognition blog: $1B run rate (Sep 2026)",
+    "url": "https://cognition.com/blog/1b-run-rate"
+   },
+   {
+    "label": "Value Add VC: Cognition $48B valuation analysis (Sep 2026)",
+    "url": "https://valueaddvc.com/pulse/cognition-devin-48b-valuation-2026"
+   }
+  ]
  },
  {
   "name": "Scale AI",
@@ -7025,7 +8095,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Warp",
@@ -7057,7 +8131,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Hebbia",
@@ -7089,7 +8167,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Mistral AI",
@@ -7121,7 +8203,20 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in + Scale",
+  "distance": "Half",
+  "distance_why": "Sovereign buyers sign five-year deals, but the compute build needs far more money.",
+  "distance_sources": [
+   {
+    "label": "CNBC: Mistral EUR 3B round led by Samsung (Sep 2026)",
+    "url": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html"
+   },
+   {
+    "label": "The Inference: Mistral compute funding structure (Sep 2026)",
+    "url": "https://theinference.org/article/mistral-s-3-billion-week-small-cheques-for-software-a-blank-one-for-compute"
+   }
+  ]
  },
  {
   "name": "Nuro",
@@ -7158,7 +8253,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Factory",
@@ -7190,7 +8289,16 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Hot enterprise adoption, but coding agents are crowded and run on rented models.",
+  "distance_sources": [
+   {
+    "label": "Factory: $150M Series C (Apr 2026)",
+    "url": "https://factory.ai/news/series-c"
+   }
+  ]
  },
  {
   "name": "Vannevar Labs",
@@ -7231,7 +8339,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Abridge",
@@ -7263,7 +8375,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Reevo",
@@ -7295,7 +8411,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Chalk",
@@ -7327,7 +8447,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Nominal",
@@ -7359,7 +8483,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Cartesia",
@@ -7391,7 +8519,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Pinecone",
@@ -7432,7 +8564,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Merge",
@@ -7464,7 +8600,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Eventual",
@@ -7496,7 +8636,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Faire",
@@ -7537,7 +8681,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Bedrock Robotics",
@@ -7569,7 +8717,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Perplexity",
@@ -7606,7 +8758,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Clay",
@@ -7638,7 +8794,20 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in + Data",
+  "distance": "Half",
+  "distance_why": "Customers expand fast and never leave; its original data edge is commoditizing.",
+  "distance_sources": [
+   {
+    "label": "Clay blog: $100M ARR, NRR and churn (Dec 2025)",
+    "url": "https://www.clay.com/blog/100m-arr"
+   },
+   {
+    "label": "State of Brand: Clay pricing cut and GTM data commoditization (Jun 2026)",
+    "url": "https://www.thestateofbrand.com/news/clay-unify-gtm-pricing-bottoms-out"
+   }
+  ]
  },
  {
   "name": "Runway",
@@ -7670,7 +8839,20 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data + Scale",
+  "distance": "Half",
+  "distance_why": "Customers triple spend, but frontier video models converge and compute keeps burning cash.",
+  "distance_sources": [
+   {
+    "label": "Runway: The Next Phase of Enterprise Video Generation (Aug 2026)",
+    "url": "https://runway.com/news/company-news/the-next-phase-of-enterprise-video-generation"
+   },
+   {
+    "label": "Crunchbase News: Runway raises $315M Series E (Feb 2026)",
+    "url": "https://news.crunchbase.com/venture/gen-ai-video-startup-unicorn-runway-seriese-raise/"
+   }
+  ]
  },
  {
   "name": "HeyGen",
@@ -7702,7 +8884,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Profound",
@@ -7734,7 +8920,20 @@
   "status": "new",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Big prompt dataset, but it lives inside AI platforms it doesn't control.",
+  "distance_sources": [
+   {
+    "label": "Profound newsroom: $180M Series D (Sep 2026)",
+    "url": "https://www.tryprofound.com/newsroom/profound-raises-usd180m-series-d-at-usd1-8b-valuation-to-build-the-ai-platform-for-marketing-teams"
+   },
+   {
+    "label": "Search Engine Watch: Profound moves beyond AI search tracking (Sep 2026)",
+    "url": "https://searchenginewatch.com/profound-raises-180-million-to-move-beyond-ai-search-tracking-reaches-1-8b-valuation/"
+   }
+  ]
  },
  {
   "name": "Confido",
@@ -7766,7 +8965,16 @@
   "status": "new",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in + Data",
+  "distance": "Half",
+  "distance_why": "Becoming the CPG back-office system of record; no retention figures published yet.",
+  "distance_sources": [
+   {
+    "label": "Confido: $55M Series B announcement (Sep 2026)",
+    "url": "https://www.confidotech.com/blogs/confido-raises-55m-series-b-to-scale-the-ai-operating-system-for-cpg-brands"
+   }
+  ]
  },
  {
   "name": "Miter",
@@ -7798,7 +9006,11 @@
   "status": "new",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Causa Prima",
@@ -7830,7 +9042,11 @@
   "status": "new",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Heidi Health",
@@ -7875,7 +9091,24 @@
   "status": "new",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Deep health-system rollouts, but scribes are commoditizing and agents lean on rivals' software.",
+  "distance_sources": [
+   {
+    "label": "Heidi: US$340M Series C announcement (Sep 2026)",
+    "url": "https://www.heidihealth.com/en-us/blog/heidi-secures-us340m-to-scale-agents-across-health-systems-globally"
+   },
+   {
+    "label": "Health Services Daily: Heidi II and PMS user agreements (Oct 2026)",
+    "url": "https://www.healthservicesdaily.com.au/heidi-ii-is-almost-certainly-breaching-pms-user-agreements-deliberately/53594"
+   },
+   {
+    "label": "Sacra: Freed vs Heidi Health (Sep 2026)",
+    "url": "https://sacra.com/research/freed-vs-heidi-health/"
+   }
+  ]
  },
  {
   "name": "Runlayer",
@@ -7916,7 +9149,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Serval",
@@ -7948,7 +9185,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Traversal",
@@ -7980,7 +9221,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Paid",
@@ -8012,7 +9257,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Model ML",
@@ -8044,7 +9293,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Parallel Web Systems",
@@ -8076,7 +9329,16 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Own web index is a real edge, but labs can bundle agent search themselves.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire via Yahoo Finance: Parallel raises at $2B (Apr 2026)",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/parallel-raises-2-billion-valuation-110000090.html"
+   }
+  ]
  },
  {
   "name": "Sola",
@@ -8108,7 +9370,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Crosby",
@@ -8140,7 +9406,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Avoca",
@@ -8172,7 +9442,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Dust",
@@ -8204,7 +9478,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Cogent Security",
@@ -8236,7 +9514,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Emergent",
@@ -8268,7 +9550,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Geordie AI",
@@ -8300,7 +9586,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Anterior",
@@ -8332,7 +9622,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Juicebox",
@@ -8364,7 +9658,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Gradient Labs",
@@ -8396,7 +9694,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Accordance",
@@ -8428,7 +9730,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Day AI",
@@ -8460,7 +9766,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Claim Health",
@@ -8492,7 +9802,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "FLORA",
@@ -8524,7 +9838,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Stacks",
@@ -8556,7 +9874,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Medra",
@@ -8588,7 +9910,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Phia",
@@ -8629,7 +9955,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Hadrius",
@@ -8661,7 +9991,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Pace",
@@ -8693,7 +10027,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Simile",
@@ -8725,7 +10063,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Higgsfield AI",
@@ -8762,7 +10104,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Translucent",
@@ -8794,7 +10140,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Fulcrum",
@@ -8826,7 +10176,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Raindrop",
@@ -8858,7 +10212,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Giga",
@@ -8890,7 +10248,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Sandstone",
@@ -8922,7 +10284,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Jack & Jill",
@@ -8954,7 +10320,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Greenboard",
@@ -8986,7 +10356,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Ricursive Intelligence",
@@ -9018,7 +10392,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Fireworks AI",
@@ -9050,7 +10428,20 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Scale + Lock-in",
+  "distance": "10K",
+  "distance_why": "Huge scale and sticky custom models, but rivals sell the same inference.",
+  "distance_sources": [
+   {
+    "label": "Fireworks: Series D and $1B ARR (Jul 2026)",
+    "url": "https://fireworks.ai/blog/series-d-announcement"
+   },
+   {
+    "label": "Signals Inbox: Is Fireworks AI worth $17.5B? (Jul 2026)",
+    "url": "https://signalsinbox.com/blogs/news/ai-infrastructure-fireworks-ai-overvalued"
+   }
+  ]
  },
  {
   "name": "Supabase",
@@ -9082,7 +10473,20 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in + Network",
+  "distance": "Half",
+  "distance_why": "Default backend for AI-built apps, but growth runs through other companies' coding tools.",
+  "distance_sources": [
+   {
+    "label": "Supabase: Series F (Jun 2026)",
+    "url": "https://supabase.com/blog/series-f"
+   },
+   {
+    "label": "Sacra: Supabase at $170M/year (Jun 2026)",
+    "url": "https://sacra.com/research/supabase-170m-year-growing-221-yoy/"
+   }
+  ]
  },
  {
   "name": "Wispr Flow",
@@ -9114,7 +10518,20 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Users stick and it built its own speech model, but OS makers ship dictation free.",
+  "distance_sources": [
+   {
+    "label": "Wispr: Our Series B (Aug 2026)",
+    "url": "https://wisprflow.ai/post/series-b"
+   },
+   {
+    "label": "Wikipedia: Wispr Flow (retention, platforms, rivals)",
+    "url": "https://en.wikipedia.org/wiki/Wispr_Flow"
+   }
+  ]
  },
  {
   "name": "Lovable",
@@ -9146,7 +10563,20 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Record revenue ramp, but retention and margins are undisclosed and models are rented.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Lovable crosses $600M run-rate (Sep 2026)",
+    "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/"
+   },
+   {
+    "label": "AgentSciX: Lovable's undisclosed NRR and margins (Jul 2026)",
+    "url": "https://agentscix.com/blog/ai-revenue/lovable-500m-run-rate-nrr-durability-vibe-coding"
+   }
+  ]
  },
  {
   "name": "Together AI",
@@ -9178,7 +10608,20 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "$1.15B in bookings, but inference is crowded and growth needs ever more capital.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Together AI $800M Series C (Jul 2026)",
+    "url": "https://www.businesswire.com/news/home/20260701243402/en/Together-AI-Raises-%24800-Million-at-%248.3-Billion-Valuation-to-Make-Frontier-AI-Accessible-to-All"
+   },
+   {
+    "label": "Signals Inbox: Fireworks vs Together comparison (Jul 2026)",
+    "url": "https://signalsinbox.com/blogs/news/ai-infrastructure-fireworks-ai-overvalued"
+   }
+  ]
  },
  {
   "name": "Crusoe",
@@ -9210,7 +10653,20 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "$140B+ signed backlog, but most capacity is still unbuilt and capital-hungry.",
+  "distance_sources": [
+   {
+    "label": "Crusoe: $3.9B Series F (Sep 2026)",
+    "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding"
+   },
+   {
+    "label": "The Inference: Crusoe sold six gigawatts and built one (Sep 2026)",
+    "url": "https://theinference.org/article/crusoe-sold-six-gigawatts-and-built-one"
+   }
+  ]
  },
  {
   "name": "fal",
@@ -9242,7 +10698,16 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Scale + Network",
+  "distance": "10K",
+  "distance_why": "Fast, broad model marketplace, but it resells others' models on rented compute.",
+  "distance_sources": [
+   {
+    "label": "Sacra: Fal.ai revenue, valuation & funding",
+    "url": "https://sacra.com/c/fal-ai/"
+   }
+  ]
  },
  {
   "name": "Replit",
@@ -9274,7 +10739,20 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Apps built and hosted on Replit tend to stay, but it rents rivals' models.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Amjad Masad at StrictlyVC (May 2026)",
+    "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/"
+   },
+   {
+    "label": "Sacra: Replit passes $500M/year (May 2026)",
+    "url": "https://sacra.com/research/replit-passes-500m-year/"
+   }
+  ]
  },
  {
   "name": "Anthropic",
@@ -9311,7 +10789,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Vercel",
@@ -9343,7 +10825,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Tailscale",
@@ -9375,7 +10861,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Encord",
@@ -9407,7 +10897,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "OpenAI",
@@ -9444,7 +10938,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "depthfirst",
@@ -9476,7 +10974,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Parasail",
@@ -9508,7 +11010,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Vultr",
@@ -9540,7 +11046,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Antithesis",
@@ -9572,7 +11082,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Featherless AI",
@@ -9604,7 +11118,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "DeepInfra",
@@ -9636,7 +11154,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Apollo.io",
@@ -9668,7 +11190,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Resend",
@@ -9700,7 +11226,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "SambaNova",
@@ -9741,7 +11271,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Vast.ai",
@@ -9773,7 +11307,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "1mind",
@@ -9805,7 +11343,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Superhuman (formerly Grammarly)",
@@ -9842,7 +11384,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Appfire",
@@ -9879,7 +11425,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Netlify",
@@ -9916,7 +11466,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Novita AI",
@@ -9948,7 +11502,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Runware",
@@ -9980,7 +11538,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Chroma",
@@ -10012,7 +11574,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Streamline AI",
@@ -10044,7 +11610,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "DataForSEO",
@@ -10076,7 +11646,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "PheedLoop",
@@ -10108,7 +11682,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "DataZapp",
@@ -10140,7 +11718,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Canva",
@@ -10181,7 +11763,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Lightdash",
@@ -10213,7 +11799,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Marpipe",
@@ -10245,7 +11835,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Howdy",
@@ -10277,7 +11871,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Sitebulb",
@@ -10314,7 +11912,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "Monte Carlo",
@@ -10346,7 +11948,11 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  },
  {
   "name": "PlanetScale",
@@ -10407,6 +12013,10 @@
   "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-PlanetScale-EI_IE2148572.11,22.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": []
  }
 ]
