@@ -19058,5 +19058,59 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Gigs",
+  "slug": "gigs",
+  "site": "https://gigs.com",
+  "careers_url": "https://jobs.ashbyhq.com/gigs",
+  "what_they_do": "Platform that lets fintechs and tech brands launch their own phone and eSIM plans",
+  "problem": "Becoming a mobile provider means carrier deals, billing, compliance and support that tech brands can't build alone",
+  "industry": "Telecom-as-a-service / embedded connectivity",
+  "stage": "Series B",
+  "last_round": "$73M",
+  "last_round_date": "Dec 2024",
+  "lead_investors": "Ribbit Capital",
+  "total_open_roles": "59",
+  "ops_roles": "Head of Operations; Chief of Staff; Support Strategy & Operations; Growth Strategy and Ops; Implementation Manager, US; Connectivity Operations",
+  "hiring_trend": "Headcount +52-68% YoY (~290-310, Crustdata/LinkedIn); open roles up sharply vs last year",
+  "headcount": "~300",
+  "latest_news": "Santander signs global deal to launch Gigs-powered eSIM in its banking app",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://gigs.com/press/santander-partners-with-gigs",
+  "traction": "Headcount ~28 to ~300 since 2021; powers Revolut, Klarna, Cash App, Nubank, Santander",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "The leading embedded-MVNO platform, with Revolut, Klarna, Cash App and Santander live and sticky billing and carrier plumbing; it still runs on carrier wholesale deals (AT&T, Vodafone), so not Marathon.",
+  "distance_sources": [
+   {
+    "label": "Gigs press: Cash App Mobile, Jun 2026",
+    "url": "https://gigs.com/press/cash-app-launches-cash-app-mobile"
+   },
+   {
+    "label": "Gigs press: AT&T partnership, Sep 2025",
+    "url": "https://gigs.com/press/gigs-and-at-t-to-power-the-convergence-of-tech-and-telecom"
+   },
+   {
+    "label": "Crustdata headcount, Sep 2026",
+    "url": "https://research.crustdata.com/company/gigs"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Amsterdam",
+   "Berlin"
+  ]
  }
 ]
