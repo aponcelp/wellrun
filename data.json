@@ -18384,5 +18384,213 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Albert Invent",
+  "slug": "albert-invent",
+  "site": "https://www.albertinvent.com",
+  "careers_url": "https://ats.rippling.com/albert-invent-corp/jobs",
+  "what_they_do": "Chemistry-native AI operating system (ELN, LIMS, AI) for chemical and materials R&D teams",
+  "problem": "Chemical R&D runs on spreadsheets and scattered lab data, so scientists repeat work and launch products slowly",
+  "industry": "Vertical AI / chemistry and materials R&D",
+  "stage": "Series B",
+  "last_round": "$55M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "TCV",
+  "total_open_roles": "24",
+  "ops_roles": "Senior Engagement Manager; Scientific Solutions Architect",
+  "hiring_trend": "Headcount +11–22% YoY (~190, est.); 24 open postings",
+  "headcount": "~190",
+  "latest_news": "Raised $55M Series B led by TCV; launched chemistry-native model Valence",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.financialcontent.com/article/bizwire-2026-10-13-albert-raises-55m-series-b-to-scale-the-first-chemistry-native-ai",
+  "traction": "6x more scientists on platform YoY across 44 countries; BASF, Henkel, Kenvue, AkzoNobel",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "4.2",
+  "glassdoor_reviews": "24",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Albert-Invent-Reviews-E9254946.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Leading AI-native chemistry R&D platform, embedded as the lab system of record at BASF, Henkel, Chemours and Kenvue; niche rivals and Dotmatics-type incumbents remain.",
+  "distance_sources": [
+   {
+    "label": "Business Wire via FinancialContent, Oct 2026 (Series B, customers, 6x users)",
+    "url": "https://www.financialcontent.com/article/bizwire-2026-10-13-albert-raises-55m-series-b-to-scale-the-first-chemistry-native-ai"
+   },
+   {
+    "label": "Tracxn profile (ranked 1st of ~25 active competitors)",
+    "url": "https://tracxn.com/d/companies/albert-invent/__YmzLFBW75fdPPmrvny8zyHsqNXg2yoL_COSoqoSO2ac"
+   },
+   {
+    "label": "AkzoNobel partnership, Jul 2026",
+    "url": "https://www.albertinvent.com/press-release-post/akzonobel-accelerates-r-d-innovation-with-albert-invent"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Sesame",
+  "slug": "sesame",
+  "site": "https://www.sesame.com",
+  "careers_url": "https://jobs.ashbyhq.com/sesame",
+  "what_they_do": "Lifelike voice AI agents in a consumer app, plus AI eyewear coming 2027",
+  "problem": "Talking to AI assistants feels flat and robotic, and the assistant lives behind a phone screen",
+  "industry": "Voice AI / consumer hardware",
+  "stage": "Series B",
+  "last_round": "$250M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": "Sequoia, Spark Capital (Series A: a16z)",
+  "total_open_roles": "25",
+  "ops_roles": "Technical Program Manager, Electrical; Technical Program Manager, Product Design; Fabrication Shop Manager; NPI Engineer (Hardware Operations)",
+  "hiring_trend": "Open roles 21 → 25 since Oct 2025; staff ~80-135 (est.), growing",
+  "headcount": "~80-135 (est.)",
+  "latest_news": "Announced Made-in-Japan AI glasses for 2027 and a major agent app update",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.lowpass.cc/p/sesame-plans-to-launch-its-own-ai-glasses-in-2027",
+  "traction": "Pre-revenue; 1M+ demo users, 5M+ minutes early 2025; iOS preview in 39 countries",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes (strong consumer brand; note hardware + speech-model R&D, not business-facing)",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Pre-revenue with app in preview and glasses not until 2027; Meta and OpenAI ship rival voice assistants and AI glasses.",
+  "distance_sources": [
+   {
+    "label": "Lowpass, Oct 2026",
+    "url": "https://www.lowpass.cc/p/sesame-plans-to-launch-its-own-ai-glasses-in-2027"
+   },
+   {
+    "label": "Road to VR, Oct 2025",
+    "url": "https://roadtovr.com/former-oculus-ai-smart-glasses-startup-sesame-raises-250m/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Bellevue",
+   "New York"
+  ]
+ },
+ {
+  "name": "General Medicine",
+  "slug": "general-medicine",
+  "site": "https://generalmedicine.co",
+  "careers_url": "https://jobs.ashbyhq.com/general-medicine",
+  "what_they_do": "Online healthcare store selling visits, labs and prescriptions with upfront insurance and cash prices",
+  "problem": "Patients can't easily find, price or book the care they need without navigating specialties and insurance",
+  "industry": "Consumer health / care marketplace",
+  "stage": "Series B",
+  "last_round": "$120M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Andreessen Horowitz (a16z)",
+  "total_open_roles": "16",
+  "ops_roles": "Care Coordinator (Part Time); Clinical Recruiter, Physicians; Manager, NP Licensure & Collaborative Practice; Revenue Cycle Management, Director",
+  "hiring_trend": "Headcount +24% QoQ, 96 → 119 (Caplight, Aug 2026); job postings up vs 2025",
+  "headcount": "~120–140",
+  "latest_news": "Raised $120M Series B led by a16z; PillPack cofounder TJ Parker becomes CEO",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://generalmedicine.co/resources/general-medicine-raises-120-million-to-build-the-healthcare-store",
+  "traction": "Hundreds of thousands of customers since May 2025 launch; 2,900+ catalog items; NPS 80",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Broad catalog and fast signups, but it is a newcomer chasing Amazon One Medical, Hims and Ro in crowded consumer care.",
+  "distance_sources": [
+   {
+    "label": "General Medicine Series B release (Oct 2026)",
+    "url": "https://generalmedicine.co/resources/general-medicine-raises-120-million-to-build-the-healthcare-store"
+   },
+   {
+    "label": "CNBC: General Medicine will compete with Amazon health (Jun 2025)",
+    "url": "https://www.cnbc.com/2025/06/13/amazon-reorganizes-its-health-care-business-after-executive-departures.html"
+   },
+   {
+    "label": "Fierce Healthcare: $120M Series B (Oct 2026)",
+    "url": "https://www.fiercehealthcare.com/health-tech/general-medicine-banks-120m-backed-a16z-eli-lilly-and-mercy-health"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Boston",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Krea",
+  "slug": "krea",
+  "site": "https://www.krea.ai",
+  "careers_url": "https://jobs.ashbyhq.com/krea",
+  "what_they_do": "AI creative suite for generating and editing images, video and 3D, plus its own models",
+  "problem": "Creatives juggle many AI models and tools and lack fine control over what they generate",
+  "industry": "Generative AI / creative tools",
+  "stage": "Series B",
+  "last_round": "$47M",
+  "last_round_date": "Apr 2025",
+  "lead_investors": "Bain Capital Ventures (B); Andreessen Horowitz (A)",
+  "total_open_roles": "12",
+  "ops_roles": "Founding Customer Success Manager",
+  "hiring_trend": "Team ~8 (Apr 2025) to 37 (May 2026); 9 of 12 open roles posted Aug-Sep 2026",
+  "headcount": "~40 (est.)",
+  "latest_news": "Released its in-house Krea 2 image model as open weights on Hugging Face",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://saassentinel.com/2026/06/24/krea-releases-12-billion-parameter-image-model-as-open-weights-with-enterprise-licensing-terms/",
+  "traction": "20M+ users and ~$8M ARR (Apr 2025, 20x in 14 mo); 30M users claimed 2026",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "Multi-model creative hub with ~$8M ARR, far behind Midjourney, Adobe and Higgsfield, while Google and OpenAI ship image tools direct.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch, Apr 2025 (funding, $500M valuation)",
+    "url": "https://techcrunch.com/2025/04/07/kreas-founders-snubbed-postgrad-grants-from-the-king-of-spain-to-build-their-ai-startup-now-its-valued-at-500m"
+   },
+   {
+    "label": "Systemaic teardown, Jul 2026 (~$8M ARR est., traffic -8.8%/3 mo, competitors)",
+    "url": "https://www.systemaic.com/teardowns/krea"
+   },
+   {
+    "label": "Fast Company, May 2026 (37 staff, $20M spent on own model)",
+    "url": "https://www.fastcompany.com/91539932/welcome-to-the-age-of-the-underdog-ai-model"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote"
+  ]
  }
 ]
