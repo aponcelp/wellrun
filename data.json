@@ -17607,5 +17607,300 @@
    "Miami",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Rox",
+  "slug": "rox",
+  "site": "https://www.rox.com",
+  "careers_url": "https://jobs.ashbyhq.com/Rox-Data-Corp",
+  "what_they_do": "AI revenue agents that prospect, run outreach, manage deals and renewals on your CRM data",
+  "problem": "Enterprise sellers lose hours to research, CRM updates and juggling a dozen sales tools instead of selling",
+  "industry": "Sales tech / AI revenue agents",
+  "stage": "Series B",
+  "last_round": "Undisclosed ($1.2B valuation)",
+  "last_round_date": "Mar 2026",
+  "lead_investors": "General Catalyst",
+  "total_open_roles": "35",
+  "ops_roles": "BizOps, Founder's Office; Customer Success Manager; Revenue Enablement Lead; Forward Deployed Engineer (FDE)",
+  "hiring_trend": "Headcount ~176, +309% YoY (LinkedIn est.); 35 open roles, 12 posted since Oct 1",
+  "headcount": "~176",
+  "latest_news": "Opened its full revenue agent platform to any team with self-serve Rox Teams",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.thesignal.club/p/rox",
+  "traction": "ARR ~$8M at end of 2025 to $10M+ by Aug 2026; customers include Ramp, MongoDB",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Fast-growing, best-funded AI-native revenue agent player, but at ~$10M ARR it is a small follower in sales software where Salesforce (Agentforce) and HubSpot ship agents directly to the same enterprise buyers and Clay, Apollo and many AI SDRs crowd the space; edge is a warehouse-native data layer that learns per account, not yet proven at scale, and a ~150x ARR valuation adds burn risk",
+  "distance_sources": [
+   {
+    "label": "TechCrunch, Mar 2026: $1.2B valuation, ~$8M projected 2025 ARR",
+    "url": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/"
+   },
+   {
+    "label": "ARR Club, Aug 2026: ARR passes $10M",
+    "url": "https://www.arr.club/rox/rox-arr-surpasses-10m-in-under-a-year-challenging-salesforce-in-crm-innovation"
+   },
+   {
+    "label": "The Signal (sponsored deep dive), Aug 2026: warehouse-native data layer, self-serve launch",
+    "url": "https://www.thesignal.club/p/rox"
+   },
+   {
+    "label": "Ry Walker Research: 150x ARR multiple; Agentforce distribution risk",
+    "url": "https://rywalker.com/research/rox"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Austin",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Artisan",
+  "slug": "artisan",
+  "site": "https://www.artisan.co",
+  "careers_url": "https://jobs.ashbyhq.com/artisan",
+  "what_they_do": "AI BDR 'Ava' that researches leads, writes outreach and books sales meetings",
+  "problem": "Sales teams spend heavily on human SDRs and a stack of tools to fill pipeline with outbound",
+  "industry": "Sales tech / AI SDR",
+  "stage": "Series A",
+  "last_round": "$25M",
+  "last_round_date": "Apr 2025",
+  "lead_investors": "Glade Brook Capital",
+  "total_open_roles": "4",
+  "ops_roles": "Forward Deployed GTM Architect",
+  "hiring_trend": "Cooling: 4 open roles vs 22 planned in Apr 2025; ~40-50 staff (CEO), reported ~24% layoff late 2025",
+  "headcount": "~50",
+  "latest_news": "Retired its 'Stop Hiring Humans' slogan and is hiring its first human BDR",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://finance.yahoo.com/technology/ai/articles/artisan-told-companies-stop-hiring-234204345.html",
+  "traction": "ARR ~$5M (Apr 2025) to ~$9-9.5M (2026); hundreds of customers",
+  "red_flags": "Reported ~24% layoff in late 2025 after the Series A, with headcount stuck around 40-50 vs plans for 100+; LinkedIn banned the company and staff profiles for ~2 weeks in Dec 2025 over scraped data and trademark use; CTO hired Apr 2025 left after ~6 months",
+  "red_flags_sources": [
+   {
+    "label": "The Quota AI Sales Report, May 2026: ~24% layoff late 2025, CTO departures, high churn",
+    "url": "https://aisalesreport.com/posts/why-teams-are-leaving-artisan"
+   },
+   {
+    "label": "TechCrunch, Apr 2026: CEO says 100+ hires to keep 40 people",
+    "url": "https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/"
+   },
+   {
+    "label": "TechCrunch, Jan 2026: LinkedIn banned Artisan, now back",
+    "url": "https://techcrunch.com/2026/01/07/yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back/"
+   },
+   {
+    "label": "The Org: CTO Ming Li at Anthropic since Sep 2025",
+    "url": "https://theorg.com/org/anthropic/org-chart/ming-li"
+   },
+   {
+    "label": "TechCrunch, Apr 2025: 35 staff, hiring 22, 'relatively high churn'",
+    "url": "https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/"
+   }
+  ],
+  "score": "0.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.4",
+  "glassdoor_reviews": "6",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Artisan-AI-EI_IE9318249.11,21.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "A follower in a crowded AI SDR market behind Apollo, Clay and many look-alike agents, with a thin outbound product that is easy to copy; heavy exposure to LinkedIn and mailbox-provider rules (LinkedIn briefly banned it in Dec 2025), self-admitted high customer churn, and a team that shrank after its Series A",
+  "distance_sources": [
+   {
+    "label": "TechCrunch, Jan 2026: LinkedIn ban",
+    "url": "https://techcrunch.com/2026/01/07/yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back/"
+   },
+   {
+    "label": "TechCrunch, Apr 2025: $5M ARR, relatively high churn",
+    "url": "https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/"
+   },
+   {
+    "label": "Y Combinator job post: $9M+ ARR, ~50 staff",
+    "url": "https://www.ycombinator.com/companies/artisan/jobs/Mkl8ipJ-growth"
+   },
+   {
+    "label": "The Quota, May 2026: churn, layoffs, rivals",
+    "url": "https://aisalesreport.com/posts/why-teams-are-leaving-artisan"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York"
+  ]
+ },
+ {
+  "name": "Alta AI",
+  "slug": "alta-ai",
+  "site": "https://www.altahq.com",
+  "careers_url": "https://careers.altahq.com",
+  "what_they_do": "AI agents on a shared 'Company Brain' that run prospecting, outbound, calling and inbound qualification",
+  "problem": "Revenue teams run a fragmented sales stack that stores data but doesn't act on it to book meetings",
+  "industry": "Sales tech / AI GTM agents",
+  "stage": "Series A",
+  "last_round": "$25M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "IN Venture (Sumitomo)",
+  "total_open_roles": "10",
+  "ops_roles": "GTM Ops/GTM Engineer; Go-to-Market Strategist (CSM); Go To Market Strategist (CSM) IL",
+  "hiring_trend": "Headcount 55 (Jul 2026) to ~67-73 (Sep 2026), +143% YoY (LinkedIn est.); plans ~80 by end of 2026",
+  "headcount": "~70",
+  "latest_news": "Raised $25M Series A led by Sumitomo's IN Venture after 800% revenue growth",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.calcalistech.com/ctechnews/article/byylhojqze",
+  "traction": "$15M new-revenue run rate, up 800% in under a year; 300+ customers incl. Snowflake, Deel",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Growing very fast and efficiently ($15M run rate, 300+ customers with ~70 staff), but it is one of many AI SDR/GTM-agent vendors (Rox, Artisan, 11x, Clay, Apollo) and sells into stacks where Salesforce and HubSpot ship their own agents to the same buyer; its 'Company Brain' learning edge and services-heavy model are not yet proven at scale",
+  "distance_sources": [
+   {
+    "label": "Calcalist/Ctech, Jul 2026: $15M run rate, 800% growth, 300+ customers, 55 staff",
+    "url": "https://www.calcalistech.com/ctechnews/article/byylhojqze"
+   },
+   {
+    "label": "PR Newswire, Jul 2026: Series A, Company Brain, customers",
+    "url": "https://www.prnewswire.com/news-releases/alta-raises-25m-to-redefine-the-go-to-market-architecture-for-revenue-teams-302820618.html"
+   },
+   {
+    "label": "Systemaic teardown, Jul 2026: traffic +70% in 3 months",
+    "url": "https://www.systemaic.com/teardowns/alta"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Enterpret",
+  "slug": "enterpret",
+  "site": "https://www.enterpret.com",
+  "careers_url": "https://job-boards.greenhouse.io/enterpret",
+  "what_they_do": "AI customer-intelligence platform that unifies and analyzes feedback from 50+ sources",
+  "problem": "Product and CX teams can't see what customers want because feedback is scattered across tickets, calls and reviews",
+  "industry": "Customer intelligence / feedback analytics",
+  "stage": "Series A",
+  "last_round": "$20.8M",
+  "last_round_date": "Dec 2024",
+  "lead_investors": "Canaan Partners",
+  "total_open_roles": "15",
+  "ops_roles": "[Founder's Office] Chief of Staff to the CEO; Strategic Customer Success Manager",
+  "hiring_trend": "Headcount ~75-79, +19-30% YoY (LinkedIn/Revelio est.); 15 open roles",
+  "headcount": "~77",
+  "latest_news": "Launched Support QA, grading every human and AI support conversation",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.enterpret.com/blog/enterpret-support-qa",
+  "traction": "Seven-figure ARR, doubled in 2024; customers include Canva, Notion, Perplexity",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.7",
+  "glassdoor_reviews": "18",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Enterpret-EI_IE6020935.11,20.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Respected AI-native feedback tool with marquee PLG customers and a per-customer taxonomy that learns from use, but at seven-figure ARR it is small next to Qualtrics and Medallia, and helpdesk and product platforms (Zendesk, Intercom, Productboard) are building the same insights for the same buyer, alongside rivals like Unwrap and Thematic",
+  "distance_sources": [
+   {
+    "label": "Business Wire, Dec 2024: Series A, ARR doubled, Canva/Notion/Linear customers",
+    "url": "https://www.businesswire.com/news/home/20241204277928/en/Enterpret-Announces-%2420.8-Million-Series-A"
+   },
+   {
+    "label": "SiliconANGLE, Oct 2025: still 'seven-figure ARR'",
+    "url": "https://siliconangle.com/2025/10/27/exclusive-enterpret-adds-agents-customer-feedback-analysis-platform/"
+   },
+   {
+    "label": "Enterpret blog, Oct 2026: Support QA (second product line into support QA)",
+    "url": "https://www.enterpret.com/blog/enterpret-support-qa"
+   }
+  ],
+  "hiring_locations": [
+   "Bengaluru",
+   "New York",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Tolan",
+  "slug": "tolan",
+  "site": "https://www.tolans.com",
+  "careers_url": "https://www.tolans.com/careers",
+  "what_they_do": "Voice-first AI companion app with animated alien characters that act as a personal guide",
+  "problem": "Busy people, especially working parents, feel overwhelmed and want a supportive, non-judgmental place to talk things through",
+  "industry": "Consumer AI / companion app",
+  "stage": "Series A",
+  "last_round": "$20M",
+  "last_round_date": "Jul 2025",
+  "lead_investors": "Khosla Ventures",
+  "total_open_roles": "0",
+  "ops_roles": "",
+  "hiring_trend": "0 posted roles (founder-email hiring only); ~53 staff, +71% YoY (LinkedIn est.)",
+  "headcount": "~53",
+  "latest_news": "Founder says working moms are its core users; app has ~1.2M monthly actives",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.businessinsider.com/tolan-ai-companion-popular-moms-parenting-2026-7",
+  "traction": "$1M+/month revenue (Jul 2025) to $20M+ annual run-rate (Jul 2026); 100K+ paying subscribers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real paid traction ($20M+ run rate, 100K+ subscribers) and memory-based switching costs, but it is a niche follower in AI companionship behind Character.AI, Replika and ChatGPT, and the labs ship companion and voice features directly to the same consumers; web traffic is falling and pricing changes have drawn user backlash",
+  "distance_sources": [
+   {
+    "label": "Sources with Alex Heath, Jul 2026: $20M+ annual revenue, premium-only",
+    "url": "https://sources.news/p/this-ai-will-push-back-if-youre-rude-2b1"
+   },
+   {
+    "label": "Business Insider, Jul 2026: ~1.2M MAU, core users",
+    "url": "https://www.businessinsider.com/tolan-ai-companion-popular-moms-parenting-2026-7"
+   },
+   {
+    "label": "Systemaic teardown, Jul 2026: traffic -35% in 3 months, Reddit pricing complaints",
+    "url": "https://www.systemaic.com/teardowns/tolan"
+   },
+   {
+    "label": "RoboRhythms review, Oct 2026: price rises, $199.99 Unlimited tier, memory complaints",
+    "url": "https://www.roborhythms.com/tolan-app-review/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
