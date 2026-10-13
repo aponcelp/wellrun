@@ -14666,5 +14666,75 @@
     "url": "https://dealroom.co/companies/benepass"
    }
   ]
+ },
+ {
+  "name": "Sentry",
+  "slug": "sentry",
+  "site": "https://sentry.io",
+  "careers_url": "https://jobs.ashbyhq.com/sentry",
+  "what_they_do": "Error tracking and application monitoring for developers, plus Seer AI debugging agent",
+  "problem": "Developers find out about broken code from users and waste hours tracing the cause",
+  "industry": "Developer tools / observability",
+  "stage": "Series E",
+  "last_round": "$90M",
+  "last_round_date": "May 2022",
+  "lead_investors": "BOND, Accel",
+  "total_open_roles": "46",
+  "ops_roles": "Revenue Operations Analyst; Technical Enablement Director; Senior Technical Program Manager, AI Platform; Senior Technical Customer Success Manager",
+  "hiring_trend": "Headcount ~392 to ~433 (Apr 2025 to Apr 2026, ~+10%); open roles ~37 (Aug 2025) to 46",
+  "headcount": "~450",
+  "latest_news": "Seer Agent can now act in Sentry and pull Datadog and Google Cloud data",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://blog.sentry.io/big-improvements-to-seer-agent/",
+  "traction": "Passed $100M ARR in 2023; 150,000 organizations and 4M+ developers (Jan 2026)",
+  "red_flags": "Secondary-market valuation ~$1.1B, ~62% below the $3B Series E mark (Notice.co estimate, Oct 2026); no new funding since May 2022; layoffs in 2024 (reported as three rounds, timing outside the 24-month window, not scored)",
+  "red_flags_sources": [
+   {
+    "label": "TrueUp (Notice.co secondary valuation), Oct 2026",
+    "url": "https://www.trueup.io/co/sentry"
+   },
+   {
+    "label": "Sentry Series E press release, May 2022",
+    "url": "https://sentry.io/about/press-releases/sentry-raises-90-million-in-series-e-funding-to-expand-and-drive-adoption-of-developer-first-application-monitoring"
+   },
+   {
+    "label": "7wData company profile (2024 layoffs, headcount 392 to 433), Jul 2026",
+    "url": "https://7wdata.be/company/sentry/"
+   },
+   {
+    "label": "Glassdoor Sentry (CA) layoff review, Apr 2024",
+    "url": "https://www.glassdoor.com/Reviews/Sentry-CA-layoff-Reviews-EI_IE1622271.0,9_KH10,16.htm"
+   }
+  ],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "56",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Sentry-CA-Reviews-E1622271.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Leader in developer error tracking (150K orgs, #1 observability tool by Ramp-customer adoption), but trails Datadog and other APM giants in the wider category; flat funding and a ~62% secondary markdown",
+  "distance_sources": [
+   {
+    "label": "Sentry press release, Jan 2026 (4M developers, 150K orgs)",
+    "url": "https://sentry.io/about/press-releases/sentry-expands-seer-ai-debugging-agent/"
+   },
+   {
+    "label": "Sentry CEO blog, May 2024 ($100M ARR, 100K orgs)",
+    "url": "https://blog.sentry.io/building-for-the-fortune-500-000/"
+   },
+   {
+    "label": "TrueUp profile (Ramp adoption 65%, category rank #1; vs Datadog)",
+    "url": "https://www.trueup.io/co/sentry"
+   },
+   {
+    "label": "Sacra, Apr 2024 (shift to compete with Datadog and New Relic in APM)",
+    "url": "https://sacra.com/research/sentry-disrupting-new-relic/"
+   }
+  ]
  }
 ]
