@@ -4868,5 +4868,140 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "Común",
+  "slug": "comun",
+  "site": "https://www.comun.app",
+  "careers_url": "https://jobs.ashbyhq.com/comun",
+  "what_they_do": "Spanish-first checking account, debit card and remittances for Latino immigrants, no SSN needed",
+  "problem": "Immigrants without an SSN or US credit history get shut out of banks and overpay to send money home",
+  "industry": "Fintech / consumer neobank",
+  "stage": "Series A (+ Oct 2025 follow-on)",
+  "last_round": "$19.5M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": "Redpoint Ventures (Series A); Oct 2025 round lead not disclosed (existing backers Costanoa, Redpoint, South Park Commons, FJ Labs)",
+  "total_open_roles": "4",
+  "ops_roles": "Strategic Finance Lead",
+  "hiring_trend": "Small and steady: 4 open roles (Ashby); Revelio ~62 staff, -6% YoY (Mar 2026) vs Tracxn ~105 — sources conflict",
+  "headcount": "~60-100 (sources conflict; job posts say NYC team of 40)",
+  "latest_news": "Launched Mía, an LLM-powered Spanish-first banking assistant resolving 83% of contacts",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/comun-app_com%C3%BAn-aiassistant-activity-7480656261202685953-GZNl",
+  "traction": "276K open accounts end-2025 (160K a year earlier); revenue more than doubled to $12.5M; $1.5B+ annual volume",
+  "red_flags": "Soft, not scored: Revelio shows headcount -6% YoY (66 to 62, Mar 2026), contradicted by Tracxn (~105); sector risk after peer Seis shut down Jan 2026 amid immigration shifts",
+  "red_flags_sources": [
+   {
+    "label": "Revelio Labs headcount, Comun (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/comun/employees"
+   },
+   {
+    "label": "Forbes, Feb 2026: Común must survive immigration policy; Seis shutdown",
+    "url": "https://www.forbes.com/sites/sophiaacevedo/2026/02/22/this-fintech-is-winning-with-hispanic-immigrants-now-it-has-to-survive-trump/"
+   },
+   {
+    "label": "Latin Times, Sep 2026: category volatility",
+    "url": "https://www.latintimes.com/banking-without-social-security-number-inside-race-serve-americas-unbanked-latinos-599407"
+   }
+  ],
+  "score": "3.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.8",
+  "glassdoor_reviews": "3",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Comun-Reviews-E9612286.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "Gusto",
+  "slug": "gusto",
+  "site": "https://gusto.com",
+  "careers_url": "https://job-boards.greenhouse.io/gusto",
+  "what_they_do": "Payroll, benefits, HR, 401(k) and compliance platform for small businesses and their accountants",
+  "problem": "Small business owners lose hours and risk penalties running payroll, taxes, benefits and state compliance themselves",
+  "industry": "HR tech / payroll",
+  "stage": "Late-stage private (Series E)",
+  "last_round": "$175M Series E (later liquidity: $200M+ tender Jun 2025; debt)",
+  "last_round_date": "Aug 2021",
+  "lead_investors": "T. Rowe Price (Series E); Ontario Teachers' (Jun 2025 tender, not primary)",
+  "total_open_roles": "99",
+  "ops_roles": "Executive Operations Partner; GTM Insights & Operations; Payment Operations Manager; R&D Insights and Operations - Growth",
+  "hiring_trend": "Headcount +3% YoY (~3,960, Mar 2026, Revelio); job postings +24% vs 2025; 99 open roles",
+  "headcount": "~4,000",
+  "latest_news": "Rebuilt Gusto Pro with AI payroll workflows and multi-client MCP for 23,000+ accounting firms",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://gusto.com/company-news/introducing-the-new-gusto-pro",
+  "traction": "$1B+ trailing revenue (Feb 2026), ~30% growth, 500K+ customers, cash-flow positive, ARR accelerating 5 quarters",
+  "red_flags": "Soft, not scored: Glassdoor 3.0 and down ~6% in 12 mo; recent reviews cite team-level layoffs (Aug 2025) and leadership churn; no confirmed company-wide RIF since Feb 2023 (126 roles)",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor reviews mentioning layoffs",
+    "url": "https://www.glassdoor.com.au/Reviews/Gusto-layoff-Reviews-EI_IE1069704.0,5_KH6,12.htm"
+   },
+   {
+    "label": "Glassdoor review, Aug 2025: recent layoffs in Salesforce support teams",
+    "url": "https://www.glassdoor.com.au/Reviews/Employee-Review-Gusto-E1069704-RVW99589825.htm"
+   },
+   {
+    "label": "Glassdoor review page, Sep 2026: rating down 6% over 12 months",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Gusto-E1069704-RVW105704344.htm"
+   },
+   {
+    "label": "Layoffs.fyi: last tracked Gusto layoff (126 roles, 2023)",
+    "url": "https://layoffs.fyi/company/gusto"
+   }
+  ],
+  "score": "3.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "3.0",
+  "glassdoor_reviews": "1,159",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Gusto-Reviews-E1069704.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "Jerry",
+  "slug": "jerry",
+  "site": "https://jerry.ai",
+  "careers_url": "https://jobs.ashbyhq.com/jerry.ai",
+  "what_they_do": "App and licensed broker comparing 100+ car, home and motorcycle insurers, plus car-care tools",
+  "problem": "Shopping and managing car insurance and repairs means long forms, spam calls and overpaying",
+  "industry": "Insurtech / consumer marketplace",
+  "stage": "Series C2",
+  "last_round": "$110M (equity + debt)",
+  "last_round_date": "Aug 2023",
+  "lead_investors": "Park West Asset Management (equity); TriplePoint Capital (debt)",
+  "total_open_roles": "37",
+  "ops_roles": "Senior Associate, Business Operations & Analytics; Associate, Business Operations & Analytics; GM-in-Training (YC cofounder/CEO-led); Founder's Associate Program (2x YC founder)",
+  "hiring_trend": "Flat, ~355 staff (-0.7% YoY, Mar 2026) after -10% in 2024; 37 open roles, ~17 are hourly remote insurance agents",
+  "headcount": "~355",
+  "latest_news": "Partnered with Root to embed quote-to-bind Root car insurance inside the Jerry app",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/07/08/3324148/0/en/root-and-jerry-partner-to-deliver-fully-embedded-end-to-end-car-insurance-experience.html",
+  "traction": "5M+ customers; profitable since early 2024; 5 new products launched in 2026",
+  "red_flags": "Soft, not scored: headcount fell ~10% in 2024 (389 to 328) and is still flat YoY; no new equity since Aug 2023",
+  "red_flags_sources": [
+   {
+    "label": "Revelio Labs headcount, Jerry Insurance Agency (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/jerry-insurance-agency/employees"
+   },
+   {
+    "label": "Carrier Management, Aug 2023: last funding ($110M C2)",
+    "url": "https://www.carriermanagement.com/features/2023/08/03/251512.htm"
+   }
+  ],
+  "score": "2.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.2",
+  "glassdoor_reviews": "206",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Jerry-Reviews-E3856415.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
  }
 ]
