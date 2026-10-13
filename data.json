@@ -16526,5 +16526,214 @@
    "Canada",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "beehiiv",
+  "slug": "beehiiv",
+  "site": "https://www.beehiiv.com",
+  "careers_url": "https://beehiiv.bamboohr.com/careers",
+  "what_they_do": "Newsletter platform for creators and publishers, with websites, podcasts, ad network and paid subscriptions",
+  "problem": "Creators want to grow and monetize an audience they own without stitching tools together or giving up a revenue cut",
+  "industry": "Creator economy / media tech",
+  "stage": "Series B",
+  "last_round": "$33M",
+  "last_round_date": "Apr 2024",
+  "lead_investors": "NEA (Series B); Lightspeed (Series A)",
+  "total_open_roles": "1",
+  "ops_roles": "",
+  "hiring_trend": "Team +14% YoY to ~260 (Dealroom/Tracxn est.); only 1 open role now",
+  "headcount": "~260",
+  "latest_news": "Raised plan prices for new customers Oct 1; creators push back",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
+  "traction": "Targets ~$50M revenue in 2026, nearly double 2025; Inc. 5000 No. 19",
+  "red_flags": "Minor, not scored: open roles fell to 1 (BambooHR) after an active hiring push in early 2026; not profitable until 2027 per CEO; Oct 2026 price hike drew creator complaints",
+  "red_flags_sources": [
+   {
+    "label": "beehiiv job board (BambooHR), 1 role, Oct 13 2026",
+    "url": "https://beehiiv.bamboohr.com/careers"
+   },
+   {
+    "label": "eMarketer, Mar 2026: doubling ad sales team; profitability not until 2027",
+    "url": "https://www.emarketer.com/content/beehiiv-doubles-ad-sales-team-newsletter-monetization-heats-up"
+   },
+   {
+    "label": "The Verge, Oct 2026: price increase reactions",
+    "url": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions"
+   }
+  ],
+  "score": "2.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.6",
+  "glassdoor_reviews": "14",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/beehiiv-Reviews-E7017294.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Fastest-growing challenger and clear #2 to Substack (valued $1.1B vs beehiiv's $225M) among creator newsletter platforms; its ad network and Recommendations/Boosts marketplace get more valuable with every publisher, but email lists are portable, it still burns cash until 2027 and its first big price hike tests loyalty",
+  "distance_sources": [
+   {
+    "label": "Reuters, Jan 2026: revenue to nearly double to $50M; Substack valued $1.1B",
+    "url": "https://www.reuters.com/business/substack-challenger-beehiiv-expects-revenue-nearly-double-newsletter-boom-2026-01-20/"
+   },
+   {
+    "label": "eMarketer, Mar 2026: ad network pays publishers $1M+/month; 1 in 7 new writers from Substack",
+    "url": "https://www.emarketer.com/content/beehiiv-doubles-ad-sales-team-newsletter-monetization-heats-up"
+   },
+   {
+    "label": "GlobeNewswire, Jul 2026: Summer release (community, Copilot, programmatic ads); Inc. 5000 No. 19",
+    "url": "https://www.globenewswire.com/news-release/2026/07/16/3328728/0/en/beehiiv-Announces-Its-Most-Significant-Expansion-to-Date-Cementing-Its-Position-as-the-Most-Complete-Platform-for-Creators-and-Publishers.html"
+   },
+   {
+    "label": "The Verge, Oct 2026: price hike, creators reconsidering",
+    "url": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "lemlist",
+  "slug": "lemlist",
+  "site": "https://www.lemlist.com",
+  "careers_url": "https://jobs.ashbyhq.com/lemlist",
+  "what_they_do": "Multichannel outbound sales platform: lead database, email, LinkedIn, WhatsApp and call sequences",
+  "problem": "Small sales teams need personalized outbound at scale without juggling separate data, sending and deliverability tools",
+  "industry": "Sales tech / sales engagement",
+  "stage": "Bootstrapped (2021 secondary sale only)",
+  "last_round": "none (bootstrapped)",
+  "last_round_date": "",
+  "lead_investors": "",
+  "total_open_roles": "11",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~140 (Oct 2025) to ~150-180 (2026); 11 open roles",
+  "headcount": "~150-180",
+  "latest_news": "Passed $60M ARR, still profitable, and rebranded",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.arr.club/lemlist/lemlist-arr-surpasses-60m-with-accelerated-growth-and-profitability",
+  "traction": "ARR $37M (Oct 2025) to $50M (Apr 2026) to $60M+ (Sep 2026); 20,000 customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "36",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/lemlist-Reviews-E5033508.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Strong #2-3 in SMB outbound behind Apollo (~$150M ARR): #1 sales engagement tool on G2, 20,000 customers, $60M+ ARR growing ~50% and profitable, with a second product line (Claap call intelligence, Taplio); edge is light lock-in from multichannel sequences and CRM sync, and it is exposed to LinkedIn automation limits, mailbox-provider sending rules and cheaper email-only rivals",
+  "distance_sources": [
+   {
+    "label": "lemlist official AI info page: $50M ARR, profitable, 20,000 customers, 150 staff, bootstrapped",
+    "url": "https://www.lemlist.com/ai-info"
+   },
+   {
+    "label": "CEO Charles Tenot, LinkedIn Nov 2025: $37M ARR, 140 staff, Claap closed",
+    "url": "https://www.linkedin.com/posts/charlestenot_lemlist-ended-october-at-37m-arr-2m-vs-activity-7391440417973497857-Ht2L"
+   },
+   {
+    "label": "ARR Club, Sep 2026: $60M+ ARR, profitable",
+    "url": "https://www.arr.club/lemlist/lemlist-arr-surpasses-60m-with-accelerated-growth-and-profitability"
+   },
+   {
+    "label": "lemlist blog, Oct 2025: Claap acquisition (self-funded)",
+    "url": "https://www.lemlist.com/blog/lemlist-just-spent-over-15m-to-buy-ai-sales-intelligence-platform-claap"
+   },
+   {
+    "label": "Phacet podcast, Dec 2025: ~50% growth, ~30% operating margin",
+    "url": "https://www.phacetlabs.com/podcast/how-lemlist-eu42m-arr-100-bootstrapped-uses-ai-across-its-products-and-operations-to-scale"
+   },
+   {
+    "label": "ValueAdd VC, Aug 2026: lemlist vs Apollo ($150M ARR)",
+    "url": "https://valueaddvc.com/blog/lemlist-vs-apollo-which-cold-outreach-tool-is-actually-worth-it-in-2026"
+   }
+  ],
+  "hiring_locations": [
+   "European union",
+   "Paris",
+   "Bordeaux",
+   "Remote (France)"
+  ]
+ },
+ {
+  "name": "Instantly",
+  "slug": "instantly",
+  "site": "https://instantly.ai",
+  "careers_url": "https://instantly.ai/careers",
+  "what_they_do": "Cold email platform with unlimited sending inboxes, warmup network, lead database and AI sales agents",
+  "problem": "Outbound teams and agencies need to send cold email at volume and still land in the inbox, without per-inbox fees",
+  "industry": "Sales tech / cold email",
+  "stage": "Bootstrapped (no outside funding)",
+  "last_round": "none (bootstrapped)",
+  "last_round_date": "",
+  "lead_investors": "",
+  "total_open_roles": "7",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~+110% YoY to ~370-385 (LinkedIn/Tracxn est.); 7 open roles",
+  "headcount": "~380",
+  "latest_news": "Shipped redesigned app and new AI agents for partnerships, recruiting and voice",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://feedback.instantly.ai/changelog",
+  "traction": "Self-reported $20M ARR end-2024; est. ~$38M+ in 2026; 40,000+ customers",
+  "red_flags": "Minor, not scored: Glassdoor 3.4 (6 reviews); former staff describe abrupt firings without notice, incl. one claim a sales team was cut after 3 months; no press reports of layoffs and headcount is growing",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor Instantly.ai reviews page (3.4, Jul 2026 'zero job stability')",
+    "url": "https://www.glassdoor.com/Reviews/Instantly-ai-Reviews-E9938443.htm"
+   },
+   {
+    "label": "Glassdoor review: 'They will fire you for nothing' (sales team cut claim)",
+    "url": "https://www.glassdoor.ie/Reviews/Employee-Review-Instantly-ai-RVW94364218.htm"
+   }
+  ],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.4",
+  "glassdoor_reviews": "6",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Instantly-ai-Reviews-E9938443.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Top-two pure cold-email sender alongside Smartlead, with broad SMB and agency adoption (40,000+ customers, G2 4.8 on ~4,000 reviews) and a 4.2M-account warmup network that grows with every user; but switching costs are low, cheaper rivals are close behind, and its core depends on Gmail and Outlook sending rules (stricter enforcement since 2025, new blocklists aimed at artificial warmup)",
+  "distance_sources": [
+   {
+    "label": "Instantly careers page: 40,000+ clients",
+    "url": "https://instantly.ai/careers"
+   },
+   {
+    "label": "Instantly blog, Aug 2026: private deliverability network of 4.2M+ accounts",
+    "url": "https://instantly.ai/blog/instantly-vs-apollo-vs-smartlead-comparison"
+   },
+   {
+    "label": "lemlist roundup, Jul 2026: Instantly G2 4.8 on ~4,127 reviews",
+    "url": "https://www.lemlist.com/versus/best-cold-email-software-2026"
+   },
+   {
+    "label": "Kompozy, May 2026: top four (Instantly, Smartlead, lemlist, Apollo) carry two-thirds of cold-email volume",
+    "url": "https://kompozy.io/ai-email-marketing/cold-email-2026"
+   },
+   {
+    "label": "Gmail sender guidelines FAQ: enforcement ramped Nov 2025",
+    "url": "https://support.google.com/mail/answer/14229414?hl=en"
+   },
+   {
+    "label": "Validity: Heatwave blocklist targets artificial domain warming",
+    "url": "https://www.validity.com/resource-center/state-of-email-may-2025-on-demand"
+   },
+   {
+    "label": "Instantly changelog, May 2026: AirMail mailboxes to cut reliance on Google/Outlook",
+    "url": "https://feedback.instantly.ai/changelog/we-just-launched-airmail-mailboxes-built-for-outreach"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
