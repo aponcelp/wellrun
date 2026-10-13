@@ -19217,5 +19217,57 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Hone",
+  "slug": "hone",
+  "site": "https://hone.com",
+  "careers_url": "https://jobs.ashbyhq.com/hone",
+  "what_they_do": "AI 'Engines' assigned a business metric that run workflows for weeks or months",
+  "problem": "Outside engineering, companies get little value from AI; agents do single tasks and need constant babysitting",
+  "industry": "AI agents / enterprise automation",
+  "stage": "Seed",
+  "last_round": "$60M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Benchmark, Index Ventures",
+  "total_open_roles": "7",
+  "ops_roles": "Member of Business Staff; Member of Technical Staff – Agent Deployments",
+  "hiring_trend": "Founded mid-2026; ~10-25 staff; 7 open roles (plus open application), all SF on-site",
+  "headcount": "~10-25",
+  "latest_news": "Raised $60M seed led by Benchmark and Index at $285M valuation; launched Engines",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.finsmes.com/2026/10/hone-raises-60m-in-funding-at-285m-valuation.html",
+  "traction": "No revenue disclosed; early customers include Cognition and Modal",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Months old with no disclosed revenue; long-horizon agents for business work is a crowded race.",
+  "distance_sources": [
+   {
+    "label": "Bloomberg: $60M seed at $285M, crowded field (Oct 2026)",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-08/former-openai-cognition-staffers-want-ai-to-help-run-a-business"
+   },
+   {
+    "label": "RuntimeWire: no revenue or outcome data disclosed; Cognition and Modal early customers",
+    "url": "https://runtimewire.com/article/hone-60m-seed-ai-business-agents-moritz-stephan"
+   },
+   {
+    "label": "Index Ventures: why we invested in Hone",
+    "url": "https://www.indexventures.com/perspectives/ai-that-owns-business-outcomes-our-investment-in-hone/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
  }
 ]
