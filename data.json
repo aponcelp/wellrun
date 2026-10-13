@@ -19400,5 +19400,60 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Lead Bank",
+  "slug": "lead-bank",
+  "site": "https://www.lead.bank",
+  "careers_url": "https://jobs.ashbyhq.com/leadbank",
+  "what_they_do": "FDIC-insured sponsor bank with APIs for fintech accounts, cards, lending and stablecoin payments",
+  "problem": "Fintechs need a fast, compliant bank partner to launch accounts, cards and loans without their own charter",
+  "industry": "Fintech / embedded finance (sponsor bank, BaaS)",
+  "stage": "Series B",
+  "last_round": "$70M",
+  "last_round_date": "Sep 2025",
+  "lead_investors": "ICONIQ, Greycroft (new); Ribbit, Coatue, Khosla, a16z (existing)",
+  "total_open_roles": "16",
+  "ops_roles": "Senior Technical Account Manager; Technical Account Manager; Senior Technical Governance Program Manager; Associate Program Manager",
+  "hiring_trend": "Headcount +28% in 12 mo (262 to 335 bank staff, FDIC, Jun 2025 to Jun 2026)",
+  "headcount": "~335",
+  "latest_news": "Launched bank-enforced payment controls and account numbers for AI agents",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.lead.bank/blog/moving-money-with-agents",
+  "traction": "2025 revenue ~$124M, up 65% (Sacra est.); H1 2026 net income +92%, deposits +61%",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.7",
+  "glassdoor_reviews": "31",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Lead-Bank-Reviews-E1176889.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A top sponsor bank for fintech and stablecoins (Affirm, Stripe/Bridge, Ramp, Revolut) with its own charter and ledger, but Column and Cross River compete and crypto concentration plus rising bad loans add exposure.",
+  "distance_sources": [
+   {
+    "label": "Sacra, Mar 2026 (revenue, Column comparison)",
+    "url": "https://sacra.com/research/stripes-stablecoin-bank/"
+   },
+   {
+    "label": "The Financial Current, Oct 2026 (FDIC June 2026 financials, Affirm/OnePay/Branch partners)",
+    "url": "https://thefinancialcurrent.com/deep-dives/lead-bank-company-profile"
+   },
+   {
+    "label": "Embedded Finance Index (charter, ledger, Fed connection; Affirm, Ramp, Stripe)",
+    "url": "https://www.embeddedfinanceindex.com/companies/lead-bank"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Sunnyvale",
+   "Remote (US)"
+  ]
  }
 ]
