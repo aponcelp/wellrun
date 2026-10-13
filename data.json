@@ -20403,5 +20403,300 @@
    "Brazil",
    "Remote"
   ]
+ },
+ {
+  "name": "Tilt",
+  "slug": "tilt",
+  "site": "https://tilt.com",
+  "careers_url": "https://jobs.ashbyhq.com/tilthq",
+  "what_they_do": "Cash advances, credit lines and credit cards underwritten on cash flow, not FICO",
+  "problem": "Steady earners with thin or damaged credit get turned down or charged payday-loan prices by traditional lenders",
+  "industry": "Fintech / consumer credit",
+  "stage": "Series C",
+  "last_round": "~$95M (Series C, per Forge; never announced)",
+  "last_round_date": "May 2024",
+  "lead_investors": "Not disclosed (backers: Sequoia, Icon Ventures, Initialized, Blisce, Launchpad)",
+  "total_open_roles": "20",
+  "ops_roles": "Risk Operations Transformation Lead; Finance Systems & Automation Analyst",
+  "hiring_trend": "Headcount ~245 (Aug 2025) → ~336 (Oct 2026), about +35% YoY, partly from acquisitions; 20 open roles",
+  "headcount": "~335",
+  "latest_news": "Acquired Brazil's Blipay (6M+ registered users), its fourth market outside the US",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/tilt-acquires-blipay-bringing-its-proven-international-credit-model-to-brazil-302816224.html",
+  "traction": "3M+ active US subscribers, 5M+ customers to date, profitable since 2022 (company-reported)",
+  "red_flags": "Vickery v. Empower: putative class action (Military Lending Act/TILA) says its cash advances are high-cost loans; judge agreed advances are credit (Oct 2025), case on appeal at 9th Circuit; separate mass-arbitration claims",
+  "red_flags_sources": [
+   {
+    "label": "LegalClarity, Jun 2026: Vickery v. Empower ruling and appeal status",
+    "url": "https://legalclarity.org/tilt-class-action-lawsuit-ruling-and-appeal-status/"
+   },
+   {
+    "label": "Consumer Financial Services Law Monitor, Oct 2025: EWA product deemed credit, arbitration denied",
+    "url": "https://www.consumerfinancialserviceslawmonitor.com/2025/10/earned-wage-access-product-deemed-credit-under-mla-leading-federal-district-court-to-deny-motion-to-compel-arbitration/"
+   },
+   {
+    "label": "Center for Responsible Lending: payday loan app litigation tracker",
+    "url": "https://www.responsiblelending.org/research-publication/payday-loan-app-litigation-tracker"
+   }
+  ],
+  "score": "2.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "82",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Tilt-Reviews-E775547.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "A top cash-advance app with millions of subscribers, profitable, and now selling cards and credit lines in five countries; but EarnIn and Dave crowd the space, it relies on partner banks, and courts keep calling these advances loans.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire, Aug 2025: rebrand, credit cards, 3M+ subscribers, profitable since 2022",
+    "url": "https://www.prnewswire.com/news-releases/empower-finance-rebrands-to-tilt-and-launches-tilt-credit-cards-to-accelerate-reliable-access-to-fair-credit-302522406.html"
+   },
+   {
+    "label": "PR Newswire, Jul 2026: Blipay acquisition, fourth market outside the US",
+    "url": "https://www.prnewswire.com/news-releases/tilt-acquires-blipay-bringing-its-proven-international-credit-model-to-brazil-302816224.html"
+   },
+   {
+    "label": "LegalClarity, Jun 2026: 14 of 14 courts have called app cash advances loans",
+    "url": "https://legalclarity.org/tilt-class-action-lawsuit-ruling-and-appeal-status/"
+   }
+  ],
+  "hiring_locations": [
+   "Campinas",
+   "São Paulo",
+   "Bengaluru",
+   "Remote (US)",
+   "Remote (India)"
+  ]
+ },
+ {
+  "name": "Current",
+  "slug": "current",
+  "site": "https://current.com",
+  "careers_url": "https://current.com/careers/",
+  "what_they_do": "Mobile banking app with early paycheck access, cash advances and a credit-building card",
+  "problem": "Paycheck-to-paycheck Americans pay overdraft fees, wait for wages and get shut out of credit by banks",
+  "industry": "Fintech / consumer neobank",
+  "stage": "Series E",
+  "last_round": "$80M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Springcoast Partners (growth equity); existing a16z, Tiger Global, Avenir, Wellington, Sapphire, QED",
+  "total_open_roles": "20",
+  "ops_roles": "Workforce Operations Analyst (Contract); Learning & Development Lead, Risk Ops; Legal / Compliance Operations Specialist; Procurement Manager",
+  "hiring_trend": "Growing: ~275 (2023) to ~490-520 staff (2026), ~+40% YoY; open roles up ~180% YoY (est.)",
+  "headcount": "~500",
+  "latest_news": "CEO says Current has reached EBITDA profitability; earned wage access raised to $1,000",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://share.snipd.com/episode/872c5e89-f6ad-4055-9ba1-9c7e6745762a",
+  "traction": "Revenue up 70%+ for a third straight year; 6M+ members; now EBITDA profitable",
+  "red_flags": "Down round: Jun 2026 Series E valued Current at $1.5B, about a third below its $2.2B 2021 mark",
+  "red_flags_sources": [
+   {
+    "label": "The Next Web, Jun 2026: Series E values the neobank below its 2021 peak",
+    "url": "https://thenextweb.com/news/current-series-e-1-5bn-down-round"
+   },
+   {
+    "label": "New York Business Journal, Jun 2026: $1.5B valuation, down from 2021",
+    "url": "https://www.bizjournals.com/newyork/news/2026/06/11/current-raises-80m-fintech-valuation.html"
+   }
+  ],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.2",
+  "glassdoor_reviews": "61",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Current-NY-EI_IE2579466.11,21.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A strong #2-3 US neobank (6M+ members, 70%+ growth three years running, now EBITDA profitable) where members keep their paychecks, but Chime is far bigger, it relies on partner banks, and Revolut and Nubank are entering the US.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire, Jun 2026: Series E, third year of 70%+ growth, millions of members",
+    "url": "https://www.prnewswire.com/news-releases/current-secures-80-million-series-e-at-1-5-billion-valuation-following-third-consecutive-year-of-70-growth-302797260.html"
+   },
+   {
+    "label": "American Banker, Jun 2026: 6M customers, competes with Chime, partner banks Cross River and Choice",
+    "url": "https://www.americanbanker.com/news/neobank-current-raises-80-million-reports-growth"
+   },
+   {
+    "label": "Fintech Business Weekly podcast, Oct 2026: EBITDA profitability",
+    "url": "https://share.snipd.com/episode/872c5e89-f6ad-4055-9ba1-9c7e6745762a"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Majority",
+  "slug": "majority",
+  "site": "https://majority.com",
+  "careers_url": "https://majority.com/en/company/career",
+  "what_they_do": "Subscription mobile bank for immigrants: account without SSN, transfers, calling, phone plans",
+  "problem": "Newcomers to the US struggle to get banked without an SSN and overpay to send money and call home",
+  "industry": "Fintech / consumer neobank",
+  "stage": "Series B",
+  "last_round": "$20M ($12.5M equity + $7.5M debt; flat round)",
+  "last_round_date": "May 2024",
+  "lead_investors": "Fintech founders incl. Victor Jacobsson (Klarna) and Hjalmar Winbladh; Valar Ventures led the Series B",
+  "total_open_roles": "11",
+  "ops_roles": "Vendor Analyst (Miami); Licensing and Regulatory Affairs Associate (Miami)",
+  "hiring_trend": "Flat headcount, ~185 (Revelio, Mar 2026, +0.9% YoY); postings 16 → 41 vs 2025",
+  "headcount": "~185-240 (Revelio 185 Mar 2026; LinkedIn-based ~232)",
+  "latest_news": "Dagens Industri cover profile: growing as a profitable US digital bank, aims to lead cross-border transfers",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://finanswatch.se/news/bank/article19565665.ece",
+  "traction": "Revenue tripled three years running; $40M ARR Apr 2024; 1M+ users, $1B+ sent to LatAm",
+  "red_flags": "Soft, not scored: headcount flat for ~18 months (Revelio 187 → 185); last raise May 2024 was a flat round; recent Glassdoor reviews (2025-26) complain about harsh management and people let go for raising concerns, with no reported RIF; sector risk after peer Seis shut down",
+  "red_flags_sources": [
+   {
+    "label": "Revelio Labs headcount, Majority (Mar 2026: 185, +0.9% YoY)",
+    "url": "https://www.reveliolabs.com/companies/majority/employees"
+   },
+   {
+    "label": "TechCrunch, May 2024: $20M raise, CEO calls it a flat round",
+    "url": "https://techcrunch.com/2024/05/22/majority-immigrant-banking-20m"
+   },
+   {
+    "label": "Glassdoor reviews, MAJORITY (3.7, 25 reviews)",
+    "url": "https://www.glassdoor.com/Reviews/MAJORITY-Reviews-E3376197.htm"
+   },
+   {
+    "label": "Glassdoor review, Jan 2026: disorganized, low pay",
+    "url": "https://www.glassdoor.com.hk/Reviews/Employee-Review-MAJORITY-E3376197-RVW102439989.htm"
+   },
+   {
+    "label": "FinTech Futures: immigrant-focused peer Seis shuts down",
+    "url": "https://www.fintechfutures.com/digital-banking/immigrant-focused-banking-app-seis-to-close-down"
+   }
+  ],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "3.7",
+  "glassdoor_reviews": "25",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/MAJORITY-Reviews-E3376197.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Likely the largest US neobank built for immigrants (1M+ users, profitable, ahead of Común), but small next to Chime and Remitly, and it runs on partner banks.",
+  "distance_sources": [
+   {
+    "label": "LinkedIn (MAJORITY/Privy), May 2026: 1M+ users, $1B+ sent to LatAm",
+    "url": "https://www.linkedin.com/posts/majorityofficial_were-proud-to-be-recognized-as-a-case-study-activity-7458258934781542400-1c4-"
+   },
+   {
+    "label": "FinansWatch / Dagens Industri, Aug 2026: growing as a profitable digital bank",
+    "url": "https://finanswatch.se/news/bank/article19565665.ece"
+   },
+   {
+    "label": "Refresh Miami, Aug 2025: revenue tripled three years running; phone plans launched",
+    "url": "https://refreshmiami.com/news/majority-ceo-magnus-larsson-on-fintechs-future-miamitechs-growing-pains-and-why-money-transfers-should-be-free/"
+   },
+   {
+    "label": "TechCrunch, May 2024: $40M ARR; rivals Comun, Maza, Alza",
+    "url": "https://techcrunch.com/2024/05/22/majority-immigrant-banking-20m"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Novo",
+  "slug": "novo",
+  "site": "https://www.novo.co",
+  "careers_url": "https://jobs.ashbyhq.com/novo",
+  "what_they_do": "Free business checking, invoicing, cards and working capital for solopreneurs and small businesses",
+  "problem": "Very small businesses get ignored or charged fees by banks and need simple tools to get paid and manage cash",
+  "industry": "Fintech / small business banking",
+  "stage": "Series B (+ $125M credit facility, Aug 2023)",
+  "last_round": "$35M (Series B extension)",
+  "last_round_date": "Nov 2022",
+  "lead_investors": "Stripes (Series B); GGV/Notable Capital (Nov 2022 extension); Victory Park Capital (2023 debt facility)",
+  "total_open_roles": "10",
+  "ops_roles": "Senior Manager, Customer Support & Success; Compliance Specialist; Senior KYC Analyst",
+  "hiring_trend": "Shrinking: Revelio headcount 556 → 361 since 2023 (-35%), -1.5% YoY; postings 30 → 19 vs 2025",
+  "headcount": "~360-430 (Revelio 361 Mar 2026; LinkedIn/Tracxn ~412-425)",
+  "latest_news": "Hired 5W as PR agency of record; Jackson Barnes quoted as CEO",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/5w-named-agency-of-record-for-novo-to-elevate-the-voice-of-independent-business-owners-302844475.html",
+  "traction": "250,000+ small businesses (150K in Jan 2022); revenue est. $20-30M (third-party)",
+  "red_flags": "CEO churn: founder Michael Rangel stepped down Apr 2025, successor Emily Chiu left within months, Jackson Barnes CEO since Oct 2025; headcount cut ~22% in Q4 2024 (Revelio 498 → 387), down 35% since 2023, with Glassdoor reviews describing repeated layoffs. Soft, not scored: no new equity since Nov 2022, $700M valuation from Jan 2022 never refreshed; postings down 27% vs 2025",
+  "red_flags_sources": [
+   {
+    "label": "Revelio Labs headcount, Novo Platform (556 in 2023 → 361 Mar 2026; Q3→Q4 2024 498 → 387; postings 30 → 19)",
+    "url": "https://www.reveliolabs.com/companies/novo-platform/employees"
+   },
+   {
+    "label": "Faida Workforce, Sep 2026: Rangel stepped down as CEO Apr 2025, now board member",
+    "url": "https://faidaworkforce.com/blog/what-novos-founder-says-ai-actually-changes-for-small-business-finance/"
+   },
+   {
+    "label": "Covista board bio, 2026: Emily C. Chiu 'most recently the CEO of Novo'",
+    "url": "https://www.covista.com/emily-c-chiu"
+   },
+   {
+    "label": "Jackson Barnes LinkedIn: Novo CEO since Oct 2025",
+    "url": "https://linkedin.com/in/jackson-barnes-ba46b310"
+   },
+   {
+    "label": "Glassdoor reviews, Novo (3.2, 99 reviews)",
+    "url": "https://www.glassdoor.com/Reviews/Novo-Reviews-E2397961.htm"
+   },
+   {
+    "label": "Glassdoor review, Aug 2024: 'frequent layoffs', leadership turmoil",
+    "url": "https://www.glassdoor.co.in/Reviews/Employee-Review-Novo-E2397961-RVW89979033.htm"
+   },
+   {
+    "label": "Glassdoor New York reviews: layoffs incl. C-suite and CEO",
+    "url": "https://www.glassdoor.com/Reviews/Novo-New-York-Reviews-EI_IE2397961.0,4_IL.5,13_IM615.htm"
+   },
+   {
+    "label": "Novo press release, Jan 2022: $90M Series B at $700M valuation",
+    "url": "https://www.novo.co/learn/novo-raises-90m-to-reimagine-small-businesses-checking-accounts"
+   }
+  ],
+  "score": "0.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.2",
+  "glassdoor_reviews": "99",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Novo-Reviews-E2397961.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "A follower in crowded small-business banking behind Mercury, Bluevine and Relay: 250K accounts, but staff shrinking, three CEOs in a year and no new equity since 2022.",
+  "distance_sources": [
+   {
+    "label": "neobanks.guide review, Jan 2026: ~250K customers; positioned vs Mercury and Bluevine; partner bank Middlesex",
+    "url": "https://neobanks.guide/novo-review/"
+   },
+   {
+    "label": "Tracxn: top competitors Mercury, BlueVine, Tide; $298M total incl. debt",
+    "url": "https://tracxn.com/d/companies/novo/__HJRkIj_tnudg5LmeYuAxIfYaw8qzWQq4t7ieDYTFAq8"
+   },
+   {
+    "label": "Revelio Labs headcount, Novo Platform",
+    "url": "https://www.reveliolabs.com/companies/novo-platform/employees"
+   },
+   {
+    "label": "PR Newswire, Aug 2026: 250,000+ small businesses; Jackson Barnes CEO",
+    "url": "https://www.prnewswire.com/news-releases/5w-named-agency-of-record-for-novo-to-elevate-the-voice-of-independent-business-owners-302844475.html"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Bengaluru",
+   "Remote (Colombia)",
+   "Remote (US)"
+  ]
  }
 ]
