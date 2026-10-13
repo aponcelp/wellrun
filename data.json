@@ -17965,5 +17965,130 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Comp AI",
+  "slug": "comp-ai",
+  "site": "https://www.trycomp.ai",
+  "careers_url": "https://ats.rippling.com/comp-ai/jobs",
+  "what_they_do": "AI agents that automate SOC 2, ISO 27001, HIPAA and GDPR compliance and audit prep",
+  "problem": "Getting and keeping security certifications takes months of manual evidence work and blocks enterprise deals",
+  "industry": "Security compliance / GRC",
+  "stage": "Series A",
+  "last_round": "$34M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Roo Capital, Grand Ventures",
+  "total_open_roles": "3",
+  "ops_roles": "Senior Customer Experience Manager",
+  "hiring_trend": "35 staff, +337% YoY (LinkedIn est.); plans ~20 Miami hires; 3 posted roles",
+  "headcount": "~35",
+  "latest_news": "Raised $34M Series A led by Roo Capital and Grand Ventures; expanding into continuous security",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+  "traction": "1,000+ customers in under two years; 15x YoY ARR growth; ~$7M ARR (Jul 2026)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast real adoption (1,000+ customers, ~$7M ARR, 15x growth), but it is a young follower in a crowded category led by Vanta (16,000+ customers) and Drata, with thin auditor familiarity; it wins on price, speed and open source, which rivals can match",
+  "distance_sources": [
+   {
+    "label": "Comp AI Series A release, Sep 2026: 1,000+ customers, 15x ARR growth",
+    "url": "https://www.trycomp.ai/press/series-a"
+   },
+   {
+    "label": "ARR Club, Jul 2026: $7M ARR, 850 customers",
+    "url": "https://www.arr.club/comp-ai/comp-ai-hit-7m-arr-with-over-850-customers"
+   },
+   {
+    "label": "Pondero review, May 2026: 700+ customers vs Vanta 16,000+; auditor familiarity ramping",
+    "url": "https://pondero.ai/agents/reviews/comp-ai-review-may-2026/"
+   },
+   {
+    "label": "ComplyJet review, Sep 2026: growth figures company-reported; ~70 G2 reviews vs thousands for incumbents",
+    "url": "https://www.complyjet.com/blog/comp-ai-review"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Cast AI",
+  "slug": "cast-ai",
+  "site": "https://cast.ai",
+  "careers_url": "https://cast.ai/careers/",
+  "what_they_do": "Automation platform that autoscales and rightsizes Kubernetes and GPU workloads to cut cloud costs",
+  "problem": "Teams overpay for idle cloud and GPU capacity and spend engineer hours hand-tuning Kubernetes clusters",
+  "industry": "Cloud infrastructure / DevOps automation",
+  "stage": "Series C",
+  "last_round": "Undisclosed (strategic, $1B+ valuation)",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "Pacific Alliance Ventures (Shinsegae); Series C led by G2 Venture Partners and SoftBank Vision Fund 2",
+  "total_open_roles": "30",
+  "ops_roles": "Business Intelligence & Analytics Manager; AI Solutions Architect",
+  "hiring_trend": "Flat, ~350 staff (+1% YoY, Revelio); open roles 19 → 30 since Oct 2025",
+  "headcount": "~350",
+  "latest_news": "Launched Kimchi Coding, a multi-model AI coding agent, to general availability",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://cast.ai/press-release/kimchi-coding-hits-general-availability",
+  "traction": "Unicorn at $1B+ valuation; est. $60M+ revenue; customers include BMW, Cisco, FICO",
+  "red_flags": "Watch (not scored): an Oct 2026 Glassdoor review alleges layoffs, hire-and-fire culture and high sales turnover; headcount flat for a year",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor review, Oct 2026: layoffs, sales churn, missed quotas",
+    "url": "https://www.glassdoor.co.nz/Reviews/Employee-Review-Cast-AI-E3133117-RVW105821501.htm"
+   },
+   {
+    "label": "Revelio Labs: 374 staff, +1.2% YoY (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/cast-ai-group/employees"
+   },
+   {
+    "label": "Unify: observed profiles 350 → 348, Aug 2025–Jul 2026",
+    "url": "https://www.unifygtm.com/insights/headcount/cast-ai"
+   }
+  ],
+  "score": "4.25",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "58",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Cast-AI-Reviews-E3133117.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A top independent player in Kubernetes cost automation (G2 #1 in cloud cost management, $1B+ valuation, broad enterprise use), and replacing a team's autoscaler makes it sticky; but ScaleOps ($130M raised, $800M valuation) is a direct rival, AWS ships free Karpenter to the same buyers, and flat headcount says growth has cooled",
+  "distance_sources": [
+   {
+    "label": "Cast AI release, Jan 2026: $1B+ valuation; customers BMW, Cisco, FICO, HuggingFace",
+    "url": "https://www.businesswire.com/news/home/20260112261202/en/Cast-AI-Valued-at-Over-%241-Billion-With-the-Launch-of-Its-GPU-Marketplace"
+   },
+   {
+    "label": "Cast AI LinkedIn, Sep 2026: record H1, #1 on G2 Cloud Cost Management",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7508515541293203456"
+   },
+   {
+    "label": "KubernetesGuru, Jul 2026: ScaleOps $130M Series C at $800M as main alternative",
+    "url": "https://kubernetesguru.com/blog/cast-ai-alternatives-2026/"
+   },
+   {
+    "label": "KubernetesGuru, Jul 2026: Cast AI vs free AWS Karpenter",
+    "url": "https://kubernetesguru.com/blog/cast-ai-vs-karpenter/"
+   },
+   {
+    "label": "Cast AI blog, Sep 2026: autoscaler replacement and exit cost",
+    "url": "https://cast.ai/blog/cast-ai-vendor-lock-in/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
