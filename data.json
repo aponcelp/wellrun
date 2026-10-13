@@ -13396,5 +13396,145 @@
     "url": "https://planetscale.com/blog/introducing-neki"
    }
   ]
+ },
+ {
+  "name": "Boulevard",
+  "slug": "boulevard",
+  "site": "https://www.joinblvd.com",
+  "careers_url": "https://job-boards.greenhouse.io/boulevard",
+  "what_they_do": "Booking, payments, marketing and charting software for salons, spas and medspas",
+  "problem": "Appointment-based beauty businesses lose revenue to no-shows, missed calls and clunky booking and checkout tools",
+  "industry": "Vertical SaaS / beauty and wellness",
+  "stage": "Series D",
+  "last_round": "$80M",
+  "last_round_date": "Jul 2025",
+  "lead_investors": "JMI Equity",
+  "total_open_roles": "14",
+  "ops_roles": "Support Operations Manager; Onboarding Manager; Risk Analyst II",
+  "hiring_trend": "~591 staff (Crustdata, Sep 2026), up from 375 at Jul 2025 raise; 14 open roles, remote US",
+  "headcount": "~590",
+  "latest_news": "Launched Beau, an AI receptionist that answers salon calls and books appointments (beta)",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://changelog.joinblvd.com/never-miss-a-chance-to-book-with-new-ai-receptionist-beta-free-to-try-until-october-344864",
+  "traction": "Revenue up 500%+ in three years; 5,000+ businesses, ~$5B annual payments, ~15% of US medspas",
+  "red_flags": "Repeated, unannounced layoff rounds in 2025–2026 reported by employees; Boulevard acknowledged workforce reductions after its raise. Glassdoor 2.8, 39% would recommend.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor reviews tagged 'layoff' (Jul 2026: 'multiple rounds of layoffs')",
+    "url": "https://www.glassdoor.com/Reviews/Boulevard-layoff-Reviews-EI_IE2543798.0,9_KH10,16.htm"
+   },
+   {
+    "label": "Glassdoor review, May 2026, with Boulevard reply acknowledging workforce reductions after fundraising",
+    "url": "https://www.glassdoor.ca/Reviews/Boulevard-Technical-Product-Manager-Reviews-EI_IE2543798.0,9_KO10,35.htm"
+   },
+   {
+    "label": "Glassdoor overview: 2.8/5, 39% recommend",
+    "url": "https://www.glassdoor.com/Overview/Working-at-Boulevard-EI_IE2543798.11,20.htm"
+   }
+  ],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "2.8",
+  "glassdoor_reviews": "152",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Boulevard-Reviews-E2543798.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "System of record for bookings, client history, medspa charts and payments; switching is painful, but no retention figure is public and Zenoti, Fresha and Mindbody compete hard",
+  "distance_sources": [
+   {
+    "label": "TechCrunch, Jul 2025: ~$5B payments, ~15% of US medspas, rivals",
+    "url": "https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/"
+   },
+   {
+    "label": "Boulevard blog, Jul 2025: 5,000+ businesses, 40,000 pros, proprietary payment rails",
+    "url": "https://www.joinblvd.com/blog/boulevards-next-chapter"
+   },
+   {
+    "label": "Business Wire, Apr 2026: ePrescribe launch for medspas",
+    "url": "https://www.morningstar.com/news/business-wire/20260414281455/boulevard-expands-clinical-capabilities-for-medspas-with-launch-of-eprescribe"
+   },
+   {
+    "label": "Greenhouse board: Onboarding Manager, Support Operations Manager open",
+    "url": "https://job-boards.greenhouse.io/boulevard"
+   }
+  ]
+ },
+ {
+  "name": "Whizz",
+  "slug": "whizz",
+  "site": "https://www.getwhizz.com",
+  "careers_url": "https://www.getwhizz.com/careers",
+  "what_they_do": "Rent-to-own e-bike subscriptions with maintenance and battery swaps for delivery couriers",
+  "problem": "Gig couriers, often immigrants without credit, can't afford safe certified e-bikes or keep them running",
+  "industry": "Micromobility / fleet rental",
+  "stage": "Series A",
+  "last_round": "$12M ($5M equity + $7M venture debt)",
+  "last_round_date": "Jun 2024",
+  "lead_investors": "LETA Capital (equity); Flashpoint (debt)",
+  "total_open_roles": "10",
+  "ops_roles": "Store Supervisor (Miami); Inventory Assistant (Jersey City)",
+  "hiring_trend": "Flat: ~101 on LinkedIn, -4.7% YoY (CEO says 120); 10 hourly field roles, adding Miami",
+  "headcount": "~100-120",
+  "latest_news": "CEO: EBITDA-positive since Apr 2026, opex down 25% by moving ops to AI agents",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7507846764796948481",
+  "traction": "ARR >$8M (mid-2024, 3.5x YoY); 5,000+ e-bikes in 6 US cities; EBITDA-positive",
+  "red_flags": "Soft, not scored: headcount -4.7% YoY on LinkedIn data (under the 5% bar); fleet ~5,000 in Sep 2025 and still '5,000+' in Sep 2026; Chicago rentals fell 8% amid immigration crackdown (Oct 2025); no new priced round since Jun 2024",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn company data via search: 101 staff, -4.7% YoY",
+    "url": "https://linkedin.com/company/getwhizz"
+   },
+   {
+    "label": "Zag Daily, Oct 2025: fleet of 5,000 e-bikes",
+    "url": "https://zagdaily.com/people/the-whizz-model-reshaping-new-yorks-delivery-e-bike-economy/"
+   },
+   {
+    "label": "Mike Peregudov (CEO) LinkedIn, Sep 2026: 120 people, 5,000+ e-bikes",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7507846764796948481"
+   },
+   {
+    "label": "TechBuzz/TechCrunch, Oct 2025: Chicago rentals down 8%",
+    "url": "https://www.techbuzz.ai/articles/whizz-e-bike-rentals-drop-8-as-chicago-crackdown-spooks-workers"
+   },
+   {
+    "label": "Tracxn: last round Series A Jun 2024",
+    "url": "https://platform.tracxn.com/a/d/company/59e95934e4b018113446cb1d/whizz"
+   }
+  ],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "7",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Whizz-Reviews-E8031808.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Depot, repair and fleet density plus in-house bikes and software give a cost edge, but it is capital-heavy, debt-funded, and its demand rides on gig platforms and immigration policy",
+  "distance_sources": [
+   {
+    "label": "Zag Daily, Oct 2025: 9 locations, 3,000 repairs/mo, own ERP and bikes",
+    "url": "https://zagdaily.com/people/the-whizz-model-reshaping-new-yorks-delivery-e-bike-economy/"
+   },
+   {
+    "label": "LETA Capital, Jun 2024: $12M Series A, ARR >$8M",
+    "url": "https://www.leta.vc/news/leta-capital-leads-12m-series-a-round-for-whizz-an-e-bike-subscription-platform"
+   },
+   {
+    "label": "CEO LinkedIn, Sep 2026: EBITDA-positive, AI-run ops",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7507846764796948481"
+   },
+   {
+    "label": "Whizz careers: field recovery, mechanics, store roles",
+    "url": "https://www.getwhizz.com/careers"
+   }
+  ]
  }
 ]
