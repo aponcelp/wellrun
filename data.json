@@ -19455,5 +19455,59 @@
    "Sunnyvale",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Motif",
+  "slug": "motif",
+  "site": "https://www.motif.io",
+  "careers_url": "https://jobs.lever.co/motifsystems",
+  "what_they_do": "Browser-based, agent-native BIM platform where architects and AI agents model buildings together",
+  "problem": "Architects are stuck in 20-year-old desktop BIM tools that are slow, siloed and hard for whole teams to use",
+  "industry": "AEC / building design software",
+  "stage": "Series A",
+  "last_round": "$46M (seed + Series A combined)",
+  "last_round_date": "Jan 2025",
+  "lead_investors": "CapitalG (Series A); Redpoint Ventures (seed)",
+  "total_open_roles": "2",
+  "ops_roles": "Solutions Engineer (NYC); Solutions Engineer (Copenhagen)",
+  "hiring_trend": "Headcount ~87, +38% YoY (LinkedIn); Revelio shows 76 in Mar 2026, +5% YoY; only 2 live roles",
+  "headcount": "~87",
+  "latest_news": "Launched Motif Design, its agent-native browser BIM authoring platform, priced per active user",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20260908595059/en/Motif-Introduces-Motif-Design-The-First-Agent-Native-Building-Design-Software-Platform",
+  "traction": "Flagship launched Sep 2026; used by 'signature' firms in US, UK, Nordics (SOM quoted); no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Motif-EI_IE10390616.11,16.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Flagship BIM tool launched only in Sep 2026 with no adoption figures, against an entrenched Autodesk Revit.",
+  "distance_sources": [
+   {
+    "label": "Business Wire, Motif Design launch, Sep 2026",
+    "url": "https://www.businesswire.com/news/home/20260908595059/en/Motif-Introduces-Motif-Design-The-First-Agent-Native-Building-Design-Software-Platform"
+   },
+   {
+    "label": "Construction Industry AI, launch and pricing analysis, Sep 2026",
+    "url": "https://www.constructionindustry.ai/product/motif-design-agent-native-bim-launch/"
+   },
+   {
+    "label": "AEC Magazine, Motif to take on Revit, Feb 2025",
+    "url": "https://aecmag.com/bim/motif-to-take-on-revit-exclusive-interview/"
+   }
+  ],
+  "hiring_locations": [
+   "Copenhagen",
+   "New York",
+   "Remote (US)"
+  ]
  }
 ]
