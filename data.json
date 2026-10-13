@@ -14421,5 +14421,250 @@
     "url": "https://www.newtonx.com/press/b2b-synthetic-personas/"
    }
   ]
+ },
+ {
+  "name": "Actively",
+  "slug": "actively",
+  "site": "https://www.actively.ai",
+  "careers_url": "https://job-boards.greenhouse.io/activelyai",
+  "what_they_do": "AI agents that work every sales account 24/7 and tell reps what to do next",
+  "problem": "Sales teams can only work the accounts a human is focused on, so pipeline slips through",
+  "industry": "Sales tech / AI for GTM",
+  "stage": "Series B",
+  "last_round": "$45M",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "TCV and First Harmonic (co-led)",
+  "total_open_roles": "21",
+  "ops_roles": "Chief of Staff to Co-Founder; Agent Engagement Manager; Forward Deployed Engineer",
+  "hiring_trend": "Headcount ~84, up ~236% in 12 mo (RepVue, Jul 2026, est.); 21 open roles",
+  "headcount": "~80",
+  "latest_news": "Raised $45M Series B at a $250M valuation; opening a San Francisco office",
+  "latest_news_date": "Apr 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20260428810008/en/Actively-Raises-%2445M-Series-B-to-Scale-Intelligence-Led-Revenue-Platform",
+  "traction": "Team roughly tripled in a year; used by Ramp, Samsara, Ironclad, Attentive",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Actively-AI-EI_IE10317936.11,22.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Strong logos, but it sells into a crowded AI sales market where Salesforce and bigger rivals pitch agents to the same buyer.",
+  "distance_sources": [
+   {
+    "label": "Forbes, Apr 2026: $250M valuation; pitched as challenging Salesforce with AI agents",
+    "url": "https://www.forbes.com/sites/sofiachierchio/2026/04/28/meet-the-250-million-startup-challenging-salesforce-with-ai-agents/"
+   },
+   {
+    "label": "FinSMEs, Apr 2026: customers Attentive, Ironclad, Ramp, Samsara",
+    "url": "https://www.finsmes.com/2026/04/actively-raises-45m-in-series-b-funding.html"
+   },
+   {
+    "label": "RepVue: ~84 employees, +236% in 12 months",
+    "url": "https://www.repvue.com/companies/actively-ai"
+   }
+  ]
+ },
+ {
+  "name": "Coast",
+  "slug": "coast",
+  "site": "https://coastpay.com",
+  "careers_url": "https://job-boards.greenhouse.io/coast",
+  "what_they_do": "Fleet fuel cards, corporate cards and bill pay for businesses that run vehicles",
+  "problem": "Fleet owners can't control or track fuel and field spend across drivers without fraud and paperwork",
+  "industry": "Fintech / fleet payments",
+  "stage": "Series B",
+  "last_round": "$40M",
+  "last_round_date": "Jul 2024",
+  "lead_investors": "ICONIQ Growth",
+  "total_open_roles": "19",
+  "ops_roles": "Chief of Staff, Office of the CEO; Customer Operations Associate; Manager of Customer Success; Customer Support Associate",
+  "hiring_trend": "~65 staff (Jul 2024) to ~185 on LinkedIn (Oct 2026, est.); 19 open roles",
+  "headcount": "~185",
+  "latest_news": "Launched Bill Pay, its biggest product expansion, alongside fleet and corporate cards",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://coastpay.com/blog/bill-pay-launch/",
+  "traction": "Revenue up 10x in 18 months (2024); thousands of fleet customers; headcount ~3x since 2024",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.7",
+  "glassdoor_reviews": "21",
+  "glassdoor_url": "https://www.glassdoor.ca/Reviews/Coast-Reviews-E5711509.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "A well-liked challenger behind WEX and Corpay, and behind AtoB in scale; its Samsara and Fleetio embeds help but don't make it a leader.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch, Jul 2024: $40M Series B, ~65 employees, revenue growth claims",
+    "url": "https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/"
+   },
+   {
+    "label": "Coast blog, Jul 2026: only fuel card embedded inside Samsara",
+    "url": "https://coastpay.com/blog/brilliant-or-bs-what-fleet-leaders-really-think-about-fuel-fraud-and-ai/"
+   },
+   {
+    "label": "Dealroom: valuation $100–250M (2024), headcount 100–500",
+    "url": "https://dealroom.co/companies/coast-1-4"
+   }
+  ]
+ },
+ {
+  "name": "AtoB",
+  "slug": "atob",
+  "site": "https://www.atob.com",
+  "careers_url": "https://jobs.ashbyhq.com/atob",
+  "what_they_do": "Fuel cards, spend controls and instant payments for trucking fleets",
+  "problem": "Truckers and fleet owners pay high fees on closed fuel cards and wait days to get paid",
+  "industry": "Fintech / trucking payments",
+  "stage": "Series C",
+  "last_round": "$82M (Series C2, per PitchBook)",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "Not disclosed (Series C: General Catalyst, Bloomberg Beta)",
+  "total_open_roles": "9",
+  "ops_roles": "",
+  "hiring_trend": "~187 on LinkedIn, +8% YoY (est.); 9 open roles, several posted in 2024–25",
+  "headcount": "~180",
+  "latest_news": "Powers Geotab's new Fleet Card, first telematics platform to embed AtoB payments",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://finance.yahoo.com/technology/articles/atob-announces-geotab-first-fleet-120000049.html",
+  "traction": "30,000+ fleets on the card (reported); 500% revenue growth in year before Series C (2024)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.3",
+  "glassdoor_reviews": "59",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/AtoB-Reviews-E5140146.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Leads the venture-backed challengers with deep partner embeds (Geotab, Uber Freight), but trails WEX and Corpay and shows internal strain.",
+  "distance_sources": [
+   {
+    "label": "Business Wire, Oct 2026: Geotab Fleet Card built on AtoB",
+    "url": "https://finance.yahoo.com/technology/articles/atob-announces-geotab-first-fleet-120000049.html"
+   },
+   {
+    "label": "FinTech Futures, Sep 2024: $130M Series C, 500% revenue growth, Uber Freight card",
+    "url": "https://www.fintechfutures.com/press-releases/atob-announces-new-funding-and-growth-milestones"
+   },
+   {
+    "label": "Glassdoor: 3.3/59, Aug 2026 review cites badly handled layoffs",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-AtoB-E5140146-RVW70836884.htm"
+   }
+  ]
+ },
+ {
+  "name": "Wonderly",
+  "slug": "wonderly",
+  "site": "https://www.wonderly.com",
+  "careers_url": "https://jobs.ashbyhq.com/wonderly",
+  "what_they_do": "Free AI agents, software and growth team for home-service businesses, paid on revenue share",
+  "problem": "Small service businesses can't afford the marketing, sales and software stack big franchises use to grow",
+  "industry": "SMB software / AI for home services",
+  "stage": "Series C (raised as Motion)",
+  "last_round": "$60M (B, C, C2 combined)",
+  "last_round_date": "Sep 2025",
+  "lead_investors": "Scale Venture Partners (Series C)",
+  "total_open_roles": "6",
+  "ops_roles": "Operations Generalist; New Grad — Customer Success and Onboarding Manager; BDR / Sales Operations Generalist",
+  "hiring_trend": "~42 staff (Tracxn, Jun 2026); 6 open roles after May 2026 pivot from Motion",
+  "headcount": "~42",
+  "latest_news": "Motion's team pivoted fully into Wonderly, revenue-share AI for home services, in mid-May",
+  "latest_news_date": "May 2026",
+  "latest_news_url": "https://jobs.ashbyhq.com/wonderly/9a9dedd4-d035-4169-a8e5-2280e0186730",
+  "traction": "Says it has PMF; funded by ~$20M/yr free cash flow from Motion (company claim)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "A months-old pivot with no public customer or revenue numbers yet; too early to judge its position against ServiceTitan and Housecall Pro.",
+  "distance_sources": [
+   {
+    "label": "Wonderly Ashby posting: pivoted from Motion mid-May; $50M+ raised; replaces ServiceTitan, Housecall Pro",
+    "url": "https://jobs.ashbyhq.com/wonderly/9a9dedd4-d035-4169-a8e5-2280e0186730"
+   },
+   {
+    "label": "TechCrunch, Sep 2025: Motion's $38M Series C, 10K B2B customers, $10M ARR in agent bundle",
+    "url": "https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents"
+   },
+   {
+    "label": "r/UseMotion, Jul 2026: users say Motion was deprioritised for Wonderly",
+    "url": "https://redlib.synth.download/r/UseMotion/comments/1utitgn/does_motion_still_receive_meaningful_updates_or/"
+   }
+  ]
+ },
+ {
+  "name": "Benepass",
+  "slug": "benepass",
+  "site": "https://www.benepass.com",
+  "careers_url": "https://jobs.ashbyhq.com/benepass",
+  "what_they_do": "One platform and card for employee stipends, LSAs, FSAs, HRAs and commuter benefits",
+  "problem": "Employers juggle many benefits vendors and employees struggle to understand and use what they have",
+  "industry": "HR tech / benefits fintech",
+  "stage": "Series B",
+  "last_round": "$40M",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "Centana Growth Partners",
+  "total_open_roles": "5",
+  "ops_roles": "Enterprise Customer Success Manager; Senior Partner Success Manager",
+  "hiring_trend": "~120 staff (Crustdata), up from 19 in 2021; growing YoY on LinkedIn; 5 open roles",
+  "headcount": "~120",
+  "latest_news": "Launched AI benefits assistant via its own MCP server, plus a rebrand",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/benepass-brings-personalized-employee-benefits-into-the-ai-era-302906123.html",
+  "traction": "Revenue more than doubled since Jan 2025; 300+ employers, 6M+ card transactions",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.9",
+  "glassdoor_reviews": "26",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Benepass-Reviews-E5374192.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "A solid, growing player in a crowded benefits-accounts market led by Forma for stipends and big incumbents for FSAs and HSAs.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire, Jan 2026: $40M Series B, 250+ employers, revenue more than doubled",
+    "url": "https://www.prnewswire.com/news-releases/benepass-raises-40m-series-b-to-help-employers-redesign-benefits-for-rising-healthcare-costs-302666704.html"
+   },
+   {
+    "label": "PR Newswire, Oct 2026: 300+ employers, 6M+ card transactions, Workday Wellness partner",
+    "url": "https://www.prnewswire.com/news-releases/benepass-brings-personalized-employee-benefits-into-the-ai-era-302906123.html"
+   },
+   {
+    "label": "Dealroom: $160M valuation at Series B vs $80M in 2024",
+    "url": "https://dealroom.co/companies/benepass"
+   }
+  ]
  }
 ]
