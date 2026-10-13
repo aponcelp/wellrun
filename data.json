@@ -16811,5 +16811,67 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Levanta",
+  "slug": "levanta",
+  "site": "https://levanta.io",
+  "careers_url": "https://job-boards.greenhouse.io/levanta",
+  "what_they_do": "Creator and affiliate marketing platform for brands selling on Amazon, Walmart and Shopify",
+  "problem": "Marketplace sellers struggle to find, pay and measure creators who drive outside traffic to their listings",
+  "industry": "E-commerce marketing / creator commerce",
+  "stage": "Series B",
+  "last_round": "$22M",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "Volition Capital",
+  "total_open_roles": "9",
+  "ops_roles": "Customer Success Manager, APAC (China-based)",
+  "hiring_trend": "Headcount ~30 (Nov 2024) to 100+ (Aug 2026); open roles 8 to 9 vs Oct 2025",
+  "headcount": "~100+",
+  "latest_news": "Raised $22M Series B led by Volition Capital; cash liquidity for employees",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/08/27/3352054/0/en/levanta-raises-22m-series-b-from-volition-capital-to-deploy-the-infrastructure-for-creator-commerce-media.html",
+  "traction": "2026 revenue up 80% YoY; profitable or break-even since launch; 90,000+ vetted creators",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.8",
+  "glassdoor_reviews": "14",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Levanta-Reviews-E9307.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Leads the niche of affiliate platforms for Amazon sellers, profitable and growing 80%, but leans on Amazon, which runs its own free creator program.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire, Aug 2026: revenue +80% YoY, 90,000+ creators, expanding past Amazon",
+    "url": "https://www.globenewswire.com/news-release/2026/08/27/3352054/0/en/levanta-raises-22m-series-b-from-volition-capital-to-deploy-the-infrastructure-for-creator-commerce-media.html"
+   },
+   {
+    "label": "GeekWire, Aug 2026: 100+ staff, profitable or roughly break-even since launch",
+    "url": "https://www.geekwire.com/2026/as-the-influencer-economy-drives-sales-seattle-startup-raises-22m-to-play-matchmaker/"
+   },
+   {
+    "label": "GlobeNewswire, Apr 2026: acquired rival Amazon affiliate network Perch+",
+    "url": "https://www.globenewswire.com/news-release/2026/04/06/3268381/0/en/Levanta-Acquires-Perch-Expanding-Its-Affiliate-Marketplace-with-Hundreds-of-Amazon-Sellers-and-Publishers.html"
+   },
+   {
+    "label": "SalesDuo comparison: rivals Archer Affiliates and Amazon's own free Creator Connections",
+    "url": "https://salesduo.com/blog/best-amazon-affiliate-platform-levanta-archer-creator-connections"
+   },
+   {
+    "label": "Coral comparison, May 2026: Creator Connections is free but not Brand Referral Bonus eligible",
+    "url": "https://preview.coral.ax/compare/levanta-vs-amazon-creator-connections"
+   }
+  ],
+  "hiring_locations": [
+   "Shenzhen",
+   "Europe",
+   "Remote (Netherlands)"
+  ]
  }
 ]
