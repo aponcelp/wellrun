@@ -10347,5 +10347,66 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "PlanetScale",
+  "slug": "planetscale",
+  "site": "https://planetscale.com",
+  "careers_url": "https://job-boards.greenhouse.io/planetscale",
+  "what_they_do": "Managed MySQL (Vitess) and Postgres databases, including Neki sharded Postgres",
+  "problem": "Teams outgrow a single database server and need to scale without downtime or a big ops team",
+  "industry": "Developer tools / Databases",
+  "stage": "Series C",
+  "last_round": "$50M",
+  "last_round_date": "Nov 2021",
+  "lead_investors": "Kleiner Perkins (C); Insight Partners (B); Andreessen Horowitz (A)",
+  "total_open_roles": "12",
+  "ops_roles": "Customer Support Engineer; Enterprise Support Engineer",
+  "hiring_trend": "Rebuilt from ~53 (Q4 2024) to ~101; flat YoY in 2026 (-0.7%, Revelio); open roles ~10 → 12 since Aug",
+  "headcount": "~100",
+  "latest_news": "Launched Neki, sharded Postgres, in platform preview; 118M QPS benchmark",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://planetscale.com/blog/introducing-neki",
+  "traction": "Several thousand Postgres customers onboarded in ~18 months; projected profitability after 2024 cuts",
+  "red_flags": "Outside 24-mo window, not scored: Mar 2024 layoffs (reportedly ~half the company, mainly sales/marketing) alongside killing the free Hobby tier; headcount fell ~27% to ~53 in 2024, since recovered. Glassdoor reviews from 2024 cite layoffs multiple times. No new funding since Nov 2021 (~59 mo).",
+  "red_flags_sources": [
+   {
+    "label": "PlanetScale blog, 'PlanetScale forever' (Mar 2024)",
+    "url": "https://planetscale.com/blog/planetscale-forever"
+   },
+   {
+    "label": "The Register, layoffs and free tier end (Mar 2024)",
+    "url": "https://www.theregister.com/2024/03/11/planetscale_lays_off_staff_and"
+   },
+   {
+    "label": "PlanetScale changelog, Hobby plan deprecation (Mar 2024)",
+    "url": "https://planetscale.com/changelog/deprecating-hobby"
+   },
+   {
+    "label": "LinkedIn post by laid-off employee: 'almost half the company' (Mar 2024)",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7171518137148788737"
+   },
+   {
+    "label": "Revelio Labs headcount trend",
+    "url": "https://www.reveliolabs.com/companies/planetscale/employees"
+   },
+   {
+    "label": "Glassdoor reviews",
+    "url": "https://www.glassdoor.com/Reviews/PlanetScale-Reviews-E2148572.htm"
+   },
+   {
+    "label": "Dealroom funding/valuation history",
+    "url": "https://dealroom.co/companies/planetscale/"
+   }
+  ],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "13",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-PlanetScale-EI_IE2148572.11,22.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
  }
 ]
