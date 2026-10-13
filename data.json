@@ -1315,11 +1315,12 @@
   "glassdoor_reviews": "334",
   "glassdoor_url": "",
   "traction": "90,000+ providers on 100+ health plans",
-  "red_flags": "",
-  "score": "2.75",
-  "zone": "Tempo",
+  "red_flags": "Employee reviews (Glassdoor Apr & Jul 2026, Blind May 2026) describe recurring 'quarterly quiet layoffs' framed as performance terminations",
+  "score": "1.75",
+  "zone": "Steady",
   "keep": "yes",
-  "is_new": true
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
  },
  {
   "name": "Payabli",
