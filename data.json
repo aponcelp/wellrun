@@ -18338,5 +18338,51 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Aquaria",
+  "slug": "aquaria",
+  "site": "https://www.aquaria.world",
+  "careers_url": "https://apply.workable.com/aquaria",
+  "what_they_do": "Atmospheric water generators that make whole-home and community water supply from air",
+  "problem": "Homes and developments with dry wells, drought limits or contaminated supply have no fast, reliable water source",
+  "industry": "Climate tech / water hardware",
+  "stage": "Series A",
+  "last_round": "$12M",
+  "last_round_date": "Nov 2024",
+  "lead_investors": "Soma Capital, Ciri Ventures, Umami Capital (also Mistletoe, Bow Capital, HF0); $100M project-finance facility from Upwell Water",
+  "total_open_roles": "4",
+  "ops_roles": "Operations, Strategy & Special Projects",
+  "hiring_trend": "Flat, ~40 staff (team +2.6% YoY per Dealroom); 4 open roles plus a general-interest listing",
+  "headcount": "~40",
+  "latest_news": "Axios profiles Hydropack sales to Texas homeowners hit by drought and dry wells",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.axios.com/local/san-antonio/2026/06/18/texas-aquaria-water-drought-air-humidity",
+  "traction": "250+ home installs in 2025, 300+ in Texas by Apr 2026; goal 1,000+ in 2026",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Small Series A with ~300 home installs in a young category that has bigger-funded rivals such as SOURCE Global.",
+  "distance_sources": [
+   {
+    "label": "Dealroom: Aquaria funding ($12M equity at $48M, Nov 2024)",
+    "url": "https://dealroom.co/companies/aquaria"
+   },
+   {
+    "label": "Play Money: 300+ residential installs in Texas (Apr 2026)",
+    "url": "https://www.linkedin.com/posts/letsplaymoney_aquaria-play-money-deal-closed-carousel-activity-7445501101082263552-uZyR"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
