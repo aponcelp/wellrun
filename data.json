@@ -13602,5 +13602,305 @@
     "url": "https://getsquire.com/business-edge/barbershop-software/barbershop-branded-booking-app"
    }
   ]
+ },
+ {
+  "name": "Cyclops",
+  "slug": "cyclops",
+  "site": "https://www.cyclops.io",
+  "careers_url": "https://www.cyclops.io/careers",
+  "what_they_do": "Stablecoin and crypto settlement, pay-ins, payouts and treasury for payments companies via one API",
+  "problem": "Payment providers settle on bank rails that stop on weekends and can't easily add stablecoins themselves",
+  "industry": "Fintech / stablecoin payments infrastructure",
+  "stage": "Series A",
+  "last_round": "$20M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Nava Ventures",
+  "total_open_roles": "6",
+  "ops_roles": "Technical Program Manager",
+  "hiring_trend": "Staff 20 (Mar 2026) → 31 (Jul 2026), plans to double by end of 2026; 6 open roles, remote",
+  "headcount": "~31-37",
+  "latest_news": "Yuno partnership puts Cyclops stablecoin settlement, pay-ins and payouts inside Yuno's orchestration platform",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://y.uno/en/newsroom/yuno-and-cyclops",
+  "traction": "Company-reported: 350% month-over-month volume growth since Mar 2026 launch; 300,000-merchant network; Shift4 a client",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Embeds into payment providers' stacks through one API, but leans on partners' licenses and rails, launched only in Mar 2026, and Circle or Stripe could ship the same tooling.",
+  "distance_sources": [
+   {
+    "label": "FinanceFeeds: Cyclops raised $20M (Jul 2026)",
+    "url": "https://financefeeds.com/cyclops-raised-20m-so-payment-firms-can-ship/"
+   },
+   {
+    "label": "Fortune: Cyclops raises $20M Series A (Jul 2026)",
+    "url": "https://fortune.com/2026/07/15/exclusive-cyclops-20-million-payment-companies-settlement-stablecoins/"
+   }
+  ]
+ },
+ {
+  "name": "OpenFX",
+  "slug": "openfx",
+  "site": "https://www.openfx.com",
+  "careers_url": "https://job-boards.greenhouse.io/openfx",
+  "what_they_do": "FX liquidity and cross-border settlement API for fintechs, using stablecoins as the settlement rail",
+  "problem": "Cross-border payments take days, cost 3-5% and stop outside banking hours, tying up pre-funded capital",
+  "industry": "Fintech / cross-border payments infrastructure",
+  "stage": "Series A",
+  "last_round": "$94M",
+  "last_round_date": "Mar 2026",
+  "lead_investors": "Accel, Atomico, Lightspeed Faction, M13, Northzone, Pantera",
+  "total_open_roles": "41",
+  "ops_roles": "Business Operations Manager (Miami); Head of Trade Operations; Client Success, North America (Miami); Product Operations - LatAm",
+  "hiring_trend": "LinkedIn-tracked staff 53 → 76 in two quarters (+21% QoQ, Aug 2026); 41 open roles",
+  "headcount": "~100",
+  "latest_news": "Launched OpenFX Ventures, an arm investing in early-stage cross-border payments founders",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://markets.businessinsider.com/news/stocks/openfx-launches-openfx-ventures-to-partner-with-the-next-generation-of-cross-border-payments-companies-1036608390",
+  "traction": "Annualized volume $4B → $45B in 2025 (10x revenue), now $80B+; 100+ fintech clients incl. MoneyGram",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "Licenses across the US, UK, EU, UAE and India plus its own FX desk and 100+ fintech clients are hard to copy; razor-thin spreads and Stripe/Bridge competition cap pricing power.",
+  "distance_sources": [
+   {
+    "label": "OpenFX Head of People job post (licenses, team)",
+    "url": "https://job-boards.greenhouse.io/openfx/jobs/5170926008"
+   },
+   {
+    "label": "OpenFX Ventures launch (Oct 2026)",
+    "url": "https://markets.businessinsider.com/news/stocks/openfx-launches-openfx-ventures-to-partner-with-the-next-generation-of-cross-border-payments-companies-1036608390"
+   },
+   {
+    "label": "Rebank: Prabhakar Reddy on spreads (Sep 2026)",
+    "url": "https://www.rebank.cc/rebuilding-cross-border-payments-with-prabhakar-reddy-of-openfx/"
+   }
+  ]
+ },
+ {
+  "name": "Vitally",
+  "slug": "vitally",
+  "site": "https://www.vitally.io",
+  "careers_url": "https://jobs.ashbyhq.com/vitally",
+  "what_they_do": "Customer success platform: account health, playbooks, projects and an AI copilot for CS teams",
+  "problem": "CS teams can't see customer health across scattered CRM, product and support data, so churn surprises them",
+  "industry": "Customer success software",
+  "stage": "Series B",
+  "last_round": "$30M",
+  "last_round_date": "Feb 2023",
+  "lead_investors": "Next47",
+  "total_open_roles": "1",
+  "ops_roles": "",
+  "hiring_trend": "Cooling: 1 open role; Revelio headcount 97 (Q3 2024) → 73 (Q1 2025) → 84 (Q1 2026)",
+  "headcount": "~84-137 (sources differ)",
+  "latest_news": "Launched the Vitally MCP Server, piping customer data into Claude, ChatGPT and Gemini",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.vitally.io/post/introducing-vitally-mcp-server",
+  "traction": "500th customer in Mar 2024; no newer public ARR or growth figures",
+  "red_flags": "No new VC round since the $30M Series B in Feb 2023 (~32 months); hiring nearly frozen (1 open role, new postings ~4/mo in 2023 → ~0 in 2026); headcount fell ~25% from 97 to 73 between Q3 2024 and Q1 2025 per Revelio, only partly recovered (no layoff publicly reported); May 2026 Glassdoor review flags difficult upper leadership.",
+  "red_flags_sources": [
+   {
+    "label": "TechCrunch: Vitally $30M Series B (Feb 2023)",
+    "url": "https://techcrunch.com/2023/02/22/showing-customer-success-platforms-havent-lost-steam-vitally-secures-30m/"
+   },
+   {
+    "label": "Revelio Labs: Vitally headcount and postings (Aug 2026)",
+    "url": "https://www.reveliolabs.com/companies/vitally/employees"
+   },
+   {
+    "label": "Vitally job board (1 open role)",
+    "url": "https://jobs.ashbyhq.com/vitally"
+   },
+   {
+    "label": "Glassdoor: Vitally reviews (May 2026 review)",
+    "url": "https://www.glassdoor.com/Reviews/Vitally-Reviews-E3103991.htm"
+   }
+  ],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "17",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Vitally-Reviews-E3103991.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky once wired into CRM and product data, but no retention figures are public, stickiness is weak where adoption is low, and CRMs and AI tools crowd the category.",
+  "distance_sources": [
+   {
+    "label": "Arbolus: Vitally customer reviews (NPS 54, Sep 2026)",
+    "url": "https://intelligence.arbolus.com/companies/vitally-io-78e8bb08/"
+   },
+   {
+    "label": "GainTrace: Gainsight vs Vitally (competitor blog; Gartner Niche Player)",
+    "url": "https://gaintrace.com/blog/gainsight-vs-vitally"
+   }
+  ]
+ },
+ {
+  "name": "Clipboard",
+  "slug": "clipboard",
+  "site": "https://www.clipboard.com",
+  "careers_url": "https://jobs.ashbyhq.com/clipboard",
+  "what_they_do": "App marketplace where nursing homes, hospitals and dental offices post shifts and vetted clinicians claim them",
+  "problem": "Care facilities can't reliably fill open nurse and aide shifts on short notice without pricey agencies",
+  "industry": "Healthcare staffing marketplace",
+  "stage": "Series C",
+  "last_round": "$30M",
+  "last_round_date": "Feb 2022",
+  "lead_investors": "Sequoia Capital (Series C); IVP (Series B)",
+  "total_open_roles": "40",
+  "ops_roles": "Strategy & Ops Lead, Applied AI; Operations Strategy Associate; S&O Senior Associate; Strategic WFM Analyst",
+  "hiring_trend": "Headcount +38% YoY (~4,070 on LinkedIn, est.); 40 open roles vs 37 on Oct 11",
+  "headcount": "~3,500–4,000 (Tracxn 3,520 Mar 2026; LinkedIn ~4,070)",
+  "latest_news": "Sued by NY staffing partner People Powered for unfair competition, seeking $30M",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://westfaironline.com/courts/rockland-healthcare-staffing-business-sues-nurse-agency",
+  "traction": "~$314M revenue (2024, Latka est.); 6,500+ workplaces, 1M+ workers; says profitable since 2022",
+  "red_flags": "Worker-misclassification litigation (NPH suit with 2026 discovery orders; $8M+ in CA wage settlements) and People Powered suit (Jul 2026); exited New York after its 2025 gig-nurse law",
+  "red_flags_sources": [
+   {
+    "label": "RuntimeWire, NPH misclassification suit discovery order, Jul 2026",
+    "url": "https://runtimewire.com/article/clipboard-health-lawsuit-forces-open-the-economics-of-gig-nursing"
+   },
+   {
+    "label": "Westfair, People Powered v. Clipboard Health, Jul 2026",
+    "url": "https://westfaironline.com/courts/rockland-healthcare-staffing-business-sues-nurse-agency"
+   },
+   {
+    "label": "LegalClarity, Clipboard Health settlements and class actions, Jun 2026",
+    "url": "https://legalclarity.org/clipboard-health-lawsuit-settlements-and-class-actions/"
+   },
+   {
+    "label": "allnurses (citing AI Now report), Clipboard exited New York after Article 29-K, Apr 2026",
+    "url": "https://allnurses.com/news/what-de-professionalization-nursing-looks-like-r72/"
+   },
+   {
+    "label": "The Guardian, gig-nursing apps lobby to deregulate, Apr 2026",
+    "url": "https://www.theguardian.com/us-news/2026/apr/21/healthcare-nurses-gig-work-ai-apps"
+   }
+  ],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.7",
+  "glassdoor_reviews": "630",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Clipboard-Reviews-E2305678.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Two-sided marketplace (1M+ workers, 6,500+ workplaces) with local liquidity and new lines (dental, hospitals); but its contractor model faces lawsuits and state laws, and it left New York rather than comply",
+  "distance_sources": [
+   {
+    "label": "LinkedIn company page (workplaces, workers, headcount growth)",
+    "url": "https://linkedin.com/company/clipboard"
+   },
+   {
+    "label": "Getlatka revenue estimate",
+    "url": "https://getlatka.com/companies/clipboardhealth.com"
+   },
+   {
+    "label": "allnurses / AI Now: New York exit",
+    "url": "https://allnurses.com/news/what-de-professionalization-nursing-looks-like-r72/"
+   },
+   {
+    "label": "Live Ashby board (ops roles in marketplace ops, trust & safety)",
+    "url": "https://jobs.ashbyhq.com/clipboard"
+   }
+  ]
+ },
+ {
+  "name": "Papa",
+  "slug": "papa",
+  "site": "https://www.papa.com",
+  "careers_url": "https://job-boards.greenhouse.io/papa",
+  "what_they_do": "Vetted companions (Papa Pals) who help older adults with errands, rides and company, via health plans",
+  "problem": "Isolated seniors lack everyday help and connection, and health plans can't reach or engage them at home",
+  "industry": "Eldercare / in-home support",
+  "stage": "Series D",
+  "last_round": "$150M",
+  "last_round_date": "Nov 2021",
+  "lead_investors": "SoftBank Vision Fund 2",
+  "total_open_roles": "3",
+  "ops_roles": "General Manager, Consumer",
+  "hiring_trend": "Shrinking: headcount −22% in 2 yrs (756 → 591, Revelio, Q1 2024–Q1 2026); 3 open roles",
+  "headcount": "~590 staff (Revelio, Mar 2026; LinkedIn ~1,050 incl. contractors)",
+  "latest_news": "Launched $30/hour direct-to-consumer companion service in 10 states",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://refreshmiami.com/news/miami-startup-papa-unveils-direct-to-consumer-companionship-model/",
+  "traction": "~1M health-plan members covered; 80% of plan clients added programs for 2027 (CEO)",
+  "red_flags": "Sustained headcount decline (−14% YoY late 2024, −6% YoY late 2025) with 2026 Glassdoor reviews citing repeated layoffs and job insecurity; no new priced round since Nov 2021 (follows 2023 loss of dozens of insurer contracts)",
+  "red_flags_sources": [
+   {
+    "label": "Revelio Labs headcount data (952 in 2023 → 591 Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/papa/employees"
+   },
+   {
+    "label": "Glassdoor review, 'too many layoffs', Jul 2026",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Papa-E2525288-RVW104881487.htm"
+   },
+   {
+    "label": "Glassdoor reviews page, 'Job insecurity due to constant changes', Sep 2026",
+    "url": "https://www.glassdoor.sg/Reviews/Papa-Reviews-E2525288.htm"
+   },
+   {
+    "label": "Context (2023, older than 24 mo): Becker's, ~3 dozen payers and employers drop Papa",
+    "url": "https://www.beckerspayer.com/payer/nearly-3-dozen-payers-drop-senior-companionship-company/"
+   },
+   {
+    "label": "Context: last announced round, $150M Series D, Nov 2021 (MobiHealthNews)",
+    "url": "https://www.mobihealthnews.com/news/senior-care-platform-papa-scoops-150m-series-d-funding"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "150",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Papa-Reviews-E2525288.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Big Pal network (~100k onboarded) is real, but health plans walked away after 2023 safety reports, it depends on Medicare Advantage extra-benefit budgets, and the new consumer arm is untested",
+  "distance_sources": [
+   {
+    "label": "Refresh Miami, Pal network and DTC launch, Aug 2026",
+    "url": "https://refreshmiami.com/news/miami-startup-papa-unveils-direct-to-consumer-companionship-model/"
+   },
+   {
+    "label": "Becker's, payers drop Papa, Nov 2023",
+    "url": "https://www.beckerspayer.com/payer/nearly-3-dozen-payers-drop-senior-companionship-company/"
+   },
+   {
+    "label": "Fierce Healthcare, Papa Plus for insurers, Mar 2026",
+    "url": "https://www.fiercehealthcare.com/payers/papa-rolls-out-new-program-insurers-called-papa-plus"
+   }
+  ]
  }
 ]
