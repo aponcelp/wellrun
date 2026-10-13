@@ -1405,7 +1405,6 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
             ? `<span class="x-gd"><span aria-hidden="true">★ ${esc(c.gd)}${has(c.glassdoor_reviews) ? " · " + esc(c.glassdoor_reviews) : ""}</span><span class="sr-only">Glassdoor ${esc(c.gd)} stars${has(c.glassdoor_reviews) ? ", " + esc(c.glassdoor_reviews) + " reviews" : ""}</span></span>`
             : "";
           const pills =
-            (c.is_new ? `<span class="x-pill x-pill--new">new</span>` : "") +
             (hiring ? `<span class="x-pill x-pill--hire">${c.ops.length} ops</span>` : "") +
             gdBadge;
           return `<li class="x-proc">
