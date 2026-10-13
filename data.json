@@ -16873,5 +16873,62 @@
    "Europe",
    "Remote (Netherlands)"
   ]
+ },
+ {
+  "name": "OuterSignal",
+  "slug": "outersignal",
+  "site": "https://www.outersignal.com",
+  "careers_url": "https://jobs.ashbyhq.com/outersignal",
+  "what_they_do": "Enriches every e-commerce customer with public profile data to power personas, VIP alerts and 1:1 marketing",
+  "problem": "Brands process millions of orders but know almost nothing about who is buying, so every customer gets the same marketing",
+  "industry": "Marketing tech / e-commerce customer intelligence",
+  "stage": "Series A",
+  "last_round": "$22M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Long Journey Ventures, Abstract Ventures (co-leads)",
+  "total_open_roles": "9",
+  "ops_roles": "Chief of Staff; Implementation Lead; Senior Customer Success Manager; Customer Success Manager",
+  "hiring_trend": "Team ~14 (Apr 2026) to ~25-31 (Sep-Oct 2026); 9 open roles",
+  "headcount": "~30",
+  "latest_news": "Raised $22M Series A co-led by Long Journey and Abstract, nine months after launch",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/outersignal-raises-22m-series-a-to-bring-agentic-personalization-to-every-consumer-brand-302892586.html",
+  "traction": "150+ brands (2025) to ~1,000 (Apr 2026) to thousands (Sep 2026); AG1, HexClad, Jones Road",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Nine months past launch with a fresh Series A; fast brand adoption but revenue still small and its public-data enrichment faces direct rivals (Mercana, sonarID) and Klaviyo-style incumbents.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: $22M Series A, launched Jan 2026, thousands of brands (Sep 2026)",
+    "url": "https://www.prnewswire.com/news-releases/outersignal-raises-22m-series-a-to-bring-agentic-personalization-to-every-consumer-brand-302892586.html"
+   },
+   {
+    "label": "Inc.: 14-person team, nearly 1,000 customers (Apr 2026)",
+    "url": "https://www.inc.com/ali-donaldson/your-company-could-have-a-secret-celebrity-customer-this-startup-will-help-you-find-them/91334802"
+   },
+   {
+    "label": "Mercana: OuterSignal vs Mercana, direct rival (Feb 2026)",
+    "url": "https://www.mercana.so/blog/outersignal-vs-mercana"
+   },
+   {
+    "label": "OuterSignal acquires Monocle lifecycle AI, second product line (May 2026)",
+    "url": "https://www.prnewswire.com/news-releases/outersignal-acquires-monocle-accelerating-their-vision-for-a-full-stack-agentic-personalization-platform-302783705.html"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote (US)"
+  ]
  }
 ]
