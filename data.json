@@ -18952,5 +18952,57 @@
    "Columbus",
    "Remote (Canada)"
   ]
+ },
+ {
+  "name": "Tango",
+  "slug": "tango",
+  "site": "https://www.tango.ai",
+  "careers_url": "https://jobs.ashbyhq.com/tango",
+  "what_they_do": "Browser and desktop capture that turns any workflow into step-by-step guides and in-app guidance",
+  "problem": "Teams keep re-explaining the same software steps, so onboarding, training and rollouts drag",
+  "industry": "Workflow / productivity SaaS",
+  "stage": "Series A",
+  "last_round": "$14M",
+  "last_round_date": "Jun 2022",
+  "lead_investors": "Tiger Global",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "Flat, ~70-75 staff (LinkedIn 75, +7% YoY est.); only 2 open roles",
+  "headcount": "~73",
+  "latest_news": "Rebranded around tango.ai, doubling down on workflow capture and guidance",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.tango.ai/blog/tango-rebrand",
+  "traction": "1,387% three-year revenue growth (Inc. 5000 2026, No. 246); 900K+ users",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.6",
+  "glassdoor_reviews": "3",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Tango-Technology-EI_IE7983735.11,27.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Well-liked with broad free adoption, but a follower behind Scribe ($100M ARR) and DAP incumbents in a crowded, easy-to-copy category, with no priced round since 2022.",
+  "distance_sources": [
+   {
+    "label": "Tango: Inc. 5000 2026, No. 246 (Aug 2026)",
+    "url": "https://www.tango.ai/blog/tango-inc-5000-2026"
+   },
+   {
+    "label": "Scribe: $100M ARR press release (May 2026)",
+    "url": "https://scribe.com/library/100-million-arr-press-release"
+   },
+   {
+    "label": "Tracxn: Tango profile, $19.7M raised, Series A (Dec 2025)",
+    "url": "https://tracxn.com/d/companies/tango/__ja-fDvsD4H_BDHtBb4h_Sx-7PdwFjOs08etcbKPEi-M"
+   }
+  ],
+  "hiring_locations": [
+   "Remote"
+  ]
  }
 ]
