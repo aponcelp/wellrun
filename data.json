@@ -18271,5 +18271,72 @@
    "Remote (Europe)",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Félix Pago",
+  "slug": "felix-pago",
+  "site": "https://www.felixpago.com",
+  "careers_url": "https://jobs.gem.com/felix",
+  "what_they_do": "AI chat assistant on WhatsApp for sending money from the US to Latin America",
+  "problem": "Latino immigrants pay high fees and face clunky apps or agent counters to send money home",
+  "industry": "Fintech / cross-border remittances",
+  "stage": "Series C",
+  "last_round": "$87M equity (part of $200M package with $113M credit line)",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Andreessen Horowitz (equity); General Catalyst Customer Value Fund (credit facility)",
+  "total_open_roles": "78",
+  "ops_roles": "Product Operations & Strategy Senior Manager (Miami); Collections Operations Manager (Miami); Chargeback Strategy & Operations Lead (Miami/NY); Director, Engineering Operations (NY)",
+  "hiring_trend": "Headcount 159 → 414 in a year (Revelio, Q1 2025 → Q1 2026); postings up 126% vs 2025",
+  "headcount": "~450 (est.; Revelio 414 Mar 2026, Tracxn 498 Jul 2026)",
+  "latest_news": "Launched WhatsApp remittances to Costa Rica, its newest market after the $200M raise",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.elfinancierocr.com/tecnologia/como-funciona-felix-el-servicio-de-remesas-desde/KLASDFJZR5FOBFEUWGZMDXU43E/story/",
+  "traction": "Revenue up 2.5x YoY; $8B+ processed; users ~175K to 400K+ in 12 months",
+  "red_flags": "Soft, not scored: one Jul 2026 Glassdoor review says long-tenured staff were terminated without notice days before Christmas (no reported RIF); immigration enforcement dented volumes in early 2025 before they recovered; most of the $200M is a credit line, and lending is not yet proven",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor reviews, Félix Pago (3.6, 7 reviews; Jul 2026 termination review)",
+    "url": "https://www.glassdoor.com/Reviews/Felix-Pago-Reviews-E8790737.htm"
+   },
+   {
+    "label": "Refresh Miami, Apr 2025: volumes dipped amid immigration enforcement, then rebounded",
+    "url": "https://refreshmiami.com/news/felix-pagos-75m-raise-proves-money-talks-on-whatsapp/"
+   },
+   {
+    "label": "AInvest, Sep 2026: $200M round was mostly a loan",
+    "url": "https://www.ainvest.com/news/felix-pago-200-million-loan-2609/"
+   },
+   {
+    "label": "Tech Times, Sep 2026: lending loss curves unproven",
+    "url": "https://www.techtimes.com/articles/326260/20260901/felix-pago-raises-200m-federal-cash-tax-hits-competitors-exempts-digital-transfers.htm"
+   }
+  ],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "7",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Felix-Pago-Reviews-E8790737.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "A fast-growing WhatsApp-native challenger, but Remitly (~23% of US-LatAm digital share), Western Union and Intermex are far bigger, and it runs on Meta's WhatsApp.",
+  "distance_sources": [
+   {
+    "label": "Tech Times, Sep 2026: competes with Remitly (~23% share), Wise, Western Union, MoneyGram, Bitso",
+    "url": "https://www.techtimes.com/articles/326260/20260901/felix-pago-raises-200m-federal-cash-tax-hits-competitors-exempts-digital-transfers.htm"
+   },
+   {
+    "label": "Crunchbase News, Sep 2026: $8B+ processed, revenue 2.5x, 11 markets",
+    "url": "https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst/"
+   },
+   {
+    "label": "Value Add VC, Sep 2026: users ~175K to 400K+ in 12 months",
+    "url": "https://valueaddvc.com/blog/felix-pago-valuation-2026-200m-series-c-1-4b-whatsapp-remittances"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
