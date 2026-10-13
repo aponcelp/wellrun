@@ -19269,5 +19269,73 @@
   "hiring_locations": [
    "San Francisco"
   ]
+ },
+ {
+  "name": "WorkOS",
+  "slug": "workos",
+  "site": "https://workos.com",
+  "careers_url": "https://jobs.ashbyhq.com/workos",
+  "what_they_do": "APIs that add enterprise SSO, directory sync, auth and permissions to software apps",
+  "problem": "Software companies lose enterprise deals until they build SSO, SCIM, audit logs and permissions themselves",
+  "industry": "Developer tools / identity & auth",
+  "stage": "Series C",
+  "last_round": "$100M",
+  "last_round_date": "Mar 2026",
+  "lead_investors": "Meritech, Sapphire",
+  "total_open_roles": "30",
+  "ops_roles": "Account Manager; Employee Programs; Solutions Engineer",
+  "hiring_trend": "Headcount ~144, +52% YoY (LinkedIn est.); 30 open roles",
+  "headcount": "~144",
+  "latest_news": "Previewed Airlock, Atlas and Passport agent products at its init() 2026 conference",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://workos.com/blog/init-2026-recap",
+  "traction": "ARR $20M (May 2025) to $30M (Oct 2025), +118%; 1,000+ paying customers",
+  "red_flags": "Minor, not scored: recent Glassdoor (Jul and Sep 2026) and Blind reviews cite toxic leadership and abrupt firings; no announced layoffs found",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor review, Jul 2026: 'Toxic leadership and a damaging work environment'",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-WorkOS-E4609033-RVW104897222.htm"
+   },
+   {
+    "label": "Glassdoor WorkOS reviews (3.7, 34 reviews, 57% recommend)",
+    "url": "https://www.glassdoor.sg/Reviews/WorkOS-Reviews-E4609033.htm"
+   },
+   {
+    "label": "Blind review: 'questionable leadership'",
+    "url": "https://www.teamblind.com/company/WorkOS/review/qQmKjDeY7G"
+   }
+  ],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "3.7",
+  "glassdoor_reviews": "34",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/WorkOS-Reviews-E4609033.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Default enterprise-auth layer for AI startups (OpenAI, Anthropic, Cursor), hard to rip out, but Okta/Auth0 is far bigger and Clerk and Stytch (Twilio) compete.",
+  "distance_sources": [
+   {
+    "label": "WorkOS: Series C announcement (Mar 2026)",
+    "url": "https://workos.com/blog/series-c"
+   },
+   {
+    "label": "Sacra: WorkOS revenue estimates",
+    "url": "https://sacra.com/c/workos"
+   },
+   {
+    "label": "Dealroom: Series C note on incumbents (Auth0/Okta, AWS Cognito)",
+    "url": "https://dealroom.co/news/126469-workos-raises-100m-series-c-at-2b-valuation-to-build-auth-for-the-ai-era"
+   }
+  ],
+  "hiring_locations": [
+   "United States & Canada",
+   "San Francisco",
+   "New York",
+   "Remote"
+  ]
  }
 ]
