@@ -18090,5 +18090,72 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Erebor",
+  "slug": "erebor",
+  "site": "https://erebor.bank",
+  "careers_url": "https://jobs.ashbyhq.com/erebor",
+  "what_they_do": "Federally chartered digital bank for AI, defense, crypto and advanced-manufacturing companies",
+  "problem": "Tech, defense and crypto companies lost their go-to bank with SVB and get turned away or underserved by big banks",
+  "industry": "Banking / fintech",
+  "stage": "Series A",
+  "last_round": "$350M",
+  "last_round_date": "Dec 2025",
+  "lead_investors": "Lux Capital",
+  "total_open_roles": "0",
+  "ops_roles": "",
+  "hiring_trend": "Growing: ~90 FTE (Jun 2026 call report) to ~116-145 (LinkedIn/TipRanks, Oct 2026); 0 public postings",
+  "headcount": "~120-145 (est.)",
+  "latest_news": "Deposits passed $7B eight months after opening; still raising ~$1.5B at $8B pre-money",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.crowdfundinsider.com/2026/10/316113-digital-bank-erebor-reportedly-holds-over-7-billion-in-deposits/",
+  "traction": "Deposits $1.1B (Mar) to $7B+ (Oct 2026); ~$112M annualized revenue Jul 2026 (Sacra est.)",
+  "red_flags": "Senate Banking ranking member Warren probing whether its fast charter approval was a political favor (letters Feb and Apr 2026; urges termination if improper). Also: Sep 2026 free stablecoin-redemption offer was arbitraged by Wintermute and Galaxy, forcing fees and limits (risk-control lapse, not scored).",
+  "red_flags_sources": [
+   {
+    "label": "Senate Banking (Warren), Apr 23 2026: probe of Erebor charter approval and fundraising memo",
+    "url": "https://www.banking.senate.gov/newsroom/minority/warren-deepens-probe-of-seemingly-corrupt-approval-of-bank-charter-for-trumps-billionaire-friends-in-silicon-valley"
+   },
+   {
+    "label": "Warren letter to Erebor, Feb 25 2026 (risky plan; CRO left before opening)",
+    "url": "https://www.banking.senate.gov/imo/media/doc/2026.02.26%20Letter%20to%20Erebor%20re%20Erebor%20Approval.pdf"
+   },
+   {
+    "label": "BeInCrypto via CryptoRank, Sep 16 2026: free stablecoin plan exploited by traders",
+    "url": "https://cryptorank.io/news/feed/ccaba-erebor-bank-stablecoin-loophole-traders"
+   },
+   {
+    "label": "The Last Daily, Oct 6 2026: stablecoin retreat and OCC/FDIC de novo conditions",
+    "url": "https://www.thelastdaily.com/article/erebor-tests-a-new-kind-of-bank"
+   }
+  ],
+  "score": "2.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Owns a hard-to-get national charter and has the fastest de novo deposit ramp on record ($7B+ in 8 months), making it the leading insured bank for crypto/defense/AI tech; but it trails Mercury and big incumbents in startup banking broadly, and deposits are concentrated in ~500-600 large accounts amid political and regulatory scrutiny",
+  "distance_sources": [
+   {
+    "label": "Sacra: ~$112M annualized revenue Jul 2026; ~500-600 customers; vs Mercury $650M, Column, Lead Bank",
+    "url": "https://sacra.com/c/erebor/"
+   },
+   {
+    "label": "Crowdfund Insider (FT), Oct 2026: $7B+ deposits",
+    "url": "https://www.crowdfundinsider.com/2026/10/316113-digital-bank-erebor-reportedly-holds-over-7-billion-in-deposits/"
+   },
+   {
+    "label": "The Last Daily, Oct 2026: Q2 call report $4.66B assets, $4.06B deposits, $597M equity; 12% leverage floor",
+    "url": "https://www.thelastdaily.com/article/erebor-tests-a-new-kind-of-bank"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
