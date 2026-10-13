@@ -11203,19 +11203,19 @@
   "stage": "Series B",
   "last_round": "$200M+",
   "last_round_date": "Jul 2026",
-  "lead_investors": "Greenoaks, Index Ventures",
+  "lead_investors": "Greenoaks (co-led with Index Ventures)",
   "total_open_roles": "15",
   "ops_roles": "Deployment Strategist; Deployment Strategist - Healthcare",
-  "hiring_trend": "~40 staff at Q3 2026 (Harmonic); 15 open roles",
-  "headcount": "~40",
+  "hiring_trend": "Palo Alto team to 50+ staff in 5 months after Feb 2026 launch; 15 open roles",
+  "headcount": "~50+",
   "latest_news": "Raised $200M+ at $2B five months after a $100M Series A",
   "latest_news_date": "Jul 2026",
   "latest_news_url": "https://www.simile.com/blog/series-b",
-  "traction": "Customers include CVS Health, Deloitte and Gallup",
+  "traction": "Revenue up 5x in 5 months since Feb 2026 launch; CVS Health, Deloitte, Gallup, Wealthfront",
   "red_flags": "",
   "red_flags_sources": [],
-  "score": "4.25",
-  "zone": "Race",
+  "score": "5.0",
+  "zone": "Sprint",
   "status": "new",
   "glassdoor_rating": "",
   "glassdoor_reviews": "",
@@ -11225,11 +11225,23 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
   "distance": "Half",
-  "distance_why": "Built on unique behavior data from real people; accuracy at scale still being proven.",
+  "distance_why": "Leads the new synthetic-user category with CVS, Deloitte and Gallup as customers, though close rivals exist.",
   "distance_sources": [
    {
-    "label": "Simile: Series B (Jul 2026)",
-    "url": "https://simile.ai/blog/series-b"
+    "label": "Bain Capital Ventures, Jul 2026: CVS program on 2.9M responses from 400K+ people; revenue 5x",
+    "url": "https://baincapitalventures.com/insight/the-human-layer-of-ai-why-we-re-continuing-to-invest-in-simile/"
+   },
+   {
+    "label": "The Next Web, Jul 2026: accuracy figures are Simile's own; rivals Helm, Artificial Societies, Aaru",
+    "url": "https://thenextweb.com/news/simile-200-million-agentic-twins-ai-market-research"
+   },
+   {
+    "label": "Startup Fortune, Jul 2026: valuation outpaces disclosed revenue",
+    "url": "https://startupfortune.com/simile-raises-200-million-at-a-2-billion-valuation-to-replace-focus-groups-with-ai-simulated-humans/"
+   },
+   {
+    "label": "Ashby board: Deployment Strategist roles (ops sits in deployment)",
+    "url": "https://jobs.ashbyhq.com/simile"
    }
   ]
  },
@@ -14070,5 +14082,124 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "Bilt",
+  "slug": "bilt",
+  "site": "https://www.bilt.com",
+  "careers_url": "https://jobs.gem.com/bilt",
+  "what_they_do": "Rewards and payments network for rent, mortgage and HOA payments, plus software for landlords",
+  "problem": "Renters and owners get no rewards on housing, their biggest bill, and landlords lack resident-engagement tools",
+  "industry": "Fintech / housing payments and loyalty",
+  "stage": "Series D",
+  "last_round": "$250M",
+  "last_round_date": "Jul 2025",
+  "lead_investors": "General Catalyst, GID",
+  "total_open_roles": "20",
+  "ops_roles": "Enterprise Operations Manager; Director, Technical Integrations - Rentals; Technical Account Manager",
+  "hiring_trend": "Growing: headcount +9.5% YoY to ~425 (Revelio, Mar 2026), ~443 on LinkedIn; 20 open roles",
+  "headcount": "~440",
+  "latest_news": "Acquired Livly's smart-building platform and partnered with Collective Residential",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.housingwire.com/articles/bilt-acquires-livly-partners-collective-residential",
+  "traction": "Revenue ~$200M in 2024, CEO targets $1B in 2026; 5M+ members; $100B+ housing spend",
+  "red_flags": "Card 2.0 migration after Wells Fargo exited early (bank reportedly losing up to $10M/month) broke rent payments in Feb 2026: CFPB complaints up 1,300%, Sen. Warren letter (May 2026), CFPB-directed customer redress (Jun 2026)",
+  "red_flags_sources": [
+   {
+    "label": "HousingWire, Jun 2026: CFPB directs Bilt redress; 1,300% complaint jump",
+    "url": "https://www.housingwire.com/articles/cfpb-bilt-redress-transition/"
+   },
+   {
+    "label": "Sen. Warren letter to Bilt CEO, May 27 2026",
+    "url": "https://www.banking.senate.gov/imo/media/doc/2026.05.27%20Letter%20to%20Bilt.pdf"
+   },
+   {
+    "label": "NerdWallet, Jan 2026: Wells Fargo exit, third issuing bank",
+    "url": "https://www.nerdwallet.com/travel/learn/bilt-promises-rewards-delivers-confusion"
+   },
+   {
+    "label": "PaymentsJournal, Mar 2026: payment failures and service problems",
+    "url": "https://www.paymentsjournal.com/bilt-2-0-all-dressed-up-and-nowhere-to-go/"
+   }
+  ],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "2.7",
+  "glassdoor_reviews": "57",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Bilt-Rewards-Reviews-E6010228.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Three-sided network (1 in 4 US apartment buildings, 45,000+ merchants, 5M+ members), deepened by the Livly buy, is hard to copy; but card economics hinge on an issuer partner (third bank in five years) and rewards subsidies, and no retention figure is public",
+  "distance_sources": [
+   {
+    "label": "Fortune, May 2026: 1 in 4 apartment buildings, 45,000+ merchants, 5M+ members, revenue path",
+    "url": "https://fortune.com/2026/05/29/ankur-jain-bilt-shopify-housing-hospitality-credit-cards/"
+   },
+   {
+    "label": "HousingWire, Sep 2026: Livly acquisition",
+    "url": "https://www.housingwire.com/articles/bilt-acquires-livly-partners-collective-residential"
+   },
+   {
+    "label": "NerdWallet, Jan 2026: third bank to take over the card",
+    "url": "https://www.nerdwallet.com/travel/learn/bilt-promises-rewards-delivers-confusion"
+   },
+   {
+    "label": "Gem board: integrations and enterprise ops roles (landlord lock-in)",
+    "url": "https://jobs.gem.com/bilt"
+   }
+  ]
+ },
+ {
+  "name": "NewtonX",
+  "slug": "newtonx",
+  "site": "https://www.newtonx.com",
+  "careers_url": "https://jobs.ashbyhq.com/newtonx",
+  "what_they_do": "B2B market research: verified expert surveys, interviews and synthetic buyer personas",
+  "problem": "Companies can't get fast, trustworthy B2B buyer insight from verified professionals",
+  "industry": "Market research / expert network",
+  "stage": "Series B",
+  "last_round": "$32M",
+  "last_round_date": "Dec 2021",
+  "lead_investors": "Marbruck Investments",
+  "total_open_roles": "9",
+  "ops_roles": "GTM Strategy & Operations Lead (Remote); Project Lead, AI Model Training",
+  "hiring_trend": "Modest growth: headcount +5% YoY to ~339 (Revelio, Mar 2026); 9 open roles",
+  "headcount": "~340",
+  "latest_news": "Launched NewtonX Hub, combining primary B2B research with synthetic personas",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.research-live.com/article/news/newtonx-updates-b2b-platform-to-include-synthetic-personas/id/5153526",
+  "traction": "No disclosed revenue; ~339 staff (+5% YoY); clients include Google, Stripe, Microsoft",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "97",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/NewtonX-Reviews-E1561722.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Its verified B2B professional graph and eight years of survey data feed the new synthetic personas, but delivery is services-heavy (~53% of staff in operations), no retention data is public, and AI research tools threaten to clone the offer",
+  "distance_sources": [
+   {
+    "label": "Research Live, Oct 2026: Hub and personas built on 8 years of verified B2B data",
+    "url": "https://www.research-live.com/article/news/newtonx-updates-b2b-platform-to-include-synthetic-personas/id/5153526"
+   },
+   {
+    "label": "Revelio Labs: 339 staff, 52.9% Finance & Operations",
+    "url": "https://www.reveliolabs.com/companies/newtonx/employees"
+   },
+   {
+    "label": "NewtonX press, Jun 2026: B2B Synthetic Personas launch",
+    "url": "https://www.newtonx.com/press/b2b-synthetic-personas/"
+   }
+  ]
  }
 ]
