@@ -13536,5 +13536,71 @@
     "url": "https://www.getwhizz.com/careers"
    }
   ]
+ },
+ {
+  "name": "Squire",
+  "slug": "squire",
+  "site": "https://getsquire.com",
+  "careers_url": "https://jobs.ashbyhq.com/getsquire",
+  "what_they_do": "Booking, POS, payments, payouts and marketing software built only for barbershops",
+  "problem": "Barbershop owners juggle calendars, card readers, cash tips, chair rent and commissions across separate tools",
+  "industry": "Vertical SaaS / barbershops and grooming",
+  "stage": "Series D",
+  "last_round": "$35M (debt, SVB)",
+  "last_round_date": "Nov 2024",
+  "lead_investors": "Tiger Global (Series D); Silicon Valley Bank (2024 debt)",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "Flat, ~230 staff (LinkedIn +0.4% YoY; Revelio +3.5%); open roles fell to 2 from at least 6 posted Jul–Sep 2026",
+  "headcount": "~230",
+  "latest_news": "Named to the Inc. 5000 for a second year (No. 2,543, 127% 3-year growth)",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.inc.com/profile/squire-technologies",
+  "traction": "20,000 customers end-2024 (up from 15,000); $2B+ payments processed; 127% 3-yr revenue growth",
+  "red_flags": "Engineering layoffs Jan 2025 to restructure the global tech team; no priced equity round since the 2021 $750M Tiger Global peak (only $35M debt since)",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn, Squire Director of Engineering on letting team go, Jan 2025",
+    "url": "https://www.linkedin.com/posts/figassis_your-company-would-be-lucky-to-have-just-activity-7290422852611182593-w7Wd"
+   },
+   {
+    "label": "YesPress profile: last priced valuation is the 2021 figure; SVB $35M debt Nov 2024, Aug 2026",
+    "url": "https://yespress.io/squire"
+   },
+   {
+    "label": "Forbes profile: latest valuation $750M, dated July 2021",
+    "url": "https://www.forbes.com/companies/squire-technologies"
+   },
+   {
+    "label": "Live job board: 2 open roles, Oct 2026",
+    "url": "https://jobs.ashbyhq.com/getsquire"
+   }
+  ],
+  "score": 0.25,
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "89",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/SQUIRE-Reviews-E2600662.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "System of record for the shop (calendar, payments, payouts, client data) makes switching painful, but crowded rivals and no new equity since 2021 cap it",
+  "distance_sources": [
+   {
+    "label": "YesPress: switching costs include clients, reviews, payment histories; rivals Booksy, Square, Vagaro, theCut",
+    "url": "https://yespress.io/squire"
+   },
+   {
+    "label": "Forbes: 15,000 to 20,000 customers in 2024; second $1B in payments in 18 months",
+    "url": "https://www.forbes.com/companies/squire-technologies"
+   },
+   {
+    "label": "Squire: branded booking apps, 44.63% returning-client rate across 32,000 barbers",
+    "url": "https://getsquire.com/business-edge/barbershop-software/barbershop-branded-booking-app"
+   }
+  ]
  }
 ]
