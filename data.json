@@ -19171,5 +19171,51 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Pluto Security",
+  "slug": "pluto-security",
+  "site": "https://pluto.security",
+  "careers_url": "",
+  "what_they_do": "Security platform that monitors and controls the AI tools, agents and apps employees build",
+  "problem": "Employees vibe-code apps and plug in AI agents, MCPs and extensions that security teams can't see or control",
+  "industry": "Cybersecurity",
+  "stage": "Series A",
+  "last_round": "$34M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Jump Capital (Series A); TLV Partners (seed)",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "~13 on LinkedIn to 40 staff (company, Oct 2026); adding US sales hires; no public job board",
+  "headcount": "~40",
+  "latest_news": "Came out of stealth with $42M total; $34M Series A led by Jump Capital",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache",
+  "traction": "$0 to $2M+ ARR since April 2026 launch; 30-40+ enterprise customers, 1M+ endpoints",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Six months of selling and $2M+ ARR is a strong start, but it is too early to judge in a crowded AI-security field (Zenity, AIR, Cymphony, LayerX).",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Pluto Security raises $42M (Oct 2026)",
+    "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache"
+   },
+   {
+    "label": "Pluto blog: out of stealth (Oct 2026)",
+    "url": "https://pluto.security/blog/welcome-to-planet-pluto/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
