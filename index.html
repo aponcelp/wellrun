@@ -769,6 +769,8 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
       .x-track figcaption { font: 400 12px/1.4 var(--x-mono); color: var(--text-secondary); text-align: center; }
       .x-track .tk-lbl { font: 800 11px/1 var(--x-display); font-stretch: 112%; letter-spacing: 0.06em; text-transform: uppercase; }
       .x-track .tk-n { font: 700 11px/1 var(--x-mono); }
+      .x-track .tk-name { font: 700 10px/1 var(--x-mono); fill: #fbf8f4; }
+      .x-track .tk-pace { font: 500 9px/1 var(--x-mono); letter-spacing: 0; opacity: 0.75; text-transform: none; }
       .x-track .tk-in { font: 900 22px/1 var(--x-display); font-stretch: 125%; letter-spacing: 0.02em; }
       .x-track .tk-sub { font: 400 11px/1 var(--x-mono); }
       @media (max-width: 860px) { .x-hero { grid-template-columns: minmax(0, 1fr); } }
@@ -937,7 +939,7 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
             <h1 class="x-tagline">Startups that run well. <span>Paced by funding and buzz, curated daily.</span></h1>
             <figure class="x-track" aria-label="Pace track: each lane is a pace zone, and faster companies are further around the lap">
               <svg id="track" viewBox="0 0 560 312" role="img" aria-hidden="true"></svg>
-              <figcaption>One lane per pace zone, with how many companies run in it. More momentum, further down the lap.</figcaption>
+              <figcaption>One lane per pace zone, led by its fastest company. More momentum, further down the lap.</figcaption>
             </figure>
           </div>
           <div class="x-legend" aria-label="Pace legend">
@@ -4506,6 +4508,8 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
           if (!svg) return;
           const counts = {};
           COMPANIES.forEach((c) => { const k = zoneOf(c).key; counts[k] = (counts[k] || 0) + 1; });
+          const lead = {};
+          COMPANIES.forEach((c) => { const k = zoneOf(c).key; if (!lead[k] || (+c.score || 0) > (+lead[k].score || 0)) lead[k] = c; });
           const cx1 = 160, cx2 = 400, cy = 156, r0 = 62, lw = 15, n = ZONES.length;
           const L = cx2 - cx1;
           const stad = (r) => `M ${cx1} ${cy + r} L ${cx2} ${cy + r} A ${r} ${r} 0 0 0 ${cx2} ${cy - r} L ${cx1} ${cy - r} A ${r} ${r} 0 0 0 ${cx1} ${cy + r} Z`;
@@ -4534,12 +4538,22 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
             const [x, y] = at(r, T[i]);
             const [bx, by] = at(r, T[i] - 0.05);
             s += `<line x1="${bx}" y1="${by}" x2="${x}" y2="${y}" stroke="${ZC[z.key]}" stroke-width="4" stroke-linecap="round" opacity="0.55"/>`;
-            s += `<g><title>${esc(z.name)} ${z.split}/km: ${counts[z.key] || 0} companies</title><circle cx="${x}" cy="${y}" r="7" fill="${ZC[z.key]}" stroke="#0a2119" stroke-width="2"/></g>`;
+            const ld = lead[z.key];
+            if (!ld) { s += `<circle cx="${x}" cy="${y}" r="7" fill="${ZC[z.key]}" stroke="#0a2119" stroke-width="2"/>`; return; }
+            let host = ""; try { host = new URL(ld.site).hostname.replace(/^www\./, ""); } catch (e) {}
+            const right = x >= (cx1 + cx2) / 2, up = y < cy;
+            const tx = x + (right ? -14 : 14), ty = y + (up ? -12 : 18);
+            s += `<g class="tk-run"><title>${esc(ld.name)} leads ${esc(z.name)} (${z.split}/km)</title>`;
+            s += `<clipPath id="tkc${i}"><circle cx="${x}" cy="${y}" r="9"/></clipPath>`;
+            s += `<circle cx="${x}" cy="${y}" r="11" fill="#fbf8f4" stroke="${ZC[z.key] === "#0a2119" ? "#b9ff00" : "#0a2119"}" stroke-width="2.5"/>`;
+            s += `<text x="${x}" y="${y + 4}" text-anchor="middle" fill="#0a2119" class="tk-n">${esc(ld.name.charAt(0))}</text>`;
+            if (host) s += `<image href="https://www.google.com/s2/favicons?domain=${encodeURIComponent(host)}&sz=64" x="${x - 9}" y="${y - 9}" width="18" height="18" clip-path="url(#tkc${i})"/>`;
+            s += `<text x="${tx}" y="${ty}" text-anchor="${right ? "end" : "start"}" class="tk-name">${esc(ld.name)}</text></g>`;
           });
           // zone labels down the start straight, outside the track
           ZONES.forEach((z, i) => {
             const y = cy + r0 + lw * (i + 0.5) + 4;
-            s += `<text x="${cx1 + 12}" y="${y}" fill="#fbf8f4" class="tk-lbl">${esc(z.name)} · ${counts[z.key] || 0} ${(counts[z.key] || 0) === 1 ? "company" : "companies"}</text>`;
+            s += `<text x="${cx1 + 12}" y="${y}" fill="#fbf8f4" class="tk-lbl">${esc(z.name)} <tspan class="tk-pace">${z.split}/km</tspan></text>`;
           });
           svg.innerHTML = s;
         })();
