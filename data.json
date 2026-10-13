@@ -11778,8 +11778,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "10K",
-  "distance_why": "Record revenue ramp, but retention and margins are undisclosed and models are rented.",
+  "distance": "Half",
+  "distance_why": "$600M run-rate and a growing base of live apps built on it, though retention and margins are undisclosed and models are rented.",
   "distance_sources": [
    {
     "label": "TechCrunch: Lovable crosses $600M run-rate (Sep 2026)",
