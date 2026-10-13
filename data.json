@@ -13902,5 +13902,173 @@
     "url": "https://www.fiercehealthcare.com/payers/papa-rolls-out-new-program-insurers-called-papa-plus"
    }
   ]
+ },
+ {
+  "name": "Go.AI",
+  "slug": "go-ai",
+  "site": "https://go.ai",
+  "careers_url": "https://go.ai/company/careers",
+  "what_they_do": "On-premises AI hardware and software for banks, credit unions, healthcare and other regulated firms",
+  "problem": "Regulated institutions want AI but cannot send sensitive data to cloud AI providers or pass exams with it",
+  "industry": "AI infrastructure / regulated industries",
+  "stage": "Series A",
+  "last_round": "$85M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Updata Partners",
+  "total_open_roles": "10",
+  "ops_roles": "Project Manager/Strategy & Operations; Client Services Associate; Enterprise Client Advisory Account Associate; Training and Enablement Senior Associate",
+  "hiring_trend": "7 to 17 staff in 2025, 50+ by Sep 2026; ~10 open roles",
+  "headcount": "~50",
+  "latest_news": "Raised $85M Series A led by Updata Partners, weeks after rebranding from Go Abacus",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://go.ai/company/press/series-a-funding",
+  "traction": "ARR $1M to $7M in 2025; up 8x YoY by Sep 2026, 200+ customers, profitable",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Hardware and compliance apps installed inside banks are hard to rip out once examiners sign off, but it is young, runs on open models and Nvidia GPUs, and Dell, HPE and the clouds sell private AI too",
+  "distance_sources": [
+   {
+    "label": "Go.AI press release, Sep 2026: 200+ customers, ARR 8x, profitable",
+    "url": "https://go.ai/company/press/series-a-funding"
+   },
+   {
+    "label": "Updata Partners, Sep 2026: on-prem OS, compliance apps, own small models",
+    "url": "https://updata.com/updata-partners-vii-invests-in-go-ai/"
+   },
+   {
+    "label": "Go Abacus LinkedIn, Dec 2025: ARR $1M to $7M, 7 to 17 staff",
+    "url": "https://www.linkedin.com/posts/goabacus_in-2025-abacus-went-from-1m-to-7m-activity-7407068424851451904-P9pS"
+   },
+   {
+    "label": "Go.AI careers: client services, enablement and strategy & ops roles open",
+    "url": "https://go.ai/company/careers"
+   }
+  ],
+  "status": "new",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "Exa",
+  "slug": "exa",
+  "site": "https://exa.ai",
+  "careers_url": "https://jobs.ashbyhq.com/exa",
+  "what_they_do": "Web search API built for AI agents and apps, on its own crawl index",
+  "problem": "AI products need fresh, accurate web results, and search engines built for humans serve them poorly",
+  "industry": "AI infrastructure / search",
+  "stage": "Series C",
+  "last_round": "$250M",
+  "last_round_date": "May 2026",
+  "lead_investors": "Andreessen Horowitz",
+  "total_open_roles": "56",
+  "ops_roles": "Business Operations; Deal Desk Manager; Revenue Insights Manager; VP, Customer Experience",
+  "hiring_trend": "~80 staff (Mar 2026) to ~150 (Sep 2026, per Exa job post); 56 open roles",
+  "headcount": "~150",
+  "latest_news": "Raised $250M Series C at $2.2B valuation led by a16z; LaunchDarkly president joins as CRO",
+  "latest_news_date": "May 2026",
+  "latest_news_url": "https://exa.ai/blog/announcing-series-c",
+  "traction": "5,000+ companies and 400,000+ developers; ARR ~$10M, up ~11x YoY (Sacra est., Sep 2025)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.5",
+  "zone": "Sprint",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Its own 500B+ URL index, embedding models and GPU cluster are hard to copy versus search wrappers, but foundation labs bundling native search, plus Parallel and Tavily, make switching easy for many queries",
+  "distance_sources": [
+   {
+    "label": "Exa blog, May 2026: own crawl of 500B+ URLs, own models and GPU cluster",
+    "url": "https://exa.ai/blog/announcing-series-c"
+   },
+   {
+    "label": "Sacra ex-employee interview, Feb 2026: about half of a customer's queries could move to SERP APIs or Parallel",
+    "url": "https://sacra.com/research/ex-employee-exa-ai-data-pipelines/"
+   },
+   {
+    "label": "Dealroom, May 2026: Google and incumbents are the main threat",
+    "url": "https://dealroom.co/news/129123-exa-raises-250m-series-c-at-2-2b-valuation-for-ai-search/"
+   },
+   {
+    "label": "Exa blog, Oct 2026: new Places index (211M places) beside Search, Contents, Agent and Websets",
+    "url": "https://exa.ai/blog/places-search"
+   }
+  ],
+  "status": "new",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "Rain",
+  "slug": "rain",
+  "site": "https://www.rain.xyz",
+  "careers_url": "https://jobs.ashbyhq.com/rain",
+  "what_they_do": "Stablecoin-backed card issuing, wallets and payouts for fintechs and enterprises through one API",
+  "problem": "Companies want to let users spend and move stablecoins without building card, compliance and settlement plumbing",
+  "industry": "Fintech / stablecoin payments",
+  "stage": "Series C",
+  "last_round": "$250M",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "ICONIQ",
+  "total_open_roles": "42",
+  "ops_roles": "Senior Product Operations Manager; AI Operations Lead; Implementation Specialist; Technical Support Analyst",
+  "hiring_trend": "Headcount 15 to ~130 in 18 months (Jul 2026); ~177 by Aug 2026, +254% YoY (Crustdata est.)",
+  "headcount": "~180",
+  "latest_news": "Filed with the OCC to set up Rain National Trust Bank for custody and stablecoin issuance",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/rain-files-application-with-the-occ-to-establish-rain-national-trust-bank-302898950.html",
+  "traction": "$3B+ annualized volume, 200+ partners; payment volume up 38x in a year (Jan 2026)",
+  "red_flags": "Aug 2026: attacker drained ~$1.1M from users of several Rain-powered card programs via an outdated Solana card contract; Rain upgraded contracts and said users would be made whole",
+  "red_flags_sources": [
+   {
+    "label": "crypto.news, Sep 2026",
+    "url": "https://crypto.news/rain-contract-exploit-drains-1-1m-from-card-users/"
+   },
+   {
+    "label": "Blockaid analysis, Sep 2026",
+    "url": "https://blockaid.io/blog/11m-rain-ecosystem-exploit-how-onchain-monitoring-gives-stablecoin-card-issuers-fleet-level-coverage"
+   }
+  ],
+  "score": "4.0",
+  "zone": "Tempo",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Visa and Mastercard principal memberships, licenses and partner card programs make it costly to switch issuers, and it has added wallets and payouts; but the Aug 2026 exploit, crypto cycles and Stripe/Bridge and Mastercard/BVNK competition weigh on it",
+  "distance_sources": [
+   {
+    "label": "Fortune, May 2026: Mastercard principal member alongside Visa",
+    "url": "https://fortune.com/2026/05/04/mastercard-rain-stablecoin-startup-institutional-customers-partnership/"
+   },
+   {
+    "label": "PR Newswire, Sep 2026: payouts to 80+ countries in 50 currencies",
+    "url": "https://www.prnewswire.co.uk/news-releases/rain-expands-global-payouts-to-more-than-80-countries-in-50-currencies-302871743.html"
+   },
+   {
+    "label": "Rain LinkedIn, Jul 2026: signing customers faster than it can launch them; ~2/3 of partners live",
+    "url": "https://www.linkedin.com/posts/rainxyz_rain-has-never-had-a-down-quarter-thanks-activity-7482446227972759552-awDB"
+   },
+   {
+    "label": "crypto.news, Sep 2026: $1.1M contract exploit",
+    "url": "https://crypto.news/rain-contract-exploit-drains-1-1m-from-card-users/"
+   }
+  ],
+  "status": "new",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
  }
 ]
