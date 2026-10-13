@@ -19112,5 +19112,64 @@
    "Amsterdam",
    "Berlin"
   ]
+ },
+ {
+  "name": "Ghost",
+  "slug": "ghost",
+  "site": "https://www.ghst.io",
+  "careers_url": "https://www.ghst.io/careers",
+  "what_they_do": "Private B2B marketplace where brands sell surplus and wholesale inventory to vetted buyers",
+  "problem": "Brands stuck with excess stock need to sell it fast without discounting publicly or hurting their channels",
+  "industry": "Retail tech / B2B marketplace",
+  "stage": "Series C",
+  "last_round": "$40M",
+  "last_round_date": "Oct 2024",
+  "lead_investors": "L Catterton",
+  "total_open_roles": "6",
+  "ops_roles": "General Manager, Live Selling",
+  "hiring_trend": "Shrinking: team -7.8% YoY (Dealroom), Revelio shows -25.7% YoY; 6 open roles",
+  "headcount": "~220 (LinkedIn/Tracxn; Revelio counts far fewer)",
+  "latest_news": "Building a live selling unit on TikTok and Whatnot; hiring GM, hosts, moderators",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.ghst.io/jobs?gh_jid=4732927005",
+  "traction": "28K+ brands listed, $12B+ total MSRP on platform; 6,000+ members in late 2024",
+  "red_flags": "Shrinking headcount: Dealroom team -7.8% YoY; Revelio -25.7% YoY (Q1 2026) after -21% in 2025. No new round in ~24 months.",
+  "red_flags_sources": [
+   {
+    "label": "Dealroom, team growth -7.8% (1 yr)",
+    "url": "https://dealroom.co/companies/ghost-4/"
+   },
+   {
+    "label": "Revelio Labs, Ghosts Inc headcount -25.7% YoY (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/ghosts/employees"
+   }
+  ],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "2.6",
+  "glassdoor_reviews": "3",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Ghost-CA-EI_IE9193612.11,19.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Two-sided surplus marketplace with 28K+ brands, but B-Stock is the bigger veteran and headcount is shrinking.",
+  "distance_sources": [
+   {
+    "label": "ghst.io homepage stats",
+    "url": "https://www.ghst.io/"
+   },
+   {
+    "label": "Closo, Ghost vs B-Stock",
+    "url": "https://closo.co/blogs/blog-for-brands/navigating-the-modern-supply-chain-why-your-tech-stack-needs-the-ghost-platform"
+   },
+   {
+    "label": "Dealroom, team -7.8% YoY",
+    "url": "https://dealroom.co/companies/ghost-4/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
