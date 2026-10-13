@@ -763,6 +763,15 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
       .x-ball { flex: none; width: 18px; height: 18px; border-radius: 50%; background: var(--x-lime); box-shadow: inset 0 0 0 1.5px var(--text-primary); position: relative; overflow: hidden; }
       .x-ball::after { content: ""; position: absolute; inset: 2px -7px 2px 8px; border: 1.5px solid var(--text-primary); border-radius: 50%; }
       .x-brand small { font: 500 12px/1 var(--x-mono); text-transform: uppercase; letter-spacing: 0.08em; color: var(--x-lime); background: var(--text-primary); padding: 5px 9px; border-radius: var(--r-pill); }
+      .x-hero { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.05fr); gap: clamp(20px, 4vw, 48px); align-items: center; }
+      .x-track { margin: 0; display: grid; gap: 8px; }
+      .x-track svg { width: 100%; height: auto; display: block; }
+      .x-track figcaption { font: 400 12px/1.4 var(--x-mono); color: var(--text-secondary); text-align: center; }
+      .x-track .tk-lbl { font: 800 11px/1 var(--x-display); font-stretch: 112%; letter-spacing: 0.06em; text-transform: uppercase; }
+      .x-track .tk-n { font: 700 11px/1 var(--x-mono); }
+      .x-track .tk-in { font: 900 22px/1 var(--x-display); font-stretch: 125%; letter-spacing: 0.02em; }
+      .x-track .tk-sub { font: 400 11px/1 var(--x-mono); }
+      @media (max-width: 860px) { .x-hero { grid-template-columns: minmax(0, 1fr); } }
       .x-tagline { font: 700 clamp(28px, 5vw, 52px)/1.06 var(--sans); letter-spacing: -0.035em; max-width: 17ch; }
       .x-tagline span { color: var(--text-secondary); font-weight: 500; }
 
@@ -924,7 +933,13 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
       <main class="main">
         <header class="x-top">
           <p class="x-brand"><span class="x-ball" aria-hidden="true"></span><span class="x-word"><span>Well Run</span></span><small>daily</small></p>
-          <h1 class="x-tagline">Startups that run well. <span>Paced by funding and buzz, curated daily.</span></h1>
+          <div class="x-hero">
+            <h1 class="x-tagline">Startups that run well. <span>Paced by funding and buzz, curated daily.</span></h1>
+            <figure class="x-track" aria-label="Pace track: each lane is a pace zone, and faster companies are further around the lap">
+              <svg id="track" viewBox="0 0 560 312" role="img" aria-hidden="true"></svg>
+              <figcaption>One lane per pace zone. More momentum, further down the lap.</figcaption>
+            </figure>
+          </div>
           <div class="x-legend" aria-label="Pace legend">
             <p class="x-legend__rule"><b>Pace = momentum:</b> open roles (all teams), how recent the last round was, traction (ARR, customers, headcount) and red flags. Checked weekly, last on Oct 11–12, 2026.</p>
             <ul id="legend"></ul>
@@ -4393,6 +4408,50 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
         function meter(bars) {
           return Array.from({ length: MAX_BARS }, (_, i) => `<i${i < bars ? ' class="on"' : ""}></i>`).join("");
         }
+        (function drawTrack() {
+          const svg = document.getElementById("track");
+          if (!svg) return;
+          const counts = {};
+          COMPANIES.forEach((c) => { const k = zoneOf(c).key; counts[k] = (counts[k] || 0) + 1; });
+          const cx1 = 160, cx2 = 400, cy = 156, r0 = 62, lw = 15, n = ZONES.length;
+          const L = cx2 - cx1;
+          const stad = (r) => `M ${cx1} ${cy + r} L ${cx2} ${cy + r} A ${r} ${r} 0 0 0 ${cx2} ${cy - r} L ${cx1} ${cy - r} A ${r} ${r} 0 0 0 ${cx1} ${cy + r} Z`;
+          const at = (r, t) => {
+            const P = 2 * L + 2 * Math.PI * r; let d = ((t % 1) + 1) % 1 * P;
+            if (d < L) return [cx1 + d, cy + r]; d -= L;
+            if (d < Math.PI * r) { const a = d / r; return [cx2 + r * Math.sin(a), cy + r * Math.cos(a)]; } d -= Math.PI * r;
+            if (d < L) return [cx2 - d, cy - r]; d -= L;
+            const a = d / r; return [cx1 - r * Math.sin(a), cy - r * Math.cos(a)];
+          };
+          const rOut = r0 + lw * n;
+          const ZC = { sprint: "#b9ff00", race: "#0a2119", tempo: "#258b66", steady: "#a9b3a6", "warm-up": "#e8dcc8", "cool-down": "#d6e1e8" };
+          const ZT = { sprint: "#0a2119", race: "#b9ff00", tempo: "#fbf8f4", steady: "#0a2119", "warm-up": "#3b2f1e", "cool-down": "#2e4553" };
+          const T = [0.93, 0.79, 0.66, 0.53, 0.40, 0.29];
+          let s = `<path d="${stad(rOut + 4)}" fill="#0a2119"/>`;
+          s += `<path d="${stad(rOut)}" fill="#c4572f"/>`;
+          s += `<path d="${stad(r0)}" fill="#258b66"/>`;
+          s += `<path d="${stad(r0 - 8)}" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.5"/>`;
+          for (let i = 0; i <= n; i++) s += `<path d="${stad(r0 + lw * i)}" fill="none" stroke="rgba(255,255,255,0.9)" stroke-width="1.5"/>`;
+          s += `<rect x="${cx1 - 3}" y="${cy + r0}" width="6" height="${lw * n}" fill="#fbf8f4"/>`;
+          for (let j = 0; j < n * 2; j++) s += `<rect x="${cx1 - 3 + (j % 2) * 3}" y="${cy + r0 + j * lw / 2}" width="3" height="${lw / 2}" fill="#0a2119"/>`;
+          s += `<text x="${(cx1 + cx2) / 2}" y="${cy - 4}" text-anchor="middle" fill="#fbf8f4" class="tk-in">LAP 01</text>`;
+          s += `<text x="${(cx1 + cx2) / 2}" y="${cy + 16}" text-anchor="middle" fill="rgba(251,248,244,0.8)" class="tk-sub">start / finish ↙</text>`;
+          ZONES.forEach((z, i) => {
+            const r = r0 + lw * (i + 0.5);
+            const [x, y] = at(r, T[i]);
+            const [bx, by] = at(r, T[i] - 0.05);
+            s += `<line x1="${bx}" y1="${by}" x2="${x}" y2="${y}" stroke="${ZC[z.key]}" stroke-width="4" stroke-linecap="round" opacity="0.55"/>`;
+            s += `<g><title>${esc(z.name)} ${z.split}/km: ${counts[z.key] || 0} companies</title><circle cx="${x}" cy="${y}" r="9.5" fill="${ZC[z.key]}" stroke="#0a2119" stroke-width="2"/>`;
+            s += `<text x="${x}" y="${y + 3.8}" text-anchor="middle" fill="${ZT[z.key]}" class="tk-n">${counts[z.key] || 0}</text></g>`;
+          });
+          // zone labels down the start straight, outside the track
+          ZONES.forEach((z, i) => {
+            const y = cy + r0 + lw * (i + 0.5) + 4;
+            s += `<text x="${cx1 + 12}" y="${y}" fill="#fbf8f4" class="tk-lbl">${esc(z.name)}</text>`;
+          });
+          svg.innerHTML = s;
+        })();
+
         document.getElementById("legend").innerHTML = ZONES.map((z) =>
           `<li class="z-${z.key}"><span class="x-zone">${esc(z.name)}</span><span class="x-legend__split">${z.split}<small>/km</small></span><span class="x-pace__low"><span class="x-meter" aria-hidden="true">${meter(z.bars)}</span><span class="x-legend__n">${esc(z.range)}</span></span>${z.desc ? `<span class="x-legend__d">${esc(z.desc)}</span>` : ""}</li>`
         ).join("");
