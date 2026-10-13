@@ -937,7 +937,7 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
             <h1 class="x-tagline">Startups that run well. <span>Paced by funding and buzz, curated daily.</span></h1>
             <figure class="x-track" aria-label="Pace track: each lane is a pace zone, and faster companies are further around the lap">
               <svg id="track" viewBox="0 0 560 312" role="img" aria-hidden="true"></svg>
-              <figcaption>One lane per pace zone. More momentum, further down the lap.</figcaption>
+              <figcaption>One lane per pace zone, with how many companies run in it. More momentum, further down the lap.</figcaption>
             </figure>
           </div>
           <div class="x-legend" aria-label="Pace legend">
@@ -4166,6 +4166,99 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "PostHog",
+  "slug": "posthog",
+  "site": "https://posthog.com",
+  "careers_url": "https://jobs.ashbyhq.com/posthog",
+  "what_they_do": "All-in-one product toolkit: analytics, session replay, feature flags, experiments, error tracking",
+  "problem": "Product teams stitch together five or six tools to see how people actually use what they ship",
+  "industry": "Developer tools / product analytics",
+  "stage": "Series E",
+  "last_round": "$75M",
+  "last_round_date": "Sep 2025",
+  "lead_investors": "Peak XV Partners",
+  "total_open_roles": "10",
+  "ops_roles": "Technical Customer Success Manager - Americas; Product Manager; Finance Manager, Revenue Accounting",
+  "hiring_trend": "~80 staff end of 2024 to ~220 now; 10 open roles, almost all fully remote",
+  "headcount": "~220",
+  "latest_news": "Raised $75M Series E at a $1.4B valuation, led by Peak XV",
+  "latest_news_date": "Sep 2025",
+  "latest_news_url": "https://posthog.com/blog/series-e",
+  "traction": "~$58M ARR in Feb 2026, up ~112% YoY (Sacra est.); 176K+ companies; zero outbound sales",
+  "red_flags": "",
+  "score": "3.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "Mixpanel",
+  "slug": "mixpanel",
+  "site": "https://mixpanel.com",
+  "careers_url": "https://mixpanel.com/jobs",
+  "what_they_do": "Product analytics, now with AI agents and Agent Intelligence for measuring AI products",
+  "problem": "Teams ship features without knowing which ones actually move retention and revenue",
+  "industry": "Product analytics",
+  "stage": "Series C",
+  "last_round": "$200M",
+  "last_round_date": "Nov 2021",
+  "lead_investors": "Bain Capital Tech Opportunities",
+  "total_open_roles": "55",
+  "ops_roles": "Digital Adoption & Lifecycle Manager; Startup Program Manager; Strategic Finance Associate, GTM",
+  "hiring_trend": "Steady ~600+ staff; 55 open roles, mostly hybrid SF/NYC/London/Singapore",
+  "headcount": "~600+",
+  "latest_news": "Launched Agent Intelligence for measuring AI agents",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/mixpanel-introduces-agent-intelligence-helping-product-teams-build-and-measure-more-effective-ai-agents-302895602.html",
+  "traction": "29K+ companies, ~8K paying; revenue est. ~$210M in 2025, up ~23%",
+  "red_flags": "Late-2025 data breach drew scrutiny; small layoff; no new primary round since 2021",
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "Pindrop",
+  "slug": "pindrop",
+  "site": "https://www.pindrop.com",
+  "careers_url": "https://boards.greenhouse.io/pindropsecurity",
+  "what_they_do": "Deepfake and fraud detection for voice, video and contact centers",
+  "problem": "AI-cloned voices and bots now fool bank and insurer call centers",
+  "industry": "Cybersecurity / fraud detection",
+  "stage": "Series D",
+  "last_round": "$100M debt",
+  "last_round_date": "Jul 2024",
+  "lead_investors": "Hercules Capital (debt); a16z, CapitalG, IVP earlier",
+  "total_open_roles": "18",
+  "ops_roles": "Senior Director, People Operations; GTM Strategic Finance Manager; Product Manager, AI Enablement; Customer Success Manager",
+  "hiring_trend": "~250 staff mid-2024 to ~300-370; 18 open roles, mostly US remote",
+  "headcount": "~300+",
+  "latest_news": "Launched BotStopper to detect AI voice agents in real time",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.pindrop.com/company-news/pindrop-launches-pindrop-botstopper-technology-to-detect-ai-voice-agents-for-the-enterprise",
+  "traction": "$100M+ ARR, profitable since 2020; 14 of the top 20 US banks; closing about a customer a week",
+  "red_flags": "",
+  "score": "3.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
  }
 ]</script>
     <script>/* Page behaviors for Hark's component library: the nav, the theme toggle, tables, line charts and images. style-gates: data */
@@ -4441,13 +4534,12 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
             const [x, y] = at(r, T[i]);
             const [bx, by] = at(r, T[i] - 0.05);
             s += `<line x1="${bx}" y1="${by}" x2="${x}" y2="${y}" stroke="${ZC[z.key]}" stroke-width="4" stroke-linecap="round" opacity="0.55"/>`;
-            s += `<g><title>${esc(z.name)} ${z.split}/km: ${counts[z.key] || 0} companies</title><circle cx="${x}" cy="${y}" r="9.5" fill="${ZC[z.key]}" stroke="#0a2119" stroke-width="2"/>`;
-            s += `<text x="${x}" y="${y + 3.8}" text-anchor="middle" fill="${ZT[z.key]}" class="tk-n">${counts[z.key] || 0}</text></g>`;
+            s += `<g><title>${esc(z.name)} ${z.split}/km: ${counts[z.key] || 0} companies</title><circle cx="${x}" cy="${y}" r="7" fill="${ZC[z.key]}" stroke="#0a2119" stroke-width="2"/></g>`;
           });
           // zone labels down the start straight, outside the track
           ZONES.forEach((z, i) => {
             const y = cy + r0 + lw * (i + 0.5) + 4;
-            s += `<text x="${cx1 + 12}" y="${y}" fill="#fbf8f4" class="tk-lbl">${esc(z.name)}</text>`;
+            s += `<text x="${cx1 + 12}" y="${y}" fill="#fbf8f4" class="tk-lbl">${esc(z.name)} · ${counts[z.key] || 0} ${(counts[z.key] || 0) === 1 ? "company" : "companies"}</text>`;
           });
           svg.innerHTML = s;
         })();
