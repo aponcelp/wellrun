@@ -969,6 +969,44 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
         .x-caret, .x-flag { transition: none; }
       }
 
+
+      .x-flag { flex: none; }
+      .x-ftoggle, .x-msort { display: none; }
+      @media (max-width: 860px) {
+        .x-ftoggle { all: unset; box-sizing: border-box; display: flex; align-items: center; gap: 8px; width: 100%; min-height: var(--tap); padding: 6px 16px; cursor: pointer; border-bottom: 1px solid var(--stroke-secondary); font: 400 12px/1.2 var(--x-mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-primary); }
+        .x-ftoggle b { padding: 3px 8px; border-radius: var(--r-pill); background: var(--x-lime); border: 1px solid var(--text-primary); font: 700 12px/1 var(--x-mono); }
+        .x-ftoggle b:empty { display: none; }
+        .x-ftoggle i { margin-left: auto; font: 500 20px/1 var(--sans); font-style: normal; transition: transform var(--dur-quick) var(--ease-out); }
+        .x-ftoggle[aria-expanded="true"] i { transform: rotate(45deg); }
+        .x-cli:not(.is-open) .x-more { display: none; }
+        .x-cli__row--sort { display: none !important; }
+        .x-cli__row { grid-template-columns: minmax(0, 1fr); padding: 10px 16px; }
+        .x-chips { flex-wrap: wrap !important; overflow: visible !important; padding-right: 0 !important; }
+        .x-flag { min-height: 40px; padding: 0 12px; }
+        .x-flag__k { display: none; }
+        .x-flag[data-zone]::before { margin-right: 6px; }
+        .x-runhead { flex-direction: column; align-items: stretch; }
+        .x-runhead span#sortnote { display: none; }
+        .x-msort { display: flex; align-items: center; gap: 6px; }
+        .x-msort > span { font: 400 12px/1 var(--x-mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-secondary); margin-right: 4px; }
+        .x-seg.x-colbtn { all: unset; box-sizing: border-box; flex: 1; display: flex; align-items: center; justify-content: center; min-height: var(--tap); border: 1.5px solid var(--text-primary); border-radius: var(--r-pill); font: 600 14px/1 var(--sans); color: var(--text-primary); background: var(--x-card); cursor: pointer; text-transform: none; }
+        .x-seg.x-colbtn[aria-pressed="true"] { background: var(--x-lime); font-weight: 800; }
+        .x-seg.x-colbtn[aria-pressed="true"]::after { content: " ↓"; color: var(--text-primary); }
+        .x-proc__main { grid-template-columns: 50px minmax(0, 1fr) minmax(0, 1fr) 20px; gap: 10px 12px; }
+        .x-who { grid-column: 2 / 4; }
+        .x-pace { grid-column: 2; grid-row: 2; display: grid; gap: 6px; justify-items: start; }
+        .x-dcell { grid-column: 3; grid-row: 2; display: grid; gap: 6px; justify-items: start; }
+        .x-pills { grid-column: 2 / 4; grid-row: 3; }
+        .x-caret { grid-column: 4; }
+        .x-split, .x-dist { font-size: 24px; }
+        .x-tag { white-space: normal; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+        .x-site { display: none; }
+        .x-proc__main { padding-right: 12px; }
+        .x-pace, .x-dcell { min-width: 0; align-self: start; }
+        .x-pace__low, .x-dlow { flex-wrap: wrap; row-gap: 6px; }
+        .x-runhead .x-msort > span { width: auto; }
+        .x-seg.x-colbtn { padding: 0 10px; font-size: 14px; white-space: nowrap; }
+      }
       .foot { font: 400 12px/1.6 var(--x-mono); border-top: 3px solid var(--x-clay); }
       .foot .x-exit { display: inline-block; padding: 2px 8px; border-radius: 4px; background: var(--text-primary); color: var(--x-lime); }
     </style>
@@ -1035,6 +1073,8 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
               <label for="q">Search</label>
               <input id="q" type="search" placeholder="Name, product or problem" autocomplete="off" spellcheck="false"/>
             </div>
+            <button type="button" class="x-ftoggle" id="ftoggle" aria-expanded="false" aria-controls="fmore"><span>Filters</span><b id="fcount"></b><i aria-hidden="true">+</i></button>
+            <div class="x-more" id="fmore">
             <div class="x-cli__row"><span class="x-cli__key">Hiring</span><div class="x-chips">
               <button type="button" class="x-flag x-flag--toggle" id="hiring" aria-pressed="false"><span class="x-flag__k">--</span>hiring-ops</button>
             </div></div>
@@ -1042,7 +1082,8 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
             <div class="x-cli__row"><span class="x-cli__key">Distance</span><div class="x-chips" id="dists" role="group" aria-label="Distance"></div></div>
             <div class="x-cli__row"><span class="x-cli__key">Industry</span><div class="x-chips" id="industries" role="group" aria-label="Industry"></div></div>
             <div class="x-cli__row"><span class="x-cli__key">Stage</span><div class="x-chips" id="stages" role="group" aria-label="Stage"></div></div>
-            <div class="x-cli__row"><span class="x-cli__key">Sort</span><div class="x-chips" id="sorts" role="group" aria-label="Sort order"></div></div>
+            <div class="x-cli__row x-cli__row--sort"><span class="x-cli__key">Sort</span><div class="x-chips" id="sorts" role="group" aria-label="Sort order"></div></div>
+            </div>
             <div class="x-echo">
               <code id="cmd">$ well_run</code>
               <output id="count" aria-live="polite"></output>
@@ -1052,6 +1093,7 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
           <div class="x-runhead">
             <h2>Today&#39;s splits</h2>
             <span id="sortnote">fastest first, ties a–z</span>
+            <div class="x-msort" role="group" aria-label="Sort by"><span>Sort</span><button type="button" class="x-colbtn x-seg" data-sortcol="fastest" aria-pressed="true">Pace</button><button type="button" class="x-colbtn x-seg" data-sortcol="distance" aria-pressed="false">Distance</button><button type="button" class="x-colbtn x-seg" data-sortcol="hiring" aria-pressed="false">Hiring</button></div>
           </div>
           <div class="x-board-card">
             <div class="x-cols"><span>Pos</span><span>Company</span><span><button type="button" class="x-colbtn" data-sortcol="fastest" aria-pressed="true">Pace</button></span><span><button type="button" class="x-colbtn" data-sortcol="distance" aria-pressed="false">Distance</button></span><span>Signals</span><span></span></div>
@@ -1520,6 +1562,8 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
           if (state.q.trim()) line += ` | grep -i "${state.q.trim()}"`;
           cmd.textContent = line;
           const active = state.hiring || state.industry !== "All" || state.stage !== "All" || state.zone !== "All" || state.dist !== "All" || q;
+          const fc = [state.hiring, state.industry !== "All", state.stage !== "All", state.zone !== "All", state.dist !== "All"].filter(Boolean).length;
+          const fcEl = document.getElementById("fcount"); if (fcEl) fcEl.textContent = fc ? String(fc) : "";
           count.textContent = active ? `${list.length} ${list.length === 1 ? "match" : "matches"}` : "";
         }
 
@@ -1581,6 +1625,8 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
         }));
         const syncCols = () => document.querySelectorAll(".x-colbtn").forEach((b) => b.setAttribute("aria-pressed", String(state.sort === b.dataset.sortcol)));
         document.getElementById("sorts").addEventListener("click", () => setTimeout(syncCols, 0));
+        const cli = document.querySelector(".x-cli"), ft = document.getElementById("ftoggle");
+        ft.addEventListener("click", () => { const o = !cli.classList.contains("is-open"); cli.classList.toggle("is-open", o); ft.setAttribute("aria-expanded", String(o)); });
         const hiringBtn = document.getElementById("hiring");
         hiringBtn.addEventListener("click", () => {
           state.hiring = !state.hiring;
