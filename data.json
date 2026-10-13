@@ -37,6 +37,12 @@
     "label": "Upstarts Media: Ambrook raises $30M Series B (Aug 2026)",
     "url": "https://www.upstartsmedia.com/p/ambrook-raises-30m-series-b-real-economy"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Denver",
+   "San Francisco",
+   "Remote"
   ]
  },
  {
@@ -85,6 +91,10 @@
     "label": "SpendHound: AI note-taking apps by real spend data (May 2026)",
     "url": "https://www.spendhound.com/blog/ai-note-taking-apps"
    }
+  ],
+  "hiring_locations": [
+   "London",
+   "San Francisco"
   ]
  },
  {
@@ -129,6 +139,12 @@
     "label": "Finance Ops Club: Numeric alternatives",
     "url": "https://www.financeopsclub.com/software/numeric/alternatives"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "London",
+   "Remote"
   ]
  },
  {
@@ -169,7 +185,8 @@
     "label": "Loops homepage (customer tenure, retention claim)",
     "url": "https://loops.so/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Sierra",
@@ -213,6 +230,13 @@
     "label": "Startup Fortune: Sierra vs incumbents",
     "url": "https://startupfortune.com/sierra-has-635-million-150-million-in-arr-and-a-clear-theory-of-how-to-own-enterprise-ai-before-the-incumbents-wake-up/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "London",
+   "Remote (US)",
+   "Remote (Canada)"
   ]
  },
  {
@@ -253,6 +277,9 @@
     "label": "HIT Consultant: WellTheory raises $14M Series A (Oct 2025)",
     "url": "https://hitconsultant.net/2025/10/14/welltheory-raises-14m-to-scale-whole-person-autoimmune-care-for-employers/"
    }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
   ]
  },
  {
@@ -293,6 +320,9 @@
     "label": "Assured: The most widely deployed AI in P&C",
     "url": "https://www.assured.com/ai"
    }
+  ],
+  "hiring_locations": [
+   "Remote"
   ]
  },
  {
@@ -337,7 +367,8 @@
     "label": "New Market Pitch: at-home blood test startups compared (Jul 2026)",
     "url": "https://newmarketpitch.com/blogs/news/digital-health-at-home-blood-tests-startup"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Scribe",
@@ -381,6 +412,12 @@
     "label": "TechCrunch: Scribe hits $1.3B valuation (Nov 2025)",
     "url": "https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Chicago",
+   "Remote (US)"
   ]
  },
  {
@@ -421,6 +458,13 @@
     "label": "Ramp Series F release (June 2026)",
     "url": "https://www.gic.com.sg/uploads/2026/06/Ramp-Raises-Series-F-at-44-Billion-Valuation-3.pdf"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Miami",
+   "Remote (US)",
+   "Remote (Canada)"
   ]
  },
  {
@@ -461,7 +505,8 @@
     "label": "Citi Ventures: Investing in point.me (Sep 2024)",
     "url": "https://www.citi.com/ventures/perspectives/pressrelease/investing-in-point-me.html"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Rula",
@@ -505,6 +550,10 @@
     "label": "ChoosingTherapy: Rula vs Headway (Sep 2026)",
     "url": "https://www.choosingtherapy.com/rula-vs-headway/"
    }
+  ],
+  "hiring_locations": [
+   "California",
+   "Remote (US)"
   ]
  },
  {
@@ -545,6 +594,10 @@
     "label": "TechCrunch: Didero lands $30M Series A (Feb 2026)",
     "url": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote"
   ]
  },
  {
@@ -589,6 +642,10 @@
     "label": "Hollywood Reporter: Wrapbook raises $20M to compete with Cast & Crew, EP (Sep 2024)",
     "url": "https://www.hollywoodreporter.com/business/business-news/wrapbook-fund-bessemer-venture-partners-1236009642"
    }
+  ],
+  "hiring_locations": [
+   "Remote (US)",
+   "Remote (Canada)"
   ]
  },
  {
@@ -629,6 +686,10 @@
     "label": "Afresh: $34M raise press release (Apr 2026)",
     "url": "https://www.afresh.com/resources/press-release/afresh-raises-34m"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote (US)"
   ]
  },
  {
@@ -682,6 +743,12 @@
     "label": "MedSpark: Commure cuts referral payouts after STAT probe (Aug 2026)",
     "url": "https://medspark.ai/2026/08/17/commure-cuts-referral-payouts-after-stat-probe/"
    }
+  ],
+  "hiring_locations": [
+   "Mountain View",
+   "San Francisco",
+   "Los Angeles",
+   "Remote (US)"
   ]
  },
  {
@@ -726,7 +793,8 @@
     "label": "Reqodata: court reporting and litigation support firms",
     "url": "https://reqodata.com/en/court-reporting-litigation-support-firms"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Sumsub",
@@ -779,7 +847,8 @@
     "label": "Sumsub: Security Incident Update (Feb 2026)",
     "url": "http://sumsub.com/newsroom/security-incident-update"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Hippocratic AI",
@@ -823,6 +892,12 @@
     "label": "PR Newswire: Hippocratic AI Orchestrators (Aug 2026)",
     "url": "https://www.prnewswire.com/news-releases/hippocratic-ai-announces-next-generation-of-healthcare-ai-orchestrators-focused-on-outcomes-not-tasks-302850620.html"
    }
+  ],
+  "hiring_locations": [
+   "Menlo Park",
+   "Seattle",
+   "Columbus",
+   "Remote (US)"
   ]
  },
  {
@@ -863,7 +938,8 @@
     "label": "Paper: $34M Series A (Jul 2026)",
     "url": "https://paper.design/blog/series-a"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Linear",
@@ -907,6 +983,11 @@
     "label": "Ramp: project management software market share",
     "url": "https://ramp.com/vendors/categories/project-management"
    }
+  ],
+  "hiring_locations": [
+   "London",
+   "Remote (North America)",
+   "Remote (Europe)"
   ]
  },
  {
@@ -951,6 +1032,11 @@
     "label": "Bridges: Rillet vs Campfire vs QuickBooks (2026 CFO Tech Guide data)",
     "url": "https://withbridges.com/blog/rillet-vs-campfire-vs-quickbooks-b2b-saas-accounting-2026"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "London"
   ]
  },
  {
@@ -999,6 +1085,12 @@
     "label": "Interviewer Signal: Metaview alternatives (Sep 2026)",
     "url": "https://interviewersignal.com/blog/metaview-alternatives"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "London",
+   "New York",
+   "Remote"
   ]
  },
  {
@@ -1039,6 +1131,13 @@
     "label": "GC AI: $60M Series B (Nov 2025)",
     "url": "https://gc.ai/blog/gc-ai-raises-60-million-series-b-to-give-every-company-a-legal-advantage"
    }
+  ],
+  "hiring_locations": [
+   "San Mateo",
+   "Provo",
+   "Seattle",
+   "Remote (US)",
+   "Remote (Canada)"
   ]
  },
  {
@@ -1079,6 +1178,13 @@
     "label": "Zip: Visionary in 2026 Gartner Magic Quadrant (Jan 2026)",
     "url": "https://ziphq.com/blog/2026-gartner-magic-quadrant-source-to-pay"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "London",
+   "Toronto",
+   "Remote (Israel)",
+   "Remote (Australia)"
   ]
  },
  {
@@ -1119,7 +1225,8 @@
     "label": "Pear VC: Maximum seed (Aug 2026)",
     "url": "https://pear.vc/maximum-seed/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "ShopMy",
@@ -1172,6 +1279,11 @@
     "label": "BoF: ShopMy $1.5B valuation (Oct 2025)",
     "url": "https://www.businessoffashion.com/articles/marketing-pr/shopmy-billion-dollar-valuation/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Sydney",
+   "Remote (US)"
   ]
  },
  {
@@ -1212,6 +1324,11 @@
     "label": "Imprint $150M Series D release (Dec 2025)",
     "url": "https://www.businesswire.com/news/home/20251217961518/en/Imprint-Raises-%24150-Million-Series-D-to-Transform-Co-Brand-Cards-into-a-True-Loyalty-Platform"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Remote"
   ]
  },
  {
@@ -1256,6 +1373,12 @@
     "label": "The Weighted Average: Harvey valuation and lab risk",
     "url": "https://theweightedaverage.com/posts/2026-08-13-harvey-15-5b-legal-ai/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "London",
+   "Remote (Singapore)"
   ]
  },
  {
@@ -1296,6 +1419,12 @@
     "label": "Human Interest x UBS release (Mar 2026)",
     "url": "https://www.globenewswire.com/news-release/2026/03/24/3261342/0/en/human-interest-is-now-available-to-provide-technology-first-401-k-solutions-for-ubs-financial-advisors.html"
    }
+  ],
+  "hiring_locations": [
+   "Lindon",
+   "Little Rock",
+   "Bakersfield",
+   "Remote (US)"
   ]
  },
  {
@@ -1336,6 +1465,13 @@
     "label": "Ctech: Wonderful's economics (52% gross margin, 400 on-site staff)",
     "url": "https://www.calcalistech.com/ctechnews/article/of77ag6kn"
    }
+  ],
+  "hiring_locations": [
+   "Tel Aviv",
+   "South Korea",
+   "Hong Kong",
+   "Remote (Bulgaria)",
+   "Remote (Japan)"
   ]
  },
  {
@@ -1380,6 +1516,12 @@
     "label": "Neko Health: $700M Series C",
     "url": "http://nekohealth.com/us/en/press/neko-health-raises-usd700m-series-c-ahead-of-us-launch"
    }
+  ],
+  "hiring_locations": [
+   "Stockholm",
+   "New York",
+   "London",
+   "Remote"
   ]
  },
  {
@@ -1420,6 +1562,11 @@
     "label": "CPABC: Jane App finance lead (Oct 2026; US$100M ARR, profitable since day one)",
     "url": "https://www.bccpa.ca/news-events/cpabc-newsroom/2026/october/how-this-cpa-is-using-ai-to-drive-growth-at-jane-app/"
    }
+  ],
+  "hiring_locations": [
+   "UK",
+   "Remote (Canada)",
+   "Remote (US)"
   ]
  },
  {
@@ -1470,6 +1617,11 @@
     "label": "brightwheel Back-to-School 2026 release",
     "url": "https://mybrightwheel.com/back-to-school-2026/"
    }
+  ],
+  "hiring_locations": [
+   "Islamabad",
+   "Philippines",
+   "Remote (US)"
   ]
  },
  {
@@ -1510,7 +1662,8 @@
     "label": "TechCrunch: Era raises $11M (Apr 2026)",
     "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Mercury",
@@ -1550,6 +1703,12 @@
     "label": "Mercury Series D release (May 2026)",
     "url": "https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-%24200-Million-Series-D-at-%245.2B-Valuation"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "United States",
+   "Remote"
   ]
  },
  {
@@ -1590,7 +1749,8 @@
     "label": "Glide: GlideOS launch recap (Aug 2026)",
     "url": "https://www.glideapps.com/blog/glideos-launch-recap"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Pave",
@@ -1634,6 +1794,10 @@
     "label": "Pave Agent expansion release (Aug 2026)",
     "url": "https://www.prnewswire.com/news-releases/pave-expands-the-pave-agent-to-reason-across-a-companys-entire-compensation-system-of-record-302850545.html"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Salt Lake City"
   ]
  },
  {
@@ -1683,6 +1847,10 @@
     "label": "Sacra: Mural revenue and competition",
     "url": "https://sacra.com/c/mural/"
    }
+  ],
+  "hiring_locations": [
+   "Remote (Argentina)",
+   "Remote (US)"
   ]
  },
  {
@@ -1723,6 +1891,13 @@
     "label": "PermitFlow: $54M Series B",
     "url": "https://www.permitflow.com/blog/permitflow-series-b"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Indonesia",
+   "Guyana",
+   "Remote (Canada)",
+   "Remote (US)"
   ]
  },
  {
@@ -1767,6 +1942,12 @@
     "label": "Siit: Iru review (2026)",
     "url": "https://www.siit.io/tools/trending/iru-review"
    }
+  ],
+  "hiring_locations": [
+   "Miami",
+   "London",
+   "Sydney",
+   "Remote"
   ]
  },
  {
@@ -1812,6 +1993,10 @@
     "label": "PhocusWire: Breezeway strategic investment (Mar 2026)",
     "url": "https://www.phocuswire.com/news/finance/breezeway-strategic-investment-resurgens"
    }
+  ],
+  "hiring_locations": [
+   "Remote (US)",
+   "Remote (Spain)"
   ]
  },
  {
@@ -1852,6 +2037,12 @@
     "label": "Nooks CEO: 2025 by the numbers (LinkedIn, Jan 2026)",
     "url": "https://www.linkedin.com/posts/dan9lee_setting-our-2026-goals-now-so-ive-been-activity-7416525797190025216-VNci"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "United States",
+   "Seattle",
+   "Remote (Ireland)"
   ]
  },
  {
@@ -1898,6 +2089,12 @@
     "label": "Behavioral Health Business: Headway marketplace fee backlash (Oct 2026)",
     "url": "https://bhbusiness.com/2026/10/02/headway-faces-backlash-after-unveiling-new-opt-in-patient-marketplace-with-10-per-session-fee/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Seattle",
+   "Remote"
   ]
  },
  {
@@ -1942,6 +2139,12 @@
     "label": "Stripe Connect",
     "url": "https://stripe.com/in/connect"
    }
+  ],
+  "hiring_locations": [
+   "Seattle",
+   "Los Angeles",
+   "Phoenix",
+   "Remote"
   ]
  },
  {
@@ -1982,6 +2185,12 @@
     "label": "Raspberry AI agentic platform launch (Sep 2026)",
     "url": "https://www.raspberry.ai/press/raspberry-ai-transforms-how-fashion-brands-go-from-concept-to-commerce-with-launch-of-new-agentic-platform"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Los Angeles",
+   "Remote (US)"
   ]
  },
  {
@@ -2022,6 +2231,12 @@
     "label": "PR Newswire: Parloa post-Series D update (May 2026)",
     "url": "https://www.prnewswire.com/news-releases/parloa-builds-off-350m-series-d-with-new-partnerships-research-fueled-innovation-and-global-expansion-302785842.html"
    }
+  ],
+  "hiring_locations": [
+   "Berlin",
+   "New York",
+   "Munich",
+   "Remote"
   ]
  },
  {
@@ -2062,7 +2277,8 @@
     "label": "Zaya Care homepage",
     "url": "https://www.zayacare.com/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Counterpart",
@@ -2102,6 +2318,10 @@
     "label": "Counterpart $50M Series C release (Apr 2026)",
     "url": "http://businesswire.com/news/home/20260428376223/en/AI-Layoffs-and-a-New-Wave-of-Employee-Lawsuits-Expose-Small-Businesses-to-Litigation-Risks-Counterparts-Agentic-Insurance-Platform-Protects-Them"
    }
+  ],
+  "hiring_locations": [
+   "Remote (US)",
+   "Remote (Peru)"
   ]
  },
  {
@@ -2156,6 +2376,13 @@
     "label": "Drata: Five years in (Feb 2026)",
     "url": "https://drata.com/blog/celebrating-five-years"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "London",
+   "San Diego",
+   "Remote (US)",
+   "Remote (Mexico)"
   ]
  },
  {
@@ -2196,7 +2423,8 @@
     "label": "Sundial raises $23M",
     "url": "https://sundial.ai/sundial-fundraise"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Raycast",
@@ -2236,7 +2464,8 @@
     "label": "Raycast: changing how AI is priced (Sep 2026)",
     "url": "https://www.raycast.com/blog/changing-how-raycast-ai-is-priced"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Haus",
@@ -2276,6 +2505,12 @@
     "label": "Alium: Haus vs. Measured buyer interviews (Oct 2026)",
     "url": "https://www.alium.io/research/compare/haus-vs-measured"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Seattle",
+   "Remote"
   ]
  },
  {
@@ -2316,6 +2551,10 @@
     "label": "Growth Unhinged: inside Pylon's GTM motion (May 2025)",
     "url": "https://kylepoyar.substack.com/p/pylon-growth-story"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York"
   ]
  },
  {
@@ -2356,6 +2595,12 @@
     "label": "Rillet: $100M Series C",
     "url": "https://www.rillet.com/blog/100m-series-c"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "London",
+   "Remote"
   ]
  },
  {
@@ -2396,6 +2641,12 @@
     "label": "Sacra: AirOps revenue and risks (2026)",
     "url": "https://sacra.com/c/airops"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "London",
+   "Remote (US)"
   ]
  },
  {
@@ -2436,6 +2687,12 @@
     "label": "Pacific Coast Business Times: Curri profile (Mar 2026)",
     "url": "https://www.pacbiztimes.com/2026/03/02/ccia-2026-longtime-friends-find-niche-in-logistics/"
    }
+  ],
+  "hiring_locations": [
+   "Ventura",
+   "Miami",
+   "Boise",
+   "Remote (US)"
   ]
  },
  {
@@ -2484,6 +2741,10 @@
     "label": "National Mortgage News: How LOS preferences differ by lender type (Sep 2025)",
     "url": "https://www.nationalmortgagenews.com/news/how-los-preferences-differ-by-mortgage-lender-type"
    }
+  ],
+  "hiring_locations": [
+   "United States",
+   "Remote"
   ]
  },
  {
@@ -2528,6 +2789,12 @@
     "label": "Waystar: Q4 and FY2025 results (Feb 2026)",
     "url": "https://www.waystar.com/news/fourth-quarter-and-fiscal-year-2025/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Denver",
+   "Remote (US)"
   ]
  },
  {
@@ -2568,6 +2835,13 @@
     "label": "Sacra: Prolific at ~$350M/year (May 2026)",
     "url": "https://sacra.com/research/350m-year-mercor-for-human-personality/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "London",
+   "Mexico City",
+   "Remote (UK)",
+   "Remote (US)"
   ]
  },
  {
@@ -2612,6 +2886,12 @@
     "label": "TechCrunch: Alkami is buying Mantl for $400M (Feb 2025)",
     "url": "https://techcrunch.com/2025/02/28/alkami-is-buying-fintech-mantl-for-400-million/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Chicago",
+   "Remote"
   ]
  },
  {
@@ -2652,6 +2932,10 @@
     "label": "ProofStory: Outmarket research report (Sep 2026)",
     "url": "https://proofstory.co/research/outmarket/index.html"
    }
+  ],
+  "hiring_locations": [
+   "Remote (US)",
+   "Remote (India)"
   ]
  },
  {
@@ -2692,6 +2976,13 @@
     "label": "This Week in Fintech: Engine launches corporate card (Mar 2026)",
     "url": "https://www.thisweekinfintech.com/p/exclusive-travel-platform-engine-expands-into-fintech-with-launch-of-corporate-card"
    }
+  ],
+  "hiring_locations": [
+   "Chicago",
+   "Tempe",
+   "Denver",
+   "Remote (US)",
+   "Remote (LatAm)"
   ]
  },
  {
@@ -2732,6 +3023,12 @@
     "label": "CMSWire: Sanity CEO on the future of CMS (Jul 2026)",
     "url": "https://www.cmswire.com/tv/the-digital-experience/s3-e6-sanity-ceo-magnus-hillestad-on-future-of-cms/"
    }
+  ],
+  "hiring_locations": [
+   "London",
+   "SF Bay Area",
+   "Oslo",
+   "Remote (Canada)"
   ]
  },
  {
@@ -2772,6 +3069,11 @@
     "label": "FirstMRR: Tremendous case study",
     "url": "https://first-mrr.com/study/tremendous"
    }
+  ],
+  "hiring_locations": [
+   "Atlanta",
+   "Austin",
+   "Remote (US)"
   ]
  },
  {
@@ -2812,6 +3114,11 @@
     "label": "Yespress: Check company profile (Jul 2026)",
     "url": "https://yespress.io/check"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote"
   ]
  },
  {
@@ -2852,6 +3159,13 @@
     "label": "Ashby: Ashby One 2026 keynote (May 2026)",
     "url": "https://www.ashbyhq.com/blog/culture/ashby-one-2026-keynote"
    }
+  ],
+  "hiring_locations": [
+   "Austin",
+   "Los Angeles",
+   "Berlin",
+   "Remote (US)",
+   "Remote (Canada)"
   ]
  },
  {
@@ -2892,7 +3206,8 @@
     "label": "Sacra: Pitch at $9.4M/year (Aug 2025)",
     "url": "https://sacra.com/research/9m-year-hermes-of-powerpoint/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Gamma",
@@ -2936,6 +3251,10 @@
     "label": "Sacra: Gamma vs Anthropic (Nov 2025)",
     "url": "https://sacra.com/research/gamma-vs-anthropic/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York"
   ]
  },
  {
@@ -2976,6 +3295,11 @@
     "label": "Recode: Plain vs Intercom (Sep 2026)",
     "url": "https://recodenews.com/plains-support-inbox-is-quietly-undercutting/"
    }
+  ],
+  "hiring_locations": [
+   "London",
+   "San Francisco",
+   "Remote"
   ]
  },
  {
@@ -3020,6 +3344,10 @@
     "label": "Taxwire: Best sales tax compliance software in 2026",
     "url": "https://www.taxwire.com/blog/best-sales-tax-compliance-software"
    }
+  ],
+  "hiring_locations": [
+   "NYC preferred",
+   "Remote"
   ]
  },
  {
@@ -3060,6 +3388,13 @@
     "label": "GTMLens: Cresta deep dive (May 2026)",
     "url": "https://gtmlens.com/cresta-1b-deep-dive/"
    }
+  ],
+  "hiring_locations": [
+   "Toronto",
+   "San Francisco",
+   "Berlin",
+   "Remote (US)",
+   "Remote (Canada)"
   ]
  },
  {
@@ -3100,7 +3435,8 @@
     "label": "PR Newswire: FanBasis becomes Commas (Jul 2026)",
     "url": "https://www.prnewswire.com/news-releases/commas-the-platform-quietly-powering-billions-in-online-sales-opens-to-everyone-as-ai-pushes-millions-to-earn-online-302824601.html"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Valon",
@@ -3140,6 +3476,11 @@
     "label": "Business Wire: Valon Series D (Oct 2026)",
     "url": "https://www.businesswire.com/news/home/20261005181820/en/Valon-Raises-%24150-Million-Series-D-at-a-%242.3-Billion-Valuation-to-Deploy-ValonOS-and-AI-Agents-into-Mortgage"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Remote"
   ]
  },
  {
@@ -3188,6 +3529,13 @@
     "label": "Bolt Consulting: Abacum vs Anaplan 2026",
     "url": "https://boltconsulting.co.uk/compare/abacum-vs-anaplan"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Barcelona",
+   "Toronto",
+   "Remote (North America)",
+   "Remote (US)"
   ]
  },
  {
@@ -3236,6 +3584,13 @@
     "label": "Tech CEO Daily: Microsoft voice models",
     "url": "https://www.techceodaily.com/ai/elevenlabs-22-billion-valuation-voice-agents"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "London",
+   "Remote (US)",
+   "Remote (UK)"
   ]
  },
  {
@@ -3276,7 +3631,8 @@
     "label": "Fabric: Evo launch (Feb 2026)",
     "url": "https://www.fabrichealth.com/press/fabric-launches-evo"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "DEUNA",
@@ -3316,6 +3672,13 @@
     "label": "Slash: DEUNA case study (44x TPV growth)",
     "url": "https://www.slash.com/customers/slash-x-deuna"
    }
+  ],
+  "hiring_locations": [
+   "Ciudad de México",
+   "Bogotá",
+   "San Francisco",
+   "Remote (Argentina)",
+   "Remote (US)"
   ]
  },
  {
@@ -3366,7 +3729,8 @@
     "label": "Dealroom: Triptease profile (valuation range)",
     "url": "https://dealroom.co/companies/triptease"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Ketch",
@@ -3414,6 +3778,12 @@
     "label": "Privado: OneTrust vs Ketch (Aug 2026)",
     "url": "https://www.privado.ai/post/onetrust-vs-ketch"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Bengaluru",
+   "United States",
+   "Remote"
   ]
  },
  {
@@ -3454,6 +3824,13 @@
     "label": "Finni Health: provider page (45+ practices, 700+ providers)",
     "url": "https://www.finnihealth.com/providers"
    }
+  ],
+  "hiring_locations": [
+   "Lansing",
+   "Virginia Beach",
+   "Eaton Rapids",
+   "Remote (US)",
+   "Remote (Canada)"
   ]
  },
  {
@@ -3502,6 +3879,10 @@
     "label": "Availity: Clearinghouse & trading partner network",
     "url": "https://www.availity.com/clearinghouse-and-trading-partner-network/"
    }
+  ],
+  "hiring_locations": [
+   "in NYC",
+   "Remote"
   ]
  },
  {
@@ -3542,7 +3923,8 @@
     "label": "Startup Reporter: Maisa 400% growth (Mar 2026)",
     "url": "https://www.startupreporter.eu/maisa-hits-400-growth-building-ai/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Equip",
@@ -3591,6 +3973,12 @@
     "label": "Behavioral Health Business: Equip layoffs (Jun 2026)",
     "url": "https://bhbusiness.com/2026/06/29/digital-eating-disorder-treatment-startup-equip-health-rolls-out-layoffs"
    }
+  ],
+  "hiring_locations": [
+   "Oregon",
+   "New York",
+   "New Jersey",
+   "Remote (US)"
   ]
  },
  {
@@ -3635,6 +4023,13 @@
     "label": "Ramp: CRM software market share & growth",
     "url": "https://ramp.com/vendors/categories/crm"
    }
+  ],
+  "hiring_locations": [
+   "London",
+   "San Francisco",
+   "New York",
+   "Remote (Poland)",
+   "Remote (Portugal)"
   ]
  },
  {
@@ -3675,6 +4070,9 @@
     "label": "tldraw: SDK 4.0 and licensing change",
     "url": "https://tldraw.dev/blog/tldraw-sdk-4-0"
    }
+  ],
+  "hiring_locations": [
+   "London"
   ]
  },
  {
@@ -3715,7 +4113,8 @@
     "label": "TechCrunch: Framer $2B valuation, $50M ARR",
     "url": "https://techcrunch.com/2025/08/28/no-code-website-builder-framer-reaches-2b-valuation/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Decagon",
@@ -3759,6 +4158,12 @@
     "label": "Newcomer: Decagon hit $100M (Aug 2026)",
     "url": "https://www.newcomer.co/p/decagon-hit-100-million-betting-against"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "London",
+   "Remote (Australia)"
   ]
  },
  {
@@ -3799,6 +4204,13 @@
     "label": "Vanta: $300M ARR release (Apr 2026)",
     "url": "https://www.businesswire.com/news/home/20260429269142/en/Vanta-Crosses-$300M-ARR-as-Growth-Accelerates-from-AI"
    }
+  ],
+  "hiring_locations": [
+   "London",
+   "Dublin",
+   "Washington, DC",
+   "Remote (US)",
+   "Remote (Canada)"
   ]
  },
  {
@@ -3839,6 +4251,13 @@
     "label": "Geodesic: why we invested in Fieldguide",
     "url": "https://geodesiccap.com/insight/why-we-invested-in-fieldguide-building-the-agentic-ai-os-for-audit-and-advisory/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Seoul",
+   "Salt Lake City",
+   "Remote (US)",
+   "Remote (UK)"
   ]
  },
  {
@@ -3879,6 +4298,10 @@
     "label": "Monarch: $100M ARR and MBI acquisition (Oct 2026)",
     "url": "https://www.prnewswire.com/news-releases/monarch-hits-100m-in-arr-acquires-mbi-to-accelerate-next-phase-of-growth-302896004.html"
    }
+  ],
+  "hiring_locations": [
+   "Remote (US)",
+   "Remote (Canada)"
   ]
  },
  {
@@ -3927,6 +4350,12 @@
     "label": "QuoteSweep: Best ICHRA platforms 2026",
     "url": "https://www.quotesweep.com/blog/best-ichra-platforms"
    }
+  ],
+  "hiring_locations": [
+   "Austin",
+   "San Francisco",
+   "New York",
+   "Remote (US)"
   ]
  },
  {
@@ -3967,7 +4396,8 @@
     "label": "Obvious Ventures: why we invested in Hostie",
     "url": "https://obvious.com/ideas/why-we-invested-in-hostie/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Omni",
@@ -4011,6 +4441,12 @@
     "label": "ThoughtSpot: Power BI vs Tableau 2026",
     "url": "https://www.thoughtspot.com/data-trends/business-intelligence/power-bi-vs-tableau"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Dublin",
+   "London",
+   "Remote (US)"
   ]
  },
  {
@@ -4051,6 +4487,11 @@
     "label": "TechCrunch: RevenueCat $50M Series C",
     "url": "https://techcrunch.com/2025/05/22/revenuecat-raises-50m-as-it-expands-beyond-mobile-app-monetization/"
    }
+  ],
+  "hiring_locations": [
+   "Americas",
+   "APAC",
+   "Remote (Europe)"
   ]
  },
  {
@@ -4091,6 +4532,12 @@
     "label": "Index Ventures: Duvo $15M seed",
     "url": "https://www.indexventures.com/perspectives/duvo-raises-15m-to-give-retail-teams-an-ai-workforce-that-goes-live-in-weeks-cutting-manual-work-by-40/"
    }
+  ],
+  "hiring_locations": [
+   "London",
+   "Prague",
+   "Remote (UK)",
+   "Remote (Europe)"
   ]
  },
  {
@@ -4139,6 +4586,10 @@
     "label": "STAT: Epic launches AI Charting (Feb 2026)",
     "url": "https://www.statnews.com/2026/02/04/epic-ai-charting-ambient-scribe-abridge-microsoft"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote (US)"
   ]
  },
  {
@@ -4179,7 +4630,8 @@
     "label": "CoinDesk: zerohash raising after Mastercard exit (May 2026)",
     "url": "http://coindesk.com/business/2026/05/19/zerohash-pursues-new-funding-at-more-than-usd1-5-billion-valuation-after-mastercard-drops-investment-plans"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "status": "new",
@@ -4223,6 +4675,12 @@
     "label": "Stuut: Stuut vs HighRadius 2026",
     "url": "https://www.stuut.ai/blog/stuut-vs-highradius-complete-platform-comparison-2026"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Chicago",
+   "Remote (Europe)"
   ]
  },
  {
@@ -4263,6 +4721,12 @@
     "label": "Flai: $27M Series A",
     "url": "https://www.useflai.com/blog/flai-series-a-base10"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Florida",
+   "Texas",
+   "Remote (US)"
   ]
  },
  {
@@ -4303,6 +4767,13 @@
     "label": "Siena: why we raised $17M",
     "url": "https://www.siena.cx/blog/siena-raises-17m-series-a"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Chicago",
+   "Boston",
+   "Remote (Europe)",
+   "Remote (Argentina)"
   ]
  },
  {
@@ -4343,6 +4814,9 @@
     "label": "TechCrunch: Melius raises $20M",
     "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product"
    }
+  ],
+  "hiring_locations": [
+   "New York"
   ]
  },
  {
@@ -4391,7 +4865,8 @@
     "label": "Bottle POS: Best Santé alternatives (Jul 2026)",
     "url": "https://bottlepos.com/blog/best-sante-alternative-liquor"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "DoorLoop",
@@ -4441,7 +4916,8 @@
     "label": "Glassdoor layoff reviews",
     "url": "https://www.glassdoor.com/Reviews/DoorLoop-layoff-Reviews-EI_IE6826868.0,8_KH9,15.htm"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "EliseAI",
@@ -4486,6 +4962,12 @@
     "label": "PropTechBuzz: EliseAI $350M raise",
     "url": "https://www.proptechbuzz.com/news/eliseai-raises-350m"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Boston",
+   "Remote"
   ]
  },
  {
@@ -4536,6 +5018,9 @@
     "label": "SiliconANGLE: TypeSafe closes $870M",
     "url": "https://siliconangle.com/2026/10/09/jev-creator-typesafe-closes-870m-round-at-7-5b-valuation/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco"
   ]
  },
  {
@@ -4581,6 +5066,11 @@
     "label": "PostHog: multi-product pricing",
     "url": "https://posthog.com/founders/multi-product-pricing"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote (Europe)",
+   "Remote (UK)"
   ]
  },
  {
@@ -4635,7 +5125,8 @@
     "label": "TechCrunch: Mixpanel breach",
     "url": "http://techcrunch.com/2025/12/02/a-data-breach-at-analytics-giant-mixpanel-leaves-a-lot-of-open-questions"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Pindrop",
@@ -4676,6 +5167,11 @@
     "label": "ION Analytics: Pindrop CEO interview",
     "url": "https://ionanalytics.com/insights/mergermarket/pindrop-could-step-up-acquisitions-in-agentic-security-as-its-deepfake-detection-takes-off-ceo/"
    }
+  ],
+  "hiring_locations": [
+   "Atlanta",
+   "Remote (US)",
+   "Remote (Ukraine)"
   ]
  },
  {
@@ -4717,6 +5213,10 @@
     "label": "TechCrunch: Arena $100M run rate (Jun 2026)",
     "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business"
    }
+  ],
+  "hiring_locations": [
+   "SF Bay Area",
+   "Remote"
   ]
  },
  {
@@ -4767,6 +5267,12 @@
     "label": "Signals Inbox: Is Owner worth $2.3B?",
     "url": "https://signalsinbox.com/blogs/news/vertical-saas-owner-overvalued"
    }
+  ],
+  "hiring_locations": [
+   "Toronto",
+   "San Francisco",
+   "Remote (US)",
+   "Remote (Canada)"
   ]
  },
  {
@@ -4812,6 +5318,11 @@
     "label": "The Inference: banks bought into Rogo (Oct 2026)",
     "url": "https://theinference.org/article/nine-banks-with-20-trillion-in-assets-bought-into-rogo-the-ai-their-analysts-already-pay-to-use"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "London",
+   "San Francisco"
   ]
  },
  {
@@ -4853,6 +5364,9 @@
     "label": "Monaco $50M Series B release",
     "url": "https://www.globenewswire.com/news-release/2026/05/12/3293132/0/en/monaco-secures-50-million-in-series-b-funding-to-grow-ai-powered-sales-platform-amid-strong-customer-demand.html"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco"
   ]
  },
  {
@@ -4898,6 +5412,10 @@
     "label": "Profound vs Peec AI (The Next Scoop)",
     "url": "https://thenextscoop.com/profound-vs-peec-ai/"
    }
+  ],
+  "hiring_locations": [
+   "Berlin",
+   "New York"
   ]
  },
  {
@@ -4939,6 +5457,12 @@
     "label": "Pelico AE Ventures release",
     "url": "https://www.prnewswire.com/news-releases/pelico-secures-strategic-investment-from-ae-ventures-to-accelerate-ai-powered-manufacturing-orchestration-across-aerospace-and-defense-302833683.html"
    }
+  ],
+  "hiring_locations": [
+   "Paris",
+   "Boston",
+   "US: Miami",
+   "Remote (US)"
   ]
  },
  {
@@ -4989,6 +5513,12 @@
     "label": "Maze: About us",
     "url": "https://maze.co/about-us/"
    }
+  ],
+  "hiring_locations": [
+   "Portugal",
+   "Spain",
+   "Remote (UK)",
+   "Remote (Canada)"
   ]
  },
  {
@@ -5030,6 +5560,12 @@
     "label": "Quartermaster blog: $140M raise (Sep 2026)",
     "url": "https://www.quartermaster.us/blog/the-price-of-not-knowing"
    }
+  ],
+  "hiring_locations": [
+   "Arlington",
+   "Arabian Gulf",
+   "New York",
+   "Remote (US)"
   ]
  },
  {
@@ -5071,6 +5607,11 @@
     "label": "InvestmentNews: Range and AI advisors",
     "url": "https://www.investmentnews.com/ria-news/ria-startup-range-plans-to-eliminate-its-advisor-workforce-as-ai-takes-over/265586"
    }
+  ],
+  "hiring_locations": [
+   "McLean",
+   "New York",
+   "Bellevue"
   ]
  },
  {
@@ -5112,6 +5653,10 @@
     "label": "Semafor: Pika's new creator tool",
     "url": "https://www.semafor.com/article/09/17/2026/video-ai-company-pika-offers-tool-to-speed-up-ai-video-creation"
    }
+  ],
+  "hiring_locations": [
+   "Palo Alto",
+   "Remote (US)"
   ]
  },
  {
@@ -5153,7 +5698,8 @@
     "label": "Demand Gen Report: Aurasell Agent Builder",
     "url": "https://www.demandgenreport.com/industry-news/news-brief/aurasell-launches-agent-builder-for-go-to-market-teams/53554/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Zero",
@@ -5194,7 +5740,8 @@
     "label": "Zero: $10.3M seed",
     "url": "https://zero.inc/blog/zero-raises-seed-round"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Jeeves",
@@ -5239,6 +5786,13 @@
     "label": "DevCuration: Jeeves raise analysis (Sep 2026)",
     "url": "https://devcuration.com/articles/jeeves-raises-110m-in-equity-funding"
    }
+  ],
+  "hiring_locations": [
+   "São Paulo",
+   "Bogotá",
+   "Mexico City",
+   "Remote (US)",
+   "Remote (Argentina)"
   ]
  },
  {
@@ -5280,6 +5834,11 @@
     "label": "American Banker: Capital One closes Brex",
     "url": "https://www.americanbanker.com/payments/news/capital-one-closes-brex-acquisition"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Seattle"
   ]
  },
  {
@@ -5334,7 +5893,8 @@
     "label": "HR Tech Feed: Deel crosses $1.5B ARR",
     "url": "https://hrtechfeed.com/deel-crosses-1-5b-arr-announces-its-15th-acquisition/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Hark",
@@ -5379,6 +5939,9 @@
     "label": "TechCrunch: Hark releases an AI personal assistant (Oct 2026)",
     "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"
    }
+  ],
+  "hiring_locations": [
+   "San Jose"
   ]
  },
  {
@@ -5433,7 +5996,8 @@
     "label": "TechCrunch: Instinct raises $1B Series C at $10B (Sep 2026)",
     "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Legora",
@@ -5478,6 +6042,12 @@
     "label": "Bytevyte: Legora valuation, switching costs, acquisitions (Sep 2026)",
     "url": "https://bytevyte.com/legora-valuation-nears-8-5b-as-legal-ai-startup-seeks-300m/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Stockholm",
+   "London",
+   "Remote (Singapore)"
   ]
  },
  {
@@ -5519,6 +6089,13 @@
     "label": "n8n/PR Newswire via EQS: SAP strategic investment at $5.2B (May 2026)",
     "url": "https://www.eqs-news.com/news/corporate/n8n-valuation-doubles-to-5-2bn-as-sap-makes-strategic-investment-and-plans-to-embed-the-ai-platform-into-joule-studio/b33d4713-7ab2-4703-8caa-1f37710221c5"
    }
+  ],
+  "hiring_locations": [
+   "Berlin",
+   "Latvia",
+   "Lithuania",
+   "Remote (UK)",
+   "Remote (Germany)"
   ]
  },
  {
@@ -5560,6 +6137,11 @@
     "label": "Business Wire: Eve launches EveOS (Jun 2026)",
     "url": "https://www.businesswire.com/news/home/20260611528924/en/Eve-Launches-EveOS-the-AI-Native-Operating-System-Transforming-Plaintiff-Law-Firms"
    }
+  ],
+  "hiring_locations": [
+   "San Mateo",
+   "San Francisco",
+   "Remote (US)"
   ]
  },
  {
@@ -5601,6 +6183,11 @@
     "label": "Paraform: crosses $100M annualized revenue (Jul 2026)",
     "url": "https://www.paraform.com/blog/100m-annualized-revenue"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote"
   ]
  },
  {
@@ -5646,6 +6233,11 @@
     "label": "Recode: Hex vs Databricks' analyst base (Aug 2026)",
     "url": "https://recodenews.com/hexs-collaborative-notebooks-are-quietly-cornering/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Remote (US)"
   ]
  },
  {
@@ -5687,6 +6279,10 @@
     "label": "AIPOST: Gumloop's enterprise playbook (Oct 2026)",
     "url": "https://aipost.kr/posts/2026-10-03-gumloop-enterprise-ai-agent-builder-growth/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Vancouver"
   ]
  },
  {
@@ -5733,6 +6329,10 @@
     "label": "Metabase: August 2026 security vulnerability, what happened",
     "url": "https://www.metabase.com/blog/vulnerability-what-happened"
    }
+  ],
+  "hiring_locations": [
+   "Remote (Global)",
+   "Remote (US)"
   ]
  },
  {
@@ -5787,6 +6387,12 @@
     "label": "TNW: Universal and Sony sue Suno again (Sep 2026)",
     "url": "https://thenextweb.com/news/universal-sony-second-lawsuit-suno-60202-recordings"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Los Angeles",
+   "San Francisco",
+   "Remote"
   ]
  },
  {
@@ -5841,7 +6447,8 @@
     "label": "TNW: Fish Audio gives its voice AI away (Jul 2026)",
     "url": "https://thenextweb.com/news/fish-audio-52m-seed-open-voice-models"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Duetti",
@@ -5882,6 +6489,11 @@
     "label": "MBW: Duetti $200M incl. $50M Series C (Jan 2026)",
     "url": "https://www.musicbusinessworldwide.com/duetti-secures-200m-in-fresh-financing-led-by-50m-series-c-equity-investment-from-the-raine-group/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "London",
+   "Los Angeles"
   ]
  },
  {
@@ -5923,6 +6535,12 @@
     "label": "GlobeNewswire: Venn acquires Zuma for $50M (Sep 2026)",
     "url": "https://www.globenewswire.com/news-release/2026/09/22/3366532/0/en/venn-acquires-a16z-backed-zuma-for-50-million-as-its-platform-closes-in-on-one-million-homes.html"
    }
+  ],
+  "hiring_locations": [
+   "Tel Aviv District",
+   "New York",
+   "Chicago",
+   "Remote (US)"
   ]
  },
  {
@@ -5964,7 +6582,8 @@
     "label": "TechCrunch: Founders Fund's outlier bet on humanely killed fish (Jun 2026)",
     "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Planhat",
@@ -6005,6 +6624,11 @@
     "label": "PR Newswire: Planhat named a Leader in 2025 Gartner MQ (Nov 2025)",
     "url": "https://www.prnewswire.com/news-releases/planhat-named-a-leader-in-2025-gartners-magic-quadrant-for-customer-success-management-platforms-302608843.html"
    }
+  ],
+  "hiring_locations": [
+   "London",
+   "Stockholm",
+   "Los Angeles"
   ]
  },
  {
@@ -6055,6 +6679,11 @@
     "label": "Extenteam homepage",
     "url": "https://extenteam.com/"
    }
+  ],
+  "hiring_locations": [
+   "Miami",
+   "Los Angeles",
+   "South America"
   ]
  },
  {
@@ -6096,6 +6725,9 @@
     "label": "Crux: what our $50M Series B means (Apr 2025)",
     "url": "https://www.crux.com/blog/crux-announces-50m-series-b-funding-round"
    }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
   ]
  },
  {
@@ -6137,7 +6769,8 @@
     "label": "ACCESS Newswire via Yahoo: Mocse CU selects Narmi One (May 2026)",
     "url": "https://finance.yahoo.com/sectors/technology/articles/mocse-credit-union-selects-narmi-130000520.html"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Grow Therapy",
@@ -6183,6 +6816,12 @@
     "label": "Behavioral Health Business: Grow Therapy $150M Series D (Mar 2026)",
     "url": "https://bhbusiness.com/2026/03/03/with-1b-in-revenue-grow-therapy-lands-150m-series-d"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Seattle",
+   "Remote"
   ]
  },
  {
@@ -6249,7 +6888,8 @@
     "label": "Meadow: best Dutchie alternatives 2026",
     "url": "https://getmeadow.com/blog/dutchie-alternatives"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Dutchie",
@@ -6311,6 +6951,9 @@
     "label": "Meadow (rival): best Dutchie alternatives 2026",
     "url": "https://getmeadow.com/blog/dutchie-alternatives"
    }
+  ],
+  "hiring_locations": [
+   "Remote"
   ]
  },
  {
@@ -6381,6 +7024,11 @@
     "label": "Copper Feed: Lattice HRIS has shut down (Aug 2026)",
     "url": "https://blog.copperfeed.com/lattice-hris-shutdown-what-now/"
    }
+  ],
+  "hiring_locations": [
+   "London",
+   "Remote (US)",
+   "Remote (Canada)"
   ]
  },
  {
@@ -6426,7 +7074,8 @@
     "label": "HRTech Edition: Rippling hits $1B ARR (Mar 2026)",
     "url": "https://hrtechedition.com/news/compound-product-strategy-delivers-billion-dollar-scale-rippling-hits-arr-at-78-growth/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Común",
@@ -6480,6 +7129,9 @@
     "label": "Latin Times: Banking without an SSN (Sep 2026)",
     "url": "https://www.latintimes.com/banking-without-social-security-number-inside-race-serve-americas-unbanked-latinos-599407"
    }
+  ],
+  "hiring_locations": [
+   "New York"
   ]
  },
  {
@@ -6542,6 +7194,12 @@
     "label": "Gusto Pro and accountant partner program (PR Newswire, Oct 2026)",
     "url": "https://www.prnewswire.com/news-releases/gusto-unveils-redesigned-gusto-pro-new-multi-client-model-context-protocol-and-expanded-partner-program-for-accountants-302901507.html"
    }
+  ],
+  "hiring_locations": [
+   "Denver",
+   "San Francisco",
+   "New York",
+   "Remote"
   ]
  },
  {
@@ -6596,6 +7254,12 @@
     "label": "Jerry.ai job post: profitable, 5 launches in 2026 (Oct 2026)",
     "url": "https://jobspring.pro/job/j12832386/senior-product-manager-growth-10-to-100-jerry-ai/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Boston",
+   "Chicago",
+   "Remote"
   ]
  },
  {
@@ -6637,7 +7301,8 @@
     "label": "Overstory: outage and ignition models (PR Newswire, Apr 2026)",
     "url": "https://www.prnewswire.com/news-releases/overstory-unveils-first-ai-models-to-predict-power-outages-and-wildfires-with-tree-level-precision-302749179.html"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Baseten",
@@ -6682,6 +7347,12 @@
     "label": "AgentSciX: Baseten gross margin undisclosed (Jul 2026)",
     "url": "https://agentscix.com/blog/ai-revenue/baseten-13b-inference-gross-margin-undisclosed"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Toronto",
+   "Remote"
   ]
  },
  {
@@ -6744,7 +7415,8 @@
     "label": "Krisp: USPTO institutes review of Sanas patents (Sep 2026)",
     "url": "https://www.streetinsider.com/Business+Wire/USPTO+Advances+All+Six+Krisp+Challenges+After+Finding+Strong+Grounds+to+Question+Sanas%E2%80%99+Patents/27034896.html"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "PolyAI",
@@ -6789,7 +7461,8 @@
     "label": "Dilr.ai: PolyAI 200+ enterprise customers (May 2026)",
     "url": "https://www.dilr.ai/blog/polyai-canada-expansion-enterprise-voice-ai-scale-signal"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Arketa",
@@ -6830,6 +7503,10 @@
     "label": "Fitt Insider: Arketa $15M Series A (Jun 2025)",
     "url": "https://insider.fitt.co/arketa-secures-15m-for-customizable-booking-platform/"
    }
+  ],
+  "hiring_locations": [
+   "Remote (UK)",
+   "Remote (US)"
   ]
  },
  {
@@ -6884,6 +7561,9 @@
     "label": "Sacra: Surge AI profile",
     "url": "https://www.sacra.com/c/surge-ai"
    }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
   ]
  },
  {
@@ -6938,7 +7618,8 @@
     "label": "Doppel: MUFG strategic investment, 300+ customers (Sep 2026)",
     "url": "https://www.doppel.com/company/press-releases/mufg-innovation-partners-becomes-strategic-investor-doppel"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Monk",
@@ -6979,6 +7660,10 @@
     "label": "Next Play: Should you join Monk (Jun 2026)",
     "url": "https://nextplayso.substack.com/p/should-you-join-monk"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco"
   ]
  },
  {
@@ -7020,6 +7705,11 @@
     "label": "Refresh Miami: Matia $21M Series A (Feb 2026)",
     "url": "https://refreshmiami.com/news/matia-raises-21m-to-make-data-infrastructure-invisible/"
    }
+  ],
+  "hiring_locations": [
+   "Tel-Aviv",
+   "Miami",
+   "Remote (US)"
   ]
  },
  {
@@ -7070,7 +7760,8 @@
     "label": "FreightWaves: Hirschbach picks Augment (Jul 2026)",
     "url": "https://www.freightwaves.com/news/hirschbach-ai-driver-communication"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Triple Whale",
@@ -7111,6 +7802,12 @@
     "label": "AI Agent Chronicle: Triple Whale rebrands around Moby (Sep 2026)",
     "url": "https://aiagentchronicle.com/articles/2026-09-10-triple-whale-rebrands-as-the-ai-operating-system-for-modern-commerce-and-its-mob/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Jerusalem",
+   "UK",
+   "Remote (US)"
   ]
  },
  {
@@ -7152,6 +7849,12 @@
     "label": "MedCity News: Pomelo Care $92M Series C (Jan 2026)",
     "url": "https://medcitynews.com/2026/01/pomelo-care-secures-92m-to-grow-beyond-maternity-care/"
    }
+  ],
+  "hiring_locations": [
+   "South Carolina",
+   "New York",
+   "Marin",
+   "Remote (US)"
   ]
  },
  {
@@ -7210,7 +7913,8 @@
     "label": "ServiceNow: completes Moveworks acquisition (Dec 2025)",
     "url": "https://newsroom.servicenow.com/press-releases/details/2025/ServiceNow-completes-acquisition-of-Moveworks/default.aspx"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Mercor",
@@ -7268,6 +7972,12 @@
     "label": "HeroHunt: Mercor vs Surge vs Scale AI buyer guide (Sep 2026)",
     "url": "https://www.herohunt.ai/blog/mercor-vs-surge-vs-scale-ai-2026-buyer-guide/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Mercor",
+   "Remote (Mexico)"
   ]
  },
  {
@@ -7313,6 +8023,12 @@
     "label": "Flex + Yardi integration page",
     "url": "https://getflex.com/properties/yardi"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Salt Lake City",
+   "Remote (Global)"
   ]
  },
  {
@@ -7358,6 +8074,12 @@
     "label": "GIC: Ramp Series F, $1B+ annualized revenue (Jun 2026)",
     "url": "https://www.gic.com.sg/newsroom/all/ramp-raises-series-f-at-44-billion-valuation/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Miami",
+   "Dallas",
+   "Remote (US)"
   ]
  },
  {
@@ -7412,7 +8134,8 @@
     "label": "CNBC: Whatnot valued at $20B, ~60% live-shopping share (Aug 2026)",
     "url": "https://www.cnbc.com/2026/08/07/whatnot-live-shopping-valuation-20-billion.html"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Split Pay",
@@ -7466,7 +8189,8 @@
     "label": "Axios: Split Pay raises $125M (Sep 2026)",
     "url": "https://www.axios.com/2026/09/08/split-pay-khosla-125-million"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Leona Health",
@@ -7507,6 +8231,11 @@
     "label": "TechCrunch: Leona $14M seed (Dec 2025)",
     "url": "https://techcrunch.com/2025/12/16/uber-eats-alum-lands-14m-seed-from-a16z-to-fix-whatsapp-chaos-for-latams-doctors"
    }
+  ],
+  "hiring_locations": [
+   "Mexico City",
+   "San Francisco",
+   "Remote"
   ]
  },
  {
@@ -7548,7 +8277,8 @@
     "label": "PR Newswire: Outer Spaces launch (Oct 2026)",
     "url": "https://www.prnewswire.com/news-releases/outer-spaces-launches-with-a-new-category-beyond-the-walls-of-the-home--merging-outdoor-living-with-home-energy-302899656.html"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Alta",
@@ -7589,7 +8319,8 @@
     "label": "TechCrunch: Alta x Public School integration (Feb 2026)",
     "url": "https://techcrunch.com/2026/02/14/clueless-inspired-app-alta-partners-with-brand-public-school-to-start-integrating-styling-tools-into-websites/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Rosebud",
@@ -7630,7 +8361,8 @@
     "label": "FinSMEs: Rosebud $6M seed (Jun 2025)",
     "url": "https://www.finsmes.com/2025/06/rosebud-raises-6m-in-seed-funding.html"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Norm Ai",
@@ -7671,6 +8403,12 @@
     "label": "Norm Ai: $120M Series C (Jul 2026)",
     "url": "https://www.norm.ai/resources/norm-ai-raises-20-million-at-a-1-2-billion-valuation"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Washington, DC",
+   "London",
+   "Remote"
   ]
  },
  {
@@ -7720,6 +8458,12 @@
     "label": "Avalara: Numeral vs Avalara",
     "url": "https://www.avalara.com/us/en/about/why-avalara/avalara-vs-numeral.html"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Salt Lake City",
+   "Remote (US)"
   ]
  },
  {
@@ -7765,6 +8509,11 @@
     "label": "Datadog Q4 2025 results (Bits AI SRE)",
     "url": "https://www.globenewswire.com/news-release/2026/02/10/3235171/0/en/datadog-announces-fourth-quarter-and-fiscal-year-2025-financial-results.html"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote"
   ]
  },
  {
@@ -7806,6 +8555,11 @@
     "label": "Latent: 60 health systems, new agents (Sep 2026)",
     "url": "https://www.latenthealth.com/press/latent-expands-ai-platform-new-generation-of-medicines"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote"
   ]
  },
  {
@@ -7860,7 +8614,8 @@
     "label": "TechCrunch: Starcloud $250M (Aug 2026)",
     "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Prime Intellect",
@@ -7905,6 +8660,11 @@
     "label": "TBPN Digest: interview with CEO Vincent Weisser (Jul 2026)",
     "url": "https://www.tbpndigest.com/story/2026-07-08/prime-intellect-raises-130m-at-1b-valuation-to-build-open-sovereign-ai-stack"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote"
   ]
  },
  {
@@ -7954,6 +8714,10 @@
     "label": "Business Insurance: largest TPAs by 2025 revenue (2026)",
     "url": "https://us.charlestaylor.com/wp-content/uploads/2026/05/BI_TPA_Directory_2026_p5.pdf"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote (US)"
   ]
  },
  {
@@ -8004,6 +8768,12 @@
     "label": "Emerald AI: $150M Series A (Aug 2026)",
     "url": "https://www.emeraldai.co/blog/emerald-ai-raises-150-million-series-a"
    }
+  ],
+  "hiring_locations": [
+   "SF Bay Area",
+   "Boston",
+   "Washington, DC",
+   "Remote"
   ]
  },
  {
@@ -8045,6 +8815,9 @@
     "label": "Dealroom: Trajectory $40M Series A (Aug 2026)",
     "url": "https://dealroom.co/news/144435-trajectory-raises-40m-series-a-at-300m-valuation/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco"
   ]
  },
  {
@@ -8094,6 +8867,10 @@
     "label": "Teardown: Sixfold competitive landscape (Jul 2026)",
     "url": "https://www.teardown.ai/companies/sixfold"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York"
   ]
  },
  {
@@ -8135,6 +8912,11 @@
     "label": "Mercury News/Bloomberg: Periodic Labs $7B talks (Mar 2026)",
     "url": "https://www.mercurynews.com/2026/03/25/ai-science-startup-periodic-labs-is-in-deal-talks-at-about-7-billion-valuation"
    }
+  ],
+  "hiring_locations": [
+   "Menlo Park",
+   "Montréal",
+   "Remote"
   ]
  },
  {
@@ -8176,6 +8958,11 @@
     "label": "TechCrunch: XDOF Series B talks (Sep 2026)",
     "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation"
    }
+  ],
+  "hiring_locations": [
+   "San Mateo",
+   "Jakarta",
+   "Remote (Mexico)"
   ]
  },
  {
@@ -8217,6 +9004,9 @@
     "label": "Fortune: Salient $25M ARR, zero churn (Dec 2025)",
     "url": "http://fortune.com/2025/12/18/salients-quiet-ai-boom-how-this-two-year-old-startup-is-building-a-company-to-survive-the-bubble-burst"
    }
+  ],
+  "hiring_locations": [
+   "SF Headquarters"
   ]
  },
  {
@@ -8271,6 +9061,11 @@
     "label": "Fortune: Aaru's 'do not trust us' pitch (Jun 2026)",
     "url": "https://fortune.com/2026/06/17/aaru-cofounder-ned-koh-ai-startup-sales-pitch-do-not-trust-us/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Singapore"
   ]
  },
  {
@@ -8321,6 +9116,13 @@
     "label": "Altis: DualEntry report (Jun 2026)",
     "url": "https://www.altis.vc/reports/dualentry"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "London",
+   "San Francisco",
+   "Remote (Canada)",
+   "Remote (Europe)"
   ]
  },
  {
@@ -8362,6 +9164,9 @@
     "label": "EU-Startups: Scope $20M round (May 2026)",
     "url": "https://www.eu-startups.com/2026/05/uk-ai-startup-scope-raises-e17-3-million-funding-led-by-index-ventures-to-speed-up-industrial-inspection-workflows/"
    }
+  ],
+  "hiring_locations": [
+   "London"
   ]
  },
  {
@@ -8420,6 +9225,12 @@
     "label": "ARR Club: Composio triples ARR (Apr 2026)",
     "url": "https://www.arr.club/composio/composio-triples-arr-with-25m-funding-this-year"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Bengaluru",
+   "EST",
+   "Remote"
   ]
  },
  {
@@ -8466,6 +9277,9 @@
     "label": "TechCrunch: Julius $10M seed (Jul 2025)",
     "url": "https://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco"
   ]
  },
  {
@@ -8516,6 +9330,12 @@
     "label": "Brain Co.: launch and Series A post",
     "url": "https://brain.co/blog/introducing-brain-co-9gk9a"
    }
+  ],
+  "hiring_locations": [
+   "SF Bay Area",
+   "Abu Dhabi",
+   "New York",
+   "Remote"
   ]
  },
  {
@@ -8561,6 +9381,12 @@
     "label": "Datadog Q1 2026 results (Bits AI Security Analyst)",
     "url": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-announces-first-quarter-2026-financial-results"
    }
+  ],
+  "hiring_locations": [
+   "Boston",
+   "Dallas",
+   "West Coast",
+   "Remote"
   ]
  },
  {
@@ -8602,7 +9428,8 @@
     "label": "1001: Series A announcement (Jun 2026)",
     "url": "https://1001.ai/blog/series-a"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Fleet AI",
@@ -8648,7 +9475,8 @@
     "label": "Sacra: Fleet revenue, competition and risks",
     "url": "https://sacra.com/c/fleet/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "General Intuition",
@@ -8689,6 +9517,11 @@
     "label": "SiliconANGLE: General Intuition closes $220M (Sep 2026)",
     "url": "https://siliconangle.com/2026/09/29/world-model-startup-general-intuition-closes-220m-investment/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "London",
+   "Geneva"
   ]
  },
  {
@@ -8730,6 +9563,11 @@
     "label": "TechCrunch: Accel-backed Keenable is indexing the web for AI agents (Aug 2026)",
     "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Global",
+   "Remote (US)"
   ]
  },
  {
@@ -8771,6 +9609,9 @@
     "label": "Dealroom/The Information: Wafer $40M Series A, ~50% gross margin (Sep 2026)",
     "url": "https://dealroom.co/news/info-1mzxko1-wafer-an-inference-provider-that-uses-non-nvidia-chips-lands-acquisition/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco"
   ]
  },
  {
@@ -8812,7 +9653,8 @@
     "label": "ellipsis Ventures: Juna portfolio milestones",
     "url": "https://ellipsis-venture.com/portfolio/juna"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Safe Superintelligence",
@@ -8858,7 +9700,8 @@
     "label": "SSI: company updates",
     "url": "https://ssi.inc/updates"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Thinking Machines Lab",
@@ -8908,6 +9751,11 @@
     "label": "The Next Web: Thinking Machines in talks to raise $6bn (Sep 2026)",
     "url": "https://thenextweb.com/news/thinking-machines-lab-6bn-round-nvidia-accel"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Washington, DC"
   ]
  },
  {
@@ -8949,6 +9797,12 @@
     "label": "Sacra: Applied Intuition at $830M/year (May 2026)",
     "url": "https://sacra.com/research/applied-intuition-at-830m-year"
    }
+  ],
+  "hiring_locations": [
+   "Sunnyvale",
+   "Tokyo",
+   "Ann Arbor",
+   "Remote (Australia)"
   ]
  },
  {
@@ -8994,6 +9848,12 @@
     "label": "Tech Funding News: Modal $15B talks, margin risk (Sep 2026)",
     "url": "https://techfundingnews.com/modal-labs-funding-talks-15b-valuation-ai-inference/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Stockholm",
+   "Remote"
   ]
  },
  {
@@ -9039,6 +9899,13 @@
     "label": "Menlo Ventures: 2025 State of Generative AI in the Enterprise",
     "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/"
    }
+  ],
+  "hiring_locations": [
+   "Toronto",
+   "New York",
+   "Montréal",
+   "Remote (Canada)",
+   "Remote (Europe)"
   ]
  },
  {
@@ -9080,6 +9947,12 @@
     "label": "Business Wire: Glean surpasses $300M ARR (May 2026)",
     "url": "https://www.businesswire.com/news/home/20260528505530/en/Glean-Surpasses-%24300M-ARR-Unrivaled-Enterprise-Context-Fuels-AI-Adoption"
    }
+  ],
+  "hiring_locations": [
+   "Mountain View",
+   "San Francisco",
+   "Bengaluru",
+   "Remote (US)"
   ]
  },
  {
@@ -9121,6 +9994,13 @@
     "label": "LangChain: On agent frameworks and agent observability (Feb 2026)",
     "url": "https://www.langchain.com/blog/on-agent-frameworks-and-agent-observability"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Boston",
+   "Remote (Germany)",
+   "Remote (US)"
   ]
  },
  {
@@ -9170,6 +10050,12 @@
     "label": "Forbes: Cursor hits $4B annualized revenue (Jun 2026)",
     "url": "https://www.forbes.com/sites/richardnieva/2026/06/08/cursor-4-billion-annualized-revenue"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "London",
+   "Remote (Singapore)"
   ]
  },
  {
@@ -9232,6 +10118,11 @@
     "label": "Reuters: Surge AI out-earned Scale AI in 2024 (Jul 2025)",
     "url": "https://www.reuters.com/business/scale-ais-bigger-rival-surge-ai-seeks-up-1-billion-capital-raise-sources-say-2025-07-01"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Washington, DC"
   ]
  },
  {
@@ -9273,6 +10164,11 @@
     "label": "OpenAI: Warp customer story (May 2026)",
     "url": "https://openai.com/index/warp/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Canada",
+   "Remote"
   ]
  },
  {
@@ -9314,6 +10210,11 @@
     "label": "Dealroom/The Information: Rogo, Hebbia revenue rises as Claude finance threat looms (Sep 2026)",
     "url": "https://dealroom.co/news/info-mvrieu-rogo-hebbia-revenue-rises-as-claude-finance-threat-looms/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "London"
   ]
  },
  {
@@ -9363,6 +10264,12 @@
     "label": "Menlo Ventures: 2025 State of Generative AI in the Enterprise",
     "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/"
    }
+  ],
+  "hiring_locations": [
+   "Paris",
+   "London",
+   "New York",
+   "Remote (Singapore)"
   ]
  },
  {
@@ -9409,6 +10316,11 @@
     "label": "TechCrunch: Nuro driverless testing permit ahead of Uber launch (May 2026)",
     "url": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/"
    }
+  ],
+  "hiring_locations": [
+   "Mountain View",
+   "California - LA",
+   "California - SF"
   ]
  },
  {
@@ -9454,6 +10366,13 @@
     "label": "Forbes: Cursor hits $4B annualized revenue (Jun 2026)",
     "url": "https://www.forbes.com/sites/richardnieva/2026/06/08/cursor-4-billion-annualized-revenue"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "London",
+   "Remote (Australia)",
+   "Remote (APAC)"
   ]
  },
  {
@@ -9504,6 +10423,12 @@
     "label": "BDI: Vannevar Labs company profile (Sep 2026)",
     "url": "https://balticdefenseinitiative.com/news/company-vannevar-labs/"
    }
+  ],
+  "hiring_locations": [
+   "Washington, DC",
+   "Tampa",
+   "Honolulu",
+   "Remote"
   ]
  },
  {
@@ -9557,6 +10482,12 @@
     "label": "KLAS Ambient AI 2026 report",
     "url": "https://klasresearch.com/report/ambient-ai-2026-a-high-performing-market-shifts-as-ehr-native-tools-adjust-long-term-strategies/3982"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "CHI",
+   "Remote (US)"
   ]
  },
  {
@@ -9598,6 +10529,11 @@
     "label": "Business Wire: Reevo CMO/CRO hires, 4x demand (Feb 2026)",
     "url": "https://www.businesswire.com/news/home/20260226926076/en/Revenue-Marketing-Builders-Join-Reevo-to-Deliver-AI-Native-Revenue-Operating-System-to-Customers"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Santa Clara",
+   "Remote"
   ]
  },
  {
@@ -9639,6 +10575,12 @@
     "label": "Chalk: Introducing Chalk Compute (Jun 2026)",
     "url": "https://chalk.ai/blog/chalk-compute"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "London",
+   "Remote (Singapore)"
   ]
  },
  {
@@ -9680,7 +10622,8 @@
     "label": "Nominal acquires Fid Labs (ARR 7x in 2025, 4 of 5 primes)",
     "url": "https://www.globenewswire.com/news-release/2026/04/30/3284606/0/en/nominal-acquires-fid-labs-to-bring-ai-to-the-full-hardware-engineering-lifecycle.html"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Cartesia",
@@ -9721,6 +10664,11 @@
     "label": "Altis: Cartesia moat debate (SSM edge, 50K customers)",
     "url": "https://www.altis.vc/research/company/cartesia"
    }
+  ],
+  "hiring_locations": [
+   "* - San Francisco",
+   "Bengaluru",
+   "London"
   ]
  },
  {
@@ -9771,6 +10719,10 @@
     "label": "The Information: Pinecone considers sale, lost Notion",
     "url": "https://archive.is/N5h2a"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote (US)"
   ]
  },
  {
@@ -9812,6 +10764,11 @@
     "label": "Merge: How we restarted Merge in 2025",
     "url": "https://www.merge.dev/blog/2025-review"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Berlin"
   ]
  },
  {
@@ -9853,6 +10810,10 @@
     "label": "Eventual raises $30M (Daft users, early-access cloud)",
     "url": "https://www.eventual.ai/blog/eventual-raises-30m-to-build-the-future-of-data"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Los Angeles"
   ]
  },
  {
@@ -9903,6 +10864,13 @@
     "label": "Sacra: Faire revenue, NDR, ads",
     "url": "https://sacra.com/c/faire"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Toronto",
+   "Remote (US)",
+   "Remote (Canada)"
   ]
  },
  {
@@ -9944,6 +10912,12 @@
     "label": "Bedrock: first fully autonomous excavator deployments (Aug 2026)",
     "url": "https://www.globenewswire.com/news-release/2026/08/17/3346247/0/en/bedrock-robotics-launches-first-fully-autonomous-excavator-deployments-on-critical-u-s-infrastructure-projects.html"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Lockhart",
+   "Remote"
   ]
  },
  {
@@ -9990,6 +10964,13 @@
     "label": "Tech in Asia: Perplexity passes $450M ARR, orchestrates others' models",
     "url": "https://www.techinasia.com/news/ai-search-startup-perplexity-passes-450m-arr"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "London",
+   "Remote (Ireland)",
+   "Remote (US)"
   ]
  },
  {
@@ -10035,6 +11016,12 @@
     "label": "State of Brand: Clay pricing cut and GTM data commoditization (Jun 2026)",
     "url": "https://www.thestateofbrand.com/news/clay-unify-gtm-pricing-bottoms-out"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "London",
+   "Remote"
   ]
  },
  {
@@ -10080,6 +11067,12 @@
     "label": "Crunchbase News: Runway raises $315M Series E (Feb 2026)",
     "url": "https://news.crunchbase.com/venture/gen-ai-video-startup-unicorn-runway-seriese-raise/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Seattle",
+   "Remote (Japan)"
   ]
  },
  {
@@ -10121,6 +11114,12 @@
     "label": "Upstarts: HeyGen $200M ARR, cash-flow break-even",
     "url": "https://www.upstartsmedia.com/p/exclusive-heygen-200m-arr-without-burn"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Los Angeles",
+   "San francisco",
+   "Remote (UK)"
   ]
  },
  {
@@ -10170,6 +11169,13 @@
     "label": "Ramp Leading Indicators: AEO adoption",
     "url": "https://ramp.com/leading-indicators/the-seo-shake-up-how-ai-search-is-powering-the-rise-of-aeo-startups-like-profound"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "London",
+   "Remote (US)",
+   "Remote (Singapore)"
   ]
  },
  {
@@ -10211,6 +11217,9 @@
     "label": "Confido: $55M Series B announcement (Sep 2026)",
     "url": "https://www.confidotech.com/blogs/confido-raises-55m-series-b-to-scale-the-ai-operating-system-for-cpg-brands"
    }
+  ],
+  "hiring_locations": [
+   "New York"
   ]
  },
  {
@@ -10252,6 +11261,12 @@
     "label": "Miter: It's time to build (Series B, 2% of workers)",
     "url": "https://www.miter.com/resources/its-time-to-build/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Washington, DC",
+   "Remote"
   ]
  },
  {
@@ -10293,6 +11308,10 @@
     "label": "TFN: Causa Prima $20M seed",
     "url": "https://techfundingnews.com/causa-prima-raises-20m-seed-from-base10-to-let-ai-agents-settle-b2b-invoices/"
    }
+  ],
+  "hiring_locations": [
+   "Madrid",
+   "Munich"
   ]
  },
  {
@@ -10359,6 +11378,13 @@
     "label": "KLAS Ambient AI 2026 report",
     "url": "https://klasresearch.com/report/ambient-ai-2026-a-high-performing-market-shifts-as-ehr-native-tools-adjust-long-term-strategies/3982"
    }
+  ],
+  "hiring_locations": [
+   "Melbourne",
+   "London",
+   "Sydney",
+   "Remote (Japan)",
+   "Remote (Australia)"
   ]
  },
  {
@@ -10409,6 +11435,11 @@
     "label": "Runlayer: $30M Series A",
     "url": "https://www.runlayer.com/blog/series-A-30m-fundraise-felicis-khosla"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Remote (US)"
   ]
  },
  {
@@ -10450,6 +11481,12 @@
     "label": "Serval: $75M Series B (replacing incumbent ITSM)",
     "url": "https://www.serval.com/updates/serval%E2%80%99s-next-chapter-raising-75m-to-build-the-new-era-of-enterprise-automation-and-service-management"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "London",
+   "Remote"
   ]
  },
  {
@@ -10491,6 +11528,10 @@
     "label": "Traversal: Amex Ventures investment and deployment",
     "url": "https://www.traversal.com/blog/american-express-announcement"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote"
   ]
  },
  {
@@ -10532,6 +11573,9 @@
     "label": "Paid: $21.6M seed release",
     "url": "https://www.prnewswire.com/news-releases/paid-raises-21-million-seed-to-build-infrastructure-for-the-ai-agent-economy-302569185.html"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco"
   ]
  },
  {
@@ -10573,7 +11617,8 @@
     "label": "SiliconANGLE: Model ML $75M, runs on OpenAI, Anthropic competes",
     "url": "https://siliconangle.com/2025/11/24/financial-ai-startup-model-ml-nabs-75m-investment/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Parallel Web Systems",
@@ -10614,6 +11659,11 @@
     "label": "PR Newswire via Yahoo Finance: Parallel raises at $2B (Apr 2026)",
     "url": "https://finance.yahoo.com/sectors/technology/articles/parallel-raises-2-billion-valuation-110000090.html"
    }
+  ],
+  "hiring_locations": [
+   "Palo Alto",
+   "San Francisco",
+   "New York"
   ]
  },
  {
@@ -10655,6 +11705,10 @@
     "label": "a16z: Investing in Sola (5x revenue in 2025)",
     "url": "https://a16z.com/announcement/investing-in-sola/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote"
   ]
  },
  {
@@ -10696,6 +11750,10 @@
     "label": "Lux: backing Crosby (100+ customers, feedback loop)",
     "url": "https://www.luxcapital.com/news/were-backing-crosby-to-end-the-billiable-hour-for-laywers"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote (US)"
   ]
  },
  {
@@ -10737,6 +11795,12 @@
     "label": "Avoca: $125M+ at $1B valuation release",
     "url": "https://www.prnewswire.com/news-releases/avoca-raises-125m-at-1b-valuation-to-power-americas-services-economy-with-ai-302753962.html"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Santa Barbara",
+   "Bengaluru",
+   "Remote"
   ]
  },
  {
@@ -10778,6 +11842,12 @@
     "label": "Dust: $40M Series B release (240% NRR, zero churn)",
     "url": "https://www.globenewswire.com/news-release/2026/05/18/3296726/0/en/dust-raises-40m-to-make-ai-multiplayer-inside-the-enterprise.html"
    }
+  ],
+  "hiring_locations": [
+   "Paris",
+   "New York",
+   "San Francisco",
+   "Remote"
   ]
  },
  {
@@ -10819,6 +11889,11 @@
     "label": "Cogent: $42M Series A (Feb 2026)",
     "url": "https://www.cogent.com/newsroom/cogent-security-raises-42m-series-a"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Remote (US)"
   ]
  },
  {
@@ -10864,7 +11939,8 @@
     "label": "Awesome Agents: Emergent Series C analysis",
     "url": "https://awesomeagents.ai/news/emergent-ai-coding-unicorn-series-c/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Geordie AI",
@@ -10905,6 +11981,13 @@
     "label": "Geordie: $30M Series A (May 2026)",
     "url": "https://www.geordie.ai/resources/geordie-raises-30m-to-help-enterprises-securely-adopt-agentic-ai-at-scale/"
    }
+  ],
+  "hiring_locations": [
+   "London",
+   "New York",
+   "US Midwest",
+   "Remote (US)",
+   "Remote (UK)"
   ]
  },
  {
@@ -10946,6 +12029,10 @@
     "label": "Anterior: $40M round (Feb 2026)",
     "url": "https://anterior.com/insights/announcements/anterior-raises-40m-series/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote"
   ]
  },
  {
@@ -10987,6 +12074,10 @@
     "label": "Juicebox: $80M Series B (Mar 2026)",
     "url": "https://hrtechcube.com/juicebox-raises-80m-at-850m-valuation-to-expand-talent-platform/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "London"
   ]
  },
  {
@@ -11028,6 +12119,11 @@
     "label": "Gradient Labs: $26M Series A (Jun 2026)",
     "url": "http://gradient-labs.ai/blog/weve-raised-26m-to-bring-autonomous-customer-operations-to-financial-services"
    }
+  ],
+  "hiring_locations": [
+   "London",
+   "New York",
+   "Remote"
   ]
  },
  {
@@ -11069,7 +12165,8 @@
     "label": "AI Journal: Accordance joins BDO Alliance (Feb 2026)",
     "url": "https://aijourn.com/accordance-announces-hiring-partner-milestones-for-its-ai-accounting-platform/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Day AI",
@@ -11110,7 +12207,8 @@
     "label": "Day AI: Series A and GA (Feb 2026)",
     "url": "https://www.day.ai/resources/series-a-and-the-beginning-of-the-shift-in-crm"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Claim Health",
@@ -11151,6 +12249,9 @@
     "label": "HomeCare: Claim Health $4.4M seed (Jan 2026)",
     "url": "https://www.homecaremag.com/claim-health-secures-44m-seed-funding-ai-revenue-operations/"
    }
+  ],
+  "hiring_locations": [
+   "New York"
   ]
  },
  {
@@ -11192,6 +12293,9 @@
     "label": "FLORA: $42M Series A (Jan 2026)",
     "url": "https://flora.ai/blog/the-creative-environment-for-the-generative-era"
    }
+  ],
+  "hiring_locations": [
+   "New York"
   ]
  },
  {
@@ -11233,6 +12337,11 @@
     "label": "Stacks: $23M Series A (Feb 2026)",
     "url": "https://stacks.ai/resources/stacks-raises-23-million-to-reinvent-finance-operations-with-agentic-ai"
    }
+  ],
+  "hiring_locations": [
+   "London",
+   "Amsterdam",
+   "Remote"
   ]
  },
  {
@@ -11274,6 +12383,9 @@
     "label": "Medra: AI Experimentalist and DARPA (Jun 2026)",
     "url": "https://www.medra.ai/darpa-collaboration"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco"
   ]
  },
  {
@@ -11324,6 +12436,9 @@
     "label": "Quartz: Phia cookie stuffing (Aug 2026)",
     "url": "https://qz.com/phia-phoebe-gates-sophia-kianni-cookie-stuffing-081326"
    }
+  ],
+  "hiring_locations": [
+   "New York"
   ]
  },
  {
@@ -11365,7 +12480,8 @@
     "label": "Hadrius: $22M Series A (Jul 2026)",
     "url": "https://www.hadrius.com/insights/series-a"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Pace",
@@ -11406,7 +12522,8 @@
     "label": "Emergence: Pace $46M Series B (May 2026)",
     "url": "https://www.emcap.com/thoughts/pace-raises-46m-series-b-to-scale-ai-native-insurance-operations"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Simile",
@@ -11447,6 +12564,10 @@
     "label": "Simile: Series B (Jul 2026)",
     "url": "https://simile.ai/blog/series-b"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York"
   ]
  },
  {
@@ -11497,6 +12618,13 @@
     "label": "makeyourmind/up: Higgsfield taken apart (Oct 2026)",
     "url": "https://home.makeyourmindup.ai/p/higgsfield-taken-apart-the-1bn-ai"
    }
+  ],
+  "hiring_locations": [
+   "Almaty",
+   "SF Bay Area",
+   "Los Angeles",
+   "Remote (US)",
+   "Remote (France)"
   ]
  },
  {
@@ -11538,6 +12666,9 @@
     "label": "Translucent: $27M Series A (Mar 2026)",
     "url": "https://www.translucent.ai/blog/translucent-ai-raises-27m-series-a-led-by-gv"
    }
+  ],
+  "hiring_locations": [
+   "New York"
   ]
  },
  {
@@ -11579,6 +12710,9 @@
     "label": "Insurance Business: Fulcrum $25M (Jan 2026)",
     "url": "https://www.insurancebusinessmag.com/us/news/technology/fulcrum-lands-25-million-as-aidriven-insurtechs-dominate-venture-capital-race-563241.aspx"
    }
+  ],
+  "hiring_locations": [
+   "Fulcrum"
   ]
  },
  {
@@ -11620,6 +12754,9 @@
     "label": "Raindrop: Series A (Sep 2026)",
     "url": "https://www.raindrop.ai/blog/series-a"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco"
   ]
  },
  {
@@ -11661,6 +12798,12 @@
     "label": "Giga: Series A announcement (Nov 2025)",
     "url": "https://www.giga.ai/news/series-a"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Dallas",
+   "Remote"
   ]
  },
  {
@@ -11702,6 +12845,9 @@
     "label": "TechCrunch: Sandstone raises $30M Series A (Jun 2026)",
     "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams"
    }
+  ],
+  "hiring_locations": [
+   "New York"
   ]
  },
  {
@@ -11743,6 +12889,11 @@
     "label": "TNW: Jack & Jill $40M Series A (Sep 2026)",
     "url": "https://thenextweb.com/news/jack-and-jill-40m-series-a"
    }
+  ],
+  "hiring_locations": [
+   "London UK",
+   "San Francisco",
+   "Central London"
   ]
  },
  {
@@ -11784,6 +12935,10 @@
     "label": "Greenboard: product suite",
     "url": "https://www.greenboard.com/products"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Phoenix"
   ]
  },
  {
@@ -11825,7 +12980,8 @@
     "label": "TechCrunch: How Ricursive raised $335M (Feb 2026)",
     "url": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Fireworks AI",
@@ -11874,6 +13030,13 @@
     "label": "New Market Pitch: AI cloud, which startup is ahead? (Jul 2026)",
     "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-ai-cloud-startup"
    }
+  ],
+  "hiring_locations": [
+   "San Mateo",
+   "New York",
+   "London",
+   "Remote (Singapore)",
+   "Remote (US)"
   ]
  },
  {
@@ -11919,6 +13082,10 @@
     "label": "Sacra: Supabase at $170M/year (Jun 2026)",
     "url": "https://sacra.com/research/supabase-170m-year-growing-221-yoy/"
    }
+  ],
+  "hiring_locations": [
+   "Remote (Global)",
+   "Remote (Europe)"
   ]
  },
  {
@@ -11964,6 +13131,12 @@
     "label": "Wikipedia: Wispr Flow (retention, platforms, rivals)",
     "url": "https://en.wikipedia.org/wiki/Wispr_Flow"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Bengaluru",
+   "Remote (US)"
   ]
  },
  {
@@ -12009,6 +13182,12 @@
     "label": "AgentSciX: Lovable's undisclosed NRR and margins (Jul 2026)",
     "url": "https://agentscix.com/blog/ai-revenue/lovable-500m-run-rate-nrr-durability-vibe-coding"
    }
+  ],
+  "hiring_locations": [
+   "Stockholm",
+   "London",
+   "New York",
+   "Remote"
   ]
  },
  {
@@ -12058,6 +13237,12 @@
     "label": "New Market Pitch: AI cloud, which startup is ahead? (Jul 2026)",
     "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-ai-cloud-startup"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Amsterdam",
+   "New York",
+   "Remote"
   ]
  },
  {
@@ -12103,6 +13288,12 @@
     "label": "The Inference: Crusoe sold six gigawatts and built one (Sep 2026)",
     "url": "https://theinference.org/article/crusoe-sold-six-gigawatts-and-built-one"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Sunnyvale",
+   "Denver",
+   "Remote (US)"
   ]
  },
  {
@@ -12144,6 +13335,11 @@
     "label": "Sacra: Fal.ai revenue, valuation & funding",
     "url": "https://sacra.com/c/fal-ai/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote (Global)",
+   "Remote (US)"
   ]
  },
  {
@@ -12189,6 +13385,13 @@
     "label": "Sacra: Replit passes $500M/year (May 2026)",
     "url": "https://sacra.com/research/replit-passes-500m-year/"
    }
+  ],
+  "hiring_locations": [
+   "Foster City",
+   "New York",
+   "London",
+   "Remote (Japan)",
+   "Remote (US)"
   ]
  },
  {
@@ -12235,6 +13438,13 @@
     "label": "VentureBeat: Anthropic $30B run rate, Claude Code (May 2026)",
     "url": "https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Seattle",
+   "Remote (US)",
+   "Remote (Australia)"
   ]
  },
  {
@@ -12276,6 +13486,13 @@
     "label": "Dealroom/The Information: Vercel $600M annualized (Oct 2026)",
     "url": "https://dealroom.co/news/info-hyu6e4-why-coding-agents-are-choosing-vercel-as-often-as-humans-do/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "London",
+   "New York",
+   "Remote (US)",
+   "Remote (Germany)"
   ]
  },
  {
@@ -12317,6 +13534,13 @@
     "label": "BetaKit: Tailscale nears 40,000 paid business customers (Jul 2026)",
     "url": "https://betakit.com/tailscale-catches-ai-tailwinds-as-it-nears-40000-paid-business-customers"
    }
+  ],
+  "hiring_locations": [
+   "Toronto",
+   "Vancouver",
+   "Denver",
+   "Remote (US)",
+   "Remote (Canada)"
   ]
  },
  {
@@ -12358,6 +13582,11 @@
     "label": "Encord: $60M Series C (Feb 2026)",
     "url": "https://encord.com/blog/encord-announces-60-million-series-c/"
    }
+  ],
+  "hiring_locations": [
+   "London",
+   "San Francisco",
+   "New York"
   ]
  },
  {
@@ -12404,6 +13633,13 @@
     "label": "explainx: OpenAI ~$50B run rate, claimed vs verified (Oct 2026)",
     "url": "https://explainx.ai/blog/openai-50-billion-run-rate-not-70-billion-claimed-vs-verified-2026"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Seattle",
+   "Remote (Singapore)",
+   "Remote (US)"
   ]
  },
  {
@@ -12445,6 +13681,9 @@
     "label": "depthfirst: $80M Series B and dfs-mini1 (Mar 2026)",
     "url": "https://depthfirst.com/post/series-b-announcement"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco"
   ]
  },
  {
@@ -12486,6 +13725,12 @@
     "label": "TechCrunch: Parasail raises $32M (Apr 2026)",
     "url": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/"
    }
+  ],
+  "hiring_locations": [
+   "San Mateo",
+   "San Francisco",
+   "Europe",
+   "Remote"
   ]
  },
  {
@@ -12527,6 +13772,12 @@
     "label": "CNBC via NBC Miami: Vultr raises $329M debt, says profitable (Jun 2025)",
     "url": "https://www.nbcmiami.com/news/business/money-report/vultr-raises-over-300-million-in-debt-as-wall-street-goes-bigger-in-cloud-infrastructure/3643049/"
    }
+  ],
+  "hiring_locations": [
+   "Chennai",
+   "Ohio Data Center",
+   "Atlanta",
+   "Remote (US)"
   ]
  },
  {
@@ -12568,6 +13819,12 @@
     "label": "PR Newswire: Jane Street leads Antithesis $105M Series A (Dec 2025)",
     "url": "https://www.prnewswire.com/news-releases/jane-street-leads-antithesiss-105m-series-a-to-make-deterministic-simulation-testing-the-new-standard-302631076.html"
    }
+  ],
+  "hiring_locations": [
+   "Vienna",
+   "London",
+   "San Francisco",
+   "Remote (Japan)"
   ]
  },
  {
@@ -12609,6 +13866,13 @@
     "label": "Tech.eu: Featherless.ai $20M Series A (Apr 2026)",
     "url": "https://tech.eu/2026/04/30/featherlessai-secures-20m-to-expand-serverless-platform-for-open-source-ai/"
    }
+  ],
+  "hiring_locations": [
+   "Atlanta",
+   "Tampa",
+   "Miami",
+   "Remote (US)",
+   "Remote (Europe)"
   ]
  },
  {
@@ -12654,7 +13918,8 @@
     "label": "New Market Pitch: AI cloud, which startup is ahead? (Jul 2026)",
     "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-ai-cloud-startup"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Apollo.io",
@@ -12695,6 +13960,13 @@
     "label": "Apollo: acquires Pocus (Mar 2026)",
     "url": "https://www.apollo.io/newsroom/announcements/apollo-acquires-pocus-to-advance-its-vision-for-an-ai-native-gtm-operating-system"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "London",
+   "Austin",
+   "Remote (US)",
+   "Remote (Canada)"
   ]
  },
  {
@@ -12736,6 +14008,10 @@
     "label": "Resend: 3,000,000 users, profitable (Jun 2026)",
     "url": "https://resend.com/blog/3-million-users"
    }
+  ],
+  "hiring_locations": [
+   "Americas",
+   "Remote (Europe)"
   ]
  },
  {
@@ -12786,6 +14062,12 @@
     "label": "EE Times: SambaNova raises $1B, signs JPMorganChase (Jul 2026)",
     "url": "https://www.eetimes.com/sambanova-raises-1-billion-signs-jpmorganchase-as-a-customer/"
    }
+  ],
+  "hiring_locations": [
+   "San Jose",
+   "Austin",
+   "Bengaluru",
+   "Remote (US)"
   ]
  },
  {
@@ -12827,6 +14109,12 @@
     "label": "Vast.ai: named among fastest-growing vendors by Ramp and Brex (Mar 2026)",
     "url": "https://vast.ai/article/ramp-brex-fastest-growing-vendor"
    }
+  ],
+  "hiring_locations": [
+   "Los Angeles",
+   "San Francisco",
+   "Vietnam",
+   "Remote (Mexico)"
   ]
  },
  {
@@ -12868,6 +14156,9 @@
     "label": "GetLatka: 1mind CEO interview ($6M ARR, 211% NDR)",
     "url": "https://getlatka.com/companies/1mind/interviews/1mind-amanda-kahlow-2026"
    }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
   ]
  },
  {
@@ -12914,7 +14205,8 @@
     "label": "Grammarly: $1B growth financing (May 2025)",
     "url": "http://grammarly.com/blog/company/grammarly-announces-growth-financing"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Appfire",
@@ -12960,6 +14252,11 @@
     "label": "Appfire: Inc. 5000 for fourth year (Aug 2026)",
     "url": "https://appfire.com/newsroom/appfire-named-2026-inc-5000-fourth-consecutive-year"
    }
+  ],
+  "hiring_locations": [
+   "United States",
+   "Poland",
+   "Bulgaria"
   ]
  },
  {
@@ -13006,6 +14303,9 @@
     "label": "Netlify: The end of seats (Apr 2026, best quarter, 40k daily signups)",
     "url": "https://www.netlify.com/blog/pricing-netlify-for-3-billion-builders"
    }
+  ],
+  "hiring_locations": [
+   "Remote"
   ]
  },
  {
@@ -13047,6 +14347,10 @@
     "label": "PR Newswire: Novita on Ramp top vendors (Mar 2026, 350K developers)",
     "url": "https://www.prnewswire.com/news-releases/novita-ai-named-a-top-ai-infrastructure-vendor-on-ramp-302722905.html"
    }
+  ],
+  "hiring_locations": [
+   "San Mateo",
+   "Remote"
   ]
  },
  {
@@ -13088,7 +14392,8 @@
     "label": "Runware: $50M Series A",
     "url": "https://runware.ai/blog/runware-raises-50m-series-a-to-power-all-intelligent-applications"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Chroma",
@@ -13129,6 +14434,9 @@
     "label": "TBPN Digest: Chroma Cloud near 1,000 paying customers (Aug 2026)",
     "url": "https://www.tbpndigest.com/story/2026-08-12/jeff-huber-launches-zeitgeist-chromas-shared-ai-memory-layer-for-enterprise-teams-as-cloud-hits-1000-paying-customers"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco"
   ]
  },
  {
@@ -13170,7 +14478,8 @@
     "label": "Streamline AI: in-house legal AI platform launch (Apr 2026)",
     "url": "https://www.streamline.ai/blog/streamline-ai-introduces-in-house-legal-platform"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "DataForSEO",
@@ -13215,7 +14524,8 @@
     "label": "Search Engine Journal: Google files DMCA suit targeting SerpApi (Dec 2025)",
     "url": "https://www.searchenginejournal.com/google-files-dmca-suit-targeting-serpapis-serp-scraping/563847/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "PheedLoop",
@@ -13256,7 +14566,8 @@
     "label": "PheedLoop homepage",
     "url": "https://pheedloop.com/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "DataZapp",
@@ -13297,7 +14608,8 @@
     "label": "Datazapp reviews page (20,000+ users)",
     "url": "https://www.datazapp.com/datazapp-reviews/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Canva",
@@ -13347,7 +14659,8 @@
     "label": "Startup Daily: Canva valuation cut, growth and cash (Aug 2026)",
     "url": "https://www.startupdaily.net/advice/business-strategy/canva-wipes-10-billion-from-its-valuation-putting-ipo-plans-in-doubt/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Lightdash",
@@ -13388,6 +14701,9 @@
     "label": "Lightdash: Zapped 2025 year in review (58k users)",
     "url": "https://www.lightdash.com/blogpost/zapped-2025"
    }
+  ],
+  "hiring_locations": [
+   "Remote (UK)"
   ]
  },
  {
@@ -13429,7 +14745,8 @@
     "label": "Marpipe: Meta is subsidizing Marpipe (Sep 2026)",
     "url": "https://www.marpipe.com/blog/meta-is-subsidizing-marpipe"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Howdy",
@@ -13470,7 +14787,8 @@
     "label": "Young and Profiting: Howdy at $50M recurring revenue (Sep 2026)",
     "url": "https://youngandprofiting.com/how-she-scaled-howdy-from-400-left-to-50m-in-recurring-revenue-entrepreneurship-how-we-profit-e11/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Sitebulb",
@@ -13516,7 +14834,8 @@
     "label": "Sitebulb Cloud page (5,000+ SEOs)",
     "url": "https://sitebulb.com/cloud"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Monte Carlo",
@@ -13557,6 +14876,12 @@
     "label": "AIimpacted: Monte Carlo cut 30% of team (Mar 2026)",
     "url": "https://aiimpacted.org/post/monte-carlo-cut-30-of-its-team-and-its-chief-executive-says-ai-lets-smaller-grou"
    }
+  ],
+  "hiring_locations": [
+   "London",
+   "Denver",
+   "Boston",
+   "Remote (US)"
   ]
  },
  {
@@ -13627,6 +14952,13 @@
     "label": "PlanetScale: Introducing Neki (Sep 2026)",
     "url": "https://planetscale.com/blog/introducing-neki"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "NA",
+   "SF Bay Area",
+   "Remote (US)",
+   "Remote (Europe)"
   ]
  },
  {
@@ -13693,6 +15025,10 @@
     "label": "Greenhouse board: Onboarding Manager, Support Operations Manager open",
     "url": "https://job-boards.greenhouse.io/boulevard"
    }
+  ],
+  "hiring_locations": [
+   "Canada",
+   "Remote (US)"
   ]
  },
  {
@@ -13767,7 +15103,8 @@
     "label": "Whizz careers: field recovery, mechanics, store roles",
     "url": "https://www.getwhizz.com/careers"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Squire",
@@ -13833,6 +15170,10 @@
     "label": "Squire: branded booking apps, 44.63% returning-client rate across 32,000 barbers",
     "url": "https://getsquire.com/business-edge/barbershop-software/barbershop-branded-booking-app"
    }
+  ],
+  "hiring_locations": [
+   "Buenos Aires",
+   "Remote (US)"
   ]
  },
  {
@@ -13878,7 +15219,8 @@
     "label": "Fortune: Cyclops raises $20M Series A (Jul 2026)",
     "url": "https://fortune.com/2026/07/15/exclusive-cyclops-20-million-payment-companies-settlement-stablecoins/"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "OpenFX",
@@ -13927,6 +15269,12 @@
     "label": "Rebank: Prabhakar Reddy on spreads (Sep 2026)",
     "url": "https://www.rebank.cc/rebuilding-cross-border-payments-with-prabhakar-reddy-of-openfx/"
    }
+  ],
+  "hiring_locations": [
+   "Bengaluru",
+   "Miami",
+   "New York",
+   "Remote (US)"
   ]
  },
  {
@@ -13989,6 +15337,9 @@
     "label": "GainTrace: Gainsight vs Vitally (competitor blog; Gartner Niche Player)",
     "url": "https://gaintrace.com/blog/gainsight-vs-vitally"
    }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
   ]
  },
  {
@@ -14063,6 +15414,10 @@
     "label": "Live Ashby board (ops roles in marketplace ops, trust & safety)",
     "url": "https://jobs.ashbyhq.com/clipboard"
    }
+  ],
+  "hiring_locations": [
+   "Remote (US)",
+   "Remote (Europe)"
   ]
  },
  {
@@ -14133,6 +15488,10 @@
     "label": "Fierce Healthcare, Papa Plus for insurers, Mar 2026",
     "url": "https://www.fiercehealthcare.com/payers/papa-rolls-out-new-program-insurers-called-papa-plus"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote (US)"
   ]
  },
  {
@@ -14186,7 +15545,8 @@
   "status": "new",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "hiring_locations": []
  },
  {
   "name": "Exa",
@@ -14239,7 +15599,12 @@
   "status": "new",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "London"
+  ]
  },
  {
   "name": "Rain",
@@ -14301,7 +15666,12 @@
   "status": "new",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "hiring_locations": [
+   "New York",
+   "Washington, DC",
+   "Remote (Europe)"
+  ]
  },
  {
   "name": "Bilt",
@@ -14371,7 +15741,8 @@
     "label": "Gem board: integrations and enterprise ops roles (landlord lock-in)",
     "url": "https://jobs.gem.com/bilt"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "NewtonX",
@@ -14420,6 +15791,11 @@
     "label": "NewtonX press, Jun 2026: B2B Synthetic Personas launch",
     "url": "https://www.newtonx.com/press/b2b-synthetic-personas/"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Medellín",
+   "Remote"
   ]
  },
  {
@@ -14469,6 +15845,11 @@
     "label": "RepVue: ~84 employees, +236% in 12 months",
     "url": "https://www.repvue.com/companies/actively-ai"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Remote"
   ]
  },
  {
@@ -14518,6 +15899,11 @@
     "label": "Dealroom: valuation $100–250M (2024), headcount 100–500",
     "url": "https://dealroom.co/companies/coast-1-4"
    }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Salt Lake City",
+   "Draper"
   ]
  },
  {
@@ -14567,6 +15953,12 @@
     "label": "Glassdoor: 3.3/59, Aug 2026 review cites badly handled layoffs",
     "url": "https://www.glassdoor.com/Reviews/Employee-Review-AtoB-E5140146-RVW70836884.htm"
    }
+  ],
+  "hiring_locations": [
+   "SF Bay Area",
+   "New York",
+   "Montréal",
+   "Remote"
   ]
  },
  {
@@ -14616,6 +16008,10 @@
     "label": "r/UseMotion, Jul 2026: users say Motion was deprioritised for Wonderly",
     "url": "https://redlib.synth.download/r/UseMotion/comments/1utitgn/does_motion_still_receive_meaningful_updates_or/"
    }
+  ],
+  "hiring_locations": [
+   "Canada",
+   "Remote (US)"
   ]
  },
  {
@@ -14665,6 +16061,9 @@
     "label": "Dealroom: $160M valuation at Series B vs $80M in 2024",
     "url": "https://dealroom.co/companies/benepass"
    }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
   ]
  },
  {
@@ -14735,6 +16134,12 @@
     "label": "Sacra, Apr 2024 (shift to compete with Datadog and New Relic in APM)",
     "url": "https://sacra.com/research/sentry-disrupting-new-relic/"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Toronto",
+   "Vienna",
+   "Remote"
   ]
  },
  {
@@ -14784,7 +16189,11 @@
   "status": "new",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "hiring_locations": [
+   "Remote (Europe)",
+   "Remote (APAC)"
+  ]
  },
  {
   "name": "ClickUp",
@@ -14846,7 +16255,14 @@
   "status": "new",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "hiring_locations": [
+   "Ireland - Dublin",
+   "London",
+   "San Diego",
+   "Remote (US)",
+   "Remote (Australia)"
+  ]
  },
  {
   "name": "Scarlet",
@@ -14895,7 +16311,14 @@
   "status": "new",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026"
+  "last_checked": "Oct 13, 2026",
+  "hiring_locations": [
+   "UK - London",
+   "US - New York City",
+   "Sweden - Stockholm",
+   "Remote (Europe)",
+   "Remote (US)"
+  ]
  },
  {
   "name": "Assembled",
@@ -14977,6 +16400,11 @@
     "label": "ARR Club, Aug 2026: Decagon hit $100M ARR in AI customer support",
     "url": "https://www.arr.club/decagon/decagon-arr-hit-100m-with-focus-on-speed-and-product-quality"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote (US)"
   ]
  },
  {
@@ -15034,7 +16462,8 @@
     "label": "CEO post, Oct 2026: GMV tripled in one quarter",
     "url": "https://www.linkedin.com/posts/jaentwistle_we-had-an-incredible-september-at-wander-activity-7511453344805253120-ZRYH"
    }
-  ]
+  ],
+  "hiring_locations": []
  },
  {
   "name": "Kindred",
@@ -15091,6 +16520,11 @@
     "label": "Consumer Startups, Feb 2026: credit-economy liquidity risk",
     "url": "https://www.consumerstartups.com/p/kindred-how-to-build-a-9-figure-home-swapping-app"
    }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Canada",
+   "Remote (US)"
   ]
  }
 ]
