@@ -19337,5 +19337,68 @@
    "New York",
    "Remote"
   ]
+ },
+ {
+  "name": "Anomalo",
+  "slug": "anomalo",
+  "site": "https://www.anomalo.com",
+  "careers_url": "https://jobs.ashbyhq.com/anomalo",
+  "what_they_do": "AI agents that monitor data quality inside Snowflake, Databricks and BigQuery warehouses",
+  "problem": "Bad or broken data silently corrupts dashboards, reports and AI models before anyone notices",
+  "industry": "Data quality / data observability",
+  "stage": "Series B",
+  "last_round": "Undisclosed (Snowflake Ventures strategic extension); $10M Series B extension Nov 2024",
+  "last_round_date": "Mar 2025",
+  "lead_investors": "SignalFire (Series B); Smith Point Capital, Snowflake Ventures (extensions)",
+  "total_open_roles": "0",
+  "ops_roles": "",
+  "hiring_trend": "Shrinking: 0 open roles; headcount -4.6% YoY to ~75 (Revelio), -19% (Dealroom), -31% (LinkedIn est.)",
+  "headcount": "~70-75",
+  "latest_news": "Launched Self-Driving Data agentic platform with nine autonomous data agents",
+  "latest_news_date": "Apr 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20260402984048/en/Anomalo-Declares-the-Shift-to-Self-Driving-Data-with-New-Autonomous-System",
+  "traction": "~$15M revenue in 2024 (est.); enterprise customers incl. Block, Discover, Notion, Atlassian",
+  "red_flags": "Downsizing in 2026: a former employee's Aug 2026 Glassdoor review describes a big downsizing across many roles in 2026, and a Jul 2026 review cites chaotic leadership and strategy. Headcount is down 5-31% YoY depending on the source, and job postings fell 54.5% in 2026 to ~1 new role a month; the Ashby board shows 0 openings. No new priced round since the Nov 2024 extension.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor reviews (Aug 6 2026 'downsizing' review; Jul 21 2026 leadership review)",
+    "url": "https://www.glassdoor.com/Reviews/Anomalo-Reviews-E6954910.htm"
+   },
+   {
+    "label": "Revelio Labs: headcount -4.6% YoY, postings -54.5% in 2026",
+    "url": "https://www.reveliolabs.com/companies/anomalo/employees"
+   },
+   {
+    "label": "Dealroom: team -19% over past year",
+    "url": "https://dealroom.co/companies/anomalo"
+   },
+   {
+    "label": "Anomalo Ashby job board: 0 open positions",
+    "url": "https://jobs.ashbyhq.com/anomalo"
+   }
+  ],
+  "score": "0.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.1",
+  "glassdoor_reviews": "14",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Anomalo-Reviews-E6954910.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Strong ML detection with big-name customers, but trails Monte Carlo and the warehouses are building their own checks.",
+  "distance_sources": [
+   {
+    "label": "dataobservability.ai: Monte Carlo vs Anomalo (Monte Carlo the category leader)",
+    "url": "https://dataobservability.ai/vs/monte-carlo-vs-anomalo"
+   },
+   {
+    "label": "Glassdoor review Aug 2026: catalogue players and warehouses building more offerings",
+    "url": "https://www.glassdoor.com/Reviews/Anomalo-Reviews-E6954910.htm"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
