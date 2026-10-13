@@ -18157,5 +18157,62 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Nas.com",
+  "slug": "nas-com",
+  "site": "https://nas.com",
+  "careers_url": "https://job-boards.greenhouse.io/nascompany",
+  "what_they_do": "AI marketing agents and a shared 'Marketing Brain' that run ads, content and analytics for SMBs",
+  "problem": "Small teams can't afford the people or agencies to run paid ads, content and funnel analysis well",
+  "industry": "Marketing tech / AI agents",
+  "stage": "Series A",
+  "last_round": "$27M",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "Khosla Ventures",
+  "total_open_roles": "5",
+  "ops_roles": "",
+  "hiring_trend": "Open roles 12–14 (May 2026) → 5 now, mostly Singapore engineering; Nas.com team ~30 in Apr 2026, company now says 100+",
+  "headcount": "~100 (company-stated, group-wide)",
+  "latest_news": "Pivoted to AI marketing agents for SMBs and CMOs, with forward-deployed engineers",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/nascom-brings-fortune-500-marketing-power-to-small-businesses-302892647.html",
+  "traction": "ARR grew ~$1M → $8M in 2025; 20K paying businesses (pre-pivot product)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "3.5",
+  "glassdoor_reviews": "57",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Nas-Company-Reviews-E2908335.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "The agents product only launched Sep 29 2026, so adoption is company-reported (1,000+ businesses, 2,600+ agents) and unproven; it enters a crowded field (Hightouch, AdsGency) where Meta and Google automate ads for the same SMB buyer. Brand and founder audience are fuel, not an engine",
+  "distance_sources": [
+   {
+    "label": "PR Newswire, Sep 29 2026: Nas.com agents launch for SMBs",
+    "url": "https://www.prnewswire.com/news-releases/nascom-brings-fortune-500-marketing-power-to-small-businesses-302892647.html"
+   },
+   {
+    "label": "MarTech Edge, Sep 30 2026: 1,000+ companies, 2,600+ agents are company-reported",
+    "url": "https://martechedge.com/news/nascom-opens-ai-marketing-agents-to-small-businesses"
+   },
+   {
+    "label": "Nasdaq/BusinessWire, Apr 2026: Hightouch raises $150M for AI marketing agents",
+    "url": "https://www.nasdaq.com/press-release/hightouch-raises-150-million-reinvent-how-marketing-works-using-ai-2026-04-29"
+   },
+   {
+    "label": "Nuseir Yassin on LinkedIn, Sep 28 2026: consumer AI race will be won by Meta's Muse; pivot to business agents",
+    "url": "https://www.linkedin.com/posts/nyassin_nascom-is-launching-muse-for-business-activity-7510345554548297728-x0Px"
+   }
+  ],
+  "hiring_locations": [
+   "Miami",
+   "Singapore"
+  ]
  }
 ]
