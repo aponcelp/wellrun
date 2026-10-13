@@ -14736,5 +14736,165 @@
     "url": "https://sacra.com/research/sentry-disrupting-new-relic/"
    }
   ]
+ },
+ {
+  "name": "Customer.io",
+  "slug": "customer-io",
+  "site": "https://customer.io",
+  "careers_url": "https://job-boards.greenhouse.io/customerio",
+  "what_they_do": "Messaging automation that sends email, push, SMS and in-app messages based on product data",
+  "problem": "Marketing and product teams need personalized lifecycle messages triggered by what users do, without engineering help",
+  "industry": "Marketing automation / customer engagement",
+  "stage": "Series A (growth equity)",
+  "last_round": "$29.9M (reported; Getlatka says $35M)",
+  "last_round_date": "Mar 2022",
+  "lead_investors": "Spectrum Equity",
+  "total_open_roles": "30",
+  "ops_roles": "Technical Support Engineer, Canada; Email Deliverability Specialist; Customer Success Manager",
+  "hiring_trend": "Headcount 360+ (Aug 2026), up from ~250 in 2024; LinkedIn data shows +20% YoY; 30 open roles, all remote",
+  "headcount": "~360-440 (sources differ)",
+  "latest_news": "CEO says new AI agent saw broad, fast adoption; company not fundraising",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.bizjournals.com/portland/news/2026/07/28/customerio-ceo-ai-agent-launch.html",
+  "traction": "Crossed $100M ARR Sep 2025 (8,000+ customers); 40% YoY growth per Aug 2026 company post",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "102",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Customer-io-Reviews-E1308885.htm",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A strong player in lifecycle messaging with broad adoption and profitable 40% growth at $100M+ ARR, though Braze and Klaviyo are bigger.",
+  "distance_sources": [
+   {
+    "label": "Customer.io CEO note: crossed $100M ARR Sep 2025, 8,000+ companies, 64B messages a year",
+    "url": "https://customer.io/learn/announcements/customerio-crossed-100m-note-from-ceo"
+   },
+   {
+    "label": "Customer.io on LinkedIn, Aug 2026: 360+ employees, 40% YoY growth",
+    "url": "https://www.linkedin.com/posts/customer-io_14-years-360-global-employees-40-yoy-activity-7490397644687581186-SRvl"
+   },
+   {
+    "label": "Customer.io, Mar 2022: profitable, $29.9M ARR, Spectrum Equity round",
+    "url": "https://www.globenewswire.com/news-release/2022/03/10/2401439/0/en/customer-io-surpasses-30m-arr-and-raises-financing-from-spectrum-equity.html"
+   }
+  ],
+  "status": "new",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "ClickUp",
+  "slug": "clickup",
+  "site": "https://clickup.com",
+  "careers_url": "https://jobs.ashbyhq.com/clickup",
+  "what_they_do": "All-in-one work platform: tasks, docs, chat and AI agents in one app",
+  "problem": "Teams waste time switching between separate tools for projects, docs, chat and updates",
+  "industry": "Work management / productivity",
+  "stage": "Series C",
+  "last_round": "$400M",
+  "last_round_date": "Oct 2021",
+  "lead_investors": "Andreessen Horowitz and Tiger Global (co-led)",
+  "total_open_roles": "46",
+  "ops_roles": "CX Operations Analyst; Staff Analyst, GTM; Strategic Finance Manager; Senior Technical Account Manager - Strategic Services",
+  "hiring_trend": "Shrinking: cut 22% (~290 of ~1,300) May 2026; open roles 96 (Dec 2025) to 46 now",
+  "headcount": "~1,000-1,100 est. after May 2026 cut",
+  "latest_news": "Cut 22% of staff in AI restructuring; launched $1M salary bands for remaining staff",
+  "latest_news_date": "May 2026",
+  "latest_news_url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+  "traction": "Passed $300M ARR and 20M+ users (Sep 2025); AI sales up 400% YoY",
+  "red_flags": "Laid off 22% of workforce (~290 people) in May 2026",
+  "red_flags_sources": [
+   {
+    "label": "TechCrunch, May 2026: ClickUp laid off 22% of workforce",
+    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/"
+   },
+   {
+    "label": "Business Insider, May 2026: ClickUp cuts 22% of jobs",
+    "url": "https://www.businessinsider.com/clickup-cuts-jobs-million-dollar-salary-band-remaining-employees-2026-5"
+   },
+   {
+    "label": "Glassdoor reviews about layoffs at ClickUp",
+    "url": "https://www.glassdoor.com/Reviews/ClickUp-layoff-Reviews-EI_IE2037206.0,7_KH8,14.htm"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Steady",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "553",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/ClickUp-Reviews-E2037206.htm",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real scale at $300M ARR, but it trails monday.com, Asana, Atlassian and Notion, and is shrinking headcount on a 2021 valuation.",
+  "distance_sources": [
+   {
+    "label": "BusinessWire, Feb 2026: surpassed $300M ARR, acquired Codegen",
+    "url": "https://www.businesswire.com/news/home/20260204725256/en/ClickUp-Ushers-in-New-Phase-of-Growth-with-Strategic-Executive-Hires-to-Power-Path-to-%241B-ARR"
+   },
+   {
+    "label": "TechCrunch, May 2026: 22% layoff; last valued $4B in 2021",
+    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/"
+   },
+   {
+    "label": "Reuters, Oct 2021: $400M Series C at $4B valuation",
+    "url": "https://www.reuters.com/technology/software-firm-clickup-valued-4-bln-new-funding-round-2021-10-27/"
+   }
+  ],
+  "status": "new",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "Scarlet",
+  "slug": "scarlet",
+  "site": "https://www.scarlet.cc",
+  "careers_url": "https://jobs.ashbyhq.com/scarlet",
+  "what_they_do": "Government-designated certification body for AI and software medical devices (EU, UK, FDA)",
+  "problem": "AI medical device makers wait 12-18 months for certification and months more for each update",
+  "industry": "Healthtech / regulatory certification",
+  "stage": "Series B",
+  "last_round": "$50M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Headline",
+  "total_open_roles": "14",
+  "ops_roles": "Account Manager (Customer Outcomes Specialist); Medical Device Auditor",
+  "hiring_trend": "Headcount ~99, up ~60% in 12 mo (LinkedIn data, est.); 14 open roles in London, NYC, remote",
+  "headcount": "~100",
+  "latest_news": "Raised $50M Series B led by Headline to expand into the US and Asia-Pacific",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://tech.eu/2026/10/12/scarlet-raises-50m-series-b-to-accelerate-ai-medical-device-certification/",
+  "traction": "Team up ~60% in a year; customers include Flo Health, DeepHealth, NHS England, Heidi Health",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "3",
+  "glassdoor_url": "https://www.glassdoor.co.uk/Overview/Working-at-Scarlet-United-Kingdom-EI_IE10097055.11,33.htm",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Legal designation as a certifier took three years to win and is hard to copy, and it is the only one of ~52 EU bodies focused on AI.",
+  "distance_sources": [
+   {
+    "label": "Tech.eu, Oct 2026: only AI/software specialist among ~52 EU notified bodies; EU, MHRA and FDA designations; customer list",
+    "url": "https://tech.eu/2026/10/12/scarlet-raises-50m-series-b-to-accelerate-ai-medical-device-certification/"
+   },
+   {
+    "label": "Notion Capital, Oct 2026: designations as springboard; MDSAP, ISO 13485/27001/42001",
+    "url": "https://www.notioncapital.com/resources/why-we-invested-in-scarlet"
+   },
+   {
+    "label": "Headline, Oct 2026: same legal standing as century-old incumbents; FDA third-party reviewer",
+    "url": "https://blog.headline.com/p/certifying-ai-at-the-speed-it-ships"
+   }
+  ],
+  "status": "new",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
  }
 ]
