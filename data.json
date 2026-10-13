@@ -20027,5 +20027,165 @@
    "Miami",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Lotus Health",
+  "slug": "lotus-health",
+  "site": "https://lotus.ai",
+  "careers_url": "https://jobs.ashbyhq.com/lotushealth",
+  "what_they_do": "Free 24/7 AI primary care app; doctors review, prescribe and refer",
+  "problem": "100M Americans lack a primary care doctor and can't get a quick, affordable visit",
+  "industry": "Digital health / AI primary care",
+  "stage": "Series A",
+  "last_round": "$35M",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "Kleiner Perkins, CRV",
+  "total_open_roles": "4",
+  "ops_roles": "",
+  "hiring_trend": "Small team, flat (Dealroom: 0% team growth in 12 mo); 4 open roles (2 eng, 2 marketing)",
+  "headcount": "~20 (est.)",
+  "latest_news": "Named to Forbes Next Billion-Dollar Startups at $150M valuation; no revenue yet",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.forbes.com/companies/lotus-health",
+  "traction": "No revenue yet (Forbes, Jul 2026); app rated 4.4 from ~190 App Store reviews",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Free AI doctor with no revenue and a small user base; Doctronic and others chase the same model.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Lotus Health $35M Series A (Feb 2026)",
+    "url": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/"
+   },
+   {
+    "label": "Forbes Next Billion-Dollar Startups 2026 (no revenue, $150M valuation)",
+    "url": "https://www.forbes.com/sites/richardnieva/2026/07/28/next-billion-dollar-startups-2026"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York"
+  ]
+ },
+ {
+  "name": "Netic",
+  "slug": "netic",
+  "site": "https://www.netic.ai",
+  "careers_url": "https://jobs.ashbyhq.com/netic",
+  "what_they_do": "AI agents that answer calls, book jobs and run outbound for large home-service firms",
+  "problem": "HVAC, plumbing and roofing operators miss calls and lose jobs when demand spikes",
+  "industry": "Vertical AI / home services",
+  "stage": "Series B",
+  "last_round": "$23M",
+  "last_round_date": "Nov 2025",
+  "lead_investors": "Founders Fund",
+  "total_open_roles": "29",
+  "ops_roles": "Deployment Strategist; RevOps Lead; Agent Product Manager",
+  "hiring_trend": "Headcount 22 (Nov 2025) to ~63 on LinkedIn (+320% YoY); 29 open roles",
+  "headcount": "~60",
+  "latest_news": "American Residential Services (Rescue Rooter) rolling out Netic AI across its national network",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/netic-partners-with-american-residential-services-to-bring-frontier-ai-to-one-of-americas-largest-home-services-providers-302847149.html",
+  "traction": "$600M+ revenue generated for customers; 70%+ of customers route first contact to Netic",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "3.1",
+  "glassdoor_reviews": "4",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Netic-CA-Reviews-E10517977.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Wins large operators like ARS, but trails Avoca and plugs into ServiceTitan, which now sells its own AI booking agents.",
+  "distance_sources": [
+   {
+    "label": "Netic x ARS partnership release (Aug 2026)",
+    "url": "https://www.prnewswire.com/news-releases/netic-partners-with-american-residential-services-to-bring-frontier-ai-to-one-of-americas-largest-home-services-providers-302847149.html"
+   },
+   {
+    "label": "ServiceTitan Pantheon 2026: AI Max package for all residential contractors (Oct 2026)",
+    "url": "https://www.servicetitan.com/press/servicetitan-announcing-new-and-expanded-capabilities-at-pantheon-2026"
+   },
+   {
+    "label": "Sacra: Netic competition (ServiceTitan Atlas)",
+    "url": "https://sacra.com/c/netic/"
+   },
+   {
+    "label": "Dealroom: No Priors takeaways ($600M generated, 70% Netic-first)",
+    "url": "https://app.dealroom.co/news/note/netic-the-ai-layer-running-real-world-service-businesses"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York"
+  ]
+ },
+ {
+  "name": "Ossium Health",
+  "slug": "ossium-health",
+  "site": "https://ossiumhealth.com",
+  "careers_url": "https://job-boards.greenhouse.io/ossiumhealth",
+  "what_they_do": "Bank of frozen bone marrow from deceased organ donors, shipped on demand for transplants",
+  "problem": "Blood-cancer patients run out of time waiting months for a matched living marrow donor",
+  "industry": "Biotech / cell therapy",
+  "stage": "Series C",
+  "last_round": "$52M",
+  "last_round_date": "Jul 2023",
+  "lead_investors": "CPMG",
+  "total_open_roles": "8",
+  "ops_roles": "Operations Manager, HPC; Production Supervisor, HPC, Marrow; Customer Support Specialist",
+  "hiring_trend": "~70-80 on LinkedIn (+10% YoY), ~120 per CEO (May 2026); 8 open roles",
+  "headcount": "~100",
+  "latest_news": "First pediatric transplant with its banked marrow; 28 transplants to date, all engrafted",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://ossiumhealth.com/first-pediatric-transplant-with-ossium-bone-marrow/",
+  "traction": "28 transplants, all engrafted; BARDA contract worth up to $125M",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "2.8",
+  "glassdoor_reviews": "57",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Ossium-Health-Reviews-E2269611.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Scale",
+  "distance": "Unproven",
+  "distance_why": "Only organ-donor marrow bank, but 28 transplants and a product still in trials; too early to judge.",
+  "distance_sources": [
+   {
+    "label": "Ossium: first pediatric transplant, 28 patients engrafted (Jul 2026)",
+    "url": "https://ossiumhealth.com/first-pediatric-transplant-with-ossium-bone-marrow/"
+   },
+   {
+    "label": "Xtalks: Ossium off-the-shelf marrow model, PRESERVE I trial (May 2026)",
+    "url": "https://xtalks.com/how-ossium-health-is-building-an-off-the-shelf-bone-marrow-transplant-model-4815/"
+   },
+   {
+    "label": "BusinessWire: BARDA contract up to $125M (Sep 2024)",
+    "url": "https://www.businesswire.com/news/home/20240930041834/en/Ossium-Health-Secures-BARDA-Contract-to-Advance-Bone-Marrow-Bank-for-Radiological-and-Nuclear-Emergencies"
+   }
+  ],
+  "hiring_locations": [
+   "Indianapolis",
+   "San Francisco",
+   "Field Based: West"
+  ]
  }
 ]
