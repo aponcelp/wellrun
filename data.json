@@ -29,9 +29,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Hard-to-switch books and payments for farms; retention data not published yet.",
+  "distance_why": "Leading farm-focused finance platform; customers grew from ~2,500 to 8,000+ in about a year.",
   "distance_sources": [
    {
     "label": "Upstarts Media: Ambrook raises $30M Series B (Aug 2026)",
@@ -70,8 +70,8 @@
   "is_new": false,
   "red_flags_sources": [],
   "engine": "Data",
-  "distance": "10K",
-  "distance_why": "Loved notepad, but Google and others now ship near-identical note-takers.",
+  "distance": "Half",
+  "distance_why": "Fastest-growing AI notepad with near-zero churn, but Google now ships a near-identical rival.",
   "distance_sources": [
    {
     "label": "Granola: $125M Series C (Mar 2026)",
@@ -80,6 +80,10 @@
    {
     "label": "TechCrunch: Google releases a local-first Granola competitor (Oct 2026)",
     "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
+   },
+   {
+    "label": "SpendHound: AI note-taking apps by real spend data (May 2026)",
+    "url": "https://www.spendhound.com/blog/ai-note-taking-apps"
    }
   ]
  },
@@ -113,13 +117,17 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
-  "distance": "Half",
-  "distance_why": "Close checklist becomes the finance data layer; cash module already adopted. Retention unpublished.",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast-growing close tool, but FloQast and BlackLine are the bigger, established leaders.",
   "distance_sources": [
    {
     "label": "Numeric: $51M Series B and Cash Management launch (Nov 2025)",
     "url": "https://www.numeric.io/blog/numeric-raises-51m-series-b"
+   },
+   {
+    "label": "Finance Ops Club: Numeric alternatives",
+    "url": "https://www.financeopsclub.com/software/numeric/alternatives"
    }
   ]
  },
@@ -155,7 +163,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Wired into startups' apps and well loved, but email tools are easy to copy.",
+  "distance_why": "Loved by startups like Linear and Perplexity, but a seed-stage follower in a crowded email market.",
   "distance_sources": [
    {
     "label": "Loops homepage (customer tenure, retention claim)",
@@ -193,9 +201,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Deeply embedded at big brands, but Salesforce and AI labs chase the same buyers.",
+  "distance_why": "A leader in AI customer service (~$200M ARR, 40% of Fortune 50), but Salesforce chases the same buyers.",
   "distance_sources": [
    {
     "label": "Sierra: $100M ARR in 7 quarters",
@@ -238,8 +246,8 @@
   "is_new": false,
   "red_flags_sources": [],
   "engine": "Data",
-  "distance": "10K",
-  "distance_why": "Claims savings data wins employers, but care-team models are easy to replicate.",
+  "distance": "Unproven",
+  "distance_why": "Small Series A; members up 10x, but adoption is still early to judge.",
   "distance_sources": [
    {
     "label": "HIT Consultant: WellTheory raises $14M Series A (Oct 2025)",
@@ -277,9 +285,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Embedded in six of the top ten US carriers' claims flow; retention unpublished.",
+  "distance_why": "Already inside six of the top ten US carriers' claims flow.",
   "distance_sources": [
    {
     "label": "Assured: The most widely deployed AI in P&C",
@@ -318,12 +326,16 @@
   "is_new": false,
   "red_flags_sources": [],
   "engine": "Data",
-  "distance": "10K",
-  "distance_why": "500k members build a health record, but no retention or updated revenue is public.",
+  "distance": "Half",
+  "distance_why": "Category leader in lab-test memberships with 500k+ members, well ahead of Superpower.",
   "distance_sources": [
    {
     "label": "Value Add VC: Function's $450M financing (Sep 2026)",
     "url": "https://valueaddvc.com/blog/function-health-450m-financing-2026-why-valuation-stayed-at-2-5b"
+   },
+   {
+    "label": "New Market Pitch: at-home blood test startups compared (Jul 2026)",
+    "url": "https://newmarketpitch.com/blogs/news/digital-health-at-home-blood-tests-startup"
    }
   ]
  },
@@ -357,9 +369,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Data + Lock-in",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "15M captured workflows and lean burn; still needs retention proof.",
+  "distance_why": "Leader in workflow capture at $100M ARR, with revenue more than doubling year over year.",
   "distance_sources": [
    {
     "label": "Scribe: $100M ARR press release (May 2026)",
@@ -401,7 +413,7 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Lock-in + Scale",
+  "engine": "Lock-in",
   "distance": "Marathon",
   "distance_why": "Most customers run several Ramp products, and it funds itself with free cash flow.",
   "distance_sources": [
@@ -443,7 +455,7 @@
   "red_flags_sources": [],
   "engine": "Data",
   "distance": "10K",
-  "distance_why": "Award-seat data and bank white-labels are an edge, but airlines control access.",
+  "distance_why": "2M+ travelers and bank white-labels, but airlines control the award-seat access it depends on.",
   "distance_sources": [
    {
     "label": "Citi Ventures: Investing in point.me (Sep 2024)",
@@ -482,12 +494,16 @@
   "is_new": true,
   "red_flags_sources": [],
   "engine": "Network",
-  "distance": "10K",
-  "distance_why": "Big provider network, but payers set prices and rivals undercut the take rate.",
+  "distance": "Half",
+  "distance_why": "Strong #2 in insurance-based therapy (~$471M gross revenue); Headway's network is far larger.",
   "distance_sources": [
    {
     "label": "Sacra: Rula revenue, business model and risks",
     "url": "https://sacra.com/c/rula-health/"
+   },
+   {
+    "label": "ChoosingTherapy: Rula vs Headway (Sep 2026)",
+    "url": "https://www.choosingtherapy.com/rula-vs-headway/"
    }
   ]
  },
@@ -522,8 +538,8 @@
   "is_new": true,
   "red_flags_sources": [],
   "engine": "Lock-in",
-  "distance": "10K",
-  "distance_why": "Agents inside manufacturers' ERPs could stick, but only dozens of customers so far.",
+  "distance": "Unproven",
+  "distance_why": "Only 30+ customers so far; too early to judge staying power.",
   "distance_sources": [
    {
     "label": "TechCrunch: Didero lands $30M Series A (Feb 2026)",
@@ -562,12 +578,16 @@
   "is_new": true,
   "red_flags_sources": [],
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Payroll and accounting for whole productions is hard to swap; growth figures are dated.",
+  "distance": "10K",
+  "distance_why": "Calls itself No. 3 in Hollywood payroll, behind Cast & Crew and Entertainment Partners.",
   "distance_sources": [
    {
     "label": "AlleyWatch: Wrapbook raises $20M (Sep 2024)",
     "url": "https://www.alleywatch.com/2024/09/wrapbook-finance-payroll-production-platform-entertainment-industry-employer-of-record-cameron-woodward/"
+   },
+   {
+    "label": "Hollywood Reporter: Wrapbook raises $20M to compete with Cast & Crew, EP (Sep 2024)",
+    "url": "https://www.hollywoodreporter.com/business/business-news/wrapbook-fund-bessemer-venture-partners-1236009642"
    }
   ]
  },
@@ -601,9 +621,9 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Data + Lock-in",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "Nearly a decade of fresh-food ordering data, now spreading store-wide inside big grocers.",
+  "distance_why": "Leader in AI fresh-food ordering, in 12,500+ grocery departments and growing 70% a year.",
   "distance_sources": [
    {
     "label": "Afresh: $34M raise press release (Apr 2026)",
@@ -654,9 +674,9 @@
     "url": "https://www.larsonllp.com/adaptameds-commure-trade-secret-lawsuit/"
    }
   ],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Billing systems are sticky, but reported customer losses and paid referrals cloud retention.",
+  "distance_why": "Billing systems are sticky, but reported customer losses and paid referrals cloud the picture.",
   "distance_sources": [
    {
     "label": "MedSpark: Commure cuts referral payouts after STAT probe (Aug 2026)",
@@ -694,13 +714,17 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Network + Data",
-  "distance": "Half",
-  "distance_why": "Reporter marketplace plus transcript software is hard to copy; retention figures not published.",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Tech-first challenger in court reporting; Veritext is the largest national firm.",
   "distance_sources": [
    {
     "label": "Steno: $49M Series C announcement (Mar 2026)",
     "url": "https://brief.steno.com/steno-raises-49m-series-c"
+   },
+   {
+    "label": "Reqodata: court reporting and litigation support firms",
+    "url": "https://reqodata.com/en/court-reporting-litigation-support-firms"
    }
   ]
  },
@@ -747,9 +771,9 @@
     "url": "https://newsletter.rekt.news/p/blockchain-security-brief-hyperbridge-exploit-kyc-chaos-rhea-hack"
    }
   ],
-  "engine": "Data + Scale",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "Embedded KYC across thousands of clients, but an 18-month breach dents trust.",
+  "distance_why": "Major identity-verification player with 4,000+ clients, but an 18-month breach dents trust.",
   "distance_sources": [
    {
     "label": "Sumsub: Security Incident Update (Feb 2026)",
@@ -787,9 +811,9 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Data + Lock-in",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "250M patient calls and payer-wide approvals, but no retention or revenue figures public.",
+  "distance_why": "Leader in healthcare AI agents: 250M+ patient interactions and nearly all top-10 US insurers.",
   "distance_sources": [
    {
     "label": "Business Wire: Hippocratic AI expands across verticals (Jan 2026)",
@@ -833,7 +857,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Code-native canvas is a real edge, but design giants can copy it.",
+  "distance_why": "Code-native design canvas growing fast, but Figma dominates the design category.",
   "distance_sources": [
    {
     "label": "Paper: $34M Series A (Jul 2026)",
@@ -871,13 +895,17 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
-  "distance": "Marathon",
-  "distance_why": "Customers expand fast, 40,000 pay, and it funds itself from cash flow.",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Strong #2 issue tracker, cash-flow positive with 40,000+ payers; Jira still leads adoption.",
   "distance_sources": [
    {
     "label": "Karri Saarinen: Sharing Linear's growth (Aug 2026)",
     "url": "https://karrisaarinen.com/posts/sharing-growth-with-the-people-building-linear/"
+   },
+   {
+    "label": "Ramp: project management software market share",
+    "url": "https://ramp.com/vendors/categories/project-management"
    }
   ]
  },
@@ -911,13 +939,17 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
-  "distance": "Half",
-  "distance_why": "Once the general ledger moves in, switching is painful; retention unpublished.",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast-growing AI ERP, but NetSuite and QuickBooks hold most of the market.",
   "distance_sources": [
    {
     "label": "airCFO: How Campfire raised $100M+ while doubling revenue (Feb 2026)",
     "url": "https://aircfo.com/resources/funded-how-campfire-raised-100m-while-doubling-revenue-for-6-straight-quarters-john-glasgow"
+   },
+   {
+    "label": "Bridges: Rillet vs Campfire vs QuickBooks (2026 CFO Tech Guide data)",
+    "url": "https://withbridges.com/blog/rillet-vs-campfire-vs-quickbooks-b2b-saas-accounting-2026"
    }
   ]
  },
@@ -952,12 +984,20 @@
   "is_new": false,
   "red_flags_sources": [],
   "engine": "Data",
-  "distance": "10K",
-  "distance_why": "Rich hiring-conversation data, but note-takers and ATS agents are easy to copy.",
+  "distance": "Half",
+  "distance_why": "Leading recruiting note-taker at 7,000+ companies, though ATS makers now bundle their own.",
   "distance_sources": [
    {
     "label": "Metaview: $60M Series C (Sep 2026)",
     "url": "https://www.metaview.ai/resources/blog/metaview-raised-an-additional-60m-to-lead-the-shift-to-agentic-recruiting"
+   },
+   {
+    "label": "The Next Web: Metaview raises $60M Series C (Oct 2026)",
+    "url": "https://thenextweb.com/news/metaview-60m-series-c-insight-partners-ai-recruiting"
+   },
+   {
+    "label": "Interviewer Signal: Metaview alternatives (Sep 2026)",
+    "url": "https://interviewersignal.com/blog/metaview-alternatives"
    }
   ]
  },
@@ -993,7 +1033,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "In-house lawyers use it daily, but legal AI rivals and labs are close.",
+  "distance_why": "2,100+ legal teams, but follows bigger legal AI rivals like Harvey.",
   "distance_sources": [
    {
     "label": "GC AI: $60M Series B (Nov 2025)",
@@ -1031,9 +1071,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Runs company purchasing end to end; hard to remove, but spending heavily.",
+  "distance_why": "Leader in procurement intake, with $1.2T+ spend run through it; spending heavily.",
   "distance_sources": [
    {
     "label": "Zip: Visionary in 2026 Gartner Magic Quadrant (Jan 2026)",
@@ -1122,7 +1162,7 @@
   ],
   "engine": "Network",
   "distance": "Half",
-  "distance_why": "Creator-brand network is compounding, but attribution fights and social platforms add risk.",
+  "distance_why": "Profitable creator-brand network tripling revenue, but attribution fights add risk.",
   "distance_sources": [
    {
     "label": "Affiliate Leaders: ShopMy commission allegation (Aug 2026)",
@@ -1164,9 +1204,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Scale",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Big brands leave century-old bank card programs for it; a few partners carry it.",
+  "distance_why": "Big brands like Shell and Kroger move card programs to it; a few partners carry it.",
   "distance_sources": [
    {
     "label": "Imprint $150M Series D release (Dec 2025)",
@@ -1204,9 +1244,9 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Law firms stay and expand, but it runs on models whose makers now compete.",
+  "distance_why": "Legal AI leader, ARR ~$190M to $400M+ this year across 3,000+ customers.",
   "distance_sources": [
    {
     "label": "Harvey: Q3 2025 momentum (GRR/NDR)",
@@ -1248,9 +1288,9 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Lock-in + Scale",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "401(k) plans rarely move once set up, but payroll partners steer distribution.",
+  "distance_why": "Major SMB 401(k) provider at ~$200M ARR, but payroll partners steer distribution.",
   "distance_sources": [
    {
     "label": "Human Interest x UBS release (Mar 2026)",
@@ -1328,9 +1368,9 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Scale + Data",
+  "engine": "Scale",
   "distance": "Half",
-  "distance_why": "Members keep coming back, but every new city means costly clinics and hardware.",
+  "distance_why": "Leading body-scan clinic chain, 100k+ members, but each new city needs costly clinics.",
   "distance_sources": [
    {
     "label": "Neko Health: New York opening",
@@ -1374,7 +1414,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "Marathon",
-  "distance_why": "Clinics' charts and bookings live in Jane, and it's been profitable since day one.",
+  "distance_why": "Clinics' charts and bookings live in Jane; $100M ARR and profitable since day one.",
   "distance_sources": [
    {
     "label": "CPABC: Jane App finance lead (Oct 2026; US$100M ARR, profitable since day one)",
@@ -1502,9 +1542,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Scale",
+  "engine": "Lock-in",
   "distance": "Marathon",
-  "distance_why": "Profitable four years, banks a third of startups, and is becoming a real bank.",
+  "distance_why": "Profitable four years, 300,000+ customers, and becoming a real bank.",
   "distance_sources": [
    {
     "label": "Mercury Series D release (May 2026)",
@@ -1544,7 +1584,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Businesses run real ops on Glide apps, but AI app builders crowd in fast.",
+  "distance_why": "Businesses run real ops on Glide apps, but bigger AI app builders crowd in fast.",
   "distance_sources": [
    {
     "label": "Glide: GlideOS launch recap (Aug 2026)",
@@ -1582,9 +1622,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Data + Lock-in",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "Each new customer sharpens the pay benchmarks every other customer relies on.",
+  "distance_why": "Leader in pay benchmarking; each new customer sharpens the data all customers rely on.",
   "distance_sources": [
    {
     "label": "Pave AI maturity report release (Jun 2026)",
@@ -1637,7 +1677,7 @@
   ],
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Workshop habits are sticky, but Microsoft bundles whiteboards free and growth stalled.",
+  "distance_why": "Behind bigger whiteboard rivals; Microsoft bundles one free and growth has stalled.",
   "distance_sources": [
    {
     "label": "Sacra: Mural revenue and competition",
@@ -1675,9 +1715,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Data + Lock-in",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "Its permitting dataset is hard to rebuild city by city; rivals are well funded.",
+  "distance_why": "Revenue up 10x since 2024; its city-by-city permit data is hard to rebuild.",
   "distance_sources": [
    {
     "label": "PermitFlow: $54M Series B",
@@ -1717,11 +1757,15 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Device management is hard to rip out; its newer security lines face giants.",
+  "distance_why": "Strong #2 to Jamf in Apple device management, with 6,000+ customers.",
   "distance_sources": [
    {
     "label": "Iru surpasses 6,000 customers (Feb 2026)",
     "url": "https://www.einpresswire.com/article/888741443/iru-surpasses-6-000-customers-as-ai-powered-platform-redefines-enterprise-it-and-security"
+   },
+   {
+    "label": "Siit: Iru review (2026)",
+    "url": "https://www.siit.io/tools/trending/iru-review"
    }
   ]
  },
@@ -1758,7 +1802,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Cleaning and maintenance crews run on it daily; rental software suites could bundle it.",
+  "distance_why": "Rental cleaning and maintenance crews run on it daily across 3,500+ clients.",
   "distance_sources": [
    {
     "label": "Resurgens: Breezeway portfolio page",
@@ -1848,7 +1892,7 @@
   ],
   "engine": "Network",
   "distance": "Half",
-  "distance_why": "90,000 therapists give it payer leverage, but a new fee tests their loyalty.",
+  "distance_why": "Largest therapy network by far (90,000+ providers), but a new fee tests their loyalty.",
   "distance_sources": [
    {
     "label": "Behavioral Health Business: Headway marketplace fee backlash (Oct 2026)",
@@ -1886,13 +1930,17 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Lock-in + Scale",
-  "distance": "Half",
-  "distance_why": "Once wired into partner software, payments rarely move; bigger rivals chase the same deals.",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Growing fast, but Stripe Connect leads embedded payments with 18,000+ platforms.",
   "distance_sources": [
    {
     "label": "Refresh Miami: Payabli growth and Huntington deal (Apr 2026)",
     "url": "https://refreshmiami.com/news/payabli-is-betting-big-on-the-fintech-plumbing-you-never-see/"
+   },
+   {
+    "label": "Stripe Connect",
+    "url": "https://stripe.com/in/connect"
    }
   ]
  },
@@ -1927,8 +1975,8 @@
   "is_new": true,
   "red_flags_sources": [],
   "engine": "Data",
-  "distance": "10K",
-  "distance_why": "Big fashion brands use it across teams, but image-model makers could close the gap.",
+  "distance": "Unproven",
+  "distance_why": "Series A with big fashion logos, but no adoption or revenue numbers yet.",
   "distance_sources": [
    {
     "label": "Raspberry AI agentic platform launch (Sep 2026)",
@@ -1968,7 +2016,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Customers spend 50% more each year, but it rents its core models from OpenAI.",
+  "distance_why": "$50M+ ARR, up 117%, and customers spend 50% more each year; Sierra is bigger.",
   "distance_sources": [
    {
     "label": "PR Newswire: Parloa post-Series D update (May 2026)",
@@ -2007,8 +2055,8 @@
   "is_new": true,
   "red_flags_sources": [],
   "engine": "Network",
-  "distance": "10K",
-  "distance_why": "Pooling 100+ NY/NJ practices wins better insurer rates, but insurers hold the leverage.",
+  "distance": "Unproven",
+  "distance_why": "Seed stage with 100+ practices in NY and NJ; too early to judge.",
   "distance_sources": [
    {
     "label": "Zaya Care homepage",
@@ -2046,9 +2094,9 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Data + Scale",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "Underwriting data improves with every policy, but it still rents carriers' balance sheets.",
+  "distance_why": "Added six specialty programs in a year, but still rents carriers' balance sheets.",
   "distance_sources": [
    {
     "label": "Counterpart $50M Series C release (Apr 2026)",
@@ -2102,7 +2150,7 @@
   ],
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Enterprises adopt its trust center too, but Vanta and cheap AI rivals press hard.",
+  "distance_why": "Strong #2 in compliance automation with 8,000+ customers, but layoffs and Vanta press it.",
   "distance_sources": [
    {
     "label": "Drata: Five years in (Feb 2026)",
@@ -2141,8 +2189,8 @@
   "is_new": false,
   "red_flags_sources": [],
   "engine": "Data",
-  "distance": "10K",
-  "distance_why": "Strong logos like OpenAI, but BI and warehouse vendors are building the same agent.",
+  "distance": "Unproven",
+  "distance_why": "Small Series A with strong logos like OpenAI but no revenue figures yet.",
   "distance_sources": [
    {
     "label": "Sundial raises $23M",
@@ -2182,7 +2230,7 @@
   "red_flags_sources": [],
   "engine": "Network",
   "distance": "10K",
-  "distance_why": "A loyal developer community, but OS makers and AI labs crowd the launcher.",
+  "distance_why": "Loyal developer community, but OS makers' built-in launchers compete directly.",
   "distance_sources": [
    {
     "label": "Raycast: changing how AI is priced (Sep 2026)",
@@ -4487,13 +4535,17 @@
     "url": "https://www.glassdoor.com/Reviews/Employee-Review-Mixpanel-E406910-RVW105764655.htm"
    }
   ],
-  "engine": "Lock-in + Data",
-  "distance": "10K",
-  "distance_why": "Deeply instrumented in many apps, but bundled rivals and a breach chip away.",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Major product analytics tool with 29K+ companies and ~$210M revenue; a 2025 breach and cooling hiring weigh.",
   "distance_sources": [
    {
     "label": "7wData: Mixpanel profile",
     "url": "https://7wdata.be/company/mixpanel/"
+   },
+   {
+    "label": "TechCrunch: Mixpanel breach",
+    "url": "http://techcrunch.com/2025/12/02/a-data-breach-at-analytics-giant-mixpanel-leaves-a-lot-of-open-questions"
    }
   ]
  },
@@ -4528,9 +4580,9 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
-  "engine": "Data + Network",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "Years of call data and a fast-growing deepfake line; now cash-flow positive.",
+  "distance_why": "Voice fraud leader in 14 of the top 20 US banks, $100M+ ARR and profitable since 2020.",
   "distance_sources": [
    {
     "label": "ION Analytics: Pindrop CEO interview",
@@ -4569,9 +4621,9 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
-  "engine": "Network + Data",
+  "engine": "Network",
   "distance": "Half",
-  "distance_why": "Millions of free voters feed paid evals, but revenue is usage-based, not recurring.",
+  "distance_why": "The AI leaderboard everyone uses: tens of millions of monthly visitors and $100M+ ARR in 2026.",
   "distance_sources": [
    {
     "label": "TechCrunch: Arena $100M run rate (Jun 2026)",
@@ -4619,9 +4671,9 @@
     "url": "https://www.restaurantbusinessonline.com/technology/restaurant-tech-supplier-popmenu-sues-rival-ownercom-over-website-grading-tool"
    }
   ],
-  "engine": "Data + Lock-in",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "Network-wide testing sharpens every site, but Toast and DoorDash are moving in.",
+  "distance_why": "$100M+ ARR growing triple digits and more US locations than Domino's; Toast and DoorDash compete.",
   "distance_sources": [
    {
     "label": "Signals Inbox: Is Owner worth $2.3B?",
@@ -4660,9 +4712,9 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
-  "distance": "10K",
-  "distance_why": "Banks love it and even invest, but churn is undisclosed and rivals multiply.",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A leading AI analyst for finance: $50M+ ARR, 35K+ users at 250+ institutions, banks investing.",
   "distance_sources": [
    {
     "label": "PR Newswire: Rogo $160M Series D (Apr 2026)",
@@ -4707,7 +4759,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Fast revenue ramp, but AI-native CRMs are multiplying and still in beta.",
+  "distance_why": "Fast early revenue, but still in beta and up against Salesforce, HubSpot and many AI-native CRMs.",
   "distance_sources": [
    {
     "label": "Monaco $50M Series B release",
@@ -4747,12 +4799,16 @@
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
   "engine": "Data",
-  "distance": "10K",
-  "distance_why": "Fastest-growing AI search tracker, but it lives inside platforms it doesn't control.",
+  "distance": "Half",
+  "distance_why": "Clear #2 in AI search tracking behind Profound: $17.5M ARR and 1,300+ brands within two years.",
   "distance_sources": [
    {
     "label": "Peec AI hits $10M ARR",
     "url": "https://www.globenewswire.com/news-release/2026/05/28/3303009/0/en/peec-ai-hits-10m-arr-16-months-after-launch-as-brands-race-to-optimize-for-ai-search.html"
+   },
+   {
+    "label": "Profound vs Peec AI (The Next Scoop)",
+    "url": "https://thenextscoop.com/profound-vs-peec-ai/"
    }
   ]
  },
@@ -4787,9 +4843,9 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Embedded on aerospace factory floors; retention and revenue figures aren't public yet.",
+  "distance_why": "Embedded with Boeing, Airbus and Safran across 1,000+ factories, with revenue tripling 2023-25.",
   "distance_sources": [
    {
     "label": "Pelico AE Ventures release",
@@ -4837,9 +4893,9 @@
     "url": "https://www.linkedin.com/posts/mitali-avadhani_hi-all-i-was-recently-impacted-by-a-company-wide-activity-7354543909500342272-YVb8"
    }
   ],
-  "engine": "Data",
+  "engine": "None yet",
   "distance": "10K",
-  "distance_why": "Wide user base and a participant panel, but AI research tools are commoditizing.",
+  "distance_why": "60,000 teams, but no funding since 2022, headcount down ~10% and 2025 layoffs.",
   "distance_sources": [
    {
     "label": "Maze: About us",
@@ -4878,9 +4934,9 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
-  "engine": "Network + Data",
-  "distance": "10K",
-  "distance_why": "Vessel network is a real data moat, but it's built on free hardware.",
+  "engine": "Network",
+  "distance": "Unproven",
+  "distance_why": "650+ vessels equipped and fast hiring, but too young and revenue undisclosed to judge staying power.",
   "distance_sources": [
    {
     "label": "Quartermaster blog: $140M raise (Sep 2026)",
@@ -4919,9 +4975,9 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
-  "distance": "Half",
-  "distance_why": "Household wealth is sticky, but it relies on Altruist and AI advice is spreading.",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Growing fast, but $1B AUM is small next to established wealth managers and robo-advisors.",
   "distance_sources": [
    {
     "label": "InvestmentNews: Range and AI advisors",
@@ -4962,7 +5018,7 @@
   "red_flags_sources": [],
   "engine": "None yet",
   "distance": "10K",
-  "distance_why": "Big user base, but it now resells rivals' models and trails Higgsfield.",
+  "distance_why": "16M+ users, but playing catch-up to Runway and Higgsfield and now reselling rivals' models.",
   "distance_sources": [
    {
     "label": "Semafor: Pika's new creator tool",
@@ -5003,7 +5059,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Customers replace Salesforce for it, but AI-native CRMs are a crowded field.",
+  "distance_why": "$6M+ ARR and Salesforce replacements, but a seed-stage player in a crowded AI CRM field.",
   "distance_sources": [
    {
     "label": "Demand Gen Report: Aurasell Agent Builder",
@@ -5044,7 +5100,7 @@
   "red_flags_sources": [],
   "engine": "None yet",
   "distance": "Unproven",
-  "distance_why": "Just out of beta with no revenue disclosed; staying power not yet visible.",
+  "distance_why": "Just out of private beta with no revenue disclosed; too early to judge.",
   "distance_sources": [
    {
     "label": "Zero: $10.3M seed",
@@ -5085,7 +5141,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Most customers run several finance products on it; still leans on partner banks.",
+  "distance_why": "5,000+ enterprise customers and $5B+ volume, with revenue up 4x in 14 months.",
   "distance_sources": [
    {
     "label": "PR Newswire: Jeeves $110M raise (Sep 2026)",
@@ -5128,9 +5184,9 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
-  "engine": "Lock-in + Scale",
+  "engine": "Lock-in",
   "distance": "Marathon",
-  "distance_why": "Cards, spend software and banking in one, now backed by Capital One.",
+  "distance_why": "Cards, spend and banking at ~$700M revenue growing ~50%, ~35K clients, now owned by Capital One.",
   "distance_sources": [
    {
     "label": "American Banker: Capital One closes Brex",
@@ -5178,9 +5234,9 @@
     "url": "https://thenextweb.com/news/deel-rippling-spying-case-witness-ruling"
    }
   ],
-  "engine": "Lock-in + Scale",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Owned payroll in 150+ countries and profitable, but a legal cloud hangs over it.",
+  "distance_why": "Global payroll leader at $1.5B+ ARR and profitable, held back by the Rippling lawsuit and DOJ probe.",
   "distance_sources": [
    {
     "label": "ChosunBiz: Deel tops $1.5B ARR",
@@ -5225,7 +5281,7 @@
   "red_flags_sources": [],
   "engine": "None yet",
   "distance": "Unproven",
-  "distance_why": "Launched Oct 2026 with its own models; staying power not yet visible.",
+  "distance_why": "Launched publicly Oct 2026 with no user or revenue figures yet; too early to judge.",
   "distance_sources": [
    {
     "label": "Hark: Introducing Hark Pro (Oct 2026)",
@@ -5283,7 +5339,7 @@
   ],
   "engine": "None yet",
   "distance": "Unproven",
-  "distance_why": "Viral and richly funded, but free, invite-only, and Meta's Muse does much the same.",
+  "distance_why": "Viral and richly funded, but invite-only with no revenue disclosed; too early to judge.",
   "distance_sources": [
    {
     "label": "TechCrunch: Instinct raises $1B Series C at $10B (Sep 2026)",
@@ -5324,7 +5380,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Firm-wide rollouts and costly switching build stickiness; runs on others' models.",
+  "distance_why": "Strong #2 in legal AI: $200M+ ARR doubling in under six months, 2,300+ customers in 80+ countries.",
   "distance_sources": [
    {
     "label": "Dealroom: Legora doubles to $200M ARR (Sep 2026)",
@@ -5367,9 +5423,9 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
-  "engine": "Lock-in + Network",
+  "engine": "Network",
   "distance": "Half",
-  "distance_why": "A huge builder community and SAP embedding make workflows sticky; retention undisclosed.",
+  "distance_why": "$100M+ ARR, 1.7M monthly builders and SAP embedding it; Zapier is the bigger rival.",
   "distance_sources": [
    {
     "label": "n8n/PR Newswire via EQS: SAP strategic investment at $5.2B (May 2026)",
@@ -5408,9 +5464,9 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Runs plaintiff firms' whole case lifecycle, but rides others' models; churn undisclosed.",
+  "distance_why": "Runs case work at 1,400+ plaintiff firms with revenue up 6x in a year.",
   "distance_sources": [
    {
     "label": "Business Wire: Eve launches EveOS (Jun 2026)",
@@ -5449,9 +5505,9 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
-  "engine": "Network + Data",
+  "engine": "Network",
   "distance": "Half",
-  "distance_why": "Recruiter network and hiring data compound, though retention and take rate stay private.",
+  "distance_why": "$100M annualized revenue and 1,000+ client companies in a new recruiting-marketplace category.",
   "distance_sources": [
    {
     "label": "Paraform: crosses $100M annualized revenue (Jul 2026)",
@@ -5492,7 +5548,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Analysts love it, but it sits on warehouses whose owners build rival notebooks.",
+  "distance_why": "Loved by Reddit, Anthropic and Figma, but data warehouse owners sell rival notebooks; revenue undisclosed.",
   "distance_sources": [
    {
     "label": "Hex: $70M Series C",
@@ -5537,7 +5593,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Spreads virally inside enterprises, but agent builders are crowded and labs compete.",
+  "distance_why": "Spreading inside Shopify and others, but agent builders are crowded and revenue is undisclosed.",
   "distance_sources": [
    {
     "label": "AIPOST: Gumloop's enterprise playbook (Oct 2026)",
@@ -5583,7 +5639,7 @@
   ],
   "engine": "Network",
   "distance": "10K",
-  "distance_why": "Huge open-source footprint, but low switching costs and a damaging 2026 breach.",
+  "distance_why": "60,000 companies use it, but revenue is small, no funding since 2021, and a 2026 breach hit.",
   "distance_sources": [
    {
     "label": "Metabase: August 2026 security vulnerability, what happened",
@@ -5631,9 +5687,9 @@
     "url": "https://thenextweb.com/news/universal-sony-second-lawsuit-suno-60202-recordings"
    }
   ],
-  "engine": "Data + Scale",
-  "distance": "10K",
-  "distance_why": "Millions pay monthly, but licensed models are copyable and lawsuits loom large.",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "AI music leader with $300M+ ARR and 2M+ paid subscribers, though label lawsuits are large.",
   "distance_sources": [
    {
     "label": "MBW: Suno 'far beyond' 2M subscribers (Oct 2026)",
@@ -5691,7 +5747,7 @@
   ],
   "engine": "Data",
   "distance": "10K",
-  "distance_why": "Fast-growing open voice models, but rivals abound and the voice library invites consent fights.",
+  "distance_why": "$21M ARR in a year, but a seed-stage follower in crowded voice AI facing consent disputes.",
   "distance_sources": [
    {
     "label": "TNW: Fish Audio gives its voice AI away (Jul 2026)",
@@ -5730,9 +5786,9 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
-  "engine": "Scale + Data",
+  "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Cheap securitized capital buys catalogs at scale, but rivals copy and debt piles up.",
+  "distance_why": "80+ catalog deals a month, but a debt-funded buyer among bigger, well-funded catalog rivals.",
   "distance_sources": [
    {
     "label": "MBW: Duetti $200M incl. $50M Series C (Jan 2026)",
@@ -5771,9 +5827,9 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Becomes each operator's data layer, hard to rip out; retention figures not public.",
+  "distance_why": "270+ multifamily operators and nearing 1M units, with contracted revenue up 4x in a year.",
   "distance_sources": [
    {
     "label": "GlobeNewswire: Venn acquires Zuma for $50M (Sep 2026)",
@@ -5813,8 +5869,8 @@
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
   "engine": "Scale",
-  "distance": "10K",
-  "distance_why": "Only automated ike jime at scale, but must run robots, plant and brand.",
+  "distance": "Unproven",
+  "distance_why": "Small Series A, revenue undisclosed, with a new plant and brand still ramping; too early to judge.",
   "distance_sources": [
    {
     "label": "TechCrunch: Founders Fund's outlier bet on humanely killed fish (Jun 2026)",
@@ -5855,7 +5911,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Gartner Leader and hard to rip out, though customer-success software is crowded.",
+  "distance_why": "Gartner Leader for customer success platforms, revenue up 22% and cash-generative.",
   "distance_sources": [
    {
     "label": "PR Newswire: Planhat named a Leader in 2025 Gartner MQ (Nov 2025)",
@@ -5904,8 +5960,8 @@
    }
   ],
   "engine": "None yet",
-  "distance": "Unproven",
-  "distance_why": "Human-plus-AI guest service, but staffing is easy to copy and AI rivals multiply.",
+  "distance": "10K",
+  "distance_why": "Profitable at ~$1M MRR, but staff fell from ~430 to ~155 and the founder admits stagnation.",
   "distance_sources": [
    {
     "label": "Extenteam homepage",
@@ -5944,9 +6000,9 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
-  "engine": "Network + Data",
+  "engine": "Network",
   "distance": "Half",
-  "distance_why": "Leading tax-credit marketplace with proprietary pricing data, but policy shifts shape demand.",
+  "distance_why": "Leading clean-energy tax credit marketplace with billions transacted and a $500M Nuveen facility.",
   "distance_sources": [
    {
     "label": "Crux: what our $50M Series B means (Apr 2025)",
@@ -5986,8 +6042,8 @@
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Banks rarely switch digital platforms, and some now buy Narmi's full stack.",
+  "distance": "10K",
+  "distance_why": "75+ bank and credit union clients and ~$11M revenue (est.), small next to bigger banking-software vendors.",
   "distance_sources": [
    {
     "label": "ACCESS Newswire via Yahoo: Mocse CU selects Narmi One (May 2026)",
@@ -6031,9 +6087,9 @@
     "url": "https://legalclarity.org/grow-therapy-lawsuit-billing-misclassification-and-privacy/"
    }
   ],
-  "engine": "Network + Scale",
+  "engine": "Network",
   "distance": "Half",
-  "distance_why": "Two-sided therapist and payer network at $1B revenue, but rivals offer the same.",
+  "distance_why": "~$1B revenue, 27K providers and 7M visits in 2025, though rivals offer similar networks.",
   "distance_sources": [
    {
     "label": "Behavioral Health Business: Grow Therapy $150M Series D (Mar 2026)",
@@ -6094,8 +6150,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Compliance POS that 97% of customers renew, though rival cannabis systems abound.",
+  "distance": "10K",
+  "distance_why": "Profitable, but trails Dutchie in cannabis POS, with repeated layoffs and headcount down 11%.",
   "distance_sources": [
    {
     "label": "Flowhub homepage",
@@ -6159,9 +6215,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Scale",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Bundled POS and payments make switching painful, though rivals court frustrated operators.",
+  "distance_why": "Cannabis POS leader with 6,500+ dispensaries and ~$22B sales, but a down round and layoffs.",
   "distance_sources": [
    {
     "label": "Meadow (rival): best Dutchie alternatives 2026",
@@ -6231,7 +6287,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Performance tools stay sticky, but it retreated from HRIS while suites bundle rivals.",
+  "distance_why": "~5,000 customers, but it shut its HRIS and payroll products and cut ~10% of staff.",
   "distance_sources": [
    {
     "label": "Copper Feed: Lattice HRIS has shut down (Aug 2026)",
@@ -6270,9 +6326,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Marathon",
-  "distance_why": "Customers keep adding HR, IT and finance products on one employee record.",
+  "distance_why": "$1B+ ARR growing ~78% as 20,000+ customers add HR, IT and finance products.",
   "distance_sources": [
    {
     "label": "Rainmaker Securities: Rippling profile (Mar 2026)",
@@ -6330,7 +6386,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Loyal Spanish-first customers, but rivals keep folding and it rides partner banks.",
+  "distance_why": "276K accounts and revenue doubling, but small, reliant on partner banks, in a sector where peers folded.",
   "distance_sources": [
    {
     "label": "Latin Times: Banking without an SSN (Sep 2026)",
@@ -6386,9 +6442,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Network",
+  "engine": "Lock-in",
   "distance": "Marathon",
-  "distance_why": "Most revenue now comes beyond payroll, and it funds itself with cash flow.",
+  "distance_why": "$1B+ revenue, 500K+ small business customers, ~30% growth and cash-flow positive.",
   "distance_sources": [
    {
     "label": "Gusto: $1B trailing revenue (PR Newswire, May 2026)",
@@ -6440,9 +6496,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Network + Data",
+  "engine": "Network",
   "distance": "Half",
-  "distance_why": "Profitable broker linking 100+ insurers; new lines are too young to judge.",
+  "distance_why": "Profitable broker with 5M+ customers comparing 100+ insurers.",
   "distance_sources": [
    {
     "label": "Root and Jerry partnership (GlobeNewswire, Jul 2026)",
@@ -6485,9 +6541,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Lock-in",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "Tree-level risk models embedded at big utilities; retention figures not published.",
+  "distance_why": "Used by ~50 utilities with eight-figure revenue and 2,090% three-year growth.",
   "distance_sources": [
    {
     "label": "Overstory: outage and ignition models (PR Newswire, Apr 2026)",
@@ -6527,8 +6583,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
-  "distance": "10K",
-  "distance_why": "Explosive growth on rented GPUs; margins undisclosed and hyperscalers sell the same.",
+  "distance": "Half",
+  "distance_why": "A leading inference platform: revenue up 20x in a year, ~$600M ARR (est.); hyperscalers compete.",
   "distance_sources": [
    {
     "label": "Baseten blog: Series F (Jun 2026)",
@@ -6588,9 +6644,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Lock-in",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "Call centers expand fast, but Krisp copies the feature and patents face review.",
+  "distance_why": "$77M ARR with 160% NRR and 95% GRR, though Krisp competes and its patents face review.",
   "distance_sources": [
    {
     "label": "ARR Club: Sanas $77M ARR, 160% NRR (Aug 2026)",
@@ -6633,9 +6689,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Own voice models and deep enterprise rollouts; crowded field, no retention data.",
+  "distance_why": "ARR doubled to ~$40M+ with 200+ enterprises, in a crowded voice agent field.",
   "distance_sources": [
    {
     "label": "GenMediaLab: PolyAI Series D and rivals (Dec 2025)",
@@ -6680,7 +6736,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Studios run daily on it, but many booking rivals chase the same customers.",
+  "distance_why": "1,000+ studios, but a small player among many booking software rivals.",
   "distance_sources": [
    {
     "label": "Fitt Insider: Arketa $15M Series A (Jun 2025)",
@@ -6732,9 +6788,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Network + Data",
-  "distance": "10K",
-  "distance_why": "Profitable quality leader, but a dozen AI labs supply nearly all revenue.",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Profitable data leader with $1.2B 2024 revenue, but a handful of AI labs supply nearly all of it.",
   "distance_sources": [
    {
     "label": "Sacra: Surge AI profile",
@@ -6786,9 +6842,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Lock-in",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "One threat graph across 300+ customers, now adding email security and training.",
+  "distance_why": "ARR up 3x with 300+ customers including dozens of Fortune 500 firms.",
   "distance_sources": [
    {
     "label": "Doppel: MUFG strategic investment, 300+ customers (Sep 2026)",
@@ -6829,7 +6885,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Plugs into ERPs and gets customers paid faster; rivals crowd the space.",
+  "distance_why": "ARR up 10x in six months, but a small Series A player in crowded AR software.",
   "distance_sources": [
    {
     "label": "Next Play: Should you join Monk (Jun 2026)",
@@ -6870,7 +6926,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "One platform replacing four data tools appeals, but big incumbents consolidate too.",
+  "distance_why": "Revenue up 10x+, but a small Series A player against bigger data integration incumbents.",
   "distance_sources": [
    {
     "label": "Refresh Miami: Matia $21M Series A (Feb 2026)",
@@ -6918,9 +6974,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Big carriers are wiring it in, but freight AI agents are multiplying fast.",
+  "distance_why": "Big carriers like Werner and Penske use it, but freight AI agents are multiplying.",
   "distance_sources": [
    {
     "label": "FreightWaves: Hirschbach picks Augment (Jul 2026)",
@@ -6959,9 +7015,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Network",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "Benchmarks from 65,000 brands are a real edge; depends on Shopify and Meta.",
+  "distance_why": "Used by 60,000+ ecommerce brands, up from 45,000 a year earlier; leans on Shopify and Meta.",
   "distance_sources": [
    {
     "label": "AI Agent Chronicle: Triple Whale rebrands around Moby (Sep 2026)",
@@ -7000,9 +7056,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Health-plan contracts cover 25 million lives with outcome data; revenue undisclosed.",
+  "distance_why": "Health-plan contracts cover 25M+ lives and ~7% of US births; revenue undisclosed.",
   "distance_sources": [
    {
     "label": "MedCity News: Pomelo Care $92M Series C (Jan 2026)",
@@ -7055,12 +7111,16 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Customers expand from HR into IT, finance and payables; incumbents ship agents too.",
+  "distance": "10K",
+  "distance_why": "$20M+ ARR, but ServiceNow now owns Moveworks and sells the same agents; team shrank ~5%.",
   "distance_sources": [
    {
     "label": "Bessemer: Leena AI case study (Jul 2026)",
     "url": "https://www.bvp.com/atlas/leena-ai-from-hr-chatbot-to-the-agentic-enterprise"
+   },
+   {
+    "label": "ServiceNow: completes Moveworks acquisition (Dec 2025)",
+    "url": "https://newsroom.servicenow.com/press-releases/details/2025/ServiceNow-completes-acquisition-of-Moveworks/default.aspx"
    }
   ]
  },
@@ -7109,12 +7169,16 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Network",
-  "distance": "10K",
-  "distance_why": "Huge expert network, but a few AI labs drive 91% of revenue.",
+  "distance": "Half",
+  "distance_why": "$2B+ run rate puts it among the top expert-data suppliers; a few labs drive 91% of revenue.",
   "distance_sources": [
    {
     "label": "Occludo: Mercor H1 2026 revenue concentration (Aug 2026)",
     "url": "https://www.occludo.ai/articles/mercors-h1-2026-revenue-hits-614m-but-91-comes-from-a-handful-of-foundation-model-labs"
+   },
+   {
+    "label": "HeroHunt: Mercor vs Surge vs Scale AI buyer guide (Sep 2026)",
+    "url": "https://www.herohunt.ai/blog/mercor-vs-surge-vs-scale-ai-2026-buyer-guide/"
    }
   ]
  },
@@ -7149,9 +7213,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Network + Lock-in",
+  "engine": "Network",
   "distance": "Half",
-  "distance_why": "Built into major rent portals; still leans on partner banks while charter pends.",
+  "distance_why": "Leading rent-split app: 3.5M+ renters, built into Yardi, RealPage, Entrata; partner banks until charter.",
   "distance_sources": [
    {
     "label": "American Banker: Flex applies for Utah ILC charter (Jul 2026)",
@@ -7195,12 +7259,16 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Owners use four-plus products each; growth leans heavily on debt-funded credit.",
+  "distance": "10K",
+  "distance_why": "Nine-figure revenue, but Ramp alone has $1B+ revenue and 70,000+ customers in business cards.",
   "distance_sources": [
    {
     "label": "FinTech Global: Flex $70M Series B1 (Jul 2026)",
     "url": "https://fintech.global/2026/07/15/flex-lands-70m-as-private-banking-goes-borderless/"
+   },
+   {
+    "label": "GIC: Ramp Series F, $1B+ annualized revenue (Jun 2026)",
+    "url": "https://www.gic.com.sg/newsroom/all/ramp-raises-series-f-at-44-billion-valuation/"
    }
   ]
  },
@@ -7245,12 +7313,16 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Network",
-  "distance": "Half",
-  "distance_why": "Buyers and sellers keep coming back; TikTok Shop and eBay attack hard.",
+  "distance": "Marathon",
+  "distance_why": "Largest US live shopping platform, claims ~60% share; H1 2026 GMV over $8B; gambling claims pending.",
   "distance_sources": [
    {
     "label": "DTC Dispatch: Whatnot $8B GMV, retention (Jun 2026)",
     "url": "https://dtcdispatch.com/2026/06/17/fashion-tops-all-categories-on-whatnot-as-platform-hits-8b-in-annual-gmv/"
+   },
+   {
+    "label": "CNBC: Whatnot valued at $20B, ~60% live-shopping share (Aug 2026)",
+    "url": "https://www.cnbc.com/2026/08/07/whatnot-live-shopping-valuation-20-billion.html"
    }
   ]
  },
@@ -7296,7 +7368,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
   "distance": "10K",
-  "distance_why": "Cash-flow underwriting looks strong, but Flex is far larger and copying is easy.",
+  "distance_why": "150,000 members versus Flex's 3.5M renters; the rent-split product is easy to copy.",
   "distance_sources": [
    {
     "label": "DevCuration: Split Pay spotlight (Sep 2026)",
@@ -7341,7 +7413,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
   "distance": "Unproven",
-  "distance_why": "Doctors sign up fast, but it runs on WhatsApp, which Meta controls.",
+  "distance_why": "Seed-stage; 'thousands of doctors' is a company claim, and the product sits on Meta's WhatsApp.",
   "distance_sources": [
    {
     "label": "TechCrunch: Leona $14M seed (Dec 2025)",
@@ -7422,8 +7494,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
-  "distance": "10K",
-  "distance_why": "Users' digital closets are sticky, but styling features are easy to copy.",
+  "distance": "Unproven",
+  "distance_why": "Seed-stage stylist app with 100M+ outfits generated; too early to judge staying power.",
   "distance_sources": [
    {
     "label": "TechCrunch: Alta x Public School integration (Feb 2026)",
@@ -7463,8 +7535,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
-  "distance": "10K",
-  "distance_why": "Long-term memory makes leaving costly, but general chatbots now remember too.",
+  "distance": "Unproven",
+  "distance_why": "Seed-stage journaling app with 10,000+ paying subscribers; too early to judge.",
   "distance_sources": [
    {
     "label": "FinSMEs: Rosebud $6M seed (Jun 2025)",
@@ -7503,9 +7575,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Embedded in big asset managers' compliance work, now selling legal services too.",
+  "distance_why": "Embedded in compliance at big asset managers like Blackstone; ARR only estimated near $10M.",
   "distance_sources": [
    {
     "label": "Norm Ai: $120M Series C (Jul 2026)",
@@ -7544,13 +7616,21 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Lock-in",
-  "distance": "Half",
-  "distance_why": "Every filing sharpens its tax engine, but retention and pricing aren't public yet.",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "3,500+ customers and growing fast, but Avalara leads sales tax software by a wide margin.",
   "distance_sources": [
    {
     "label": "Salesforce Ventures: Numeral Series C (Sep 2026)",
     "url": "https://salesforceventures.com/perspectives/automating-the-sales-tax-back-office/"
+   },
+   {
+    "label": "PeerSpot: Avalara vs Numeral (Sep 2026)",
+    "url": "https://www.peerspot.com/products/comparisons/avalara_vs_numeral"
+   },
+   {
+    "label": "Avalara: Numeral vs Avalara",
+    "url": "https://www.avalara.com/us/en/about/why-avalara/avalara-vs-numeral.html"
    }
   ]
  },
@@ -7587,7 +7667,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
   "distance": "10K",
-  "distance_why": "Strong enterprise wins, but observability incumbents now ship the same agent.",
+  "distance_why": "Strong enterprise wins, but Datadog now sells its own AI SRE agent to the same teams.",
   "distance_sources": [
    {
     "label": "PR Newswire: Resolve AI $1.5B (Apr 2026)",
@@ -7630,9 +7710,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Runs inside 60 health-system pharmacies; hard to rip out once live.",
+  "distance_why": "Grew from 4 to 60 health-system pharmacies with >$20M revenue; hard to rip out once live.",
   "distance_sources": [
    {
     "label": "Latent: 60 health systems, new agents (Sep 2026)",
@@ -7725,9 +7805,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Scale + Data",
+  "engine": "Scale",
   "distance": "Half",
-  "distance_why": "Doubled prices and multi-product use, but growth hinges on buying scarce GPUs.",
+  "distance_why": "$100M+ annualized revenue across 6,000+ customers; growth depends on buying scarce GPUs.",
   "distance_sources": [
    {
     "label": "Prime Intellect blog: $130M Series A (Jul 2026)",
@@ -7770,9 +7850,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
-  "distance": "Half",
-  "distance_why": "Handles claims end to end for 40+ insurers; complex lines remain out of reach.",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "40+ insurers and multi-seven-figure ARR, against Sedgwick's $5B+ claims business.",
   "distance_sources": [
    {
     "label": "Strala: company page",
@@ -7781,6 +7861,10 @@
    {
     "label": "Altis: Strala research summary (Sep 2026)",
     "url": "https://www.altis.vc/research/company/strala"
+   },
+   {
+    "label": "Business Insurance: largest TPAs by 2025 revenue (2026)",
+    "url": "https://us.charlestaylor.com/wp-content/uploads/2026/05/BI_TPA_Directory_2026_p5.pdf"
    }
   ]
  },
@@ -7824,9 +7908,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Setting the standard for grid-flexible data centers, but revenue is undisclosed.",
+  "distance_why": "Early standard-setter for grid-flexible data centers; revenue undisclosed and flagship site delayed.",
   "distance_sources": [
    {
     "label": "Emerald AI: $150M Series A (Aug 2026)",
@@ -7867,7 +7951,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
   "distance": "Unproven",
-  "distance_why": "Months old with marquee AI customers; no revenue or retention shown yet.",
+  "distance_why": "Months old with marquee AI customers; no revenue shown yet.",
   "distance_sources": [
    {
     "label": "Dealroom: Trajectory $40M Series A (Aug 2026)",
@@ -7906,13 +7990,21 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
-  "distance": "Half",
-  "distance_why": "Live at half the top ten carriers across several workflows; rivals crowd in.",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Seven-figure revenue in a crowded field; Federato has raised $180M+ for the same underwriters.",
   "distance_sources": [
    {
     "label": "FurtherAI: homepage (customers, workflows)",
     "url": "https://www.furtherai.com/"
+   },
+   {
+    "label": "Nasdaq/Business Wire: Federato $100M Series D",
+    "url": "https://www.nasdaq.com/press-release/federato-raises-100-million-series-d-led-growth-equity-goldman-sachs-alternatives"
+   },
+   {
+    "label": "Teardown: Sixfold competitive landscape (Jul 2026)",
+    "url": "https://www.teardown.ai/companies/sixfold"
    }
   ]
  },
@@ -7988,9 +8080,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Scale + Data",
+  "engine": "Data",
   "distance": "10K",
-  "distance_why": "Revenue is soaring, but buyers are few and data rivals are piling in.",
+  "distance_why": "Nearly $50M revenue from only ~20 customers, as robot-data rivals pile in.",
   "distance_sources": [
    {
     "label": "TechCrunch: XDOF Series B talks (Sep 2026)",
@@ -8031,7 +8123,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "No lender has left so far, and it keeps adding servicing workflows.",
+  "distance_why": "ARR grew $14M to $25M+ in six months; no lender has left, per Fortune.",
   "distance_sources": [
    {
     "label": "Fortune: Salient $25M ARR, zero churn (Dec 2025)",
@@ -8085,7 +8177,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
   "distance": "10K",
-  "distance_why": "Big-name clients, but accuracy is disputed and simulation rivals multiply.",
+  "distance_why": "Big-name clients, but accuracy is publicly disputed and ARR is under $10M.",
   "distance_sources": [
    {
     "label": "Fortune: Aaru's 'do not trust us' pitch (Jun 2026)",
@@ -8135,7 +8227,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "ERPs are sticky, but it trails two rivals and pays to win switchers.",
+  "distance_why": "ERPs are sticky, but it trails Rillet and Campfire and pays to win switchers.",
   "distance_sources": [
    {
     "label": "Altis: DualEntry report (Jun 2026)",
@@ -8174,9 +8266,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Built into field reporting at six of the top ten inspection firms.",
+  "distance_why": "Used by 7 of the top 10 inspection firms, with ARR up 9x since launch.",
   "distance_sources": [
    {
     "label": "EU-Startups: Scope $20M round (May 2026)",
@@ -8230,7 +8322,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Huge connector catalog, but a May breach dented trust and rivals ship connectors.",
+  "distance_why": "ARR tripled, but a May 2026 breach exposed customer tokens and rivals ship connectors.",
   "distance_sources": [
    {
     "label": "Composio: May 2026 security incident update",
@@ -8279,8 +8371,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "None yet",
-  "distance": "Unproven",
-  "distance_why": "Millions of users, but ChatGPT and Claude offer much the same analysis.",
+  "distance": "10K",
+  "distance_why": "Team down ~23% and traffic falling while ChatGPT and Claude offer the same analysis.",
   "distance_sources": [
    {
     "label": "TechCrunch: Julius $10M seed (Jul 2025)",
@@ -8330,7 +8422,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Wins big institutional deals, but custom builds are services-heavy and copyable.",
+  "distance_why": "Wins big institutional deals, but custom builds are services-heavy and easy to copy.",
   "distance_sources": [
    {
     "label": "Brain Co.: launch and Series A post",
@@ -8371,7 +8463,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
   "distance": "10K",
-  "distance_why": "Millions of investigations sharpen its agents, but security incumbents ship lookalikes.",
+  "distance_why": "9M+ investigations, but Datadog and other security incumbents now ship lookalike agents.",
   "distance_sources": [
    {
     "label": "GlobeNewswire: 7AI 7M investigations (May 2026)",
@@ -8416,7 +8508,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "Unproven",
-  "distance_why": "Embeds engineers inside Gulf operators; no revenue or retention published yet.",
+  "distance_why": "Embeds engineers inside Gulf operators; no revenue published yet.",
   "distance_sources": [
    {
     "label": "1001: Series A announcement (Jun 2026)",
@@ -8462,7 +8554,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
   "distance": "10K",
-  "distance_why": "Labs buy its training gyms fast, but those same labs could build their own.",
+  "distance_why": "Revenue jumped to $63M run rate, but its lab buyers could build their own training gyms.",
   "distance_sources": [
    {
     "label": "Sacra: Fleet revenue, competition and risks",
@@ -8542,9 +8634,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Scale",
+  "engine": "Data",
   "distance": "10K",
-  "distance_why": "Its own 100B-page index is a real edge, but agent search is crowding fast.",
+  "distance_why": "Its own 100B-page index is real, but bigger agent-search rivals got there first.",
   "distance_sources": [
    {
     "label": "TechCrunch: Accel-backed Keenable is indexing the web for AI agents (Aug 2026)",
@@ -8585,7 +8677,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Fast-growing inference cloud at about 50% margin, but rivals sell similar speed.",
+  "distance_why": "ARR rose to ~$8M in four months, but larger inference providers sell similar speed.",
   "distance_sources": [
    {
     "label": "Dealroom/The Information: Wafer $40M Series A, ~50% gross margin (Sep 2026)",
@@ -8624,9 +8716,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Lock-in",
+  "engine": "Data",
   "distance": "Unproven",
-  "distance_why": "Plant data could compound, but it only just moved from consulting to software.",
+  "distance_why": "Seed-stage; only just moved from consulting to software, with no ARR disclosed.",
   "distance_sources": [
    {
     "label": "ellipsis Ventures: Juna portfolio milestones",
@@ -8722,7 +8814,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Tinker earns real revenue, but rivals sell fine-tuning and founders keep leaving.",
+  "distance_why": "$100M+ run rate, but far behind the top labs and 4 of 6 co-founders have left.",
   "distance_sources": [
    {
     "label": "The Next Web: Thinking Machines in talks to raise $6bn (Sep 2026)",
@@ -8761,9 +8853,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Marathon",
-  "distance_why": "Sells several products across automakers and defense; no single customer dominates.",
+  "distance_why": "~$830M ARR, used by 18 of the top 20 automakers plus defense; no single customer dominates.",
   "distance_sources": [
    {
     "label": "Sacra: Applied Intuition at $830M/year (May 2026)",
@@ -8804,7 +8896,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "Half",
-  "distance_why": "Own runtime and a big second product; still exposed to rented GPU supply.",
+  "distance_why": "Annualized revenue rose from $60M to $300M+ in eight months; relies on rented GPU supply.",
   "distance_sources": [
    {
     "label": "Modal blog: Series C, $300M+ annualized revenue (May 2026)",
@@ -8848,12 +8940,16 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Private, air-gapped deployments stick, but bigger labs chase the same enterprise buyers.",
+  "distance": "10K",
+  "distance_why": "$240M ARR, but Anthropic, OpenAI and Google hold 88% of enterprise model spend.",
   "distance_sources": [
    {
     "label": "Techlantis: Cohere launches North 2 (Oct 2026)",
     "url": "https://thetechlantis.com/news/cohere-north-2-enterprise-agent-platform"
+   },
+   {
+    "label": "Menlo Ventures: 2025 State of Generative AI in the Enterprise",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/"
    }
   ]
  },
@@ -8888,9 +8984,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Spreads to five-plus departments per customer, but Microsoft bundles a rival cheaply.",
+  "distance_why": "Enterprise search leader at $300M ARR, up from $100M in early 2025; Microsoft bundles a rival.",
   "distance_sources": [
    {
     "label": "Business Wire: Glean surpasses $300M ARR (May 2026)",
@@ -8929,9 +9025,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Network",
+  "engine": "Network",
   "distance": "Half",
-  "distance_why": "Open-source funnel feeds LangSmith, but agent observability is crowded and revenue undisclosed.",
+  "distance_why": "Most-used agent framework: 1B+ downloads and 35% of the Fortune 500; revenue undisclosed.",
   "distance_sources": [
    {
     "label": "LangChain: On agent frameworks and agent observability (Feb 2026)",
@@ -8971,8 +9067,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "10K",
-  "distance_why": "Huge revenue, but lab-built coding agents are close substitutes and switching is easy.",
+  "distance": "Half",
+  "distance_why": "~$1B run rate makes it a top-tier coding agent, behind Cursor's $4B and Claude Code.",
   "distance_sources": [
    {
     "label": "Cognition blog: $1B run rate (Sep 2026)",
@@ -8981,6 +9077,10 @@
    {
     "label": "Value Add VC: Cognition $48B valuation analysis (Sep 2026)",
     "url": "https://valueaddvc.com/pulse/cognition-devin-48b-valuation-2026"
+   },
+   {
+    "label": "Forbes: Cursor hits $4B annualized revenue (Jun 2026)",
+    "url": "https://www.forbes.com/sites/richardnieva/2026/06/08/cursor-4-billion-annualized-revenue"
    }
   ]
  },
@@ -9028,9 +9128,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Scale",
-  "distance": "Half",
-  "distance_why": "Government and apps lines are growing, but lab neutrality was lost to Meta.",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Lost top labs after the Meta deal, cut ~14% of staff, and Surge now out-earns it.",
   "distance_sources": [
    {
     "label": "Scale AI: Scale's next era, building for 2026 (Jan 2026)",
@@ -9039,6 +9139,10 @@
    {
     "label": "Value Add VC: How Scale AI makes money after Meta (Jul 2026)",
     "url": "https://valueaddvc.com/blog/how-does-scale-ai-make-money-data-labeling-rlhf-and-the-meta-14-3b-stake"
+   },
+   {
+    "label": "Reuters: Surge AI out-earned Scale AI in 2024 (Jul 2025)",
+    "url": "https://www.reuters.com/business/scale-ais-bigger-rival-surge-ai-seeks-up-1-billion-capital-raise-sources-say-2025-07-01"
    }
   ]
  },
@@ -9075,7 +9179,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Enterprise revenue is surging, but it orchestrates agents that model makers also sell.",
+  "distance_why": "~1M active developers, but it trails bigger coding tools and model makers' own agents.",
   "distance_sources": [
    {
     "label": "OpenAI: Warp customer story (May 2026)",
@@ -9114,9 +9218,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Won Morgan Stanley, but frontier labs now sell finance agents directly.",
+  "distance_why": "ARR ~$50M, but frontier labs now sell finance agents directly to the same buyers.",
   "distance_sources": [
    {
     "label": "Dealroom/The Information: Rogo, Hebbia revenue rises as Claude finance threat looms (Sep 2026)",
@@ -9155,9 +9259,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Scale",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Sovereign buyers sign five-year deals, but the compute build needs far more money.",
+  "distance_why": "Europe's leading model maker at $400M+ ARR with sovereign deals; far behind the top US labs.",
   "distance_sources": [
    {
     "label": "CNBC: Mistral EUR 3B round led by Samsung (Sep 2026)",
@@ -9166,6 +9270,10 @@
    {
     "label": "The Inference: Mistral compute funding structure (Sep 2026)",
     "url": "https://theinference.org/article/mistral-s-3-billion-week-small-cheques-for-software-a-blank-one-for-compute"
+   },
+   {
+    "label": "Menlo Ventures: 2025 State of Generative AI in the Enterprise",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/"
    }
   ]
  },
@@ -9205,9 +9313,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Built into Uber's Lucid robotaxis, but revenue hinges on one unlaunched program.",
+  "distance_why": "Built into Uber's 35,000-robotaxi Lucid program, but revenue hinges on that unlaunched program.",
   "distance_sources": [
    {
     "label": "TechCrunch: Nuro driverless testing permit ahead of Uber launch (May 2026)",
@@ -9248,11 +9356,15 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Hot enterprise adoption, but coding agents are crowded and run on rented models.",
+  "distance_why": "Real enterprise adoption, but it trails Cursor and Claude Code in a crowded field.",
   "distance_sources": [
    {
     "label": "Factory: $150M Series C (Apr 2026)",
     "url": "https://factory.ai/news/series-c"
+   },
+   {
+    "label": "Forbes: Cursor hits $4B annualized revenue (Jun 2026)",
+    "url": "https://www.forbes.com/sites/richardnieva/2026/06/08/cursor-4-billion-annualized-revenue"
    }
   ]
  },
@@ -9296,9 +9408,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
-  "distance": "Half",
-  "distance_why": "Embedded with defense users and profitable, but no growth figures since 2024.",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Profitable on $80M contract value, but headcount fell 18% and no growth figures since 2024.",
   "distance_sources": [
    {
     "label": "BDI: Vannevar Labs company profile (Sep 2026)",
@@ -9337,9 +9449,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Default scribe at 300+ health systems, but Epic now ships its own.",
+  "distance_why": "Ranked #1 ambient AI scribe by KLAS at 300+ health systems, but Epic now ships its own.",
   "distance_sources": [
    {
     "label": "Abridge: company site (300+ health systems, 95% user retention)",
@@ -9348,6 +9460,14 @@
    {
     "label": "Healthcare Brew: Abridge road map and Epic competition (Jun 2026)",
     "url": "https://www.healthcare-brew.com/stories/abridge-nvidia-eli-lilly-ai-clinical-platform"
+   },
+   {
+    "label": "KLAS Best in KLAS 2026 (ambient speech)",
+    "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/best-in-klas-2026-whos-winning-in-ambient-ai-ehrs-revenue-cycle-and-more/"
+   },
+   {
+    "label": "KLAS Ambient AI 2026 report",
+    "url": "https://klasresearch.com/report/ambient-ai-2026-a-high-performing-market-shifts-as-ehr-native-tools-adjust-long-term-strategies/3982"
    }
   ]
  },
@@ -9383,8 +9503,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "10K",
-  "distance_why": "A unified CRM can lock in, but incumbents and AI-native rivals crowd it.",
+  "distance": "Unproven",
+  "distance_why": "Launched Nov 2025 with revenue undisclosed; too early to judge against Salesforce, HubSpot and AI-native CRMs.",
   "distance_sources": [
    {
     "label": "Business Wire: Reevo CMO/CRO hires, 4x demand (Feb 2026)",
@@ -9423,9 +9543,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Runs inside customers' fraud and ranking systems; its new agent runtime is catching on.",
+  "distance_why": "Runs inside fraud and ranking systems at Whatnot, Ramp and Socure; team tripled in two years.",
   "distance_sources": [
    {
     "label": "Chalk: Introducing Chalk Compute (Jun 2026)",
@@ -9464,9 +9584,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Four of five top US defense primes run on Nominal; retention not public.",
+  "distance_why": "Four of the five largest US defense primes use it; revenue up 7x in a year.",
   "distance_sources": [
    {
     "label": "Nominal acquires Fid Labs (ARR 7x in 2025, 4 of 5 primes)",
@@ -9507,7 +9627,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Fastest voice models win developers, but rivals and AI labs close the gap quickly.",
+  "distance_why": "50,000+ customers, but trails bigger voice AI rivals in a crowded field.",
   "distance_sources": [
    {
     "label": "Altis: Cartesia moat debate (SSM edge, 50K customers)",
@@ -9557,7 +9677,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Created the vector database category, but clouds bundle it and big customers left.",
+  "distance_why": "Created the vector database category, but clouds bundle it, big customers left and its CEO stepped down.",
   "distance_sources": [
    {
     "label": "The Information: Pinecone considers sale, lost Notion",
@@ -9598,7 +9718,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Hard-to-rip-out integrations plus a new agent product; open MCP standards lower the barrier.",
+  "distance_why": "A leading unified-API provider with $20M+ revenue and customers like OpenAI; open MCP standards lower the barrier.",
   "distance_sources": [
    {
     "label": "Merge: How we restarted Merge in 2025",
@@ -9689,7 +9809,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Network",
   "distance": "Marathon",
-  "distance_why": "800K retailers buy more each year, and ads add a second revenue line.",
+  "distance_why": "Largest online wholesale marketplace: 800K retailers and $500M+ revenue run rate, despite a lower valuation.",
   "distance_sources": [
    {
     "label": "Sacra: Faire revenue, NDR, ads",
@@ -9729,8 +9849,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
-  "distance": "10K",
-  "distance_why": "First operator-free excavators on live sites, but hardware scale-up needs heavy capital.",
+  "distance": "Unproven",
+  "distance_why": "First operator-free excavators are live, but revenue is undisclosed and it is too early to judge.",
   "distance_sources": [
    {
     "label": "Bedrock: first fully autonomous excavator deployments (Aug 2026)",
@@ -9776,7 +9896,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
   "distance": "10K",
-  "distance_why": "Revenue soared on agents, but it rents rivals' models and faces publisher lawsuits.",
+  "distance_why": "Revenue soared, but ChatGPT and Google sell AI answers to the same users, and publisher lawsuits remain open.",
   "distance_sources": [
    {
     "label": "Tech in Asia: Perplexity passes $450M ARR, orchestrates others' models",
@@ -9815,9 +9935,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Customers expand fast and never leave; its original data edge is commoditizing.",
+  "distance_why": "Leading GTM data and outbound platform: revenue 4x in 2025 to ~$200M ARR; data itself is commoditizing.",
   "distance_sources": [
    {
     "label": "Clay blog: $100M ARR, NRR and churn (Dec 2025)",
@@ -9860,9 +9980,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Scale",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "Customers triple spend, but frontier video models converge and compute keeps burning cash.",
+  "distance_why": "A leading pro video AI tool with ~$200M ARR and 300%+ net retention; Google and OpenAI ship video models too.",
   "distance_sources": [
    {
     "label": "Runway: The Next Phase of Enterprise Video Generation (Aug 2026)",
@@ -9905,9 +10025,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Scale",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "Owns its own models and runs break-even, but avatar video rivals are close behind.",
+  "distance_why": "Leading AI avatar video platform: $200M+ ARR, doubled in 8 months, break-even; rivals close behind.",
   "distance_sources": [
    {
     "label": "Upstarts: HeyGen $200M ARR, cash-flow break-even",
@@ -9947,8 +10067,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
-  "distance": "10K",
-  "distance_why": "Big prompt dataset, but it lives inside AI platforms it doesn't control.",
+  "distance": "Half",
+  "distance_why": "Most-adopted AI-search visibility tool, about double the next vendor; 1,000+ enterprise customers; Semrush is catching up.",
   "distance_sources": [
    {
     "label": "Profound newsroom: $180M Series D (Sep 2026)",
@@ -9957,6 +10077,10 @@
    {
     "label": "Search Engine Watch: Profound moves beyond AI search tracking (Sep 2026)",
     "url": "https://searchenginewatch.com/profound-raises-180-million-to-move-beyond-ai-search-tracking-reaches-1-8b-valuation/"
+   },
+   {
+    "label": "Ramp Leading Indicators: AEO adoption",
+    "url": "https://ramp.com/leading-indicators/the-seo-shake-up-how-ai-search-is-powering-the-rise-of-aeo-startups-like-profound"
    }
   ]
  },
@@ -9991,9 +10115,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Becoming the CPG back-office system of record; no retention figures published yet.",
+  "distance_why": "Growing 5x a year with 250+ CPG brands, including Mars and Unilever divisions, on its back office.",
   "distance_sources": [
    {
     "label": "Confido: $55M Series B announcement (Sep 2026)",
@@ -10032,9 +10156,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Construction payroll is sticky, and Miter already pays about 2% of US construction workers.",
+  "distance_why": "Payroll for 2,000+ contractors, about 2% of US construction workers; customers tripled in 18 months.",
   "distance_sources": [
    {
     "label": "Miter: It's time to build (Series B, 2% of workers)",
@@ -10075,7 +10199,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Network",
   "distance": "Unproven",
-  "distance_why": "Two-sided agent network could compound, but it needs buyers and suppliers to both join.",
+  "distance_why": "Seed-stage; two-sided invoice network needs buyers and suppliers to both join.",
   "distance_sources": [
    {
     "label": "TFN: Causa Prima $20M seed",
@@ -10129,7 +10253,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Deep health-system rollouts, but scribes are commoditizing and agents lean on rivals' software.",
+  "distance_why": "Fast growth to $50M ARR, but KLAS says EHR-native scribes hit Heidi hardest; Abridge leads.",
   "distance_sources": [
    {
     "label": "Heidi: US$340M Series C announcement (Sep 2026)",
@@ -10142,6 +10266,10 @@
    {
     "label": "Sacra: Freed vs Heidi Health (Sep 2026)",
     "url": "https://sacra.com/research/freed-vs-heidi-health/"
+   },
+   {
+    "label": "KLAS Ambient AI 2026 report",
+    "url": "https://klasresearch.com/report/ambient-ai-2026-a-high-performing-market-shifts-as-ehr-native-tools-adjust-long-term-strategies/3982"
    }
   ]
  },
@@ -10186,8 +10314,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "10K",
-  "distance_why": "Signed big names fast, but MCP gateways are crowded and easy to replicate.",
+  "distance": "Unproven",
+  "distance_why": "Signed big names within six months, but a ~20-person team in a crowded field is too early to judge.",
   "distance_sources": [
    {
     "label": "Runlayer: $30M Series A",
@@ -10227,8 +10355,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Customers move their system of record onto it, but ServiceNow guards the enterprise.",
+  "distance": "10K",
+  "distance_why": "Revenue grew fast, but ServiceNow dominates enterprise IT service management.",
   "distance_sources": [
    {
     "label": "Serval: $75M Series B (replacing incumbent ITSM)",
@@ -10267,9 +10395,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Lock-in",
+  "engine": "Data",
   "distance": "10K",
-  "distance_why": "Deep in Fortune 100 stacks, but observability giants and AI SRE rivals crowd in.",
+  "distance_why": "Deployed at American Express and PepsiCo, but observability giants and AI SRE rivals crowd in.",
   "distance_sources": [
    {
     "label": "Traversal: Amex Ventures investment and deployment",
@@ -10351,7 +10479,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Wins big banks with bespoke workflows, but runs on OpenAI, which targets bankers too.",
+  "distance_why": "Used by 8 of the top 10 European banks, but OpenAI sells to bankers directly and rivals compete.",
   "distance_sources": [
    {
     "label": "SiliconANGLE: Model ML $75M, runs on OpenAI, Anthropic competes",
@@ -10392,7 +10520,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
   "distance": "10K",
-  "distance_why": "Own web index is a real edge, but labs can bundle agent search themselves.",
+  "distance_why": "100,000+ developers use its web index, but rivals and AI labs offer agent search too.",
   "distance_sources": [
    {
     "label": "PR Newswire via Yahoo Finance: Parallel raises at $2B (Apr 2026)",
@@ -10433,7 +10561,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Fast adoption in back offices, but computer-use agents from AI labs can copy it.",
+  "distance_why": "Fortune 100 customers and 5x growth, but competes with automation incumbents and AI-lab computer-use agents.",
   "distance_sources": [
    {
     "label": "a16z: Investing in Sola (5x revenue in 2025)",
@@ -10472,9 +10600,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Lock-in",
-  "distance": "Half",
-  "distance_why": "Lawyer feedback trains its models, but it still rents frontier models from labs.",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "About 100 clients and revenue up ~400%, but an AI law firm this young is too early to judge.",
   "distance_sources": [
    {
     "label": "Lux: backing Crosby (100+ customers, feedback loop)",
@@ -10513,9 +10641,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Books jobs straight into contractors' CRMs across 800+ firms; voice-agent rivals are multiplying.",
+  "distance_why": "Eight-figure ARR across 800+ home-service firms, booking jobs straight into their CRMs; voice rivals multiplying.",
   "distance_sources": [
    {
     "label": "Avoca: $125M+ at $1B valuation release",
@@ -10554,9 +10682,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Network",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "240% net retention and zero churn, but model labs sell competing agent workspaces.",
+  "distance_why": "3,000+ organizations, ARR past $20M and zero churn in 2025; model labs sell competing agent workspaces.",
   "distance_sources": [
    {
     "label": "Dust: $40M Series B release (240% NRR, zero churn)",
@@ -10595,9 +10723,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
-  "distance": "Half",
-  "distance_why": "Becomes the place security teams track every fix; retention isn't public yet.",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Dozens of Fortune 1000 customers in six months, but too early to judge in a crowded security market.",
   "distance_sources": [
    {
     "label": "Cogent: $42M Series A (Feb 2026)",
@@ -10638,7 +10766,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Fast revenue from small businesses, but retention is undisclosed and rivals abound.",
+  "distance_why": "$120M run rate and 200,000+ paying users, but trails Lovable among many app-builder rivals.",
   "distance_sources": [
    {
     "label": "Emergent: $130M Series C (Jul 2026)",
@@ -10682,8 +10810,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
-  "distance": "10K",
-  "distance_why": "Award-winning and growing fast, but only about 30 customers in a crowded field.",
+  "distance": "Unproven",
+  "distance_why": "Award-winning and growing fast, but only about 30 customers so far.",
   "distance_sources": [
    {
     "label": "Geordie: $30M Series A (May 2026)",
@@ -10722,9 +10850,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Embedded clinicians wire it into health plans' reviews; retention figures aren't public.",
+  "distance_why": "Serves health plans covering 50M lives, with clinicians embedded in their review workflows.",
   "distance_sources": [
    {
     "label": "Anterior: $40M round (Feb 2026)",
@@ -10765,7 +10893,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
   "distance": "10K",
-  "distance_why": "Thousands of customers, but candidate search is easy to copy.",
+  "distance_why": "5,000+ customers and ARR tripled, but candidate search is crowded and easy to copy.",
   "distance_sources": [
    {
     "label": "Juicebox: $80M Series B (Mar 2026)",
@@ -10804,9 +10932,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
-  "distance": "Half",
-  "distance_why": "Banks add lending and disputes agents to support; still runs on rented models.",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Reaches 32M end users via Wise and Monzo, but bigger support-AI rivals compete for the same banks.",
   "distance_sources": [
    {
     "label": "Gradient Labs: $26M Series A (Jun 2026)",
@@ -10847,7 +10975,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "None yet",
   "distance": "Unproven",
-  "distance_why": "Early wins at CPA firms; staying power not yet visible.",
+  "distance_why": "Early wins at 50+ CPA firms; too early to judge.",
   "distance_sources": [
    {
     "label": "AI Journal: Accordance joins BDO Alliance (Feb 2026)",
@@ -10887,8 +11015,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "10K",
-  "distance_why": "A CRM is hard to leave, but it's early and incumbents are adding AI.",
+  "distance": "Unproven",
+  "distance_why": "Series A with no adoption figures public; too early to judge against incumbent CRMs.",
   "distance_sources": [
    {
     "label": "Day AI: Series A and GA (Feb 2026)",
@@ -10929,7 +11057,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "None yet",
   "distance": "Unproven",
-  "distance_why": "Seed-stage with fast early growth; staying power not yet visible.",
+  "distance_why": "Seed-stage with no public adoption figures; too early to judge.",
   "distance_sources": [
    {
     "label": "HomeCare: Claim Health $4.4M seed (Jan 2026)",
@@ -10970,7 +11098,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Reusable team workflows add stickiness, but the models are rented.",
+  "distance_why": "Used by brands like Nike, but many AI creative canvases compete for the same teams.",
   "distance_sources": [
    {
     "label": "FLORA: $42M Series A (Jan 2026)",
@@ -11010,8 +11138,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Once the monthly close runs on Stacks, switching hurts; retention isn't public yet.",
+  "distance": "Unproven",
+  "distance_why": "Series A with no adoption figures public; too early to judge against established close software.",
   "distance_sources": [
    {
     "label": "Stacks: $23M Series A (Feb 2026)",
@@ -11050,9 +11178,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Scale + Data",
-  "distance": "10K",
-  "distance_why": "Its lab produces unique data, but few paying partners and costly hardware.",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Robotic labs with a Genentech collaboration, but few paying partners yet.",
   "distance_sources": [
    {
     "label": "Medra: AI Experimentalist and DARPA (Jun 2026)",
@@ -11101,8 +11229,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "None yet",
-  "distance": "Unproven",
-  "distance_why": "Revenue collapsed once disputed features were removed; no lasting edge visible.",
+  "distance": "10K",
+  "distance_why": "Revenue fell sharply after a cookie-stuffing scandal forced it to disable features.",
   "distance_sources": [
    {
     "label": "Quartz: Phia cookie stuffing (Aug 2026)",
@@ -11142,8 +11270,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Most customers run several compliance modules; still early, with revenue undisclosed.",
+  "distance": "Unproven",
+  "distance_why": "Early Series A with revenue undisclosed; too early to judge in RIA compliance.",
   "distance_sources": [
    {
     "label": "Hadrius: $22M Series A (Jul 2026)",
@@ -11183,8 +11311,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Runs core insurer back-office work, but depends on others' models.",
+  "distance": "Unproven",
+  "distance_why": "Runs insurer back-office work, but adoption figures are not public; too early to judge.",
   "distance_sources": [
    {
     "label": "Emergence: Pace $46M Series B (May 2026)",
@@ -11228,20 +11356,8 @@
   "distance_why": "Leads the new synthetic-user category with CVS, Deloitte and Gallup as customers, though close rivals exist.",
   "distance_sources": [
    {
-    "label": "Bain Capital Ventures, Jul 2026: CVS program on 2.9M responses from 400K+ people; revenue 5x",
-    "url": "https://baincapitalventures.com/insight/the-human-layer-of-ai-why-we-re-continuing-to-invest-in-simile/"
-   },
-   {
-    "label": "The Next Web, Jul 2026: accuracy figures are Simile's own; rivals Helm, Artificial Societies, Aaru",
-    "url": "https://thenextweb.com/news/simile-200-million-agentic-twins-ai-market-research"
-   },
-   {
-    "label": "Startup Fortune, Jul 2026: valuation outpaces disclosed revenue",
-    "url": "https://startupfortune.com/simile-raises-200-million-at-a-2-billion-valuation-to-replace-focus-groups-with-ai-simulated-humans/"
-   },
-   {
-    "label": "Ashby board: Deployment Strategist roles (ops sits in deployment)",
-    "url": "https://jobs.ashbyhq.com/simile"
+    "label": "Simile: Series B (Jul 2026)",
+    "url": "https://simile.ai/blog/series-b"
    }
   ]
  },
@@ -11283,7 +11399,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Huge revenue pace, but most of its video engines belong to others.",
+  "distance_why": "Huge revenue pace, but it mostly packages others' video models, and Forbes reported misleading marketing.",
   "distance_sources": [
    {
     "label": "Higgsfield: $1B run rate (Sep 2026)",
@@ -11328,7 +11444,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "None yet",
   "distance": "Unproven",
-  "distance_why": "Big health-system names are just starting; staying power not yet visible.",
+  "distance_why": "Big health-system names are just starting; too early to judge.",
   "distance_sources": [
    {
     "label": "Translucent: $27M Series A (Mar 2026)",
@@ -11369,7 +11485,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Wired into big brokerages' systems; retention numbers aren't public.",
+  "distance_why": "Used by about a quarter of the top 100 brokerages; revenue up 10x in 2025.",
   "distance_sources": [
    {
     "label": "Insurance Business: Fulcrum $25M (Jan 2026)",
@@ -11409,8 +11525,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
-  "distance": "10K",
-  "distance_why": "Strong customers, but agent monitoring is crowded and easy to copy.",
+  "distance": "Unproven",
+  "distance_why": "Series A with no adoption figures public in a crowded agent-monitoring field.",
   "distance_sources": [
    {
     "label": "Raindrop: Series A (Sep 2026)",
@@ -11451,7 +11567,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Strong DoorDash deployment, but support agents are crowded and retention is undisclosed.",
+  "distance_why": "Strong DoorDash deployment, but bigger support-AI rivals crowd the category.",
   "distance_sources": [
    {
     "label": "Giga: Series A announcement (Nov 2025)",
@@ -11492,7 +11608,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "Unproven",
-  "distance_why": "Aims to be in-house legal's system of record; too young to show retention.",
+  "distance_why": "Aims to be in-house legal's system of record; too young to judge.",
   "distance_sources": [
    {
     "label": "TechCrunch: Sandstone raises $30M Series A (Jun 2026)",
@@ -11531,9 +11647,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Network + Data",
-  "distance": "10K",
-  "distance_why": "Two-sided network grows fast, but no data yet on interviews becoming hires.",
+  "engine": "Network",
+  "distance": "Unproven",
+  "distance_why": "Candidate network grew 10x to 350,000, but no data yet on hires; too early.",
   "distance_sources": [
    {
     "label": "TNW: Jack & Jill $40M Series A (Sep 2026)",
@@ -11572,9 +11688,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
-  "distance": "Half",
-  "distance_why": "Holds firms' compliance books and records across six products; retention not yet public.",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Early Series A with a Kroll partnership but no adoption figures public.",
   "distance_sources": [
    {
     "label": "Greenboard: product suite",
@@ -11615,7 +11731,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "None yet",
   "distance": "Unproven",
-  "distance_why": "World-class AlphaChip team, but pre-revenue with no named customers yet.",
+  "distance_why": "Pre-revenue with no named customers yet, despite a $300M Series A.",
   "distance_sources": [
    {
     "label": "TechCrunch: How Ricursive raised $335M (Feb 2026)",
@@ -11654,9 +11770,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Scale + Lock-in",
-  "distance": "10K",
-  "distance_why": "Huge scale and sticky custom models, but rivals sell the same inference.",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "A top-two independent inference cloud at $1B+ ARR, up ~5x a year; Together and Baseten close behind.",
   "distance_sources": [
    {
     "label": "Fireworks: Series D and $1B ARR (Jul 2026)",
@@ -11665,6 +11781,10 @@
    {
     "label": "Signals Inbox: Is Fireworks AI worth $17.5B? (Jul 2026)",
     "url": "https://signalsinbox.com/blogs/news/ai-infrastructure-fireworks-ai-overvalued"
+   },
+   {
+    "label": "New Market Pitch: AI cloud, which startup is ahead? (Jul 2026)",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-ai-cloud-startup"
    }
   ]
  },
@@ -11699,9 +11819,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Network",
-  "distance": "Half",
-  "distance_why": "Default backend for AI-built apps, but growth runs through other companies' coding tools.",
+  "engine": "Lock-in",
+  "distance": "Marathon",
+  "distance_why": "Leading open-source Postgres backend with ~10M developers; apps' data lives there, so they rarely leave.",
   "distance_sources": [
    {
     "label": "Supabase: Series F (Jun 2026)",
@@ -11745,8 +11865,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
-  "distance": "10K",
-  "distance_why": "Users stick and it built its own speech model, but OS makers ship dictation free.",
+  "distance": "Half",
+  "distance_why": "Leading AI dictation app, revenue up 150%+ a quarter, 10k+ enterprises; free built-in OS dictation is the risk.",
   "distance_sources": [
    {
     "label": "Wispr: Our Series B (Aug 2026)",
@@ -11835,8 +11955,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
-  "distance": "10K",
-  "distance_why": "$1.15B in bookings, but inference is crowded and growth needs ever more capital.",
+  "distance": "Half",
+  "distance_why": "Close #2 independent inference cloud with $1.15B+ bookings and customers like Cursor; capital-hungry, crowded field.",
   "distance_sources": [
    {
     "label": "Business Wire: Together AI $800M Series C (Jul 2026)",
@@ -11845,6 +11965,10 @@
    {
     "label": "Signals Inbox: Fireworks vs Together comparison (Jul 2026)",
     "url": "https://signalsinbox.com/blogs/news/ai-infrastructure-fireworks-ai-overvalued"
+   },
+   {
+    "label": "New Market Pitch: AI cloud, which startup is ahead? (Jul 2026)",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-ai-cloud-startup"
    }
   ]
  },
@@ -11881,7 +12005,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "Half",
-  "distance_why": "$140B+ signed backlog, but most capacity is still unbuilt and capital-hungry.",
+  "distance_why": "A leading AI data-center builder with $140B+ contracted, but most capacity is still unbuilt.",
   "distance_sources": [
    {
     "label": "Crusoe: $3.9B Series F (Sep 2026)",
@@ -11924,9 +12048,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Scale + Network",
-  "distance": "10K",
-  "distance_why": "Fast, broad model marketplace, but it resells others' models on rented compute.",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "Leading generative-media inference platform at $400M ARR; image and video rivals are smaller.",
   "distance_sources": [
    {
     "label": "Sacra: Fal.ai revenue, valuation & funding",
@@ -11967,7 +12091,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Apps built and hosted on Replit tend to stay, but it rents rivals' models.",
+  "distance_why": "A top AI app builder with ~$525M ARR and 60M+ users; apps hosted there tend to stay.",
   "distance_sources": [
    {
     "label": "TechCrunch: Amjad Masad at StrictlyVC (May 2026)",
@@ -12015,9 +12139,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Scale + Lock-in",
-  "distance": "Half",
-  "distance_why": "Coding and enterprise lead is real, but it rents costly compute from rivals.",
+  "engine": "Scale",
+  "distance": "Marathon",
+  "distance_why": "Top-two AI lab with ~$65B revenue run-rate, leading in coding and enterprise; copyright and compute costs are risks.",
   "distance_sources": [
    {
     "label": "VentureBeat: Anthropic $30B run rate, Claude Code (May 2026)",
@@ -12056,9 +12180,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Network",
-  "distance": "Half",
-  "distance_why": "Next.js makes it the default host for agent apps, but agents pick hosts.",
+  "engine": "Lock-in",
+  "distance": "Marathon",
+  "distance_why": "Default frontend host via Next.js, ~$600M annualized revenue growing ~148% a year, far ahead of Netlify.",
   "distance_sources": [
    {
     "label": "Dealroom/The Information: Vercel $600M annualized (Oct 2026)",
@@ -12097,9 +12221,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Network + Lock-in",
+  "engine": "Network",
   "distance": "Half",
-  "distance_why": "Viral, sticky network layer that AI agents now pick by default; near profitable.",
+  "distance_why": "Popular WireGuard networking with ~40k paying businesses and sales doubling; Cloudflare and Zscaler loom larger.",
   "distance_sources": [
    {
     "label": "BetaKit: Tailscale nears 40,000 paid business customers (Jul 2026)",
@@ -12138,9 +12262,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Lock-in",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "Customers' petabytes live on its platform, hard to move; rivals are big.",
+  "distance_why": "Strong player in physical-AI data, 300+ teams incl. Toyota, revenue 10x; bigger data rivals exist.",
   "distance_sources": [
    {
     "label": "Encord: $60M Series C (Feb 2026)",
@@ -12184,9 +12308,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Scale + Data",
-  "distance": "Half",
-  "distance_why": "Massive user base and fast enterprise growth, offset by enormous planned burn.",
+  "engine": "Scale",
+  "distance": "Marathon",
+  "distance_why": "Top-two AI lab with ChatGPT's huge user base and ~$50B run-rate; very heavy planned spending.",
   "distance_sources": [
    {
     "label": "explainx: OpenAI ~$50B run rate, claimed vs verified (Oct 2026)",
@@ -12225,9 +12349,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Lock-in",
+  "engine": "Data",
   "distance": "10K",
-  "distance_why": "Own security models are a real edge, but labs can build code security themselves.",
+  "distance_why": "Early, 20+ customers, in AI code security where AI labs also sell security tools.",
   "distance_sources": [
    {
     "label": "depthfirst: $80M Series B and dfs-mini1 (Mar 2026)",
@@ -12268,7 +12392,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Smart GPU brokerage growing fast, but inference is crowded and capacity is rented.",
+  "distance_why": "Growing fast, but a small player in crowded inference behind Fireworks and Together.",
   "distance_sources": [
    {
     "label": "TechCrunch: Parasail raises $32M (Apr 2026)",
@@ -12309,7 +12433,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Profitable with a broad base, but GPU cloud is capital-hungry and commoditizing.",
+  "distance_why": "Profitable, but an independent cloud behind hyperscalers and bigger GPU clouds.",
   "distance_sources": [
    {
     "label": "CNBC via NBC Miami: Vultr raises $329M debt, says profitable (Jun 2025)",
@@ -12350,7 +12474,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "A hard-to-build testing hypervisor that critical systems rely on; few public metrics.",
+  "distance_why": "Created deterministic simulation testing; relied on by Jane Street and Ethereum, ~40 clients.",
   "distance_sources": [
    {
     "label": "PR Newswire: Jane Street leads Antithesis $105M Series A (Dec 2025)",
@@ -12391,7 +12515,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Serves the long tail of open models cheaply, but relies on Hugging Face.",
+  "distance_why": "Small inference player behind bigger rivals; growth leans on Hugging Face.",
   "distance_sources": [
    {
     "label": "Tech.eu: Featherless.ai $20M Series A (Apr 2026)",
@@ -12432,11 +12556,15 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Owns its GPUs and is scaling fast, but open-model inference is a price war.",
+  "distance_why": "$105M ARR growing fast, but behind Fireworks and Together in a price war.",
   "distance_sources": [
    {
     "label": "GlobeNewswire: DeepInfra surpasses $100M ARR (Sep 2026)",
     "url": "https://www.globenewswire.com/news-release/2026/09/29/3370896/0/en/deepinfra-surpasses-100m-arr-triples-token-volume.html"
+   },
+   {
+    "label": "New Market Pitch: AI cloud, which startup is ahead? (Jul 2026)",
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-ai-cloud-startup"
    }
   ]
  },
@@ -12471,9 +12599,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Network",
+  "engine": "Data",
   "distance": "Half",
-  "distance_why": "Huge contact-data network and broad base; moving upmarket with Pocus.",
+  "distance_why": "Major B2B contact-data and prospecting platform with ~100k paying customers and ~$200M ARR.",
   "distance_sources": [
    {
     "label": "Apollo: acquires Pocus (Mar 2026)",
@@ -12514,7 +12642,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Loved by developers and profitable, but email APIs are easy to switch.",
+  "distance_why": "Profitable developer favorite, but email APIs are easy to switch and bigger incumbents lead.",
   "distance_sources": [
    {
     "label": "Resend: 3,000,000 users, profitable (Jun 2026)",
@@ -12562,9 +12690,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Scale + Lock-in",
+  "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Real chip tech and a JPMorgan win, but leans on an investor-backed buyer.",
+  "distance_why": "Real chips, but behind bigger AI chip rivals, with layoffs and a lower valuation.",
   "distance_sources": [
    {
     "label": "EE Times: SambaNova raises $1B, signs JPMorganChase (Jul 2026)",
@@ -12603,9 +12731,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Network + Scale",
+  "engine": "Network",
   "distance": "Half",
-  "distance_why": "Two-sided GPU marketplace that grows itself and is profitable on little capital.",
+  "distance_why": "Profitable two-sided GPU marketplace with 14k paying customers, revenue up 13x.",
   "distance_sources": [
    {
     "label": "Vast.ai: named among fastest-growing vendors by Ramp and Brex (Mar 2026)",
@@ -12644,9 +12772,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
-  "distance": "Half",
-  "distance_why": "Customers keep adding agents, but it runs on rented models in a crowded field.",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Series A with marquee customers like HubSpot, but adoption size is not public yet.",
   "distance_sources": [
    {
     "label": "GetLatka: 1mind CEO interview ($6M ARR, 211% NDR)",
@@ -12690,9 +12818,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Scale",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Huge daily habit and $700M+ revenue, but built-in AI writing tools erode it.",
+  "distance_why": "Category leader in AI writing with 40M+ daily users and $700M+ revenue; built-in AI tools compete.",
   "distance_sources": [
    {
     "label": "Grammarly: $1B growth financing (May 2025)",
@@ -12738,7 +12866,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Deeply embedded in Jira workflows, but lives on Atlassian's platform and terms.",
+  "distance_why": "Major Atlassian app maker used by 25,000+ companies, but it lives on Atlassian's platform.",
   "distance_sources": [
    {
     "label": "Appfire: Inc. 5000 for fourth year (Aug 2026)",
@@ -12784,7 +12912,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Agent-built apps flood in, but hosting is easy to switch and crowded.",
+  "distance_why": "Behind Vercel in web hosting, with shrinking headcount and no funding since 2021.",
   "distance_sources": [
    {
     "label": "Netlify: The end of seats (Apr 2026, best quarter, 40k daily signups)",
@@ -12825,7 +12953,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Cheap, broad model menu, but it resells open models in a crowded market.",
+  "distance_why": "Small, bootstrapped reseller of open models in a crowded inference market.",
   "distance_sources": [
    {
     "label": "PR Newswire: Novita on Ramp top vendors (Mar 2026, 350K developers)",
@@ -12866,7 +12994,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Own hardware cuts costs, but it serves others' models and needs heavy capex.",
+  "distance_why": "200k developers, but behind fal in generative-media inference and needs heavy hardware spend.",
   "distance_sources": [
    {
     "label": "Runware: $50M Series A",
@@ -12905,9 +13033,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Network + Lock-in",
+  "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Popular open-source base and 1,000 paying customers, but vector search is crowded.",
+  "distance_why": "Popular open-source vector database, but one of many in a crowded field.",
   "distance_sources": [
    {
     "label": "TBPN Digest: Chroma Cloud near 1,000 paying customers (Aug 2026)",
@@ -12947,8 +13075,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "10K",
-  "distance_why": "Useful legal front door, but bigger legal AI players can build the same.",
+  "distance": "Unproven",
+  "distance_why": "Small Series A with 1,000+ lawyers using it; too early to judge.",
   "distance_sources": [
    {
     "label": "Streamline AI: in-house legal AI platform launch (Apr 2026)",
@@ -12987,13 +13115,17 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Data + Scale",
-  "distance": "Half",
-  "distance_why": "Huge proprietary SEO datasets power hundreds of tools; depends on scraping Google.",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Niche, bootstrapped SEO data supplier that depends on scraping Google, which is suing scrapers like SerpApi.",
   "distance_sources": [
    {
     "label": "DataForSEO homepage (750+ partners, data figures)",
     "url": "http://dataforseo.com/"
+   },
+   {
+    "label": "Search Engine Journal: Google files DMCA suit targeting SerpApi (Dec 2025)",
+    "url": "https://www.searchenginejournal.com/google-files-dmca-suit-targeting-serpapis-serp-scraping/563847/"
    }
   ]
  },
@@ -13029,8 +13161,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Associations run years of events on it; crowded event-tech field, no retention figures.",
+  "distance": "10K",
+  "distance_why": "Niche event software (~$4M revenue est.) behind bigger event-tech rivals.",
   "distance_sources": [
    {
     "label": "PheedLoop homepage",
@@ -13071,7 +13203,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Cheap, simple data appends, but the data is commodity and widely resold.",
+  "distance_why": "Cheap data appends, but the data is commodity and widely resold.",
   "distance_sources": [
    {
     "label": "Datazapp reviews page (20,000+ users)",
@@ -13119,9 +13251,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Scale + Lock-in",
-  "distance": "Half",
-  "distance_why": "Profitable for nine years at huge scale, but AI tools threaten its core.",
+  "engine": "Scale",
+  "distance": "Marathon",
+  "distance_why": "Design category leader, ~$4B ARR and profitable nine years; growth forecast cut on AI costs.",
   "distance_sources": [
    {
     "label": "Startup Daily: Canva valuation cut, growth and cash (Aug 2026)",
@@ -13160,9 +13292,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Network",
+  "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Open-source BI with real adoption, but AI analysts and BI rivals crowd in.",
+  "distance_why": "Real open-source adoption, but a small player behind bigger BI rivals.",
   "distance_sources": [
    {
     "label": "Lightdash: Zapped 2025 year in review (58k users)",
@@ -13203,7 +13335,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Data",
   "distance": "10K",
-  "distance_why": "Meta now subsidizes it, but Meta could build catalog video itself.",
+  "distance_why": "Small ad-creative tool reliant on Meta, which could build the same itself.",
   "distance_sources": [
    {
     "label": "Marpipe: Meta is subsidizing Marpipe (Sep 2026)",
@@ -13242,9 +13374,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Scale + Network",
+  "engine": "Network",
   "distance": "10K",
-  "distance_why": "Real recurring revenue and talent hubs, but nearshore staffing has many lookalikes.",
+  "distance_why": "~$50M recurring revenue, but nearshore staffing has many lookalikes.",
   "distance_sources": [
    {
     "label": "Young and Profiting: Howdy at $50M recurring revenue (Sep 2026)",
@@ -13290,7 +13422,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "None yet",
   "distance": "10K",
-  "distance_why": "Well-loved, cheaper crawler, but crawlers are easy to copy and the team shrank.",
+  "distance_why": "Well-loved crawler, but behind bigger SEO tools and the team shrank.",
   "distance_sources": [
    {
     "label": "Sitebulb Cloud page (5,000+ SEOs)",
@@ -13329,9 +13461,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Category pioneer, but cut 30% of staff while data platforms build it in.",
+  "distance_why": "Data observability pioneer, but cut ~30% of staff and has no funding since 2022.",
   "distance_sources": [
    {
     "label": "AIimpacted: Monte Carlo cut 30% of team (Mar 2026)",
@@ -13399,9 +13531,9 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026",
-  "engine": "Lock-in + Scale",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Hard-to-move databases and a fast-growing Postgres line; still rents AWS and GCP.",
+  "distance_why": "Strong managed MySQL leader with thousands of new Postgres customers; databases are hard to move.",
   "distance_sources": [
    {
     "label": "PlanetScale: Introducing Neki (Sep 2026)",
@@ -13454,8 +13586,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "System of record for bookings, client history, medspa charts and payments; switching is painful, but no retention figure is public and Zenoti, Fresha and Mindbody compete hard",
+  "distance": "10K",
+  "distance_why": "Fast-growing, ~15% of US medspas, but trails Zenoti, Mindbody and Fresha, with repeated layoffs.",
   "distance_sources": [
    {
     "label": "TechCrunch, Jul 2025: ~$5B payments, ~15% of US medspas, rivals",
@@ -13529,7 +13661,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "10K",
-  "distance_why": "Depot, repair and fleet density plus in-house bikes and software give a cost edge, but it is capital-heavy, debt-funded, and its demand rides on gig platforms and immigration policy",
+  "distance_why": "Small, debt-funded e-bike fleet; demand rides on gig platforms and immigration policy.",
   "distance_sources": [
    {
     "label": "Zag Daily, Oct 2025: 9 locations, 3,000 repairs/mo, own ERP and bikes",
@@ -13598,8 +13730,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "System of record for the shop (calendar, payments, payouts, client data) makes switching painful, but crowded rivals and no new equity since 2021 cap it",
+  "distance": "10K",
+  "distance_why": "20,000 barbershops, but crowded rivals, layoffs and no new equity since 2021.",
   "distance_sources": [
    {
     "label": "YesPress: switching costs include clients, reviews, payment histories; rivals Booksy, Square, Vagaro, theCut",
@@ -13647,8 +13779,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
-  "distance": "10K",
-  "distance_why": "Embeds into payment providers' stacks through one API, but leans on partners' licenses and rails, launched only in Mar 2026, and Circle or Stripe could ship the same tooling.",
+  "distance": "Unproven",
+  "distance_why": "Launched March 2026 with a $20M Series A; too early to judge.",
   "distance_sources": [
    {
     "label": "FinanceFeeds: Cyclops raised $20M (Jul 2026)",
@@ -13693,7 +13825,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
   "distance": "Half",
-  "distance_why": "Licenses across the US, UK, EU, UAE and India plus its own FX desk and 100+ fintech clients are hard to copy; razor-thin spreads and Stripe/Bridge competition cap pricing power.",
+  "distance_why": "$80B+ annualized volume, 100+ fintech clients and multi-country licenses; Stripe/Bridge competes.",
   "distance_sources": [
    {
     "label": "OpenFX Head of People job post (licenses, team)",
@@ -13759,7 +13891,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Sticky once wired into CRM and product data, but no retention figures are public, stickiness is weak where adoption is low, and CRMs and AI tools crowd the category.",
+  "distance_why": "Behind bigger customer-success rivals, with near-frozen hiring and no funding since 2023.",
   "distance_sources": [
    {
     "label": "Arbolus: Vitally customer reviews (NPS 54, Sep 2026)",
@@ -13825,7 +13957,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Network",
   "distance": "Half",
-  "distance_why": "Two-sided marketplace (1M+ workers, 6,500+ workplaces) with local liquidity and new lines (dental, hospitals); but its contractor model faces lawsuits and state laws, and it left New York rather than comply",
+  "distance_why": "Large shift marketplace with 1M+ workers and 6,500+ workplaces; contractor-model lawsuits are a risk.",
   "distance_sources": [
    {
     "label": "LinkedIn company page (workplaces, workers, headcount growth)",
@@ -13899,7 +14031,7 @@
   "last_checked": "Oct 13, 2026",
   "engine": "Network",
   "distance": "10K",
-  "distance_why": "Big Pal network (~100k onboarded) is real, but health plans walked away after 2023 safety reports, it depends on Medicare Advantage extra-benefit budgets, and the new consumer arm is untested",
+  "distance_why": "Large companion network, but lost insurer contracts and keeps shrinking headcount.",
   "distance_sources": [
    {
     "label": "Refresh Miami, Pal network and DTC launch, Aug 2026",
