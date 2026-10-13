@@ -16736,5 +16736,80 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Remote",
+  "slug": "remote",
+  "site": "https://remote.com",
+  "careers_url": "https://remote.com/openings",
+  "what_they_do": "Global payroll, employer of record and contractor payments for hiring and paying people in 150+ countries",
+  "problem": "Hiring and paying people abroad means local entities, tax and labor-law compliance, and many disconnected payroll vendors",
+  "industry": "HR tech / global payroll",
+  "stage": "Series C",
+  "last_round": "$300M",
+  "last_round_date": "Apr 2022",
+  "lead_investors": "SoftBank Vision Fund 2 (Accel, Sequoia, Index, Two Sigma, General Catalyst participating)",
+  "total_open_roles": "48",
+  "ops_roles": "Lifecycle Operations Lead (HR Process and System Specialist) - EMEA; HR AI & Automation Operations Lead - Benefits; Manager, Lifecycle Time & Attendance - AMER; Onboarding Operations Specialist; Global Payroll Implementation Specialist",
+  "hiring_trend": "Flat, ~2,000 staff since 2023; 2026 hiring plans cut as AI lifted revenue per employee 50%; 48 open roles",
+  "headcount": "~2,000",
+  "latest_news": "Rebranded as 'financial operating system for the global workforce'; largest-ever brand campaign",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/remote-introduces-new-brand-identity-for-the-next-chapter-of-global-workforce-finance-302906202.html",
+  "traction": "$300M+ ARR and cash-flow positive (May 2026); payroll business +300% YoY (company claim)",
+  "red_flags": "Secondary-market estimate values it ~$1.5B, ~49% below its $3B 2022 round, with no new primary round since; employee-reported layoff of ~40 (Jan 2025) and 2026 Glassdoor reviews describing overnight/silent layoffs, high turnover and 3 CROs in 3 years",
+  "red_flags_sources": [
+   {
+    "label": "TrueUp: secondary valuation $1.5B, down 49% (Notice.co est., Oct 2026)",
+    "url": "https://www.trueup.io/co/remote"
+   },
+   {
+    "label": "Notice.co: Remote secondary pricing (Oct 2026)",
+    "url": "https://notice.co/c/remote"
+   },
+   {
+    "label": "TrueUp layoffs tracker: ~40 cut Jan 2025",
+    "url": "https://www.trueup.io/co/remote/layoffs"
+   },
+   {
+    "label": "Glassdoor review, Jul 2026: 'Layoffs happen overnight'",
+    "url": "https://www.glassdoor.com.au/Reviews/Employee-Review-Remote-E3871683-RVW104677229.htm"
+   },
+   {
+    "label": "Glassdoor review, Jun 2026: '3 CROs in 3 years'",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Remote-E3871683-RVW104361347.htm"
+   },
+   {
+    "label": "Glassdoor reviews mentioning 'layoff'",
+    "url": "https://www.glassdoor.ca/Reviews/Remote-layoff-Reviews-EI_IE3871683.0,6_KH7,13.htm"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.3",
+  "glassdoor_reviews": "626",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Remote-Reviews-E3871683.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Strong #2 in global payroll/EOR at $300M+ ARR and cash-flow positive, embedded by Workday, BambooHR and Personio, but about a fifth of Deel's size.",
+  "distance_sources": [
+   {
+    "label": "Remote: $300M ARR, cash-flow positive, payroll +300% (May 2026)",
+    "url": "https://remote.com/news/remotes-modern-payroll-platform-surpasses-300-growth-fueling-ambitious-next-chapter-as-the-leading-global-employment-infrastructure"
+   },
+   {
+    "label": "TechCrunch: Remote revenue per employee +50% (May 2026)",
+    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/"
+   },
+   {
+    "label": "Remote x isolved EOR partnership (Jun 2026)",
+    "url": "https://www.morningstar.com/news/pr-newswire/20260626cn93126/remote-partners-with-isolved-to-unlock-compliant-global-hiring-for-200000-us-employers"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
