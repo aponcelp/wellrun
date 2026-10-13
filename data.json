@@ -18860,5 +18860,97 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "ChowNow",
+  "slug": "chownow",
+  "site": "https://www.chownow.com",
+  "careers_url": "https://jobs.lever.co/chownow",
+  "what_they_do": "Commission-free online ordering, branded apps and marketing for independent restaurants",
+  "problem": "Independent restaurants lose 15-30% per order to delivery apps and never own their diner data",
+  "industry": "Restaurant tech / online ordering",
+  "stage": "Series C",
+  "last_round": "$21M",
+  "last_round_date": "May 2019",
+  "lead_investors": "3L Capital, Catalyst Investors",
+  "total_open_roles": "16",
+  "ops_roles": "Senior Sales & Customer Success Operations Manager; Marketing & Partner Operations Manager; GTM Strategy & Analytics Manager; Senior Revenue Enablement Program Manager",
+  "hiring_trend": "Shrinking: ~251 staff, -11.7% YoY (Revelio, Mar 2026), down from ~430 in 2023; 16 open roles, mostly field sales",
+  "headcount": "~251",
+  "latest_news": "Spring launch: email/text marketing, catering, QR code ordering and new pricing plans",
+  "latest_news_date": "Apr 2026",
+  "latest_news_url": "https://get.chownow.com/blog/whats-new-at-chownow-this-spring-2026",
+  "traction": "20,000+ restaurants and $1B+ gross food sales a year, but growth has stalled (est.)",
+  "red_flags": "Shrinking and repeated layoffs: headcount -41.6% since 2023 and -11.7% YoY (Revelio, Mar 2026); Mar 2024 cut of ~60 alongside the Cuboh deal; Glassdoor reviews from Oct 2025 to Sep 2026 describe layoffs about every 6 months and 'recent lay offs, due to financial and budget cuts'. Leadership churn: reviews say nearly the entire executive team turned over in ~18 months after the Dec 2024 CEO change. Glassdoor 2.2 (down 19% in 12 months), 6% CEO approval, 7% positive outlook. No priced round since 2019. Also a Dec 2025 whistleblower-retaliation suit by a former security engineer (not scored).",
+  "red_flags_sources": [
+   {
+    "label": "Revelio Labs: ChowNow headcount 251, -11.7% YoY (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/chownow/employees"
+   },
+   {
+    "label": "TechCrunch: ChowNow buys Cuboh and lays off staff, Mar 2024",
+    "url": "https://techcrunch.com/2024/03/28/chownow-acquires-yc-backed-point-of-sale-platform-cuboh-and-is-laying-off-staff"
+   },
+   {
+    "label": "Glassdoor ChowNow 'layoff' reviews",
+    "url": "https://www.glassdoor.com/Reviews/ChowNow-layoff-Reviews-EI_IE634359.0,7_KH8,14.htm"
+   },
+   {
+    "label": "Glassdoor review: 'Living life one layoff at a time', Oct 2025",
+    "url": "https://www.glassdoor.co.nz/Reviews/Employee-Review-ChowNow-E634359-RVW100910930.htm"
+   },
+   {
+    "label": "Glassdoor review: constant leadership turmoil, Apr 2026",
+    "url": "https://www.glassdoor.co.nz/Reviews/Employee-Review-ChowNow-E634359-RVW103760883.htm"
+   },
+   {
+    "label": "Glassdoor review: rating down 19% in 12 months, Sep 2026",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-ChowNow-E634359-RVW105629103.htm"
+   },
+   {
+    "label": "MyNewsLA: former security engineer files whistleblower suit, Dec 2025",
+    "url": "https://mynewsla.com/business/2025/12/15/former-chownow-security-engineer-files-whistleblower-suit/"
+   },
+   {
+    "label": "Dealroom: funding history (last round May 2019)",
+    "url": "https://app.dealroom.co/companies/chownow"
+   }
+  ],
+  "score": "0",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "2.2",
+  "glassdoor_reviews": "289",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/ChowNow-Reviews-E634359.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "A long-time name in direct ordering for 20,000+ independents, but faster-growing Owner, Toast and Square crowd it, and it keeps shrinking.",
+  "distance_sources": [
+   {
+    "label": "ChowNow: 20,000+ independent restaurants",
+    "url": "https://www.chownow.com/"
+   },
+   {
+    "label": "Revelio Labs: headcount down 41.6% since 2023",
+    "url": "https://www.reveliolabs.com/companies/chownow/employees"
+   },
+   {
+    "label": "ChowNow guide naming Toast, Square and Olo as alternatives, May 2026",
+    "url": "https://get.chownow.com/blog/online-ordering-platform-for-restaurants/"
+   },
+   {
+    "label": "Bloomberg Law: ChowNow false-ad suit vs Owner.com moves forward, Jan 2026",
+    "url": "https://news.bloomberglaw.com/litigation/chownows-false-advertising-claims-against-rival-move-forward"
+   }
+  ],
+  "hiring_locations": [
+   "Baltimore",
+   "Cleveland",
+   "Columbus",
+   "Remote (Canada)"
+  ]
  }
 ]
