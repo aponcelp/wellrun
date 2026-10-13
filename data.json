@@ -4775,5 +4775,98 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "Lattice",
+  "slug": "lattice",
+  "site": "https://lattice.com",
+  "careers_url": "https://job-boards.greenhouse.io/lattice",
+  "what_they_do": "Performance reviews, goals, engagement surveys and comp planning software for HR teams",
+  "problem": "Companies run reviews, feedback and goals in scattered docs, so managers lack a clear picture of performance",
+  "industry": "HR tech / performance management",
+  "stage": "Series F",
+  "last_round": "$175M",
+  "last_round_date": "Jan 2022",
+  "lead_investors": "Thrive Capital, Tiger Global, Elad Gil, Dragoneer",
+  "total_open_roles": "11",
+  "ops_roles": "",
+  "hiring_trend": "Shrinking: ~10% layoff Nov 2025; LinkedIn headcount 651 → 574 (Oct 2024 → Nov 2025); only 11 open roles",
+  "headcount": "~530",
+  "latest_news": "Acquired performance startup Pando; founder Barbra Gago named Chief Marketing & Strategy Officer",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/lattice-acquires-pando-to-advance-continuous-ai-native-performance-302855048.html",
+  "traction": "Nearly 5,000 customers; no growth figures disclosed; HRIS and payroll products retired in 2026",
+  "red_flags": "~10% layoff in Nov 2025 alongside shutdown of its HRIS and payroll products (payroll ended Mar 2026, HRIS Jul 2026, data deleted Aug 2026); headcount down ~12% YoY on LinkedIn; no primary round since Jan 2022 (Jun 2026 activity was a secondary sale)",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor review, Apr 2026: layoff of ~10% in Nov 2025",
+    "url": "https://www.glassdoor.com/Reviews/Lattice-New-York-City-Reviews-EI_IE1654146.0,7_IL.8,21_IM615.htm"
+   },
+   {
+    "label": "Glassdoor \"layoff\" reviews for Lattice",
+    "url": "https://www.glassdoor.com/Reviews/Lattice-layoff-Reviews-EI_IE1654146.0,7_KH8,14.htm"
+   },
+   {
+    "label": "Calamari, Apr 2026: HRIS/payroll shutdown timeline",
+    "url": "https://www.calamari.io/blog/lattice-hris-is-shutting-down-how-to-migrate-without-the-enterprise-price-tag"
+   },
+   {
+    "label": "Copper Feed, Aug 2026: HRIS shut down, customer data deleted",
+    "url": "https://blog.copperfeed.com/lattice-hris-shutdown-what-now/"
+   },
+   {
+    "label": "Getlatka: LinkedIn headcount 651 (Oct 2024) → 574 (Nov 2025)",
+    "url": "https://getlatka.com/companies/lattice"
+   },
+   {
+    "label": "Unify: observed profiles -9.2% Aug 2025 → Jul 2026",
+    "url": "https://www.unifygtm.com/insights/headcount/lattice"
+   },
+   {
+    "label": "PitchBook: last VC round Jan 2022; secondary transaction Jun 2026",
+    "url": "https://pitchbook.com/profiles/company/155954-35"
+   }
+  ],
+  "score": "0.5",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.5",
+  "glassdoor_reviews": "230",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Lattice-Reviews-E1654146.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "Rippling",
+  "slug": "rippling",
+  "site": "https://www.rippling.com",
+  "careers_url": "https://ats.rippling.com/rippling/jobs",
+  "what_they_do": "One platform for HR, payroll, IT devices and apps, spend and banking, built on employee data",
+  "problem": "Running payroll, benefits, devices, apps and expenses in separate tools means manual work, errors and no single view",
+  "industry": "HR tech / workforce management (HR, IT, finance)",
+  "stage": "Series G",
+  "last_round": "$450M",
+  "last_round_date": "May 2025",
+  "lead_investors": "No lead; Elad Gil, Sands Capital, GIC, Goldman Sachs Alternatives, Baillie Gifford, Y Combinator",
+  "total_open_roles": "609",
+  "ops_roles": "Business Operations Manager; Director, Business Operations; Strategic Operations Lead; Senior Manager, Support Operations",
+  "hiring_trend": "Headcount ~+40% YoY on LinkedIn (~7,000, Sep 2026); 609 open postings (339 unique titles); India team ~2,500 and growing",
+  "headcount": "~7,000",
+  "latest_news": "Opened 132,000 sq ft New York office for 1,000+ staff, citing accelerated growth",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.morningstar.com/news/business-wire/20261008055600/rippling-expands-new-york-city-presence-amid-accelerated-growth",
+  "traction": "Crossed $1B ARR in spring 2026, growing ~78% YoY; 20,000+ customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "1,291",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Rippling-Reviews-E2521509.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
  }
 ]
