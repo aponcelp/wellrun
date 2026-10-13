@@ -16703,8 +16703,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Network",
-  "distance": "Half",
-  "distance_why": "Top-two pure cold-email sender alongside Smartlead, with broad SMB and agency adoption (40,000+ customers, G2 4.8 on ~4,000 reviews) and a 4.2M-account warmup network that grows with every user; but switching costs are low, cheaper rivals are close behind, and its core depends on Gmail and Outlook sending rules (stricter enforcement since 2025, new blocklists aimed at artificial warmup)",
+  "distance": "10K",
+  "distance_why": "A top-two pure cold-email tool with Smartlead, and its 4.2M-inbox warm-up network grows with users. But it depends on Gmail and Outlook sending rules, blocklists target warmed inboxes, and switching costs are low.",
   "distance_sources": [
    {
     "label": "Instantly careers page: 40,000+ clients",
