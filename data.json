@@ -20257,5 +20257,151 @@
    "New York",
    "San Francisco"
   ]
+ },
+ {
+  "name": "Mintlify",
+  "slug": "mintlify",
+  "site": "https://www.mintlify.com",
+  "careers_url": "https://jobs.ashbyhq.com/mintlify",
+  "what_they_do": "AI-native documentation platform that makes product docs readable by developers and AI agents",
+  "problem": "Software companies' docs go stale and can't be found or understood by the AI agents now reading them",
+  "industry": "Developer tools / documentation",
+  "stage": "Series B",
+  "last_round": "$45M",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "Andreessen Horowitz, Salesforce Ventures",
+  "total_open_roles": "13",
+  "ops_roles": "Head of Technical Support",
+  "hiring_trend": "Headcount ~40 (Dec 2025) to ~82 (Sep 2026, Crustdata est.); open roles ~22 (Aug) to 13",
+  "headcount": "~80",
+  "latest_news": "Raised $45M Series B at $500M valuation, led by a16z and Salesforce Ventures",
+  "latest_news_date": "Apr 2026",
+  "latest_news_url": "https://www.mintlify.com/blog/series-b",
+  "traction": "ARR $10.6M (end 2025) to $21.4M (Jul 2026), +326% YoY (Sacra est.); 20,000+ companies",
+  "red_flags": "Minor, not scored: researchers disclosed five platform CVEs in Nov 2025 (critical XSS/RCE, patched within hours, no exploitation found); Discord briefly pulled its Mintlify docs. No layoffs, down round or markdown found.",
+  "red_flags_sources": [
+   {
+    "label": "Mintlify: Security event, Nov 2025 (published Dec 2025)",
+    "url": "https://www.mintlify.com/blog/working-with-security-researchers-november-2025"
+   },
+   {
+    "label": "Researcher write-up: supply-chain XSS affecting Mintlify customers, Dec 2025",
+    "url": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28"
+   },
+   {
+    "label": "NVD: CVE-2025-67846 (Mintlify Platform)",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-67846"
+   }
+  ],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "4.7",
+  "glassdoor_reviews": "11",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Mintlify-Reviews-E9613314.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Leading docs platform for AI and dev-tool companies (20,000+ customers incl. Anthropic, Microsoft; ~150% NRR), overtaking ReadMe, but docs-as-code in Git is portable and GitBook, ReadMe and Fern compete.",
+  "distance_sources": [
+   {
+    "label": "Mintlify: Series B announcement (Apr 2026)",
+    "url": "https://www.mintlify.com/blog/series-b"
+   },
+   {
+    "label": "Sacra: Mintlify at $21.4M ARR, +326% YoY (Aug 2026)",
+    "url": "https://sacra.com/research/mintlify-at-21m-arr-growing-326-yoy"
+   },
+   {
+    "label": "Recode: Mintlify cornering ReadMe's developer base (Aug 2026)",
+    "url": "https://recodenews.com/mintlifys-docs-platform-is-quietly-cornering/"
+   },
+   {
+    "label": "Mintlify Head of GTM: 150% NRR in 2025 (LinkedIn, Jan 2026)",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7412928139846332416"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York"
+  ]
+ },
+ {
+  "name": "HockeyStack",
+  "slug": "hockeystack",
+  "site": "https://www.hockeystack.com",
+  "careers_url": "https://jobs.ashbyhq.com/hockeystack",
+  "what_they_do": "B2B attribution and GTM analytics, now AI revenue agents for enterprise sales teams",
+  "problem": "B2B revenue teams can't see which marketing and sales touches actually create pipeline and closed deals",
+  "industry": "Marketing attribution / revenue intelligence",
+  "stage": "Series A extension (some trackers call it Series B)",
+  "last_round": "Undisclosed (takes total to $50M+)",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "Bessemer Venture Partners (with YC, Uncorrelated)",
+  "total_open_roles": "3",
+  "ops_roles": "Finance Operations & Strategy Associate",
+  "hiring_trend": "Team ~3x to 70+ in 2025; flat in 2026 (Revelio 90 Q4'25 → 91 Q1'26); only 3 open roles",
+  "headcount": "~90",
+  "latest_news": "Co-founder and CRO Emir Atli left to start a new company",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/emircatli_i-have-left-my-role-as-co-founder-and-cro-activity-7500583749827428353-Duyf",
+  "traction": "8-figure ARR and 300+ customers (Apr 2026); Q4 2025 revenue beat all of 2024",
+  "red_flags": "Co-founder/CRO departed Sep 2026 (after early sales leader left Jun 2026) amid a 2026 product reset; hiring cooled to 3 open roles",
+  "red_flags_sources": [
+   {
+    "label": "Emir Atli (co-founder/CRO) departure post, LinkedIn, Sep 2026",
+    "url": "https://www.linkedin.com/posts/emircatli_i-have-left-my-role-as-co-founder-and-cro-activity-7500583749827428353-Duyf"
+   },
+   {
+    "label": "Early sales leader Nate Branscome departure post, LinkedIn, Jun 2026",
+    "url": "https://www.linkedin.com/posts/nbran_ive-wrapped-up-my-time-at-hockeystack-activity-7470141928358100993-DiIX"
+   },
+   {
+    "label": "CEO Buğra Gündüz on 2026 'refactoring season' and simplifying the business, LinkedIn, Sep 2026",
+    "url": "https://www.linkedin.com/posts/bgrgndzz_massive-quarter-coming-for-product-activity-7505674003689259009-mmrG"
+   },
+   {
+    "label": "Revelio Labs headcount: flat in 2026 (90 → 91), sentiment negative and declining",
+    "url": "https://www.reveliolabs.com/companies/hockeystack/employees"
+   },
+   {
+    "label": "Dealroom: team -23.2% YoY, web traffic -41% over 3 months",
+    "url": "https://dealroom.co/companies/hockeystack"
+   }
+  ],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "18",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/HockeyStack-Reviews-E8206589.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Follower in crowded B2B attribution (6sense, Demandbase, Dreamdata) mid-pivot into revenue agents, where Salesforce, Clari and Gong sell to the same buyer.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire, Apr 2026: Revenue Agents launch, 300+ customers",
+    "url": "https://www.prnewswire.com/news-releases/hockeystack-raises-50m-to-build-revenue-agents-for-the-enterprise-302742217.html"
+   },
+   {
+    "label": "Crunchbase competitors: 6sense, Demandbase, Dreamdata",
+    "url": "https://www.crunchbase.com/organization/hockeystack"
+   },
+   {
+    "label": "Piperocket review roundup, Sep 2026: reviewers flag shift from attribution to agentic AI as roadmap risk",
+    "url": "https://piperocket.digital/review/hockeystack-reviews/"
+   }
+  ],
+  "hiring_locations": [
+   "Costa Rica",
+   "San Francisco",
+   "Brazil",
+   "Remote"
+  ]
  }
 ]
