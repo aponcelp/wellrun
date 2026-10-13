@@ -2310,7 +2310,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Customers stay and expand fast, but B2B support rivals are multiplying.",
+  "distance_why": "Customers doubled to 1,500+ in a year with 5x revenue growth, but B2B support rivals are multiplying.",
   "distance_sources": [
    {
     "label": "Growth Unhinged: inside Pylon's GTM motion (May 2025)",
@@ -2350,7 +2350,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Once your books live in Rillet, switching is painful; retention numbers aren't public yet.",
+  "distance_why": "Once a company's books run in Rillet, switching is painful; it raised a $100M Series C.",
   "distance_sources": [
    {
     "label": "Rillet: $100M Series C",
@@ -2390,7 +2390,7 @@
   "red_flags_sources": [],
   "engine": "Data",
   "distance": "10K",
-  "distance_why": "Real workflow depth, but AI engines set the rules and SEO suites copy.",
+  "distance_why": "Real workflow depth, but AI search engines set the rules and SEO suites can copy it.",
   "distance_sources": [
    {
     "label": "Sacra: AirOps revenue and risks (2026)",
@@ -2428,9 +2428,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Network + Scale",
+  "engine": "Network",
   "distance": "Half",
-  "distance_why": "Driver network and distributor routing are deepening; no retention figures published yet.",
+  "distance_why": "Driver network and distributor routing deepen with every delivery, a base rivals would struggle to rebuild.",
   "distance_sources": [
    {
     "label": "Pacific Coast Business Times: Curri profile (Mar 2026)",
@@ -2468,13 +2468,21 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
-  "distance": "Half",
-  "distance_why": "Core loan system takes a year to install and is hard to replace.",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Core loan system is hard to replace, but ICE's Encompass already runs about half of US mortgage lending.",
   "distance_sources": [
    {
     "label": "Vesta: $30M Series B (Oct 2026)",
     "url": "https://www.vesta.com/blog/vesta-raises-30-million-to-scale-its-ai-agents-across-mortgage-lending"
+   },
+   {
+    "label": "The LOS Directory: Encompass profile",
+    "url": "https://thelosdirectory.com/platforms/encompass"
+   },
+   {
+    "label": "National Mortgage News: How LOS preferences differ by lender type (Sep 2025)",
+    "url": "https://www.nationalmortgagenews.com/news/how-los-preferences-differ-by-mortgage-lender-type"
    }
   ]
  },
@@ -2508,13 +2516,17 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
-  "distance": "Marathon",
-  "distance_why": "It becomes the billing system of record, and customers spend more every year.",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Becomes customers' billing system of record, but Waystar is far bigger: $1.1B revenue, ~30,000 clients.",
   "distance_sources": [
    {
     "label": "Sixth Street: Candid Health Series D",
     "url": "https://sixthstreet.com/investment_announce/candid-health-raises-120m-led-by-sixth-street-growth-to-fuel-autonomous-revenue-cycle-management-in-healthcare/"
+   },
+   {
+    "label": "Waystar: Q4 and FY2025 results (Feb 2026)",
+    "url": "https://www.waystar.com/news/fourth-quarter-and-fiscal-year-2025/"
    }
   ]
  },
@@ -2548,9 +2560,9 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Network + Data",
+  "engine": "Network",
   "distance": "Half",
-  "distance_why": "Verified participant pool took a decade to build; well-funded rivals chase AI labs.",
+  "distance_why": "Verified participant pool took a decade to build; well-funded rivals chase the same AI lab buyers.",
   "distance_sources": [
    {
     "label": "Sacra: Prolific at ~$350M/year (May 2026)",
@@ -2589,12 +2601,16 @@
   "is_new": true,
   "red_flags_sources": [],
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Wired into bank cores, so hard to rip out; still small and early.",
+  "distance": "10K",
+  "distance_why": "Wired into bank cores and hard to rip out, but trails MANTL, which Alkami bought for $400M.",
   "distance_sources": [
    {
     "label": "Business Wire: Stearns Bank selects Prelim (Apr 2026)",
     "url": "https://www.businesswire.com/news/home/20260402631747/en/Stearns-Bank-Advances-Omnichannel-Transformation-with-Prelim-Account-Opening"
+   },
+   {
+    "label": "TechCrunch: Alkami is buying Mantl for $400M (Feb 2025)",
+    "url": "https://techcrunch.com/2025/02/28/alkami-is-buying-fintech-mantl-for-400-million/"
    }
   ]
  },
@@ -2668,9 +2684,9 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Scale + Lock-in",
+  "engine": "Scale",
   "distance": "Half",
-  "distance_why": "Profitable with a broad SMB base; new card could deepen lock-in.",
+  "distance_why": "Profitable with a broad SMB base; its new corporate card could deepen lock-in.",
   "distance_sources": [
    {
     "label": "This Week in Fintech: Engine launches corporate card (Mar 2026)",
@@ -2710,7 +2726,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Content lives in its backend, so switching is costly; no retention figures shared.",
+  "distance_why": "Content lives in its backend, so switching is costly for the teams that build on it.",
   "distance_sources": [
    {
     "label": "CMSWire: Sanity CEO on the future of CMS (Jul 2026)",
@@ -2788,7 +2804,7 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Lock-in + Scale",
+  "engine": "Lock-in",
   "distance": "Half",
   "distance_why": "Payroll embedded inside partners is hard to swap; embedded rivals are circling.",
   "distance_sources": [
@@ -2828,9 +2844,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Hiring system of record with broad, fast-growing base; retention not yet published.",
+  "distance_why": "Hiring system of record for a broad, fast-growing customer base; hard to replace once embedded.",
   "distance_sources": [
    {
     "label": "Ashby: Ashby One 2026 keynote (May 2026)",
@@ -2909,12 +2925,16 @@
   "is_new": false,
   "red_flags_sources": [],
   "engine": "Network",
-  "distance": "10K",
-  "distance_why": "Profitable at huge scale, but general AI tools can draft decks too.",
+  "distance": "Half",
+  "distance_why": "Profitable AI-native presentation leader per Sacra, past $100M ARR, though AI labs now make slides too.",
   "distance_sources": [
    {
     "label": "The Next Web: How Gamma built a profitable empire (Aug 2026)",
     "url": "https://thenextweb.com/news/gamma-grant-lee-profitable-ai-startup"
+   },
+   {
+    "label": "Sacra: Gamma vs Anthropic (Nov 2025)",
+    "url": "https://sacra.com/research/gamma-vs-anthropic/"
    }
   ]
  },
@@ -2950,7 +2970,7 @@
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "API-first fans love it, but bigger rivals sell the same inbox.",
+  "distance_why": "API-first fans love it, but bigger rivals sell the same support inbox.",
   "distance_sources": [
    {
     "label": "Recode: Plain vs Intercom (Sep 2026)",
@@ -2989,12 +3009,16 @@
   "is_new": false,
   "red_flags_sources": [],
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Once it owns your filings, switching is painful; still early and unproven.",
+  "distance": "10K",
+  "distance_why": "Owns customers' filings, but Avalara dominates sales tax; roughly half of Taxwire's customers switched from it.",
   "distance_sources": [
    {
     "label": "AlleyWatch: Taxwire raises $25M (Jun 2026)",
     "url": "https://www.alleywatch.com/2026/06/taxwire-ai-sales-tax-compliance-vat-automation-platform-andrew-rea/"
+   },
+   {
+    "label": "Taxwire: Best sales tax compliance software in 2026",
+    "url": "https://www.taxwire.com/blog/best-sales-tax-compliance-software"
    }
   ]
  },
@@ -3028,9 +3052,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Custom models on customer calls stick in regulated centers; suites are closing in.",
+  "distance_why": "Custom models on customer calls stick in regulated contact centers; suites are closing in.",
   "distance_sources": [
    {
     "label": "GTMLens: Cresta deep dive (May 2026)",
@@ -3108,7 +3132,7 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
   "distance_why": "Core servicing system is hard to rip out, but most contracts go live in 2027.",
   "distance_sources": [
@@ -3149,12 +3173,20 @@
   "is_new": false,
   "red_flags_sources": [],
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Finance models built inside it are sticky; no retention figures published.",
+  "distance": "10K",
+  "distance_why": "Finance models built inside it are sticky, but Pigment and Anaplan are bigger, broader planning rivals.",
   "distance_sources": [
    {
     "label": "Abacum: launch of Abacum Intelligence (Apr 2026)",
     "url": "http://abacum.ai/newsroom/abacum-rethinks-ai-for-finance-with-the-launch-of-abacum-intelligence-a-platform-wide-intelligence-layer"
+   },
+   {
+    "label": "Bolt Consulting: Abacum vs Pigment 2026",
+    "url": "https://boltconsulting.co.uk/compare/abacum-vs-pigment"
+   },
+   {
+    "label": "Bolt Consulting: Abacum vs Anaplan 2026",
+    "url": "https://boltconsulting.co.uk/compare/abacum-vs-anaplan"
    }
   ]
  },
@@ -3188,7 +3220,7 @@
   "keep": "yes (strong brand, enterprise agents; note AI-model company)",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Data + Scale",
+  "engine": "Data",
   "distance": "Half",
   "distance_why": "Agents platform is taking off, but big platforms now ship rival voice models.",
   "distance_sources": [
@@ -3236,7 +3268,7 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Lock-in + Scale",
+  "engine": "Lock-in",
   "distance": "Half",
   "distance_why": "Wired into health systems' front doors, though EHR vendors chase the same ground.",
   "distance_sources": [
@@ -3276,9 +3308,9 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Hard to rip out once wired in, but orchestration is a crowded field.",
+  "distance_why": "Hard to rip out once wired in, but payment orchestration is a crowded field.",
   "distance_sources": [
    {
     "label": "Slash: DEUNA case study (44x TPV growth)",
@@ -3367,12 +3399,20 @@
   "is_new": true,
   "red_flags_sources": [],
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Consent runs through it at big brands, but OneTrust and others fight hard.",
+  "distance": "10K",
+  "distance_why": "Runs consent for 3,500+ brands, but OneTrust is the dominant enterprise suite and TrustArc competes hard.",
   "distance_sources": [
    {
     "label": "Ketch: Paramount switch from OneTrust",
     "url": "https://www.ketch.com/blog/posts/ketch-roi-sdk-maintenance-engineering-paramount"
+   },
+   {
+    "label": "Ketch: OneTrust alternative comparison",
+    "url": "https://www.ketch.com/onetrust-alternative"
+   },
+   {
+    "label": "Privado: OneTrust vs Ketch (Aug 2026)",
+    "url": "https://www.privado.ai/post/onetrust-vs-ketch"
    }
   ]
  },
@@ -3446,13 +3486,21 @@
   "keep": "yes (API product, but business-facing with strong brand and ops roles)",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Lock-in + Network",
-  "distance": "Half",
-  "distance_why": "Payer connections and platform partners compound, though retention figures aren't public yet.",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Modern API clearinghouse, but trails Change Healthcare, which handled nearly 40% of US claims, and Availity.",
   "distance_sources": [
    {
     "label": "Stedi: Series C announcement (Mar 2026)",
     "url": "https://www.stedi.com/blog/series-c"
+   },
+   {
+    "label": "Stedi: $70M Series B announcement (Aug 2025)",
+    "url": "https://www.stedi.com/blog/series-b"
+   },
+   {
+    "label": "Availity: Clearinghouse & trading partner network",
+    "url": "https://www.availity.com/clearinghouse-and-trading-partner-network/"
    }
   ]
  },
@@ -3486,9 +3534,9 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Lock-in",
-  "distance": "10K",
-  "distance_why": "Audit trails suit regulated buyers, but agent platforms are crowded and model-dependent.",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Fast growth from a small base, but too early to judge how widely it is adopted.",
   "distance_sources": [
    {
     "label": "Startup Reporter: Maisa 400% growth (Mar 2026)",
@@ -3575,13 +3623,17 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
-  "distance": "Half",
-  "distance_why": "Teams build their sales systems on it, but CRM giants add AI fast.",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fastest-growing CRM in Ramp's spend data, but Salesforce and HubSpot dominate adoption far ahead of it.",
   "distance_sources": [
    {
     "label": "Attio: Series B announcement",
     "url": "https://attio.com/blog/attio-raises-52m-series-b"
+   },
+   {
+    "label": "Ramp: CRM software market share & growth",
+    "url": "https://ramp.com/vendors/categories/crm"
    }
   ]
  },
@@ -3615,9 +3667,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Network",
-  "distance": "10K",
-  "distance_why": "Loved by developers and embedded in products, but revenue is small and code visible.",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Loved by developers and embedded in products, but revenue is still small; too early to judge.",
   "distance_sources": [
    {
     "label": "tldraw: SDK 4.0 and licensing change",
@@ -3655,9 +3707,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Scale",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Break-even with businesses hosting whole sites, but AI site builders multiply.",
+  "distance_why": "Break-even with businesses hosting whole sites on it, but AI site builders multiply.",
   "distance_sources": [
    {
     "label": "TechCrunch: Framer $2B valuation, $50M ARR",
@@ -3696,12 +3748,16 @@
   "is_new": false,
   "red_flags_sources": [],
   "engine": "Lock-in",
-  "distance": "10K",
-  "distance_why": "Fast and well liked, but support agents are converging and rivals are bigger.",
+  "distance": "Half",
+  "distance_why": "Crossed $100M annualized revenue; clear No. 2 in AI support agents behind a larger Sierra.",
   "distance_sources": [
    {
     "label": "Value Add VC: Decagon $100M ARR (Aug 2026)",
     "url": "https://valueaddvc.com/pulse/decagon-100m-arr-ai-customer-agents-2026"
+   },
+   {
+    "label": "Newcomer: Decagon hit $100M (Aug 2026)",
+    "url": "https://www.newcomer.co/p/decagon-hit-100-million-betting-against"
    }
   ]
  },
@@ -3735,7 +3791,7 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Network",
+  "engine": "Lock-in",
   "distance": "Marathon",
   "distance_why": "Sixteen thousand customers keep adding products, and growth is still accelerating.",
   "distance_sources": [
@@ -3775,9 +3831,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Auditors work in it all day, but it routes work through outside AI models.",
+  "distance_why": "Auditors work in it all day as the operating system for audit and advisory firms.",
   "distance_sources": [
    {
     "label": "Geodesic: why we invested in Fieldguide",
@@ -3856,12 +3912,20 @@
   "is_new": false,
   "red_flags_sources": [],
   "engine": "Lock-in",
-  "distance": "10K",
-  "distance_why": "Growing fast in a crowded field where rival benefits platforms offer the same model.",
+  "distance": "Half",
+  "distance_why": "Serves 5,000+ employers with ~7x revenue growth, a close No. 2 to Take Command in ICHRA.",
   "distance_sources": [
    {
     "label": "TFN: Thatch $108M Series C, competitors",
     "url": "https://techfundingnews.com/unicorn-alert-thatch-raises-108m-from-general-catalyst-and-index-ventures-at-1b-valuation/"
+   },
+   {
+    "label": "Dealroom: Thatch profile",
+    "url": "https://dealroom.co/companies/thatch-"
+   },
+   {
+    "label": "QuoteSweep: Best ICHRA platforms 2026",
+    "url": "https://www.quotesweep.com/blog/best-ichra-platforms"
    }
   ]
  },
@@ -3895,9 +3959,9 @@
   "keep": "yes",
   "is_new": false,
   "red_flags_sources": [],
-  "engine": "Data",
-  "distance": "10K",
-  "distance_why": "Restaurants love it, but AI phone agents are easy to build and plentiful.",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Restaurants like it, but it is early and AI phone agents are plentiful; too soon to judge.",
   "distance_sources": [
    {
     "label": "Obvious Ventures: why we invested in Hostie",
@@ -3936,12 +4000,16 @@
   "is_new": true,
   "red_flags_sources": [],
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Business logic lives in its semantic layer, and it's profitable; retention not yet public.",
+  "distance": "10K",
+  "distance_why": "Business logic lives in its semantic layer, but Power BI and Tableau still dominate BI.",
   "distance_sources": [
    {
     "label": "Business Wire: Omni Series C (Apr 2026)",
     "url": "https://www.businesswire.com/news/home/20260423569749/en/Omni-Raises-Series-C-at-%241.5B-Valuation-Building-the-AI-Analytics-Platform-for-the-Enterprise"
+   },
+   {
+    "label": "ThoughtSpot: Power BI vs Tableau 2026",
+    "url": "https://www.thoughtspot.com/data-trends/business-intelligence/power-bi-vs-tableau"
    }
   ]
  },
@@ -3975,7 +4043,7 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Scale + Data",
+  "engine": "Scale",
   "distance": "Half",
   "distance_why": "Default billing layer for new apps, though Apple and Google set the rules.",
   "distance_sources": [
@@ -4015,9 +4083,9 @@
   "keep": "yes (note: Europe-centric; most roles EU/UK)",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Lock-in",
-  "distance": "10K",
-  "distance_why": "Retail know-how wins expanding contracts, but agent automation is easy to copy.",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Retail know-how is winning expanding contracts, but it is still too early to judge.",
   "distance_sources": [
    {
     "label": "Index Ventures: Duvo $15M seed",
@@ -4055,13 +4123,21 @@
   "keep": "yes (a reported $250M Series D in Aug 2026 is unconfirmed, not scored)",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
-  "distance": "Half",
-  "distance_why": "Big health systems sign long deals, but Epic now ships its own scribe.",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "No. 3 AI scribe with 13% share behind Microsoft and Abridge, and Epic now ships its own.",
   "distance_sources": [
    {
     "label": "Business Insider: Ambience pitch deck and Epic threat",
     "url": "https://www.businessinsider.com/ambience-healthcare-used-this-pitch-deck-to-raise-243-million-2025-8"
+   },
+   {
+    "label": "Becker's: Ambient AI scribes by market share (Oct 2025)",
+    "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/ambient-ai-scribes-by-market-share"
+   },
+   {
+    "label": "STAT: Epic launches AI Charting (Feb 2026)",
+    "url": "https://www.statnews.com/2026/02/04/epic-ai-charting-ambient-scribe-abridge-microsoft"
    }
   ]
  },
@@ -4095,9 +4171,9 @@
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
-  "engine": "Lock-in + Scale",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Licensed plumbing big banks build on, but Stripe and card networks compete.",
+  "distance_why": "Licensed crypto plumbing big banks build on, but Stripe and card networks compete.",
   "distance_sources": [
    {
     "label": "CoinDesk: zerohash raising after Mastercard exit (May 2026)",
@@ -4135,13 +4211,17 @@
   "score": "4.5",
   "zone": "Race",
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
-  "distance": "Half",
-  "distance_why": "Customers keep adding modules, but AI receivables tools are a crowded race.",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Customers keep adding modules, but HighRadius is the established enterprise standard in AR automation.",
   "distance_sources": [
    {
     "label": "Stuut: why we raised the Series B (Oct 2026)",
     "url": "https://www.stuut.ai/blog/why-we-raised-series-b"
+   },
+   {
+    "label": "Stuut: Stuut vs HighRadius 2026",
+    "url": "https://www.stuut.ai/blog/stuut-vs-highradius-complete-platform-comparison-2026"
    }
   ]
  },
@@ -4175,7 +4255,7 @@
   "score": "4.5",
   "zone": "Race",
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "10K",
   "distance_why": "Booking 50K appointments a month; its CRM launched only this October.",
   "distance_sources": [
@@ -4215,7 +4295,7 @@
   "score": "3.75",
   "zone": "Tempo",
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "10K",
   "distance_why": "Hundreds of brands and shared customer memory, but support agents are crowded.",
   "distance_sources": [
@@ -4295,13 +4375,21 @@
   "score": "4.0",
   "zone": "Tempo",
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
-  "distance": "Half",
-  "distance_why": "Runs checkout, payments and inventory for liquor stores; hard to rip out.",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Runs checkout, payments and inventory for liquor stores, but trails established Bottle POS, mPower and Lightspeed.",
   "distance_sources": [
    {
     "label": "AlleyWatch: Santé raises $15M",
     "url": "https://www.alleywatch.com/2026/10/sante-wine-spirits-retail-software-ai-liquor-store-pos-darren-fike/"
+   },
+   {
+    "label": "mPower: mPower vs Santé comparison (Apr 2026)",
+    "url": "https://mpowerbeverage.com/compare-sante"
+   },
+   {
+    "label": "Bottle POS: Best Santé alternatives (Jul 2026)",
+    "url": "https://bottlepos.com/blog/best-sante-alternative-liquor"
    }
   ]
  },
@@ -4386,7 +4474,7 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
   "distance_why": "Runs one in six US apartments, but sits on top of Yardi and RealPage.",
   "distance_sources": [
@@ -4481,9 +4569,9 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "red_flags_sources": [],
-  "engine": "Lock-in + Data",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Many tools on one data layer and zero outbound sales; retention isn't public.",
+  "distance_why": "Many products share one data layer, and it grows without an outbound sales team.",
   "distance_sources": [
    {
     "label": "Sacra: PostHog $58M ARR",
