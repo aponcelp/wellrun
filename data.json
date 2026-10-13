@@ -4294,12 +4294,16 @@
    }
   ],
   "engine": "Lock-in",
-  "distance": "Half",
-  "distance_why": "Holds landlords' books, leases and payments; growth and retention figures aren't public.",
+  "distance": "10K",
+  "distance_why": "Sticky for landlords, but bigger rivals crowd it and recent layoffs add burn risk.",
   "distance_sources": [
    {
     "label": "DoorLoop 2.0 launch release",
     "url": "https://www.prweb.com/releases/doorloop-launches-doorloop-2-0--rebuilding-property-management-software-for-what-comes-next-302903245.html"
+   },
+   {
+    "label": "Glassdoor layoff reviews",
+    "url": "https://www.glassdoor.com/Reviews/DoorLoop-layoff-Reviews-EI_IE6826868.0,8_KH9,15.htm"
    }
   ]
  },
