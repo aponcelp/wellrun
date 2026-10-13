@@ -20187,5 +20187,75 @@
    "San Francisco",
    "Field Based: West"
   ]
+ },
+ {
+  "name": "Graphite",
+  "slug": "graphite",
+  "site": "https://graphite.com",
+  "careers_url": "https://jobs.ashbyhq.com/graphite",
+  "what_they_do": "AI code review, stacked pull requests and merge queue on top of GitHub",
+  "problem": "Code review and merging have become the bottleneck now that AI writes code faster than teams can review it",
+  "industry": "Developer tools / AI code review",
+  "stage": "Acquired (Cursor), post-Series B",
+  "last_round": "$52M",
+  "last_round_date": "Mar 2025",
+  "lead_investors": "Accel",
+  "total_open_roles": "7",
+  "ops_roles": "",
+  "hiring_trend": "Shrinking: team -22.5% to -27.5% YoY (~66-79 staff); 7 open roles, all engineering",
+  "headcount": "~70",
+  "latest_news": "Acquired by Cursor (deal announced Dec 2025); co-founder/CEO Merrill Lutsky left Cursor Jul 2026",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://runtimewire.com/article/merrill-lutsky-leaves-cursor-after-6-5-years-building-graphite",
+  "traction": "Revenue grew 20x in 2024; 500+ companies incl. Shopify, Snowflake, Figma; ~$5M est. ARR",
+  "red_flags": "Headcount down ~22-28% YoY; co-founder/CEO Merrill Lutsky stepped away from Cursor in Jul 2026, seven months after the acquisition",
+  "red_flags_sources": [
+   {
+    "label": "Dealroom: team -22.5% over past year",
+    "url": "https://dealroom.co/companies/graphite-1-5"
+   },
+   {
+    "label": "LinkedIn company page: 66 staff, -27.5% YoY",
+    "url": "https://linkedin.com/company/withgraphite"
+   },
+   {
+    "label": "RuntimeWire, Jul 2026: Merrill Lutsky leaves Cursor",
+    "url": "https://runtimewire.com/article/merrill-lutsky-leaves-cursor-after-6-5-years-building-graphite"
+   },
+   {
+    "label": "Merrill Lutsky on X, Jul 24 2026",
+    "url": "https://x.com/MerrillLutsky/status/2080760754290979016"
+   }
+  ],
+  "score": "0.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Stacked-PR leader, but AI code review is crowded and it now overlaps Cursor's own Bugbot and Origin.",
+  "distance_sources": [
+   {
+    "label": "Cursor blog: Graphite is joining Cursor (Dec 2025)",
+    "url": "https://cursor.com/blog/graphite"
+   },
+   {
+    "label": "Learn Cursor: Graphite reviewer to merge with Bugbot; Origin overlap",
+    "url": "https://www.learncursor.dev/learn/cursor-origin/graphite-acquisition"
+   },
+   {
+    "label": "Tech in Asia: rivals GitHub Copilot, CodeRabbit",
+    "url": "https://www.techinasia.com/news/nvidia-backed-cursor-to-acquire-code-review-platform-graphite"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco"
+  ]
  }
 ]
