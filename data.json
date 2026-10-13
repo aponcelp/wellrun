@@ -17902,5 +17902,68 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Reeco",
+  "slug": "reeco",
+  "site": "https://www.reeco.com",
+  "careers_url": "https://www.comeet.com/jobs/reeco/0A.00D",
+  "what_they_do": "Procure-to-pay software for hotels: purchasing, receiving, inventory, recipes, invoices and payments",
+  "problem": "Hotels order from dozens of suppliers by phone, email and spreadsheets, so spend leaks and invoices pile up",
+  "industry": "Vertical SaaS / hospitality procurement",
+  "stage": "Series A",
+  "last_round": "$15M",
+  "last_round_date": "Jan 2025",
+  "lead_investors": "Aleph",
+  "total_open_roles": "2",
+  "ops_roles": "Senior Customer Success Manager",
+  "hiring_trend": "Flat, ~70–87 staff (Revelio +0.4% YoY); live board down to 2 roles from 5+ earlier in 2026",
+  "headcount": "~75",
+  "latest_news": "Added Dallas Venture Capital as strategic investor (amount undisclosed); targets 2,000 more hotels in 24 months",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://hotelbusiness.com/hb-exclusive-reeco-adds-dallas-venture-capital-as-strategic-investor/",
+  "traction": "1,000+ hotels across 90+ management companies (May 2026), up from 'hundreds' in Jan 2025",
+  "red_flags": "High-churn culture: two of the three most recent Glassdoor reviews (May and Sep 2026) describe constant hiring and firing and no proper HR; Glassdoor 3.1, 55% recommend, career-opportunity rating down 18% in 12 months.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor reviews, May 20 2026 ('revolving door… hiring and firing employees constantly') and Sep 28 2026 ('hiring & firing, no proper HR'); 3.1/5, 55% recommend",
+    "url": "https://www.glassdoor.ca/Reviews/Reeco-Reviews-E8195735.htm"
+   },
+   {
+    "label": "Glassdoor jobs page: career-opportunity rating decreased 18% over last 12 months (Oct 2026)",
+    "url": "https://www.glassdoor.com/Jobs/Reeco-Miami-Jobs-EI_IE8195735.0,5_IL.6,11_IC1154170.htm"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "3.1",
+  "glassdoor_reviews": "7",
+  "glassdoor_url": "https://www.glassdoor.ca/Reviews/Reeco-Reviews-E8195735.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real adoption (~1,000 hotels) and sticky AP/inventory workflows, but a follower: BirchStreet covers ~8,500 locations and 9 of the top 10 hotel brands, with Avendra and Hilton Supply Management as GPO partners",
+  "distance_sources": [
+   {
+    "label": "Ynet, May 2026: $30M raised in total, 1,000+ hotels, 90+ management companies",
+    "url": "https://www.ynetnews.com/business/article/sjdtdcleme"
+   },
+   {
+    "label": "Hotel Business, Oct 2026: DVC strategic investment, plan to add 2,000+ hotels in 24 months",
+    "url": "https://hotelbusiness.com/hb-exclusive-reeco-adds-dallas-venture-capital-as-strategic-investor/"
+   },
+   {
+    "label": "YesPress, Aug 2026: BirchStreet at 8,489 locations, $13B managed spend, 9 of top 10 hotel brands",
+    "url": "https://yespress.io/birchstreet"
+   },
+   {
+    "label": "BirchStreet partners: preferred P2P for Avendra (5,000+ customers) and Hilton Supply Management",
+    "url": "https://birchstreetsystems.com/about-us/partners"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
