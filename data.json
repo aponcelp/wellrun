@@ -5067,5 +5067,54 @@
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 13, 2026"
+ },
+ {
+  "name": "Sanas",
+  "slug": "sanas",
+  "site": "https://www.sanas.ai",
+  "careers_url": "https://ats.rippling.com/sanas/jobs",
+  "what_they_do": "Real-time speech AI that translates accents and languages and removes noise on live calls",
+  "problem": "Contact center agents and callers misunderstand each other over accents, languages and background noise, hurting CX",
+  "industry": "Voice AI / contact center tech",
+  "stage": "Series B",
+  "last_round": "$65M",
+  "last_round_date": "Feb 2025",
+  "lead_investors": "Quadrille Capital",
+  "total_open_roles": "8",
+  "ops_roles": "GTM and Strategic Finance",
+  "hiring_trend": "Shrinking then flat: ~347 (Q2 2025) to ~284 (Q1 2026), -15% YoY; Dec 2025 layoffs",
+  "headcount": "~280",
+  "latest_news": "Launched Supervised AI for human-led AI calls; TELUS Digital evaluating it",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/sanas-introduces-supervised-ai-putting-a-human-at-the-helm-of-every-ai-customer-conversation-302902468.html",
+  "traction": "ARR $50M (end 2025) to $77M (Aug 2026); 160% NRR, 95% GRR",
+  "red_flags": "Layoffs Dec 2025 (50+ reported) and headcount down ~15% YoY; watch: USPTO instituted review of all 6 patents Sanas asserts vs Krisp (Sep 2026)",
+  "red_flags_sources": [
+   {
+    "label": "Revelio Labs headcount, -15% YoY to 284 (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/sanas-ai/employees"
+   },
+   {
+    "label": "Glassdoor reviews mentioning layoffs (Dec 2025 layoff)",
+    "url": "https://www.glassdoor.com/Reviews/Sanas-CA-layoff-Reviews-EI_IE7773306.0,8_KH9,15.htm"
+   },
+   {
+    "label": "Glassdoor review, May 2026: layoffs right before Christmas",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Sanas-CA-E7773306-RVW103896191.htm"
+   },
+   {
+    "label": "Krisp/Business Wire via StreetInsider, Sep 2026: USPTO institutes all six patent challenges",
+    "url": "https://www.streetinsider.com/Business+Wire/USPTO+Advances+All+Six+Krisp+Challenges+After+Finding+Strong+Grounds+to+Question+Sanas%E2%80%99+Patents/27034896.html"
+   }
+  ],
+  "score": "2.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.5",
+  "glassdoor_reviews": "101",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Sanas-CA-Reviews-E7773306.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
  }
 ]
