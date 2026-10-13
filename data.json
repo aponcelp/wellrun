@@ -18321,8 +18321,8 @@
   "is_new": true,
   "last_checked": "Oct 13, 2026",
   "engine": "Scale",
-  "distance": "10K",
-  "distance_why": "A fast-growing WhatsApp-native challenger, but Remitly (~23% of US-LatAm digital share), Western Union and Intermex are far bigger, and it runs on Meta's WhatsApp.",
+  "distance": "Half",
+  "distance_why": "Clear leader in WhatsApp-native remittances to Latin America, an estimated unicorn valuation and revenue up 2.5x, though Remitly and Western Union still dominate overall volume.",
   "distance_sources": [
    {
     "label": "Tech Times, Sep 2026: competes with Remitly (~23% share), Wise, Western Union, MoneyGram, Bitso",
