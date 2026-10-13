@@ -19509,5 +19509,366 @@
    "New York",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Arize AI",
+  "slug": "arize-ai",
+  "site": "https://arize.com",
+  "careers_url": "https://job-boards.greenhouse.io/arizeai",
+  "what_they_do": "Observability and evaluation platform for LLM apps and AI agents (Arize AX, open-source Phoenix)",
+  "problem": "Teams can't see why AI agents fail or drift, so unreliable AI ships to production",
+  "industry": "AI observability / dev tools",
+  "stage": "Acquired (Dynatrace, Oct 2026)",
+  "last_round": "$70M",
+  "last_round_date": "Feb 2025",
+  "lead_investors": "Adams Street Partners",
+  "total_open_roles": "23",
+  "ops_roles": "AI Solutions Manager, East; AI Solutions Manager, West; AI Solutions Manager, Digital Native",
+  "hiring_trend": "~200 staff at acquisition (TechTarget); 23 open roles, mostly sales and solutions, still posting post-close",
+  "headcount": "~200",
+  "latest_news": "Dynatrace completed its $915M cash-and-stock acquisition of Arize",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.dynatrace.com/news/press-release/dynatrace-completes-acquisition-of-arize/",
+  "traction": "Phoenix used by 4,000+ enterprises; Dynatrace calls Arize small but rapidly growing (ARR undisclosed)",
+  "red_flags": "Acquired by public company Dynatrace (NYSE: DT) for $915M, closed Oct 1, 2026; no longer an independent startup",
+  "red_flags_sources": [
+   {
+    "label": "Dynatrace press release, deal closed Oct 1, 2026",
+    "url": "https://www.dynatrace.com/news/press-release/dynatrace-completes-acquisition-of-arize/"
+   },
+   {
+    "label": "Dynatrace press release, deal signed Aug 13, 2026",
+    "url": "https://www.dynatrace.com/news/press-release/dynatrace-to-acquire-arize"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "33",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Arize-AI-Reviews-E5689374.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": "",
+  "hiring_locations": [
+   "San Francisco",
+   "Remote (US)",
+   "Remote (Singapore)"
+  ]
+ },
+ {
+  "name": "Outtake",
+  "slug": "outtake",
+  "site": "https://www.outtake.ai",
+  "careers_url": "https://jobs.ashbyhq.com/outtake",
+  "what_they_do": "AI agents that find, investigate and take down impersonation, deepfakes, phishing and fake domains",
+  "problem": "AI makes faking a brand or executive cheap, and manual takedown queues cannot keep up",
+  "industry": "Cybersecurity / digital risk protection",
+  "stage": "Series B",
+  "last_round": "$40M",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "ICONIQ",
+  "total_open_roles": "18",
+  "ops_roles": "Revenue Operations; Head of Post-Sales; Technical Account Manager",
+  "hiring_trend": "Headcount +224% YoY to ~94 (LinkedIn est.); open roles ~10 (Sep) → 18",
+  "headcount": "~90",
+  "latest_news": "Named to Fast Company's Next Big Things in Tech for its Recon Agent",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.fastcompany.com/91612144/security-privacy-next-big-things-in-tech-2026",
+  "traction": "6x ARR and 10x enterprise customers YoY; OpenAI, AppLovin, federal agencies",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Growing fast with blue-chip customers, but it trails the larger Doppel (300+ customers, ~400 staff) in a crowded brand-protection field.",
+  "distance_sources": [
+   {
+    "label": "Business Wire, Jan 2026: Outtake $40M Series B, 6x ARR, 10x customers",
+    "url": "https://www.businesswire.com/news/home/20260128049292/en/Outtake-Raises-%2440M-Series-B-Led-by-ICONIQ-to-Build-the-Unified-Platform-for-Digital-Trust-in-the-AI-Era"
+   },
+   {
+    "label": "Doppel press release, Sep 2026: 300+ customers",
+    "url": "https://www.doppel.com/company/press-releases/mufg-innovation-partners-becomes-strategic-investor-doppel"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Chicago",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Roadrunner",
+  "slug": "roadrunner",
+  "site": "https://roadrunner.ai",
+  "careers_url": "https://jobs.ashbyhq.com/roadrunner",
+  "what_they_do": "AI-native CPQ: reps prompt a deal and get a priced, approved quote in minutes",
+  "problem": "Legacy CPQ is slow and rigid, so complex enterprise deals stall in quoting and approvals",
+  "industry": "Sales tech / quote-to-cash",
+  "stage": "Series A",
+  "last_round": "$22M",
+  "last_round_date": "May 2026",
+  "lead_investors": "Founders Fund (Series A); Kleiner Perkins (seed)",
+  "total_open_roles": "10",
+  "ops_roles": "Founding Strategic Finance; Solutions Architect; Forward Deployed Engineer",
+  "hiring_trend": "Team 10x in 6 months to ~44 (LinkedIn); 10 open roles",
+  "headcount": "~44",
+  "latest_news": "First full quarter after its Series A: ARR 3x, customers 6x; Forbes Next Billion-Dollar list",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.arr.club/signal/roadrunner-arr-grows-3x-with-6x-growth-customer-count-in-3-months",
+  "traction": "ARR 3x and customers 6x in 3 months (May–Aug 2026); Asana, ZoomInfo, Chainguard",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Under a year in market, with revenue undisclosed; too early to judge against Salesforce CPQ, DealHub, Conga and PandaDoc.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire, May 2026: $27M raise and general availability",
+    "url": "https://www.globenewswire.com/news-release/2026/05/12/3293309/0/en/roadrunner-raises-27m-to-rebuild-quote-to-cash-from-the-ground-up.html"
+   },
+   {
+    "label": "Tracxn: 314 competitors incl. PandaDoc, Pricefx, Qwilr",
+    "url": "https://tracxn.com/d/companies/roadrunner/__b-FDc1HWreMADA25DV7zKDWc13TtFbqdbRqzlvQJygI"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Valthos",
+  "slug": "valthos",
+  "site": "https://valthos.com",
+  "careers_url": "https://jobs.ashbyhq.com/valthos",
+  "what_they_do": "AI platform that characterizes pathogens and helps design medical countermeasures for biodefense",
+  "problem": "Biological threats, natural or AI-engineered, emerge faster than agencies can identify and counter them",
+  "industry": "Biodefense / AI for national security",
+  "stage": "Seed",
+  "last_round": "$30M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": "OpenAI Startup Fund, Lux Capital, Founders Fund",
+  "total_open_roles": "8",
+  "ops_roles": "Operations - Growth Operations; Operations - Generalist / Business Operations; Member of Technical Staff - Forward Deployed Engineer",
+  "hiring_trend": "~17 staff (LinkedIn), 'growing substantially'; open roles flat at 8 since Aug",
+  "headcount": "~17",
+  "latest_news": "Published Grove brief: Bundibugyo ebolavirus outbreak characterized within five hours",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://valthos.com/brief/building-resilient-biodefense",
+  "traction": "Early clients include US DoD and Los Alamos National Lab; no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "A seed-stage company with a handful of government and lab clients; too early to judge staying power.",
+  "distance_sources": [
+   {
+    "label": "Forbes NBDS 2026 (via Forbes LinkedIn): clients incl. DoD and Los Alamos",
+    "url": "https://www.linkedin.com/posts/forbes-magazine_billiondollarstartups-activity-7487937193811034112-qrCd"
+   },
+   {
+    "label": "PR Newswire, Oct 2025: $30M seed",
+    "url": "https://www.prnewswire.com/news-releases/valthos-raises-30m-from-openai-lux-capital-founders-fund-to-build-next-generation-biodefense-302598583.html"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco"
+  ]
+ },
+ {
+  "name": "Abby Care",
+  "slug": "abby-care",
+  "site": "https://www.abbycare.org",
+  "careers_url": "https://jobs.ashbyhq.com/abby-care",
+  "what_they_do": "Trains family members as certified caregivers and gets them paid through Medicaid",
+  "problem": "Families caring for disabled or ill relatives at home go unpaid while home-care agencies lack staff",
+  "industry": "Healthtech / Medicaid home care",
+  "stage": "Series B",
+  "last_round": "$35M",
+  "last_round_date": "Aug 2025",
+  "lead_investors": "Sequoia Capital, Thrive Capital, Khosla Ventures",
+  "total_open_roles": "23",
+  "ops_roles": "Health Plan Strategy Lead; Family Care Associate (Operations); Senior Director of Nursing (Nashville, Atlanta, Illinois)",
+  "hiring_trend": "Headcount +65% YoY (SalaryGuide est.); 5 to 8 states in under a year; 23 open roles",
+  "headcount": "~250-350 (LinkedIn ~350 profiles; ~80 staff nurses)",
+  "latest_news": "Named to Forbes Next Billion-Dollar Startups 2026; $15M 2025 revenue, $225M valuation",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.forbes.com/sites/richardnieva/2026/07/28/this-entrepreneur-will-pay-you-to-provide-home-care-for-your-loved-ones/",
+  "traction": "$15M revenue in 2025; 8 states (5 in late 2025); 2M+ paid care hours",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "2.3",
+  "glassdoor_reviews": "3",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Abby-Care-Reviews-E9290286.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "An early leader in paid family caregiving with state licenses, payer contracts and a nurse network in 8 states that take years to copy; but it lives on Medicaid reimbursement rules and fraud scrutiny that can shift under it",
+  "distance_sources": [
+   {
+    "label": "Forbes, Jul 2026: $15M 2025 revenue, 8 states, ~80 staff nurses, Medicaid policy and fraud risks",
+    "url": "https://www.forbes.com/sites/richardnieva/2026/07/28/this-entrepreneur-will-pay-you-to-provide-home-care-for-your-loved-ones/"
+   },
+   {
+    "label": "Runtime Wire, Jul 2026: each new state needs regulatory and clinical setup",
+    "url": "https://runtimewire.com/article/abby-care-havi-nguyen-paid-family-caregivers-medicaid-ai"
+   },
+   {
+    "label": "Abby Care on the May 2026 CMS home-health enrollment moratorium",
+    "url": "https://www.linkedin.com/posts/abbycareorg_our-founder-and-ceo-havi-on-why-the-cms-moratorium-activity-7463284126507225089-1XxL"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Boston",
+   "Nashville",
+   "Remote"
+  ]
+ },
+ {
+  "name": "American Terawatt",
+  "slug": "american-terawatt",
+  "site": "https://americanterawatt.com",
+  "careers_url": "https://jobs.ashbyhq.com/American%20Terawatt",
+  "what_they_do": "Builds private HVDC transmission lines that deliver power to AI data centers and industry",
+  "problem": "Data centers and factories wait years for grid interconnection and lose power converting AC to DC",
+  "industry": "Energy infrastructure / power transmission",
+  "stage": "Early-stage VC (priced round; labeled Series B/C by aggregators)",
+  "last_round": "$52.6M",
+  "last_round_date": "May 2026",
+  "lead_investors": "Altimeter, Founders Fund",
+  "total_open_roles": "6",
+  "ops_roles": "Head of Procurement; Commercial Lead, Energy Markets",
+  "hiring_trend": "~15 staff (Aug 2026) to 20 (Sep 2026); 6 open roles",
+  "headcount": "~20",
+  "latest_news": "Hired HVDC veterans from Champlain Hudson, Vineyard Wind and SunZia to lead development, legal and finance",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/amwatt_today-marks-a-big-milestone-for-american-activity-7510774324614635521-vTW6",
+  "traction": "Pre-revenue; no customers or built lines disclosed; targets 14 GW by 2030",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "A 2025 startup with no line built or customer named yet; the plan needs rights-of-way, interconnection deals and billions in project capital",
+  "distance_sources": [
+   {
+    "label": "SEC Form D, May 2026: $52.6M sold, founded 2025",
+    "url": "https://www.sec.gov/Archives/edgar/data/2135715/000213571526000001/xslFormDX01/primary_doc.xml"
+   },
+   {
+    "label": "American Terawatt site: 525 kV network, 14 GW capacity by 2030 target",
+    "url": "https://americanterawatt.com/"
+   },
+   {
+    "label": "Dealroom, May 2026: unclear how far $52.6M goes for a project this size",
+    "url": "https://dealroom.co/news/129857-american-terawatt-raises-52-6m-to-build-a-national-hvdc-transmission-net/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Clair",
+  "slug": "clair",
+  "site": "https://getclair.com",
+  "careers_url": "https://jobs.ashbyhq.com/clair",
+  "what_they_do": "Earned wage access embedded inside payroll and workforce platforms like Gusto and QuickBooks",
+  "problem": "Hourly workers wait two weeks for pay they already earned and turn to costly payday loans",
+  "industry": "Fintech / earned wage access",
+  "stage": "Series B",
+  "last_round": "$23.2M",
+  "last_round_date": "May 2025",
+  "lead_investors": "Upfront Ventures (Thrive Capital led the 2023 round)",
+  "total_open_roles": "10",
+  "ops_roles": "Partnerships Lead (Operations); Customer Support Representative; Strategic Finance, Senior Manager",
+  "hiring_trend": "Headcount +32% YoY to ~91 (LinkedIn est.); 78 full-time per company, Oct 2026",
+  "headcount": "~80-90",
+  "latest_news": "Pathward extended its partnership to keep originating Clair's wage advances",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20261008986894/en/Pathward-and-Clair-Extend-Partnership-to-Expand-Access-to-Earned-Wage-Advances",
+  "traction": "$100M revenue run rate, up 10x in a year; cash-flow positive; 300K+ businesses",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.2",
+  "glassdoor_reviews": "15",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Clair-NY-Reviews-E5149132.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Embedded in Gusto, QuickBooks, TriNet and BambooHR and in ~5% of US businesses with $100M run rate and positive cash flow; but it depends on those partners and on one bank, and faces DailyPay, Payactiv and shifting state EWA rules",
+  "distance_sources": [
+   {
+    "label": "Upstarts Media, Aug 2026: $100M run rate up 10x, cash-flow positive, 300K businesses, >5% of US businesses",
+    "url": "https://www.upstartsmedia.com/p/fintech-clair-reaches-100m"
+   },
+   {
+    "label": "Business Wire, Oct 2026: Pathward renews as lender; $2B advance volume run rate, 500K MAU",
+    "url": "https://www.businesswire.com/news/home/20261008986894/en/Pathward-and-Clair-Extend-Partnership-to-Expand-Access-to-Earned-Wage-Advances"
+   },
+   {
+    "label": "GlobeNewswire, May 2026: BambooHR launches On-Demand Pay with Clair",
+    "url": "https://www.globenewswire.com/news-release/2026/05/11/3291936/0/en/bamboohr-and-clair-launch-fully-integrated-on-demand-pay.html"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote (US)"
+  ]
  }
 ]
