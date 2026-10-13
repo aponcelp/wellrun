@@ -19004,5 +19004,59 @@
   "hiring_locations": [
    "Remote"
   ]
+ },
+ {
+  "name": "Guidde",
+  "slug": "guidde",
+  "site": "https://www.guidde.com",
+  "careers_url": "https://job-boards.eu.greenhouse.io/guidde",
+  "what_they_do": "AI turns screen recordings into step-by-step how-to videos and in-app guides",
+  "problem": "Teams waste hours writing software how-tos and training staff on tools like Salesforce, SAP and new AI apps",
+  "industry": "Digital adoption / knowledge management",
+  "stage": "Series B",
+  "last_round": "$50M",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "PSG Equity",
+  "total_open_roles": "8",
+  "ops_roles": "Customer Experience Specialist (Tel Aviv)",
+  "hiring_trend": "Headcount 64 → 114 in 12 mo to Q1 2026 (+78%, Revelio); 8 open roles now",
+  "headcount": "~115-120",
+  "latest_news": "Raised $50M Series B led by PSG Equity, with monday.com joining",
+  "latest_news_date": "Feb 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/guidde-raises-50m-to-train-humans-on-ai-and-ai-on-humans-302697065.html",
+  "traction": "4,500+ customers; revenue tripled three years running; 90%+ retention",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Real adoption (4,500+ customers, revenue tripling yearly), but a follower behind Scribe (~$100M ARR) in crowded workflow capture, with Tango, Loom, WalkMe and Whatfix close by.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire, Feb 2026: $50M Series B, 4,500+ customers, 3x revenue growth 3 yrs, 90%+ retention",
+    "url": "https://www.prnewswire.com/news-releases/guidde-raises-50m-to-train-humans-on-ai-and-ai-on-humans-302697065.html"
+   },
+   {
+    "label": "Trails, May 2026: Guidde alternatives (Scribe, Tango, Loom, Clueso, Trupeer)",
+    "url": "https://trails.so/guides/guidde-alternatives"
+   },
+   {
+    "label": "Dealroom: $200M Series B valuation vs $60M at Series A",
+    "url": "https://dealroom.co/companies/guidde-1-1"
+   },
+   {
+    "label": "Revelio Labs: headcount 64 to 114 YoY (Q1 2026)",
+    "url": "https://www.reveliolabs.com/companies/guidde/employees"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
