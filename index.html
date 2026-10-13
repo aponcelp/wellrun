@@ -834,6 +834,17 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
       .x-cli__row { display: grid; grid-template-columns: 76px minmax(0, 1fr); align-items: center; gap: 8px 12px; padding: 10px 16px; border-bottom: 1px solid var(--stroke-secondary); }
       .x-cli__key { font: 400 12px/1.2 var(--x-mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-secondary); white-space: nowrap; }
       .x-chips { display: flex; flex-wrap: wrap; gap: 6px; min-width: 0; }
+      .x-adv { border-bottom: 1px solid var(--stroke-secondary); }
+      .x-adv > .x-cli__row:last-child { border-bottom: 0; }
+      .x-adv__sum { display: grid; grid-template-columns: 76px minmax(0, 1fr) auto; align-items: center; gap: 12px; padding: 12px 16px; cursor: pointer; list-style: none; }
+      .x-adv__sum::-webkit-details-marker { display: none; }
+      .x-adv__lbl { font: 400 14px/1.2 var(--x-mono); color: var(--text-secondary); }
+      .x-adv__lbl b { display: inline-grid; place-items: center; min-width: 18px; height: 18px; margin-left: 8px; padding: 0 5px; border-radius: 9px; background: var(--x-lime, #c6ff1a); color: #0f2419; font: 600 11px/1 var(--x-mono); }
+      .x-adv__lbl b:empty { display: none; }
+      .x-adv__sum i { font-style: normal; font-size: 18px; color: var(--text-secondary); transition: transform .2s; }
+      .x-adv[open] .x-adv__sum i { transform: rotate(45deg); }
+      .x-adv[open] .x-adv__sum { border-bottom: 1px solid var(--stroke-secondary); }
+      @media (max-width: 860px) { .x-adv__sum { grid-template-columns: minmax(0, 1fr) auto; } .x-adv__sum .x-cli__key { display: none; } }
       .x-flag {
         display: inline-flex; align-items: center; gap: 1px; min-height: 36px; min-width: var(--tap); padding: 0 14px;
         border: 1px solid var(--stroke-primary); border-radius: var(--r-pill); background: var(--fill-primary-on);
@@ -1079,10 +1090,13 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
               <button type="button" class="x-flag x-flag--toggle" id="hiring" aria-pressed="false"><span class="x-flag__k">--</span>hiring-ops</button>
             </div></div>
             <div class="x-cli__row"><span class="x-cli__key">Zone</span><div class="x-chips" id="zones" role="group" aria-label="Pace zone"></div></div>
-            <div class="x-cli__row"><span class="x-cli__key">Distance</span><div class="x-chips" id="dists" role="group" aria-label="Distance"></div></div>
-            <div class="x-cli__row"><span class="x-cli__key">Industry</span><div class="x-chips" id="industries" role="group" aria-label="Industry"></div></div>
-            <div class="x-cli__row"><span class="x-cli__key">Stage</span><div class="x-chips" id="stages" role="group" aria-label="Stage"></div></div>
             <div class="x-cli__row x-cli__row--sort"><span class="x-cli__key">Sort</span><div class="x-chips" id="sorts" role="group" aria-label="Sort order"></div></div>
+            <details class="x-adv" id="adv">
+              <summary class="x-adv__sum"><span class="x-cli__key">More</span><span class="x-adv__lbl"><span class="x-flag__k">--</span>distance, stage, industry<b id="advcount"></b></span><i aria-hidden="true">+</i></summary>
+              <div class="x-cli__row"><span class="x-cli__key">Distance</span><div class="x-chips" id="dists" role="group" aria-label="Distance"></div></div>
+              <div class="x-cli__row"><span class="x-cli__key">Stage</span><div class="x-chips" id="stages" role="group" aria-label="Stage"></div></div>
+              <div class="x-cli__row"><span class="x-cli__key">Industry</span><div class="x-chips" id="industries" role="group" aria-label="Industry"></div></div>
+            </details>
             </div>
             <div class="x-echo">
               <code id="cmd">$ well_run</code>
@@ -1564,6 +1578,8 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
           const active = state.hiring || state.industry !== "All" || state.stage !== "All" || state.zone !== "All" || state.dist !== "All" || q;
           const fc = [state.hiring, state.industry !== "All", state.stage !== "All", state.zone !== "All", state.dist !== "All"].filter(Boolean).length;
           const fcEl = document.getElementById("fcount"); if (fcEl) fcEl.textContent = fc ? String(fc) : "";
+          const ac = [state.industry !== "All", state.stage !== "All", state.dist !== "All"].filter(Boolean).length;
+          const acEl = document.getElementById("advcount"); if (acEl) acEl.textContent = ac ? String(ac) : "";
           count.textContent = active ? `${list.length} ${list.length === 1 ? "match" : "matches"}` : "";
         }
 
