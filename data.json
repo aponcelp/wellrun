@@ -2354,7 +2354,7 @@
   "lead_investors": "n.a. (backers incl. BGF, Notion Capital)",
   "total_open_roles": "5",
   "ops_roles": "",
-  "hiring_trend": "Flat, ~140 staff (<1% YoY)",
+  "hiring_trend": "Shrinking: headcount down ~6–9% YoY; job postings down ~90% in 2025; 5 open roles",
   "headcount": "~140",
   "latest_news": "Launched Auto Date Boost with Duetto, tying ad spend to occupancy forecasts",
   "latest_news_date": "Jun 2026",
@@ -2362,12 +2362,13 @@
   "glassdoor_rating": "4.2",
   "glassdoor_reviews": "100",
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Triptease-Reviews-E1187043.htm",
-  "traction": "Revenue ~£24M (latest accounts); thousands of hotel customers",
-  "red_flags": "",
-  "score": "3.25",
-  "zone": "Tempo",
+  "traction": "Revenue ~£15–24M; 12,500+ hotel customers, but growth has stalled",
+  "red_flags": "Unannounced Apr 2026 share allotment alongside a valuation recorded at $10–25M (Dealroom), well below capital raised; headcount shrinking",
+  "score": "0.75",
+  "zone": "Cool-down",
   "keep": "yes",
-  "is_new": true
+  "is_new": true,
+  "last_checked": "Oct 13, 2026"
  },
  {
   "name": "Ketch",
