@@ -17134,5 +17134,478 @@
    "New York",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Town",
+  "slug": "town",
+  "site": "https://www.town.com",
+  "careers_url": "https://jobs.ashbyhq.com/town",
+  "what_they_do": "AI assistant (\"Townie\") that works across email, calendar, Slack and docs on your behalf",
+  "problem": "Busy professionals lose their day to inbox triage, scheduling and follow-ups that no tool handles for them",
+  "industry": "AI productivity / personal assistant",
+  "stage": "Series A",
+  "last_round": "$55M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Andreessen Horowitz",
+  "total_open_roles": "19",
+  "ops_roles": "People Operations; Product Support",
+  "hiring_trend": "Team under 40 (Sep 2026); 19 open roles, People Ops role built to scale to 100",
+  "headcount": "~30-40",
+  "latest_news": "Reportedly raising $90M Series B at $1B, co-led by Forerunner and Menlo",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.upstartsmedia.com/p/scoop-town-fundraise-vc-reshuffle",
+  "traction": "~10,000 users, 99% two-month retention at launch; >15% trial-to-paid",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Live only since June 2026 with ~10K users; the personal-assistant category is crowded (Instinct, GrokBot) and Google/Microsoft/OpenAI ship the same email-and-calendar agent to the same buyer.",
+  "distance_sources": [
+   {
+    "label": "Fortune: $55M Series A, ~10,000 users, 99% two-month retention (Jun 2026)",
+    "url": "https://fortune.com/2026/06/03/towns-ai-assistants-andreessen-horowitz-forerunner-55-million/"
+   },
+   {
+    "label": "20VC recap: >15% trial-to-paid, rivals copy features in 2-4 weeks, Google/Apple top-3 priority (Sep 2026)",
+    "url": "https://www.thefabulous.co/pod/20vc/towns-jd-on-the-ai-assistant-race-and-economics/"
+   },
+   {
+    "label": "Upstarts: $90M Series B at $1B, rival Instinct conflict (Sep 2026)",
+    "url": "https://www.upstartsmedia.com/p/scoop-town-fundraise-vc-reshuffle"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York"
+  ]
+ },
+ {
+  "name": "Circle",
+  "slug": "circle",
+  "site": "https://circle.so",
+  "careers_url": "https://circle.so/careers#open-roles",
+  "what_they_do": "All-in-one platform for creators and brands to run paid communities, courses and events",
+  "problem": "Creators stitch together forums, course tools, payments and email, and rent their audience from social platforms",
+  "industry": "Creator economy / community software",
+  "stage": "Series A",
+  "last_round": "$24.7M",
+  "last_round_date": "Nov 2021",
+  "lead_investors": "Tiger Global",
+  "total_open_roles": "8",
+  "ops_roles": "",
+  "hiring_trend": "Headcount +22% YoY (LinkedIn 367 incl. contractors; ~280 staff); open roles down to 8 from 30-50 planned in Sep 2025",
+  "headcount": "~280",
+  "latest_news": "Launched Circle Eclipse: Circle AI, Discover 2.0 marketplace and Circle Studios",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://circle.so/eclipse-release",
+  "traction": "$50M+ ARR end-2025 (CEO); est. $68M ARR May 2026, +83% YoY, profitable",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.9",
+  "glassdoor_reviews": "33",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Circle-NY-Reviews-E7147264.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A leading branded-community platform with ~$68M ARR growing ~80% and profitable on ~$30M raised; members, payments and courses live inside it, but Skool, Mighty Networks and Kajabi keep it from clear category leadership.",
+  "distance_sources": [
+   {
+    "label": "Sacra: Circle at $68M ARR, +83% YoY, profitable (Jul 2026)",
+    "url": "https://sacra.com/research/circle-at-68m-arr/"
+   },
+   {
+    "label": "Circle Eclipse 2026: Circle AI, Discover 2.0 (100K+ members/month), Studios",
+    "url": "https://circle.so/eclipse-release"
+   },
+   {
+    "label": "G2: Circle 4.5/5 (529 reviews) with Mighty Networks, Thinkific listed as top alternatives",
+    "url": "https://www.g2.com/products/circle-so-circle/reviews"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Treeline",
+  "slug": "treeline",
+  "site": "https://www.treeline.ai",
+  "careers_url": "https://www.treeline.ai/careers",
+  "what_they_do": "AI-native managed IT, security and compliance provider for growing companies",
+  "problem": "Growing companies get slow, manual IT from legacy MSPs or pull engineers off product to run IT and SOC 2",
+  "industry": "IT services / AI-native MSP",
+  "stage": "Series A",
+  "last_round": "$25M",
+  "last_round_date": "Mar 2026",
+  "lead_investors": "Andreessen Horowitz",
+  "total_open_roles": "7",
+  "ops_roles": "Admin Operations Associate; Head of Compliance",
+  "hiring_trend": "LinkedIn headcount +600% YoY (~9 to 63); ~70-75 staff incl. acquired MSPs (Mar 2026); 7 open roles",
+  "headcount": "~70",
+  "latest_news": "Buying more MSPs for local reach, two deals in pipeline, targeting 3x revenue",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.channelholic.news/p/treelines-buying",
+  "traction": "~200 customers, profitable, on track to triple revenue in 2026",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Out of stealth only in March 2026 with ~200 customers; it competes with 40,000+ US MSPs and a crop of other venture-backed AI MSPs (Titan, Shield), so its edge is not yet proven at scale.",
+  "distance_sources": [
+   {
+    "label": "CRN: $25M Series A, ~200 customers, ~70 employees, profitable, 3x revenue target (Mar 2026)",
+    "url": "https://www.crn.com/news/ai/2026/treeline-secures-25-million-series-a-round-for-ai-powered-msp"
+   },
+   {
+    "label": "Channelholic: Treeline's buying MSPs; rival VC-backed MSPs Titan and Shield (Jun 2026)",
+    "url": "https://www.channelholic.news/p/treelines-buying"
+   },
+   {
+    "label": "a16z: Investing in Treeline (Mar 2026)",
+    "url": "https://a16z.com/announcement/investing-in-treeline/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Rentvine",
+  "slug": "rentvine",
+  "site": "https://www.rentvine.com",
+  "careers_url": "https://www.rentvine.com/careers",
+  "what_they_do": "Property management software with trust accounting, leasing and maintenance for residential managers",
+  "problem": "Single-family property managers juggle clunky software and risky trust accounting as their portfolios grow",
+  "industry": "Proptech / property management software",
+  "stage": "PE growth",
+  "last_round": "$74M",
+  "last_round_date": "Aug 2024",
+  "lead_investors": "Mainsail Partners",
+  "total_open_roles": "6",
+  "ops_roles": "Senior Director of Onboarding; Onboarding Project Manager; Technical Support Specialist",
+  "hiring_trend": "Flat: ~151 (2025) to ~149-163 (2026, LinkedIn/Revelio); 6 open roles",
+  "headcount": "~155",
+  "latest_news": "Named Nat Kunes CEO; founder Dave Borden stays on leadership team and board",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.streetinsider.com/Press+Releases/Rentvine+Names+Nat+Kunes+as+CEO+as+Its+AI+Platform+Enters+Its+Next+Chapter/27045824.html",
+  "traction": "Revenue +445% over three years (Inc. 5000 2026, No. 779); No. 60 in 2025",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.3",
+  "glassdoor_reviews": "4",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Rentvine-Reviews-E7367742.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast-growing and best-rated by operators, but a challenger in residential property management software behind AppFolio, Buildium and Yardi, the same position as DoorLoop.",
+  "distance_sources": [
+   {
+    "label": "Inc. 5000 2026: No. 779, 445% three-year growth",
+    "url": "https://www.inc.com/profile/rentvine"
+   },
+   {
+    "label": "Rentvine: #1 in PropertyManagement.com 2026 VPI category report (Jun 2026)",
+    "url": "https://www.rentvine.com/blog/rentvine-named-1-property-management-software"
+   },
+   {
+    "label": "Revelio Labs: ~163 employees, +3% YoY (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/rentvine/employees"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Tenzai",
+  "slug": "tenzai",
+  "site": "https://www.tenzai.com",
+  "careers_url": "https://www.tenzai.com/careers",
+  "what_they_do": "Autonomous AI hacker that pentests enterprise web apps, APIs and AI apps continuously",
+  "problem": "Manual pentests are slow, episodic and expensive while AI-written code ships new vulnerabilities daily",
+  "industry": "Cybersecurity / AI offensive security",
+  "stage": "Seed",
+  "last_round": "$75M",
+  "last_round_date": "Nov 2025",
+  "lead_investors": "Greylock, Battery Ventures, Lux Capital",
+  "total_open_roles": "8",
+  "ops_roles": "Founding Technical Support Engineer",
+  "hiring_trend": "~20 staff at Nov 2025 launch to ~40-65 (PitchBook/Tracxn 2026); 8 open roles",
+  "headcount": "~40-65",
+  "latest_news": "Launched autonomous WAF mitigation with Akamai at Black Hat; AHEAD and AWS Marketplace deals",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.tenzai.com/press-releases/tenzais-ai-hacker-can-now-autonomously-mitigate-what-it-finds",
+  "traction": "No revenue disclosed; early enterprise deployments, top 1% vs 125,000 human hackers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Eleven months out of stealth with no disclosed revenue; strong founders and capital, but AI pentesting is a crowded race (XBOW, Horizon3.ai, RunSybil and incumbents) with no leader yet.",
+  "distance_sources": [
+   {
+    "label": "Globes: $75M seed, 20 employees, founded six months earlier (Nov 2025)",
+    "url": "https://en.globes.co.il/en/article-israeli-cybersecurity-co-tenzai-raises-75m-1001526110"
+   },
+   {
+    "label": "Greylock: led $75M seed, early design-partner deployments",
+    "url": "https://greylock.com/blog/introducing-tenzai-autonomous-ai-hackers/"
+   },
+   {
+    "label": "Tenzai: autonomous mitigation via Akamai WAF (Jul 2026)",
+    "url": "https://www.tenzai.com/press-releases/tenzais-ai-hacker-can-now-autonomously-mitigate-what-it-finds"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Ando",
+  "slug": "ando",
+  "site": "https://www.ando.so",
+  "careers_url": "https://jobs.ashbyhq.com/ando",
+  "what_they_do": "Team messaging app where AI agents join channels as teammates with identity and permissions",
+  "problem": "Slack-style tools treat agents as bolt-on bots, so teams can't coordinate or share context with them",
+  "industry": "Collaboration software / AI agents",
+  "stage": "Seed",
+  "last_round": "$20M (pre-seed + seed)",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Accel (pre-seed); Index Ventures, Emergence Capital (seed)",
+  "total_open_roles": "5",
+  "ops_roles": "",
+  "hiring_trend": "Team ~14 (Tracxn); 5 open roles, all SF, post-stealth hiring push",
+  "headcount": "~14",
+  "latest_news": "Came out of stealth with $20M from Accel, Index and Emergence to take on Slack",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+  "traction": "Teams in 15 countries, though TechCrunch notes many are small; no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Just out of stealth with small teams as customers; competes head-on with Slack's native agents, Microsoft Teams Copilot and Jack Dorsey's Buzz.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: $20M, 15 countries, many small teams (Sep 2026)",
+    "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/"
+   },
+   {
+    "label": "Accel: pre-seed lead, Index and Emergence led seed",
+    "url": "https://www.accel.com/news/our-investment-in-ando-modern-messaging-for-teams-and-agents"
+   },
+   {
+    "label": "Tech Beat: rivals Slack agent, Microsoft Copilot, Buzz",
+    "url": "https://techbeat.co/story/ando-raises-20-million-to-challenge-slack-with-ai-agent-messaging"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
+ },
+ {
+  "name": "Lithic",
+  "slug": "lithic",
+  "site": "https://www.lithic.com",
+  "careers_url": "https://job-boards.greenhouse.io/lithic",
+  "what_they_do": "Card issuer processing APIs to launch debit, credit and prepaid card programs",
+  "problem": "Launching a card program on decades-old mainframe processors is slow, rigid and hard to control",
+  "industry": "Fintech / card issuing infrastructure",
+  "stage": "Series C",
+  "last_round": "$60M",
+  "last_round_date": "Jul 2021",
+  "lead_investors": "Stripes (Series C); Bessemer led Series B",
+  "total_open_roles": "11",
+  "ops_roles": "Business Operations Associate, Program Management; Treasury Operations Associate; Product Delivery Specialist; Support Engineer",
+  "hiring_trend": "Headcount -4.7% YoY (~189, Revelio Mar 2026); 11 open roles vs 16-20 postings in 2025-26",
+  "headcount": "~190-200",
+  "latest_news": "Partnered with Exodus-owned Monavate to power fiat and stablecoin card programs",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.lithic.com/blog/lithic-and-monavate-partner-to-power-card-programs-across-traditional-and-on-chain-finance",
+  "traction": "100+ fintech clients; expects ~$30B card purchase volume in 2026 (Nilson)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.4",
+  "glassdoor_reviews": "27",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Lithic-Reviews-E5257616.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "A credible modern processor with real lock-in, but a distant follower to Marqeta and up against Stripe Issuing, Galileo and Highnote, with no new capital since 2021 and a slightly shrinking team.",
+  "distance_sources": [
+   {
+    "label": "Nilson Report: 100+ fintechs, ~$30B purchase volume expected 2026",
+    "url": "https://nilsonreport.com/articles/lithic-card-issuer-processing-2/"
+   },
+   {
+    "label": "Revelio Labs: headcount 189, -4.7% YoY (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/lithic/employees"
+   },
+   {
+    "label": "Sacra: $115.4M raised, last round Series C Jul 2021",
+    "url": "https://sacra.com/c/lithic/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Unit",
+  "slug": "unit",
+  "site": "https://www.unit.co",
+  "careers_url": "https://jobs.ashbyhq.com/unit",
+  "what_they_do": "Embedded finance platform giving software companies banking, cards, bill pay and capital",
+  "problem": "SaaS platforms want to offer accounts, cards and lending but can't run bank partnerships and compliance themselves",
+  "industry": "Fintech / embedded finance (BaaS)",
+  "stage": "Series C",
+  "last_round": "$100M",
+  "last_round_date": "May 2022",
+  "lead_investors": "Insight Partners (Series C); Accel led Series B",
+  "total_open_roles": "3",
+  "ops_roles": "",
+  "hiring_trend": "Headcount +8.7% YoY (~193, Revelio Mar 2026) after 2024 cut; live board down to 3 roles",
+  "headcount": "~195-275",
+  "latest_news": "Annual transaction volume doubled from $50B to $100B in 12 months",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.unit.co/blog/100-billion-in-annual-transaction-volume",
+  "traction": "Volume $50B to $100B in 12 months; 100+ platforms incl. Wix, Relay, FreshBooks",
+  "red_flags": "Watch (not scored): May 2025 analysis found 21 of 50 tracked programs had left Unit, plus disclosure-compliance gaps",
+  "red_flags_sources": [
+   {
+    "label": "Jason Mikula (Fintech Business Weekly): Unit churn and compliance analysis, May 2025",
+    "url": "https://www.linkedin.com/posts/jasonmikula_unit-the-middleware-platform-struggled-activity-7327670310915174400-K23B"
+   }
+  ],
+  "score": "2.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.6",
+  "glassdoor_reviews": "54",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Unit-Reviews-E4467030.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Leading independent BaaS middleware after the Synapse collapse, with sticky bank-and-ledger integrations and fast-growing volume; exposure to sponsor-bank regulation and program attrition keeps it from Marathon.",
+  "distance_sources": [
+   {
+    "label": "Unit: $100B annual volume, doubled in 12 months (Jun 2026)",
+    "url": "https://www.unit.co/blog/100-billion-in-annual-transaction-volume"
+   },
+   {
+    "label": "Revelio Labs: headcount 193, +8.7% YoY (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/unit-finance/employees"
+   },
+   {
+    "label": "Jason Mikula: program churn and compliance gaps (May 2025)",
+    "url": "https://www.linkedin.com/posts/jasonmikula_unit-the-middleware-platform-struggled-activity-7327670310915174400-K23B"
+   }
+  ],
+  "hiring_locations": [
+   "Tel Aviv",
+   "San Francisco",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Mainstay",
+  "slug": "mainstay",
+  "site": "https://www.mainstay.io",
+  "careers_url": "https://jobs.ashbyhq.com/mainstay",
+  "what_they_do": "Data, pricing and AI workflow system of record for residential real estate investors and brokers",
+  "problem": "Home investors run buying, owning and selling across scattered data sources and manual workflows",
+  "industry": "Proptech / residential real estate data",
+  "stage": "Growth (post-Series A)",
+  "last_round": "$18M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Khosla Ventures, Era Ventures, Clocktower (existing); new: Parker89, Stackpoint, Alpaca VC, FJ Labs",
+  "total_open_roles": "8",
+  "ops_roles": "",
+  "hiring_trend": "Flat, ~152-157 staff (Revelio -1.4% YoY; LinkedIn +6%); 8 open roles, mostly 1099 agents",
+  "headcount": "~155",
+  "latest_news": "Raised $18M and acquired Truelist AI listing platform to expand into brokerages",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/09/16/3363326/0/en/mainstay-raises-18m-and-acquires-truelist-to-expand-ai-infrastructure-across-residential-real-estate.html",
+  "traction": "Serves 95% of the 60 largest US residential investors; $12B+ transactions facilitated",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.4",
+  "glassdoor_reviews": "3",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Mainstay-CA-Reviews-E10299645.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 13, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "The default data and transaction platform for big single-family-rental investors (95% of the top 60), but it's a narrow niche and the new brokerage push puts it up against crowded agent tools.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: $18M, Truelist deal, 95% of top-60 investors, $12B transactions (Sep 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/09/16/3363326/0/en/mainstay-raises-18m-and-acquires-truelist-to-expand-ai-infrastructure-across-residential-real-estate.html"
+   },
+   {
+    "label": "Opendoor: Mainstay spun out as independent company (Aug 2024)",
+    "url": "https://www.opendoor.com/articles/opendoor-announces-mainstay"
+   },
+   {
+    "label": "Revelio Labs: ~157 staff, -1.4% YoY (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/mainstay/employees"
+   }
+  ],
+  "hiring_locations": [
+   "Orlando",
+   "Fort Myers",
+   "Miami",
+   "Remote (US)"
+  ]
  }
 ]
