@@ -844,7 +844,11 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
       .x-pos { font: 900 24px/1 var(--x-display); font-stretch: 125%; font-variant-numeric: tabular-nums lining-nums; color: var(--text-primary); }
       .x-dot { flex: none; width: 8px; height: 8px; border-radius: 50%; background: var(--stroke-primary); }
       .x-dot.on { background: var(--x-mint); box-shadow: 0 0 0 1.5px var(--x-forest); }
-      .x-who { display: grid; gap: 3px; min-width: 0; }
+      .x-who { display: flex; align-items: center; gap: 12px; min-width: 0; }
+      .x-whotxt { display: grid; gap: 3px; min-width: 0; }
+      .x-logo { flex: none; width: 36px; height: 36px; border-radius: 9px; background: #fff; border: 1px solid var(--stroke-primary); object-fit: contain; padding: 4px; box-sizing: border-box; }
+      .x-logo--txt { display: grid; place-items: center; padding: 0; background: var(--x-forest-deep); border-color: var(--x-forest-deep); color: var(--x-lime); font: 800 16px/1 var(--sans); }
+      @media (max-width: 860px) { .x-logo { width: 30px; height: 30px; border-radius: 8px; } .x-who { gap: 10px; } }
       .x-name { font: 700 17px/1.25 var(--sans); letter-spacing: -0.015em; color: var(--text-primary); }
       .x-tag { font: var(--type-small); color: var(--text-secondary); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
       .x-pills { display: flex; flex-wrap: wrap; gap: 5px; }
@@ -4438,6 +4442,14 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
             `</div><p class="x-checked">Last checked ${checkedOf(c)}</p>`;
         }
 
+        function logo(c) {
+          const init = esc((c.name || "?").trim().charAt(0).toUpperCase());
+          let host = "";
+          try { host = new URL(c.site).hostname.replace(/^www\./, ""); } catch (e) {}
+          if (!host) return `<span class="x-logo x-logo--txt" aria-hidden="true">${init}</span>`;
+          return `<img class="x-logo" src="https://www.google.com/s2/favicons?domain=${encodeURIComponent(host)}&sz=128" alt="" aria-hidden="true" loading="lazy" width="36" height="36" onerror="this.outerHTML='<span class=&quot;x-logo x-logo--txt&quot; aria-hidden=&quot;true&quot;>${init}</span>'">`;
+        }
+
         function row(c) {
           const hiring = c.ops.length > 0;
           const isOpen = open.has(c.id);
@@ -4452,7 +4464,7 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
             <div class="x-proc__bar">
               <button type="button" class="x-proc__main" aria-expanded="${isOpen}" aria-controls="${c.id}" data-id="${c.id}">
                 <span class="x-pid"><i class="x-dot${hiring ? " on" : ""}" aria-hidden="true"></i><span class="x-pos"><span class="sr-only">Position </span>${c.pid}<span class="sr-only">${hiring ? ", hiring ops" : ""}</span></span></span>
-                <span class="x-who"><span class="x-name">${esc(c.name)}</span><span class="x-tag">${esc(c.what_they_do || "")}</span></span>
+                <span class="x-who">${logo(c)}<span class="x-whotxt"><span class="x-name">${esc(c.name)}</span><span class="x-tag">${esc(c.what_they_do || "")}</span></span></span>
                 <span class="x-pace z-${c.z.key}"><span class="sr-only">Pace ${c.z.split} per km, ${esc(c.z.name)}, momentum score ${esc(c.score)}.</span><span class="x-split" aria-hidden="true">${c.z.split}<small>/km</small></span><span class="x-pace__low" aria-hidden="true"><span class="x-meter">${meter(c.z.bars)}</span><span class="x-zone">${esc(c.z.name)}</span><span class="x-score-n">${c.scoreN.toFixed(2).replace(/0$/, "")}</span></span></span>
                 <span class="x-pills">${pills}</span>
                 <span class="x-caret" aria-hidden="true">+</span>
