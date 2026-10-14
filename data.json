@@ -21135,5 +21135,169 @@
    "San Francisco",
    "Munich"
   ]
+ },
+ {
+  "name": "Synthesia",
+  "slug": "synthesia",
+  "site": "https://www.synthesia.io",
+  "careers_url": "https://jobs.ashbyhq.com/synthesia",
+  "what_they_do": "AI avatar video platform for corporate training, enablement and internal comms",
+  "problem": "Training and explainer videos need cameras, actors and re-shoots, and are hard to update or translate",
+  "industry": "Generative AI / enterprise video",
+  "stage": "Series E",
+  "last_round": "$200M",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "GV (Google Ventures)",
+  "total_open_roles": "50",
+  "ops_roles": "Director, Customer Success Strategy and Operations; Director, Sales Strategy and Operations; Senior Sales Operations Analyst; Revenue Enablement Manager, Onboarding",
+  "hiring_trend": "Headcount +50% YoY (Revelio 502 → 754, Q1 2025 → Q1 2026); 50 open roles",
+  "headcount": "~900",
+  "latest_news": "Signed 50K sq ft US headquarters lease in NYC, nearly 4x its old footprint",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.connectcre.com/stories/ai-video-platform-synthesia-leases-50k-sf-for-new-u-s-headquarters/",
+  "traction": "$150M ARR (Jan 2026), up from $100M in Apr 2025; 90% of Fortune 100",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "174",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Synthesia-Reviews-E4421112.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Enterprise leader in AI training video (90% of Fortune 100, $150M ARR) with LMS-embedded content, but HeyGen is larger at $200M+ ARR and frontier video models crowd the category.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Synthesia hits $4B valuation (Jan 2026)",
+    "url": "https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in"
+   },
+   {
+    "label": "TipRanks: HeyGen ARR surpasses $200M",
+    "url": "https://www.tipranks.com/news/private-companies/heygen-launches-top-ranked-voice-model-as-arr-surpasses-200-million"
+   }
+  ],
+  "hiring_locations": [
+   "London",
+   "New York",
+   "Austin",
+   "Remote (Europe)",
+   "Remote (Germany)"
+  ]
+ },
+ {
+  "name": "Descript",
+  "slug": "descript",
+  "site": "https://www.descript.com",
+  "careers_url": "https://job-boards.greenhouse.io/descript",
+  "what_they_do": "AI video and podcast editor where you edit media by editing the transcript",
+  "problem": "Editing video and audio in a timeline is slow and technical for creators and business teams",
+  "industry": "Generative AI / creator video tools",
+  "stage": "Series C",
+  "last_round": "$50M",
+  "last_round_date": "Nov 2022",
+  "lead_investors": "OpenAI Startup Fund",
+  "total_open_roles": "11",
+  "ops_roles": "Strategic Finance, GTM",
+  "hiring_trend": "Shrinking: headcount -5.1% YoY to ~164 (Revelio, Q1 2026); new postings ~5/mo vs 10 in 2025",
+  "headcount": "~165-180",
+  "latest_news": "Opened Underlord editing agent to Claude, ChatGPT, Zapier and API-driven automated workflows",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.createwith.com/tool/descript/updates/descript-underlord-brings-natural-language-video-editing-to-automated-workflows",
+  "traction": "$55M ARR growing 75% YoY (Aug 2025, founder post); 6M+ users",
+  "red_flags": "Rolling small layoffs and shrinking team: Jun–Jul 2026 Glassdoor reviews describe 'lots of small scale layoffs with less than a day's notice' and management churn after the Aug 2025 CEO change; headcount down 5.1% YoY (Revelio) with no new round since Nov 2022.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor review, Jun 2026: small-scale layoffs",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Descript-E4674359-RVW104532371.htm"
+   },
+   {
+    "label": "Glassdoor: Descript 'layoff' reviews",
+    "url": "https://www.glassdoor.com/Reviews/Descript-layoff-Reviews-EI_IE4674359.0,8_KH9,15.htm"
+   },
+   {
+    "label": "Revelio Labs: Descript headcount -5.1% YoY",
+    "url": "https://www.reveliolabs.com/companies/descript/employees"
+   }
+  ],
+  "score": "2.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.2",
+  "glassdoor_reviews": "30",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Descript-Reviews-E4674359.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "Pioneered transcript-based editing, but at ~$55M ARR with a shrinking team it trails Adobe and CapCut while Riverside, Veed and OpusClip compete for the same creators.",
+  "distance_sources": [
+   {
+    "label": "Andrew Mason on X: $55M ARR, CEO handoff (Aug 2025)",
+    "url": "https://x.com/andrewmason/status/1960807501840179241"
+   },
+   {
+    "label": "OpenAIToolsHub: Descript teardown and competitors",
+    "url": "https://www.openaitoolshub.org/ai-product-research/descript"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Photoroom",
+  "slug": "photoroom",
+  "site": "https://www.photoroom.com",
+  "careers_url": "https://jobs.ashbyhq.com/photoroom",
+  "what_they_do": "AI product-photo editor and API for sellers, marketplaces and retail catalogs",
+  "problem": "Sellers need studio-quality, consistent product images at scale without photographers or studios",
+  "industry": "Generative AI / e-commerce imagery",
+  "stage": "Series B",
+  "last_round": "$43M",
+  "last_round_date": "Feb 2024",
+  "lead_investors": "Balderton Capital, Aglaé",
+  "total_open_roles": "12",
+  "ops_roles": "Senior People Ops Manager (International)",
+  "hiring_trend": "Headcount ~338, +3% YoY (Revelio, Q1 2026); active postings +63% in 2026",
+  "headcount": "~340",
+  "latest_news": "Co-founder Eliot Andres stepped down as CTO; ex-Groupon exec Javier Sotelo took over",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://dealroom.co/news/148093-photoroom-co-founder-andres-steps-down-as-cto-of-500m-startup",
+  "traction": "Est. ~$94M ARR end-2024, +89% YoY (Sacra); profitable; 7B images/yr",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.7",
+  "glassdoor_reviews": "20",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Photoroom-Reviews-E8011752.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Most-used AI product-photo editor (300M users, 7B images a year on its own models) ahead of Pixelcut and Claid, but Canva, Adobe and marketplaces bundle similar tools for the same sellers.",
+  "distance_sources": [
+   {
+    "label": "Photoroom: brand refresh, 300M users, 7B images/yr (Jun 2026)",
+    "url": "https://www.photoroom.com/inside-photoroom/brand-refresh"
+   },
+   {
+    "label": "Tech.eu: Photoroom profitable, €50M ARR in 2023",
+    "url": "https://tech.eu/2025/05/23/photoroom-makes-first-acquisition/"
+   }
+  ],
+  "hiring_locations": [
+   "Paris",
+   "New York",
+   "Remote"
+  ]
  }
 ]
