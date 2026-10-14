@@ -25718,5 +25718,214 @@
   "hiring_locations": [
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Octave",
+  "slug": "octave",
+  "site": "https://www.findoctave.com",
+  "careers_url": "https://boards.greenhouse.io/octave",
+  "what_they_do": "In-network therapy practice plus WiseMatch, a tool that lets health plans match and book therapists",
+  "problem": "People can't find an in-network therapist who is good, available and a fit; insurer directories are full of ghost listings",
+  "industry": "Behavioral health / payer tech",
+  "stage": "Series C",
+  "last_round": "$12.7M",
+  "last_round_date": "Nov 2025",
+  "lead_investors": "Undisclosed (PitchBook mezzanine); Series C ($52M, Jun 2023) led by Cigna Ventures, Novo Holdings, Avidity Partners",
+  "total_open_roles": "16",
+  "ops_roles": "Director, Business Operations; Sr. Business Operations & Network Optimization Manager; Sr. Product Manager, Payors",
+  "hiring_trend": "Headcount ~626 on LinkedIn, +9% YoY; 16 open roles (10 are 1099 clinician postings)",
+  "headcount": "~420-630",
+  "latest_news": "Launched WiseMatch Index, a peer-reviewed therapist-quality score for health plans",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20260910607843/en/The-WiseMatch-Index-Sets-a-New-Standard-for-Behavioral-Health-Provider-Quality",
+  "traction": "Therapy in 23 states; WiseMatch used across 100,000+ providers and plans covering 23M+ lives",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.7",
+  "glassdoor_reviews": "83",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Octave-Reviews-E3432023.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "A mid-size in-network therapy practice well behind Headway, Alma, Grow Therapy and Rula, which it now partners with for WiseMatch; the payer-directory tool is a promising second line but early, and the last priced round was 2023.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Octave debuts WiseMatch with Grow Therapy, Rula, SonderMind (Mar 2026)",
+    "url": "http://businesswire.com/news/home/20260304210370/en/Octave-Debuts-WiseMatch-Platform-to-Improve-Behavioral-Health-Access-Through-Payor-Directories"
+   },
+   {
+    "label": "Business Wire: WiseMatch Index, 100,000+ providers, 23M+ covered lives (Sep 2026)",
+    "url": "https://www.businesswire.com/news/home/20260910607843/en/The-WiseMatch-Index-Sets-a-New-Standard-for-Behavioral-Health-Provider-Quality"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Anaconda",
+  "slug": "anaconda",
+  "site": "https://www.anaconda.com",
+  "careers_url": "https://ats.rippling.com/anaconda/jobs",
+  "what_they_do": "Trusted Python packages plus a governed platform to build, secure and run enterprise AI and agents",
+  "problem": "Enterprises can't safely govern the open-source packages, models and AI agents their developers pull in",
+  "industry": "Developer tools / enterprise AI platform",
+  "stage": "Series C",
+  "last_round": "$150M",
+  "last_round_date": "Jul 2025",
+  "lead_investors": "Insight Partners (Mubadala Capital participating)",
+  "total_open_roles": "26",
+  "ops_roles": "Partner GTM Programs & Operations Director; Sr. GTM Operations Business Partner",
+  "hiring_trend": "Shrinking then rebuilding: cut ~14% of roles Aug 2026; LinkedIn ~500 (+8% YoY with 3 acquisitions); postings down ~15% YoY (Revelio)",
+  "headcount": "~400-500",
+  "latest_news": "Launched agent swarms and AI red-teaming built on Kilo Code, Enkrypt AI and Outerbounds",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://siliconangle.com/2026/10/06/anaconda-expands-beyond-python-with-agent-swarms-and-ai-security-testing/",
+  "traction": "$150M ARR, profitable (Jul 2025); 50M users, 95% of Fortune 500",
+  "red_flags": "Aug 2026 layoff: cut ~14% of roles across all functions; Glassdoor reviews cite an ARR miss before the RIF and repeated layoffs. Secondary market prices it ~11% below the $1.5B round (Caplight via TrueUp).",
+  "red_flags_sources": [
+   {
+    "label": "Anaconda CEO open letter: ~14% of roles eliminated (Aug 2026)",
+    "url": "https://www.anaconda.com/blog/open-letter-to-our-community-customers-and-partners"
+   },
+   {
+    "label": "Austin Business Journal: Anaconda lays off 14% amid restructuring (Aug 2026)",
+    "url": "https://www.bizjournals.com/austin/news/2026/08/26/anaconda-layoffs-new-cfo-atx-tech.html"
+   },
+   {
+    "label": "Glassdoor: Anaconda layoff reviews",
+    "url": "https://www.glassdoor.com/Reviews/Anaconda-layoff-Reviews-EI_IE983617.0,8_KH9,15.htm"
+   },
+   {
+    "label": "TrueUp: secondary valuation ~$1.3B, down 11% from last round",
+    "url": "https://www.trueup.io/co/anaconda"
+   }
+  ],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.1",
+  "glassdoor_reviews": "159",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Anaconda-Reviews-E983617.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "The default enterprise Python distribution (50M users, 95% of the Fortune 500, $150M ARR profitable) and now buying into agent tooling; but much use is free, uv/Pixi and conda-forge pressure the core, and a 2026 layoff shows the AI pivot is still unproven.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Anaconda $150M Series C, $150M ARR profitable (Jul 2025)",
+    "url": "https://www.businesswire.com/news/home/20250730399625/en/Anaconda-Raises-Over-%24150M-in-Series-C-Funding-to-Power-AI-for-the-Enterprise"
+   },
+   {
+    "label": "SiliconANGLE: Anaconda expands beyond Python (Oct 2026)",
+    "url": "https://siliconangle.com/2026/10/06/anaconda-expands-beyond-python-with-agent-swarms-and-ai-security-testing/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Omnea",
+  "slug": "omnea",
+  "site": "https://www.omnea.co",
+  "careers_url": "https://jobs.ashbyhq.com/omnea",
+  "what_they_do": "AI procurement platform for intake, supplier risk, contracts and guided buying in one place",
+  "problem": "Buying software or services at a big company drags through finance, legal and security approvals with no single view of suppliers",
+  "industry": "Procurement / finance software",
+  "stage": "Series B",
+  "last_round": "$50M",
+  "last_round_date": "Sep 2025",
+  "lead_investors": "Insight Partners, Khosla Ventures",
+  "total_open_roles": "55",
+  "ops_roles": "Chief of Staff, Special Projects (New York); Founding BizOps, US; AI Deployment Lead; Legal Operations Manager",
+  "hiring_trend": "Headcount +64% in H1 2026 (~130 Dec 2025 → ~219 on LinkedIn, +90% YoY); NYC team 3.5x since Jan; 55 open roles",
+  "headcount": "~180-220",
+  "latest_news": "Tripled revenue in 12 months to June, third straight year; PayPal and T. Rowe Price signed",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/07/28/3334207/0/en/Omnea-triples-revenue-in-twelve-months-as-enterprises-choose-agentic-operating-system-for-procurement.html",
+  "traction": "Revenue 3x YoY for third straight year; PayPal, Spotify, Albertsons, T. Rowe Price",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.8",
+  "glassdoor_reviews": "19",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Omnea-United-Kingdom-Reviews-E7253464.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A G2 Leader in procurement orchestration with marquee enterprise logos and 3x growth three years running, but still a strong #2-3 behind Zip in a crowded field (Zip, Levelpath, Tonkean, Coupa add-ons).",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: Omnea triples revenue, G2 Leader (Jul 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/07/28/3334207/0/en/Omnea-triples-revenue-in-twelve-months-as-enterprises-choose-agentic-operating-system-for-procurement.html"
+   },
+   {
+    "label": "Business Insider: Omnea raises $50M from Insight and Khosla (Sep 2025)",
+    "url": "https://www.businessinsider.com/omnea-procurement-ai-startup-raises-50-million-insight-khosla-2025-9"
+   }
+  ],
+  "hiring_locations": [
+   "London",
+   "New York",
+   "Melbourne",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Leland",
+  "slug": "leland",
+  "site": "https://www.joinleland.com",
+  "careers_url": "https://jobs.ashbyhq.com/leland",
+  "what_they_do": "Marketplace for career, admissions and AI coaching, plus AI upskilling programs for companies",
+  "problem": "People chasing a job, school or AI skills can't find vetted experts, and companies can't upskill staff on AI fast",
+  "industry": "Career coaching marketplace / AI upskilling",
+  "stage": "Series A",
+  "last_round": "$12M",
+  "last_round_date": "Nov 2024",
+  "lead_investors": "Forerunner Ventures",
+  "total_open_roles": "8",
+  "ops_roles": "Growth & Ops Intern: Courses & Events; Sales Ops Intern",
+  "hiring_trend": "Flat: LinkedIn ~324 (-2% YoY, incl. contractors); Revelio 161 staff (+14% YoY); 8 staff roles plus 184 coach listings",
+  "headcount": "~160-320",
+  "latest_news": "Rebranded as 'home for ambition' and launched leland.ai for business AI upskilling",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.joinleland.com/home-for-ambition",
+  "traction": "Eight-figure revenue, cash-flow positive pre-A; 35,000+ reviews; 2,000+ coaches",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "3.2",
+  "glassdoor_reviews": "5",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Leland-Reviews-E7891220.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "A leading premium coaching marketplace with real two-sided liquidity (35k+ reviews, eight-figure revenue), but career coaching is crowded and AI tutors and agents threaten the core; the B2B AI-training pivot is months old.",
+  "distance_sources": [
+   {
+    "label": "Consumer Startups: Leland $10M+/yr coaching marketplace playbook (Jul 2025)",
+    "url": "https://www.consumerstartups.com/p/leland-10-000-000-yr-coaching-marketplace-playbook"
+   },
+   {
+    "label": "Leland: Becomes the home for ambition, leland.ai launch (Jun 2026)",
+    "url": "https://www.joinleland.com/home-for-ambition"
+   }
+  ],
+  "hiring_locations": [
+   "Leland - Lehi",
+   "Remote (US)"
+  ]
  }
 ]
