@@ -26557,5 +26557,51 @@
    "New York",
    "Remote (North America)"
   ]
+ },
+ {
+  "name": "Attention",
+  "slug": "attention",
+  "site": "https://www.attention.com",
+  "careers_url": "https://app.dover.com/Attention/careers/aa017804-432e-4316-95b6-9869e6fd95d4",
+  "what_they_do": "AI agents that turn sales calls into CRM updates, follow-ups, coaching and next steps",
+  "problem": "Reps skip CRM updates and follow-ups after calls, so leaders forecast and coach on stale, incomplete data",
+  "industry": "Sales tech / revenue AI",
+  "stage": "Series B",
+  "last_round": "$30M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "RTP Global",
+  "total_open_roles": "11",
+  "ops_roles": "Founding Value Creation Lead; Forward Deployed Engineer",
+  "hiring_trend": "Headcount ~48 (Dec 2024) → ~101 (Sep 2026), +40% YoY on LinkedIn; 11 open roles, all on-site NYC",
+  "headcount": "~100",
+  "latest_news": "Raised $30M Series B led by RTP Global; customers like Preply's CEO invested as angels",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/attention-raises-30m-series-b-to-build-the-ai-system-that-runs-revenue-teams--not-just-records-them-302808821.html",
+  "traction": "ARR up 4x YoY; 500+ customers; most-adopted AI-first GTM vendor on Ramp (34%, Oct 2026)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Tops Ramp's AI-first GTM adoption list and grew ARR 4x, but it is a small follower in conversation intelligence behind Gong, in a crowded field (Rox, Momentum, Clari, Avoma) where Gong, Salesforce and HubSpot ship the same agents to the same revenue buyers; its edge is CRM workflow lock-in through custom agents and forward-deployed setup.",
+  "distance_sources": [
+   {
+    "label": "Ramp Rate: Top AI-First GTM software, Attention #1 at 34% adoption (Oct 2026)",
+    "url": "https://ramp.com/vendors/categories/ai-first-gtm-agentic-systems"
+   },
+   {
+    "label": "PR Newswire: Attention raises $30M Series B; ARR 4x, 500+ customers (Jun 2026)",
+    "url": "https://www.prnewswire.com/news-releases/attention-raises-30m-series-b-to-build-the-ai-system-that-runs-revenue-teams--not-just-records-them-302808821.html"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
