@@ -25164,5 +25164,57 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Glimpse",
+  "slug": "glimpse",
+  "site": "https://www.tryglimpse.com",
+  "careers_url": "https://jobs.ashbyhq.com/glimpse",
+  "what_they_do": "AI agents that find, dispute and recover invalid retailer deductions for CPG brands",
+  "problem": "Retailers short-pay brands with invalid deductions, and finance teams lack time to chase them, so revenue gets written off",
+  "industry": "Retail finance / CPG deductions",
+  "stage": "Series A",
+  "last_round": "$35M",
+  "last_round_date": "Mar 2026",
+  "lead_investors": "Andreessen Horowitz",
+  "total_open_roles": "8",
+  "ops_roles": "Product Operations Manager; Founding Forward Deployment Engineer; IT Operations Engineer",
+  "hiring_trend": "Headcount ~40-50 (+120% YoY, LinkedIn); plans 35 → 110 in 2026; 8 open roles, all NYC on-site",
+  "headcount": "~45",
+  "latest_news": "Q2 client recoveries hit 3.5x Q1; Kroger, Walgreens, Ulta integrations went live",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/akash-raju_we-won-back-millions-of-dollars-for-our-clients-activity-7482458893567209472-pi5W",
+  "traction": "14x YoY revenue growth; 200+ brands; $1B+ invoice volume processed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast-growing AI-native leader with 200+ brands and an a16z round, but in a crowded deductions field behind HighRadius and legacy recovery firms, with Revya, Confido and others chasing the same buyer.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Glimpse raises $35M Series A led by a16z; names rivals Revya, Confido (Mar 2026)",
+    "url": "https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/"
+   },
+   {
+    "label": "New Hope Network: 14x revenue growth, 200 brands, 35 → 110 hiring plan (May 2026)",
+    "url": "https://www.newhope.com/industry-insights/how-ai-is-helping-cpg-brands-fight-back-against-distributor-deductions"
+   },
+   {
+    "label": "HighRadius: deductions management for CPG (incumbent)",
+    "url": "https://www.highradius.com/product/deductions-management-automation-software/industry/cpg"
+   }
+  ],
+  "hiring_locations": [
+   "New York"
+  ]
  }
 ]
