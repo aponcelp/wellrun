@@ -24950,5 +24950,57 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Slope",
+  "slug": "slope",
+  "site": "https://slopepay.com",
+  "careers_url": "https://jobs.ashbyhq.com/slope",
+  "what_they_do": "Embedded B2B credit: net terms, installments and credit lines with real-time AI underwriting",
+  "problem": "Business buyers need payment terms, but sellers and platforms can't underwrite and carry that credit risk themselves",
+  "industry": "B2B payments / embedded lending",
+  "stage": "Series A3 (PitchBook; Tracxn lists Series C)",
+  "last_round": "$65M ($15M equity + debt)",
+  "last_round_date": "Jul 2024",
+  "lead_investors": "J.P. Morgan Payments (earlier: Union Square Ventures, Notable Capital)",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "Flat, ~40 staff (PitchBook 2025; LinkedIn ~39, +3% YoY est.); only 2 open roles",
+  "headcount": "~40",
+  "latest_news": "Fiserv partnership embeds Slope net terms and installments in SnapPay B2B payments",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://slopepay.com/blog/fiserv-slope-partnership-ai",
+  "traction": "Powers credit for Amazon Lending, Fiserv, Samsung, Alibaba.com; revenue up 17x in 2023",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Marquee distribution (J.P. Morgan, Amazon Lending, Fiserv, Samsung) embeds it in partners' checkouts, but B2B BNPL is crowded (Resolve, Balance, TreviPay, Billie) and a ~40-person lender with no public scale figures carries credit and funding risk.",
+  "distance_sources": [
+   {
+    "label": "Slope: Fiserv SnapPay partnership (Aug 2026)",
+    "url": "https://slopepay.com/blog/fiserv-slope-partnership-ai"
+   },
+   {
+    "label": "Slope: line of credit for Amazon sellers via Amazon Lending (Dec 2025)",
+    "url": "https://slopepay.com/blog/slope-amazon-sellers"
+   },
+   {
+    "label": "TechCrunch: J.P. Morgan leads $65M strategic round (Jul 2024)",
+    "url": "https://techcrunch.com/2024/07/17/sam-altman-jp-morgan-slope-65m/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
  }
 ]
