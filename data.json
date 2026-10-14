@@ -24263,5 +24263,278 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Apify",
+  "slug": "apify",
+  "site": "https://apify.com",
+  "careers_url": "https://jobs.ashbyhq.com/apify",
+  "what_they_do": "Marketplace and cloud platform of 20,000+ web scraping and automation tools for developers and AI agents",
+  "problem": "Teams and AI agents need fresh web data but building and maintaining scrapers for every site is slow and brittle",
+  "industry": "Web data / developer tools for AI",
+  "stage": "Seed",
+  "last_round": "€2.8M (~$3M)",
+  "last_round_date": "Apr 2024",
+  "lead_investors": "J&T Ventures, Reflex Capital",
+  "total_open_roles": "11",
+  "ops_roles": "People Automations Partner",
+  "hiring_trend": "Headcount roughly doubled in 2025 (Lupa) to ~270 on LinkedIn; 11 open roles, mostly Prague engineering",
+  "headcount": "~270",
+  "latest_news": "Opened 20,000+ marketplace tools to AI agents paying via Coinbase's x402 protocol",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.lupa.cz/aktuality/cesi-z-apify-pousteji-agenty-nakupovat-na-internetu-softwarove-nastroje-bez-dohledu-cloveka/",
+  "traction": "~$40M ARR end-2025 (from $15M), 25,000+ paying customers, profitable",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.9",
+  "glassdoor_reviews": "39",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Apify-Reviews-E3100324.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Largest open marketplace of scraping tools: more builders bring more Actors and more buyers, with creator payouts up 5x in a year and 25,000+ paying customers; still behind Bright Data on revenue and fighting newer AI-native scrapers like Firecrawl.",
+  "distance_sources": [
+   {
+    "label": "Lupa.cz: Apify pays developers $1M a month, ARR ~$40M (May 2026)",
+    "url": "https://www.lupa.cz/aktuality/cesky-obchod-s-aplikacemi-uz-vyvojarum-mesicne-vyplaci-milion-dolaru-nakopl-ho-rozvoj-ai/"
+   },
+   {
+    "label": "Dealroom News: How Apify became the Stripe for AI agents (Feb 2026)",
+    "url": "https://dealroom.co/news/126177-the-mcp-kingmaker-how-czech-apify-became-the-stripe-for-ai-agents/"
+   }
+  ],
+  "hiring_locations": [
+   "Prague",
+   "Brno",
+   "Ostrava",
+   "Remote (Czechia)"
+  ]
+ },
+ {
+  "name": "Alloy",
+  "slug": "alloy",
+  "site": "https://www.alloy.com",
+  "careers_url": "https://www.alloy.com/about/jobs",
+  "what_they_do": "Identity, fraud and compliance decisioning platform for banks, credit unions and fintechs",
+  "problem": "Banks juggle dozens of identity and fraud data vendors and manual reviews to onboard customers and stop fraud",
+  "industry": "Fintech / identity & fraud prevention",
+  "stage": "Series C",
+  "last_round": "$52M",
+  "last_round_date": "Sep 2022",
+  "lead_investors": "Lightspeed Venture Partners, Avenir Growth",
+  "total_open_roles": "24",
+  "ops_roles": "Channel Operations Manager; Senior Revenue Operations Analyst; Client Enablement Lead; Founding Forward Deployed Engineer",
+  "hiring_trend": "Headcount ~427 on LinkedIn, +13.6% YoY (~307 Dec 2024 → ~400 Nov 2025)",
+  "headcount": "~420",
+  "latest_news": "H1 2026: passed 900 customers, launched agentic AI Assistant and pKYB in Europe",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.alloy.com/about/press/alloy-h1-momentum",
+  "traction": "$42M revenue 2024 (est.); 900+ customers, up from 650 end-2024",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "45",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Alloy-NY-Reviews-E3072397.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A leading orchestration layer for bank and fintech onboarding: once 300+ data sources and decision rules run through Alloy it is hard to rip out, and 900+ institutions use it; but the category is crowded (Socure, Persona, Sardine, LexisNexis) and there has been no new primary round since 2022.",
+  "distance_sources": [
+   {
+    "label": "Alloy: H1 2026 momentum, 900+ customers (Jul 2026)",
+    "url": "https://www.alloy.com/about/press/alloy-h1-momentum"
+   },
+   {
+    "label": "TechCrunch: Alloy reaches $1.55B valuation (Sep 2022)",
+    "url": "https://techcrunch.com/tag/alloy"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Marble Health",
+  "slug": "marble-health",
+  "site": "https://marblehealth.com",
+  "careers_url": "https://jobs.ashbyhq.com/marblehealth",
+  "what_they_do": "School-referred virtual therapy for kids and teens, billed to Medicaid and insurance",
+  "problem": "Schools spot kids who need mental health care but families face months-long waitlists and costs they can't pay",
+  "industry": "Youth behavioral health / school-based care",
+  "stage": "Series A",
+  "last_round": "$15.5M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": "Costanoa Ventures (with Khosla, Town Hall Ventures)",
+  "total_open_roles": "13",
+  "ops_roles": "Strategy & Ops Lead, New Markets; Clinical Operations Lead; Revenue Operations Lead; Care Operations Associate",
+  "hiring_trend": "Headcount ~68 → ~136 in 12 mo (+100%, LinkedIn est.); 6 new roles posted in Sep 2026",
+  "headcount": "~136",
+  "latest_news": "~1,500 partner schools and 5,000+ students served across NY, NJ and Ohio",
+  "latest_news_date": "May 2026",
+  "latest_news_url": "https://www.alumni.hbs.edu/news-insights/stories/care-before-crisis",
+  "traction": "Growing 5x YoY (CEO, Jun 2026); ~1,500 partner schools; 5,000+ students served",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.7",
+  "glassdoor_reviews": "12",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Marble-Health-Reviews-E10726620.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "Unproven",
+  "distance_why": "Two-year-old Series A from the Headway founders with fast school adoption (~1,500 schools, 5x growth), but revenue is undisclosed and better-funded rivals (Hazel Health, Brightline, Uwill) are bigger in school mental health; too early to call.",
+  "distance_sources": [
+   {
+    "label": "HBS Alumni: Care Before Crisis (May 2026)",
+    "url": "https://www.alumni.hbs.edu/news-insights/stories/care-before-crisis"
+   },
+   {
+    "label": "PR Newswire: Marble raises $15.5M Series A (Oct 2025)",
+    "url": "https://www.prnewswire.com/news-releases/marble-raises-15-5m-series-a-to-scale-access-to-youth-mental-health-care-302583202.html"
+   },
+   {
+    "label": "Jake Sussman (CEO) LinkedIn: growing 5x YoY (Jun 2026)",
+    "url": "https://www.linkedin.com/posts/jake-sussman-59164896_marble-health-is-growing-quickly-and-im-activity-7472783343454171136-f_mr"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "PST",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Agave",
+  "slug": "agave",
+  "site": "https://useagave.com",
+  "careers_url": "https://jobs.ashbyhq.com/agave",
+  "what_they_do": "AI agents for construction accounting: AP invoices, expenses, job costing, ERP sync",
+  "problem": "Contractor finance teams re-key invoices and reconcile job costs by hand across decades-old ERPs with no APIs",
+  "industry": "Construction tech / AI financial operations",
+  "stage": "Series A",
+  "last_round": "$15M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Accel",
+  "total_open_roles": "10",
+  "ops_roles": "Operations Associate; Customer Solutions Engineer (CSE); Technical Support Engineer (TSE)",
+  "hiring_trend": "Headcount ~59 → ~95 in 12 mo (+61%, LinkedIn est.); plans to 3x team in 2026",
+  "headcount": "~85-95",
+  "latest_news": "Raised $15M Series A led by Accel; plans 4+ new AI products in six months",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://useagave.com/blog/announcing-agaves-15m-series-a",
+  "traction": "Recurring revenue ~3x YoY; 500+ customers; profitable 2+ years; AI revenue up 10x+",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Four years of two-way connectors into 14+ construction ERPs (one of two firms with Sage's exclusive APIs) make it hard to replace, with proof in profitable 3x growth and 500+ customers; still small next to Procore and Trimble, and it depends on those vendors' systems.",
+  "distance_sources": [
+   {
+    "label": "Agave: Announcing our $15M Series A (Jul 2026)",
+    "url": "https://useagave.com/blog/announcing-agaves-15m-series-a"
+   },
+   {
+    "label": "Accel: Leading Agave's Series A",
+    "url": "https://www.accel.com/news/leading-agave-s-series-a-ai-infrastructure-for-the-construction-industry"
+   },
+   {
+    "label": "Agave: deeper partnership with Sage",
+    "url": "https://useagave.com/blog/agave-announces-deeper-partnership-with-sage"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Cortex",
+  "slug": "cortex",
+  "site": "https://www.cortex.io",
+  "careers_url": "https://job-boards.greenhouse.io/cortex",
+  "what_they_do": "Internal developer portal: service catalog, ownership, scorecards and golden paths for engineering",
+  "problem": "Engineering leaders can't see who owns which service or whether teams meet reliability and security standards",
+  "industry": "Developer tools / engineering operations",
+  "stage": "Series C",
+  "last_round": "$60M",
+  "last_round_date": "Sep 2024",
+  "lead_investors": "Scale Venture Partners",
+  "total_open_roles": "5",
+  "ops_roles": "Senior Professional Services Engineer - Implementation and Onboarding",
+  "hiring_trend": "Shrinking: headcount ~128 (Sep 2025) → ~105-113 (2026), -5% to -10% YoY; many roles closed Jul-Oct 2026",
+  "headcount": "~110",
+  "latest_news": "Open-sourced engrams, a self-hosted coding-agent 'software factory', at EVOLVE",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://builders.cortex.io/blog/introducing-engrams/",
+  "traction": "300+ customers claimed (Brex, Grammarly, SoFi); est. revenue $22-38M, no growth figure",
+  "red_flags": "Headcount shrinking ~5-10% YoY with no new round since Sep 2024; open roles down to 5 after a wave of closures in Jul-Oct 2026. Rival Port raised $100M at $800M (Dec 2025).",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn company page: 113 employees, -5% YoY",
+    "url": "https://linkedin.com/company/cortexapp"
+   },
+   {
+    "label": "Getlatka: 128 employees (Sep 2025)",
+    "url": "https://getlatka.com/companies/cortex.io"
+   },
+   {
+    "label": "ChangeSignal: Cortex roles closed Jul-Oct 2026",
+    "url": "https://getchangesignal.com/company/cortex"
+   },
+   {
+    "label": "Cortex: Series C $60M (Sep 2024, last round)",
+    "url": "https://www.cortex.io/post/announcing-series-c"
+   }
+  ],
+  "score": "0.0",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "17",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Cortex-Reviews-E650818.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "A follower in a crowded category: open-source Backstage holds most IDP adoption and Port leads commercial portals after a $100M round, while Cortex is shrinking and repositioning toward AI 'engineering operations'.",
+  "distance_sources": [
+   {
+    "label": "Port: $100M Series C at $800M (Dec 2025)",
+    "url": "https://www.port.io/blog/port-100m-series-c"
+   },
+   {
+    "label": "Tasrie: Port vs Backstage vs Cortex (2026)",
+    "url": "https://tasrieit.com/blog/port-vs-backstage-vs-cortex-developer-portal-comparison-2026"
+   },
+   {
+    "label": "Cortex: evolution from IDP to EngOps platform (Mar 2026)",
+    "url": "https://www.cortex.io/products/cortex-idp"
+   }
+  ],
+  "hiring_locations": [
+   "Remote"
+  ]
  }
 ]
