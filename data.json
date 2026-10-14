@@ -21465,5 +21465,54 @@
    "Remote (Singapore)",
    "Remote (Europe)"
   ]
+ },
+ {
+  "name": "Chamelio",
+  "slug": "chamelio",
+  "site": "https://www.chamelio.ai",
+  "careers_url": "https://jobs.ashbyhq.com/chamelio",
+  "what_they_do": "AI agents that draft, review and negotiate contracts for in-house legal teams",
+  "problem": "In-house legal teams face rising contract workloads without more headcount, and legacy CLM only stores documents",
+  "industry": "Legal tech / AI CLM",
+  "stage": "Series A",
+  "last_round": "$26M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Entrée Capital",
+  "total_open_roles": "8",
+  "ops_roles": "Lead Customer Success Manager; Legal Engineer",
+  "hiring_trend": "Headcount ~20 → ~43 since Jan 2026 seed (LinkedIn +207% YoY)",
+  "headcount": "~43",
+  "latest_news": "Raised $26M Series A led by Entrée Capital, eight months after $10M seed",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://alleywatch.com/2026/09/chamelio-in-house-legal-ai-contract-lifecycle-management-alex-zilberman/",
+  "traction": "ARR up 4x since Jan seed; 100+ customers incl. Wiz, monday.com; +7-8 a month",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast early adoption and hands-on legal-engineering migrations build stickiness, but it is a follower in crowded AI CLM against legacy CLM vendors and funded rivals Ivo and Sandstone.",
+  "distance_sources": [
+   {
+    "label": "Bloomberg Law: Chamelio raises $26M to take on legacy contract tech (Sep 2026)",
+    "url": "https://news.bloomberglaw.com/legal-ops-and-tech/chamelio-raises-26-million-to-take-on-legacy-contract-tech"
+   },
+   {
+    "label": "AlleyWatch: Chamelio CEO interview on $26M Series A (Sep 2026)",
+    "url": "https://alleywatch.com/2026/09/chamelio-in-house-legal-ai-contract-lifecycle-management-alex-zilberman/"
+   }
+  ],
+  "hiring_locations": [
+   "Tel Aviv",
+   "Remote (US)"
+  ]
  }
 ]
