@@ -25465,5 +25465,121 @@
    "New York",
    "Remote"
   ]
+ },
+ {
+  "name": "Topline Pro",
+  "slug": "topline-pro",
+  "site": "https://www.toplinepro.com",
+  "careers_url": "https://jobs.ashbyhq.com/topline-pro",
+  "what_they_do": "AI app that markets, books, invoices and answers leads for home-service small businesses",
+  "problem": "Solo roofers, cleaners and landscapers lack time and staff to get found online, answer leads and get paid",
+  "industry": "Vertical AI / home-services SMB software",
+  "stage": "Series B",
+  "last_round": "$27M",
+  "last_round_date": "Aug 2025",
+  "lead_investors": "Northzone",
+  "total_open_roles": "12",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~50 → 115+ Apr 2025 to Apr 2026 (employee post), ~160 on LinkedIn now; open roles steady at 12-14",
+  "headcount": "~130-160",
+  "latest_news": "New AI-native app (launched Jul 2026) added more ARR in 2 months than first 45 months",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/toplinepro_activity-7503814293742673920-RnuB",
+  "traction": "~$12M ARR (est.); 6,000+ paying pros; $1B+ in jobs booked for customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "27",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Topline-Pro-Reviews-E6782972.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real momentum with owner-operators (6,000+ pros, fast new-product ARR), but it is a small follower in a crowded field behind Jobber, Housecall Pro, ServiceTitan and Thumbtack/Angi, selling to churn-prone micro-businesses.",
+  "distance_sources": [
+   {
+    "label": "Vertical Velocity: Topline Pro ~$12M ARR, #4 of 5 home-services AI cos (Sep 2026)",
+    "url": "https://www.verticalvelocity.co/company/topline-pro"
+   },
+   {
+    "label": "Northzone: why we led Topline Pro's $27M Series B (Aug 2025)",
+    "url": "https://northzone.com/insights/our-investment-in-topline-pro-vertical-ai-for-capturing-the-long-tail-of-smes"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Boston",
+   "Nashville"
+  ]
+ },
+ {
+  "name": "Kalshi",
+  "slug": "kalshi",
+  "site": "https://kalshi.com",
+  "careers_url": "https://jobs.ashbyhq.com/kalshi",
+  "what_they_do": "CFTC-regulated exchange for trading yes/no contracts on sports, politics, economics and weather",
+  "problem": "People and institutions had no legal, liquid U.S. market to trade or hedge on real-world event outcomes",
+  "industry": "Prediction markets / derivatives exchange",
+  "stage": "Series F",
+  "last_round": "$1B",
+  "last_round_date": "May 2026",
+  "lead_investors": "Coatue",
+  "total_open_roles": "49",
+  "ops_roles": "Support Operations; Compliance, Regulatory Operations; Tax, Strategy & Operations; Market Operations - Sports",
+  "hiring_trend": "Headcount ~240 (2025, Revelio) → ~580 (Sep 2026, Tracxn/LinkedIn), est. 2x+ in a year; 49 open roles",
+  "headcount": "~580",
+  "latest_news": "Finalizing ~$1B round at ~$40B valuation, expected to be last before a 2027 IPO",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://cryptobriefing.com/kalshi-nears-1-billion-raise-40-billion-valuation/",
+  "traction": "$2B ARR revenue run-rate (mid-2026); 90%+ of U.S. prediction-market volume; volume $52B → $178B annualized in 6 mo",
+  "red_flags": "Unresolved, material state-by-state legal fight over its sports contracts (the bulk of its volume and revenue): the 9th and 6th Circuits ruled for Nevada, Ohio and Tennessee (Aug–Sep 2026), court orders block sports contracts in Nevada, Michigan and Washington, New York's AG is suing to shut it down and seeks $36B (Jul 2026), and New Jersey has asked the Supreme Court to decide. Watch-out, not scored: Oct 2026 wash-trading allegations in its ether perps market, after which it moved to end a volume-rewards program.",
+  "red_flags_sources": [
+   {
+    "label": "Ars Technica: 6th Circuit rules states can enforce gambling laws on Kalshi (Sep 2026)",
+    "url": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/"
+   },
+   {
+    "label": "Gothamist: New York sues to shut down Kalshi, seeks $36B (Jul 2026)",
+    "url": "https://gothamist.com/news/ny-looks-to-shut-down-kalshi-have-it-pay-36-billion-in-new-lawsuit"
+   },
+   {
+    "label": "Gambling Insider: New Jersey takes Kalshi fight to the Supreme Court (Sep 2026)",
+    "url": "https://www.gamblinginsider.com/news/194898/new-jersey-kalshi-sports-betting-supreme-court"
+   },
+   {
+    "label": "SBC Americas: Kalshi moves to end volume rewards after wash-trading scrutiny (Oct 2026)",
+    "url": "https://sbcamericas.com/2026/10/02/kalshi-end-volume-rewards-scrutiny"
+   }
+  ],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "27",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Kalshi-Reviews-E5273135.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Clear category leader with 90%+ of U.S. prediction-market volume and a liquidity network that compounds, now adding institutional and perps lines; held back from Marathon because state gambling rulings could fence off sports, its biggest market, and Polymarket, Robinhood and sportsbooks are crowding in.",
+  "distance_sources": [
+   {
+    "label": "Kalshi: $1B Series F at $22B, 90%+ U.S. share (May 2026)",
+    "url": "https://news.kalshi.com/p/kalshi-raises-1-billion-22-billion-valuation-institutional-demand-surges"
+   },
+   {
+    "label": "Ars Technica: circuit split on state gambling laws (Sep 2026)",
+    "url": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote"
+  ]
  }
 ]
