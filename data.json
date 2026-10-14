@@ -26657,5 +26657,57 @@
    "New York",
    "Remote (Europe)"
   ]
+ },
+ {
+  "name": "Latitude",
+  "slug": "latitude",
+  "site": "https://latitude.xyz",
+  "careers_url": "https://jobs.ashbyhq.com/latitude-global",
+  "what_they_do": "One API that pays out abroad in local currency, using stablecoins to settle behind the scenes",
+  "problem": "Paying contractors, sellers and users abroad is slow, costly and needs a different provider and license in every country",
+  "industry": "Cross-border payments / stablecoin infrastructure",
+  "stage": "Series A",
+  "last_round": "$35M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Oak HC/FT (Series A); NEA (seed)",
+  "total_open_roles": "4",
+  "ops_roles": "Head of Strategy & Operations",
+  "hiring_trend": "Team ~11 (Mar 2026) to ~14-15 (Sep-Oct 2026); 4 open roles, all US remote",
+  "headcount": "~15",
+  "latest_news": "Raised $35M Series A led by Oak HC/FT; total funding $43M",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://fortune.com/2026/09/09/exclusive-latitude-stripe-uber-alums-35-million-stablecoins-local-payments",
+  "traction": "Payouts to 50+ countries; licensed in 45 US markets; revenue not disclosed (beta in Mar 2026)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "About 15 people and out of stealth only since Mar 2026, with early customers like Zencastr; owning its own licenses in 45 US markets is a real head start, but it faces Bridge (Stripe) and BVNK (Mastercard).",
+  "distance_sources": [
+   {
+    "label": "Oak HC/FT: Why we led Latitude's $35M Series A (Sep 2026)",
+    "url": "https://www.oakhcft.com/blog-post/the-last-mile-of-global-money-why-we-led-latitudes-35-million-series-a"
+   },
+   {
+    "label": "Fortune: Latitude raises $8M seed, 11 employees, in beta (Mar 2026)",
+    "url": "https://fortune.com/2026/03/31/exclusive-former-stripe-and-coinbase-employees-raise-8-million-for-latitude/"
+   },
+   {
+    "label": "Payments Dive: Q&A with CEO Cyril Mathew, 14 employees, ~50 countries (Oct 2026)",
+    "url": "https://www.paymentsdive.com/news/how-stablecoins-speed-intl-payments-crypto-cross-border-emerging-markets/831935/"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
+  ]
  }
 ]
