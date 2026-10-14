@@ -26449,5 +26449,59 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Universal Quantum",
+  "slug": "universal-quantum",
+  "site": "https://universalquantum.com",
+  "careers_url": "https://apply.workable.com/universalquantum/",
+  "what_they_do": "Modular trapped-ion quantum computers built by tiling silicon chips linked with electric fields",
+  "problem": "Governments and labs need quantum computers that can scale to millions of qubits without huge laser and cooling setups",
+  "industry": "Quantum computing hardware",
+  "stage": "Series A",
+  "last_round": "$100M+",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "DCVC, Firgun Ventures",
+  "total_open_roles": "36",
+  "ops_roles": "Supply Chain & Procurement Lead",
+  "hiring_trend": "Flat, ~100 staff (Revelio −3.7% YoY; LinkedIn ~103); postings 6 → 20 in 2026 (Revelio), 36 live on Workable",
+  "headcount": "~100",
+  "latest_news": "Raised $100M+ Series A co-led by DCVC and Firgun, largest ever for UK quantum",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://universalquantum.com/knowledge-hub/universal-quantum-raises-over-100m-series-a-to-scale-quantum-computing-globally",
+  "traction": "€67M ($77M) DLR contract for two machines; £9.2M revenue 2025, down from £17.0M in 2023",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.75",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.9",
+  "glassdoor_reviews": "13",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Universal-Quantum-Reviews-E3430745.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "Smaller trapped-ion player behind Quantinuum ($600M raise) and IonQ (bought Oxford Ionics); its one named customer is Germany's DLR (verified €67M contract), with both machines due around end-2026. Revenue fell two years running, it swung to a £5.8M loss in 2025 and cash fell to £3.6M before this round, so burn and single-customer exposure are real.",
+  "distance_sources": [
+   {
+    "label": "DLR QCI: Universal Quantum is contractor on Toccata and Legato ion-trap projects",
+    "url": "https://qci.dlr.de/en/partner/universal-quantum"
+   },
+   {
+    "label": "DLR: ion-trap contracts awarded, prototypes within four years (Oct 2022)",
+    "url": "http://dlr.de/en/latest/news/2022/04/contract-awarded-as-part-of-the-dlr-quantum-computing-initiative"
+   },
+   {
+    "label": "Series A Stories: filed accounts, 2025 loss, cash and competition (Oct 2026)",
+    "url": "https://seriesastories.substack.com/p/quantum-startups-raise-for-years"
+   },
+   {
+    "label": "Universal Quantum: $100M+ Series A press release (Oct 2026)",
+    "url": "https://universalquantum.com/knowledge-hub/universal-quantum-raises-over-100m-series-a-to-scale-quantum-computing-globally"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
