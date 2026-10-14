@@ -26399,5 +26399,55 @@
    "San Francisco",
    "Remote"
   ]
+ },
+ {
+  "name": "Notch",
+  "slug": "notch",
+  "site": "https://www.notch.cx",
+  "careers_url": "https://www.notch.cx/careers",
+  "what_they_do": "Governed AI agents that run claims, servicing and back-office work for insurers and banks",
+  "problem": "Insurers and banks can't move AI past pilots because it must be auditable, compliant and wired into legacy systems",
+  "industry": "AI agents for insurance & financial services operations",
+  "stage": "Series A",
+  "last_round": "$30M",
+  "last_round_date": "Mar 2026",
+  "lead_investors": "Headline (Lightspeed led the $7M seed)",
+  "total_open_roles": "6",
+  "ops_roles": "Agent Product Manager; Head of Solution Engineering; Lifecycle & Marketing Operations Manager",
+  "hiring_trend": "Headcount ~50 (Mar 2026) → ~80-86 (Oct 2026, LinkedIn est.), about +230% YoY; 6 open roles",
+  "headcount": "~80-86",
+  "latest_news": "Named a Qumra Capital Tomorrow's Growth Company 2026; expanding Phoenix Insurance deployment into claims and voice",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.notch.cx/post/notch-recognized-as-one-of-tomorrows-growth-companies-for-2026",
+  "traction": "ARR up 12x in 12 months (company-reported); 30+ enterprise clients, 10M+ interactions",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Deep, on-prem integrations into carriers' claims and policy systems make it sticky once live, but it is a small follower in a crowded AI customer-experience field (Sierra, Decagon, Wonderful, which it meets head-on in Israel), with about 30 enterprise clients so far.",
+  "distance_sources": [
+   {
+    "label": "Ctech: Notch lands $30M Series A; CEO on competing with Wonderful (Mar 2026)",
+    "url": "https://www.calcalistech.com/ctechnews/article/hjdpyrwjze"
+   },
+   {
+    "label": "Notch: Phoenix Insurance expands platform into claims, internal ops and voice (Sep 2026)",
+    "url": "https://www.notch.cx/success-stories/phoenix-insurance"
+   },
+   {
+    "label": "Notch: Series A post, ARR grew 12x in 12 months (Mar 2026)",
+    "url": "https://notch.cx/post/notch-30-million-series-a"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
