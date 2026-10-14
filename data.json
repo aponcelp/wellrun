@@ -26909,5 +26909,71 @@
    "Mexico City",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Eko Health",
+  "slug": "eko-health",
+  "site": "https://www.ekohealth.com",
+  "careers_url": "https://jobs.lever.co/ekohealth",
+  "what_they_do": "AI-powered digital stethoscopes that flag heart murmurs, low EF and AFib during routine exams",
+  "problem": "Most heart disease goes undiagnosed because clinicians can't reliably hear murmurs or weak hearts with an analog stethoscope",
+  "industry": "Medical devices / AI cardiac detection",
+  "stage": "Series D",
+  "last_round": "$41M",
+  "last_round_date": "Jun 2024",
+  "lead_investors": "ARTIS Ventures, Highland Capital Partners, NTTVC, Questa Capital (participants; no lead named)",
+  "total_open_roles": "6",
+  "ops_roles": "Customer Experience Associate",
+  "hiring_trend": "Flat, ~201 staff (+0.4% YoY, down 18.5% from 2023 peak of 247); postings up 113% in 2026 (Revelio)",
+  "headcount": "~200",
+  "latest_news": "Named to TIME's World's Top HealthTech Companies of 2026, second year running",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.ekohealth.com/blogs/newsroom/eko-2026-time-top-healthtech-company",
+  "traction": "750,000 stethoscopes sold (up from 650,000 in Jul 2025); 9 FDA clearances; CMS payment for SENSORA",
+  "red_flags": "Watch-outs (no -1 applied): no priced round in 28 months, and the Jun 2024 Series D was a down round (~$271M vs ~$395M in 2022, secondary-market estimate). Headcount fell 18.5% from its 2023 peak and has been flat since. A Jul 2026 Glassdoor review cites 'massive layoffs every 2 years', though no layoff was reported in the press in the last 24 months.",
+  "red_flags_sources": [
+   {
+    "label": "StockAnalysis/Forge: Eko Health valuation history, Series D -31% (Oct 2026)",
+    "url": "https://stockanalysis.com/private/eko-health/valuation/"
+   },
+   {
+    "label": "Revelio Labs: Eko Health headcount 247 (2023) to 201 (2026)",
+    "url": "https://www.reveliolabs.com/companies/eko-health/employees"
+   },
+   {
+    "label": "Glassdoor: Eko reviews, incl. Jul 2026 'frequent layoffs' review",
+    "url": "https://www.glassdoor.com/Reviews/Eko-Reviews-E679612.htm"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.2",
+  "glassdoor_reviews": "37",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Eko-Reviews-E679612.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "The category leader in AI digital stethoscopes: 750,000 devices sold, 9 FDA clearances, a foundation model trained on 4M+ heart recordings, and CMS reimbursement are hard for anyone to copy. Still small for medtech, with no new funding since 2024 and its own store's sales slipping.",
+  "distance_sources": [
+   {
+    "label": "Eko: 750,000 devices sold, 9 FDA clearances (May 2026)",
+    "url": "https://www.ekohealth.com/pages/750k-devices-sold"
+   },
+   {
+    "label": "TechTarget: Wayne General deploys SENSORA; EFAST model cleared Sep 2025, CMS rate $128.90 (Apr 2026)",
+    "url": "https://www.techtarget.com/healthtechanalytics/feature/How-a-rural-community-hospital-deploys-AI-to-detect-heart-disease"
+   },
+   {
+    "label": "TechCrunch: Eko Health $41M Series D, $165M total (Jun 2024)",
+    "url": "https://techcrunch.com/2024/06/05/eko-health-scores-41m-to-detect-heart-disease-earlier-and-more-accurately/"
+   }
+  ],
+  "hiring_locations": [
+   "Emeryville",
+   "Remote (US)"
+  ]
  }
 ]
