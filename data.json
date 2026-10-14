@@ -25645,5 +25645,78 @@
    "Washington, DC",
    "Remote"
   ]
+ },
+ {
+  "name": "Modern Health",
+  "slug": "modern-health",
+  "site": "https://www.modernhealth.com",
+  "careers_url": "https://job-boards.greenhouse.io/modernhealth",
+  "what_they_do": "Employer mental health benefit: coaching, therapy, psychiatry, groups and digital tools in one app",
+  "problem": "Employers can't get every employee, worldwide, to the right level of mental health care at a predictable cost",
+  "industry": "Workplace mental health / employee benefits",
+  "stage": "Series D",
+  "last_round": "$74M",
+  "last_round_date": "Feb 2021",
+  "lead_investors": "Founders Fund",
+  "total_open_roles": "5",
+  "ops_roles": "Revenue Operations Lead; Senior Client Manager",
+  "hiring_trend": "Flat: ~920 on LinkedIn (854 Dec 2024 → 922 Nov 2025, incl. care staff); only 5 open roles, all remote US",
+  "headcount": "~600-920 (est.)",
+  "latest_news": "Published global research: employees want coaching and manager support, not only therapy",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://hrtechedge.com/hr/modern-health-study-finds-employees-want-more-than-therapy-from-workplace-mental-health-benefits/",
+  "traction": "~$175M revenue (2024 est.); 184% 3-yr revenue growth (Inc. 5000 2025); 200+ countries",
+  "red_flags": "Watch (not scored): no priced round since the $74M Series D at $1.17B (Feb 2021), only a ~$21.5M mezzanine deal in Feb 2023 while Lyra and Spring raised and bought rivals; two layoff rounds in 2023 (~170 people, outside the 24-mo window); founder-CEO stepped aside for Matt Levin (Apr 2025); Glassdoor 3.3 with low senior-management scores.",
+  "red_flags_sources": [
+   {
+    "label": "Modern Health: $74M Series D at $1.17B valuation (Feb 2021)",
+    "url": "https://www.modernhealth.com/post/post-series-d-and-a-1-17-billion-valuation-were-energized-by-the-task-ahead"
+   },
+   {
+    "label": "PitchBook: Modern Health profile, $21.5M mezzanine (Feb 2023)",
+    "url": "https://pitchbook.com/profiles/company/226876-69"
+   },
+   {
+    "label": "TrueUp: Modern Health layoffs (Jan and Jun 2023, ~170 impacted)",
+    "url": "https://www.trueup.io/co/modern-health/layoffs"
+   },
+   {
+    "label": "Business Wire via Morningstar: Matt Levin named CEO, founder to Executive Chair (Apr 2025)",
+    "url": "https://www.morningstar.com/news/business-wire/20250404652765/modern-health-appoints-matt-levin-as-ceo-founder-alyson-watson-transitions-to-executive-chair"
+   },
+   {
+    "label": "Glassdoor: Modern Health reviews (3.3, 155 reviews)",
+    "url": "https://www.glassdoor.com/Reviews/Modern-Health-Reviews-E3052375.htm"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.3",
+  "glassdoor_reviews": "155",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Modern-Health-Reviews-E3052375.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "A real, scaled employer benefit (~$175M revenue est., global network) but a #3-4 follower in a consolidating category: Lyra ($5.58B) and Spring (now with Alma) are bigger and still raising and acquiring, while Modern Health hasn't priced a round since 2021.",
+  "distance_sources": [
+   {
+    "label": "GetLatka: Modern Health ~$174.6M revenue est. vs Spring, Lyra (Sep 2026)",
+    "url": "https://getlatka.com/companies/modernhealth.com"
+   },
+   {
+    "label": "Behavioral Health Business: Inc. 5000 2025, Modern Health 184% growth, $100M-$250M range",
+    "url": "https://bhbusiness.com/2025/08/13/45-behavioral-health-companies-ranked-among-the-fastest-growing-in-the-us/"
+   },
+   {
+    "label": "Fierce Healthcare: Lyra Health $235M at $5.58B valuation",
+    "url": "https://www.fiercehealthcare.com/digital-health/lyra-health-gets-235m-soars-to-5-85b-valuation-new-acquisition-for-global-expansion"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
+  ]
  }
 ]
