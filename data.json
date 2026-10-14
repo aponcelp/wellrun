@@ -25390,5 +25390,80 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Vapi",
+  "slug": "vapi",
+  "site": "https://vapi.ai",
+  "careers_url": "https://jobs.ashbyhq.com/vapi",
+  "what_they_do": "Developer platform to build, test, deploy and run AI voice agents on the phone",
+  "problem": "Businesses drown in support and sales calls that rigid phone trees can't resolve and call centers cost too much to staff",
+  "industry": "Voice AI / contact center automation",
+  "stage": "Series B",
+  "last_round": "$50M",
+  "last_round_date": "May 2026",
+  "lead_investors": "Peak XV Partners",
+  "total_open_roles": "23",
+  "ops_roles": "Cost Revenue Analyst (Business Operations); Customer Support Engineer, Senior Manager; Member of Technical Staff, Forward Deployed; Customer Support Engineer",
+  "hiring_trend": "LinkedIn headcount ~149, +20% in 90 days (AI Index); ~100 at Series B in May 2026",
+  "headcount": "~100-150",
+  "latest_news": "Launched Personal Agent Calling beta so personal AI assistants can make phone calls",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://vapi.ai/blog/vapi-personal-agent-calling",
+  "traction": "$10M+ ARR ('healthy eight figures'); enterprise ARR 10x; 1B+ calls, 1M+ developers",
+  "red_flags": "Watch-outs (no score impact): reliability, with a 4-hour full US outage in May 2026 and 18 status incidents in 90 days; Jun 2026 npm supply-chain worm hit its server SDK (contained in 3 hours, no customer data accessed); Nov 2025 CERT/CC note on voice-agent phishing abuse (written about Retell) lists Vapi as a notified vendor with status unknown; one recent Glassdoor review calls it toxic and says benefits were cut in Jan 2026; 12-month turnover ~26.5% (PDL est.). No layoffs found.",
+  "red_flags_sources": [
+   {
+    "label": "Vapi status: RCA for US platform outage (May 21, 2026)",
+    "url": "https://status.vapi.ai/incident/901977"
+   },
+   {
+    "label": "Hermes: Vapi 18 incidents in 90 days (Jun 2026)",
+    "url": "https://www.buildwithhermes.com/blog/vapi-outage-record-18-incidents-90-days-agency-risk-2026-06-01"
+   },
+   {
+    "label": "Vapi: response to June 3, 2026 supply chain incident",
+    "url": "https://vapi.ai/blog/our-response-to-june-3-supply-chain-incident"
+   },
+   {
+    "label": "CERT/CC Vulnerability Note VU#649739, Vapi listed as notified vendor (Nov 2025)",
+    "url": "https://www.kb.cert.org/vuls/id/649739"
+   },
+   {
+    "label": "Glassdoor: Vapi reviews",
+    "url": "https://www.glassdoor.com/Reviews/Vapi-Reviews-E10490201.htm"
+   },
+   {
+    "label": "The AI Index: Vapi headcount, turnover, layoffs (0)",
+    "url": "https://www.theaiindex.dev/company/vapi"
+   }
+  ],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "4.1",
+  "glassdoor_reviews": "9",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Vapi-Reviews-E10490201.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A top developer voice-agent platform (1M+ developers, 1B+ calls, $500M valuation) that won Amazon Ring over 40 vendors and is embedded in enterprise call flows at Intuit and New York Life; Retell, ElevenLabs and Sierra/Decagon contest the same buyers, and reliability is a live risk.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Vapi hits $500M valuation after winning Amazon Ring (May 2026)",
+    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/"
+   },
+   {
+    "label": "GlobeNewswire: Vapi raises $50M Series B, 1B calls (May 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/05/12/3292882/0/en/Vapi-raises-50M-Series-B-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-AI.html"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote"
+  ]
  }
 ]
