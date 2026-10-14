@@ -25323,5 +25323,72 @@
    "San Francisco",
    "Remote"
   ]
+ },
+ {
+  "name": "Retool",
+  "slug": "retool",
+  "site": "https://retool.com",
+  "careers_url": "https://jobs.gem.com/retool",
+  "what_they_do": "Governed platform to build, deploy and run internal apps and AI agents",
+  "problem": "Teams need custom internal tools and AI agents on company data without wrecking security, access controls or governance",
+  "industry": "Internal tools / enterprise AI app builder",
+  "stage": "Series C",
+  "last_round": "$45M",
+  "last_round_date": "Jul 2022",
+  "lead_investors": "Sequoia Capital",
+  "total_open_roles": "25",
+  "ops_roles": "Director, Business Operations",
+  "hiring_trend": "Shrinking: headcount ~397 → ~372 Q1 2025 to Q1 2026 (Revelio, -6%); ~415 on LinkedIn (-13% YoY est.); 25 open roles",
+  "headcount": "~370-415",
+  "latest_news": "Launched a centralized agent harness for running governed AI agents in Slack, Teams and Google Chat",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://retool.com/blog/category/product",
+  "traction": "$120M ARR (Oct 2025, Sacra est.), up from $90M end of 2024; 10,000+ organizations",
+  "red_flags": "Shrinking with high attrition: headcount down ~6% YoY to ~372 by Q1 2026 (Revelio; LinkedIn est. -13%), and 2026 employee reviews cite record attrition, management/leadership turnover and a business hit by AI coding tools. No primary round since Jul 2022 ($3.2B); the Oct 2025 ~$45M institutional secondary was flat at $3.2B, not new funding.",
+  "red_flags_sources": [
+   {
+    "label": "Revelio Labs: Retool headcount 397 (Q1 2025) to 372 (Q1 2026), sentiment negative",
+    "url": "https://www.reveliolabs.com/companies/retool/employees"
+   },
+   {
+    "label": "Glassdoor: Retool reviews, Sep 2026 reviews cite management turnover and toxic sales leadership",
+    "url": "https://www.glassdoor.com/Reviews/Retool-Reviews-E4713854.htm"
+   },
+   {
+    "label": "RepVue: Retool AE review, 'attrition at an all time high' (Apr 2026)",
+    "url": "https://www.repvue.com/companies/Retool/reviews/retool-review-alu8tarr"
+   },
+   {
+    "label": "Blind: ex-employees on attrition and AI hit to the business (Feb 2026)",
+    "url": "https://www.teamblind.com/post/how-is-engineering-and-overall-company-culture-at-retool-hj064xjf"
+   },
+   {
+    "label": "Sacra: valuation table, Oct 2025 institutional secondary at $3.2B",
+    "url": "https://sacra.com/embed/company-data-valuation-table/retool"
+   }
+  ],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.7",
+  "glassdoor_reviews": "131",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Retool-Reviews-E4713854.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Category leader in internal-tool builders (~$120M ARR, 10,000+ orgs, apps run critical ops at Amazon, Brex, Coinbase, hard to rip out), but AI coding tools now ship the same outcome to the same buyer and the company is shrinking while it rebuilds around governance; exposure is real.",
+  "distance_sources": [
+   {
+    "label": "Sacra: Retool $120M ARR Oct 2025, switching costs and AI displacement risk",
+    "url": "https://sacra.com/c/retool"
+   },
+   {
+    "label": "Retool blog: new governed app builder and agent harness (Jun-Oct 2026)",
+    "url": "https://retool.com/blog/category/product"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
