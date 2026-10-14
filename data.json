@@ -27164,5 +27164,59 @@
    "Remote (North America)",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Zenzap",
+  "slug": "zenzap",
+  "site": "https://www.zenzap.co",
+  "careers_url": "https://www.linkedin.com/company/zenzap",
+  "what_they_do": "Secure work chat app where frontline teams and AI agents share group chats",
+  "problem": "Frontline and SMB teams run work on WhatsApp and personal phones, with no control, records or automation",
+  "industry": "Workplace messaging / frontline team communication + AI agents",
+  "stage": "Series A",
+  "last_round": "$33M",
+  "last_round_date": "Aug 2025",
+  "lead_investors": "Lightspeed, Bessemer Venture Partners",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "~28 staff (IVC, 2024) → ~45–60 (Ctech/TechCrunch/Tracxn, 2026); no public job board",
+  "headcount": "~50",
+  "latest_news": "Emerged from stealth with $44M total; $33M Series A co-led by Lightspeed, Bessemer",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+  "traction": "10,000+ teams use it daily; 15,000+ active agents; FedEx, Starbucks, Taco Bell, Dollar General",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real adoption (10,000+ teams, big-chain logos) but a follower in frontline comms behind Connecteam (80,000+ businesses) and Beekeeper/LumApps ($1B+), with Teams and Slack able to ship agents to the same buyers.",
+  "distance_sources": [
+   {
+    "label": "Ctech: Zenzap $33M Series A, 45 staff, 40,000+ workflows (Oct 2026)",
+    "url": "https://www.calcalistech.com/ctechnews/article/b1zgob6jfe"
+   },
+   {
+    "label": "Lightspeed: AI for the Real Economy, our Series A in Zenzap (Oct 2026)",
+    "url": "https://lsvp.com/stories/ai-for-the-real-economy-our-series-a-in-zenzap/"
+   },
+   {
+    "label": "LumApps and Beekeeper combine at $1B+ valuation (Jul 2025)",
+    "url": "https://www.lumapps.com/insights/news/lumapps-and-beekeeper-to-join-forces-creating-the-leading-employee-experience-platform-for-the-future-of-work"
+   },
+   {
+    "label": "TechCrunch: Connecteam raises $120M at $800M+ valuation (Mar 2022)",
+    "url": "https://techcrunch.com/2022/03/02/connecteam-raises-120m-at-an-800m-valuation-for-its-all-in-one-communications-app-for-deskless-workers/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
