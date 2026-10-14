@@ -26833,5 +26833,81 @@
   "hiring_locations": [
    "New York"
   ]
+ },
+ {
+  "name": "Watershed",
+  "slug": "watershed",
+  "site": "https://watershed.com",
+  "careers_url": "https://jobs.ashbyhq.com/watershed",
+  "what_they_do": "AI platform to measure, report and cut corporate carbon emissions",
+  "problem": "Companies can't produce audit-ready emissions numbers across their supply chain for regulators, customers and investors without months of spreadsheets",
+  "industry": "Climate / carbon accounting software",
+  "stage": "Series C",
+  "last_round": "$14.5M unannounced extension (after $100M Series C at $1.8B, Feb 2024)",
+  "last_round_date": "Dec 2025",
+  "lead_investors": "Greenoaks, Kleiner Perkins, Sequoia",
+  "total_open_roles": "34",
+  "ops_roles": "Customer operations; Implementation lead; Service delivery manager; Manager, customer data services",
+  "hiring_trend": "Dipped to ~491 after May 2025 cut, back to ~570 by Mar 2026 (Revelio, -0.7% YoY); postings up ~94% in 2026; 34 open roles",
+  "headcount": "~570-650",
+  "latest_news": "EY alliance to help companies get emissions data audit-ready",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.esgdive.com/news/ey-sustainability-platform-watershed-announce-data-alliance/833000/",
+  "traction": "~$108M ARR (2025 est.); 800+ customers, up from 500+ in early 2025",
+  "red_flags": "Employee-reported layoff of ~38 (~10%) in May 2025 amid a climate-software slowdown and US/EU disclosure rollbacks; headcount fell ~4% YoY into mid-2025 before recovering. Secondary-market estimate ~$1.0B, ~44% below the $1.8B Series C, with only a small unannounced $14.5M extension since. 2026 Glassdoor reviews cite leadership churn and understaffed teams (3.7/5).",
+  "red_flags_sources": [
+   {
+    "label": "TrueUp layoffs tracker: ~38 cut (10%), May 2025",
+    "url": "https://www.trueup.io/co/watershed-climate/layoffs"
+   },
+   {
+    "label": "Revelio Labs: headcount 491 in Q2 2025 (-3.8% YoY), 570 by Mar 2026",
+    "url": "https://www.reveliolabs.com/companies/watershed/employees"
+   },
+   {
+    "label": "TrueUp: secondary valuation ~$1.0B (Notice.co est., Oct 2026); last round Jan 2026, $14M",
+    "url": "https://www.trueup.io/co/watershed-climate"
+   },
+   {
+    "label": "Glassdoor review, Apr 2026: 'worse leadership I've ever seen'",
+    "url": "https://www.glassdoor.sg/Reviews/Employee-Review-Watershed-E4668328-RVW103735617.htm"
+   },
+   {
+    "label": "Glassdoor review, Jun 2026: 'every team is understaffed'",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Watershed-E4668328-RVW104279814.htm"
+   }
+  ],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.7",
+  "glassdoor_reviews": "78",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Watershed-Reviews-E4668328.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Leader in enterprise carbon accounting (top scores among 21 vendors in Verdantix 2026) with 800+ customers and audit-grade data that is hard to rip out; but it competes with Salesforce and Microsoft, demand rides on shifting climate rules, and it cut staff in 2025.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: Watershed named Leader, Verdantix 2026 Green Quadrant (Mar 2026)",
+    "url": "https://finance.yahoo.com/news/independent-research-firm-names-watershed-155300224.html"
+   },
+   {
+    "label": "Watershed 2026 Sustainability Report: 800+ customers, 3.5B tCO2e managed",
+    "url": "https://19906869.fs1.hubspotusercontent-na1.net/hubfs/19906869/2026-Watershed-Sustainability-Report.pdf"
+   },
+   {
+    "label": "Business Insider: competitors are Salesforce and Microsoft; 500+ clients (Mar 2025)",
+    "url": "https://www.businessinsider.com/watershed-taylor-francis-how-to-pitch-startup-salesforce-microsoft-compeitition-2025-2"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Mexico City",
+   "Remote (US)"
+  ]
  }
 ]
