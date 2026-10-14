@@ -26346,5 +26346,58 @@
    "Tashkent",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Harbor",
+  "slug": "harbor",
+  "site": "https://harbor.ai",
+  "careers_url": "https://jobs.ashbyhq.com/harbor",
+  "what_they_do": "Finds, risk-scores and guardrails a company's AI agents, then insures what risk remains",
+  "problem": "When an AI agent moves money or gives bad advice, nobody knows who pays, and insurers are excluding AI from policies",
+  "industry": "Insurtech / AI agent risk & liability insurance",
+  "stage": "Seed",
+  "last_round": "$10M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Base10 Partners, Abstract, 8VC",
+  "total_open_roles": "5",
+  "ops_roles": "",
+  "hiring_trend": "Just out of stealth (Oct 2026); 5 SF hybrid roles all posted Oct 8, incl. a build-your-own-role listing",
+  "headcount": "",
+  "latest_news": "Emerged from stealth with a $10M seed led by Base10, Abstract and 8VC",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.insurancejournal.com/news/national/2026/10/13/888747.htm",
+  "traction": "Founded 2026; early customers StackAI, HappyRobot, Crossmint plus unnamed banks; no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Founded this year and just out of stealth with a few early customers and no disclosed revenue; the planned edge is loss data from monitoring agents, but AIUC ($40M Series A, Ribbit) and big carriers are chasing the same AI-liability gap.",
+  "distance_sources": [
+   {
+    "label": "Harbor: AI needs clear liability, $10M seed (Oct 2026)",
+    "url": "https://harbor.ai/seed-announcement?format=html"
+   },
+   {
+    "label": "Product Market Fit: Harbor seed deck, early customers (Oct 2026)",
+    "url": "https://www.productmarketfit.tech/p/harbor-10m-seed-pitch-deck-who-insures"
+   },
+   {
+    "label": "The VC Corner: Harbor raised $10M, founded this year (Oct 2026)",
+    "url": "https://www.thevccorner.com/p/harbor-raised-10m-to-insure-ai-agents"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
  }
 ]
