@@ -21560,5 +21560,51 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Nuvo",
+  "slug": "nuvo",
+  "site": "https://nuvo.com",
+  "careers_url": "https://jobs.gem.com/nuvo",
+  "what_they_do": "Verified B2B trade network plus AI agents for credit onboarding, risk and receivables",
+  "problem": "Suppliers approve trade credit and chase payments with paper forms, faxes and stale reports, risking fraud and bad debt",
+  "industry": "B2B fintech / order-to-cash",
+  "stage": "Series A",
+  "last_round": "$34M",
+  "last_round_date": "Apr 2025",
+  "lead_investors": "Sequoia Capital, Spark Capital",
+  "total_open_roles": "12",
+  "ops_roles": "Strategy and Operations; Forward Deployed Engineer",
+  "hiring_trend": "Headcount +53% YoY (~119, LinkedIn); 42 staff at Apr 2025 Series A",
+  "headcount": "~117-119",
+  "latest_news": "Network crossed 200,000 verified businesses, about 3% of US employer firms",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7511125670668722176",
+  "traction": "200K verified businesses on network (up from ~50K mid-2025); AutoZone, Lowe's, Ferguson customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "2",
+  "glassdoor_url": "https://www.glassdoor.ca/Overview/Working-at-Nuvo-EI_IE10731985.11,15.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Largest verified trade-credit network (200K businesses) that compounds as suppliers invite buyers; AR push puts it against HighRadius and Billtrust.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Nuvo $34M Series A, Sequoia on network effects (Apr 2025)",
+    "url": "https://techcrunch.com/2025/04/30/nuvo-a-network-for-b2b-trade-has-nabbed-34m-from-a-whos-who-list-of-investors/"
+   },
+   {
+    "label": "Sid Malladi: Nuvo network passes 200,000 verified businesses (Sep 2026)",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7511125670668722176"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
