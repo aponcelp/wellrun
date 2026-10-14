@@ -25268,5 +25268,60 @@
   "hiring_locations": [
    "New York"
   ]
+ },
+ {
+  "name": "Luminai",
+  "slug": "luminai",
+  "site": "https://www.luminai.com",
+  "careers_url": "https://jobs.ashbyhq.com/luminai",
+  "what_they_do": "AI platform that automates back-office workflows for large health systems",
+  "problem": "Hospital admin teams hand-process faxes, referrals and forms across disconnected systems, delaying care and inflating costs",
+  "industry": "Healthcare operations automation / AI",
+  "stage": "Series B",
+  "last_round": "$38M",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "Peak XV Partners",
+  "total_open_roles": "17",
+  "ops_roles": "Deployment Strategist; Strategy Lead; Health System Workflow Expert",
+  "hiring_trend": "Headcount ~45 → ~65 YoY on LinkedIn (+44%); Revelio ~47, roughly flat; open roles ~10 → 17",
+  "headcount": "~47-65",
+  "latest_news": "Cleveland Clinic formally announced enterprise partnership, starting with fax referral automation",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://newsroom.clevelandclinic.org/2026/09/09/cleveland-clinic-partners-with-luminai-to-transform-health-system-operations",
+  "traction": "Working with 20 large health systems incl. Cleveland Clinic; 12M workflow automations run",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "2",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Luminai-EI_IE8614735.11,18.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Embedded forward-deployed model and per-system context build real switching costs, but it is a Series B with ~20 health-system customers in a crowded health-admin AI field (Notable, Innovaccer, AKASA, Commure) where Epic can ship the same automation directly to the same buyer.",
+  "distance_sources": [
+   {
+    "label": "Fierce Healthcare: Cleveland Clinic taps Luminai; now working with 20 large health systems (May 2026)",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/how-cleveland-clinic-working-startup-luminai-test-how-ai-can-run-hospital"
+   },
+   {
+    "label": "PR Newswire: Luminai raises $38M Series B led by Peak XV (Apr 2026)",
+    "url": "https://www.prnewswire.com/news-releases/luminai-raises-38-million-series-b-to-scale-intelligence-across-health-system-operations-302737804.html"
+   },
+   {
+    "label": "Cleveland Clinic newsroom: partnership with Luminai (Sep 2026)",
+    "url": "https://newsroom.clevelandclinic.org/2026/09/09/cleveland-clinic-partners-with-luminai-to-transform-health-system-operations"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "SF Bay Area",
+   "San Francisco",
+   "Remote"
+  ]
  }
 ]
