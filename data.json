@@ -27218,5 +27218,86 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Postscript",
+  "slug": "postscript",
+  "site": "https://postscript.io",
+  "careers_url": "https://job-boards.greenhouse.io/postscript",
+  "what_they_do": "SMS, email and AI shopping-assistant marketing for Shopify ecommerce brands",
+  "problem": "Shopify brands struggle to turn subscribers into repeat revenue without spammy blasts and stitched-together messaging tools",
+  "industry": "Ecommerce retention marketing (SMS / email)",
+  "stage": "Series C",
+  "last_round": "$65M",
+  "last_round_date": "Jun 2022",
+  "lead_investors": "01 Advisors (Dick Costolo); Greylock (Series B lead)",
+  "total_open_roles": "3",
+  "ops_roles": "Client Strategist",
+  "hiring_trend": "Shrinking: ~294 → ~277 staff YoY (Crustdata, Sep 2026; Sales -39%, Eng -37%); open roles 4, -33% vs last year; restructuring Nov 2025",
+  "headcount": "~277-284",
+  "latest_news": "Launched email on a rebuilt AI-native platform (Agentic Context Platform), first move beyond SMS",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.prweb.com/releases/postscript-launches-email-on-a-new-ai-native-retention-marketing-platform-302884359.html",
+  "traction": "$150M ARR (Sacra est., Aug 2026), up from $127M end-2025; first profitable month May 2026",
+  "red_flags": "Nov 2025 restructuring with role eliminations (RepVue reviewer: ~30% of sales team cut); Glassdoor reviews (May 2026) cite multiple layoff rounds incl. a larger RIF; Phoenix ~100-person SMS sales center wound down for AI; headcount down YoY with Sales -39% and Eng -37% (Crustdata). No new round since Jun 2022. Watch-out (not scored): unconfirmed Jul 2026 trade-press reports of Klaviyo acquisition talks at ~$280-340M, below the reported $636M Series C valuation; Attentive patent suit resolved in Postscript's favor Aug 2025.",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn: Postscript CS lead says role eliminated in company restructuring (Nov 2025)",
+    "url": "https://www.linkedin.com/posts/allisonbetito_last-week-my-role-at-postscript-was-eliminated-activity-7397323127602663425-1NB8"
+   },
+   {
+    "label": "RepVue review: 2025 attainment dropped, ~30% of sales team laid off (Feb 2026)",
+    "url": "https://www.repvue.com/companies/Postscriptio/reviews/postscriptio-review-ecvtadh3"
+   },
+   {
+    "label": "Glassdoor: Postscript reviews mentioning layoffs (incl. May 2026 'multiple rounds of layoffs, including a larger RIF')",
+    "url": "https://www.glassdoor.com/Reviews/Postscript-layoff-Reviews-EI_IE3275897.0,10_KH11,17.htm"
+   },
+   {
+    "label": "Crustdata: 277 employees, Sales -39% and Engineering -37% YoY, open roles -33% (Sep 2026)",
+    "url": "https://research.crustdata.com/company/postscript"
+   },
+   {
+    "label": "TwoSetAI: why Postscript shut down its 100-person Phoenix sales center for AI agents (Apr 2026)",
+    "url": "https://www.twosetai.com/insights/human-sales-center-to-ai-agents-ecommerce/"
+   },
+   {
+    "label": "TrueUp: last Postscript layoff Nov 2025",
+    "url": "https://www.trueup.io/co/postscript"
+   },
+   {
+    "label": "demg.ai: reported (unconfirmed) Klaviyo-Postscript deal talks at $280-340M (Jul 2026)",
+    "url": "https://demg.ai/blog/doctrine-says-klaviyo-postscript-acquisition-platform-dependency-ecom/"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "96",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Postscript-Reviews-E3275897.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Strong #2-3 in ecommerce SMS behind Attentive, but Klaviyo sells SMS plus email to the same Shopify buyer (on ~38x more Shopify stores, and on 61% of Postscript's), Postscript is Shopify-only, and it is shrinking; the email rebuild is a bet, not proof yet.",
+  "distance_sources": [
+   {
+    "label": "Brandloupe: Klaviyo vs Postscript Shopify adoption (Oct 2026)",
+    "url": "https://brandloupe.com/compare/klaviyo-vs-postscript"
+   },
+   {
+    "label": "Sacra: Postscript revenue, competition and Shopify concentration risk",
+    "url": "https://sacra.com/c/postscript/"
+   },
+   {
+    "label": "PRWeb: Postscript launches email on new AI-native platform (Sep 2026)",
+    "url": "https://www.prweb.com/releases/postscript-launches-email-on-a-new-ai-native-retention-marketing-platform-302884359.html"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
+  ]
  }
 ]
