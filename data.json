@@ -26603,5 +26603,59 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Outset",
+  "slug": "outset",
+  "site": "https://outset.ai",
+  "careers_url": "https://jobs.ashbyhq.com/outset",
+  "what_they_do": "AI-moderated customer interviews, surveys and usability tests for research teams",
+  "problem": "Deep customer interviews take weeks to schedule and run, so teams settle for shallow surveys or skip research",
+  "industry": "Customer research / AI-moderated research",
+  "stage": "Series B",
+  "last_round": "$30M",
+  "last_round_date": "Dec 2025",
+  "lead_investors": "Radical Ventures (Series B); 8VC (Series A)",
+  "total_open_roles": "19",
+  "ops_roles": "Program Manager - Research Operations; Head of Workplace Operations; Scaled Customer Success Manager; Research Manager (Customer Success)",
+  "hiring_trend": "Headcount 8 → 32 (Jan 2025 → Jan 2026) → 80 (Jul 2026), aiming for 100+ by year-end; 19 open roles",
+  "headcount": "~80-100",
+  "latest_news": "Launched Digital Twins and a Simulations Lab built on its interview data",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.tbpndigest.com/story/2026-08-31/outset-launches-ai-digital-twins-grounded-in-individual-customers-tripling-revenue-and-team-since-last-appearance",
+  "traction": "Revenue up 8x in 2025, then ~3x more by Aug 2026; Microsoft, Google, Uber, Nestlé as customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "26",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Outset-Reviews-E10508947.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Created the AI-moderated research category and has big-name customers, but Listen Labs is bigger (~$30M ARR) and being bought by Salesforce for a reported ~$2B, and Simile raised $200M, so Outset is a smaller player in a crowded field where a CRM giant will now sell straight to the same buyers.",
+  "distance_sources": [
+   {
+    "label": "SiliconANGLE: Salesforce to acquire Listen Labs in reported $2B deal (Oct 2026)",
+    "url": "https://siliconangle.com/2026/10/01/salesforce-to-acquire-ai-customer-research-startup-listen-labs-in-reported-2b-deal/"
+   },
+   {
+    "label": "Implicator: Listen Labs ~$30M annualized revenue; Simile $200M Series B (Oct 2026)",
+    "url": "https://www.implicator.ai/salesforce-agrees-to-buy-ai-interview-startup-listen-labs-reportedly-for-2-billion/"
+   },
+   {
+    "label": "GlobeNewswire: Outset $30M Series B, 8x revenue growth in 2025 (Dec 2025)",
+    "url": "https://www.globenewswire.com/news-release/2025/12/10/3203401/0/en/outset-secures-30-million-series-b-to-launch-the-world-s-first-ai-native-customer-experience-management-platform.html"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote (Europe)"
+  ]
  }
 ]
