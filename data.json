@@ -24642,5 +24642,187 @@
    "New York",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Blacksmith",
+  "slug": "blacksmith",
+  "site": "https://www.blacksmith.sh",
+  "careers_url": "https://jobs.ashbyhq.com/blacksmith",
+  "what_they_do": "Faster, cheaper drop-in runners and caching for GitHub Actions CI, plus a coding agent",
+  "problem": "CI builds and tests are slow and costly, and AI-written code is piling up waiting to be validated and merged",
+  "industry": "Developer tools / CI infrastructure",
+  "stage": "Series B",
+  "last_round": "$45M",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "Peak XV Partners (GV, Y Combinator participating)",
+  "total_open_roles": "20",
+  "ops_roles": "Business Operations; Head of Capacity; Technical Support Engineer; Solutions Engineer",
+  "hiring_trend": "Headcount ~21 → ~59 YoY on LinkedIn (+181%); open roles up to 20 (was ~7 per Alion, est.)",
+  "headcount": "~30-59",
+  "latest_news": "Raised $45M Series B led by Peak XV at $550M valuation, up ~10x",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+  "traction": "$10M+ ARR, now \"tens of millions\"; 6,000+ customers, up from ~800 in Sep 2025",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Fastest-growing third-party GitHub Actions runner (Supabase, Ashby, Mercury), but it lives on GitHub's platform: GitHub cut its own runner prices up to 39% and tried a per-minute fee on outside runners, and rivals like Depot, Namespace and the clouds crowd in. Compute-heavy model and several multi-hour outages in 2026 add exposure.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Blacksmith valuation jumps ~10x to $550M, crowded market (Aug 2026)",
+    "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
+   },
+   {
+    "label": "GitHub Changelog: Actions pricing update, hosted runners up to 39% cheaper (Dec 2025)",
+    "url": "https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/"
+   },
+   {
+    "label": "Blacksmith: The GitHub Actions control plane is no longer free (Dec 2025)",
+    "url": "https://www.blacksmith.sh/blog/actions-pricing"
+   },
+   {
+    "label": "Blacksmith postmortem: control plane outage on July 21, 2026",
+    "url": "https://www.blacksmith.sh/blog/blacksmith-outage-on-july-21-2026"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco"
+  ]
+ },
+ {
+  "name": "Phonely",
+  "slug": "phonely",
+  "site": "https://www.phonely.ai",
+  "careers_url": "https://jobs.ashbyhq.com/phonely",
+  "what_they_do": "AI phone agents that answer, qualify, book and sell on business calls",
+  "problem": "Businesses miss calls and lose sales because call centers are costly, slow and churn 40% of staff a year",
+  "industry": "Voice AI / contact center automation",
+  "stage": "Series A",
+  "last_round": "$16M",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "Base10 Partners",
+  "total_open_roles": "19",
+  "ops_roles": "Operations Specialist; Technical Customer Success Manager; Customer Success Representative; Founding Product Manager",
+  "hiring_trend": "Team +144% YoY (Dealroom, ~44); open roles 7 → 19 on Ashby since mid-2026",
+  "headcount": "~35-47",
+  "latest_news": "Launched Alma, its own voice LLM trained on 10M+ real phone calls",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.streetinsider.com/Business+Wire/Phonely+Launches+Alma%2C+a+Voice+LLM+That%E2%80%99s+63%25+Faster+and+84%25+Cheaper+Than+OpenAI/27009959.html",
+  "traction": "~$8M ARR (est., Tracxn); 10,000+ businesses, millions of calls a month; 3 customers invested",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Real adoption (one customer runs 60,000 calls a day) and its own call-trained model, Alma, give it a data edge, but it is a small follower in a crowded voice-agent field behind Retell, Vapi, ElevenLabs, Sierra and Decagon.",
+  "distance_sources": [
+   {
+    "label": "Phonely: $16M Series A led by Base10, customers invested (Apr 2026)",
+    "url": "https://www.phonely.ai/blogs/phonely-series-a-16m-funding"
+   },
+   {
+    "label": "Business Wire via StreetInsider: Phonely launches Alma voice LLM (Sep 2026)",
+    "url": "https://www.streetinsider.com/Business+Wire/Phonely+Launches+Alma%2C+a+Voice+LLM+That%E2%80%99s+63%25+Faster+and+84%25+Cheaper+Than+OpenAI/27009959.html"
+   },
+   {
+    "label": "Dealroom: Phonely profile (team +144% YoY)",
+    "url": "https://dealroom.co/companies/phonely"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Canada"
+  ]
+ },
+ {
+  "name": "Retell AI",
+  "slug": "retell-ai",
+  "site": "https://www.retellai.com",
+  "careers_url": "https://jobs.ashbyhq.com/retell-ai",
+  "what_they_do": "Platform to build, test, deploy and monitor AI voice agents for call centers",
+  "problem": "Call centers pay large human teams for routine sales and support calls that phone trees can't handle",
+  "industry": "Voice AI / contact center automation",
+  "stage": "Seed",
+  "last_round": "$4.6M",
+  "last_round_date": "Aug 2024",
+  "lead_investors": "Alt Capital",
+  "total_open_roles": "30",
+  "ops_roles": "Deployment Strategist; Senior Billing Manager; Procurement Manager; Senior Compliance Manager",
+  "hiring_trend": "LinkedIn headcount ~177, +22% in 90 days (AI Index); core team 25 → 50 since Nov 2025",
+  "headcount": "~50 core (company); ~175 on LinkedIn",
+  "latest_news": "Crossed $80M annualized revenue, doubling in under a year",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.retellai.com/about-us",
+  "traction": "$80M ARR (Sep 2026), up from ~$5M at start of 2025; profitable on $5M raised",
+  "red_flags": "Watch-outs (no score impact): Nov 2025 CERT/CC note says its API lacks guardrails against phishing-call abuse (same note names Vapi, Bland, Synthflow, Lindy); 2026 customer forum complaints about toll-fraud bills; recent Glassdoor interview reviews poor.",
+  "red_flags_sources": [
+   {
+    "label": "CERT/CC Vulnerability Note VU#649739 (Nov 2025)",
+    "url": "https://www.kb.cert.org/vuls/id/649739"
+   },
+   {
+    "label": "Retell community: toll fraud victim complaint (Feb 2026)",
+    "url": "https://community.retellai.com/t/toll-fraud-victim-30-days-ignored-now-receiving-payment-demands/849"
+   },
+   {
+    "label": "Retell community: IRSF fraud refund request (Jul 2026)",
+    "url": "https://community.retellai.com/t/fraud-on-my-account-outbound-calls-to-philippine-premium-numbers-requesting-refund-and-international-dialing-block/3334"
+   },
+   {
+    "label": "Glassdoor: Retell AI interview reviews",
+    "url": "https://www.glassdoor.com/Interview/Retell-AI-Interview-Questions-E10838324.htm"
+   }
+  ],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "2",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Retell-AI-Reviews-E10838324.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A top voice-agent platform by revenue ($80M ARR, profitable, thousands of businesses, 2,600+ G2 reviews, Brex #4 fastest-growing vendor of 2025) with forward-deployed teams embedding it in call-center workflows; ElevenLabs, Vapi and Sierra/Decagon contest the same buyers.",
+  "distance_sources": [
+   {
+    "label": "Retell AI: About us milestones ($40M Nov 2025, $80M Sep 2026, Brex ranking)",
+    "url": "https://www.retellai.com/about-us"
+   },
+   {
+    "label": "Sacra: Retell AI at $60M/yr, up 650% YoY (May 2026)",
+    "url": "https://sacra.com/research/retell-ai-60m-yr-up-650-yoy/"
+   },
+   {
+    "label": "GlobeNewswire: Retell named to Wing VC Enterprise Tech 30 (Apr 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/04/03/3268014/0/en/voice-ai-startup-retell-ai-named-to-wing-vc-enterprise-tech-30-2026-list-celebrating-the-best-of-enterprise-tech.html"
+   }
+  ],
+  "hiring_locations": [
+   "SF Bay Area",
+   "South Africa",
+   "Brazil",
+   "Remote"
+  ]
  }
 ]
