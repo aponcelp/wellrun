@@ -20698,5 +20698,254 @@
    "Remote (Colombia)",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Kastle",
+  "slug": "kastle",
+  "site": "https://www.kastle.ai",
+  "careers_url": "https://jobs.ashbyhq.com/kastle",
+  "what_they_do": "AI agents that run servicing, collections and loan-officer work for banks and lenders",
+  "problem": "Lenders staff big call centers on legacy systems to handle routine, heavily regulated borrower work",
+  "industry": "Vertical AI / lending operations",
+  "stage": "Series A",
+  "last_round": "$24M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Insight Partners",
+  "total_open_roles": "14",
+  "ops_roles": "AI Deployments Lead; Founder's Office; Mortgage Originations Process Specialist; Agent Product Manager",
+  "hiring_trend": "Headcount ~7 to ~17 in 12 mo (+143%, LinkedIn est.); 14 open roles, up from ~5",
+  "headcount": "~17",
+  "latest_news": "Raised $24M Series A led by Insight Partners to expand bank deployments",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/kastle-raises-24m-series-a-led-by-insight-partners-to-build-the-ai-workforce-for-banking-operations-302881290.html",
+  "traction": "In production at 10 of top 25 US servicers; $2B+ processed; daily volume up ~60x in a year",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Wired into servicers' contact centers and loan systems at 10 of the top 25 US servicers, but it is small (~17 staff) next to Salient ($75M raised, $25M+ ARR) and ICE is building a voice agent into its own servicing platform.",
+  "distance_sources": [
+   {
+    "label": "Kastle homepage: in production at 10 of top 25 US servicers (Oct 2026)",
+    "url": "https://www.kastle.ai/"
+   },
+   {
+    "label": "Business Wire: Carrington picks Kastle as enterprise AI agent partner (Jul 2026)",
+    "url": "http://businesswire.com/news/home/20260715427917/en/Carrington-Mortgage-Services-and-Kastle-Announce-Partnership-to-Deploy-AI-Agents-Across-Carringtons-Servicing-Operations"
+   },
+   {
+    "label": "YesPress: Salient $75M raised, $25M+ ARR (Sep 2026)",
+    "url": "https://yespress.io/salient"
+   },
+   {
+    "label": "Technource: ICE beta AI voice agent in MSP servicing platform (Oct 2026)",
+    "url": "https://www.technource.com/blog/ai-voice-agents-for-lending/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Clueso",
+  "slug": "clueso",
+  "site": "https://www.clueso.io",
+  "careers_url": "https://jobs.ashbyhq.com/clueso",
+  "what_they_do": "AI agents that create, edit and auto-update product how-to videos and docs",
+  "problem": "Product, training and marketing videos take hours to produce and go stale every time the software changes",
+  "industry": "Digital adoption / AI business video",
+  "stage": "Series A",
+  "last_round": "$10M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Dharana Capital",
+  "total_open_roles": "3",
+  "ops_roles": "",
+  "hiring_trend": "Headcount 22 → 42 since Dec 2025 (+24% QoQ to Aug 2026, Caplight); 3 open roles",
+  "headcount": "~42",
+  "latest_news": "Raised $10M Series A led by Dharana Capital; total funding $12M",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/10/13/3379717/0/en/clueso-raises-10m-series-a-to-build-the-agentic-video-platform-for-businesses.html",
+  "traction": "1,000+ companies (up from ~200 in Jan 2025); cash-flow positive; headcount ~5x since mid-2024",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real adoption (1,000+ companies incl. Atlassian, Zendesk) and land-and-expand use, but a small follower behind Synthesia ($4B) and Scribe in crowded AI business video and workflow capture, alongside Guidde and Tango.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire, Oct 2026: $10M Series A, 1,000+ companies, expands team to team",
+    "url": "https://www.globenewswire.com/news-release/2026/10/13/3379717/0/en/clueso-raises-10m-series-a-to-build-the-agentic-video-platform-for-businesses.html"
+   },
+   {
+    "label": "TNW, Oct 2026: Synthesia leads at $4B; Clueso's total funding is 6% of one Synthesia round",
+    "url": "https://thenextweb.com/news/clueso-10m-series-a-video-agents"
+   },
+   {
+    "label": "Forbes, Oct 2026: competes with Adobe Premiere Pro, Synthesia and Guidde",
+    "url": "https://www.forbes.com/sites/davidprosser/2026/10/13/clueso-raises-10-million-to-advance-its-ai-video-ambitions/"
+   }
+  ],
+  "hiring_locations": [
+   "Bengaluru",
+   "San Francisco",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Scuba",
+  "slug": "scuba",
+  "site": "https://scuba.app",
+  "careers_url": "https://jobs.gem.com/scuba",
+  "what_they_do": "Shared context engine that feeds team knowledge to Claude, ChatGPT, Cursor and Slack",
+  "problem": "Team knowledge is scattered across tabs, chats and docs, so people and AI agents work out of sync",
+  "industry": "Productivity / AI knowledge tools",
+  "stage": "Seed",
+  "last_round": "$34M (pre-seed + seed combined)",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Accel, IVP",
+  "total_open_roles": "3",
+  "ops_roles": "",
+  "hiring_trend": "Small team of 10 (founded 2025); 3 open roles, all in-office NYC",
+  "headcount": "~10",
+  "latest_news": "Emerged from stealth with $34M from Accel and IVP; limited beta opening in waves",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.upstartsmedia.com/p/exclusive-slack-alums-launch-scuba",
+  "traction": "Hundreds of early users in 6-month private beta; pre-revenue, no pricing yet",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Just out of stealth in limited beta with no revenue or pricing yet; too early to judge.",
+  "distance_sources": [
+   {
+    "label": "Upstarts Media, Oct 2026",
+    "url": "https://www.upstartsmedia.com/p/exclusive-slack-alums-launch-scuba"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "BackOps",
+  "slug": "backops",
+  "site": "https://www.backops.com",
+  "careers_url": "https://jobs.gem.com/backops-ai",
+  "what_they_do": "AI agents that resolve carrier claims, billing and order exceptions for shippers",
+  "problem": "Ops staff manually chase claims, disputes and billing across carrier portals, ERPs and email",
+  "industry": "Supply chain / logistics tech",
+  "stage": "Series B",
+  "last_round": "$42M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Insight Partners (Theory Ventures, Construct Capital, Gradient Ventures, 10VC participating)",
+  "total_open_roles": "22",
+  "ops_roles": "AI Deployment Strategist; Customer Success Manager; AI GTM Strategy Manager; Technical Program Manager",
+  "hiring_trend": "Headcount 34 → 47 in Q3 2026 (+38% QoQ); team +193% YoY; 22 open roles",
+  "headcount": "~50",
+  "latest_news": "Raised $42M Series B led by Insight Partners, six months after $26M Series A",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/backops-raises-42m-series-b-to-scale-its-ai-resolution-layer-for-supply-chain-operations-302879927.html",
+  "traction": "500K+ claims processed at one customer, volume up 150x; team ~3x YoY",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real enterprise deployments, but a young follower in crowded AI logistics agents behind HappyRobot and Augment, with TMS incumbents shipping copilots.",
+  "distance_sources": [
+   {
+    "label": "Teardown, competitive set, Sep 2026",
+    "url": "https://www.teardown.ai/companies/backops"
+   },
+   {
+    "label": "PR Newswire, Series B, Sep 2026",
+    "url": "https://www.prnewswire.com/news-releases/backops-raises-42m-series-b-to-scale-its-ai-resolution-layer-for-supply-chain-operations-302879927.html"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Procuros",
+  "slug": "procuros",
+  "site": "https://procuros.io",
+  "careers_url": "https://procuros.io/careers",
+  "what_they_do": "One connection that lets suppliers and retailers swap orders, shipping notices and invoices",
+  "problem": "Every retail partner wants its own EDI, PDF or portal setup, so suppliers rebuild integrations and key orders by hand",
+  "industry": "Supply chain software / B2B integration (EDI)",
+  "stage": "Series A",
+  "last_round": "€20M (~$22.4M)",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "XAnge",
+  "total_open_roles": "0",
+  "ops_roles": "",
+  "hiring_trend": "Headcount +28% YoY (~52, Revelio, Mar 2026); 0 public postings, referral-only hiring",
+  "headcount": "~52-60",
+  "latest_news": "Raised €20M Series A led by XAnge to expand across Europe and the US",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.xange.vc/press/prucorus-series-a",
+  "traction": "300+ customers in DACH/UK; €3bn+ annual order volume; team roughly tripled since early 2025",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "2",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Procuros-Reviews-E6755285.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Connect-once network with 300+ DACH/UK customers, but trails SPS Commerce, TrueCommerce and SEEBURGER in EDI.",
+  "distance_sources": [
+   {
+    "label": "XAnge: Procuros €20M Series A (Oct 2026)",
+    "url": "https://www.xange.vc/press/prucorus-series-a"
+   },
+   {
+    "label": "TrueCommerce vs Procuros comparison (Jul 2026)",
+    "url": "https://www.truecommerce.com/truecommerce-vs-orderful-2"
+   },
+   {
+    "label": "ERP-software.org: Procuros vs SEEBURGER, Lobster, Boomi",
+    "url": "https://erp-software.org/en/software/procuros/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
