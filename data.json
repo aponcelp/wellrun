@@ -27042,5 +27042,71 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Homeward",
+  "slug": "homeward",
+  "site": "https://www.homeward.com",
+  "careers_url": "https://job-boards.greenhouse.io/homeward",
+  "what_they_do": "Bridge loans and cash offers so agents' clients can buy before they sell",
+  "problem": "Homeowners can't buy their next home until the old one sells, and slow sales stall deals",
+  "industry": "Proptech / real estate financing",
+  "stage": "Series D",
+  "last_round": "$120M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Saluda Grade",
+  "total_open_roles": "3",
+  "ops_roles": "Manager, Agent Success",
+  "hiring_trend": "Flat, ~290-300 staff (289 Sep 2025 → 299 Sep 2026, est.); 3 open roles",
+  "headcount": "~300",
+  "latest_news": "Raised $120M Series D led by Saluda Grade plus $330M asset-backed debt",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://news.crunchbase.com/real-estate-property-tech/startup-homeward-raises-120m-buy-sell-homes-ai-financing/",
+  "traction": "Revenue up 4x+ since 2021; 25,000+ partner agents; $4B+ in transactions",
+  "red_flags": "Quiet reduction in force Oct–Nov 2024 (size undisclosed; ex-staff posts). Watch-out, not scored: Series D valuation 'similar' to the 2021 Series C (~$800M), a flat round after five years; earlier 2022 layoffs cut nearly half of staff.",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn: ex-Homeward manager laid off in reduction in force (Oct 2024)",
+    "url": "https://www.linkedin.com/posts/michaeljolsonii_rif-opentowork-jobsearch-activity-7252352606092607488-3nQf"
+   },
+   {
+    "label": "LinkedIn: ex-Homeward CX manager impacted by recent layoffs (Nov 2024)",
+    "url": "https://www.linkedin.com/posts/jenniferwhipple_after-being-impacted-by-recent-layoffs-at-activity-7265098491113213954-8FBH"
+   },
+   {
+    "label": "Crunchbase News: Series D valuation similar to 2021 Series C (~$800M) (Oct 2026)",
+    "url": "https://news.crunchbase.com/real-estate-property-tech/startup-homeward-raises-120m-buy-sell-homes-ai-financing/"
+   },
+   {
+    "label": "The Real Deal: Homeward cuts another 25% of staff (Nov 2022)",
+    "url": "https://therealdeal.com/new-york/2022/11/18/power-buyer-homeward-cuts-another-25-of-staff/"
+   }
+  ],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.2",
+  "glassdoor_reviews": "185",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Homeward-Reviews-E2532761.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Survived the 2022 power-buyer shakeout and grew revenue 4x through agent partnerships, but it is a capital-heavy niche player beside Opendoor, Knock and Orchard, tied to the housing cycle and credit markets, with a flat valuation since 2021.",
+  "distance_sources": [
+   {
+    "label": "Crunchbase News: Homeward raises $120M, revenue up 4x since 2021 (Oct 2026)",
+    "url": "https://news.crunchbase.com/real-estate-property-tech/startup-homeward-raises-120m-buy-sell-homes-ai-financing/"
+   },
+   {
+    "label": "Homeward press release: $120M Series D and $330M debt (Oct 2026)",
+    "url": "https://www.homeward.com/press/homeward-raises-120m-series-d-equity-to-expand-cash-offer-and-bridge-financing-for-agents"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (LatAm)",
+   "Remote (Global)"
+  ]
  }
 ]
