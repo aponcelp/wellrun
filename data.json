@@ -25927,5 +25927,51 @@
    "Leland - Lehi",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Ernesta",
+  "slug": "ernesta",
+  "site": "https://www.ernesta.com",
+  "careers_url": "https://job-boards.greenhouse.io/ernesta",
+  "what_they_do": "Custom-sized rugs cut to the inch, sold online, to designers, and in showrooms",
+  "problem": "Standard rug sizes rarely fit real rooms, and true custom rugs are slow, opaque and trade-only",
+  "industry": "Home furnishings / DTC custom rugs",
+  "stage": "Series B",
+  "last_round": "$20M",
+  "last_round_date": "Mar 2026",
+  "lead_investors": "Addition",
+  "total_open_roles": "27",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~50 → ~77 YoY (+54%, LinkedIn est.); 62 → 72 Q2→Q3 2026 (Caplight); 27 open roles, mostly showroom staff",
+  "headcount": "~72-77",
+  "latest_news": "Opened Mill Valley showroom, its 13th, first in Northern California",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/ernesta-opens-mill-valley-showroom-bringing-custom-size-rugs-to-marin-county-302898453.html",
+  "traction": "100% YoY revenue growth (company); ~$12M revenue (est.); 13 showrooms, 30 targeted by 2027",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.3",
+  "glassdoor_reviews": "3",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Ernesta-Reviews-E8061616.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Says it is the largest custom-size rug seller and owns its Georgia fabrication plant, but at ~$12M est. revenue it is small next to Ruggable, Rugs USA and Wayfair in a crowded rug market, and its 30-showroom rollout is capital-heavy.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Ernesta raises $20M Series B, 100% YoY growth, 30 showrooms by 2027 (Mar 2026)",
+    "url": "https://www.prnewswire.com/news-releases/ernesta-raises-20-million-series-b-to-expand-retail-footprint-and-technology-platforms-for-custom-rugs-302709973.html"
+   },
+   {
+    "label": "Retail Dive: Ernesta fabricates most rugs at its own Cartersville, GA facility (Jan 2026)",
+    "url": "https://www.retaildive.com/news/ernesta-expands-brick-and-mortar-footprint/809313/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
