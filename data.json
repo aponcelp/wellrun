@@ -24536,5 +24536,61 @@
   "hiring_locations": [
    "Remote"
   ]
+ },
+ {
+  "name": "Nash",
+  "slug": "nash",
+  "site": "https://www.usenash.com",
+  "careers_url": "https://jobs.ashbyhq.com/Nash",
+  "what_they_do": "One platform to plan, dispatch and track last-mile deliveries across fleets and couriers",
+  "problem": "Retailers, grocers and restaurants juggle many couriers and their own drivers with no single way to route each order reliably",
+  "industry": "Logistics software / last-mile delivery orchestration",
+  "stage": "Series A",
+  "last_round": "$20M",
+  "last_round_date": "Jul 2022",
+  "lead_investors": "Andreessen Horowitz",
+  "total_open_roles": "21",
+  "ops_roles": "Supply Partnership Manager; Enterprise Solutions Consultant/Regional Launcher, LATAM; Enterprise Solutions Consultant, ANZ; Forward Deployed Engineer",
+  "hiring_trend": "Headcount ~82 (Dec 2024) → ~150 on LinkedIn (+55% YoY, est.); open roles 26 (Aug 2026) → 21 now",
+  "headcount": "~140-150",
+  "latest_news": "Flytrex partnership puts drone delivery into Nash's routing, live across Dallas-Fort Worth",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.qsrmagazine.com/news/flytrex-expands-autonomous-first-delivery-model-with-nash-partnership/",
+  "traction": "1,000+ merchants in 20+ countries incl. Walmart, Ahold Delhaize, 7-Eleven, Woolworths; headcount +55% YoY",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.8",
+  "glassdoor_reviews": "5",
+  "glassdoor_url": "https://www.glassdoor.sg/Overview/Working-at-Nash-CA-EI_IE7370009.11,18.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Strong #2 in delivery orchestration behind Bringg, with real enterprise adoption (Walmart, Ahold Delhaize, Woolworths, Loblaws) and a G2 Leader badge; it sits inside merchants' checkout and dispatch, but Uber Direct and DoorDash Drive also sell straight to the same merchants.",
+  "distance_sources": [
+   {
+    "label": "Nash press page: G2 Leader Fall 2026, Gartner Market Guide vendor, FreightTech100",
+    "url": "https://www.usenash.com/press"
+   },
+   {
+    "label": "RobotToday: Nash customers incl. 7-Eleven, Ahold Delhaize, Coles, Loblaws, Walmart, Woolworths (Oct 2026)",
+    "url": "https://robottoday.com/suppliers-discovery/nash"
+   },
+   {
+    "label": "Business Wire via Wedbush: Flytrex x Nash, 1,000+ merchants in 20+ countries (Jul 2026)",
+    "url": "https://investor.wedbush.com/wedbush/article/bizwire-2026-7-29-flytrex-and-nash-partner-to-build-an-autonomous-first-multi-modal-delivery-platform"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "London",
+   "Saudi Arabia",
+   "Remote (Australia)",
+   "Remote (US)"
+  ]
  }
 ]
