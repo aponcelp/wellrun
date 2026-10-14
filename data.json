@@ -26503,5 +26503,59 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Reducto",
+  "slug": "reducto",
+  "site": "https://reducto.ai",
+  "careers_url": "https://jobs.ashbyhq.com/reducto",
+  "what_they_do": "API and no-code studio that turns PDFs, scans and spreadsheets into structured data for AI",
+  "problem": "AI products misread tables, forms and messy layouts, so document-heavy workflows can't be trusted or automated",
+  "industry": "Document AI / unstructured data infrastructure",
+  "stage": "Series B",
+  "last_round": "$75M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": "Andreessen Horowitz, Benchmark",
+  "total_open_roles": "40",
+  "ops_roles": "Strategic Projects Lead; Deal Desk Lead; Customer Success Manager; Forward Deployed Engineer",
+  "hiring_trend": "Team +91% in 12 mo (Dealroom); ~79 on LinkedIn; 40 open roles, sales build-out since Aug 2026",
+  "headcount": "~70-95",
+  "latest_news": "Opened New York office to sell to East Coast banks, insurers and law firms",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://finance.yahoo.com/technology/ai/articles/reducto-opens-york-city-office-023300143.html",
+  "traction": "$10M+ ARR (est. ~$20M); revenue up 8x YoY; billions of pages processed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Leading AI-native document parser (Harvey, Scale, Vanta, Toast, a Fortune 10) with its own r-1 model and a widening workflow suite; still a crowded field (LlamaParse, Unstructured, Google/Azure) and labs like Mistral sell cheaper OCR straight to developers.",
+  "distance_sources": [
+   {
+    "label": "Deep Analysis: fastest-growing IDP startup, $10M+ ARR (May 2026)",
+    "url": "https://www.deep-analysis.net/how-reducto-became-the-fastest-growing-idp-startup/"
+   },
+   {
+    "label": "Revenue Memo: Reducto funding, customers and risks (Oct 2026)",
+    "url": "https://www.revenuememo.com/p/reducto-funding"
+   },
+   {
+    "label": "PR Newswire: r-1 parsing model launch (Sep 2026)",
+    "url": "https://www.prnewswire.com/news-releases/reducto-unveils-a-frontier-parsing-model-that-makes-the-worlds-hardest-documents-ai-ready-for-1-a-page-302866077.html"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote (North America)"
+  ]
  }
 ]
