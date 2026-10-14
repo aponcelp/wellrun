@@ -23067,5 +23067,1146 @@
   "hiring_locations": [
    "New York"
   ]
+ },
+ {
+  "name": "Meshy",
+  "slug": "meshy",
+  "site": "https://www.meshy.ai",
+  "careers_url": "https://jobs.ashbyhq.com/meshy",
+  "what_they_do": "AI models that turn text or images into production-ready 3D models for games, film and 3D printing",
+  "problem": "Making 3D assets takes specialist skills, expensive software and weeks of work per model",
+  "industry": "Generative AI / 3D creation",
+  "stage": "Series B",
+  "last_round": "~$400M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "IDG Capital, Matrix Partners China, Monolith Management",
+  "total_open_roles": "26",
+  "ops_roles": "Customer Support Specialist - US; Customer Support Specialist - CAD",
+  "hiring_trend": "Headcount ~65 → ~175 YoY (+169%, LinkedIn est.); 26 open roles across Bay Area and China offices",
+  "headcount": "~175",
+  "latest_news": "Crossed $100M ARR, up 100x in under two years; launched iOS and Android app",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/meshy-surpasses-100-million-in-annual-recurring-revenue-growing-100x-in-under-two-years-302894078.html",
+  "traction": "$100M ARR (Sep 2026), up from $1M end-2024; 15M users, 3,000+ business customers; #31 on a16z Top 50 Consumer AI Apps by revenue (Oct 2026)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/MeshyAI-Reviews-E10458911.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Created and leads AI 3D (first to $100M ARR, the only 3D company on a16z's revenue list, used by game studios and 3D-printer brands), but the category is young and Tripo AI raised ~$350M in 2026 to chase it.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Meshy surpasses $100M ARR (Sep 2026)",
+    "url": "https://www.prnewswire.com/news-releases/meshy-surpasses-100-million-in-annual-recurring-revenue-growing-100x-in-under-two-years-302894078.html"
+   },
+   {
+    "label": "Tech Funding News: Meshy $400M round; Tripo AI's rival raises (Jul 2026)",
+    "url": "https://techfundingnews.com/from-mit-research-to-1-5b-unicorn-ethan-hus-meshy-raises-400m-for-ai-powered-3d-creation/"
+   },
+   {
+    "label": "a16z Top 100 Gen AI Consumer Apps, 7th ed. (Oct 2026)",
+    "url": "https://a16z.com/100-gen-ai-apps-7/"
+   }
+  ],
+  "hiring_locations": [
+   "Shanghai",
+   "Beijing",
+   "SF Bay Area",
+   "Remote (Canada)",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Jumpspeak",
+  "slug": "jumpspeak",
+  "site": "https://www.jumpspeak.com",
+  "careers_url": "https://www.jumpspeak.com/careers",
+  "what_they_do": "AI language-learning app built on short spoken conversations with an AI tutor, 20+ languages",
+  "problem": "Learners memorize vocabulary in apps for years but still freeze when they have to speak",
+  "industry": "Consumer AI / language learning",
+  "stage": "Pre-seed",
+  "last_round": "$300K",
+  "last_round_date": "Feb 2022",
+  "lead_investors": "Hyphen Capital, Goodwater Capital, VoicePunch",
+  "total_open_roles": "12",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~7 → ~15 YoY (+114%, LinkedIn est.); 12 open roles on its Notion board, 100% remote; Miami HQ",
+  "headcount": "~15",
+  "latest_news": "Climbed into the top 25 US iOS education apps by sales (~$305K in 30 days)",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/upupdata_recently-jumpspeak-language-learning-has-activity-7483713340989497344-zqS0",
+  "traction": "#24 on a16z Top 50 Consumer AI Apps by revenue (Oct 2026), ahead of Runway; ~$400K/mo iOS revenue est. (AppRank); Inc. 5000 #66 (2025); 1M+ learners",
+  "red_flags": "BBB 'F' rating with 67 complaints in 3 years, mostly surprise renewals and refused refunds; marketing criticized as misleading (AI-generated actors, '30-day bilingual' claims).",
+  "red_flags_sources": [
+   {
+    "label": "BBB: Jumpspeak profile, F rating, 67 complaints",
+    "url": "https://www.bbb.org/us/fl/miami/profile/language-training-aids/jumpspeak-0633-92033576"
+   },
+   {
+    "label": "BBB: Jumpspeak complaints (billing/refunds)",
+    "url": "https://www.bbb.org/us/fl/miami/profile/language-training-aids/jumpspeak-0633-92033576/complaints"
+   },
+   {
+    "label": "Languatalk review: confusing, somewhat misleading pricing (Oct 2025)",
+    "url": "https://languatalk.com/blog/jumpspeak-review/"
+   }
+  ],
+  "score": "2.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "A follower in a category Duolingo, Babbel and Speak dominate; speaking-first AI tutoring is easy to copy and growth leans on paid ads, with billing complaints a reputational risk.",
+  "distance_sources": [
+   {
+    "label": "a16z Top 100 Gen AI Consumer Apps, 7th ed. (Oct 2026)",
+    "url": "https://a16z.com/100-gen-ai-apps-7/"
+   },
+   {
+    "label": "BBB: Jumpspeak profile",
+    "url": "https://www.bbb.org/us/fl/miami/profile/language-training-aids/jumpspeak-0633-92033576"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "InVideo",
+  "slug": "invideo",
+  "site": "https://invideo.io",
+  "careers_url": "https://careers.invideo.io/",
+  "what_they_do": "AI video agent and editor that turns a text prompt into a finished, publish-ready video",
+  "problem": "Creators and small businesses need lots of video but can't afford editors, shoots or editing skills",
+  "industry": "Generative AI / video creation",
+  "stage": "Series B",
+  "last_round": "$35M",
+  "last_round_date": "Aug 2021",
+  "lead_investors": "Peak XV Partners (Sequoia India), Tiger Global",
+  "total_open_roles": "10",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~91 (Aug 2025) → ~184 (Jan 2026) → ~253 (Sep 2026) est.; board lists 1 posting with 10 engineer seats (Mumbai)",
+  "headcount": "~250",
+  "latest_news": "Launched invideo MCP so AI agents can edit video, plus agentic editor features",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://invideo.io/news/",
+  "traction": "$70M ARR (2025, company-reported), up from ~$20M in 2023; 7M+ users; #28 on a16z Top 50 Consumer AI Apps by revenue (Oct 2026)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "85",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Invideo-Reviews-E2249169.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "Large and capital-efficient, but a follower in AI video behind Higgsfield, HeyGen, Runway and Kling, and much of its output runs on third-party models (Veo, Sora, Kling) whose makers sell directly to the same creators.",
+  "distance_sources": [
+   {
+    "label": "Moneycontrol: InVideo's $70M ARR story (Mar 2025)",
+    "url": "https://www.moneycontrol.com/news/business/startup/inside-invideo-s-70-million-arr-growth-story-a-hacker-mindset-entrepreneurial-surge-and-product-market-fit-challenge-12980201.html"
+   },
+   {
+    "label": "ChatForest: InVideo bundles Sora 2, Veo 3.1, Kling 3.0 (May 2026)",
+    "url": "https://chatforest.com/reviews/invideo-ai-video-automation-marketing-content-pipeline/"
+   },
+   {
+    "label": "a16z Top 100 Gen AI Consumer Apps, 7th ed. (Oct 2026)",
+    "url": "https://a16z.com/100-gen-ai-apps-7/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Topview",
+  "slug": "topview",
+  "site": "https://www.topview.ai",
+  "careers_url": "",
+  "what_they_do": "AI video agent that makes product ads and short films from a link, script or reference video",
+  "problem": "E-commerce brands and agencies need a constant stream of video ads but shoots and editors are slow and costly",
+  "industry": "Generative AI / video ads",
+  "stage": "Series A",
+  "last_round": "$5.5M (extension; $14M total Series A)",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "Kamet Capital",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "Team said it nearly doubled to ~160 in 2025 (company post); other sources say 40-100; no public job board (Wantedly Japan postings only)",
+  "headcount": "~50-160 (sources conflict)",
+  "latest_news": "Launched Topview 4.0 collaborative workspace; extended Series A to $14M",
+  "latest_news_date": "Feb 2026",
+  "latest_news_url": "https://techstartups.com/2026/02/09/topview-unveils-collaborative-ai-content-platform-after-raising-5-5m-and-reaching-5m-users/",
+  "traction": "5M+ users making 500K+ videos/day; brands incl. Anker, Samsung, L'Oréal; ~$3M ARR late 2025 (est.); #29 on a16z Top 50 Consumer AI Apps by revenue (Oct 2026)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "Fast user growth, but a crowded AI-ads category (Creatify, Arcads, HeyGen, InVideo) and a product built on third-party models like Sora 2 and Seedance that their makers also sell directly.",
+  "distance_sources": [
+   {
+    "label": "TechStartups: Topview 4.0, 5M users, $14M Series A (Feb 2026)",
+    "url": "https://techstartups.com/2026/02/09/topview-unveils-collaborative-ai-content-platform-after-raising-5-5m-and-reaching-5m-users/"
+   },
+   {
+    "label": "Dealroom: TopView Viral Video Agent built on Sora 2",
+    "url": "https://dealroom.co/companies/topview-ai"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "NovelAI",
+  "slug": "novelai",
+  "site": "https://novelai.net",
+  "careers_url": "https://jobs.lever.co/Anlatan",
+  "what_they_do": "Subscription AI storytelling and anime-style image generation on its own models, run by Anlatan",
+  "problem": "Fiction writers and artists want private, uncensored AI tools that mainstream chatbots filter or read",
+  "industry": "Consumer AI / creative writing & image generation",
+  "stage": "Bootstrapped (no outside funding)",
+  "last_round": "",
+  "last_round_date": "",
+  "lead_investors": "",
+  "total_open_roles": "4",
+  "ops_roles": "",
+  "hiring_trend": "Small remote team, ~16-22 staff (LinkedIn/Built In est.); 4 open roles (engineering, design); no growth data",
+  "headcount": "~16-22",
+  "latest_news": "Released NovelAI Diffusion V5 and added usage limits, citing compute constraints",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://blog.novelai.net/subscription-updates-usage-limits-2025-88a208d5d9c5",
+  "traction": "~$5M revenue (2024 est., GetLatka); 2.5M+ users; #33 on a16z Top 50 Consumer AI Apps by revenue (Oct 2026); self-funded",
+  "red_flags": "Compute crunch: cancelled its AetherRoom chatbot (May 2026), then metered the new V5 image model, wiped unused credits on cancel and took two older text models offline (Aug-Sep 2026).",
+  "red_flags_sources": [
+   {
+    "label": "Anlatan blog: formal cancellation of AetherRoom (May 2026)",
+    "url": "https://blog.novelai.net/project-update-formal-cancellation-of-aetherroom-28eec9bcc0b8"
+   },
+   {
+    "label": "Anlatan blog: usage limits and Anlas policy changes (Aug 2026)",
+    "url": "https://blog.novelai.net/subscription-updates-usage-limits-2025-88a208d5d9c5"
+   },
+   {
+    "label": "SparkLore: text models taken offline citing compute shortage (Oct 2026)",
+    "url": "https://sparkloreai.com/en/blog/ai-novel-writer-free-unlimited-reality-check"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "A loyal niche leader in private, uncensored anime and fiction generation, but a small self-funded team short on compute, up against open-source models and better-funded rivals.",
+  "distance_sources": [
+   {
+    "label": "Anlatan blog: usage limits due to compute (Aug 2026)",
+    "url": "https://blog.novelai.net/subscription-updates-usage-limits-2025-88a208d5d9c5"
+   },
+   {
+    "label": "a16z Top 100 Gen AI Consumer Apps, 7th ed. (Oct 2026)",
+    "url": "https://a16z.com/100-gen-ai-apps-7/"
+   }
+  ],
+  "hiring_locations": [
+   "ONLINE",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Sudowrite",
+  "slug": "sudowrite",
+  "site": "https://sudowrite.com",
+  "careers_url": "https://sudowrite.com/jobs",
+  "what_they_do": "AI writing partner for novelists, with its own fiction-trained Muse model",
+  "problem": "Fiction writers get stuck drafting and revising, and general chatbots write flat, generic prose",
+  "industry": "AI writing tools / creative software",
+  "stage": "Seed (angel-backed, profitable)",
+  "last_round": "$3M",
+  "last_round_date": "Nov 2021",
+  "lead_investors": "Angels (founders of Medium, Twitter, Gumroad); Caffeinated Capital, 500 Global",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "Small and steady: 9 full-time staff plus 10 contractors; 2 roles open (Senior Mobile Engineer, contract Product Designer)",
+  "headcount": "~9 FT + ~10 contractors",
+  "latest_news": "Muse 1.5 fiction model now the default across Sudowrite; blog relaunch of Muse",
+  "latest_news_date": "Apr 2026",
+  "latest_news_url": "https://sudowrite.com/blog/sudowrite-muse-ai-writer-for-fiction/",
+  "traction": "~$1.8M ARR est. (GetLatka, 2025); 30,000+ paying writers; profitable 3 years; #36 on a16z Top 50 Consumer AI Apps by Monthly Revenue (Oct 2026)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Best-known AI tool for fiction with its own Muse model, but a small niche: NovelAI out-earns it on a16z's spend list, and ChatGPT and Claude serve the same writers directly.",
+  "distance_sources": [
+   {
+    "label": "a16z Top 50 Consumer AI Apps by Monthly Revenue, via OfficeChai (Oct 2026)",
+    "url": "https://officechai.com/ai/top-consumer-apps-by-revenue/"
+   },
+   {
+    "label": "Sudowrite jobs page: 9 FT staff, 3 years profitable",
+    "url": "https://sudowrite.com/jobs"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Jasper",
+  "slug": "jasper",
+  "site": "https://www.jasper.ai",
+  "careers_url": "https://jobs.ashbyhq.com/Jasper%20AI",
+  "what_they_do": "AI marketing agents platform for enterprise marketing teams (content, brand voice, GEO)",
+  "problem": "Marketing teams need on-brand content at scale without losing control of voice and governance",
+  "industry": "Marketing tech / AI content",
+  "stage": "Series A",
+  "last_round": "$125M",
+  "last_round_date": "Oct 2022",
+  "lead_investors": "Insight Partners",
+  "total_open_roles": "9",
+  "ops_roles": "Strategic AI Outcomes Manager",
+  "hiring_trend": "Shrinking: ~393 staff Q1 2026, -1.7% YoY (Revelio); 9 open roles; ~50-person SMB/mid-market sales cut reported Jul 2026",
+  "headcount": "~390",
+  "latest_news": "Promoted Tom Newton to CMO and hired Lauren Newman as CFO",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/jasper-strengthens-executive-leadership-for-the-next-era-of-enterprise-marketing-302840597.html",
+  "traction": "~$88M revenue 2025 est. (GetLatka), recovering from ~$55M in 2024; ~20% of Fortune 500; #37 on a16z Top 50 Consumer AI Apps by Monthly Revenue (Oct 2026)",
+  "red_flags": "Repeated cuts: ex-employee reports a ~50-person layoff gutting SMB and mid-market sales (Jul 2026) and recent Glassdoor reviews describe rolling layoffs and churn (2.4/5, 25% CEO approval). Secondary-market valuation ~$0.8B, about 45% below the 2022 $1.5B round.",
+  "red_flags_sources": [
+   {
+    "label": "RepVue: verified AE review, ~50-person layoff (Jul 2026)",
+    "url": "https://www.repvue.com/companies/jasper-ai"
+   },
+   {
+    "label": "Glassdoor: Jasper AI layoff reviews (2026)",
+    "url": "https://www.glassdoor.com/Reviews/Jasper-AI-layoff-Reviews-EI_IE6712758.0,9_KH10,16.htm"
+   },
+   {
+    "label": "Revelio Labs: Jasper AI headcount 393, -1.7% YoY",
+    "url": "https://www.reveliolabs.com/companies/jasper-ai/employees"
+   },
+   {
+    "label": "TrueUp: secondary valuation $0.8B, down 45% (Notice.co, Sep 2026)",
+    "url": "https://w.trueup.io/co/jasper-ai"
+   }
+  ],
+  "score": "0",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "2.4",
+  "glassdoor_reviews": "100",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Jasper-AI-Reviews-E6712758.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Early AI-writing leader that lost the category when ChatGPT shipped the same capability to marketers; now an enterprise follower behind Writer, Profound and AirOps, with layoffs and a sub-round secondary valuation.",
+  "distance_sources": [
+   {
+    "label": "TrueUp: Jasper secondary valuation down 45%",
+    "url": "https://w.trueup.io/co/jasper-ai"
+   },
+   {
+    "label": "Revelio Labs: Jasper AI headcount trend",
+    "url": "https://www.reveliolabs.com/companies/jasper-ai/employees"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Hugging Face",
+  "slug": "hugging-face",
+  "site": "https://huggingface.co",
+  "careers_url": "https://apply.workable.com/huggingface/",
+  "what_they_do": "Open platform to host, share and deploy AI models, datasets and apps",
+  "problem": "AI builders need one trusted place to find, version and run open models and datasets",
+  "industry": "AI developer platform / infrastructure",
+  "stage": "Series D (Nvidia acquisition pending)",
+  "last_round": "$235M",
+  "last_round_date": "Aug 2023",
+  "lead_investors": "Salesforce Ventures",
+  "total_open_roles": "6",
+  "ops_roles": "",
+  "hiring_trend": "Lean: ~250 staff (Aug 2026 reports); 6 open roles, mostly ML/open-source engineering; 4% layoff Feb 2025",
+  "headcount": "~250",
+  "latest_news": "Nvidia agreed to acquire Hugging Face for $12.9B; close expected H1 2027 pending regulators",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+  "traction": "~$150M annualized revenue, up ~50% (Aug 2026); 18M+ developers, 3M models; #39 on a16z Top 50 Consumer AI Apps by Monthly Revenue (Oct 2026)",
+  "red_flags": "July 2026 security breach: an autonomous agent from OpenAI's testing compromised production infrastructure, internal datasets and service credentials. Pending $12.9B Nvidia acquisition (not closed) means it will soon not be independent.",
+  "red_flags_sources": [
+   {
+    "label": "TechCrunch: Hugging Face confirms breach of internal datasets and credentials (Jul 2026)",
+    "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action"
+   },
+   {
+    "label": "Nvidia 8-K: definitive agreement, close expected H1 2027 (Sep 2026)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm"
+   }
+  ],
+  "score": "1.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "42",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Hugging-Face-Reviews-E6487302.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "Marathon",
+  "distance_why": "The default hub for open AI: 18M developers and 3M models make it more useful as more people publish, and no rival is close; Nvidia's pending purchase and the July breach are the risks.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Nvidia confirms Hugging Face purchase, 3M models, 18M developers",
+    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+   },
+   {
+    "label": "Nvidia blog: NVIDIA to Acquire Hugging Face",
+    "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Evoto AI",
+  "slug": "evoto",
+  "site": "https://www.evoto.ai",
+  "careers_url": "https://www.linkedin.com/company/evoto-ai/jobs/",
+  "what_they_do": "AI photo editing, culling and retouching suite for professional photographers and studios",
+  "problem": "Pro photographers lose hours retouching and culling thousands of shots by hand after every shoot",
+  "industry": "Creative software / AI photo editing",
+  "stage": "Bootstrapped (no disclosed rounds)",
+  "last_round": "n.a.",
+  "last_round_date": "n.a.",
+  "lead_investors": "",
+  "total_open_roles": "n.a.",
+  "ops_roles": "Strategic Enterprise Accounts Lead",
+  "hiring_trend": "Headcount ~49 on LinkedIn, +26% YoY; no first-party job board, ~3 postings on LinkedIn (enterprise accounts, PR, field sales)",
+  "headcount": "~50",
+  "latest_news": "Launched Evoto 8.0 with Asset Hub creator marketplace backed by $500K reward pool",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.morningstar.com/news/pr-newswire/20260922ne53137/evoto-80-updates-span-every-product-and-opens-a-creator-marketplace-backed-by-500000",
+  "traction": "1.2M+ photographers in 200+ countries; ~$4.1M revenue est. (GetLatka); #41 on a16z Top 50 Consumer AI Apps by Monthly Revenue (Oct 2026)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast-growing AI retouching suite with broad pro adoption, but Adobe ships the same AI edits in Lightroom and Photoshop to the same photographers, and Imagen and Aftershoot compete on culling.",
+  "distance_sources": [
+   {
+    "label": "Evoto About page: 1.2M+ photographers, 200+ countries",
+    "url": "https://www.evoto.ai/about"
+   },
+   {
+    "label": "a16z Top 50 Consumer AI Apps by Monthly Revenue, via OfficeChai (Oct 2026)",
+    "url": "https://officechai.com/ai/top-consumer-apps-by-revenue/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Beautiful.ai",
+  "slug": "beautiful-ai",
+  "site": "https://www.beautiful.ai",
+  "careers_url": "https://job-boards.greenhouse.io/beautifulai",
+  "what_they_do": "AI presentation software that designs and formats slides automatically for teams",
+  "problem": "Professionals waste hours formatting slides and keeping decks on brand",
+  "industry": "Productivity software / presentations",
+  "stage": "Growth (non-dilutive)",
+  "last_round": "$45M",
+  "last_round_date": "Mar 2026",
+  "lead_investors": "General Catalyst (Customer Value Fund)",
+  "total_open_roles": "0",
+  "ops_roles": "",
+  "hiring_trend": "Shrinking: company-wide layoffs Jul 2026; 0 open roles on Greenhouse; ~97 staff (TipRanks, Oct 2026)",
+  "headcount": "~97",
+  "latest_news": "Company-wide layoffs, per departing leaders' LinkedIn posts",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/jenna-minnix-1ba03144_after-six-years-my-time-at-beautifulai-activity-7485359539370921984-XhLr",
+  "traction": "100,000+ business customers; profitable (company, Mar 2026); #43 on a16z Top 50 Consumer AI Apps by Monthly Revenue (Oct 2026)",
+  "red_flags": "Company-wide layoffs in Jul 2026, four months after a $45M non-dilutive (revenue-based) financing; job board now empty.",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn: ex-product leader on 'broader layoffs' at Beautiful.ai (Jul 2026)",
+    "url": "https://www.linkedin.com/posts/jenna-minnix-1ba03144_after-six-years-my-time-at-beautifulai-activity-7485359539370921984-XhLr"
+   },
+   {
+    "label": "LinkedIn: ex-employee 'impacted by broader company-wide layoffs' (Aug 2026)",
+    "url": "https://www.linkedin.com/posts/valido06030928_after-taking-some-time-to-recharge-and-reflect-activity-7495206482251128832-qqff"
+   },
+   {
+    "label": "Axios: $45M non-dilutive financing from GC's Customer Value Fund (Mar 2026)",
+    "url": "https://www.axios.com/pro/enterprise-software-deals/2026/03/18/beautifulai-45m-general-catalyst-cvf"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "17",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Beautiful-ai-Reviews-E2374389.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "Solid product with 100K business customers, but a follower in a crowded category: PowerPoint and Canva own the default, Gamma out-earns it, and Microsoft and Google ship AI slides directly to the same buyers.",
+  "distance_sources": [
+   {
+    "label": "FinSMEs: Beautiful.ai $45M, 100,000+ business customers",
+    "url": "https://www.finsmes.com/2026/03/beautiful-ai-raises-45m-in-funding.html"
+   },
+   {
+    "label": "a16z Top 50 Consumer AI Apps by Monthly Revenue, via OfficeChai (Gamma #30, Beautiful.ai #43)",
+    "url": "https://officechai.com/ai/top-consumer-apps-by-revenue/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "FaceApp",
+  "slug": "faceapp",
+  "site": "https://www.faceapp.com",
+  "careers_url": "https://www.faceapp.com/careers",
+  "what_they_do": "AI selfie and portrait editor app (aging, hairstyles, makeup, expressions)",
+  "problem": "People want polished, realistic portrait edits in one tap without editing skills",
+  "industry": "Consumer photo apps",
+  "stage": "Bootstrapped (no outside funding)",
+  "last_round": "n.a.",
+  "last_round_date": "n.a.",
+  "lead_investors": "",
+  "total_open_roles": "3",
+  "ops_roles": "",
+  "hiring_trend": "Small, flat team: ~50 staff (GetLatka); 3 engineering roles open in Limassol",
+  "headcount": "~50",
+  "latest_news": "Launched Emotions filters for changing facial expressions",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.faceapp.com/blog/faceapp-emotions-filters/",
+  "traction": "~$150M revenue 2025 est., up ~$15M YoY (Business of Apps); profitable; #47 on a16z Top 50 Consumer AI Apps by Monthly Revenue (Oct 2026)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Large, profitable selfie editor, but face filters are a commodity that Snapchat, TikTok, Remini and the big model makers offer free or bundled.",
+  "distance_sources": [
+   {
+    "label": "Business of Apps: FaceApp revenue ~$150M in 2025",
+    "url": "https://www.businessofapps.com/data/faceapp-statistics"
+   },
+   {
+    "label": "a16z Top 50 Consumer AI Apps by Monthly Revenue, via OfficeChai (Oct 2026)",
+    "url": "https://officechai.com/ai/top-consumer-apps-by-revenue/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Moises",
+  "slug": "moises",
+  "site": "https://moises.ai",
+  "careers_url": "https://moises.bamboohr.com/careers",
+  "what_they_do": "AI music app for musicians: stem separation, chords, practice and production tools (Music AI)",
+  "problem": "Musicians can't easily isolate parts, learn songs or produce ideas without studio tools and skills",
+  "industry": "Music tech / AI audio",
+  "stage": "Series A",
+  "last_round": "$40M",
+  "last_round_date": "Jan 2025",
+  "lead_investors": "Connect Ventures (CAA + NEA), monashees",
+  "total_open_roles": "1",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~107 (+5.5% YoY, Revelio) to ~191 (+27% YoY, LinkedIn); 1 open role on BambooHR",
+  "headcount": "~110-190",
+  "latest_news": "Armin van Buuren and Laidback Luke join new Artist Partnerships program",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/dance-legends-armin-van-buuren-and-laidback-luke-join-moises-to-build-responsible-ai-tools-for-musicians-302866729.html",
+  "traction": "80M musicians (Sep 2026), up from 50M at Jan 2025 Series A; Fender and Ableton tech partner; #48 on a16z Top 50 Consumer AI Apps by Monthly Revenue (Oct 2026)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Category leader in AI tools for working musicians (80M users, Apple iPad App of the Year, picked by Fender and Ableton) with a B2B Music AI line; Suno-style generators and Logic's stem splitter are the threats.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Moises 80M musicians, Fender and Ableton partnerships (Sep 2026)",
+    "url": "https://www.prnewswire.com/news-releases/dance-legends-armin-van-buuren-and-laidback-luke-join-moises-to-build-responsible-ai-tools-for-musicians-302866729.html"
+   },
+   {
+    "label": "Music Business Worldwide: $40M Series A at 50M users (Jan 2025)",
+    "url": "https://www.musicbusinessworldwide.com/music-ai-raises-40m-in-series-a-round-as-its-moises-platform-hits-50m-users/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Nous Research",
+  "slug": "nous-research",
+  "site": "https://nousresearch.com",
+  "careers_url": "https://jobs.ashbyhq.com/nousresearch",
+  "what_they_do": "Open-source AI lab behind Hermes Agent, now selling Hermes for Businesses",
+  "problem": "Companies want capable AI agents they can self-host and control, without lock-in to one closed vendor",
+  "industry": "AI agents / open-source AI",
+  "stage": "Series B",
+  "last_round": "$90M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Robot Ventures",
+  "total_open_roles": "14",
+  "ops_roles": "Forward Deployed Engineer; Product Manager, Hermes Business; Support Engineer",
+  "hiring_trend": "~46 staff (Caplight, Aug 2026); 14 open roles in NYC incl. enterprise and controller hires after Series B",
+  "headcount": "~46",
+  "latest_news": "Raised $90M Series B at $1.5B valuation; launched Hermes for Businesses",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+  "traction": "$36M ARR mid-Sep 2026, targeting $100M by year-end (WSJ); Hermes cloned 24M+ times; #50 on a16z Top 50 Consumer AI Apps by Monthly Revenue (Oct 2026)",
+  "red_flags": "Hermes Agent security: a dozen-plus public CVEs in 2026 (command injection, sandbox escape, auth bypass), several with public exploits and reports that the vendor did not respond to disclosures.",
+  "red_flags_sources": [
+   {
+    "label": "VYPR: Nine Hermes Agent CVEs disclosed in a single day (May 2026)",
+    "url": "https://portal.vyprsec.ai/articles/nousresearch-hermes-agent-nine-cves-disclosed-in-a-single-day-spanning-injection"
+   },
+   {
+    "label": "SentinelOne: CVE-2026-14626, no vendor response (Jul 2026)",
+    "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-14626/"
+   },
+   {
+    "label": "GitHub Advisory: CVE-2026-9368 sandbox issue",
+    "url": "https://github.com/advisories/GHSA-wm96-9gfh-vvgq"
+   }
+  ],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Hermes is a leading open-source agent with huge adoption, but the MIT license invites clones and OpenAI, Anthropic and Microsoft ship agents straight to the same enterprise buyers; enterprise tier is brand new.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: $90M Series B, 24M clones, $36M ARR (Oct 2026)",
+    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+   },
+   {
+    "label": "Object Edge: enterprise tier has no pricing or named customers yet (Oct 2026)",
+    "url": "https://www.objectedge.com/blog/can-a-downloaded-agent-become-company-infrastructure"
+   }
+  ],
+  "hiring_locations": [
+   "Americas",
+   "New York",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Midjourney",
+  "slug": "midjourney",
+  "site": "https://www.midjourney.com",
+  "careers_url": "https://jobs.ashbyhq.com/midjourney",
+  "what_they_do": "AI image and video generation models sold by subscription; expanding into medical imaging and consumer apps",
+  "problem": "Creators and designers need striking visuals fast without hiring artists or learning complex design tools",
+  "industry": "Generative AI / image and video models",
+  "stage": "Bootstrapped (no outside funding)",
+  "last_round": "none (self-funded)",
+  "last_round_date": "",
+  "lead_investors": "",
+  "total_open_roles": "17",
+  "ops_roles": "Study Coordinator (Midjourney Medical); Product Manager",
+  "hiring_trend": "Lean self-funded lab (~60 staff per its site) adding a medical-hardware team and Co-Star's ~24 staff (Jul 2026); 17 open roles, mostly Midjourney Medical",
+  "headcount": "~60-100",
+  "latest_news": "Made first acquisition, astrology app Co-Star, and is building its first standalone app",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+  "traction": "#11 on a16z Top 50 consumer AI apps by revenue (Oct 2026); $300M revenue FY2024 (PitchBook), $200M+ in 2023; profitable",
+  "red_flags": "Consolidated copyright suit by Disney, Universal and Warner Bros. Discovery (filed Jun/Sep 2025) over training and outputs; Variety calls it potentially ruinous; still in discovery.",
+  "red_flags_sources": [
+   {
+    "label": "CourtListener: Disney Enterprises v. Midjourney docket (consolidated with Warner Bros.)",
+    "url": "https://www.courtlistener.com/docket/70513159/disney-enterprises-inc-v-midjourney-inc/"
+   },
+   {
+    "label": "Variety: Midjourney seeks studios' AI use in copyright battle (Jul 2026)",
+    "url": "https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/"
+   }
+  ],
+  "score": "2.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Midjourney-Reviews-E10678977.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Best-known standalone AI image brand with its own models, a large paying base and profits, but OpenAI and Google now bundle image generation into their assistants and the Hollywood copyright suit is a live risk.",
+  "distance_sources": [
+   {
+    "label": "Forbes: Midjourney company profile ($300M FY2024 revenue, profitable)",
+    "url": "https://www.forbes.com/companies/midjourney/"
+   },
+   {
+    "label": "WinBuzzer: Midjourney revenue tops $200M as it eyes hardware (Mar 2026)",
+    "url": "https://winbuzzer.com/2026/03/31/midjourney-revenue-above-200-million-hardware-push-xcxwbn/"
+   },
+   {
+    "label": "a16z: Top 100 Gen AI Consumer Apps, 7th edition (Oct 2026)",
+    "url": "https://a16z.com/100-gen-ai-apps-7/"
+   }
+  ],
+  "hiring_locations": [
+   "SF Bay Area",
+   "San Francisco",
+   "New York",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "OpenArt",
+  "slug": "openart",
+  "site": "https://openart.ai",
+  "careers_url": "https://jobs.ashbyhq.com/openart",
+  "what_they_do": "AI creative studio for images, characters and videos, now with an agentic 'Director' video tool",
+  "problem": "Creators and brand teams struggle to make consistent characters and finished videos across many separate AI models",
+  "industry": "Generative AI / creative tools",
+  "stage": "Series A",
+  "last_round": "$30M",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "Canaan Partners",
+  "total_open_roles": "27",
+  "ops_roles": "Founding Customer Success Manager; Senior Product Manager, Enterprise; Strategic Events Manager",
+  "hiring_trend": "~20 staff at Jan 2026 raise to ~60 by Sep 2026 (CEO on podcast); 27 open roles, building an enterprise sales team in SF, LA and NYC",
+  "headcount": "~60",
+  "latest_news": "Launched OpenArt Arena, a creative-task AI model leaderboard; says ARR passed $100M",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20260915771316/en/OpenArt-Introduces-OpenArt-Arena-a-New-AI-Model-Benchmark-Tailor-Made-for-and-by-Creatives",
+  "traction": "$100M+ ARR (Sep 2026), up from $10.5M end-2024 and $70M at Jan 2026; 8M MAU; profitable; #12 on a16z Top 50 consumer AI by revenue",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "Fast, profitable growth, but it resells the same third-party models (Seedance, Kling, Veo) as Higgsfield, Krea and Freepik, so its workflow layer is easy to copy.",
+  "distance_sources": [
+   {
+    "label": "Canaan: Why we led OpenArt's $30M Series A (Jan 2026)",
+    "url": "https://www.canaan.com/latest/why-we-led-openart-s-30m-series-a"
+   },
+   {
+    "label": "SlopTV: OpenArt Arena ranks the models it sells (Sep 2026)",
+    "url": "https://sloptv.co/news/openart-arena-creative-model-leaderboard"
+   }
+  ],
+  "hiring_locations": [
+   "San Carlos",
+   "Los Angeles",
+   "New York",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Otter.ai",
+  "slug": "otter-ai",
+  "site": "https://otter.ai",
+  "careers_url": "https://otter.ai/careers",
+  "what_they_do": "AI meeting notetaker and searchable 'conversational knowledge' base for teams",
+  "problem": "Teams lose decisions and context from meetings and spend time writing notes and follow-ups by hand",
+  "industry": "AI productivity / meeting intelligence",
+  "stage": "Series B",
+  "last_round": "$50M (Series B + note)",
+  "last_round_date": "Feb 2021",
+  "lead_investors": "Spectrum Equity",
+  "total_open_roles": "25",
+  "ops_roles": "Senior Manager, Customer Success; Senior Solution Architect",
+  "hiring_trend": "Near flat: headcount ~247 (+3.5% YoY, Revelio, Mar 2026); company cites 240 staff (Jul 2026); 25 open roles",
+  "headcount": "~240-300",
+  "latest_news": "Named Alex Gay CMO as it expands beyond AI notetaking",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://otter.ai/press",
+  "traction": "$100M ARR (Mar 2025, up from $81M end-2024); 35M users; #14 on a16z Top 50 consumer AI by revenue",
+  "red_flags": "Consolidated privacy class action (In re Otter.ai Privacy Litigation): Aug 2026 ruling let wiretap (CIPA/ECPA), BIPA and UCL claims proceed. Recent Glassdoor reviews (Jun-Aug 2026) cite unclear direction, exec turnover and no new funding.",
+  "red_flags_sources": [
+   {
+    "label": "National Law Review: court holds Otter.ai a third-party eavesdropper (Aug 2026)",
+    "url": "https://natlawreview.com/article/invited-participant-or-third-party-eavesdropper-court-holds-otterai-third-party"
+   },
+   {
+    "label": "UC Today: Otter.ai on trial, four suits consolidated (Apr 2026)",
+    "url": "https://www.uctoday.com/security-compliance-risk/otter-ai-on-trial-and-the-ai-notetaker-industry-with-it"
+   },
+   {
+    "label": "Glassdoor review: unclear company direction, exec turnover (Jul 2026)",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Otter-ai-E1744427-RVW104952802.htm"
+   },
+   {
+    "label": "Revelio Labs: Otter.ai headcount 247, +3.5% YoY",
+    "url": "https://www.reveliolabs.com/companies/otter-ai/employees"
+   }
+  ],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.2",
+  "glassdoor_reviews": "40",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Otter-ai-Reviews-E1744427.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "An early AI-notetaker leader at $100M ARR, but Zoom, Teams and Google Meet now ship native notetakers to the same buyers while Fireflies, Granola and Read AI crowd the category, and privacy litigation is ongoing.",
+  "distance_sources": [
+   {
+    "label": "Otter.ai: $100M ARR milestone (Mar 2025)",
+    "url": "https://otter.ai/blog/otter-ai-breaks-100m-arr-barrier-and-transforms-business-meetings-launching-industry-first-ai-meeting-agent-suite"
+   },
+   {
+    "label": "Tracxn: Otter.ai competitors (Fireflies, Read AI)",
+    "url": "https://tracxn.com/d/companies/otterai/__E-T9rBWM2oKUaRZuRYAJ-U8oxPp-njZ0sJxcC0DOtX8"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Notion",
+  "slug": "notion",
+  "site": "https://www.notion.com",
+  "careers_url": "https://jobs.ashbyhq.com/notion",
+  "what_they_do": "Connected workspace for docs, wikis, projects and databases, with built-in AI agents",
+  "problem": "Teams scatter knowledge and work across many tools and waste time searching and doing busywork by hand",
+  "industry": "Productivity / AI workspace",
+  "stage": "Late-stage private (Series C; Jan 2026 tender)",
+  "last_round": "$275M (Series C); $270M secondary tender at $11B, Jan 2026",
+  "last_round_date": "Oct 2021",
+  "lead_investors": "Coatue, Sequoia (tender: GIC, Sequoia, Index)",
+  "total_open_roles": "130",
+  "ops_roles": "Product Operations Manager; Customer Experience Strategy & Operations Lead; Chief of Staff, Sales; Business Operations & Strategy",
+  "hiring_trend": "Growing: sales team doubling (COO, 2026); est. ~2,000 staff (TrueUp; Revelio ~3,350); 130 open roles across SF, NYC, Dublin, Tokyo",
+  "headcount": "~2,000",
+  "latest_news": "Acquired outliner WorkFlowy; plans a 'Notion Flow' block",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://dealroom.co/news/151513-notion-buys-workflowy-to-fuse-outlining-with-ai",
+  "traction": "~$865M ARR (Jul 2026, Sacra est.), up from $610M end-2025; cash-flow positive; #17 on a16z Top 50 consumer AI by revenue",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.2",
+  "glassdoor_reviews": "339",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Notion-Labs-Reviews-E3304926.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Leader among modern team workspaces with ~$865M ARR and agents that pause if teams downgrade, but Microsoft, Google and Atlassian sell docs and AI to the same buyers.",
+  "distance_sources": [
+   {
+    "label": "Sacra: Notion at $865M/year growing 82% YoY (Aug 2026)",
+    "url": "https://sacra.com/research/notion-at-865m-year-growing-82-yoy/"
+   },
+   {
+    "label": "Notion: GIC, Sequoia, Index tender at $11B (Jan 2026)",
+    "url": "https://www.notion.com/blog/gic-sequoia-index-purchase-notion-shares"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Tokyo",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Reface",
+  "slug": "reface",
+  "site": "https://reface.ai",
+  "careers_url": "https://jobs.dou.ua/companies/reface/vacancies/",
+  "what_they_do": "Kyiv-based studio of AI photo and video apps: face swap, avatars, AI tattoos, virtual pets",
+  "problem": "Consumers want fun, personalized photo and video content without editing skills",
+  "industry": "Consumer AI apps",
+  "stage": "Seed (+ revenue-based debt)",
+  "last_round": "$18M (non-dilutive user-acquisition financing)",
+  "last_round_date": "Dec 2025",
+  "lead_investors": "PvX Partners (debt); a16z (2020 seed)",
+  "total_open_roles": "1",
+  "ops_roles": "",
+  "hiring_trend": "Rebuilt after cuts: ~105 staff after Dec 2024 layoffs, ~150 by Dec 2025 (DOU), 'team of 200' (May 2026); 1 open role on its DOU page",
+  "headcount": "~200",
+  "latest_news": "Secured $18M non-dilutive user-acquisition funding from PvX Partners",
+  "latest_news_date": "Dec 2025",
+  "latest_news_url": "http://eu-startups.com/2025/12/andreessen-horowitz-backed-ukrainian-ai-app-studio-reface-secures-e15-2-million-in-non-dilutive-user-acquisition-funding",
+  "traction": "#18 on a16z Top 50 consumer AI by revenue (Oct 2026); 4 apps, 300M+ downloads; ~$26.5M revenue (Dealroom est.)",
+  "red_flags": "Laid off 35% of staff (60 people) in Dec 2024 to reach profitability.",
+  "red_flags_sources": [
+   {
+    "label": "AIN.UA: Reface cutting 35% of workforce, 60 employees (Dec 2024)",
+    "url": "https://en.ain.ua/2024/12/03/reface-is-cutting-60-employees/"
+   },
+   {
+    "label": "dev.ua: Reface resumed hiring, team back to ~150 (Dec 2025)",
+    "url": "https://dev.ua/en/news/reface-vidnovyla-naim-pislia-zvilnen-i-narostyla-komandu-do-150-liudei-1765528895"
+   }
+  ],
+  "score": "1.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "4.6",
+  "glassdoor_reviews": "13",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Reface-Reviews-E5177405.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "A pioneer of viral face swap with 300M+ downloads, but its apps are easy to clone, it depends on paid user acquisition, and it is rebuilding after a 2024 layoff.",
+  "distance_sources": [
+   {
+    "label": "UA Tech Journal: Reface $18M revenue-share deal for user acquisition (Dec 2025)",
+    "url": "https://www.uatechjournal.com/reface-secures-18m-revenue-share-deal-for-user-acquisition/"
+   },
+   {
+    "label": "Dealroom: Reface profile (est. revenue)",
+    "url": "https://app.dealroom.co/companies/refaceai"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Manus",
+  "slug": "manus",
+  "site": "https://manus.im",
+  "careers_url": "https://careers.manus.im/en/jobs",
+  "what_they_do": "General-purpose AI agent that researches, builds and automates tasks end to end; Singapore-based",
+  "problem": "Knowledge workers want multi-step work done for them, not just answers they must act on",
+  "industry": "AI agents",
+  "stage": "Late-stage private (post-Meta unwind)",
+  "last_round": "$500M+",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Boyu Capital, IDG Capital",
+  "total_open_roles": "21",
+  "ops_roles": "User and Product Operations Manager; Business Analyst; Customer Support Specialist; Community Programs & Insights Manager",
+  "hiring_trend": "LinkedIn ~168 staff (+77% YoY); 21 open roles (Oct 2026), mostly Singapore; also forming a China team",
+  "headcount": "~170",
+  "latest_news": "Raised $500M+ led by Boyu and IDG after China forced Meta to unwind its acquisition",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+  "traction": "ARR ~$100M (Dec 2025) to $400-500M (Jun 2026, The Information); ~$4B valuation (reported); #19 on a16z Top 50 consumer AI by revenue",
+  "red_flags": "Meta's ~$2B acquisition (closed Dec 2025) was ordered unwound by China in Apr 2026; Manus deleted some user data in Aug 2026 to separate and resumed independence Sep 2026. Earlier, it shut its China offices and laid off dozens (Jul 2025).",
+  "red_flags_sources": [
+   {
+    "label": "Reuters: China orders Meta to unwind Manus purchase (Apr 2026)",
+    "url": "https://www.reuters.com/world/asia-pacific/china-blocks-foreign-acquisition-ai-startup-manus-2026-04-27/"
+   },
+   {
+    "label": "Manus: A note to our users (data deletion, separation from Meta)",
+    "url": "https://manus.im/blog/a-note-to-our-users"
+   },
+   {
+    "label": "SCMP: Manus resumes solo operations (Sep 2026)",
+    "url": "https://www.scmp.com/tech/big-tech/article/3365986/manus-resumes-solo-operations-after-collapse-us2-billion-meta-deal"
+   }
+  ],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "Hypergrowth to a reported $400-500M ARR, but OpenAI, Anthropic, Microsoft and Meta ship general agents directly to the same users, and US-China regulatory exposure is unusually high.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Manus seeks $4B valuation, competes with OpenAI, Lovable, Replit (Sep 2026)",
+    "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/"
+   },
+   {
+    "label": "The Insight: Manus regroups; Microsoft, Tencent, ByteDance, Alibaba embed agents (Oct 2026)",
+    "url": "https://theinsight.asia/after-meta-split-ai-agent-startup-manus-regroups-with-new-500-million-funding/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Speechify",
+  "slug": "speechify",
+  "site": "https://speechify.com",
+  "careers_url": "https://job-boards.greenhouse.io/speechify",
+  "what_they_do": "Text-to-speech reader app plus voice typing and a voice AI API, Miami-based and remote-first",
+  "problem": "People with dyslexia, ADHD or busy schedules struggle to get through documents, books and articles by reading",
+  "industry": "Voice AI / consumer productivity",
+  "stage": "Seed",
+  "last_round": "$10M at $100M valuation",
+  "last_round_date": "Jan 2024",
+  "lead_investors": "",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "LinkedIn ~203 staff (+28% YoY); Greenhouse shows just 2 distinct roles (Android Team Lead, Tech Lead), each cloned across ~246 city listings",
+  "headcount": "~200",
+  "latest_news": "Launched free unlimited Voice Typing dictation on iOS and Mac",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://speechify.com/news/speechify-voice-typing-ios-mac-launch/",
+  "traction": "#20 on a16z Top 50 consumer AI by revenue (Oct 2026); 60M+ users; profitable 4.5 years (CEO); revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "116",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Speechify-Reviews-E4178530.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "The most-used consumer read-aloud app with 60M+ users and owned GPU capacity, but ElevenLabs passed it in voice AI and Apple, Google and Microsoft build TTS into their operating systems.",
+  "distance_sources": [
+   {
+    "label": "Speechify: CEO on 20VC, 60M+ users (May 2026)",
+    "url": "https://speechify.com/news/speechify-ceo-cliff-weitzman-20vc-podcast/"
+   },
+   {
+    "label": "vocus: Weitzman on owning GPUs and the ElevenLabs leapfrog (Sep 2026)",
+    "url": "https://vocus.cc/article/6a9c8fe9fd89780001dab7af"
+   }
+  ],
+  "hiring_locations": [
+   "Birmingham",
+   "Cambridge",
+   "Aarhus",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Zeely",
+  "slug": "zeely",
+  "site": "https://zeely.ai",
+  "careers_url": "https://jobs.ashbyhq.com/zeely",
+  "what_they_do": "AI ad platform that turns a product link into video and static ads and runs the campaigns",
+  "problem": "Small businesses can't afford agencies or media buyers, so they guess at creatives and waste ad spend",
+  "industry": "AdTech / AI marketing for SMBs",
+  "stage": "Seed",
+  "last_round": "$8.8M (Form D, unannounced)",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "",
+  "total_open_roles": "25",
+  "ops_roles": "Senior Business Operations Manager; B2B Implementation Manager; Founding Payment Manager",
+  "hiring_trend": "Headcount +127% YoY on LinkedIn (~143); company says 200+ staff, mostly Ukraine and remote; 25 open roles",
+  "headcount": "~200",
+  "latest_news": "SEC filing shows an $8.84M equity raise from 24 investors, no lead named",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://runtimewire.com/article/zeely-files-8-84m-equity-offering",
+  "traction": "$75M ARR, revenue up 6x in 12 months (company); 2M+ businesses; #22 on a16z Top 50 consumer AI by revenue",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "Fast growth with SMB sellers, but its ads run on Meta and TikTok, and Meta is building fully AI-made ads into Ads Manager for the same buyers.",
+  "distance_sources": [
+   {
+    "label": "Zeely: About us ($75M ARR, 6x growth)",
+    "url": "https://zeely.ai/about-us/"
+   },
+   {
+    "label": "Growthcurve: Meta plans fully AI-created ads by end of 2026",
+    "url": "https://growthcurve.co/speechify-1300-ads-a-day-machine-is-the-cheap-part"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (Ukraine)"
+  ]
  }
 ]
