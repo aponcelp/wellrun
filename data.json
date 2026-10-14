@@ -21299,5 +21299,171 @@
    "New York",
    "Remote"
   ]
+ },
+ {
+  "name": "Fireflies.ai",
+  "slug": "fireflies",
+  "site": "https://fireflies.ai",
+  "careers_url": "https://jobs.gem.com/fireflies",
+  "what_they_do": "AI meeting notetaker that records, transcribes and summarizes calls, then drafts follow-ups",
+  "problem": "Teams lose decisions and action items from calls and waste hours writing notes and updating CRMs",
+  "industry": "AI productivity / meeting intelligence",
+  "stage": "Series A",
+  "last_round": "$14M",
+  "last_round_date": "May 2021",
+  "lead_investors": "Khosla Ventures",
+  "total_open_roles": "9",
+  "ops_roles": "",
+  "hiring_trend": "Headcount +30% YoY (~138, LinkedIn est.); 9 open roles, mostly Manila/India",
+  "headcount": "~120-138",
+  "latest_news": "Launched Fireflies Talk, free voice dictation across desktop apps",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
+  "traction": "20M users at 1M orgs; profitable since 2023; ~$10.9M revenue 2024 (est.)",
+  "red_flags": "Multiple BIPA voiceprint class actions filed Dec 2025-Mar 2026; Illinois cases consolidated and pending",
+  "red_flags_sources": [
+   {
+    "label": "CourtListener: Parrinello v. Fireflies.AI (N.D. Cal., Mar 2026)",
+    "url": "https://www.courtlistener.com/docket/72529811/1/parrinello-v-firefliesai-corp/"
+   },
+   {
+    "label": "Top Class Actions: Fricker v. Fireflies.AI BIPA suit (Mar 2026)",
+    "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/fireflies-ai-sued-over-alleged-unlawful-data-collection-from-meeting-participants/"
+   },
+   {
+    "label": "National Law Review: Cruz v. Fireflies.AI BIPA complaint (Dec 2025)",
+    "url": "https://natlawreview.com/article/lawsuit-alleges-firefliesai-corp-illegally-collects-biometric-data-virtual-meetings"
+   }
+  ],
+  "score": "1.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.3",
+  "glassdoor_reviews": "34",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Fireflies-CA-Reviews-E2304798.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Broad adoption and profitable, but Zoom, Microsoft and Google bundle the same notetaker and Otter, Fathom and Granola crowd the category.",
+  "distance_sources": [
+   {
+    "label": "BusinessWire: Fireflies $1B tender, profitable since 2023 (Jun 2025)",
+    "url": "https://www.businesswire.com/news/home/20250612531860/en/Fireflies-Reaches-%241-Billion-Valuation-Partners-With-Perplexity-to-Bring-Real-time-Web-Search-to-Meetings"
+   },
+   {
+    "label": "TechCrunch: Fireflies adds dictation vs Wispr Flow (Sep 2026)",
+    "url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Genspark",
+  "slug": "genspark",
+  "site": "https://genspark.ai",
+  "careers_url": "https://jobs.ashbyhq.com/genspark",
+  "what_they_do": "AI agent workspace that produces slides, docs, sheets, apps and phone calls from prompts",
+  "problem": "Knowledge workers burn hours on busywork assembling decks, models and documents by hand",
+  "industry": "AI productivity / agents",
+  "stage": "Series B",
+  "last_round": "$100M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Emergence Capital (Series B lead); Sozo Ventures, Mirae Asset, UpHonest (Jun 2026 extension)",
+  "total_open_roles": "9",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~20 (May 2025) to ~80 (Sep 2026, COO); 9 open roles, all GTM",
+  "headcount": "~70-88",
+  "latest_news": "Released Gen1 Slide, its first in-house model, for slide generation",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://finance.yahoo.com/video/summit-genspark-co-founder-wen-194311355.html",
+  "traction": "$250M ARR within ~12 months of launch; 7,000+ business customers",
+  "red_flags": "Ad watchdog NAD referred Genspark to the FTC (Sep 2026) for failing to substantiate ad claims",
+  "red_flags_sources": [
+   {
+    "label": "BBB National Programs: NAD refers Genspark to FTC (Sep 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/09/09/3358939/0/en/national-advertising-division-will-refer-genspark-to-the-federal-trade-commission-for-failure-to-respond-to-inquiry.html"
+   }
+  ],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "Explosive ARR, but a multi-model wrapper chasing ChatGPT, Microsoft Copilot and Manus, whose makers ship the same agent to the same buyers.",
+  "distance_sources": [
+   {
+    "label": "Reuters: Genspark valued at $2.6B (Jun 2026)",
+    "url": "https://www.reuters.com/technology/gensparkai-valued-26-billion-latest-funding-round-2026-06-17"
+   },
+   {
+    "label": "NYSE/Yahoo: Wen Sang on $250M ARR and reliance on frontier models (Oct 2026)",
+    "url": "https://finance.yahoo.com/video/summit-genspark-co-founder-wen-194311355.html"
+   }
+  ],
+  "hiring_locations": [
+   "NYC & Palo Alto",
+   "Japan_Tokyo",
+   "Remote"
+  ]
+ },
+ {
+  "name": "PLAUD",
+  "slug": "plaud",
+  "site": "https://www.plaud.ai",
+  "careers_url": "https://jobs.ashbyhq.com/plaud",
+  "what_they_do": "AI voice recorders and wearables with transcription and summary subscriptions for professionals",
+  "problem": "Professionals lose details from in-person meetings and phone calls and waste time writing notes",
+  "industry": "AI hardware / productivity",
+  "stage": "No disclosed VC round (profitable)",
+  "last_round": "",
+  "last_round_date": "",
+  "lead_investors": "Vertex Holdings (Temasek), largest investor",
+  "total_open_roles": "52",
+  "ops_roles": "TPM - Digital Transformation; Business System Lead; Technical Support Team Lead - Singapore; Training & Quality Specialist - Singapore",
+  "hiring_trend": "Headcount +29% YoY (~451, Revelio); postings +185% in 2026; 52 open roles",
+  "headcount": "~450",
+  "latest_news": "CEO says Plaud targets a U.S. IPO in 2028; opened Singapore APAC hub",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://qz.com/plaud-ai-note-taker-ipo-2028-091726",
+  "traction": "$100M+ software ARR; 2M+ devices sold; 2.5M users; profitable",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "8",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/PLAUD-AI-Reviews-E10661303.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "No.1 AI note-taking device brand by units with $100M+ subscription ARR, but DingTalk, Anker/ByteDance and Pocket can copy the hardware cheaply.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Plaud tops $100M ARR after 2M devices (Jun 2026)",
+    "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers"
+   },
+   {
+    "label": "36Kr: copycat hardware from DingTalk, Anker/ByteDance (May 2026)",
+    "url": "https://eu.36kr.com/en/p/3799129165863937"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Seattle",
+   "Palo Alto",
+   "Remote (Singapore)",
+   "Remote (Europe)"
+  ]
  }
 ]
