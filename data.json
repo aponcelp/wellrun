@@ -24592,5 +24592,55 @@
    "Remote (Australia)",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "David AI",
+  "slug": "david-ai",
+  "site": "https://www.withdavid.ai",
+  "careers_url": "https://jobs.ashbyhq.com/david-ai",
+  "what_they_do": "Designs, records and licenses conversational audio datasets and evals for voice AI models",
+  "problem": "Voice AI teams can't get enough natural, speaker-separated conversation audio to train and test realistic speech models",
+  "industry": "AI training data / audio",
+  "stage": "Series B",
+  "last_round": "$50M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": "Meritech (with NVIDIA); Series A led by Alt Capital, Amplify",
+  "total_open_roles": "16",
+  "ops_roles": "Chief of Staff to the CEO; General Manager, Data Operations; Data Product Operations Lead; Head of Quality Assurance Operations (Remote US)",
+  "hiring_trend": "~15 → ~50 staff in a few months (Jul 2026); job postings +67% in 2026 (Revelio)",
+  "headcount": "~50 FTE (LinkedIn ~120-130 incl. contractors)",
+  "latest_news": "Released DAI-ASR-I18N, a 21-language conversational speech-recognition benchmark",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://runtimewire.com/article/david-ai-multilingual-conversation-speech-benchmark",
+  "traction": "Eight-figure revenue run rate within a year (May 2025); ~$43M revenue est. (Tracxn); most Mag7 and leading audio labs as customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "2",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/David-AI-Reviews-E10673089.htm",
+  "keep": "yes (note: AI training-data vendor, ops-heavy, many ops roles; sells to AI labs and big tech)",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Fast-rising specialist in conversational audio data with a research feedback loop, but sells to a small set of very large buyers who could build this data in-house, and faces Scale AI, Defined.ai, Protege and Panels.",
+  "distance_sources": [
+   {
+    "label": "Contrary Research: David AI deep dive (Sep 2026)",
+    "url": "https://research.contrary.com/report/david-ai"
+   },
+   {
+    "label": "Bloomberg Law: David AI notches $500M value (Oct 2025)",
+    "url": "https://news.bloomberglaw.com/private-equity/david-ai-notches-500-million-value-bringing-audio-to-ai-models"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote (US)"
+  ]
  }
 ]
