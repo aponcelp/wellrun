@@ -26781,5 +26781,57 @@
    "Bogotá",
    "Remote (Philippines)"
   ]
+ },
+ {
+  "name": "Forus",
+  "slug": "forus",
+  "site": "https://forus.com",
+  "careers_url": "https://jobs.ashbyhq.com/forus",
+  "what_they_do": "AI agents that handle prior auths, appeals, copay help and pharmacy routing for prescriptions",
+  "problem": "Patients wait weeks for specialty drugs while practices fight insurer paperwork; a third never get the first dose",
+  "industry": "Healthcare AI / medication access & prior authorization",
+  "stage": "Series C",
+  "last_round": "$150M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Bain Capital Ventures (Series C); Thrive Capital, Accel, General Catalyst (earlier rounds)",
+  "total_open_roles": "53",
+  "ops_roles": "Strategy & Operations; GTM Strategy & Operations; Founder's Office (Special Projects); AI Operations",
+  "hiring_trend": "Headcount ~100 (May 2026, company) to ~210-230 (Sep 2026, LinkedIn/Crustdata); plans to more than double in 2026; 53 open roles, all NYC",
+  "headcount": "~210-230",
+  "latest_news": "Raised $150M Series C led by Bain Capital Ventures at $3B valuation, tripling in four months",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.fiercehealthcare.com/health-tech/forus-secures-150m-series-c-3b-valuation",
+  "traction": "$50M+ ARR run-rate (est.; $10M end-2025, ~5x by May 2026); 9 of top 15 biopharma; 1/3 of US dermatologists",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.5",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Fast-rising leader in AI medication access with broad adoption (thousands of practices, 1/3 of US dermatology, 9 of top 15 biopharma) and a two-sided network that learns from every case; still small next to incumbent CoverMyMeds (McKesson), and the free-for-providers model leans on biopharma revenue.",
+  "distance_sources": [
+   {
+    "label": "Fierce Healthcare: Forus $150M Series C at $3B (Sep 2026)",
+    "url": "https://www.fiercehealthcare.com/health-tech/forus-secures-150m-series-c-3b-valuation"
+   },
+   {
+    "label": "Forbes: Forus hits $1B valuation, ARR >$10M end-2025 and ~5x since (May 2026)",
+    "url": "https://www.forbes.com/sites/amyfeldman/2026/05/12/billions-in-prescriptions-go-unfilled-this-startup-is-using-ai-to-fix-that/"
+   },
+   {
+    "label": "Forus: Series C announcement (Sep 2026)",
+    "url": "https://forus.com/stories/forus-series-c"
+   }
+  ],
+  "hiring_locations": [
+   "New York"
+  ]
  }
 ]
