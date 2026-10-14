@@ -27108,5 +27108,61 @@
    "Remote (LatAm)",
    "Remote (Global)"
   ]
+ },
+ {
+  "name": "Sardine",
+  "slug": "sardine",
+  "site": "https://www.sardine.ai",
+  "careers_url": "https://jobs.ashbyhq.com/sardine",
+  "what_they_do": "AI platform for fraud prevention, AML compliance and KYC for banks, fintechs and merchants",
+  "problem": "Risk teams drown in manual fraud and compliance reviews while AI-driven scams move money in milliseconds",
+  "industry": "Fraud prevention / AML compliance",
+  "stage": "Series C",
+  "last_round": "$25M (Series C extension)",
+  "last_round_date": "May 2026",
+  "lead_investors": "National Bank of Canada (NAventures); Series C ($70M, Feb 2025) led by Activant with a16z",
+  "total_open_roles": "42",
+  "ops_roles": "General Manager - Mexico; Technical Program Manager (Integrations); Support Engineering Lead; Revenue Operations Manager",
+  "hiring_trend": "Headcount 164 → 239 Q1 2025 to Q1 2026 (+46%, Revelio); active postings +73% in 2026",
+  "headcount": "~240-370",
+  "latest_news": "Launched Sardine AI Labs with a card-fraud foundation model and research fellowships",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.sardine.ai/press/pr/sardine-ai-labs",
+  "traction": "500%+ revenue growth in 2 years; 500+ enterprise customers incl. FIS, Nubank, Deel, Gusto",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "16",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Sardine-Reviews-E7044956.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Forrester Wave Leader in financial crime management with broad bank and fintech adoption (500+ enterprises) and a consortium device/behavior network that gets stronger with each customer; still shares a crowded market with SAS, NICE Actimize, Socure, Sift and Feedzai.",
+  "distance_sources": [
+   {
+    "label": "Sardine: Leader in The Forrester Wave, Financial Crime Management Solutions Q3 2026",
+    "url": "https://www.sardine.ai/whitepapers/the-forrester-wave-tm-financial-crime-management-solutions-q3-2026"
+   },
+   {
+    "label": "Sardine: AI Labs launch, 500+ enterprise customers, 6.5B devices (Sep 2026)",
+    "url": "https://www.sardine.ai/press/pr/sardine-ai-labs"
+   },
+   {
+    "label": "FinTech Futures: NBC leads $25M Series C extension (May 2026)",
+    "url": "https://www.fintechfutures.com/financial-crime-fraud-prevention/national-bank-of-canada-leads-25m-investment-in-sardine"
+   }
+  ],
+  "hiring_locations": [
+   "Dubai",
+   "Florianópolis",
+   "Belo Horizonte",
+   "Remote (North America)",
+   "Remote (US)"
+  ]
  }
 ]
