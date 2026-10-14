@@ -21606,5 +21606,68 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Persona",
+  "slug": "persona",
+  "site": "https://withpersona.com",
+  "careers_url": "https://jobs.ashbyhq.com/persona",
+  "what_they_do": "Configurable identity verification, KYC/KYB and fraud checks for online businesses",
+  "problem": "Businesses can't tell real people from fraudsters, bots and deepfakes at sign-up without heavy manual review",
+  "industry": "Identity verification / fraud & compliance",
+  "stage": "Series D",
+  "last_round": "$200M",
+  "last_round_date": "Apr 2025",
+  "lead_investors": "Founders Fund, Ribbit Capital",
+  "total_open_roles": "13",
+  "ops_roles": "Customer Operations Manager; Tech Ops Analyst; Solutions Engineer (Post-Sales/Deployments)",
+  "hiring_trend": "Headcount ~403 → ~621 Q1 2025 to Q1 2026 (Revelio), ~710 on LinkedIn (+28% YoY); postings +85% in 2026",
+  "headcount": "~620-710",
+  "latest_news": "Launched Escalated Verifications and managed Fraud Fight Flow fraud tools",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://withpersona.com/blog/persona-expands-fraud-suite/",
+  "traction": "~$100M ARR (est.); revenue and customers doubled in 2024; 3,000+ customers",
+  "red_flags": "Feb 2026 privacy/security backlash: researchers found exposed frontend source on a FedRAMP endpoint; Discord ended its UK age-check test. Ongoing Illinois BIPA biometric class actions.",
+  "red_flags_sources": [
+   {
+    "label": "Fortune: Discord distances itself from Persona after exposed code (Feb 2026)",
+    "url": "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/"
+   },
+   {
+    "label": "Malwarebytes: Persona left frontend exposed, researchers say (Feb 2026)",
+    "url": "https://www.malwarebytes.com/blog/news/2026/02/age-verification-vendor-persona-left-frontend-exposed"
+   },
+   {
+    "label": "CourtListener: Freifeld v. Persona Identities BIPA class action (2nd amended complaint, Feb 2025)",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.460843/gov.uscourts.ilnd.460843.45.0.pdf"
+   }
+  ],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.1",
+  "glassdoor_reviews": "157",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Persona-Identities-Reviews-E4135645.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Gartner MQ Leader, highest on execution three years running, with broad adoption (LinkedIn, OpenAI, Reddit, Roblox) and new KYB and workforce lines; still shares the market with Jumio, Socure and Entrust-Onfido, and privacy backlash is a live risk.",
+  "distance_sources": [
+   {
+    "label": "Persona: Leader in 2026 Gartner Magic Quadrant for IDV (Aug 2026)",
+    "url": "https://withpersona.com/blog/persona-named-leader-2026-gartner-magic-quadrant-identity-verification/"
+   },
+   {
+    "label": "SiliconANGLE: Persona $200M Series D at $2B (Apr 2025)",
+    "url": "https://siliconangle.com/2025/04/30/identity-verification-startup-persona-raises-200m-2b-valuation/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote (US)"
+  ]
  }
 ]
