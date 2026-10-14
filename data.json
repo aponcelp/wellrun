@@ -25973,5 +25973,378 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Odeko",
+  "slug": "odeko",
+  "site": "https://www.odeko.com",
+  "careers_url": "https://job-boards.greenhouse.io/odeko",
+  "what_they_do": "Supplies, local delivery, ordering software, financing and insurance for independent cafés",
+  "problem": "Independent coffee shops juggle dozens of vendors and pay more for supplies than big chains do",
+  "industry": "Foodservice supply / café operations",
+  "stage": "Series E",
+  "last_round": "$96M equity (+$30M credit facility)",
+  "last_round_date": "Mar 2025",
+  "lead_investors": "B Capital",
+  "total_open_roles": "19",
+  "ops_roles": "Market Manager; VP, Strategic Sourcing",
+  "hiring_trend": "Shrinking: headcount ~179, -5.7% YoY and -30% since 2023 (Revelio, Mar 2026); 19 open roles, mostly warehouse, driver and field sales",
+  "headcount": "~180-215",
+  "latest_news": "Acquired Seattle fresh-foods distributor Catapult NW; exclusive Artisan Premades deal",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/odeko-acquires-catapult-nw-enters-into-exclusive-partnership-with-artisan-premades-302853644.html",
+  "traction": "30,000+ café and F&B customers (Aug 2026), up from 14,000 in Mar 2025, largely via distributor acquisitions",
+  "red_flags": "Shrinking with repeated cuts: Jun 2025 WARN notice closing its Astoria, NY facility (61 workers); headcount -5.7% YoY to ~179 and -30% since 2023 (Revelio, Mar 2026); Apr 2026 Glassdoor review cites 'several layoffs and organization restructurings'. Glassdoor 2.2, 20% recommend. Also (not scored): Jul 2026 review says the CTO and VP of Engineering left.",
+  "red_flags_sources": [
+   {
+    "label": "LayoffAlert: Odeko WARN notice, Astoria NY closure, 61 employees (Jun 2025)",
+    "url": "https://layoffalert.org/company/odeko-inc"
+   },
+   {
+    "label": "Revelio Labs: Odeko headcount 179, -5.7% YoY (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/odeko/employees"
+   },
+   {
+    "label": "Glassdoor: Odeko leadership reviews (Apr and Jul 2026 reviews on layoffs and exec departures)",
+    "url": "https://www.glassdoor.co.uk/Reviews/Odeko-leadership-Reviews-EI_IE2593410.0,5_KH6,16.htm"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "2.2",
+  "glassdoor_reviews": "67",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Odeko-Reviews-E2593410.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "A tech-flavored regional distributor rolling up local suppliers in 18 markets; it competes with Sysco, US Foods and local distributors on price, with thin software lock-in, shrinking headcount and acquisition-led growth.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Odeko acquires Catapult NW; 30,000+ customers, 18 warehouse markets (Aug 2026)",
+    "url": "https://www.prnewswire.com/news-releases/odeko-acquires-catapult-nw-enters-into-exclusive-partnership-with-artisan-premades-302853644.html"
+   },
+   {
+    "label": "Business Wire: Odeko raises $126M Series E ($96M equity led by B Capital) (Mar 2025)",
+    "url": "https://www.businesswire.com/news/home/20250304733369/en/Odeko-Raises-$126-Million-in-Series-E-Funding-to-Empower-Independent-Food-Businesses-and-Fuel-Their-Growth"
+   }
+  ],
+  "hiring_locations": [
+   "Field Sales",
+   "Boston",
+   "Seattle",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Plaid",
+  "slug": "plaid",
+  "site": "https://plaid.com",
+  "careers_url": "https://jobs.ashbyhq.com/plaid",
+  "what_they_do": "Bank-account connections plus fraud, credit-scoring and payments APIs for fintechs and lenders",
+  "problem": "Apps and lenders can't easily and safely link users' bank accounts or judge risk from real cash flow",
+  "industry": "Fintech infrastructure / open banking",
+  "stage": "Late-stage private (Series D)",
+  "last_round": "$425M Series D (later liquidity: $575M sale at $6.1B Apr 2025; tender at $8B Feb 2026)",
+  "last_round_date": "Apr 2021",
+  "lead_investors": "Altimeter (Series D); Franklin Templeton (Apr 2025, not primary)",
+  "total_open_roles": "122",
+  "ops_roles": "Business Operations; Strategic Initiatives; Product Operations Specialist; Integrations Operations Engineer",
+  "hiring_trend": "Headcount ~1,830, +4% YoY (Revelio, Mar 2026); active postings +75% in 2026; 122 open roles",
+  "headcount": "~1,300-1,830",
+  "latest_news": "Fall release: LendScore 2, Instant Link and AI fraud foundation model launched",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://plaid.com/blog/instant-link-next-generation-lendscore/",
+  "traction": "$546M ARR in 2025 (est.), +40% YoY; adjusted EBITDA profitable; ~8,000 customers",
+  "red_flags": "Down round: Apr 2025 $575M share sale reset valuation to $6.1B from the $13.4B 2021 peak (~55% down); the Feb 2026 tender at $8B is still ~40% below peak. Watch-out (not scored): Plaid now pays JPMorgan for data access (Sep 2025 deal) while the CFPB rewrites the open-banking 1033 rule.",
+  "red_flags_sources": [
+   {
+    "label": "CNBC: Plaid raises $575M at $6B, down from $13.4B in 2021 (Apr 2025)",
+    "url": "https://www.cnbc.com/2025/04/03/plaid-raises-575-million-funding-round-at-6-billion-valuation.html"
+   },
+   {
+    "label": "TechCrunch: Plaid valued at $8B in employee share sale, 40% below peak (Feb 2026)",
+    "url": "https://techcrunch.com/2026/02/26/plaid-valued-at-8b-in-employee-share-sale/"
+   },
+   {
+    "label": "Payments Dive: Plaid to pay for JPMorgan data (Sep 2025)",
+    "url": "https://www.paymentsdive.com/news/plaid-to-pay-for-jpmorgan-data-open-banking-fintechs/760192/"
+   }
+  ],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.3",
+  "glassdoor_reviews": "202",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Plaid-Reviews-E1156368.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "Marathon",
+  "distance_why": "The default bank-linking network in the US, with ~8,000 customers and growing fraud, credit and payments lines (~20% of ARR) that learn from network data; 40% growth at $546M ARR and profitable. Main exposure is banks charging for data access.",
+  "distance_sources": [
+   {
+    "label": "Sacra: Plaid at $546M ARR growing 40% YoY (2026)",
+    "url": "https://sacra.com/research/plaid-at-546m-arr-growing-40-yoy/"
+   },
+   {
+    "label": "Plaid: Instant Link and LendScore 2 (Oct 2026)",
+    "url": "https://plaid.com/blog/instant-link-next-generation-lendscore/"
+   },
+   {
+    "label": "JPMorganChase: renewed data access agreement with Plaid (Sep 2025)",
+    "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmc-plaid-renewed-data-access-agreement"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Seattle",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Stripe",
+  "slug": "stripe",
+  "site": "https://stripe.com",
+  "careers_url": "https://stripe.com/jobs/search",
+  "what_they_do": "Payments, billing and money-movement APIs for internet businesses of every size",
+  "problem": "Businesses need to accept payments, bill customers and move money globally without building payments and compliance themselves",
+  "industry": "Payments infrastructure",
+  "stage": "Late-stage private (Series I)",
+  "last_round": "$6.5B",
+  "last_round_date": "Mar 2023",
+  "lead_investors": "Thrive Capital, a16z, Founders Fund, General Catalyst (Series I); Feb 2026 $159B employee tender (secondary, no funding credit)",
+  "total_open_roles": "724",
+  "ops_roles": "GTM Strategy & Operations Analyst; Product Operations Manager; Credit Operations Manager; Strategic Business Performance, Central Strategy & Operations",
+  "hiring_trend": "Open roles 521 (Mar) → 612 (Sep) → 724 (Oct 2026); net hiring since the Jan 2025 cut",
+  "headcount": "~8,500–10,000 (est.)",
+  "latest_news": "Agreed to acquire Parafin, the embedded small-business lending platform behind DoorDash and Gusto",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://stripe.com/newsroom/news/stripe-agrees-to-acquire-parafin",
+  "traction": "$1.9T payment volume in 2025 (+34%); 5M+ businesses; profitable; Revenue suite near $1B run rate",
+  "red_flags": "Laid off ~300 (3.5%) in Jan 2025 while still net hiring; an Oct 2026 Glassdoor review alleges 'indirect layoffs happening right now'. Watch-outs, not scored: CTO left for Anthropic (Oct 2025) with no named successor; FTC 'debanking' warning letter (Mar 2026, one of four to payment firms); the $53B PayPal bid with Advent was dropped (Aug 2026).",
+  "red_flags_sources": [
+   {
+    "label": "Tech in Asia (via CNBC): Stripe cuts 300 jobs (Jan 2025)",
+    "url": "https://www.techinasia.com/news/stripe-cuts-300-jobs-product-engineering-operations"
+   },
+   {
+    "label": "Payments Dive: Stripe workforce cuts and additions (Jan 2025)",
+    "url": "https://www.paymentsdive.com/news/stripe-employees-workforce-cuts-additions/737935/"
+   },
+   {
+    "label": "Glassdoor: Stripe reviews (Oct 3, 2026 review cites indirect layoffs)",
+    "url": "https://www.glassdoor.com/Reviews/Stripe-Reviews-E671932.htm"
+   },
+   {
+    "label": "Telosi verified read: CTO exit, FTC letter, PayPal bid dropped (Sep 2026)",
+    "url": "https://telosi.io/vr/stripe"
+   }
+  ],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "1401",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Stripe-Reviews-E671932.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Scale",
+  "distance": "Marathon",
+  "distance_why": "Clear category leader: $1.9T volume, 5M+ businesses incl. 90% of the Dow, 18,000+ platforms on Connect; profitable, and scale and fraud data compound.",
+  "distance_sources": [
+   {
+    "label": "Stripe 2025 annual update: $1.9T volume, $159B tender (Feb 2026)",
+    "url": "https://stripe.com/newsroom/news/stripe-2025-update"
+   },
+   {
+    "label": "Stripe: agrees to acquire Parafin; 18,000+ platforms build on Stripe (Sep 2026)",
+    "url": "https://stripe.com/newsroom/news/stripe-agrees-to-acquire-parafin"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Mission Lane",
+  "slug": "mission-lane",
+  "site": "https://www.missionlane.com",
+  "careers_url": "https://job-boards.greenhouse.io/missionlane",
+  "what_they_do": "Credit cards for people with fair or limited credit, issued through partner banks",
+  "problem": "Tens of millions of Americans with thin or imperfect credit can't get fair, transparent credit cards from big banks",
+  "industry": "Consumer credit cards / fintech lending",
+  "stage": "Late-stage private (insider round)",
+  "last_round": "$25M",
+  "last_round_date": "Feb 2024",
+  "lead_investors": "QED Investors, Invus (insider round; ~$50M reported); last outside round $150M led by Oaktree (Oct 2021)",
+  "total_open_roles": "16",
+  "ops_roles": "Senior Manager, Operations Transformation; Senior Operations Lead, Fraud; Principal Delivery Manager, Portfolio; Business Manager, Credit Line Increase Program",
+  "hiring_trend": "Flat to slipping: ~496 staff, −2.7% YoY (Revelio, Mar 2026); active postings −65% vs 2025",
+  "headcount": "~450–500",
+  "latest_news": "OCC conditionally approved Mission Lane Bank, the first new credit card bank charter in 20+ years",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.bankingdive.com/news/mission-lane-gets-occ-conditional-approval-credit-card-bank-charter-ceba/831463/",
+  "traction": "~3M customers, 4M+ served since 2018; regular card ABS deals ($550M in Jul 2025)",
+  "red_flags": "Unannounced layoffs: a Jul 2026 Glassdoor review says staff were laid off two weeks after the CEO told an offsite none were coming; active job postings down ~65% vs 2025 and headcount slipping (−2.7% YoY). Context: last money was an insider round in Feb 2024 alongside a CEO change, with no outside round since 2021.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor review: 'Great Team, Blindside Layoffs' (Jul 2026)",
+    "url": "https://www.glassdoor.co.nz/Reviews/Employee-Review-Mission-Lane-E2576118-RVW104844662.htm"
+   },
+   {
+    "label": "Revelio Labs: Mission Lane headcount and job postings (Aug 2026)",
+    "url": "https://www.reveliolabs.com/companies/mission-lane/employees"
+   },
+   {
+    "label": "Fintech Business Weekly: CEO replaced, ~$50M insider round (Feb 2024)",
+    "url": "https://fintechbusinessweekly.substack.com/p/morgan-stanley-backed-tomocredit"
+   }
+  ],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "165",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Mission-Lane-Reviews-E2576118.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "A follower in subprime cards behind Capital One and Credit One; underwriting data and a new charter help, but credit-cycle and funding exposure are high.",
+  "distance_sources": [
+   {
+    "label": "Banking Dive: OCC conditional charter, ~3M customers (Sep 2026)",
+    "url": "https://www.bankingdive.com/news/mission-lane-gets-occ-conditional-approval-credit-card-bank-charter-ceba/831463/"
+   },
+   {
+    "label": "Asset Securitization Report: trust delinquencies elevated since 2022 (Mar 2025)",
+    "url": "http://asreport.americanbanker.com/news/mission-lane-raises-300-million-on-credit-card-revenues"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Knot",
+  "slug": "knot",
+  "site": "https://www.knotapi.com",
+  "careers_url": "https://jobs.ashbyhq.com/knot",
+  "what_they_do": "API that lets banks and fintechs update users' saved cards at online merchants",
+  "problem": "Card issuers lose spend when new cardholders must re-enter their card at Amazon, Netflix and every other merchant",
+  "industry": "Payments infrastructure / merchant connectivity",
+  "stage": "Series A",
+  "last_round": "$10M",
+  "last_round_date": "Aug 2023",
+  "lead_investors": "Nava Ventures (Amex Ventures, Plaid participated)",
+  "total_open_roles": "11",
+  "ops_roles": "Chief of Staff",
+  "hiring_trend": "Flat, ~55 staff (+2% YoY, Dealroom); 11 open roles, most posted Jan 2026",
+  "headcount": "~55",
+  "latest_news": "Venmo partnership lets users set Venmo as default payment at merchants via Knot",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://theindustryspread.com/venmo-default-payment-method-knot-partnership/",
+  "traction": "100M+ API calls/month (May 2026); live with Cash App, Venmo, RBC, Amex, PayPal; ~$23M revenue (Tracxn est.)",
+  "red_flags": "Minor, not scored: Knot sued rival Atomic for trade-secret theft (Mar 2026) and Atomic countersued on patents; the case is still pending. Funding is thin for its reach: no new round since the $10M Series A in Aug 2023.",
+  "red_flags_sources": [
+   {
+    "label": "Bloomberg Law: Knot says it caught Atomic 'red-handed' stealing code (Mar 2026)",
+    "url": "https://news.bloomberglaw.com/ip-law/fintech-knot-says-it-caught-atomic-red-handed-stealing-code"
+   },
+   {
+    "label": "Justia docket: MyCard (Knot) v. Atomic FI, D. Del. 1:26-cv-00290",
+    "url": "https://dockets.justia.com/docket/delaware/dedce/1%3A2026cv00290/92458"
+   }
+  ],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Go-to card-switching layer, live with Cash App, Venmo, RBC, Amex and PayPal at 100M+ API calls a month; small team, and card-network updaters and Atomic compete.",
+  "distance_sources": [
+   {
+    "label": "The Industry Spread: Venmo deal, 100M API calls/month (Aug 2026)",
+    "url": "https://theindustryspread.com/venmo-default-payment-method-knot-partnership/"
+   },
+   {
+    "label": "GlobeNewswire: Knot expands into Canada with RBC (Jul 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/07/23/3331839/0/en/Knot-Expands-into-Canada-Partnering-with-RBC-the-Country-s-Largest-Bank.html"
+   }
+  ],
+  "hiring_locations": [
+   "New York"
+  ]
+ },
+ {
+  "name": "Column",
+  "slug": "column",
+  "site": "https://column.com",
+  "careers_url": "https://jobs.ashbyhq.com/column",
+  "what_they_do": "Nationally chartered bank selling APIs for accounts, payments, cards and lending to fintechs",
+  "problem": "Fintechs depend on slow legacy sponsor banks and middleware to hold funds, move payments and issue cards",
+  "industry": "Banking infrastructure / BaaS",
+  "stage": "Bootstrapped (founder-owned bank)",
+  "last_round": "None (self-funded)",
+  "last_round_date": "",
+  "lead_investors": "None; founder- and employee-owned (William Hockey bought the bank with his own capital in 2021)",
+  "total_open_roles": "19",
+  "ops_roles": "Payment Operations (New Grad / Early Career); Legal Operations; Customer Risk Strategy",
+  "hiring_trend": "Headcount ~175, +30% YoY (LinkedIn); 170 FTE on the Jun 2026 call report",
+  "headcount": "~170",
+  "latest_news": "Named AppFolio's exclusive featured banking partner for property managers",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.appfolio.com/newsroom/appfolio-and-column-announce-strategic-partnership-to-transform-financial-operations-for-real-estate",
+  "traction": "~$153M revenue in 2025 vs $48M in 2024; assets +112% YoY to $1.77B; H1 2026 net income $54M",
+  "red_flags": "Minor, not scored: a consumer group asked the OCC to review Column's CRA record (Jun 2026); big customers are hedging (Mercury applied for its own charter; Brex is being bought by Capital One). No enforcement actions on record.",
+  "red_flags_sources": [
+   {
+    "label": "Inner City Press: Fair Finance Watch CRA comment on Column (Jun 2026)",
+    "url": "https://innercitypress.com/ffw2bcolumnbankmercuryicp062426.html"
+   },
+   {
+    "label": "Upstarts Media: Column profile, customer-concentration skeptics (Feb 2026)",
+    "url": "https://www.upstartsmedia.com/p/profile-column-william-hockey-fintech-china"
+   }
+  ],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "4",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Column-CA-Reviews-E7968376.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Leading developer bank under Mercury, Ramp, Brex and Bilt, with its own core and charter and a clean record; Lead Bank and Cross River compete and big clients hedge.",
+  "distance_sources": [
+   {
+    "label": "The Financial Current: Column FDIC financials, Jun 2026",
+    "url": "https://thefinancialcurrent.com/deep-dives/column-company-profile"
+   },
+   {
+    "label": "Upstarts Media: Column revenue doubled, ~$100M FCF (Feb 2026)",
+    "url": "https://www.upstartsmedia.com/p/profile-column-william-hockey-fintech-china"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Dubai",
+   "Tashkent",
+   "Remote (US)"
+  ]
  }
 ]
