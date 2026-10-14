@@ -26975,5 +26975,72 @@
    "Emeryville",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Conduit",
+  "slug": "conduit",
+  "site": "https://conduitpay.com",
+  "careers_url": "https://conduitfinancial.bamboohr.com/careers",
+  "what_they_do": "One API for cross-border payouts, pay-ins and USD accounts on stablecoin and fiat rails",
+  "problem": "Businesses moving money into Latin America, Africa and Asia face slow, costly, opaque wires and correspondent banks",
+  "industry": "Cross-border payments / stablecoin infrastructure",
+  "stage": "Series A",
+  "last_round": "$36M",
+  "last_round_date": "May 2025",
+  "lead_investors": "Dragonfly, Altos Ventures",
+  "total_open_roles": "1",
+  "ops_roles": "Customer Success Manager (LATAM)",
+  "hiring_trend": "Shrinking: layoffs and office closures after Sep 2025 Tether freeze; ~57-62 staff, flat to -25% YoY (est.); 1 open role",
+  "headcount": "~60",
+  "latest_news": "Sued Tether in SDNY over $2.76M frozen working capital that forced layoffs",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://unchainedcrypto.com/payments-firm-says-tether-froze-2-76-million-brazilian-police-didnt-flag-forcing-layoffs/",
+  "traction": "$10B+ annualized payment volume (16x in 2024); 5,000+ merchants, 100+ fintech platforms",
+  "red_flags": "Layoffs and office closures: Conduit's Oct 2026 lawsuit says Tether's Sep 2025 freeze of its $2.76M treasury wallet (its working capital) cut volume and forced layoffs; funds still frozen. Headcount flat to down since the Series A.",
+  "red_flags_sources": [
+   {
+    "label": "Unchained: Tether froze $2.76M, forcing Conduit layoffs (Oct 2026)",
+    "url": "https://unchainedcrypto.com/payments-firm-says-tether-froze-2-76-million-brazilian-police-didnt-flag-forcing-layoffs/"
+   },
+   {
+    "label": "CourtListener: Conduit Technology v. Tether complaint, SDNY (Oct 5, 2026)",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.674398/gov.uscourts.nysd.674398.1.0.pdf"
+   },
+   {
+    "label": "Dealroom: Conduit sues Tether; freeze forced layoffs and office closures",
+    "url": "https://app.dealroom.co/news/feed/conduit-sues-tether-over-2-76m-frozen-funds-linked-to-unrelated-brazil-probe"
+   },
+   {
+    "label": "LinkedIn company data: 57 employees, -25% YoY",
+    "url": "https://linkedin.com/company/conduit-financial"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real adoption ($10B+ volume, 100+ embedded platforms, ~30 bank partners) but a follower in a crowded race where Stripe (Bridge), Mastercard (BVNK) and Circle now sell the same orchestration; the Tether freeze showed heavy exposure to issuer platform risk.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Conduit $36M Series A, volume up 16x in 2024 (May 2025)",
+    "url": "https://www.businesswire.com/news/home/20250528156066/en/Conduit-Raises-%2436-Million-Series-A-to-Scale-Use-of-Stablecoins-for-Cross-Border-Payments"
+   },
+   {
+    "label": "bex.co: Stablecoin orchestration race, Conduit vs Circle, Stripe, Mastercard (Apr 2026)",
+    "url": "https://bex.co/blog/2026/04/29/conduit-stablecoin-orchestration-cross-chain-usdc-bridge"
+   },
+   {
+    "label": "Unchained: Tether freeze and layoffs (Oct 2026)",
+    "url": "https://unchainedcrypto.com/payments-firm-says-tether-froze-2-76-million-brazilian-police-didnt-flag-forcing-layoffs/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
