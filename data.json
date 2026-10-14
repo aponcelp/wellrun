@@ -26709,5 +26709,77 @@
   "hiring_locations": [
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Traba",
+  "slug": "traba",
+  "site": "https://traba.work",
+  "careers_url": "https://jobs.ashbyhq.com/traba",
+  "what_they_do": "On-demand warehouse and factory workers, plus Neo AI that runs back-office supply-chain workflows",
+  "problem": "Warehouses and plants can't reliably fill shifts through slow, paper-based temp agencies, and their ops data sits siloed",
+  "industry": "Light-industrial staffing marketplace / supply-chain AI",
+  "stage": "Series A-II (often listed as Series B)",
+  "last_round": "$22M",
+  "last_round_date": "Oct 2023",
+  "lead_investors": "Founders Fund (A-II), Khosla Ventures (A)",
+  "total_open_roles": "34",
+  "ops_roles": "Business Operations Specialist (Live Operations, Colombia/Philippines); Billing Operations Specialist (Colombia/Philippines); Customer Success Specialist (Colombia/Philippines); Field Operator (US sites)",
+  "hiring_trend": "Headcount ~137 → ~286 Q4 2023 to Q1 2026 (Revelio), but down from ~333 in Q4 2025; 2026 posting pace 104/mo vs 71/mo in 2025",
+  "headcount": "~290-380",
+  "latest_news": "Launched Neo, AI decision intelligence for 3PL and warehouse operators",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/traba-launches-neo--ai-that-decides-acts-and-runs-your-operation-with-you-302804816.html",
+  "traction": "~$43M ARR (est.); 1M shifts completed, second 500K in under a year",
+  "red_flags": "Early 2026: about 30 staff laid off in one day, per multiple Glassdoor reviews; Revelio headcount fell ~333 → ~286 from Q4 2025 to Q1 2026. Reviews also describe heavy turnover and near-total senior leadership churn. No new funding announced since Oct 2023.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor review: '30 people laid off on a random Tuesday this year' (Mar 2026)",
+    "url": "https://www.glassdoor.co.uk/Reviews/Employee-Review-Traba-E6662389-RVW103366101.htm"
+   },
+   {
+    "label": "Glassdoor review: turnover, senior leadership churn, all-hands after layoffs (Sep 2026)",
+    "url": "https://www.glassdoor.ie/Reviews/Employee-Review-Traba-E6662389-RVW105806194.htm"
+   },
+   {
+    "label": "Revelio Labs: Traba headcount by quarter (333 Q4 2025 → 286 Q1 2026)",
+    "url": "https://www.reveliolabs.com/companies/traba/employees"
+   },
+   {
+    "label": "Traba Glassdoor reviews (3.5, 139 reviews)",
+    "url": "https://www.glassdoor.com/Reviews/Traba-Reviews-E6662389.htm"
+   }
+  ],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.5",
+  "glassdoor_reviews": "139",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Traba-Reviews-E6662389.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Credible #2 in a crowded on-demand staffing field, but Instawork is roughly twice its size by revenue with a far larger worker network; heavy turnover and stale funding add exposure. Neo is a promising second line, but too new to count as proof.",
+  "distance_sources": [
+   {
+    "label": "GetLatka: Instawork vs Traba revenue and team size (est.)",
+    "url": "https://getlatka.com/companies/instawork/vs/traba.work"
+   },
+   {
+    "label": "Tracxn: Traba ranked 2nd of 263 active competitors",
+    "url": "https://tracxn.com/d/companies/traba/__VIFMN7ax_BYDHmOZaUlg__NluubQUtmOytqGIGYqmNo"
+   },
+   {
+    "label": "PR Newswire: Traba launches Neo (Jun 2026)",
+    "url": "https://www.prnewswire.com/news-releases/traba-launches-neo--ai-that-decides-acts-and-runs-your-operation-with-you-302804816.html"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Bogotá",
+   "Remote (Philippines)"
+  ]
  }
 ]
