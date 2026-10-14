@@ -20947,5 +20947,51 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Euno",
+  "slug": "euno",
+  "site": "https://euno.ai",
+  "careers_url": "https://euno.ai/career",
+  "what_they_do": "Context layer that tells enterprise AI agents what company data means and who may use it",
+  "problem": "AI agents misread enterprise data: no idea which numbers are trusted, who owns them, or what is allowed",
+  "industry": "Data governance / enterprise AI",
+  "stage": "Series A",
+  "last_round": "$23M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "N47",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "Headcount +55% YoY (~34, LinkedIn); plans to double by end of 2026",
+  "headcount": "~30-34",
+  "latest_news": "Raised $23M Series A led by N47, backed by Wiz, Cyera and Tableau founders",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.reworked.co/knowledge-findability/euno-lands-23m-series-a-for-ai-context-platform/",
+  "traction": "Fortune 500 customers incl. AlphaSense and Zayo; Gartner Cool Vendor 2026; revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Context graph compounds per customer, but only a handful of named accounts against Atlan, Collibra and Alation.",
+  "distance_sources": [
+   {
+    "label": "SiliconANGLE: Euno $23M Series A (Sep 2026)",
+    "url": "https://siliconangle.com/2026/09/09/euno-raises-23m-to-build-the-ai-native-context-brain-for-autonomous-agents/"
+   },
+   {
+    "label": "N47: Why we invested in Euno",
+    "url": "https://www.n47.com/insights/why-we-invested-in-euno-the-missing-context-for-enterprise-ai"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
