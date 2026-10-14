@@ -1351,11 +1351,31 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
         const DISTS = ["Marathon", "Half", "10K", "Unproven"];
         const open = new Set();
         const byName = (a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" });
+        // Revenue tie-break: biggest $ figure tied to ARR/revenue/run-rate in the traction line (0 if none).
+        function revOf(t) {
+          let best = 0;
+          String(t || "").split(/[;|]/).forEach((seg) => {
+            if (!/(ARR|revenue|run[- ]?rate|bookings)/i.test(seg) || /valuation|valued|raised|funding|GMV|for customers|generated|volume/i.test(seg)) return;
+            const monthly = /monthly|MRR|\/mo\b/i.test(seg) && !/ARR|annual/i.test(seg);
+            const re = /\$\s?([\d.,]+)\s*(billion|bn|B|million|mm|M|K|k)?/g;
+            let m;
+            while ((m = re.exec(seg))) {
+              let v = parseFloat(m[1].replace(/,/g, "")) || 0;
+              const u = (m[2] || "").toLowerCase();
+              v *= u.startsWith("b") ? 1e9 : u.startsWith("m") ? 1e6 : u === "k" ? 1e3 : 1;
+              if (monthly) v *= 12;
+              if (v > best) best = v;
+            }
+          });
+          return best;
+        }
+        const tie = (a, b) => (b.scoreN - a.scoreN) || (a.distI - b.distI) || (b.revN - a.revN) || byName(a, b);
         COMPANIES.forEach((c) => {
           c.z = zoneOf(c);
           c.id = "p-" + (c.slug || slug(c.name));
           c.scoreN = Number(c.score) || 0;
           c.distI = DISTS.indexOf(String(c.distance || "").trim()); if (c.distI < 0) c.distI = 9;
+          c.revN = revOf(c.traction);
           c.bucket = bucketOf(c);
           c.stageK = stageKey(c);
           c.ops = String(c.ops_roles || "").split(";").map((t) => t.trim()).filter(Boolean);
@@ -1364,8 +1384,8 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
         });
         const INDUSTRIES = ["All"].concat(BUCKET_ORDER.filter((b) => COMPANIES.some((c) => c.bucket === b)));
         const SORTS = {
-          fastest: (a, b) => (ZONES.indexOf(a.z) - ZONES.indexOf(b.z)) || (b.scoreN - a.scoreN) || byName(a, b),
-          distance: (a, b) => (a.distI - b.distI) || (ZONES.indexOf(a.z) - ZONES.indexOf(b.z)) || (b.scoreN - a.scoreN) || byName(a, b),
+          fastest: (a, b) => (ZONES.indexOf(a.z) - ZONES.indexOf(b.z)) || tie(a, b),
+          distance: (a, b) => (a.distI - b.distI) || (ZONES.indexOf(a.z) - ZONES.indexOf(b.z)) || (b.scoreN - a.scoreN) || (b.revN - a.revN) || byName(a, b),
           hiring: (a, b) => ((b.ops.length > 0) - (a.ops.length > 0)) || (ZONES.indexOf(a.z) - ZONES.indexOf(b.z)) || byName(a, b)
         };
         let sorted = [];
