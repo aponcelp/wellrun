@@ -21514,5 +21514,51 @@
    "Tel Aviv",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Fragment",
+  "slug": "fragment",
+  "site": "https://fragment.dev",
+  "careers_url": "https://fragment.dev/careers",
+  "what_they_do": "Ledger API that lets engineers and AI agents track, bill and reconcile money flows",
+  "problem": "Homegrown databases get balances wrong; teams waste hours reconciling billing, bank and accounting systems by hand",
+  "industry": "Fintech infrastructure / ledger API",
+  "stage": "Series A",
+  "last_round": "$12M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "FirstMark, BoxGroup",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "Headcount +29% YoY (~22, LinkedIn est.); 2 roles open",
+  "headcount": "~22",
+  "latest_news": "Announced $12M Series A co-led by FirstMark and BoxGroup (closed mid-2025), pivoting to AI-agent finance",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://fortune.com/2026/10/14/fragment-raises-12-million-to-help-keep-ai-agents-from-going-rogue-with-company-money/",
+  "traction": "50-60 paying customers incl. Ramp, BILL, Whop and AtoB; revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Ledger is a hard-to-replace system of record at Ramp and BILL, but only ~50-60 customers on a small A against Modern Treasury.",
+  "distance_sources": [
+   {
+    "label": "Fortune: Fragment raises $12M Series A (Oct 2026)",
+    "url": "https://fortune.com/2026/10/14/fragment-raises-12-million-to-help-keep-ai-agents-from-going-rogue-with-company-money/"
+   },
+   {
+    "label": "FirstMark: Finance for Agents, our investment in Fragment",
+    "url": "https://firstmark.com/story/finance-for-agents-our-investment-in-fragment/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
