@@ -24824,5 +24824,77 @@
    "Brazil",
    "Remote"
   ]
+ },
+ {
+  "name": "Stepful",
+  "slug": "stepful",
+  "site": "https://www.stepful.com",
+  "careers_url": "https://jobs.ashbyhq.com/stepful",
+  "what_they_do": "Online training that turns entry-level workers into certified medical assistants, pharmacy and surgical techs",
+  "problem": "Health systems can't fill clinical support roles and overpay staffing agencies; trade schools can't scale the pipeline",
+  "industry": "Healthcare workforce training / edtech",
+  "stage": "Series C",
+  "last_round": "$55M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Oak HC/FT",
+  "total_open_roles": "36",
+  "ops_roles": "Director, Strategy & Operations; Director, B2B Operations Enablement; Senior Engagement Manager, Client Success; Senior Learning Program Manager",
+  "hiring_trend": "Headcount ~63 (2023) → ~385 (Q4 2025, Revelio), ~430 on LinkedIn; postings +61% in 2026",
+  "headcount": "~375-430",
+  "latest_news": "Announced acquisition of St. Louis College of Health Careers, now Stepful College (degree programs)",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.einpresswire.com/article/942265986/stepful-acquires-45-year-old-nursing-school-to-scale-healthcare-talent-development-through-accredited-degrees-programs",
+  "traction": "40,000+ graduates; grads 3x last year, enterprise bookings 4x YoY; 200%+ NDR; 35+ health systems",
+  "red_flags": "Watch (not scored): a May 2026 Glassdoor review cites rising turnover 'from layoffs and voluntary departures' (no press report or count; headcount still up), and Glassdoor sits at 3.0 with 2026 reviews on burnout and leadership; BBB rates the consumer school F over 4 unanswered refund complaints.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor: Stepful reviews mentioning layoff (May 2026)",
+    "url": "https://www.glassdoor.com/Reviews/Stepful-layoff-Reviews-EI_IE8742225.0,7_KH8,14.htm"
+   },
+   {
+    "label": "Glassdoor: Stepful reviews (3.0, 47 reviews)",
+    "url": "https://www.glassdoor.com/Reviews/Stepful-Reviews-E8742225.htm"
+   },
+   {
+    "label": "Revelio Labs: Stepful headcount (still growing YoY)",
+    "url": "https://www.reveliolabs.com/companies/stepful/employees"
+   },
+   {
+    "label": "Onlinecourseing review citing BBB F rating (Aug 2026)",
+    "url": "https://onlinecourseing.com/stepful-review/"
+   }
+  ],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "3.0",
+  "glassdoor_reviews": "47",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Stepful-Reviews-E8742225.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A leader in employer-run allied-health training with real proof (40k+ grads, 200%+ NDR, 35+ health systems) and a new accredited degree arm; still shares a crowded market with MedCerts, Penn Foster and legacy trade schools, and its main school lacks institutional accreditation.",
+  "distance_sources": [
+   {
+    "label": "AlleyWatch: Stepful $55M Series C, CEO on NDR and growth (Jul 2026)",
+    "url": "https://www.alleywatch.com/2026/07/stepful-healthcare-workforce-training-school-as-a-service-carl-madi/"
+   },
+   {
+    "label": "Fierce Healthcare: Stepful banks $55M (Jun 2026)",
+    "url": "https://www.fiercehealthcare.com/health-tech/stepful-banks-55m-scale-ai-powered-infrastructure-tackles-healthcare-staffing-shortage"
+   },
+   {
+    "label": "Stepful: regulatory information (not institutionally accredited)",
+    "url": "https://www.stepful.com/regulatory-information"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Ohio",
+   "Texas",
+   "Remote (US)"
+  ]
  }
 ]
