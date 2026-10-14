@@ -25002,5 +25002,62 @@
   "hiring_locations": [
    "San Francisco"
   ]
+ },
+ {
+  "name": "Chariot",
+  "slug": "chariot",
+  "site": "https://www.givechariot.com",
+  "careers_url": "https://jobs.ashbyhq.com/chariot",
+  "what_they_do": "DAF payment button (DAFpay) and gift-processing accounts for nonprofits and grantmakers",
+  "problem": "Donors can't give from their donor-advised funds on donation forms, and nonprofits drown reconciling DAF checks and portals",
+  "industry": "Nonprofit fintech / charitable payments",
+  "stage": "Series A",
+  "last_round": "$11M",
+  "last_round_date": "Aug 2024",
+  "lead_investors": "Maveron",
+  "total_open_roles": "18",
+  "ops_roles": "Operations (BizOps); Head of Risk",
+  "hiring_trend": "Headcount +38% YoY (~47, LinkedIn); 18 open roles, up from ~16 (Alion)",
+  "headcount": "~47",
+  "latest_news": "Launched AI gift-processing platform with Chariot Deposit Accounts for nonprofits and grantmakers",
+  "latest_news_date": "Jan 2026",
+  "latest_news_url": "https://www.givechariot.com/resources/insights/chariot-launches-first-gift-processing-platform-for-nonprofits",
+  "traction": "DAFpay on 100,000+ nonprofit forms; hundreds of millions of dollars moved; 70+ platform integrations",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Created the category: DAFpay is the DAF rail inside GoFundMe, Givebutter, FreeWill and Every.org and connects thousands of DAF providers to 100,000+ nonprofits, now adding gift processing as a second line; still a small Series A team, and free DAF Direct-style widgets are a cheap substitute.",
+  "distance_sources": [
+   {
+    "label": "Y Combinator: Chariot company profile (100,000+ nonprofits, TIME Best Invention 2025)",
+    "url": "https://www.ycombinator.com/companies/chariot-2"
+   },
+   {
+    "label": "FreeWill: DAF software powered by Chariot's DAFpay",
+    "url": "https://www.nonprofits.freewill.com/products/donor-advised-fund-software"
+   },
+   {
+    "label": "Chariot: DAFpay integrations (70+ platforms, 2.9% fee)",
+    "url": "https://www.givechariot.com/fundraising-platform-all-integrations"
+   },
+   {
+    "label": "Chariot: gift processing platform launch (Jan 2026)",
+    "url": "https://www.givechariot.com/resources/insights/chariot-launches-first-gift-processing-platform-for-nonprofits"
+   }
+  ],
+  "hiring_locations": [
+   "Chariot",
+   "New York"
+  ]
  }
 ]
