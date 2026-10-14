@@ -25216,5 +25216,57 @@
   "hiring_locations": [
    "New York"
   ]
+ },
+ {
+  "name": "PointOne",
+  "slug": "pointone",
+  "site": "https://pointone.com",
+  "careers_url": "https://jobs.ashbyhq.com/pointone",
+  "what_they_do": "AI that records lawyers' work and writes their billable time entries, plus pre-bill review",
+  "problem": "Lawyers lose billable hours and days of admin rebuilding timesheets by hand from memory",
+  "industry": "Legal tech / AI timekeeping & billing",
+  "stage": "Series A",
+  "last_round": "$16M",
+  "last_round_date": "Mar 2026",
+  "lead_investors": "8VC",
+  "total_open_roles": "16",
+  "ops_roles": "Strategy & Operations; Customer Success Lead; Customer Success Manager; Forward Deployed Engineer",
+  "hiring_trend": "Headcount ~4 → ~20 in the year to Mar 2026, ~35–41 now (YC, LinkedIn); 16 open roles, all on-site NYC",
+  "headcount": "~35-41",
+  "latest_news": "Partnered with ProfitSolv to bring AI time capture to TimeSolv, Tabs3, CosmoLex and more",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://pointone.com/news/profitsolv-partnership",
+  "traction": "Revenue up 10x in 6 months to Mar 2026; 250+ law firms incl. Minnesota AG's 300+ timekeepers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast adoption (250+ firms, firmwide rollouts, SurePoint and ProfitSolv integrations embed it in billing stacks), but it trails Laurel, the category leader with $150M+ raised, and billing incumbents could ship the same feature.",
+  "distance_sources": [
+   {
+    "label": "Business Insider: PointOne $16M Series A; Laurel is its biggest rival (Mar 2026)",
+    "url": "https://www.businessinsider.com/pointone-series-a-funding-lawyers-billable-hour-timekeeping-ai-2026-3"
+   },
+   {
+    "label": "Non-Billable: PointOne raises $16M as Laurel raised $100M (Mar 2026)",
+    "url": "https://www.nonbillable.co.uk/news/pointone-series-a-fundraise"
+   },
+   {
+    "label": "PointOne: ProfitSolv partnership (Oct 2026)",
+    "url": "https://pointone.com/news/profitsolv-partnership"
+   }
+  ],
+  "hiring_locations": [
+   "New York"
+  ]
  }
 ]
