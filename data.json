@@ -24896,5 +24896,59 @@
    "Texas",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Forage",
+  "slug": "forage",
+  "site": "https://www.joinforage.com",
+  "careers_url": "https://jobs.gem.com/-joinforage",
+  "what_they_do": "Payments API that lets grocers and delivery apps accept SNAP EBT online and in-store",
+  "problem": "Retailers can't easily get USDA approval or the tech to take food-stamp payments, so low-income shoppers get shut out",
+  "industry": "Payments / government benefits (SNAP EBT)",
+  "stage": "Series B",
+  "last_round": "$40M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Mouro Capital",
+  "total_open_roles": "9",
+  "ops_roles": "General Manager, In-Store",
+  "hiring_trend": "Headcount ~70 (Aug 2026, LeadIQ) vs 17 at 2022 Series A; ~+30% YoY (est.); 5 of 9 open roles posted in the last 10 days",
+  "headcount": "~55-70",
+  "latest_news": "Launched SNAP EBT payments with Ahold Delhaize USA grocers on Uber Eats",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.joinforage.com/newsroom/forage-and-ahold-delhaize-usa-launch-snap-ebt-payments-on-uber-eats",
+  "traction": "Payments volume up 13x in a year; used at 100,000+ stores in all 50 states",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.6",
+  "glassdoor_reviews": "17",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Forage-Reviews-E4634394.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "One of only three USDA-approved online SNAP processors (with Fiserv and Worldpay) and the modern one, live on Uber Eats, DoorDash, Dollar General, Instacart and Adyen; that approval plus deep integrations is hard to copy. Still small next to the incumbents, and online SNAP depends on federal policy as enrollment declines.",
+  "distance_sources": [
+   {
+    "label": "Forage: $40M Series B, payments volume 13x, 100,000+ stores (Jun 2026)",
+    "url": "https://www.joinforage.com/newsroom/forage-series-b-40m-funding"
+   },
+   {
+    "label": "WSJ Pro: Forage $40M Series B at $225M valuation despite declining SNAP enrollment (Jun 2026)",
+    "url": "https://www.wsj.com/pro/venture-capital/snap-payments-are-complicated-for-grocers-and-consumers-a-startup-wants-to-help-38d80bc9"
+   },
+   {
+    "label": "Forage and Adyen partner on SNAP EBT (Jan 2026)",
+    "url": "https://www.joinforage.com/newsroom/forage-and-adyen-partner-to-enable-snap-ebt-for-adyen-retailers"
+   },
+   {
+    "label": "Forage: 6 reasons Congress should make online SNAP permanent (Aug 2026)",
+    "url": "https://www.joinforage.com/newsroom/6-reasons-congress-should-make-online-snap-permanent"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
