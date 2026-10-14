@@ -25114,5 +25114,55 @@
    "Bengaluru",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Paces",
+  "slug": "paces",
+  "site": "https://www.paces.com",
+  "careers_url": "https://jobs.gem.com/paces",
+  "what_they_do": "AI agent, siting software and diligence services for power and data center developers",
+  "problem": "Most energy projects die late in development after months spent on bad sites, grid limits and permitting surprises",
+  "industry": "Climate / energy infrastructure software",
+  "stage": "Series A",
+  "last_round": "$11M",
+  "last_round_date": "Jul 2024",
+  "lead_investors": "Navitas Capital",
+  "total_open_roles": "14",
+  "ops_roles": "",
+  "hiring_trend": "Team 11 → 30 in 2024, ~69-74 now (LinkedIn/Tracxn); 14 open roles, few new postings since summer",
+  "headcount": "~70",
+  "latest_news": "Picked by White House CEQ to demo at the Permitting Innovators Expo",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.paces.com/news/paces-to-showcase-at-permitting-innovators-expo---white-house-ceq-announces-technology-solutions",
+  "traction": "~100 customers (2024) incl. EDF Renewables, AES; agent deployed on 3.2 GW pipeline",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "5",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Paces-AI-Reviews-E7006934.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Real adoption with named developers and a proprietary parcel, grid and permitting dataset, but a small Series A player in a crowded siting market behind Enverus and LandGate (now owned by Wood Mackenzie), alongside Transect and Pivvot.",
+  "distance_sources": [
+   {
+    "label": "Latitude Media: Paces $11M Series A, ~100 customers (Sep 2024)",
+    "url": "https://www.latitudemedia.com/news/can-ai-fueled-data-research-save-clean-energy-developers-precious-time/"
+   },
+   {
+    "label": "GlobeNewswire: Wood Mackenzie acquires LandGate (Jun 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/06/24/3316698/0/en/wood-mackenzie-acquires-landgate-to-deliver-connected-intelligence-for-the-new-era-of-us-power-markets.html"
+   },
+   {
+    "label": "DCD: Paces Agent launch (May 2026)",
+    "url": "https://www.datacenterdynamics.com/en/product-news/paces-agent-is-here-an-ai-teammate-for-power-development/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
