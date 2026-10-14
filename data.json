@@ -13760,22 +13760,22 @@
   "latest_news_date": "Sep 2026",
   "latest_news_url": "https://www.reuters.com/legal/transactional/openai-targets-30-billion-funding-14-trillion-valuation-bloomberg-news-reports-2026-09-29/",
   "traction": "~$50B annualized revenue run-rate (end Sep 2026)",
-  "red_flags": "Reported run-rate ~$20B below figures that circulated (Oct 2026); ongoing copyright litigation",
+  "red_flags": "Ongoing copyright litigation (industry-wide); revenue run-rate below some circulated figures",
   "red_flags_sources": [
    {
     "label": "Investor's Business Daily, Oct 2026",
     "url": "https://www.investors.com/news/technology/openai-ipo-revenue-ai-stocks-oracle-broadcom/"
    }
   ],
-  "score": "4.0",
-  "zone": "Tempo",
+  "score": "5.0",
+  "zone": "Sprint",
   "status": "new",
   "glassdoor_rating": "",
   "glassdoor_reviews": "",
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026",
+  "last_checked": "Oct 14, 2026",
   "engine": "Scale",
   "distance": "Marathon",
   "distance_why": "Top-two AI lab with ChatGPT's huge user base and ~$50B run-rate; very heavy planned spending.",
