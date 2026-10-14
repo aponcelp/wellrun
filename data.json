@@ -20993,5 +20993,147 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Sphere",
+  "slug": "sphere",
+  "site": "https://www.getsphere.com",
+  "careers_url": "https://jobs.ashbyhq.com/sphere",
+  "what_they_do": "AI-native sales tax, VAT and GST compliance: registration, calculation, filing and remittance worldwide",
+  "problem": "Companies selling globally face tax registrations and filings in every country without an in-house tax team",
+  "industry": "Tax compliance / fintech",
+  "stage": "Series A",
+  "last_round": "$21M",
+  "last_round_date": "Nov 2025",
+  "lead_investors": "Andreessen Horowitz",
+  "total_open_roles": "16",
+  "ops_roles": "Tax Support Specialist; Forward Deployed Engineer",
+  "hiring_trend": "Headcount +140% YoY (~48, LinkedIn est.); 16 open roles, mostly on-site SF",
+  "headcount": "~48-50",
+  "latest_news": "Launched native tax integration with billing platform Nue; e-invoicing product slated for 2026",
+  "latest_news_date": "Feb 2026",
+  "latest_news_url": "https://www.nue.io/resources/articles/sphere-integration/",
+  "traction": "Revenue growing 34%+ month over month; customers include Replit, ElevenLabs, Lovable, Deel",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast-growing with AI-native customers and direct rails into 100+ tax authorities, but a follower to Avalara and Anrok, with Stripe Tax in the same buyer's stack.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: a16z leads $21M Series A into Sphere (Nov 2025)",
+    "url": "https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/"
+   },
+   {
+    "label": "a16z: Investing in Sphere",
+    "url": "https://a16z.com/announcement/investing-in-sphere/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "London",
+   "Remote (US)",
+   "Remote (Europe)"
+  ]
+ },
+ {
+  "name": "Tools for Humanity",
+  "slug": "tools-for-humanity",
+  "site": "https://www.toolsforhumanity.com",
+  "careers_url": "https://jobs.ashbyhq.com/Tools%20for%20Humanity",
+  "what_they_do": "Builds World ID, the iris-scanning Orb and World App to prove users are human",
+  "problem": "Apps and platforms can't tell real people from bots, AI agents and deepfakes online",
+  "industry": "Digital identity / proof of personhood",
+  "stage": "Series C",
+  "last_round": "$52.5M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Pantera Capital (WLD token sale to World Foundation, not TFH equity; $135M a16z/Bain token sale May 2025)",
+  "total_open_roles": "14",
+  "ops_roles": "",
+  "hiring_trend": "Shrinking: layoffs Jun 2026; staff 500+ (Jun) to 400+ (Oct job posts); 14 open roles",
+  "headcount": "~400+",
+  "latest_news": "World ID added to Okta, Vercel, Exa and Browserbase to verify humans behind AI agents",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.tokenpost.com/news/technology/26539",
+  "traction": "39M+ World network users, 18M+ Orb-verified (up from 12.5M in May 2025); revenue thin",
+  "red_flags": "Layoffs Jun 2026 amid revenue struggles; C-suite exodus (chief architect, chief legal officer) Feb 2026; regulatory bans and orders: Colombia permanent shutdown (final Jun 2026), Philippines cease-and-desist (Oct 2025), Thailand suspension (Nov 2025), Indonesia suspension (May 2025), Brazil ban (Jan 2025), Kenya court-ordered data deletion (May 2025), Spain GDPR warning (Feb 2026); law-firm probes into Thailand bribery risk and WLD fund misuse (reported Jun 2026)",
+  "red_flags_sources": [
+   {
+    "label": "Business Insider: TFH laying off employees (Jun 2026)",
+    "url": "https://www.businessinsider.com/sam-altman-orb-worldcoin-tools-for-humanity-layoffs-2026-6"
+   },
+   {
+    "label": "Business Insider Africa: TFH bleeding high-level employees (Feb 2026)",
+    "url": "https://africa.businessinsider.com/news/sam-altmans-eye-scanning-startup-is-bleeding-high-level-employees/zsyetd2"
+   },
+   {
+    "label": "Colombia SIC: permanent shutdown upheld (Jul 2026)",
+    "url": "https://sedeelectronica.sic.gov.co/international-relations/sic-confirms-immediate-and-permanent-shutdown-sensitive-data-processing-operation-carried-out-world-foundation-and-tools"
+   },
+   {
+    "label": "Rappler: Philippines NPC cease-and-desist (Oct 2025)",
+    "url": "https://www.rappler.com/technology/npc-stops-tools-humanity-world-dict-bank-use/"
+   },
+   {
+    "label": "ForkLog: Thailand PDPC orders World to stop iris scans (Nov 2025)",
+    "url": "https://forklog.com/en/thai-data-regulator-orders-world-to-stop-iris-scanning-service/"
+   },
+   {
+    "label": "Straits Times: Indonesia suspends Worldcoin (May 2025)",
+    "url": "https://www.straitstimes.com/asia/se-asia/indonesia-suspends-eye-scanning-worldcoin-crypto-project"
+   },
+   {
+    "label": "Cointelegraph: Brazil ANPD ban (Jan 2025)",
+    "url": "https://cointelegraph.com/news/brazil-bans-worldcoin-giving-crypto-eye-scans"
+   },
+   {
+    "label": "Eastleigh Voice: Kenya data erased after court order (Jan 2026)",
+    "url": "https://eastleighvoice.co.ke/national/276783/worldcoin-erases-all-kenyan-biometric-data-following-court-order"
+   },
+   {
+    "label": "PPC Land: Spain AEPD warning (Feb 2026)",
+    "url": "https://ppc.land/spains-data-regulator-warns-worlds-iris-scan-operator-over-gdpr-risks/"
+   },
+   {
+    "label": "Biometric Update: TFH hired law firms to probe bribery, financial misconduct (Jun 2026)",
+    "url": "https://www.biometricupdate.com/202606/tools-for-humanity-hired-two-law-firms-to-probe-bribery-and-financial-misconduct"
+   }
+  ],
+  "score": "0.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "25",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Tools-for-Humanity-Reviews-E9838178.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Largest proof-of-personhood network (18M Orb-verified) ahead of Humanity Protocol and ID-verification incumbents, but heavy exposure from bans in multiple countries, layoffs and thin revenue.",
+  "distance_sources": [
+   {
+    "label": "The Block: World Foundation $52.5M token sale, 39M users, 18M verified (Jul 2026)",
+    "url": "https://www.theblock.co/news/deals/2026-07-24-world-foundation-wld-token-sale-funding-409610"
+   },
+   {
+    "label": "Biometric Update: World shifts to enterprise proof-of-humanity (Jun 2026)",
+    "url": "https://www.biometricupdate.com/202606/world-shifts-from-crypto-identity-experiment-to-enterprise-proof-of-humanity"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Munich"
+  ]
  }
 ]
