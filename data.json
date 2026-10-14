@@ -24208,5 +24208,60 @@
   "hiring_locations": [
    "Remote (Ukraine)"
   ]
+ },
+ {
+  "name": "Character.AI",
+  "slug": "character-ai",
+  "site": "https://character.ai",
+  "careers_url": "https://character.ai/careers",
+  "what_they_do": "AI companion app where users chat and roleplay with user-made AI characters",
+  "problem": "People want interactive, personalized AI entertainment and companionship",
+  "industry": "Consumer AI / Entertainment",
+  "stage": "Series A",
+  "last_round": "$150M",
+  "last_round_date": "Mar 2023",
+  "lead_investors": "Andreessen Horowitz",
+  "total_open_roles": "0",
+  "ops_roles": "",
+  "hiring_trend": "Former CEO and staff moved to Disney; company in court-supervised sale",
+  "headcount": "",
+  "latest_news": "Filed Chapter 11 Oct 12; Disney $20M stalking-horse bid for IP license",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
+  "traction": "One of the largest AI companion apps, but cited costs and litigation in bankruptcy",
+  "red_flags": "Chapter 11 bankruptcy (Oct 2026), assets sold by auction, platform winds down if no buyer; teen-safety lawsuits",
+  "red_flags_sources": [
+   {
+    "label": "Character.ai blog, Oct 2026",
+    "url": "https://blog.character.ai/an-update-on-character-ai/"
+   },
+   {
+    "label": "CNBC, Oct 2026",
+    "url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html"
+   },
+   {
+    "label": "TechCrunch, Oct 2026",
+    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
+   }
+  ],
+  "score": "0",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "",
+  "distance": "Unproven",
+  "distance_why": "In Chapter 11 with its assets up for auction; no durable position left",
+  "distance_sources": [
+   {
+    "label": "Variety, Oct 2026",
+    "url": "https://variety.com/2026/biz/news/disney-bids-on-character-ai-assets-chapter-11-bankruptcy-1236909984/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
