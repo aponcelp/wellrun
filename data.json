@@ -27977,5 +27977,145 @@
   "hiring_locations": [
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Flock Safety",
+  "slug": "flock-safety",
+  "site": "https://www.flocksafety.com",
+  "careers_url": "https://jobs.ashbyhq.com/Flock%20Safety",
+  "what_they_do": "License plate reader cameras, video, gunshot detection, drones and search software for police and communities",
+  "problem": "Police, cities and HOAs lack evidence and leads to solve car-linked crimes quickly with small teams",
+  "industry": "Public safety tech / GovTech",
+  "stage": "Series H",
+  "last_round": "$500M",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "Andreessen Horowitz, Tiger Global",
+  "total_open_roles": "25",
+  "ops_roles": "CX AI Conversational Designer (support ops, remote US); Field Technician – hardware deployment & maintenance (16 US metros, mostly field-based/remote)",
+  "hiring_trend": "Shrinking: ~18% (~270) cut via buyouts Oct 2026 after headcount grew ~1,255 → ~1,543 (Q1 2025 → Q1 2026, Revelio); postings ~270 early 2026 → 25 now, mostly field techs",
+  "headcount": "~1,500 before cuts; ~1,230 after Oct 2026 (est.)",
+  "latest_news": "Cutting ~18% of staff (~270) after a voluntary buyout program amid privacy backlash",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
+  "traction": "$500M+ ARR in H1 2026, up from $300M in early 2025 (+70% YoY then); 5,000+ communities, ~120K cameras",
+  "red_flags": "1) Workforce cut of ~18% (~270 people) via a voluntary separation program, departures end of Oct 2026; Wired reported layoffs were otherwise likely. 2) Accelerating customer loss and government bans: 214 localities dropped Flock since 2021, 93 in Aug 2026 alone (Secure Justice); Florida DOT ordered LPRs off state highways (Aug 2026); Denver, LAPD, Boston and others ended or lapsed contracts; Senate (Hawley) investigation. Driven by reports that local police ran Flock searches for ICE/CBP and by officer misuse. 3) Litigation wave: sued 23 times in federal court (most in 2026), consolidated California ALPR data-sharing class action (N.D. Cal.), nationwide Schulte privacy class action (N.D. Ga., Aug 2026). Watch (not scored separately): ACLU and civil-liberties criticism, folded into flags 2 and 3.",
+  "red_flags_sources": [
+   {
+    "label": "TechCrunch: Flock cuts staff ~18% (~270) as privacy backlash grows (Oct 2026)",
+    "url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/"
+   },
+   {
+    "label": "Reuters via Investing.com: Flock to cut several hundred jobs amid backlash (Oct 2026)",
+    "url": "https://www.investing.com/news/economy-news/exclusiveai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say-4940031"
+   },
+   {
+    "label": "Ars Technica: Cities terminate Flock contracts at record pace in August (Aug 2026)",
+    "url": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/"
+   },
+   {
+    "label": "NBC News: Florida bans Flock and other LPRs from state highways (Aug 2026)",
+    "url": "https://www.nbcnews.com/tech/tech-news/florida-bans-flock-license-plate-readers-state-highways-rcna595420"
+   },
+   {
+    "label": "NPR: Why some cities are ditching Flock (ICE search reports) (Feb 2026)",
+    "url": "https://www.npr.org/2026/02/17/nx-s1-5612825/flock-contracts-canceled-immigration-survillance-concerns"
+   },
+   {
+    "label": "404 Media: ICE taps into Flock camera network via local police (May 2025)",
+    "url": "https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows"
+   },
+   {
+    "label": "Law Street Media: Flock sued 23 times in federal court; consolidated CA class action (Aug 2026)",
+    "url": "https://lawstreetmedia.com/insights/federal-courts-emerge-as-new-battleground-over-flock-safetys-license-plate-camera-network/"
+   },
+   {
+    "label": "Atlanta News First: Schulte v. Flock nationwide privacy class action (Sep 2026)",
+    "url": "https://www.atlantanewsfirst.com/2026/09/04/georgia-woman-sues-flock-safety-claims-aggressive-license-plate-tracking/"
+   }
+  ],
+  "score": "2.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "230",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Flock-Reviews-E2121535.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Dominant US license-plate-reader platform ($500M+ ARR, 5,000+ communities) whose shared national search network grows more useful with every camera; but bans, 200+ cancellations, lawsuits and a staff cut are now running that network effect in reverse, and Axon and Motorola are winning some switchers (Denver).",
+  "distance_sources": [
+   {
+    "label": "Fortune: Flock $500M at $8.3B, crossed $500M ARR in H1 2026 (Aug 2026)",
+    "url": "https://fortune.com/2026/08/24/flock-safety-has-been-a-venture-darling-will-data-privacy-controversies-halt-its-rise/"
+   },
+   {
+    "label": "Law Street Media: Flock is the dominant player in ALPR, 5,000+ cities (Aug 2026)",
+    "url": "https://lawstreetmedia.com/insights/federal-courts-emerge-as-new-battleground-over-flock-safetys-license-plate-camera-network/"
+   },
+   {
+    "label": "Ars Technica: 214 localities dropped Flock, 93 in Aug 2026 (Aug 2026)",
+    "url": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/"
+   }
+  ],
+  "hiring_locations": [
+   "Atlanta",
+   "Phoenix",
+   "Mesa",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Eagle",
+  "slug": "eagle",
+  "site": "https://www.eagleeng.com",
+  "careers_url": "https://jobs.ashbyhq.com/eagle",
+  "what_they_do": "AI tools plus back-office ops for civil, structural and MEP engineering firms it partners with or buys",
+  "problem": "Engineering firms lose most of their engineers' hours to paperwork on software older than the staff",
+  "industry": "AEC / AI-enabled engineering services",
+  "stage": "Seed",
+  "last_round": "Undisclosed",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Lightspeed Venture Partners",
+  "total_open_roles": "4",
+  "ops_roles": "Principal (Strategy; ex-Chief of Staff); Forward Deployed Engineer",
+  "hiring_trend": "Open roles 2 (Jan 2026) → 4 now; ~13 staff on LinkedIn (est.)",
+  "headcount": "~13",
+  "latest_news": "Lightspeed led an undisclosed seed round for the AI-native engineering firm platform",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.saasrise.com/deals/lightspeed-venture-partners-invests-in-eagle-in-a-seed-round-d8ea0576-c252-4774-b19a-1df6c2b2a96d",
+  "traction": "First partner firm (SoCal); case studies show 3–7× faster traffic studies and load calcs; no revenue figures",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Founded 2025 with one partner firm and a seed round; owning firms and embedding tools could build lock-in and workflow data, but nothing is proven yet.",
+  "distance_sources": [
+   {
+    "label": "Eagle: approach, case studies and team",
+    "url": "https://www.eagleeng.com/"
+   },
+   {
+    "label": "Lightspeed portfolio: Eagle, seed, founded 2025",
+    "url": "https://lsvp.com/company/eagle/"
+   },
+   {
+    "label": "Emploive: Eagle Chief of Staff posting (first partner firm in SoCal), Oct 2026",
+    "url": "https://emploive.com/jobs/6526823/chief-of-staff-eagle"
+   }
+  ],
+  "hiring_locations": [
+   "New York"
+  ]
  }
 ]
