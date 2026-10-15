@@ -28541,5 +28541,57 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Jump",
+  "slug": "jump",
+  "site": "https://www.jump.com",
+  "careers_url": "https://jobs.ashbyhq.com/jump",
+  "what_they_do": "Team-owned ticketing, branded fan app and fan data platform for pro sports teams",
+  "problem": "Teams rent their fans from Ticketmaster-style marketplaces that charge fees, own the data and fragment the experience",
+  "industry": "Sports tech / ticketing",
+  "stage": "Series A",
+  "last_round": "$25M",
+  "last_round_date": "Aug 2025",
+  "lead_investors": "Seven Seven Six",
+  "total_open_roles": "1",
+  "ops_roles": "",
+  "hiring_trend": "~45 (Jan 2025) → ~50 (Nov 2025) → ~84 est. on LinkedIn (+20% YoY); now 1 open role plus 3 talent pools",
+  "headcount": "~50-84",
+  "latest_news": "Boston Legacy FC (NWSL) signs Jump as exclusive ticketing partner from 2027",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.sportsbusinessjournal.com/Articles/2026/10/06/boston-legacy-the-latest-nwsl-club-to-sign-with-jump/",
+  "traction": "~12 team clients (NBA, WNBA, MLS, NWSL, USL); Timberwolves case study claims $5M+ new revenue",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "A challenger to Ticketmaster, AXS, SeatGeek and Paciolan with about a dozen mostly soccer clients. Its only NBA team is owned by its own co-founders. Multi-year exclusive deals that replace a team's whole stack are sticky, but adoption is still early.",
+  "distance_sources": [
+   {
+    "label": "SBJ: Jump signs Sounders and Reign, first MLS club (Mar 2026)",
+    "url": "https://www.sportsbusinessjournal.com/Articles/2026/03/24/jump-signs-sounders-and-reign-adding-to-soccer-footprint/"
+   },
+   {
+    "label": "SBJ: On the ground with Jump and the Timberwolves, co-founder ownership link (Nov 2025)",
+    "url": "https://www.sportsbusinessjournal.com/Articles/2025/11/17/jump-ball-on-the-ground-with-jump-and-the-timberwolves/"
+   },
+   {
+    "label": "Jump: Timberwolves full-season case study",
+    "url": "https://www.jump.com/case-study/timberwolves-full-season"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
+  ]
  }
 ]
