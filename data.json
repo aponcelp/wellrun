@@ -28369,5 +28369,64 @@
    "Remote (US)",
    "Remote (Europe)"
   ]
+ },
+ {
+  "name": "Viktor",
+  "slug": "viktor",
+  "site": "https://viktor.com",
+  "careers_url": "https://jobs.ashbyhq.com/viktor",
+  "what_they_do": "AI employee inside Slack and Microsoft Teams that does work across 3,200+ tools",
+  "problem": "Small teams drown in reports, dashboards, campaigns and busywork they can't justify hiring someone to do",
+  "industry": "AI agents / workplace automation",
+  "stage": "Series A",
+  "last_round": "$75M",
+  "last_round_date": "May 2026",
+  "lead_investors": "Accel",
+  "total_open_roles": "31",
+  "ops_roles": "User Operations Specialist; Operations Engineer; Partnership Operations Manager; Talent Operations",
+  "hiring_trend": "Headcount ~15 at Series A (May) to ~35 (Aug) to ~40-50 now, 'heading toward a hundred'; 31 open roles, 9 posted in October",
+  "headcount": "~40-50",
+  "latest_news": "Passed $50M annualized revenue seven months after its February launch",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.arr.club/getviktor/viktor-arr-hit-50m-in-just-7-months",
+  "traction": "$50M ARR Sep 2026, up from $15M in May; 60,000+ teams; 350% 30-day NRR",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Explosive self-serve growth ($50M ARR in 7 months, 60,000+ teams) and per-company memory that is hard to leave, but it lives on Slack and Teams, whose owners ship Agentforce and Copilot, and Anthropic's Claude Tag now sells the same Slack AI coworker to the same buyer.",
+  "distance_sources": [
+   {
+    "label": "LinkedIn (CEO Fryd Wiatrowski): Anthropic killed Viktor.com. A post-mortem (Jun 2026)",
+    "url": "https://www.linkedin.com/pulse/anthropic-killed-viktorcom-post-mortem-fryd-wiatrowski-wdgzf"
+   },
+   {
+    "label": "Fortune: Viktor raises $75M; competes with Microsoft Copilot and Salesforce Agentforce (May 2026)",
+    "url": "https://fortune.com/2026/05/19/viktor-ai-startup-raises-75-million-for-virtual-coworker-exclusive/"
+   },
+   {
+    "label": "Next Play: Should you join Viktor (350% 30-day NRR, headcount 15 to 35) (Aug 2026)",
+    "url": "https://nextplayso.substack.com/p/should-you-join-viktor"
+   },
+   {
+    "label": "ARR Club: Viktor hit $50M ARR in 7 months (Sep 2026)",
+    "url": "https://www.arr.club/getviktor/viktor-arr-hit-50m-in-just-7-months"
+   }
+  ],
+  "hiring_locations": [
+   "Warsaw",
+   "Dublin",
+   "New York",
+   "Remote"
+  ]
  }
 ]
