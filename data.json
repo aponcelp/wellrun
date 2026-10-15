@@ -28687,5 +28687,61 @@
    "Austin",
    "Remote"
   ]
+ },
+ {
+  "name": "Meow",
+  "slug": "meow",
+  "site": "https://www.meow.com",
+  "careers_url": "https://jobs.ashbyhq.com/meow",
+  "what_they_do": "Business checking, treasury (T-bills), cards, stablecoin payments and agent-operable banking via partner banks",
+  "problem": "Companies earn little on idle cash and juggle banks, brokers and crypto exchanges to move and invest money",
+  "industry": "Fintech / business banking & treasury",
+  "stage": "Series B",
+  "last_round": "$31.6M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Stifel (Series B, strategic); Tiger Global (A); Lux Capital (seed)",
+  "total_open_roles": "5",
+  "ops_roles": "",
+  "hiring_trend": "Lean by design: ~40 staff per CEO (Oct 2026); 5 open roles, all NYC on-site; Revelio est. 99 → 122 YoY",
+  "headcount": "~40 (CEO, Oct 2026); Revelio est. ~122",
+  "latest_news": "Stifel leads $31.6M Series B; Stifel Bank to white-label Meow's treasury platform",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/10/15/3381637/0/en/stifel-makes-strategic-investment-in-meow-partners-to-launch-next-generation-digital-banking-platform.html",
+  "traction": "Billions in assets on platform, thousands of funded businesses, $5B annualized stablecoin volume; says profitable",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.6",
+  "glassdoor_reviews": "23",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Meow-Reviews-E434096.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Profitable, lean and sticky (operating cash plus treasury plus stablecoin rails, now white-labeled to Stifel Bank), and it leads the crypto-native and agent-banking niche; but in business banking overall it trails Mercury, Brex and Ramp by a wide margin and depends on rented partner-bank charters (Cross River, Grasshopper) that have already rotated once.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: Stifel strategic investment and white-label partnership (Oct 15, 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/15/3381637/0/en/stifel-makes-strategic-investment-in-meow-partners-to-launch-next-generation-digital-banking-platform.html"
+   },
+   {
+    "label": "Forbes: From Crypto To T-Bills, inside Meow's hard pivot (Nov 2023)",
+    "url": "https://www.forbes.com/sites/emilymason/2023/11/29/from-crypto-to-t-bills-inside-meows-hard-pivot/"
+   },
+   {
+    "label": "Business Initiative: Meow review (partner banks have rotated FirstBank/Third Coast to Cross River/Grasshopper)",
+    "url": "https://www.businessinitiative.org/business-bank-accounts/meow-business-banking/"
+   },
+   {
+    "label": "Undercovered podcast: Arvanaghi on ~40 staff, billions on platform, turned-down offers (Oct 2026)",
+    "url": "https://exa.ai/library/podcast/x89q9lhplpr/episode/mwfhh2bcln8"
+   }
+  ],
+  "hiring_locations": [
+   "New York"
+  ]
  }
 ]
