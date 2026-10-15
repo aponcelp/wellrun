@@ -27929,5 +27929,53 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Standard Metrics",
+  "slug": "standard-metrics",
+  "site": "https://standardmetrics.io",
+  "careers_url": "https://job-boards.greenhouse.io/standardmetrics",
+  "what_they_do": "AI portfolio monitoring, reporting and benchmarking for VC/PE firms and their startups",
+  "problem": "Investors chase portfolio KPIs through emails, spreadsheets and PDFs, and founders re-report the same numbers to every investor",
+  "industry": "Private-markets software / VC portfolio monitoring",
+  "stage": "Series B",
+  "last_round": "$20M",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "8VC",
+  "total_open_roles": "3",
+  "ops_roles": "Data Solutions Engineer (US remote; CX/technical services, integrations and custom deployments)",
+  "hiring_trend": "Headcount ~88, +29% YoY (LinkedIn est.); CEO cited 50+ full-time in Aug 2025; small, steady job board (3 roles)",
+  "headcount": "~60-90",
+  "latest_news": "Raised $20M Series B led by 8VC; says business grew ~20x since Series A",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://standardmetrics.io/we-raised-a-20m-series-b-from-our-customers-to-accelerate-innovation-in-the-private-markets/",
+  "traction": "~20x growth since 2022 Series A; 150+ firms, 10,000+ portfolio companies, $400B+ AUM",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.6",
+  "glassdoor_reviews": "17",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Standard-Metrics-Reviews-E8304803.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Leading venture-native portfolio platform (7 of top 10 VC firms by AUM, 30% of the Midas List) with a reporting network where founders report once to many investors; still small (~$50M raised) beside Chronograph on the PE/LP side and Carta's bundled offering.",
+  "distance_sources": [
+   {
+    "label": "Standard Metrics: $20M Series B, 150+ firms, 10,000+ companies, 30% of Midas List (Aug 2026)",
+    "url": "https://standardmetrics.io/we-raised-a-20m-series-b-from-our-customers-to-accelerate-innovation-in-the-private-markets/"
+   },
+   {
+    "label": "Standard Metrics: seven of the ten top VC firms by AUM use the platform (Oct 2025)",
+    "url": "https://standardmetrics.io/library/what-portfolio-monitoring-tools-do-the-best-vc-firms-use/"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
+  ]
  }
 ]
