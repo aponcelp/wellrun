@@ -28300,5 +28300,74 @@
   "hiring_locations": [
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Lyric",
+  "slug": "lyric",
+  "site": "https://lyric.tech",
+  "careers_url": "https://jobs.ashbyhq.com/lyric",
+  "what_they_do": "AI-native platform to model, plan and optimize enterprise supply chain decisions",
+  "problem": "Big supply chains plan on spreadsheets and rigid planning suites that can't test scenarios fast or adapt to change",
+  "industry": "Supply chain planning / decision intelligence software",
+  "stage": "Series B",
+  "last_round": "$43.5M",
+  "last_round_date": "Aug 2025",
+  "lead_investors": "Insight Partners (Series B); Primary Venture Partners (seed)",
+  "total_open_roles": "22",
+  "ops_roles": "Forward Deployed Engagement Lead; Forward Deployed Solution Strategist; Forward Deployed Supply Chain Engineer; Customer Support Engineer",
+  "hiring_trend": "Headcount ~205 → ~322 YoY (+57%, LinkedIn); 279 → 326 QoQ to Jul 2026 (Caplight); dipped ~2% in the last month",
+  "headcount": "~320-330",
+  "latest_news": "Named Example Vendor in Gartner 2026 Market Overview for supply chain decision platforms",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://lyric.tech/blog/lyric-gartner-analytics-decision-making-platforms",
+  "traction": "ARR >3x two years running (team post, Mar 2026); 40+ Fortune 500 brands incl. Coca-Cola, Estée Lauder",
+  "red_flags": "Watch (not scored): an Oct 2026 Glassdoor review from a former Chennai engineer cites 'random layoffs' and a Sep 2026 San Francisco review calls it toxic, but no layoff has been reported and headcount is up ~57% YoY; RepVue sales-org rating 2.5/5. The Jul 2025 restructuring and TPG sale reports are about a different Lyric (lyric.ai, healthcare).",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor: Lyric reviews, 'Good product but random layoffs' (Oct 2026)",
+    "url": "https://www.glassdoor.sg/Reviews/Lyric-Reviews-E8753901.htm"
+   },
+   {
+    "label": "Glassdoor: Lyric San Francisco review, 'toxic environment' (Sep 2026)",
+    "url": "https://www.glassdoor.com/Reviews/Lyric-San-Francisco-CA-Reviews-EI_IE8753901.0,5_IL.6,22_IC1147401.htm"
+   },
+   {
+    "label": "RepVue: Lyric sales org rating 2.5/5",
+    "url": "https://www.repvue.com/companies/lyric"
+   }
+  ],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "32",
+  "glassdoor_url": "https://www.glassdoor.sg/Reviews/Lyric-Reviews-E8753901.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real Fortune 500 adoption (Coca-Cola, Estée Lauder, Mondelēz) with planning models embedded in daily decisions, but a young challenger in a crowded category behind Kinaxis, o9, Blue Yonder and SAP; Gartner Cool Vendor, not yet a Magic Quadrant name.",
+  "distance_sources": [
+   {
+    "label": "Lyric: official company facts, customers, Gartner Cool Vendor 2025 (Sep 2026)",
+    "url": "https://lyric.tech/ai-info-about-lyric"
+   },
+   {
+    "label": "Caplight: Lyric comparables (Aera, Optilogic, o9 Solutions)",
+    "url": "https://www.caplight.com/company/lyric"
+   },
+   {
+    "label": "PR Newswire: $43.5M Series B led by Insight Partners (Aug 2025)",
+    "url": "https://www.prnewswire.com/news-releases/lyric-raises-43-5m-series-b-to-transform-supply-chain-decision-making-with-ai-302520358.html"
+   }
+  ],
+  "hiring_locations": [
+   "Bengaluru",
+   "Chennai",
+   "BLR",
+   "Remote (US)",
+   "Remote (Europe)"
+  ]
  }
 ]
