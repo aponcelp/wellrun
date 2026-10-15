@@ -29238,5 +29238,73 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "AssemblyAI",
+  "slug": "assemblyai",
+  "site": "https://www.assemblyai.com",
+  "careers_url": "https://job-boards.greenhouse.io/assemblyai",
+  "what_they_do": "Speech-to-text and voice AI APIs for developers building notetakers, scribes and voice agents",
+  "problem": "Product teams need accurate, low-latency transcription and voice understanding without training their own speech models",
+  "industry": "Voice AI / speech-to-text APIs",
+  "stage": "Series C",
+  "last_round": "$30M (Series C1, per PitchBook; unannounced)",
+  "last_round_date": "Dec 2025",
+  "lead_investors": "Undisclosed (Series C $50M Dec 2023 led by Accel; Insight Partners led Series B)",
+  "total_open_roles": "11",
+  "ops_roles": "",
+  "hiring_trend": "~10 open roles (Mar 2026) → 11 now; headcount ~115 (Dec 2023) → 72 (Mar 2026), kept lean by design per CEO",
+  "headcount": "~75-80",
+  "latest_news": "Released Universal-3.6 Pro Realtime speech model for voice agents",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.assemblyai.com/blog/universal-3-6-pro-realtime",
+  "traction": "CEO says ARR tripled in 2025, near $1M ARR per employee (Q3 2026); 1M+ developers",
+  "red_flags": "Shrinking headcount: ~115 staff at the Dec 2023 Series C vs 72 in Mar 2026 (CEO says lean by design while revenue tripled); a Mar 2024 restructuring cut over half the sales team.",
+  "red_flags_sources": [
+   {
+    "label": "TechCrunch: AssemblyAI lands $50M, 115-person workforce (Dec 2023)",
+    "url": "https://techcrunch.com/2023/12/04/assemblyai-nabs-50m-to-build-and-serve-ai-speech-models/"
+   },
+   {
+    "label": "Dylan Fox (CEO) on LinkedIn: \"We're 72 people at AssemblyAI\" (Mar 2026)",
+    "url": "https://www.linkedin.com/posts/dylanbfox_were-72-people-at-assemblyai-we-process-activity-7439348176286887936-_08u"
+   },
+   {
+    "label": "Glassdoor review: over half the sales team laid off in a restructuring (Mar 2024)",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-AssemblyAI-E4953587-RVW85739682.htm"
+   }
+  ],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.7",
+  "glassdoor_reviews": "43",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/AssemblyAI-Reviews-E4953587.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "2026-10-15",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "A top independent speech-to-text API with broad adoption (1M+ developers, ~2M voice hours a day, Zoom, Granola, Fireflies) and new voice-agent and dictation lines; Deepgram, ElevenLabs and OpenAI sell rival models to the same developers.",
+  "distance_sources": [
+   {
+    "label": "Sourcery: Dylan Fox on 1M+ developers, ~100M API calls a day (Aug 2026)",
+    "url": "https://www.sourcery.vc/p/breaking-voice-ai-is-dominating"
+   },
+   {
+    "label": "AssemblyAI: Universal-3.5 Pro for pre-recorded audio, customers Granola, Fireflies, Dovetail (Aug 2026)",
+    "url": "https://www.assemblyai.com/blog/universal-3-5-pro-code-switching-contextual-prompting"
+   },
+   {
+    "label": "AssemblyAI: Introducing the Dictation API (Sep 2026)",
+    "url": "https://www.assemblyai.com/blog/dictation-api"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "London",
+   "United States",
+   "Remote (North America)"
+  ]
  }
 ]
