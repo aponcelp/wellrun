@@ -28198,5 +28198,107 @@
    "Remote (US)",
    "Remote (Canada)"
   ]
+ },
+ {
+  "name": "Picogrid",
+  "slug": "picogrid",
+  "site": "https://picogrid.com",
+  "careers_url": "https://jobs.ashbyhq.com/picogrid",
+  "what_they_do": "Software and field hardware that connect drones, sensors and command systems for the military",
+  "problem": "Military units buy systems from dozens of vendors that don't talk to each other, so integration takes months",
+  "industry": "Defense tech / systems integration",
+  "stage": "Series A",
+  "last_round": "$45M",
+  "last_round_date": "May 2026",
+  "lead_investors": "Bessemer Venture Partners, Initialized Capital",
+  "total_open_roles": "20",
+  "ops_roles": "Strategy & Operations Manager; Field Operations Engineer; Forward Deployed Engineer; Site Operations Associate (Contract)",
+  "hiring_trend": "Headcount ~33 → ~65 Q1 2025 to Q1 2026 (Revelio), ~79 on LinkedIn; postings 17 → 31 in 2026",
+  "headcount": "~65-79",
+  "latest_news": "Connected 20+ defense systems for XVIII Airborne Corps counter-drone exercise at Fort Bragg",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://picogrid.com/newsroom/picogrid-rapidly-connects-20-defense-systems-for-army-counter-drone-operations",
+  "traction": "Revenue tripled YoY since 2024 seed; cash-flow positive; 12+ installations; 100+ partner systems integrated",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "9",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Picogrid-Reviews-E10230251.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Vendor-neutral integration layer with 100+ partner systems, FedRAMP High and real Army/Air Force deployments while profitable; but it is a ~70-person Series A in a category where Anduril (Lattice, $1.8B NGC2 Army deal) and Palantir hold far more of the buyer's budget.",
+  "distance_sources": [
+   {
+    "label": "Tectonic: Picogrid raises $45M Series A, cash-flow positive (May 2026)",
+    "url": "https://www.tectonicdefense.com/exclusive-picogrid-raises-45m-series-a"
+   },
+   {
+    "label": "Picogrid: Legion granted FedRAMP High (Mar 2026)",
+    "url": "https://picogrid.com/newsroom/legion-granted-fedramp-high-authorization"
+   },
+   {
+    "label": "Tectonic: Anduril wins $1.8B Army NGC2 deal (Oct 2026)",
+    "url": "https://www.tectonicdefense.com/andurils-big-week-arsenal-2-ngc2-and-a-6-6b-bet-on-the-future-of-american-shipbuilding/"
+   }
+  ],
+  "hiring_locations": [
+   "El Segundo",
+   "Washington, DC",
+   "Fort Bragg"
+  ]
+ },
+ {
+  "name": "Titan",
+  "slug": "titan-banking",
+  "site": "https://titanbanking.ai",
+  "careers_url": "https://jobs.ashbyhq.com/titan-ai",
+  "what_they_do": "Banking-native AI platform: bank-specific models, knowledge graph and human-reviewed agents for banks",
+  "problem": "Banks can't safely use general AI: data security, no audit trail for examiners, and models that don't know banking",
+  "industry": "AI for banking / financial institutions",
+  "stage": "Seed",
+  "last_round": "$3M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Entropy Ventures",
+  "total_open_roles": "13",
+  "ops_roles": "Client Partner; AI Platform Analyst; Forward Deployed Engineer – Product Focus",
+  "hiring_trend": "Headcount 18 → 26 in a quarter (Caplight), ~37-38 now (PitchBook/LinkedIn); 13 open roles",
+  "headcount": "~37",
+  "latest_news": "SEC Form D shows $4M sold toward a $5M offering, above its announced $3M seed",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://runtimewire.com/article/titan-banking-ai-sec-form-d-4m-seed-funding",
+  "traction": "Low seven-figure ARR at Oct 2025 launch, tripled by Jun 2026 (company claim); several banks live",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Ten months out of stealth on a $3M seed with a handful of live bank clients; banking-native models and in-bank forward-deployed teams could become lock-in, but rivals and frontier labs selling into banks make it too early to call.",
+  "distance_sources": [
+   {
+    "label": "Retail Banker International: Titan raises $3M; ARR tripled since stealth exit (Jun 2026)",
+    "url": "https://www.retailbankerinternational.com/news/titan-raises-funds-banking-ai-platform/"
+   },
+   {
+    "label": "Finovate: FinovateFall 2026 Titan AI profile (revenue well into seven figures, ~30 staff)",
+    "url": "https://finovate.com/videos/finovatefall-2026-titan-ai/"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
+  ]
  }
 ]
