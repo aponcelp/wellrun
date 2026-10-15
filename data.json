@@ -28903,5 +28903,97 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Rein",
+  "slug": "rein",
+  "site": "https://reinsec.io",
+  "careers_url": "https://reinsec.io/about-us/",
+  "what_they_do": "Runtime security that watches, governs and blocks enterprise AI agent actions",
+  "problem": "Security teams can't see or stop what their AI agents actually do in production, like hidden prompt injections",
+  "industry": "AI agent security / application security",
+  "stage": "Series A",
+  "last_round": "$25M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Glilot Capital, Sienna Venture Capital",
+  "total_open_roles": "n.a.",
+  "ops_roles": "GTM Strategy and Ops Manager; Technical Customer Success Manager",
+  "hiring_trend": "Headcount ~23 → ~31 since Jan 2026 launch (Calcalist); no public job board, ~4 openings seen (careers@reinsec.io)",
+  "headcount": "~31",
+  "latest_news": "Raised $25M Series A co-led by Glilot and Sienna VC; $35M total",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://reinsec.io/blog/series-a/",
+  "traction": "Revenue up 8x and customers 5x since Jan 2026 launch (company claim); Lemonade, Dun & Bradstreet",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Nine months past launch with ~31 staff and no disclosed revenue base; runtime agent security is a crowded, consolidating category with bigger security vendors moving in, so too early to judge staying power.",
+  "distance_sources": [
+   {
+    "label": "Rein: $25M Series A, 8x revenue since Jan 2026 launch (Oct 2026)",
+    "url": "https://reinsec.io/blog/series-a/"
+   },
+   {
+    "label": "TechLens: Rein Series A, nine months after $8M seed; no revenue base disclosed (Oct 2026)",
+    "url": "https://techlensmedia.com/news/rein-security-raises-25m-series-a-nine-months-after-an-8m-seed"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "North.cloud",
+  "slug": "north-cloud",
+  "site": "https://north.cloud",
+  "careers_url": "https://ats.rippling.com/north-cloud/jobs",
+  "what_they_do": "Automated spend management and savings for cloud, AI and data platforms",
+  "problem": "Finance and engineering teams overspend on AWS, GCP, Azure and AI tokens and manage costs by hand in spreadsheets",
+  "industry": "FinOps / cloud and AI cost management",
+  "stage": "Series B",
+  "last_round": "$60M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "PeakSpan Capital",
+  "total_open_roles": "11",
+  "ops_roles": "Head of Customer Success; Customer Success",
+  "hiring_trend": "Small team growing: ~43 (Tracxn, Jul 2026) → ~58 on LinkedIn; 11 open roles, all Brooklyn",
+  "headcount": "~45-60",
+  "latest_news": "Raised $60M Series B led by PeakSpan; total funding $67M",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/northcloud-raises-60m-series-b-to-unify-spend-intelligence-and-enable-full-automation-across-cloud-ai-and-data-302909322.html",
+  "traction": "~$2B cloud spend managed, $400M+ customer savings, 98.8% retention (company-reported)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Strong claimed retention and a broadening AI-spend line, but it is a small player in a crowded FinOps field (Vantage, ProsperOps, CloudZero, IBM Cloudability) and the hyperscalers ship native cost and commitment tools to the same buyer.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: North.cloud $60M Series B, 98.8% retention, ~$2B managed spend (Oct 2026)",
+    "url": "https://www.prnewswire.com/news-releases/northcloud-raises-60m-series-b-to-unify-spend-intelligence-and-enable-full-automation-across-cloud-ai-and-data-302909322.html"
+   },
+   {
+    "label": "Tracxn: North Cloud profile, 157 active competitors",
+    "url": "https://tracxn.com/d/companies/north-cloud/__t731fZ5GUElDroP0UVR2Wef6uvhLVTkIH71UC3mIXVI"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
