@@ -28776,5 +28776,55 @@
   "hiring_locations": [
    "New York"
   ]
+ },
+ {
+  "name": "Atlar",
+  "slug": "atlar",
+  "site": "https://www.atlar.com",
+  "careers_url": "https://careers.atlar.com/jobs",
+  "what_they_do": "AI-native treasury platform: cash, payments, forecasting and reconciliation over direct bank connections",
+  "problem": "Finance teams juggle many bank portals and spreadsheets to see cash, move money and reconcile, wasting hours and leaving cash idle",
+  "industry": "Treasury management / fintech",
+  "stage": "Series A",
+  "last_round": "~$8.6M (SEK 90M)",
+  "last_round_date": "Apr 2024",
+  "lead_investors": "Index Ventures, General Catalyst",
+  "total_open_roles": "12",
+  "ops_roles": "Manager, Deployment Strategy; Delivery Manager",
+  "hiring_trend": "Headcount ~48 → ~68 Q1 2025 to Q1 2026 (Revelio, +42%); ~55 on LinkedIn; 12 open roles",
+  "headcount": "~55-68",
+  "latest_news": "Opened US headquarters in New York; US and Canada now fastest-growing markets",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.atlar.com/blog/atlar-expands-to-the-us-with-a-new-york-headquarters",
+  "traction": "150+ customers; Swedish entity revenue 10.5 → 23 MSEK in 2025 (+119%, ~$2.4M)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Atlar-EI_IE9775230.11,16.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky once banks and ERP are wired in (delivery/deployment hiring confirms lock-in), with 150+ customers and a J.P. Morgan API partnership, but still a small challenger behind Kyriba, Modern Treasury and Trovata, losing ~43 MSEK a year on ~23 MSEK revenue with no new round since Apr 2024.",
+  "distance_sources": [
+   {
+    "label": "Atlar: US HQ in New York, 150+ customers, J.P. Morgan/Rillet/Campfire partnerships (Aug 2026)",
+    "url": "https://www.atlar.com/blog/atlar-expands-to-the-us-with-a-new-york-headquarters"
+   },
+   {
+    "label": "Allabolag: Atlar AB 2025 accounts (revenue 23 MSEK, loss 42.6 MSEK)",
+    "url": "https://www.allabolag.se/foretag/atlar-ab/stockholm/internet-konsulter-operat%C3%B6rer/2KIDVTGI5YFHL"
+   },
+   {
+    "label": "Founderland: Atlar competes with Modern Treasury, Trovata and Kyriba (Oct 2026)",
+    "url": "https://www.founderland.ai/articles/atlar-opens-nyc-hq-as-ai-treasury-hits-500b-volume-mv5p9tuh"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
