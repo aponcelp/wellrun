@@ -28593,5 +28593,79 @@
   "hiring_locations": [
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Plug",
+  "slug": "plug",
+  "site": "https://plugmotors.com",
+  "careers_url": "https://jobs.ashbyhq.com/plugmotors",
+  "what_they_do": "EV-only marketplace: instant cash offers to EV owners, daily wholesale auctions for dealers",
+  "problem": "Dealers and sellers can't price used EVs confidently because battery health and software drive value, not mileage",
+  "industry": "Automotive marketplace / used EVs",
+  "stage": "Series A",
+  "last_round": "$20M",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "Lightspeed Venture Partners",
+  "total_open_roles": "20",
+  "ops_roles": "Strategy Manager, Office of the CEO; Business Operations Manager; Business Operations Analyst; Operations Specialist (Marketplace Ops)",
+  "hiring_trend": "Headcount ~54, +116% YoY (LinkedIn); open roles ~11 → 20 since summer",
+  "headcount": "~54",
+  "latest_news": "Marketplace (APM) profiles Plug's daily used-EV auction; company now cites $120M+ in sales",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.marketplace.org/story/2026/08/05/looking-for-a-used-ev-plug-wants-to-sell-you-one",
+  "traction": "$120M+ cumulative EV sales (GMV, company figure), up from $60M in Feb; 600+ dealers",
+  "red_flags": "Watch (not scored): used-EV market risk. The federal used-EV credit ended Sep 30, 2025; Cox cut its 2026 wholesale value outlook in Oct 2026 as depreciation accelerated, and the 2027 off-lease EV wave could pressure values. Since its dealer-license pivot Plug holds cars on its own balance sheet, so price drops hit it directly. Manheim and IAA are rolling out standard EV battery certificates, eroding a key data edge. No layoffs, lawsuits or down round found.",
+  "red_flags_sources": [
+   {
+    "label": "Recurrent: Used EV market report, one year after the used-EV credit ended (Sep 2026)",
+    "url": "https://www.recurrentauto.com/research/used-electric-vehicle-buying-report"
+   },
+   {
+    "label": "Cox Automotive: Manheim index declines in Sept, year-end forecast lowered (Oct 2026)",
+    "url": "https://www.coxautoinc.com/press-releases/q3-2026-muvvi-press-release/"
+   },
+   {
+    "label": "WardsAuto: off-lease EVs nearly triple in 2026; 2027 values an open question (Sep 2026)",
+    "url": "https://www.wardsauto.com/news/used-vehicle-price-increases-begin-to-slow-as-shoppers-eye-older-cars/830125/"
+   },
+   {
+    "label": "The Builder Media: Plug's dealer-license pivot, now carries inventory on balance sheet (Aug 2026)",
+    "url": "https://thebuildermedia.com/startup-business-model-pivot-plug/"
+   },
+   {
+    "label": "Manheim: EV certification and dedicated EV sale (2026)",
+    "url": "https://site.manheim.com/en/evsale.html"
+   }
+  ],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "An EV-only niche player behind giant auctions: Manheim alone sold ~37,000 used EVs in Q1 2026 and is standardizing battery certificates, while Plug's $120M lifetime sales is a few thousand cars. Its edge is a two-sided dealer/seller network plus EV pricing data, but it now carries inventory risk in a volatile used-EV market.",
+  "distance_sources": [
+   {
+    "label": "GoAuto: Manheim sold 37,000 used EVs in Q1 2026 (Apr 2026)",
+    "url": "https://premium.goauto.com.au/manheim-reports-us-used-car-surge/"
+   },
+   {
+    "label": "ACV Auctions 10-K: wholesale market led by Manheim, Adesa, OPENLANE (Feb 2026)",
+    "url": "https://investors.acvauto.com/sec-filings/all-sec-filings/content/0001637873-26-000011/0001637873-26-000011.pdf"
+   },
+   {
+    "label": "Plug: company page, $120M+ in sales",
+    "url": "https://plugmotors.com/company"
+   }
+  ],
+  "hiring_locations": [
+   "Los Angeles",
+   "San Francisco"
+  ]
  }
 ]
