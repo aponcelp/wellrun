@@ -28579,5 +28579,55 @@
   "hiring_locations": [
    "New York"
   ]
+ },
+ {
+  "name": "Spott",
+  "slug": "spott",
+  "site": "https://spott.io",
+  "careers_url": "https://spott.io/careers",
+  "what_they_do": "AI-native ATS and CRM in one platform for recruitment and staffing agencies",
+  "problem": "Agency recruiters lose most of their day re-typing data across a legacy ATS and bolt-on sourcing, outreach and notes tools",
+  "industry": "Recruitment software / HR tech",
+  "stage": "Series A",
+  "last_round": "$21M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Balderton Capital",
+  "total_open_roles": "7",
+  "ops_roles": "Customer Success Manager, onboarding & implementation (New York); Customer Success Manager, onboarding & implementation (Leuven)",
+  "hiring_trend": "Headcount ~12 → ~46 in 12 mo (+283% YoY, LinkedIn est.); plans 60+ by end-2026",
+  "headcount": "~44-46",
+  "latest_news": "Raised $21M Series A led by Balderton; opening New York and Sydney offices",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.balderton.com/news/spott-raises-21m-series-a-to-build-the-global-ai-native-operating-system-for-recruitment-agencies/",
+  "traction": "~$3.4M ARR (€3M, Jul 2026), from ~€0.1M Oct 2025; 500+ agencies (company claims)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast-growing challenger to Bullhorn, Loxo and Vincere in a crowded agency ATS/CRM market; system-of-record lock-in, 500+ agencies and claimed zero churn are real, but ~€3M ARR is far behind the incumbents.",
+  "distance_sources": [
+   {
+    "label": "Spott: origin story (€100K to €1M+ ARR in four months, zero churn, switching from Bullhorn/Loxo)",
+    "url": "https://spott.io/origin-story"
+   },
+   {
+    "label": "Trends/Knack: Spott ARR from €0.4M to €3M, three-quarters outside Belgium (Jul 2026)",
+    "url": "https://trends.knack.be/ondernemen/spott-overtuigt-wervingsbureaus-wereldwijd-met-slim-recruitmentplatform/"
+   },
+   {
+    "label": "The Next Web: Spott raises $21M Series A led by Balderton (Sep 2026)",
+    "url": "https://thenextweb.com/news/spott-raises-21m-series-a-balderton-recruitment"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
