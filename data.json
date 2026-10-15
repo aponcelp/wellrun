@@ -28117,5 +28117,86 @@
   "hiring_locations": [
    "New York"
   ]
+ },
+ {
+  "name": "Motive",
+  "slug": "motive",
+  "site": "https://gomotive.com",
+  "careers_url": "https://job-boards.greenhouse.io/gomotive",
+  "what_they_do": "AI dashcams, telematics, compliance and fuel cards for fleets and field operations",
+  "problem": "Fleet operators can't see driver risk, vehicle health and spend in one place, so crashes, fines and costs pile up",
+  "industry": "Fleet management / physical-operations software (IoT + AI safety)",
+  "stage": "Late stage (Series F extension); IPO filed Dec 2025, withdrawn Sep 2026",
+  "last_round": "$150M",
+  "last_round_date": "Jul 2025",
+  "lead_investors": "Kleiner Perkins (AllianceBernstein new); Sep 2026 $1.3B+ from General Catalyst's Customer Value Fund is non-dilutive revenue-share financing, not counted as VC",
+  "total_open_roles": "147",
+  "ops_roles": "Business Operations Manager; GTM Strategy & Operations Manager - Special Projects; Senior Implementation Consultant; Senior Product Operations Manager",
+  "hiring_trend": "Headcount ~6.4K, +5% YoY (Revelio, Mar 2026) and flat since a 5% cut in Aug 2026 (Tracxn 6,349 Jul → 6,408 Sep); 147 open postings",
+  "headcount": "~6,400 (LinkedIn/Tracxn; S-1 listed 4,508 FTEs at Sep 2025)",
+  "latest_news": "Named Andrew Bennett CMO after $1.3B General Catalyst financing and pulled IPO",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://gomotive.com/motive-appoints-andrew-bennett-as-chief-marketing-officer-to-advance-ai-leadership-and-fuel-global-growth",
+  "traction": "ARR $600M+ growing 30% YoY (accelerating); ~100,000 customers; >120% NRR on $100K+ accounts",
+  "red_flags": "Aug 2026 layoff of ~251 staff (5%), mostly engineering in Pakistan and India, the third cut since 2022; Glassdoor reviews call it brutal with no notice. Litigation with Samsara: an arbitrator awarded Samsara $30.3M plus an injunction (Feb 2026) after finding Motive's dashcam comparison claims literally false; Samsara filed a new patent suit (Jun 2026), and a driver class action (Jul 2026) alleges its dashcams act as illegal licence-plate readers. Soft, not scored: IPO stalled for 9 months before withdrawal, and holders marked the stock down (no down round confirmed).",
+  "red_flags_sources": [
+   {
+    "label": "Layoffs.fyi: Motive, 251 laid off (5%) on Aug 19, 2026",
+    "url": "https://layoffs.fyi/company/motive"
+   },
+   {
+    "label": "Glassdoor: Motive reviews mentioning layoffs (Aug–Sep 2026)",
+    "url": "https://www.glassdoor.com/Reviews/Motive-layoff-Reviews-EI_IE1018424.0,6_KH7,13.htm"
+   },
+   {
+    "label": "Transport Topics: Motive faces $30M arbitration loss to Samsara over false claims (Mar 2026)",
+    "url": "https://www.ttnews.com/articles/motive-false-claims-samsara"
+   },
+   {
+    "label": "Bloomberg Law: Samsara adds patent claims against Motive in W.D. Texas (Jun 2026)",
+    "url": "https://news.bloomberglaw.com/ip-law/samsara-adds-more-allegations-to-motive-safety-patent-dispute"
+   },
+   {
+    "label": "Yahoo Finance: Drivers file class action alleging Motive dashcams act as plate readers (Aug 2026)",
+    "url": "https://finance.yahoo.com/technology/ai/articles/motive-sold-truckers-ai-camera-170000207.html"
+   },
+   {
+    "label": "Calcalist Ctech: Motive calls off IPO; Unic-Tech's holding marked down (Sep 2026)",
+    "url": "https://www.calcalistech.com/ctechnews/article/zje3zq970"
+   }
+  ],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "1,655",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Motive-Reviews-E1018424.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Strong #2 in fleet telematics behind Samsara, with broad adoption (~100K customers, 1M+ vehicles), installed hardware and compliance workflows that are hard to rip out, and new lines (Card, Maintenance) driving >120% NRR on large accounts. It still trails a profitable, larger Samsara, burns cash, and faces litigation from Samsara.",
+  "distance_sources": [
+   {
+    "label": "TNW: Motive takes $1.3B from General Catalyst, ARR $600M+, NRR >120% (Sep 2026)",
+    "url": "https://thenextweb.com/news/motive-1-3bn-general-catalyst-withdraws-ipo-filing"
+   },
+   {
+    "label": "SEC: Motive Form S-1 (Dec 2025), $327M 9-mo revenue, $138.5M net loss",
+    "url": "https://www.sec.gov/Archives/edgar/data/1646681/000162828025058773/motive-sx1.htm"
+   },
+   {
+    "label": "CNBC: Motive files for IPO; widening losses; Samsara litigation (Dec 2025)",
+    "url": "https://www.cnbc.com/2025/12/23/alphabet-backed-motive-files-for-ipo.html"
+   }
+  ],
+  "hiring_locations": [
+   "Mexico City",
+   "Islamabad & Lahore",
+   "San Francisco",
+   "Remote (US)",
+   "Remote (Canada)"
+  ]
  }
 ]
