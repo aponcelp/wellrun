@@ -28667,5 +28667,58 @@
    "Los Angeles",
    "San Francisco"
   ]
+ },
+ {
+  "name": "Lightfield",
+  "slug": "lightfield",
+  "site": "https://lightfield.app",
+  "careers_url": "https://jobs.ashbyhq.com/lightfield",
+  "what_they_do": "AI-native CRM that builds itself from emails, calls and meetings for agents to work from",
+  "problem": "Legacy CRMs need manual data entry and give agents incomplete, badly structured customer data",
+  "industry": "Sales tech / CRM",
+  "stage": "Series A",
+  "last_round": "$47M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Andreessen Horowitz",
+  "total_open_roles": "22",
+  "ops_roles": "Growth & Delivery Lead; Applied Product Manager; Founding Customer Success Manager; Growth Operations Lead",
+  "hiring_trend": "Headcount ~20 (Sep 2025) → ~40-45 (Sep-Oct 2026), about 2x YoY; 22 open roles, almost all posted in 2026",
+  "headcount": "~40-45",
+  "latest_news": "Raised $47M Series A led by a16z; 5,000+ companies signed up since Nov 2025",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/lightfield-raises-47-million-series-a-to-build-the-crm-for-companies-that-run-on-agents-302874024.html",
+  "traction": "5,000+ companies signed up since Nov 2025 launch; 400% NDR (company claim); ARR undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "2",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Magical-Tome-Reviews-E7569657.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast early adoption (5,000+ signups, whole Salesforce migrations, claimed 400% NDR) and a system-of-record lock-in, but a newcomer in crowded CRM behind Salesforce and HubSpot, with Attio, Day AI, Reevo and Monaco chasing the same buyers.",
+  "distance_sources": [
+   {
+    "label": "Upstarts Media: Lightfield raises $47M; 5,000 customers, 400% NDR, rivals (Sep 2026)",
+    "url": "https://www.upstartsmedia.com/p/ai-sales-startup-lightfield-raises-47m"
+   },
+   {
+    "label": "a16z: Investing in Lightfield (Sep 2026)",
+    "url": "https://a16z.com/announcement/investing-in-lightfield/"
+   },
+   {
+    "label": "VentureBeat: Tome's founders launch AI-native CRM Lightfield (Nov 2025)",
+    "url": "https://venturebeat.com/technology/tomes-founders-ditch-viral-presentation-app-with-20m-users-to-build-ai"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Cambridge"
+  ]
  }
 ]
