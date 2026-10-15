@@ -27870,5 +27870,64 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "11x",
+  "slug": "11x",
+  "site": "https://www.11x.ai",
+  "careers_url": "https://jobs.gem.com/11x-ai",
+  "what_they_do": "AI agents that prospect, qualify inbound leads by voice/chat, and find expansion revenue",
+  "problem": "Revenue teams can't follow up every lead, old deal or upsell fast enough without hiring more reps",
+  "industry": "Sales automation / AI SDR agents",
+  "stage": "Series B",
+  "last_round": "$50M",
+  "last_round_date": "Nov 2024",
+  "lead_investors": "Andreessen Horowitz (Series B), Benchmark (Series A)",
+  "total_open_roles": "12",
+  "ops_roles": "Forward Deployed Engineer; Senior Customer Success Manager",
+  "hiring_trend": "Flat: ~171 staff Q1 2026 vs ~161 Q1 2025 after a ~5% dip in mid-2025 (Revelio); postings 9 (2025) → 19 (2026)",
+  "headcount": "~100-170",
+  "latest_news": "CEO Prabhav Jain repositions 11x as an outbound, inbound voice and expansion growth platform",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.11x.ai/blog/a-love-letter-to-the-pursuit-of-growth",
+  "traction": "Contracted ARR +14%/mo avg Jun–Aug 2026, voice ARR +26% in Aug (CEO, self-reported)",
+  "red_flags": "Mar 2025 TechCrunch investigation: claimed ZoomInfo and Airtable as customers when they weren't (ZoomInfo's lawyer threatened legal action), booked trial contracts as full-year ARR (~$14M claimed vs ~$3M surviving, per an employee) and 70-80% early churn. Founder-CEO Hasan Sukkar stepped down six weeks later (May 2025) amid reports of high staff turnover and a punishing culture.",
+  "red_flags_sources": [
+   {
+    "label": "TechCrunch: a16z- and Benchmark-backed 11x has been claiming customers it doesn't have (Mar 2025)",
+    "url": "https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/"
+   },
+   {
+    "label": "Tech.eu: Founder of a16z-backed 11x steps down as CEO (May 2025)",
+    "url": "https://tech.eu/2025/05/06/founder-of-a16z-backed-11x-steps-down-as-ceo"
+   },
+   {
+    "label": "Revelio Labs: 11x headcount and job-posting trend (dip in 2025, flat 2026)",
+    "url": "https://www.reveliolabs.com/companies/11x/employees"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "4.8",
+  "glassdoor_reviews": "40",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/11x-Reviews-E9163020.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Coined the AI SDR and now sells multi-product (outbound, voice, chat) into Fortune 1000 accounts, but it is a ~$76M-funded follower in a crowded category where Outreach and other incumbents ship the same agents to the same buyer, its own CEO says AI SDRs 'don't work in the current form', and the 2025 ARR/customer scandal still taxes trust.",
+  "distance_sources": [
+   {
+    "label": "GTM Architects teardown: 11x vs Outreach, CEO quote on AI SDRs (Jul 2026)",
+    "url": "https://grow.thegtmarchitects.com/p/11x-invented-the-ai-sdr-a-year-later-its-own-ceo-said-the-ai-sdr-doesn-t-work"
+   },
+   {
+    "label": "Prabhav Jain LinkedIn: contracted ARR +20% in Aug, voice ARR +26%, expansions (Sep 2026)",
+    "url": "https://www.linkedin.com/posts/jainprabhav_the-momentum-at-11x-right-now-is-incredible-activity-7510723819544788992-tCA9"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
