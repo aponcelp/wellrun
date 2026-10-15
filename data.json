@@ -27299,5 +27299,85 @@
   "hiring_locations": [
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Sword Health",
+  "slug": "sword-health",
+  "site": "https://swordhealth.com",
+  "careers_url": "https://job-boards.greenhouse.io/swordhealth",
+  "what_they_do": "AI-led virtual physical therapy plus women's, mental and cardiometabolic care for employers, health plans",
+  "problem": "Employers and health plans pay for costly, hard-to-access in-person physical therapy, surgeries and chronic pain care",
+  "industry": "Digital health / AI MSK & virtual care",
+  "stage": "Late stage (Series E/F)",
+  "last_round": "$40M",
+  "last_round_date": "Jun 2025",
+  "lead_investors": "General Catalyst, Khosla Ventures",
+  "total_open_roles": "45",
+  "ops_roles": "Chief of Staff to the Managing Director - Germany; Director of Ops & Deputy Managing Director Germany; Senior Associate, Revenue Operations (Payer Operations); Commercial Strategy & Enablement Associate",
+  "hiring_trend": "Headcount ~1,325 → ~1,575 Q1 2025 to Q1 2026 (Revelio, ~+19%); LinkedIn ~1,185 (+16.5% YoY); plus Headspace staff from Oct 2026",
+  "headcount": "~1,200-1,600 (before Headspace)",
+  "latest_news": "Closed all-cash Headspace acquisition (up to ~$300M), after buying Kaia Health in Jan",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://help.headspace.com/hc/en-us/articles/56582692601115-Has-the-deal-closed",
+  "traction": "$400M revenue run rate (Mar 2026, CEO), from $240M in Jun 2025; 1,000+ enterprise clients",
+  "red_flags": "A2 Academy lawsuit (filed Jul 2024, San Francisco) claims 5% of Sword's equity, ~$200M at its valuation; trial moved from Sep 2026 to May 2027 with settlement talks underway. Minor, not scored: Oct 2024 cut of 13 physical therapists (~17% of treating PTs, company called it performance-based); post-close layoffs of Headspace staff (Oct 2026, scale undisclosed); Glassdoor 2.7 with low senior-management scores.",
+  "red_flags_sources": [
+   {
+    "label": "ECO News: Sword Health US lawsuit set for trial, 5% stake worth ~$200M (Jun 2026)",
+    "url": "https://econews.pt/2026/06/15/sword-health-us-lawsuit-set-for-september-trial/"
+   },
+   {
+    "label": "ECO: Sword's US trial postponed to May 2027, settlement talks admitted (Jul 2026)",
+    "url": "https://eco.pt/2026/07/15/julgamento-norte-americano-da-sword-adiado-e-com-caminho-aberto-para-um-acordo/"
+   },
+   {
+    "label": "Business Insider: Sword cuts 13 physical therapists as it ramps up AI (Nov 2024)",
+    "url": "https://www.businessinsider.com/3-billion-sword-health-cuts-physical-therapists-2024-11"
+   },
+   {
+    "label": "LinkedIn: Headspace employee laid off as part of the Sword acquisition (Oct 2026)",
+    "url": "https://www.linkedin.com/posts/charlie-lertlumprasert_yesterday-i-was-laid-off-from-headspace-activity-7511827157401178113-5aRv"
+   },
+   {
+    "label": "Glassdoor: Sword Health reviews (2.7, ~279 reviews)",
+    "url": "https://www.glassdoor.com/Reviews/Sword-Health-Reviews-E3848158.htm"
+   }
+  ],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "2.7",
+  "glassdoor_reviews": "279",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Sword-Health-Reviews-E3848158.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Strong #2 in digital MSK behind public Hinge Health, with fast, broad adoption ($400M run rate, 1,000+ enterprise clients), AI care trained on 10M+ sessions, and new women's, mental and cardiometabolic lines bolstered by Kaia and Headspace; a pending $200M equity suit and acquisition integration are the exposure.",
+  "distance_sources": [
+   {
+    "label": "Virgílio Bento (CEO) on LinkedIn: $400M revenue run rate (Mar 2026)",
+    "url": "https://www.linkedin.com/posts/vbento_we-just-hit-400m-in-revenue-run-rate-our-activity-7442932799604449280-AmWu"
+   },
+   {
+    "label": "Sword: acquires Kaia Health; 700K members, 10M AI sessions, 1,000+ enterprise clients (Jan 2026)",
+    "url": "https://swordhealth.com/newsroom/sword-acquires-kaia-health"
+   },
+   {
+    "label": "GlobeNewswire: Sword to acquire Headspace (Sep 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/09/16/3363038/0/en/sword-to-acquire-headspace-bringing-ai-care-to-the-world-s-most-trusted-mental-health-brand.html"
+   },
+   {
+    "label": "TechCrunch: Sword raises $40M at $4B, $240M run rate, IPO pushed to 2028 (Jun 2025)",
+    "url": "https://techcrunch.com/2025/06/17/sword-health-nabs-40m-at-4b-valuation-pushes-ipo-plans-to-at-least-2028/"
+   }
+  ],
+  "hiring_locations": [
+   "Lisbon",
+   "Porto",
+   "Remote (Portugal)",
+   "Remote (US)"
+  ]
  }
 ]
