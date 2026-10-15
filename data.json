@@ -28826,5 +28826,80 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Chargeflow",
+  "slug": "chargeflow",
+  "site": "https://www.chargeflow.io",
+  "careers_url": "https://www.comeet.com/jobs/chargeflow/29.001",
+  "what_they_do": "AI that automatically fights and prevents chargebacks for online merchants, paid on success",
+  "problem": "Merchants lose revenue and hours to friendly-fraud chargebacks that need manual evidence gathered across many systems",
+  "industry": "Payments / chargeback & fraud automation",
+  "stage": "Series A",
+  "last_round": "$25M",
+  "last_round_date": "Nov 2025",
+  "lead_investors": "Viola Growth, OpenView",
+  "total_open_roles": "7",
+  "ops_roles": "Technical Onboarding & Implementation Manager; Implementation Engineer (Customer-Facing)",
+  "hiring_trend": "Headcount ~173 → ~232 Q1 2025 to Q1 2026 (+15.6% YoY, Revelio); 7 live openings, new postings ~27/mo in 2025 → ~16/mo in 2026",
+  "headcount": "~230",
+  "latest_news": "Launched Developer Hub / Open Platform so payment platforms can embed its chargeback AI",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.chargeflow.io/blog/chargeflow-developer-hub-launch",
+  "traction": "~$10M revenue (Jun 2025, founder-stated); revenue tripled YoY (company); 20,000+ merchants incl. Fanatics, Calendly",
+  "red_flags": "Watch (not scored): Aug 2026 Glassdoor reviews describe a 'reorganization' layoff with no performance reason while hiring engineers, 'multiple rounds of layoffs' and high turnover (rating 3.9, down from 4.2; Revelio sentiment negative). No press report or count, and headcount is still up ~16% YoY. Merchant complaints on Trustpilot/Reddit allege unauthorized dispute submissions and withheld refunds (unverified). Stripe ships its own Smart Disputes to the same buyers.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor: Chargeflow reviews, Aug 2026 'inconsistent layoffs' and 'revolving door' reviews",
+    "url": "https://www.glassdoor.ca/Reviews/Chargeflow-Reviews-E9879666.htm"
+   },
+   {
+    "label": "Glassdoor review: 'Promising tech direction undermined by leadership overreach and inconsistent layoffs' (Aug 26, 2026)",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Chargeflow-E9879666-RVW105336090.htm"
+   },
+   {
+    "label": "Revelio Labs: Chargeflow headcount 232 (+15.6% YoY), sentiment negative and declining (Aug 2026)",
+    "url": "https://www.reveliolabs.com/companies/chargeflow/employees"
+   },
+   {
+    "label": "Dropshippingit: roundup of merchant allegations on Trustpilot, Reddit and Shopify (Apr 2026)",
+    "url": "https://dropshippingit.com/is-chargeflow-a-scam/"
+   },
+   {
+    "label": "Stripe: Smart Disputes, AI auto-submits dispute evidence",
+    "url": "https://stripe.com/en-be/payments/dispute-management"
+   }
+  ],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "32",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Chargeflow-Reviews-E9879666.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Broadest SMB adoption in chargeback automation (20,000+ merchants, network data across 100+ integrations) and a second line in Prevent/Connect, but it trails Justt on revenue (~$32M in 2025 vs ~$10M mid-2025) and faces Stripe Smart Disputes, Chargebacks911 and card-network tools (Verifi, Ethoca) selling to the same merchants.",
+  "distance_sources": [
+   {
+    "label": "Ctech: Chargeflow raises $25M Series A + $10M debt; 160 staff, 15,000 merchants (Nov 2025)",
+    "url": "https://www.calcalistech.com/ctechnews/article/bk00v9g9e11g"
+   },
+   {
+    "label": "Forbes: Justt reached $32M revenue in 2025, 400 customers",
+    "url": "https://www.forbes.com/companies/justt/"
+   },
+   {
+    "label": "Stripe: Smart Disputes",
+    "url": "https://stripe.com/en-be/payments/dispute-management"
+   },
+   {
+    "label": "GetLatka: Chargeflow $10M revenue, Jun 2025 (founder webinar)",
+    "url": "https://getlatka.com/companies/chargeflow.io"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
