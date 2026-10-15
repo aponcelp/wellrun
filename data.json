@@ -27379,5 +27379,219 @@
    "Remote (Portugal)",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Starbridge",
+  "slug": "starbridge",
+  "site": "https://starbridge.ai",
+  "careers_url": "https://jobs.ashbyhq.com/starbridge",
+  "what_they_do": "AI sales intelligence and channel platform for companies selling to government and schools",
+  "problem": "Public-sector buying signals are buried in meeting minutes, PDFs and FOIA data, so sales teams miss deals",
+  "industry": "GovTech / public-sector sales intelligence",
+  "stage": "Series A",
+  "last_round": "$42M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": "Craft Ventures (Series A); Owl Ventures (seed)",
+  "total_open_roles": "10",
+  "ops_roles": "Forward Deployed GTME",
+  "hiring_trend": "Headcount ~33 → ~107 in 12 mo on LinkedIn (+224% YoY); team 40 (Q3 2025) → 90+ (Q2 2026)",
+  "headcount": "~90-107",
+  "latest_news": "Launched Starbridge MCP connector for Claude and ChatGPT buyer intelligence",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://starbridge.ai/blog/starbridge-mcp",
+  "traction": "~$1M ARR (Aug 2025) to tens of millions; customers ~200 to 600+ in a year",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "15",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Starbridge-AI-Reviews-E10490996.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Fastest-growing of the AI-native SLED sales tools (600+ customers incl. Ramp, Fortinet, MagicSchool) with a FOIA contract dataset that grows with use and new lines (sequences, contract-vehicle access); still behind Deltek GovWin and GovSpend on legacy data and in a crowded field of AI clones.",
+  "distance_sources": [
+   {
+    "label": "Starbridge: About us, growth timeline to 600+ customers (2026)",
+    "url": "https://starbridge.ai/about-us"
+   },
+   {
+    "label": "Craft Ventures: Why we invested in Starbridge, FOIA data flywheel (Oct 2025)",
+    "url": "https://www.craftventures.com/articles/why-we-invested-in-starbridge"
+   },
+   {
+    "label": "Starbridge: Channel partner and contract vehicle access launch (Jul 2026)",
+    "url": "https://starbridge.ai/blog/channel-partner-contract-vehicle-access"
+   },
+   {
+    "label": "Settle: 7 best SLED sales intelligence platforms in 2026 (competitive field)",
+    "url": "https://usesettle.com/resources/best-sled-sales-intelligence-platforms"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Avarra",
+  "slug": "avarra",
+  "site": "https://avarra.ai",
+  "careers_url": "https://jobs.ashbyhq.com/avarra",
+  "what_they_do": "AI avatars that coach sales reps, join live deals and greet buyers on the website",
+  "problem": "Sales teams take months to ramp reps and can't give every rep expert coaching or deal support",
+  "industry": "Sales enablement / AI coaching for GTM teams",
+  "stage": "Series A",
+  "last_round": "$17M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Duration Ventures (seed led by Lightspeed)",
+  "total_open_roles": "3",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~20 → ~31 YoY (+55%, LinkedIn); 24 → 33 in a quarter to Aug 2026 (Caplight); 3 open roles",
+  "headcount": "~31-36",
+  "latest_news": "Raised $17M Series A led by Duration Ventures, with Lightspeed, Draper and Zoom",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/avarra-raises-17-million-on-a-contrarian-bet-ai-that-rapidly-upskills-gtm-teams-rather-than-simply-automating-routine-work-302899838.html",
+  "traction": "ARR +400% YoY; ~200% net revenue retention; customers incl. Elastic, Proofpoint, Netskope",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real enterprise adoption (1,000+ seat rollouts, ~200% NRR) and Zoom as a strategic backer, but a small player in a crowded AI roleplay and coaching field behind Mindtickle, Hyperbound and Second Nature, where Gong and enablement suites ship the same coaching to the same revenue buyers; its edge is customer playbooks and custom sims built into the platform.",
+  "distance_sources": [
+   {
+    "label": "Avarra: Why we're building AI avatars (400% revenue growth, ~200% NRR, Oct 2026)",
+    "url": "https://avarra.ai/blog/announcement"
+   },
+   {
+    "label": "PR Newswire: Avarra raises $17M Series A (Oct 2026)",
+    "url": "https://www.prnewswire.com/news-releases/avarra-raises-17-million-on-a-contrarian-bet-ai-that-rapidly-upskills-gtm-teams-rather-than-simply-automating-routine-work-302899838.html"
+   },
+   {
+    "label": "Mindtickle: Best Hyperbound alternatives (competitive field, Sep 2026)",
+    "url": "https://www.mindtickle.com/blog/best-hyperbound-competitors-and-alternatives/"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Read AI",
+  "slug": "read-ai",
+  "site": "https://www.read.ai",
+  "careers_url": "https://jobs.ashbyhq.com/read-ai",
+  "what_they_do": "AI meeting notetaker and copilot that summarizes meetings, email and chat, then acts on them",
+  "problem": "Teams lose decisions and follow-ups across meetings, email and chat, and waste hours writing notes and updating tools",
+  "industry": "AI productivity / meeting intelligence",
+  "stage": "Series B",
+  "last_round": "$50M",
+  "last_round_date": "Oct 2024",
+  "lead_investors": "Smash Capital, Madrona, Goodwater Capital",
+  "total_open_roles": "16",
+  "ops_roles": "Director of Customer Success",
+  "hiring_trend": "Headcount ~52 → ~91 Q4 2024 to Q1 2026 (Revelio), CEO says near 100 (Sep 2026); postings -24% YoY (Revelio)",
+  "headcount": "~95-118",
+  "latest_news": "Launched MCP server plus ChatGPT and Claude connectors; usage growing ~40% weekly",
+  "latest_news_date": "May 2026",
+  "latest_news_url": "https://www.read.ai/post/read-ai-mcp-adoption-surges-in-launch-phase",
+  "traction": "5M+ monthly active users, ~1M new users a month; revenue at all-time high Aug 2026",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "0",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Read-AI-Reviews-E10560169.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Broad adoption (5M+ monthly users, viral free tier), but Zoom, Microsoft and Google bundle notetakers and Otter, Fireflies and Granola crowd the category; several universities ban it over privacy.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Read AI launches email-based digital twin, 5M+ MAU (Feb 2026)",
+    "url": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/"
+   },
+   {
+    "label": "GeekWire: Read AI digital twin enters market crowded by Microsoft and Google (Feb 2026)",
+    "url": "https://www.geekwire.com/2026/read-ai-rolls-out-digital-twin-that-can-respond-to-work-emails-and-schedule-meetings/"
+   },
+   {
+    "label": "Lifehacker: AI note-taking apps and privacy; Read AI banned at several universities (Aug 2026)",
+    "url": "https://au.lifehacker.com/privacy/119284/ai-note-taking-apps-are-violating-user-privacy"
+   }
+  ],
+  "hiring_locations": [
+   "Read AI - Seattle",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Hyperbound",
+  "slug": "hyperbound",
+  "site": "https://www.hyperbound.ai",
+  "careers_url": "https://jobs.ashbyhq.com/hyperbound",
+  "what_they_do": "AI sales roleplays, real-call scoring and coaching for enterprise revenue teams",
+  "problem": "Managers can't coach every rep, so new sellers ramp slowly and practice on real buyers instead",
+  "industry": "Sales enablement / AI sales coaching",
+  "stage": "Series A",
+  "last_round": "$15M",
+  "last_round_date": "Sep 2025",
+  "lead_investors": "Peak XV Partners",
+  "total_open_roles": "9",
+  "ops_roles": "Technical Customer Success Manager, Mid-Market",
+  "hiring_trend": "Team +191% YoY (Dealroom); ~36 → ~50 staff May–Aug 2026; doubled headcount last quarter (company)",
+  "headcount": "~45-64",
+  "latest_news": "Named Example Vendor in 2026 Gartner Market Overview for B2B Sales AI Role-Play Applications",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.prnewswire.com/news/hyperbound",
+  "traction": "ARR up 5x in a year, ~20% MoM growth, NRR above 300% (company job posts)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "0",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Hyperbound-Reviews-E11034801.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Pioneered AI sales roleplay and is growing fast with real enterprise logos (LinkedIn, Workday, Intel, Vanta), but it is a ~$18M-funded specialist in a category that Mindtickle, Highspot and Gong-adjacent suites now ship directly to the same enablement buyer.",
+  "distance_sources": [
+   {
+    "label": "Hyperbound Ashby job posts: ARR 5x, NRR >300%, ~45 staff (Oct 2026)",
+    "url": "https://jobs.ashbyhq.com/hyperbound/ffc454ea-b6d8-4111-9c40-84428d3f2b25"
+   },
+   {
+    "label": "Mindtickle launches Real Deal AI Role Plays (Oct 2025)",
+    "url": "https://www.mindtickle.com/news/mindtickle-unveils-ai-innovations-at-elevate-summit-to-close-the-gtm-execution-gap/"
+   },
+   {
+    "label": "Highspot AI Role Play product page",
+    "url": "https://www.highspot.com/product/ai-role-play/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
  }
 ]
