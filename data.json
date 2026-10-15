@@ -3426,7 +3426,7 @@
   "name": "Commas",
   "slug": "commas",
   "site": "https://commas.com",
-  "careers_url": "https://jobs.leftlanecap.com/companies/fanbasis-inc-2",
+  "careers_url": "https://careers.connexacapital.com/companies/fanbasis-inc-2",
   "status": "existing",
   "what_they_do": "Payments, checkout funnels, courses and communities for online sellers (formerly FanBasis)",
   "problem": "Online sellers stitch together many tools to take payments, sell and deliver digital products",
@@ -3434,24 +3434,41 @@
   "stage": "Series A",
   "last_round": "$20M",
   "last_round_date": "May 2025",
-  "lead_investors": "Left Lane Capital",
-  "total_open_roles": "n.a.",
-  "ops_roles": "Risk Onboarding Specialist",
-  "hiring_trend": "Headcount +33% YoY (~107; 50+ in Miami)",
+  "lead_investors": "Left Lane Capital (Connexa Capital, Upside VC, Ryan Serhant, Gerard Piqué joined)",
+  "total_open_roles": "4",
+  "ops_roles": "Fraud & Payments Risk Manager (Miami, on-site); Risk Onboarding Specialist (Miami, on-site); Client Success Associate (Miami, on-site); Collections Specialist (Miami, on-site)",
+  "hiring_trend": "Headcount +33% YoY on LinkedIn (~61 profiles); 4 open roles, all Miami on-site",
   "headcount": "~107",
-  "latest_news": "Ranked No. 2 on 2026 Inc. 5000 after rebrand from FanBasis",
+  "latest_news": "Ranked No. 2 on 2026 Inc. 5000 a month after rebranding from FanBasis",
   "latest_news_date": "Aug 2026",
-  "latest_news_url": "https://ainews.miami/commas-lands-no-2-on-inc-5000",
+  "latest_news_url": "https://ainews.miami/commas-lands-no-2-on-inc-5000/",
   "glassdoor_rating": "",
   "glassdoor_reviews": "",
   "glassdoor_url": "",
-  "traction": "353,929% 3-yr revenue growth (Inc. 5000 #2); $1B+ processed; 15x in 20 months",
-  "red_flags": "",
-  "score": "2.5",
+  "traction": "Inc. 5000 #2: 353,929% 3-yr revenue growth; $1B+ processed (GMV, not revenue)",
+  "red_flags": "Payment-risk exposure: as merchant of record for high-ticket 'make money online' sellers, FanBasis/Commas carries a BBB F rating (150 complaints, 7 unresolved) and a 2.9 Trustpilot score (44% one-star) full of unauthorized-charge and refund complaints; in 2026 it sued sellers (Korvato, Apr; Deluxe Lifestyle, Mar) to recover chargebacks from allegedly fraudulent offers. No regulator action found. No layoffs, down round or exec exodus found. Watch (not scored): PitchBook lists a cancelled Series B.",
+  "score": "2.0",
   "zone": "Steady",
   "keep": "yes",
   "is_new": false,
-  "red_flags_sources": [],
+  "red_flags_sources": [
+   {
+    "label": "BBB profile: F rating, 150 complaints (Oct 2026)",
+    "url": "https://www.bbb.org/us/fl/miami/profile/entertainment/fanbasis-inc-0633-92030916"
+   },
+   {
+    "label": "Trustpilot: FanBasis 2.9/5, 196 reviews",
+    "url": "https://www.trustpilot.com/review/www.fanbasis.com"
+   },
+   {
+    "label": "Trellis: FanBasis v. Korvato (chargeback fraud suit, Apr 2026)",
+    "url": "https://trellis.law/case/12011/cace26006902/fanbasis-inc-vs-korvato-llc-et-al"
+   },
+   {
+    "label": "PitchBook: Series B listed as cancelled",
+    "url": "https://pitchbook.com/profiles/company/540753-58"
+   }
+  ],
   "engine": "Scale",
   "distance": "10K",
   "distance_why": "Payment routing lifts seller revenue, but rivals and processors can copy it.",
@@ -3463,7 +3480,8 @@
   ],
   "hiring_locations": [
    "Miami"
-  ]
+  ],
+  "last_checked": "Oct 15, 2026"
  },
  {
   "name": "Valon",
@@ -29356,5 +29374,188 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Passionfroot",
+  "slug": "passionfroot",
+  "site": "https://www.passionfroot.me",
+  "careers_url": "https://jobs.ashbyhq.com/passionfroot",
+  "what_they_do": "Marketplace and AI agent for B2B brands to find, book and pay creators",
+  "problem": "B2B marketers can't easily find trusted niche creators, run sponsorships at scale, or pay and measure them in one place",
+  "industry": "Creator / B2B influencer marketing",
+  "stage": "Series A",
+  "last_round": "$15M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Insight Partners",
+  "total_open_roles": "10",
+  "ops_roles": "Head of Client Deployment; Customer Success & Operations Analyst; Creator Program Manager",
+  "hiring_trend": "Headcount ~13 → ~19 YoY (Revelio, Q1 2026); 10 open roles, all posted Jul–Sep 2026 after the A (from ~1 a year earlier)",
+  "headcount": "~15-30",
+  "latest_news": "Raised $15M Series A led by Insight Partners; opening New York and São Paulo offices",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+  "traction": "Company says revenue up 13x YoY and profitable; ~$3M revenue (est.); 150+ brands",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Two-sided creator marketplace with real logos (Figma, Replit, ElevenLabs) but a small base, and channel owners now do the same job directly: LinkedIn's 0%-commission Creator Marketplace and Substack sponsorships (Jun 2026), plus beehiiv's larger ad network.",
+  "distance_sources": [
+   {
+    "label": "ProofStory: Passionfroot Series A assessment, LinkedIn/Substack/beehiiv competition (Jul 2026)",
+    "url": "https://proofstory.co/research/passionfroot/index.html"
+   },
+   {
+    "label": "TechCrunch: Passionfroot raises $15M Series A (Jul 2026)",
+    "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "São Paulo",
+   "Berlin",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Lindy",
+  "slug": "lindy",
+  "site": "https://www.lindy.ai",
+  "careers_url": "https://careers.lindy.ai/jobs",
+  "what_they_do": "AI teammate in Slack that answers questions and does multi-step work across your tools",
+  "problem": "Teams lose hours to email, meetings, CRM updates and reporting busywork spread across too many apps",
+  "industry": "AI agents / workplace productivity",
+  "stage": "Series B",
+  "last_round": "$35M",
+  "last_round_date": "Jul 2021",
+  "lead_investors": "Coatue (raised as Teamflow; Menlo, Battery earlier)",
+  "total_open_roles": "8",
+  "ops_roles": "",
+  "hiring_trend": "Shrinking: ~37 staff Dec 2024 → ~25 Jun 2026 → ~two dozen Sep 2026 (about -35%); open roles flat, 6 (Dec 2025) → 8",
+  "headcount": "~25",
+  "latest_news": "Launched Lindy Teammate, a Slack-based AI employee, in Aug 2026",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.einpresswire.com/article/939800675/lindy-provides-an-ai-assistant-for-professionals-that-works-from-slack-and-connects-to-more-than-1-000-tools",
+  "traction": "500K users to date; CEO-claimed 6-figure MRR (Feb 2025); revenue est. $5M-20M",
+  "red_flags": "Laid off marketing staff Jan 2026 in a product pivot; headcount down about a third since Dec 2024 (~37 → ~two dozen). No new primary round since the 2021 Teamflow Series B. CEO called AI costs, which exceeded payroll, a matter of survival (Jun 2026).",
+  "red_flags_sources": [
+   {
+    "label": "WSJ via Mint: Lindy laid off marketing staff in January, ~two dozen employees, $50M raised (Sep 2026)",
+    "url": "https://www.livemint.com/ai/these-tiny-startups-are-getting-even-smaller-with-help-from-ai-11790039895846.html"
+   },
+   {
+    "label": "Getlatka: Lindy headcount 37 on LinkedIn (Dec 2024)",
+    "url": "https://getlatka.com/companies/lindyai"
+   },
+   {
+    "label": "The Decoder: 25-person Lindy says AI costs exceeded payroll, 'a matter of survival' (Jun 2026)",
+    "url": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/"
+   },
+   {
+    "label": "Teamflow press: $35M Series B led by Coatue, last primary round (Jul 2021)",
+    "url": "https://www.teamflowhq.com/press"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "7",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Lindy-Reviews-E9336026.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "A well-known name with broad sign-ups (500K users), but a follower in a crowded agent/assistant category where Slack, Microsoft, OpenAI and Anthropic sell the same AI teammate to the same buyer; it is also shrinking and under inference-cost pressure.",
+  "distance_sources": [
+   {
+    "label": "WSJ via Mint: 500K users, ~two dozen staff (Sep 2026)",
+    "url": "https://www.livemint.com/ai/these-tiny-startups-are-getting-even-smaller-with-help-from-ai-11790039895846.html"
+   },
+   {
+    "label": "The Decoder: AI costs exceeded payroll, switched Claude to DeepSeek (Jun 2026)",
+    "url": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Skydio",
+  "slug": "skydio",
+  "site": "https://www.skydio.com",
+  "careers_url": "https://jobs.ashbyhq.com/skydio",
+  "what_they_do": "US-made autonomous drones, docks and fleet software for public safety, defense and utilities",
+  "problem": "Police, militaries and utilities need eyes on a scene or asset fast, without trained pilots or Chinese-made drones",
+  "industry": "Autonomous drones / public safety & defense tech",
+  "stage": "Series F",
+  "last_round": "$110M",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "Existing investors (undisclosed; prior leads Linse Capital, a16z)",
+  "total_open_roles": "160",
+  "ops_roles": "Senior Business Operations Manager; Senior Strategy and Planning Analyst; Program Manager, Major Deployments; Sr. Operations Specialist – Launch Team",
+  "hiring_trend": "Headcount ~851 → ~972 Q1 2025 to Q1 2026 (Revelio, +14%), ~1,067 Aug 2026 (Tracxn); postings +24% in 2026",
+  "headcount": "~970-1,070",
+  "latest_news": "Ascend 2026: launched F10 Lightrunner fixed-wing drone, MegaDock, Asset and Security Command",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.skydio.com/blog/ascend-2026-f10-lightrunner-megadock-commands",
+  "traction": "~$180M 2024 revenue, +80% YoY (Sacra est.); 3,800+ customers, 1,200+ public safety agencies (doubled YoY)",
+  "red_flags": "Oct 2024 China sanctions cut off its Chinese battery supply; Skydio rationed batteries to one per drone into 2025 and the sanctions remain in force.",
+  "red_flags_sources": [
+   {
+    "label": "Skydio: China's Sanctions on Skydio (Oct 2024)",
+    "url": "https://www.skydio.com/blog/chinas-sanctions-on-skydio"
+   },
+   {
+    "label": "TechCrunch: Skydio faces battery squeeze after Chinese sanctions (Oct 2024)",
+    "url": "https://techcrunch.com/2024/10/31/us-drone-maker-skydio-faces-battery-squeeze-after-chinese-sanctions/"
+   },
+   {
+    "label": "Manufacturing Dive: Skydio still on China's restricted list as it pledges $3.5B US build-out (Apr 2026)",
+    "url": "https://www.manufacturingdive.com/news/skydio-35b-drone-united-states-expansion-skyforge/818398/"
+   }
+  ],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "169",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Skydio-Reviews-E2083694.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "Largest US drone maker and the default NDAA-compliant pick, with 1,000+ public-safety docks, 80% of US multi-drone DFR waivers and a growing software layer; but demand leans on DJI bans and defense policy, rivals (Anduril, Red Cat, BRINC, Flock) are well funded, and the China battery cut-off showed real supply exposure.",
+  "distance_sources": [
+   {
+    "label": "Skydio: Ascend 2026 announcements, 1,000+ docks, 80% of multi-drone waivers (Sep 2026)",
+    "url": "https://www.skydio.com/blog/ascend-2026-f10-lightrunner-megadock-commands"
+   },
+   {
+    "label": "Sourcery: Skydio $110M Series F at $4.4B, 3,800+ customers (Apr 2026)",
+    "url": "https://www.sourcery.vc/p/breaking-skydio-hits-44b-with-110m"
+   },
+   {
+    "label": "Sacra: Skydio at $180M/yr growing 80% YoY (Jul 2025)",
+    "url": "https://sacra.com/research/skydio-at-180m-yr-growing-80-yoy/"
+   }
+  ],
+  "hiring_locations": [
+   "San Mateo",
+   "Hayward",
+   "Zurich",
+   "Remote (Singapore)",
+   "Remote (US)"
+  ]
  }
 ]
