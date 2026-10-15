@@ -28629,5 +28629,63 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Stand",
+  "slug": "stand",
+  "site": "https://standinsurance.com",
+  "careers_url": "https://jobs.ashbyhq.com/standinsurance",
+  "what_they_do": "Physics-modeled homeowners insurance for wildfire-exposed California and hurricane-exposed Florida homes, sold via brokers",
+  "problem": "Homeowners in disaster zones get dropped or priced out by zip-code models, even after hardening their homes",
+  "industry": "Insurtech / catastrophe homeowners insurance",
+  "stage": "Series C",
+  "last_round": "$70M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Saga Ventures",
+  "total_open_roles": "10",
+  "ops_roles": "Head of Catastrophe and Emergency Response (Austin, in-office); Mitigation Engineer (SF, on-site)",
+  "hiring_trend": "Headcount ~45 → ~81 in 12 mo (LinkedIn est., ~+75%); company says ~50 staff; 10 open roles",
+  "headcount": "~50-80",
+  "latest_news": "Raised $70M Series C at $1B valuation led by Saga Ventures; new President and CFO",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/stand-raises-70-million-series-c-at-1-billion-valuation-to-make-the-worlds-homes-resilient-against-natural-disasters-302910105.html",
+  "traction": "Insured value $1B → $10B+ in 12 months; ~15% monthly growth (company-reported)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "6",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-STAND-EI_IE1060327.11,16.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Fast-rising challenger whose physics World Model is a real data edge, but it trails Delos in California wildfire ($10B vs ~$40B insured value), is a newcomer in Florida (~1,000 Citizens takeouts by June 2026), and its loss ratio is untested through a full catastrophe season on fronted Concert Specialty paper.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Stand $70M Series C at $1B; insured value $1B → $10B (Oct 2026)",
+    "url": "https://www.prnewswire.com/news-releases/stand-raises-70-million-series-c-at-1-billion-valuation-to-make-the-worlds-homes-resilient-against-natural-disasters-302910105.html"
+   },
+   {
+    "label": "Insurance Business: Delos manages $40B in total insured value (Nov 2024)",
+    "url": "https://www.insurancebusinessmag.com/us/news/catastrophe/delos-raises-millions-to-expand-wildfire-insurance-512194.aspx"
+   },
+   {
+    "label": "Insurance Journal: Stand Florida launch, ~1,000 Citizens takeouts so far (Jun 2026)",
+    "url": "https://www.insurancejournal.com/news/southeast/2026/06/24/875024.htm"
+   },
+   {
+    "label": "Fortune: CEO says ~15% monthly growth; model backtest is company's own (Oct 2026)",
+    "url": "https://fortune.com/2026/10/15/stand-insurance-wildfire-unicorn-raises-70-million-1-billion-valuation/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Austin",
+   "Remote"
+  ]
  }
 ]
