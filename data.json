@@ -28527,5 +28527,57 @@
    "New York",
    "San Francisco"
   ]
+ },
+ {
+  "name": "Auctor",
+  "slug": "auctor",
+  "site": "https://www.getauctor.com",
+  "careers_url": "https://jobs.ashbyhq.com/auctor",
+  "what_they_do": "AI platform that runs enterprise software implementations, from scoping and discovery to delivery",
+  "problem": "Implementation teams lose requirements and decisions across calls, docs and spreadsheets, so projects slip and overrun budget",
+  "industry": "Professional services / software implementation AI",
+  "stage": "Series A",
+  "last_round": "$20M (seed + Series A combined; ~$19.5M A)",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "Sequoia Capital",
+  "total_open_roles": "11",
+  "ops_roles": "Deployment Strategist; Founding Product Operations Manager; Customer Success Manager; Forward Deployed Engineer",
+  "hiring_trend": "Headcount ~11 → ~45 in 12 mo (LinkedIn, +309% YoY); 11 open roles, all NYC on-site",
+  "headcount": "~45",
+  "latest_news": "Myers-Holum, a top NetSuite partner, expands its Auctor rollout across delivery and managed services",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.getauctor.com/blog/myers-holum",
+  "traction": "Passed seven-figure revenue (Apr 2026); customers include Valiantys and Myers-Holum; team ~4x YoY",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "About 18 months old with seven-figure revenue and a handful of named SI customers; project memory could become lock-in, but some evaluators call it non-essential and Claude/Cowork or in-house AI can copy parts of the workflow.",
+  "distance_sources": [
+   {
+    "label": "Forbes: Auctor raises $20M, passes seven-figure revenue (Apr 2026)",
+    "url": "https://www.forbes.com/sites/davidprosser/2026/04/15/meet-the-start-up-promising-to-end-costly-it-project-failures/"
+   },
+   {
+    "label": "Altis Research: Auctor market analysis (Oct 2026)",
+    "url": "https://www.altis.vc/research/company/auctor"
+   },
+   {
+    "label": "Auctor: Myers-Holum expands partnership (Aug 2026)",
+    "url": "https://www.getauctor.com/blog/myers-holum"
+   }
+  ],
+  "hiring_locations": [
+   "New York"
+  ]
  }
 ]
