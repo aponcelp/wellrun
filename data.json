@@ -28664,5 +28664,60 @@
    "San Francisco",
    "Cambridge"
   ]
+ },
+ {
+  "name": "Ascerta",
+  "slug": "ascerta",
+  "site": "https://ascerta.com",
+  "careers_url": "https://jobs.ashbyhq.com/Pear-VC",
+  "what_they_do": "Measures enterprise AI cost, adoption and ROI by team, tool and use case",
+  "problem": "Enterprises spend heavily on AI but can't tell which tools, agents and initiatives actually pay off",
+  "industry": "Enterprise AI management / AI FinOps",
+  "stage": "Series A",
+  "last_round": "$18M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Dell Technologies Capital",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "Small: ~15 staff (+40% YoY on LinkedIn, est.); plans ~40 by end 2027; 2 eng roles open",
+  "headcount": "~15",
+  "latest_news": "Pay-i rebranded as Ascerta and raised $18M Series A led by Dell Technologies Capital",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.geekwire.com/2026/pay-i-rebrands-as-ascerta-and-raises-18m-to-help-enterprises-track-ai-business-value/",
+  "traction": "Named customers Atos, Wipro, global insurers; company-claimed 47% ROI lift; ARR undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Pay-i-Reviews-E10702049.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "A 15-person Series A with a few named logos (Atos, Wipro) and only company-reported results, in a crowded AI-cost and AI-ROI field where CloudZero (~$42M ARR), Larridin and IBM Apptio sell to the same CFOs and CIOs.",
+  "distance_sources": [
+   {
+    "label": "GeekWire: Pay-i rebrands as Ascerta, raises $18M; 15 employees, customers (Sep 2026)",
+    "url": "https://www.geekwire.com/2026/pay-i-rebrands-as-ascerta-and-raises-18m-to-help-enterprises-track-ai-business-value/"
+   },
+   {
+    "label": "Sacra: CloudZero at $42M ARR growing 757% YoY (Mar 2026)",
+    "url": "https://sacra.com/research/cloudzero-at-42m-arr-growing-757-yoy/"
+   },
+   {
+    "label": "AI Economics Hub: AI economics vendor map (Oct 2026)",
+    "url": "https://aieconomicshub.com/vendor-map"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "SF Bay Area",
+   "Remote"
+  ]
  }
 ]
