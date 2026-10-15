@@ -27709,5 +27709,61 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "ClickHouse",
+  "slug": "clickhouse",
+  "site": "https://clickhouse.com",
+  "careers_url": "https://jobs.ashbyhq.com/clickhouse",
+  "what_they_do": "Open-source real-time analytics database and managed cloud for analytics, observability and AI",
+  "problem": "Teams need to query billions of rows in milliseconds without warehouse-sized bills or slow dashboards",
+  "industry": "Data infrastructure / real-time analytics database",
+  "stage": "Series D",
+  "last_round": "$400M",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "Dragoneer Investment Group (extension added J.P. Morgan Private Capital, BDT & MSD, Craft Ventures, 20VC)",
+  "total_open_roles": "198",
+  "ops_roles": "Director, Americas Field Operations; Director, Partner Programs & Operations; Senior Analyst, Revenue Operations (Strategy & Planning); Manager, Commercial Operations",
+  "hiring_trend": "Nearly 800 staff (Sep 2026), targeting 1,000 by year-end; LinkedIn ~738, about 2x YoY; 198 open postings (193 on Sep 23)",
+  "headcount": "~800",
+  "latest_news": "Named ex-Snowflake CFO Mike Scarpelli to board as run-rate revenue passed $350M",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://clickhouse.com/blog/clickhouse-appoints-mike-scarpelli-to-board-of-directors",
+  "traction": "$350M+ run-rate revenue (Sep 2026), up from ~$200M end of 2025; 4,000+ customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "28",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/ClickHouse-Reviews-E6022924.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "The leading open-source real-time analytics database, tripling revenue to $350M+ with 4,000+ customers and new Postgres and observability lines; still smaller than Snowflake, Databricks and Datadog, with 50–70% gross margins and big AI-lab customers.",
+  "distance_sources": [
+   {
+    "label": "ClickHouse: Scarpelli joins board; $350M+ run-rate, ~800 staff (Sep 2026)",
+    "url": "https://clickhouse.com/blog/clickhouse-appoints-mike-scarpelli-to-board-of-directors"
+   },
+   {
+    "label": "TechCrunch: ClickHouse triples annualized revenue to $250M (May 2026)",
+    "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/"
+   },
+   {
+    "label": "Dealroom: ClickHouse ARR passes $350M; gross margins 50–70% (Aug 2026)",
+    "url": "https://dealroom.co/news/146838-clickhouse-arr-passes-350m-as-ai-agents-fuel-database-demand/"
+   }
+  ],
+  "hiring_locations": [
+   "The Netherlands",
+   "San Francisco",
+   "AMER",
+   "Remote (US)",
+   "Remote (Europe)"
+  ]
  }
 ]
