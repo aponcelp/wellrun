@@ -23267,52 +23267,6 @@
   "hiring_locations": []
  },
  {
-  "name": "Topview",
-  "slug": "topview",
-  "site": "https://www.topview.ai",
-  "careers_url": "",
-  "what_they_do": "AI video agent that makes product ads and short films from a link, script or reference video",
-  "problem": "E-commerce brands and agencies need a constant stream of video ads but shoots and editors are slow and costly",
-  "industry": "Generative AI / video ads",
-  "stage": "Series A",
-  "last_round": "$5.5M (extension; $14M total Series A)",
-  "last_round_date": "Feb 2026",
-  "lead_investors": "Kamet Capital",
-  "total_open_roles": "n.a.",
-  "ops_roles": "",
-  "hiring_trend": "Team said it nearly doubled to ~160 in 2025 (company post); other sources say 40-100; no public job board (Wantedly Japan postings only)",
-  "headcount": "~50-160 (sources conflict)",
-  "latest_news": "Launched Topview 4.0 collaborative workspace; extended Series A to $14M",
-  "latest_news_date": "Feb 2026",
-  "latest_news_url": "https://techstartups.com/2026/02/09/topview-unveils-collaborative-ai-content-platform-after-raising-5-5m-and-reaching-5m-users/",
-  "traction": "5M+ users making 500K+ videos/day; brands incl. Anker, Samsung, L'Oréal; ~$3M ARR late 2025 (est.); #29 on a16z Top 50 Consumer AI Apps by revenue (Oct 2026)",
-  "red_flags": "",
-  "red_flags_sources": [],
-  "score": "1.75",
-  "zone": "Warm-up",
-  "status": "new",
-  "glassdoor_rating": "",
-  "glassdoor_reviews": "",
-  "glassdoor_url": "",
-  "keep": "yes",
-  "is_new": true,
-  "last_checked": "Oct 14, 2026",
-  "engine": "None yet",
-  "distance": "10K",
-  "distance_why": "Fast user growth, but a crowded AI-ads category (Creatify, Arcads, HeyGen, InVideo) and a product built on third-party models like Sora 2 and Seedance that their makers also sell directly.",
-  "distance_sources": [
-   {
-    "label": "TechStartups: Topview 4.0, 5M users, $14M Series A (Feb 2026)",
-    "url": "https://techstartups.com/2026/02/09/topview-unveils-collaborative-ai-content-platform-after-raising-5-5m-and-reaching-5m-users/"
-   },
-   {
-    "label": "Dealroom: TopView Viral Video Agent built on Sora 2",
-    "url": "https://dealroom.co/companies/topview-ai"
-   }
-  ],
-  "hiring_locations": []
- },
- {
   "name": "NovelAI",
   "slug": "novelai",
   "site": "https://novelai.net",
@@ -24028,61 +23982,6 @@
    "Tokyo",
    "Remote"
   ]
- },
- {
-  "name": "Reface",
-  "slug": "reface",
-  "site": "https://reface.ai",
-  "careers_url": "https://jobs.dou.ua/companies/reface/vacancies/",
-  "what_they_do": "Kyiv-based studio of AI photo and video apps: face swap, avatars, AI tattoos, virtual pets",
-  "problem": "Consumers want fun, personalized photo and video content without editing skills",
-  "industry": "Consumer AI apps",
-  "stage": "Seed (+ revenue-based debt)",
-  "last_round": "$18M (non-dilutive user-acquisition financing)",
-  "last_round_date": "Dec 2025",
-  "lead_investors": "PvX Partners (debt); a16z (2020 seed)",
-  "total_open_roles": "1",
-  "ops_roles": "",
-  "hiring_trend": "Rebuilt after cuts: ~105 staff after Dec 2024 layoffs, ~150 by Dec 2025 (DOU), 'team of 200' (May 2026); 1 open role on its DOU page",
-  "headcount": "~200",
-  "latest_news": "Secured $18M non-dilutive user-acquisition funding from PvX Partners",
-  "latest_news_date": "Dec 2025",
-  "latest_news_url": "http://eu-startups.com/2025/12/andreessen-horowitz-backed-ukrainian-ai-app-studio-reface-secures-e15-2-million-in-non-dilutive-user-acquisition-funding",
-  "traction": "#18 on a16z Top 50 consumer AI by revenue (Oct 2026); 4 apps, 300M+ downloads; ~$26.5M revenue (Dealroom est.)",
-  "red_flags": "Laid off 35% of staff (60 people) in Dec 2024 to reach profitability.",
-  "red_flags_sources": [
-   {
-    "label": "AIN.UA: Reface cutting 35% of workforce, 60 employees (Dec 2024)",
-    "url": "https://en.ain.ua/2024/12/03/reface-is-cutting-60-employees/"
-   },
-   {
-    "label": "dev.ua: Reface resumed hiring, team back to ~150 (Dec 2025)",
-    "url": "https://dev.ua/en/news/reface-vidnovyla-naim-pislia-zvilnen-i-narostyla-komandu-do-150-liudei-1765528895"
-   }
-  ],
-  "score": "1.25",
-  "zone": "Warm-up",
-  "status": "new",
-  "glassdoor_rating": "4.6",
-  "glassdoor_reviews": "13",
-  "glassdoor_url": "https://www.glassdoor.com/Reviews/Reface-Reviews-E5177405.htm",
-  "keep": "yes",
-  "is_new": true,
-  "last_checked": "Oct 14, 2026",
-  "engine": "None yet",
-  "distance": "10K",
-  "distance_why": "A pioneer of viral face swap with 300M+ downloads, but its apps are easy to clone, it depends on paid user acquisition, and it is rebuilding after a 2024 layoff.",
-  "distance_sources": [
-   {
-    "label": "UA Tech Journal: Reface $18M revenue-share deal for user acquisition (Dec 2025)",
-    "url": "https://www.uatechjournal.com/reface-secures-18m-revenue-share-deal-for-user-acquisition/"
-   },
-   {
-    "label": "Dealroom: Reface profile (est. revenue)",
-    "url": "https://app.dealroom.co/companies/refaceai"
-   }
-  ],
-  "hiring_locations": []
  },
  {
   "name": "Manus",
