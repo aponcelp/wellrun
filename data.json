@@ -27659,5 +27659,55 @@
    "Remote (India)",
    "Remote (Mexico)"
   ]
+ },
+ {
+  "name": "Mate",
+  "slug": "mate",
+  "site": "https://usemate.ai",
+  "careers_url": "https://apply.workable.com/usemate/",
+  "what_they_do": "AI agents that find, target and convert high-intent shoppers for ecommerce brands",
+  "problem": "With ad tracking gone, brands can't see who is in market or reach them affordably outside paid social",
+  "industry": "Ecommerce marketing / shopper data & ad network",
+  "stage": "Series A",
+  "last_round": "$15M",
+  "last_round_date": "May 2023",
+  "lead_investors": "GV",
+  "total_open_roles": "6",
+  "ops_roles": "Senior Customer Success Manager; Senior Brand Success Manager",
+  "hiring_trend": "Headcount ~82, +6.5% YoY (LinkedIn); open roles ~3 (Oct 2025) → 6 now",
+  "headcount": "~82",
+  "latest_news": "Checkmate (Checkmate Intelligence) launched mate publicly: 700+ brands, ~$15M run rate, profitable",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.einpresswire.com/article/933984816/mate-comes-out-of-b2b-stealth-with-700-top-brands-and-a-15m-run-rate-the-ai-growth-teammate-for-marketing-teams",
+  "traction": "~$15M run rate by end-2026 (from $10M Jan 2026), profitable; 700+ brands",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Two-sided loop of 100M+ shoppers on the Checkmate app/extension and 700+ brands, profitable with fast growth; but it trails Honey, Rakuten and Capital One Shopping on the consumer side and depends on Chrome and App Store rules for extensions and affiliate links.",
+  "distance_sources": [
+   {
+    "label": "EIN Presswire: Mate comes out of stealth with 700+ brands and ~$15M run rate (Aug 2026)",
+    "url": "https://www.einpresswire.com/article/933984816/mate-comes-out-of-b2b-stealth-with-700-top-brands-and-a-15m-run-rate-the-ai-growth-teammate-for-marketing-teams"
+   },
+   {
+    "label": "Rory Garton-Smith: Performance Network launch, $10M run rate, revenue +400% in 20 weeks (Jan 2026)",
+    "url": "https://www.linkedin.com/posts/rorygartonsmith_today-were-officially-launching-checkmate-activity-7421952638650359808-bkbA"
+   },
+   {
+    "label": "Chrome for Developers: affiliate-ads policy tightened for coupon extensions (Mar 2025)",
+    "url": "https://developer.chrome.com/blog/cws-policy-update-affiliate-ads-2025"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
