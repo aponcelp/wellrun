@@ -29113,5 +29113,130 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Array",
+  "slug": "array",
+  "site": "https://array.com",
+  "careers_url": "https://boards.greenhouse.io/array",
+  "what_they_do": "White-label credit, identity protection and money tools embedded in banks and fintech apps",
+  "problem": "Banks and fintechs want credit scores, ID protection and debt tools in-app without building them for 18 months",
+  "industry": "Embedded fintech / consumer credit & identity",
+  "stage": "Series B",
+  "last_round": "$123M",
+  "last_round_date": "Jan 2022",
+  "lead_investors": "Not disclosed (backers incl. General Catalyst, Battery Ventures, Nyca Partners)",
+  "total_open_roles": "18",
+  "ops_roles": "Client Success Manager; Lead Deployment Engineer; Senior Deployment Engineer; Senior Project Associate",
+  "hiring_trend": "Headcount ~320, +15% YoY (LinkedIn data); 18 open roles, mostly remote US/Canada",
+  "headcount": "~320",
+  "latest_news": "Acquired Hansa to add business credit tools; sixth acquisition since Oct 2024",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/10/15/3381590/0/en/array-acquires-hansa-to-expand-credit-and-financial-wellness-tools-to-business-owners.html",
+  "traction": "Revenue est. $50–100M (Dealroom); staff +15% YoY; Jack Henry and Narmi distribution deals",
+  "red_flags": "Minor, not scored: Glassdoor 3.0/132 with a Sep 2026 review describing non-transparent, budget-driven layoffs (headcount still growing). Ex-CSO lawsuit was dismissed in Array's favor (Nov 2025), so not counted.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor review: lack of transparency in layoffs (Sep 2026)",
+    "url": "https://www.glassdoor.ie/Reviews/Employee-Review-Array-NY-E3721573-RVW105519421.htm"
+   },
+   {
+    "label": "Glassdoor: Array (NY) reviews, 3.0 from 132",
+    "url": "https://www.glassdoor.com/Reviews/Array-NY-Reviews-E3721573.htm"
+   },
+   {
+    "label": "Business Insider: ex-exec's claim against Array thrown out (Oct 2025)",
+    "url": "https://www.businessinsider.com/jason-owen-array-lawsuit-martin-toha-2025-10"
+   }
+  ],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.0",
+  "glassdoor_reviews": "132",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Array-NY-Reviews-E3721573.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky once embedded and widening by acquisition (debt, home value, business credit), but it resells credit-bureau data into a crowded market where the bureaus and rivals sell the same white-label tools to the same banks.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: Array acquires Hansa (Oct 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/15/3381590/0/en/array-acquires-hansa-to-expand-credit-and-financial-wellness-tools-to-business-owners.html"
+   },
+   {
+    "label": "GlobeNewswire: Array acquires Chimney (Feb 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/02/10/3235481/0/en/array-acquires-chimney-to-expand-digital-financial-tools-for-institutions.html"
+   },
+   {
+    "label": "Tracxn: Array profile, 25 active competitors",
+    "url": "https://tracxn.com/d/companies/array/__746WYVp-Qed53AuktijnqGlL057jud2ZB6r4fbLV4iA"
+   }
+  ],
+  "hiring_locations": [
+   "Canada",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Alloy Automation",
+  "slug": "alloy-automations",
+  "site": "https://runalloy.com",
+  "careers_url": "https://apply.workable.com/alloy-automation/",
+  "what_they_do": "Embedded integrations, connectivity API and MCP tools linking SaaS apps and AI agents",
+  "problem": "Software teams burn engineering time building and maintaining integrations to ERPs, commerce and business apps",
+  "industry": "Embedded iPaaS / AI integrations",
+  "stage": "Series A",
+  "last_round": "$20M",
+  "last_round_date": "Feb 2022",
+  "lead_investors": "Andreessen Horowitz",
+  "total_open_roles": "0",
+  "ops_roles": "",
+  "hiring_trend": "Shrinking: ~40 → 32 staff 2023–2026 (Revelio); 0 open roles",
+  "headcount": "~32",
+  "latest_news": "Co-founder and ex-CEO Sara Du launched Ando; co-founder Gregg Mojica runs Alloy",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/09/24/3368344/0/en/ando-launches-agent-native-messaging-platform-announces-20-million-seed.html",
+  "traction": "Customers incl. Amazon, Best Buy, Mastercard (company claims); revenue est. ~$4–6M",
+  "red_flags": "Shrinking headcount (~40 in 2023 → 32 in Q1 2026; Q1 2026 vs Q1 2025 37 → 32) with Glassdoor reviews (Aug–Dec 2025) describing recurring layoffs and team reshuffles. Co-founder/CEO Sara Du left in 2025 to start Ando.",
+  "red_flags_sources": [
+   {
+    "label": "Revelio Labs: Alloy Automation headcount 40 → 32 (2023–2026)",
+    "url": "https://www.reveliolabs.com/companies/alloy-automation/employees"
+   },
+   {
+    "label": "Glassdoor: leadership reviews citing quarterly layoffs and CEO departure (2025)",
+    "url": "https://www.glassdoor.co.uk/Reviews/Alloy-Automation-leadership-Reviews-EI_IE5253530.0,16_KH17,27.htm"
+   },
+   {
+    "label": "GlobeNewswire: Ando launch, founded by ex-Alloy Automation founder Sara Du (Sep 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/09/24/3368344/0/en/ando-launches-agent-native-messaging-platform-announces-20-million-seed.html"
+   }
+  ],
+  "score": "0",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "38",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Alloy-Automation-Reviews-E5253530.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Integrations stick once embedded, but a ~30-person follower in a crowded embedded-iPaaS and MCP field (Paragon, Merge, Workato) with a shrinking team and a pivot to agents.",
+  "distance_sources": [
+   {
+    "label": "Truto: Alloy Automation alternatives for MCP connectivity (Apr 2026)",
+    "url": "https://truto.one/blog/top-alloy-automation-alternatives-for-ai-agent-mcp-connectivity-in-2026"
+   },
+   {
+    "label": "Revelio Labs: Alloy Automation headcount",
+    "url": "https://www.reveliolabs.com/companies/alloy-automation/employees"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
