@@ -28719,5 +28719,189 @@
    "SF Bay Area",
    "Remote"
   ]
+ },
+ {
+  "name": "Crossmint",
+  "slug": "crossmint",
+  "site": "https://www.crossmint.com",
+  "careers_url": "https://crossmint.na.teamtailor.com/jobs",
+  "what_they_do": "APIs for wallets, stablecoin payments, onramps and AI-agent checkout",
+  "problem": "Fintechs and agent builders need wallets, stablecoin rails and agent payments without stitching together several vendors",
+  "industry": "Stablecoin & wallet infrastructure / agentic payments",
+  "stage": "Series A",
+  "last_round": "$23.6M",
+  "last_round_date": "Mar 2025",
+  "lead_investors": "Ribbit Capital",
+  "total_open_roles": "7",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~79, +27% YoY (LinkedIn); open roles flat, 6 → 7 since Apr 2026",
+  "headcount": "~76-79",
+  "latest_news": "Launched Agent Commerce Toolkit so AI agents can pay with any card and check out online",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/crossmint-launches-agent-commerce-toolkit-enabling-ai-agents-to-pay-with-any-card-and-check-out-online-through-one-integration-302901649.html",
+  "traction": "Subscription revenue +1,100% in 2024 and 40,000+ clients (company claims)",
+  "red_flags": "Sep 2026 The Block investigation: Crossmint coded meme-coin card purchases (Fomo, Robinhood Wallet) as digital goods (MCC 5815), dodging crypto rules; Chase filed a case with Visa, Visa told processors to stop, NY AG said it was reviewing. Crossmint says it has received no formal inquiry.",
+  "red_flags_sources": [
+   {
+    "label": "CoinMarketCap: Visa moves to close Crossmint meme coin rewards loophole (Sep 2026)",
+    "url": "https://coinmarketcap.com/academy/article/visa-moves-to-close-crossmint-meme-coin-credit-card-rewards-loopholevisa-moves-to-close-crossmint-meme-coin-credit-card-rewards-loophole"
+   },
+   {
+    "label": "Gate News: Crossmint memecoin card purchases bypass Visa crypto rules (Sep 2026)",
+    "url": "https://www.gate.com/news/detail/crossmint-enables-credit-card-memecoin-purchases-on-fomo-and-robinhood-23932806"
+   },
+   {
+    "label": "Crossmint: Statement regarding Crossmint Checkout (Sep 2026)",
+    "url": "https://www.crossmint.com/statements/statement-regarding-crossmint-checkout"
+   }
+  ],
+  "score": "1.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "4.7",
+  "glassdoor_reviews": "13",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Crossmint-Reviews-E6838459.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Broad all-in-one stablecoin and agent-payments stack with real logos (MoneyGram, Western Union, Fomo), but a follower in a consolidating category where Stripe (Bridge, Privy), Coinbase, Fireblocks and Mastercard (BVNK) own rivals; card-network rule exposure shown by the Sep 2026 Visa MCC episode.",
+  "distance_sources": [
+   {
+    "label": "Crossmint: Privy vs Crossmint (Stripe acquired Privy Jun 2025)",
+    "url": "https://www.crossmint.com/learn/privy-vs-crossmint"
+   },
+   {
+    "label": "DCP: Agentic wallets compared, category consolidating (Jul 2026)",
+    "url": "https://dcpagent.com/blog/agentic-wallets-compared"
+   },
+   {
+    "label": "Crossmint: Global onramp launch, Fomo $4B+ volume via Checkout (Aug 2026)",
+    "url": "https://www.crossmint.com/announcement/launching-a-global-onramp-that-just-works"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Atticus",
+  "slug": "atticus",
+  "site": "https://www.atticus.com",
+  "careers_url": "https://jobs.ashbyhq.com/atticus",
+  "what_they_do": "Tech-enabled law firm getting people disability, workers' comp, VA and injury benefits",
+  "problem": "Sick or injured people can't navigate benefit red tape or find a good lawyer, so most never claim aid",
+  "industry": "Consumer legal services / legal tech",
+  "stage": "Series C",
+  "last_round": "$50M",
+  "last_round_date": "Apr 2025",
+  "lead_investors": "Not disclosed (GV, Forerunner, True Ventures, Fika on cap table)",
+  "total_open_roles": "15",
+  "ops_roles": "Business Operations Lead",
+  "hiring_trend": "Team 89 → 151 (2024) → 210 (2025) per company; ~227-241 on PitchBook/Tracxn; 15 open roles, all remote",
+  "headcount": "~210-240",
+  "latest_news": "Judge lets lawyer's challenge to Atticus's ATTICUS trademark proceed; anti-SLAPP motion denied",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.dailyjournal.com/articles/393803-judge-lets-atticus-trademark-challenge-proceed",
+  "traction": "~$90M revenue run-rate, disability arm profitable (company, 2025); 100,000+ clients a year; Tracxn est. ~$81M revenue",
+  "red_flags": "Federal suit (Atticus Injury Law v. Atticus Labs, C.D. Cal., filed Feb 2026) seeks to cancel the ATTICUS mark and alleges Atticus operates as an uncertified lawyer referral service; Aug 2026 ruling kept abandonment, naked-licensing and fraudulent-procurement claims alive and denied anti-SLAPP.",
+  "red_flags_sources": [
+   {
+    "label": "Daily Journal: Judge lets Atticus trademark challenge proceed (Aug 2026)",
+    "url": "https://www.dailyjournal.com/articles/393803-judge-lets-atticus-trademark-challenge-proceed"
+   },
+   {
+    "label": "Daily Journal: Trademark fight over Atticus name tests legal ethics, venture funding (Jul 2026)",
+    "url": "https://www.dailyjournal.com/articles/393353-trademark-fight-over-atticus-name-tests-legal-ethics-venture-funding"
+   },
+   {
+    "label": "Justia docket: Atticus Injury Law v. Atticus Labs, 8:26-cv-00362",
+    "url": "https://dockets.justia.com/docket/california/cacdce/8%3A2026cv00362/1007158"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "52",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Atticus-Law-Reviews-E5154661.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "Calls itself the #1 platform for disability benefits, with 100,000+ clients a year, ~22,000 Trustpilot reviews and a profitable core; but it competes with thousands of local disability firms, and its referral-fee model and trademark are under legal challenge.",
+  "distance_sources": [
+   {
+    "label": "Atticus Ashby job post: $50M Series C, ~$90M run-rate, disability profitable",
+    "url": "https://jobs.ashbyhq.com/atticus/37661fa1-aef8-4cb3-854d-7bc5e8e7fc3d"
+   },
+   {
+    "label": "Trustpilot: Atticus reviews (4.9, 22K)",
+    "url": "https://www.trustpilot.com/review/atticus.com"
+   },
+   {
+    "label": "Daily Journal: Judge lets Atticus trademark challenge proceed (Aug 2026)",
+    "url": "https://www.dailyjournal.com/articles/393803-judge-lets-atticus-trademark-challenge-proceed"
+   }
+  ],
+  "hiring_locations": [
+   "Los Angeles",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Bluesky",
+  "slug": "bluesky",
+  "site": "https://bsky.social",
+  "careers_url": "https://bsky.social/about/join",
+  "what_they_do": "Decentralized social network (Bluesky app) built on the open AT Protocol",
+  "problem": "People and developers are locked into social platforms one owner controls, with no say over feeds or data",
+  "industry": "Social media / open social protocol",
+  "stage": "Series B",
+  "last_round": "$100M",
+  "last_round_date": "Apr 2025",
+  "lead_investors": "Bain Capital Crypto",
+  "total_open_roles": "6",
+  "ops_roles": "",
+  "hiring_trend": "Team 42 (Mar 2026) → ~50 (Aug 2026) per CEO; Revelio ~71, +6.5% YoY; 6 open roles, all remote",
+  "headcount": "~50",
+  "latest_news": "Toni Schneider named permanent CEO after four months as interim; founder Jay Graber now CIO",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim",
+  "traction": "Registered users 25.9M → 41.2M in 2025 (+60%), ~46M now; mobile MAU down 27% YoY; revenue under $1M",
+  "red_flags": "Shrinking core usage: mobile MAU 10.4M in Jun 2026, down 27% YoY and ~52% from the Q4 2024 peak; DAU down ~26% YoY (Similarweb). Founder-CEO Jay Graber stepped down Mar 2026 (stayed as Chief Innovation Officer); noted, not deducted.",
+  "red_flags_sources": [
+   {
+    "label": "TechCrunch: Bluesky's active user base is shrinking (Aug 2026)",
+    "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/"
+   },
+   {
+    "label": "Reuters: Bluesky CEO Jay Graber steps down (Mar 2026)",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/bluesky-ceo-jay-graber-steps-down-advisor-toni-schneider-named-interim-chief-2026-03-09/"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Distant follower to X (~302M MAU) and Threads (147M DAU, growing) with app usage roughly halved since its 2024 peak and no business model yet; the open AT Protocol ecosystem (~1,000 daily active apps) is the long-term bet.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Bluesky's active user base is shrinking (Aug 2026)",
+    "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/"
+   },
+   {
+    "label": "Bluesky blog: $100M Series B (Mar 2026)",
+    "url": "https://bsky.social/about/blog/03-19-2026-series-b"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
