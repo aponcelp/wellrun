@@ -29054,5 +29054,64 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Veriff",
+  "slug": "veriff",
+  "site": "https://www.veriff.com",
+  "careers_url": "https://www.veriff.com/careers/open-positions",
+  "what_they_do": "AI identity verification, biometric authentication, KYB and fraud checks for online businesses",
+  "problem": "Online platforms must verify real users worldwide and stop deepfake and ID fraud without slowing honest sign-ups",
+  "industry": "Identity verification / fraud & compliance",
+  "stage": "Series C",
+  "last_round": "$100M",
+  "last_round_date": "Jan 2022",
+  "lead_investors": "Tiger Global, Alkeon",
+  "total_open_roles": "10",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~686 Q1 2026 (Revelio), flat YoY after +5% in 2025; active postings 57 → 77 (2025 → 2026)",
+  "headcount": "~690",
+  "latest_news": "TopTech 2026 ranking marks Veriff at a modelled €1.81B, Estonia's #3 tech company",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://theinference.org/article/the-secondary-fund-behind-estonia-s-tech-ranking-just-put-veriff-back-at-1-8-billion",
+  "traction": "Over $100M revenue, doubled in 2025 and profitable (company claim); Uber, Instacart, Western Union",
+  "red_flags": "Nov 2025 breach: a phished employee login exposed ID images of ~8,583 Total Wireless customers; class actions filed Jan 2026, consolidated in S.D.N.Y. (pending). No primary round since Jan 2022.",
+  "red_flags_sources": [
+   {
+    "label": "Justia: Reed v. Veriff OU et al., 1:26-cv-00465 (S.D.N.Y., Jan 2026)",
+    "url": "https://dockets.justia.com/docket/new-york/nysdce/1:2026cv00465/656432"
+   },
+   {
+    "label": "Top Class Actions: Multiple class actions claim Total Wireless, Veriff failed to protect PII (Mar 2026)",
+    "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/multiple-class-actions-claim-total-wireless-veriff-failed-to-protect-customer-pii-in-data-breach"
+   },
+   {
+    "label": "California AG: Total Wireless notice of Veriff data security incident",
+    "url": "https://oag.ca.gov/system/files/EXPERIAN_Job48255d18_VER_L01_DBM-5461_SAS_1.pdf"
+   }
+  ],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "2.9",
+  "glassdoor_reviews": "182",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Veriff-Reviews-E2556702.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "A top-tier global IDV vendor at $100M+ revenue and profitable, with broad adoption (Uber, Instacart, Western Union, Bumble) and a cross-merchant fraud signal from 1B+ checks; but Persona leads the Gartner MQ, the market is crowded (Jumio, Socure, Sumsub, Incode) and the 2025 breach dents a trust product.",
+  "distance_sources": [
+   {
+    "label": "Veriff: Doubles revenue at a scale of $100M, profitable (Dec 2025)",
+    "url": "https://www.veriff.com/pr-news/veriff-doubles-revenue-of-100m-usd"
+   },
+   {
+    "label": "Gartner: Magic Quadrant for Identity Verification, 12 vendors incl. Veriff (Jul 2026)",
+    "url": "https://www.gartner.com/en/documents/8184729"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
