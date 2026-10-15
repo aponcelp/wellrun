@@ -28995,5 +28995,64 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Wyllo",
+  "slug": "wyllo",
+  "site": "https://wyllo.ai",
+  "careers_url": "https://jobs.gem.com/nofraud",
+  "what_they_do": "Fraud, chargeback and return-abuse screening for ecommerce brands, from checkout to refunds",
+  "problem": "Online stores lose margin to payment fraud, chargebacks and return/refund abuse, and manual review slows good customers",
+  "industry": "Ecommerce fraud & risk intelligence",
+  "stage": "PE-backed (growth equity)",
+  "last_round": "Undisclosed",
+  "last_round_date": "Dec 2020",
+  "lead_investors": "PSG (Providence Strategic Growth)",
+  "total_open_roles": "5",
+  "ops_roles": "GTM Operations Manager (US Remote)",
+  "hiring_trend": "Old NoFraud LinkedIn page ~68 → 50 (Oct 2024 to Sep 2026, -17% YoY, Crustdata); staff moved to a new Wyllo page in Apr 2026 (70-80), so net trend is roughly flat after adding Yofi's ~17; 5 open roles",
+  "headcount": "~50-80",
+  "latest_news": "NoFraud rebranded as Wyllo after acquiring return-abuse platform Yofi (Oct 2025)",
+  "latest_news_date": "Mar 2026",
+  "latest_news_url": "https://wyllo.ai/nofraud-rebrands-as-wyllo-introducing-a-cx-first-approach-to-ecommerce-risk-intelligence/",
+  "traction": "~$19M revenue (Tracxn est.); Shopify app 4.8 stars (163 reviews); customers incl. Everlane, HexClad, Caraway",
+  "red_flags": "Not scored: headcount on the legacy NoFraud LinkedIn page fell from ~68 to 50 (-17% YoY, -26% over 2 yrs) per Crustdata. Part of the drop comes from staff moving to the new Wyllo page in Apr 2026, but it was already falling before Yofi. No layoffs, lawsuits or down round found.",
+  "red_flags_sources": [
+   {
+    "label": "Crustdata: NoFraud headcount 50, -16.7% YoY (Sep 2026)",
+    "url": "https://crustdata.com/profiles/company/nofraud"
+   },
+   {
+    "label": "Glassdoor: NoFraud reviews, 3.4 from 31 reviews",
+    "url": "https://www.glassdoor.com/Reviews/NoFraud-Reviews-E1975626.htm"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.4",
+  "glassdoor_reviews": "31",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/NoFraud-Reviews-E1975626.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Well-reviewed SMB/mid-market Shopify fraud tool and a newer returns-abuse line from Yofi, but it trails Signifyd, Riskified and Forter in ecommerce fraud. Shopify's built-in fraud tools are a platform risk, and headcount is soft.",
+  "distance_sources": [
+   {
+    "label": "Wyllo: NoFraud rebrands as Wyllo after Yofi deal (Mar 2026)",
+    "url": "https://wyllo.ai/nofraud-rebrands-as-wyllo-introducing-a-cx-first-approach-to-ecommerce-risk-intelligence/"
+   },
+   {
+    "label": "Shopify App Store: Wyllo listing, 4.8 stars from 163 reviews, pricing",
+    "url": "https://apps.shopify.com/nofraud-chargeback-prevention-and-protection"
+   },
+   {
+    "label": "In/organic Podcast: Scott Gifis on the Yofi tuck-in (Apr 2026)",
+    "url": "https://www.inorganicpodcast.co/p/e53-from-no-fraud-to-wyllo-a-13b"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
