@@ -28428,5 +28428,104 @@
    "New York",
    "Remote"
   ]
+ },
+ {
+  "name": "Corridor",
+  "slug": "corridor",
+  "site": "https://corridoradvisors.com",
+  "careers_url": "https://jobs.ashbyhq.com/corridor-advisors",
+  "what_they_do": "Health benefits brokerage for small employers, run by licensed advisors backed by AI agents",
+  "problem": "Small businesses overpay for weaker health plans because big brokers won't serve small, low-commission accounts well",
+  "industry": "Employee benefits brokerage / insurtech",
+  "stage": "Seed",
+  "last_round": "$25M (pre-seed + seed combined; $16M new seed)",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Bain Capital Ventures",
+  "total_open_roles": "4",
+  "ops_roles": "Strategy & Operations Lead",
+  "hiring_trend": "Founded early 2026, ~12 staff (LinkedIn); 4 roles posted since Sep 2026 launch",
+  "headcount": "~12",
+  "latest_news": "Launched with $25M led by Bain Capital Ventures to scale AI benefits brokerage",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+  "traction": "First advisor built a seven-figure book in under a year; clients save ~20% (company claim)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Months-old brokerage with one advisor's seven-figure book and no client count; renewals could become lock-in, but Nava, Ignition, PEOs and payroll firms already chase the same small employers.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Corridor raises $25M seed; names Ignition and Nava as rivals (Sep 2026)",
+    "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/"
+   },
+   {
+    "label": "Corridor job post: first advisor's seven-figure book; PEO and payroll competition (Ashby)",
+    "url": "https://jobs.ashbyhq.com/corridor-advisors/2b005e79-b023-4bf2-9cc9-41b5520fd62b"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Footprint",
+  "slug": "footprint",
+  "site": "https://onefootprint.com",
+  "careers_url": "https://jobs.ashbyhq.com/footprint",
+  "what_they_do": "AI agents that run KYC, AML, sanctions and due-diligence investigations for banks and fintechs",
+  "problem": "Compliance teams drown in alert queues, reviewing every case by hand across spreadsheets, PDFs and disconnected tools",
+  "industry": "Financial-crime compliance / AI agents (RegTech)",
+  "stage": "Series B",
+  "last_round": "$25M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "QED Investors",
+  "total_open_roles": "12",
+  "ops_roles": "Founding Strategy & Ops; Forward Deployed Engineer",
+  "hiring_trend": "Headcount ~24 (2023) → ~33 Mar 2026 (Revelio, +8% YoY), ~38 Sep 2026 (Tracxn); open roles 11 → 12 since Sep 27",
+  "headcount": "~35-40",
+  "latest_news": "Raised $25M Series B led by QED to scale Percy compliance AI agents",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/footprint-raises-25-million-series-b-to-scale-percy-the-ai-operating-system-for-risk--compliance-302880661.html",
+  "traction": "Revenue grew 3x in 2024 and 4x in 2025 (CEO); customers include Bilt, Nuvei, MoonPay, OCC/FDIC banks",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.co.uk/Reviews/One-Footprint-Reviews-E11091780.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Small follower (~40 staff, ~$44M raised) in a crowded AI fincrime-compliance field where Bretton AI ($75M Series B, Robinhood, Mercury) and Unit21 are bigger; Percy production use is undisclosed. Running a bank's SOPs and case memory gives real lock-in potential once deployed.",
+  "distance_sources": [
+   {
+    "label": "Bretton AI (ex-Greenlite) raises $75M Series B for fincrime AI agents (Feb 2026)",
+    "url": "https://www.businesswire.com/news/home/20260209387593/en/Bretton-AI-Raises-%2475M-Series-B-Rebrands-from-Greenlite-AI-to-Build-the-AI-Standard-for-Financial-Crime"
+   },
+   {
+    "label": "Clarity: Footprint $25M Series B; Percy production adoption not disclosed (Sep 2026)",
+    "url": "https://theclarity.today/story/mufg-backs-footprint-s-25m-plan-to-put-ai-agents-on-compliance-cases-ac3dde5a"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco"
+  ]
  }
 ]
