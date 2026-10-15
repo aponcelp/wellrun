@@ -27820,5 +27820,55 @@
    "New York",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "exacare ai",
+  "slug": "exacare",
+  "site": "https://www.exacare.com",
+  "careers_url": "https://ats.rippling.com/exacare-inc/jobs",
+  "what_they_do": "AI platform for post-acute admissions, referral intake, managed care and reimbursement workflows",
+  "problem": "Nursing homes and home health teams lose admissions and revenue reviewing long referral packets and authorizations by hand",
+  "industry": "Post-acute care operations AI (admissions & reimbursement)",
+  "stage": "Series A",
+  "last_round": "$30M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": "Insight Partners",
+  "total_open_roles": "29",
+  "ops_roles": "BizOps Strategy & Systems Manager; Product Operations Analyst; Senior Solutions Consultant (implementation); Solutions Consultant (implementation)",
+  "hiring_trend": "Headcount ~15 → ~55 Mar 2025 to Mar 2026 (CEO), ~83 now (Revelio, Crustdata); 29 open roles, aiming for 50+ hires by Jan 2027",
+  "headcount": "~80-85",
+  "latest_news": "Launched Discharge Coordination for outbound SNF referrals; aiming for 50+ hires by January",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.exacare.com/resources/blog/introducing-discharge-coordination",
+  "traction": "2,000+ facilities and agencies (up from 1,500 at Oct 2025 Series A); 3M referrals processed; ~$16M revenue (Tracxn est.)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.8",
+  "glassdoor_reviews": "7",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/ExaCare-Reviews-E9827549.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Largest AI-native admissions platform in skilled nursing (2,000+ facilities vs ~500 on PointClickCare's new Referral Advisor), now spreading into managed care, discharge and home health; but PointClickCare and WellSky own the EHR and referral rails and are shipping their own AI intake to the same buyers.",
+  "distance_sources": [
+   {
+    "label": "exacare ai: milestones, 2,000+ facilities, CoreCare Pre-Admit deal (May 2026)",
+    "url": "https://www.exacare.com/resources/news/exacare-ai-accelerates-momentum"
+   },
+   {
+    "label": "McKnight's: How nursing homes are greenlighting admissions with AI (Apr 2026)",
+    "url": "https://www.mcknights.com/news/nursing-homes-greenlighting-admissions-with-ai/"
+   },
+   {
+    "label": "PointClickCare launches Referral Advisor (Jan 2026)",
+    "url": "https://pointclickcare.com/press-releases/pointclickcare-expands-ai-powered-suite-of-solutions-with-launch-of-referral-advisor"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
