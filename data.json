@@ -29306,5 +29306,55 @@
    "United States",
    "Remote (North America)"
   ]
+ },
+ {
+  "name": "Slice",
+  "slug": "slice",
+  "site": "https://www.sliceglobal.com",
+  "careers_url": "https://www.sliceglobal.com/careers",
+  "what_they_do": "Cap table, employee equity and country-by-country tax compliance for multinational companies",
+  "problem": "Granting equity across many countries means local tax and legal traps handled by spreadsheets and costly outside counsel",
+  "industry": "Equity management / global equity compliance",
+  "stage": "Series A",
+  "last_round": "$25M",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "Insight Partners",
+  "total_open_roles": "10",
+  "ops_roles": "Legal Engineer (Customer Success); Customer Success & Legal Engineer",
+  "hiring_trend": "Headcount ~36 (Sep 2025, Getlatka) → ~52 on LinkedIn (+44% YoY); 10 open roles",
+  "headcount": "~50-60",
+  "latest_news": "Phoenix ESOP, Israel's largest Section 102 trustee, moves its startup trustee operation onto Slice",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.calcalistech.com/ctechnews/article/skgn6tcdmx",
+  "traction": "ARR grew 5x in 2025 (company); hundreds of customers incl. Wiz, Wayve, VAST Data; 250,000+ stakeholders",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "2026-10-15",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Becomes the equity system of record for global startups (Wiz, Cyera, Wayve) with a sharp multi-country compliance angle and an Israeli trustee tie-up, but it is a small follower to Carta and other cap table incumbents in a crowded category.",
+  "distance_sources": [
+   {
+    "label": "This Week in Fintech: Slice $25M Series A, 5x ARR growth in 2025, hundreds of customers (Jan 2026)",
+    "url": "https://www.thisweekinfintech.com/p/slice-raises-25m-series-a-led-by-insight-partners-for-global-equity-compliance"
+   },
+   {
+    "label": "Ctech: Phoenix ESOP moves its trustee operation onto Slice (Sep 2026)",
+    "url": "https://www.calcalistech.com/ctechnews/article/skgn6tcdmx"
+   },
+   {
+    "label": "Slice: comparison pages vs Carta and other equity platforms",
+    "url": "https://www.sliceglobal.com/compare"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
