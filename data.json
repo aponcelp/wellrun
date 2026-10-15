@@ -27765,5 +27765,60 @@
    "Remote (US)",
    "Remote (Europe)"
   ]
+ },
+ {
+  "name": "Ridgeline",
+  "slug": "ridgeline",
+  "site": "https://ridgeline.ai",
+  "careers_url": "https://job-boards.greenhouse.io/ridgeline",
+  "what_they_do": "One cloud platform running trading, accounting, compliance and reporting for investment managers",
+  "problem": "Asset and wealth managers stitch together six to nine aging systems, so data breaks and ops work piles up",
+  "industry": "Fintech / investment management software",
+  "stage": "Series E",
+  "last_round": "$250M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Dave Duffield (founder and chairman); Motley Fool Ventures and Positive Sum participated",
+  "total_open_roles": "29",
+  "ops_roles": "Director, Product & Technology Operations; Technical Support Lead, Trading Operations; Lead Data Migration Consultant; Lead Consultant, Front Office",
+  "hiring_trend": "Headcount ~429 → ~560 Q1 2025 to Q1 2026 (Revelio, +30%); ~720 on LinkedIn (+26% YoY)",
+  "headcount": "~600-720",
+  "latest_news": "Base Camp conference: new AI agent workflows, ISO 42001 AI certification, $760B+ committed AUM",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/10/12/3379123/0/en/ridgeline-showcases-ai-native-innovation-at-fifth-annual-base-camp-conference.html",
+  "traction": "$760B+ client AUM committed to the platform, up ~50% in a year",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "4.1",
+  "glassdoor_reviews": "150",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Ridgeline-Reviews-E3313373.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 14, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "The cloud-native challenger replacing legacy front-to-back stacks, with real proof (Wasatch, Sands Capital and Motley Fool live; committed AUM up ~50%) and a system-of-record that is hard to leave; still far smaller than SS&C, Clearwater and Aladdin, and funded mostly by one founder.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: Ridgeline raises $250M Series E at $1.425B (Sep 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/09/16/3363158/0/en/ridgeline-raises-250m-series-e-valuing-ai-native-fintech-at-1-425-billion.html"
+   },
+   {
+    "label": "GlobeNewswire: Base Camp 2026, $760B+ committed AUM (Oct 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/12/3379123/0/en/ridgeline-showcases-ai-native-innovation-at-fifth-annual-base-camp-conference.html"
+   },
+   {
+    "label": "Revelio Labs: Ridgeline headcount 2023–2026",
+    "url": "https://www.reveliolabs.com/companies/ridgeline/employees"
+   }
+  ],
+  "hiring_locations": [
+   "Reno",
+   "San Ramon",
+   "New York",
+   "Remote (US)"
+  ]
  }
 ]
