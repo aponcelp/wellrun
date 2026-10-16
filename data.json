@@ -29825,5 +29825,55 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Rilla",
+  "slug": "rilla",
+  "site": "https://www.rilla.com",
+  "careers_url": "https://jobs.ashbyhq.com/rilla",
+  "what_they_do": "Records, transcribes and scores in-person sales visits to coach field sales reps",
+  "problem": "Managers can't ride along on every in-home sales visit, so reps get little coaching and close rates stall",
+  "industry": "AI sales coaching / field sales conversation intelligence",
+  "stage": "Series B",
+  "last_round": "$68.5M",
+  "last_round_date": "Jun 2025",
+  "lead_investors": "GV (Google Ventures)",
+  "total_open_roles": "30",
+  "ops_roles": "Business Operations; Founding Compliance & IT Ops; Founding Office & Workplace Operations",
+  "hiring_trend": "Headcount ~72 → ~133 Q1 2025 to Q1 2026 (Revelio); company has said ~120 all of 2026, so flat this year; postings up vs 2025",
+  "headcount": "~120-140",
+  "latest_news": "Launched Rilla Lessons, daily micro-lessons for field reps (CEO: on track to be biggest product)",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/sebastian-jimenez-690149149_we-just-launched-whats-on-track-to-be-our-activity-7513987240587350016-g9Y1",
+  "traction": "~$70M ARR Apr 2026 (Sacra est.), up from $51M (+113% YoY); Home Depot, Neighborly customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.2",
+  "glassdoor_reviews": "32",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Rilla-Reviews-E9238383.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Category leader in field-sales conversation intelligence (~$70M ARR, 20M+ recorded visits, Home Depot and Neighborly) and adding Live, Roleplay, Intelligence and Lessons; but ServiceTitan, HubSpot and Salesforce Field Service are bundling the same recording into their platforms for the same buyers.",
+  "distance_sources": [
+   {
+    "label": "Sacra: $70M/year ride-along Gong (May 2026)",
+    "url": "https://sacra.com/research/70m-year-ride-along-gong/"
+   },
+   {
+    "label": "Rilla press: The Home Depot partnership (Jan 2026)",
+    "url": "https://rilla.com/press"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "London",
+   "Remote"
+  ]
  }
 ]
