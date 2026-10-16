@@ -30393,5 +30393,103 @@
    "Remote (US)",
    "Remote (Singapore)"
   ]
+ },
+ {
+  "name": "Sunbound",
+  "slug": "sunbound",
+  "site": "https://www.sunbound.ai",
+  "careers_url": "https://www.sunbound.ai/company/careers",
+  "what_they_do": "Billing, claims, private-pay payments and RCM software for senior living operators",
+  "problem": "Senior living and nursing operators chase paper checks, denied claims and late family payments by hand",
+  "industry": "Healthcare fintech / senior care revenue cycle",
+  "stage": "Series A",
+  "last_round": "$24M (total raised $36M)",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "TTV Capital (with Bling, Fika, Live Oak Bank, Ziegler Linkage Fund)",
+  "total_open_roles": "6",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~40 → ~48 YoY (+20%, LinkedIn est.); grew from 5 to ~35 staff during its Payabli partnership; 6 open roles now",
+  "headcount": "~48",
+  "latest_news": "Acquired Richter Healthcare Consultants and closed $24M Series A led by TTV Capital",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/sunbound-acquires-richter-healthcare-consultants-bringing-decades-of-financial-trust-and-expertise-in-senior-living-revenue-management-to-sunbounds-technology-platform-302909212.html",
+  "traction": "Annual payment volume tripled to $1B+ in 12 months (company); ~$3B annualized with Richter",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Sunbound-DC-Reviews-E10786427.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real adoption in a niche ($1B+ yearly payment volume, multi-community operators such as Bickford and Maplewood, a PointClickCare marketplace listing) and sticky once it runs an operator's billing; but senior-care RCM is crowded with larger outsourced billers, and the Richter deal makes it part services firm.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Sunbound triples annual payment volume to $1B+ (Apr 2026)",
+    "url": "https://www.prnewswire.com/news-releases/sunbound-triples-annual-payment-volume-to-1b-launches-sunboundai--senior-livings-ai-first-revenue-os-302741866.html"
+   },
+   {
+    "label": "Senior Housing News: Sunbound acquires Richter, $24M Series A (Oct 2026)",
+    "url": "https://seniorhousingnews.com/2026/10/15/sunbound-acquires-richter-healthcare-seeks-new-growth-after-24m-funding-round"
+   },
+   {
+    "label": "Tracxn: Sunbound profile, competitors incl. R1 RCM, Infinx, Medusind",
+    "url": "https://tracxn.com/d/companies/sunbound/__AsedVR4qiTyUx22FkrJNaeU3GnxzJJ_OVq2lGNWzFcU"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Forgepoint",
+  "slug": "forgepoint",
+  "site": "https://forgepoint.ai",
+  "careers_url": "https://jobs.ashbyhq.com/forgepoint",
+  "what_they_do": "AI inside-sales agent that turns manufacturers' RFQs into priced, approved quotes",
+  "problem": "Manufacturers lose jobs because quoting takes days of manual estimating, emails and ERP entry",
+  "industry": "Manufacturing back-office AI / quoting (CPQ)",
+  "stage": "Seed",
+  "last_round": "$9.8M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Primary Venture Partners, a16z speedrun",
+  "total_open_roles": "12",
+  "ops_roles": "Chief of Staff; Head of Deployment Strategy; Deployment Strategist",
+  "hiring_trend": "~3 staff early 2026 (Built In) → ~8 now (a16z speedrun); 12 open roles, all NYC",
+  "headcount": "~8-10",
+  "latest_news": "Raised $9.8M seed led by Primary and a16z speedrun",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://techfundingnews.com/forgepoint-raises-9-8m-from-primary-and-a16z-speedrun-to-put-ai-on-the-factory-quote-desk/",
+  "traction": "Over $1M ARR within 6 months of Frank's launch (company); hundreds of weekly users",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Too early to judge: a 2025 seed company past $1M ARR whose agent learns each shop's cost model and sits in its inbox, CRM and ERP (sticky once set up); rivals CloudNC (Quote Agent coming), Plato and Isembard are chasing the same quoting work.",
+  "distance_sources": [
+   {
+    "label": "Tech Funding News: Forgepoint $9.8M seed, competitors (Oct 2026)",
+    "url": "https://techfundingnews.com/forgepoint-raises-9-8m-from-primary-and-a16z-speedrun-to-put-ai-on-the-factory-quote-desk/"
+   },
+   {
+    "label": "Forbes: Forgepoint passes $1M ARR (Oct 2026)",
+    "url": "https://www.forbes.com/sites/davidprosser/2026/10/14/meet-the-start-up-promising-to-automate-manufacturers-back-office/"
+   }
+  ],
+  "hiring_locations": [
+   "New York"
+  ]
  }
 ]
