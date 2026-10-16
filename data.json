@@ -30146,5 +30146,54 @@
    "United States",
    "Remote (Canada)"
   ]
+ },
+ {
+  "name": "Vitalize",
+  "slug": "vitalize",
+  "site": "https://vitalize.care",
+  "careers_url": "https://jobs.ashbyhq.com/vitalize",
+  "what_they_do": "AI scheduling, staffing and capacity planning platform for hospitals and health systems",
+  "problem": "Hospitals run their biggest cost, clinical labor, on spreadsheets and group texts, overspending on overtime and agency nurses",
+  "industry": "Healthcare operations / workforce management",
+  "stage": "Series A",
+  "last_round": "$31M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Oak HC/FT",
+  "total_open_roles": "18",
+  "ops_roles": "Deployment Strategist; VP, Customer Success & Delivery; Enterprise Solutions; Product Support Specialist",
+  "hiring_trend": "Headcount ~31 → ~65 in 12 mo (+110%, LinkedIn est.); 10 of 18 open roles posted since Oct 5",
+  "headcount": "~65-75",
+  "latest_news": "Raised $31M Series A led by Oak HC/FT to grow growth and deployment teams",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.finsmes.com/2026/10/vitalize-raises-31m-in-series-a-funding.html",
+  "traction": "9 health systems, 37 hospitals, ~40,000 staff; mid 7-figure ARR mid-2025; company claims 30x growth in 24 mo",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky system of action wired into payroll, time-keeping and EMR, with fast go-lives, but a small newcomer (9 health systems) in a category UKG and symplr dominate.",
+  "distance_sources": [
+   {
+    "label": "Oak HC/FT: Why we're backing Vitalize (9 systems, 37 hospitals, integrations) (Oct 2026)",
+    "url": "https://www.oakhcft.com/blog-post/air-traffic-control-for-healthcares-workforce-why-were-backing-vitalize"
+   },
+   {
+    "label": "Definitive Healthcare: top staff scheduling vendors, UKG ~39%, symplr ~14% share",
+    "url": "https://www.definitivehc.com/resources/healthcare-insights/top-staff-scheduling-vendors-by-region"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
  }
 ]
