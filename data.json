@@ -30730,5 +30730,59 @@
    "Berlin",
    "Remote"
   ]
+ },
+ {
+  "name": "Accord",
+  "slug": "accord",
+  "site": "https://inaccord.com",
+  "careers_url": "https://jobs.ashbyhq.com/accord",
+  "what_they_do": "Sales playbook workspaces with mutual action plans, business cases and AI deal agents",
+  "problem": "Sales teams buy methodology training, but reps don't follow it and deal plans live in stale spreadsheets",
+  "industry": "Sales tech / revenue execution",
+  "stage": "Series A",
+  "last_round": "$10M",
+  "last_round_date": "Jan 2023",
+  "lead_investors": "Matrix Partners",
+  "total_open_roles": "5",
+  "ops_roles": "Senior Enterprise Customer Success Manager (Toronto, hybrid)",
+  "hiring_trend": "Team +10.5% YoY (~221, Dealroom); only 5 open roles; web traffic -53% in 3 mo",
+  "headcount": "~190-220",
+  "latest_news": "Launched Outreach integration feeding call transcripts into Accord's AI deal agents",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://inaccord.com/blog-posts/accord-outreach-turn-conversation-intelligence-into-deal-execution",
+  "traction": "CEO: Q4 2025 bookings >50% of starting-2025 ARR; ~$11M revenue 2024 (Latka est.)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "9",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Accord-Reviews-E5248468.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "One of many deal-room and mutual-action-plan tools (Dock, GetAccept, Recapped, Aligned), with Highspot, Clari and Salesforce shipping similar features; playbooks embedded in the CRM give some stickiness, but there is no clear category lead and no new funding since 2023.",
+  "distance_sources": [
+   {
+    "label": "Dock: 10 best digital sales room tools compared (2026)",
+    "url": "https://www.dock.us/library/digital-sales-room-software"
+   },
+   {
+    "label": "Revenue Playbook: MAP and deal room software providers",
+    "url": "https://revenue-playbook.com/documentation/grow/mutual-plan/"
+   },
+   {
+    "label": "TechCrunch: Accord raises $10M Series A (Jan 2023)",
+    "url": "https://techcrunch.com/2023/01/24/accord-which-offers-a-platform-to-manage-sales-processes-secures-10m/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Toronto",
+   "Remote"
+  ]
  }
 ]
