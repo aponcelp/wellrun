@@ -791,6 +791,20 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
       .x-tagline { font: 700 clamp(28px, 5vw, 52px)/1.06 var(--sans); letter-spacing: -0.035em; max-width: 17ch; }
       .x-tagline span { color: var(--text-secondary); font-weight: 500; }
 
+      .x-story { margin: 14px 0 4px; border: 2px solid var(--text-primary); border-radius: var(--r-s); background: var(--x-card); font: var(--type-small); color: var(--text-secondary); }
+      .x-story summary { cursor: pointer; padding: 10px 16px; font-weight: 700; color: var(--text-primary); min-height: 44px; display: flex; align-items: center; gap: 8px; list-style: none; }
+      .x-story summary::-webkit-details-marker { display: none; }
+      .x-story summary::before { content: "+"; font: 700 14px/1 var(--x-mono); width: 20px; height: 20px; display: inline-grid; place-items: center; border-radius: 50%; background: var(--x-lime); color: var(--text-primary); box-shadow: inset 0 0 0 1.5px var(--text-primary); flex: none; }
+      .x-story[open] summary::before { content: "−"; }
+      .x-story__body { padding: 0 16px 14px; max-width: 70ch; }
+      .x-story__body p { margin: 8px 0; }
+      .x-more { display: flex; align-items: center; justify-content: center; gap: 12px; padding: 16px 18px; border-top: 1px solid var(--text-primary); font: var(--type-small); color: var(--text-secondary); flex-wrap: wrap; }
+      .x-more[hidden], .x-more [hidden] { display: none; }
+      .x-more .x-msort { display: inline-flex; align-items: center; gap: 6px; }
+      .x-more .x-msort > span { font: 400 12px/1 var(--x-mono); text-transform: uppercase; letter-spacing: 0.06em; margin-right: 2px; }
+      .x-more .x-seg { cursor: pointer; min-width: 44px; min-height: 36px; padding: 0 10px; border: 1.5px solid var(--text-primary); border-radius: var(--r-pill); background: var(--x-card); font: 600 13px/1 var(--sans); color: var(--text-primary); }
+      .x-more .x-seg[aria-pressed="true"] { background: var(--x-lime); font-weight: 800; }
+
       /* pace legend */
       .x-legend { border: 2px solid var(--text-primary); border-radius: var(--r-s); background: var(--x-card); color: var(--text-secondary); overflow: hidden; }
       .x-legend__rule { padding: 12px 16px; border-bottom: 1px solid var(--text-primary); font: var(--type-small); }
@@ -1029,6 +1043,16 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
       <main class="main">
         <header class="x-top">
           <p class="x-brand"><span class="x-ball" aria-hidden="true"></span><span class="x-word"><span>Well Run</span></span><small>daily</small><span class="x-by">by <a href="https://www.linkedin.com/in/alfredoponcedeleon" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline;text-underline-offset:2px">Alfredo Ponce de León</a></span></p>
+          <details class="x-story" id="story">
+            <summary>What is Well Run?</summary>
+            <div class="x-story__body">
+              <p>Every week there's a new startup announcing a huge round, and I always ended up wondering how they were really doing. Not the headline, the actual picture. Are they growing? And do they have a product that can last, or could anyone copy it next year?</p>
+              <p>I couldn't find a simple answer anywhere, so I built one: a score from public signals. Who's hiring and for what, how recent the last round was, real revenue or customer growth, and points off for things like layoffs. Then a separate call on how long they can keep it up.</p>
+              <p>I'm a big sports fan, so I gave it a race theme to make it more fun and visual. <b>Pace</b> is how fast a company is running right now, in zones from Sprint to Steady (some are still warming up, some are cooling down). <b>Distance</b> is whether it's built for a marathon or a 10K.</p>
+              <p>It covers 550+ private startups, and it's automated, so scores and open roles get updated week by week. You can also filter for the ones building out their ops teams. Tap any company to see why it scored the way it did, with sources.</p>
+              <p>Know a startup that should be on here? <a href="https://www.linkedin.com/in/alfredoponcedeleon" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline;text-underline-offset:2px">Send it my way</a>.</p>
+            </div>
+          </details>
           <div class="x-hero">
             <h1 class="x-tagline">Startups that run well. <span>Private companies only, paced by funding and buzz, curated daily.</span></h1>
             <figure class="x-track" aria-label="Pace track: each lane is a pace zone, and faster companies are further around the lap">
@@ -1114,6 +1138,7 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
           <div class="x-board-card">
             <div class="x-cols"><span>Pos</span><span>Company</span><span><button type="button" class="x-colbtn" data-sortcol="fastest" aria-pressed="true">Pace</button></span><span><button type="button" class="x-colbtn" data-sortcol="distance" aria-pressed="false">Distance</button></span><span>Signals</span><span></span></div>
             <ol class="x-log" id="log"></ol>
+            <div class="x-more" id="more" hidden=""><span id="moreinfo"></span><span class="x-msort" role="group" aria-label="Rows per page" id="perpage"><span>Show</span><button type="button" class="x-seg" data-n="25" aria-pressed="true">25</button><button type="button" class="x-seg" data-n="50" aria-pressed="false">50</button><button type="button" class="x-seg" data-n="100" aria-pressed="false">100</button></span><button type="button" class="x-flag" id="morebtn"><span class="x-flag__k">--</span>next 25</button></div>
             <div class="x-empty" id="empty" hidden="">
               <p>0 companies matched · exit 1</p>
               <button type="button" class="x-flag" id="reset"><span class="x-flag__k">--</span>reset</button>
@@ -1577,7 +1602,10 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
         const count = document.getElementById("count");
         const cmd = document.getElementById("cmd");
 
-        function render() {
+        let PAGE = 25;
+        let shown = PAGE;
+        function render(keep) {
+          if (!keep) shown = PAGE;
           const q = state.q.trim().toLowerCase();
           const list = sorted.filter((c) =>
             (!state.hiring || c.ops.length) &&
@@ -1587,7 +1615,13 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
             (state.dist === "All" || c.distance === state.dist) &&
             (!q || c.hay.includes(q))
           );
-          log.innerHTML = list.map(row).join("");
+          log.innerHTML = list.slice(0, shown).map(row).join("");
+          const moreEl = document.getElementById("more");
+          moreEl.hidden = list.length <= 25;
+          const left = list.length - shown, mb = document.getElementById("morebtn");
+          document.getElementById("moreinfo").textContent = `Showing 1–${Math.min(shown, list.length)} of ${list.length}`;
+          mb.hidden = left <= 0;
+          mb.lastChild.textContent = "next " + Math.min(PAGE, Math.max(left, 0));
           empty.hidden = list.length > 0;
           let line = "$ well_run";
           if (state.hiring) line += " --hiring-ops";
@@ -1605,6 +1639,13 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
           const acEl = document.getElementById("advcount"); if (acEl) acEl.textContent = ac ? String(ac) : "";
           count.textContent = active ? `${list.length} ${list.length === 1 ? "match" : "matches"}` : "";
         }
+
+        document.getElementById("morebtn").addEventListener("click", () => { shown += PAGE; render(true); });
+        document.querySelectorAll("#perpage .x-seg").forEach((b) => b.addEventListener("click", () => {
+          PAGE = Number(b.dataset.n); shown = PAGE;
+          document.querySelectorAll("#perpage .x-seg").forEach((o) => o.setAttribute("aria-pressed", String(o === b)));
+          render(true);
+        }));
 
         log.addEventListener("click", (e) => {
           const go = e.target.closest(".x-logo, .x-name");
