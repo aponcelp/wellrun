@@ -30834,5 +30834,72 @@
    "Calgary",
    "Remote (Canada)"
   ]
+ },
+ {
+  "name": "Uniphore",
+  "slug": "uniphore",
+  "site": "https://www.uniphore.com",
+  "careers_url": "https://uniphore.wd503.myworkdayjobs.com/Uniphore",
+  "what_they_do": "Enterprise AI platform for building AI agents, small language models and customer data",
+  "problem": "Big enterprises struggle to move AI from pilots into governed, secure production across service, sales and marketing",
+  "industry": "Enterprise AI / agentic AI platform",
+  "stage": "Series F",
+  "last_round": "$260M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": "NVIDIA, AMD, Snowflake, Databricks (with NEA, March Capital)",
+  "total_open_roles": "36",
+  "ops_roles": "Sr. Director, Chief of Staff; Director of Customer Success - AI; Sr. Director, Delivery Management",
+  "hiring_trend": "Shrinking: headcount ~1,284 → ~1,134 YoY (-4.6%), -26% since 2023 (Revelio); 36 open roles",
+  "headcount": "~800-1,130",
+  "latest_news": "Partnered with Tech Mahindra on an 'Agentic AI Factory' for enterprise clients",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.uniphore.com/press-releases/uniphore-and-tech-mahindra-partner-to-deliver-an-agentic-ai-factory-for-the-enterprise/",
+  "traction": "2,000+ business customers (KPMG, Dell, Allstate); revenue undisclosed, est. $100-500M",
+  "red_flags": "Nov 2025 closed Israel R&D center, laying off ~40; Glassdoor reviews cite recurring layoffs. Series F priced flat at 2022's $2.5B, secondary market now ~$1.5B (-38%), headcount down ~26% since 2023.",
+  "red_flags_sources": [
+   {
+    "label": "Geektime: Uniphore shuts Israel development center, lays off 40 (Nov 2025)",
+    "url": "https://www.geektime.co.il/flash/uniphore-shuts-down-israel-development-center-layoffs/"
+   },
+   {
+    "label": "Glassdoor: Uniphore reviews mentioning layoffs",
+    "url": "https://www.glassdoor.ca/Reviews/Uniphore-Software-Systems-layoff-Reviews-EI_IE924913.0,25_KH26,32.htm"
+   },
+   {
+    "label": "TrueUp: secondary valuation $1.5B, down 38% from last round (Oct 2026)",
+    "url": "https://www.trueup.io/co/uniphore"
+   },
+   {
+    "label": "The Invincible India: $2.5B valuation unchanged since 2022 (Aug 2026)",
+    "url": "https://theinvincibleindia.in/uniphore-deep-dive/"
+   },
+   {
+    "label": "Revelio Labs: headcount 1,543 (2023) to 1,134 (Q1 2026)",
+    "url": "https://www.reveliolabs.com/companies/uniphore-systems/employees"
+   }
+  ],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "492",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Uniphore-Software-Systems-Reviews-E924913.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky multi-year enterprise deployments and a Gartner CDP Leader line, but a follower in crowded agentic/contact-center AI behind Salesforce, Microsoft, NICE and Genesys; flat valuation, shrinking staff and a stitched-together acquisition stack.",
+  "distance_sources": [
+   {
+    "label": "Uniphore: Leader in 2026 Gartner Magic Quadrant for CDPs (Jan 2026)",
+    "url": "https://www.uniphore.com/press-releases/uniphore-named-a-leader-in-the-2026-gartner-magic-quadrant-for-customer-data-platforms/"
+   },
+   {
+    "label": "The Invincible India deep dive: competition and acquisition-integration risks (Aug 2026)",
+    "url": "https://theinvincibleindia.in/uniphore-deep-dive/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
