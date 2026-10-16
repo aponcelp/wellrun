@@ -30003,5 +30003,148 @@
    "Remote (North America)",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Wayflyer",
+  "slug": "wayflyer",
+  "site": "https://wayflyer.com",
+  "careers_url": "https://jobs.ashbyhq.com/wayflyer",
+  "what_they_do": "Revenue-based working capital advances and AI analytics for ecommerce and consumer brands",
+  "problem": "Fast-growing online brands need cash for inventory and ads, but banks are slow and equity is dilutive",
+  "industry": "Fintech / SMB revenue-based financing",
+  "stage": "Series B",
+  "last_round": "$35M",
+  "last_round_date": "Jun 2025",
+  "lead_investors": "Balderton Capital (B extension); DST Global, QED Investors (Series B)",
+  "total_open_roles": "16",
+  "ops_roles": "Operations Manager (Dublin, hybrid)",
+  "hiring_trend": "Flat: ~449 staff Q1 2026, -0.8% YoY (Revelio), after 40% layoff Nov 2022 and ~20 cuts Jul 2023; 16 open roles",
+  "headcount": "~445",
+  "latest_news": "Secured $50M corporate debt facility from Trinity Capital, after $1.5B Fortress forward-flow deal",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://wayflyer.com/press-releases/wayflyer-secures-50-million-corporate-debt-facility-from-trinity-capital",
+  "traction": "$100M+ annual revenue (FY2024 €95.2M, +50%); $6B+ deployed since 2020",
+  "red_flags": "Large credit loss: Amazon seller Silicon Valley Commerce defaulted Aug 2024 on ~$36M of advances, driving a €48M FY2024 loss (reported Dec 2025); funding partner Neuberger Berman sued Wayflyer in Aug 2025 for ~$15.9M alleging adverse selection (case discontinued with prejudice in 2026).",
+  "red_flags_sources": [
+   {
+    "label": "Sunday Times: Wayflyer 50% revenue growth but €48M loss on isolated customer default (Dec 2025)",
+    "url": "https://www.thetimes.com/world/ireland-world/article/wayflyer-irish-fintech-50-per-cent-revenue-growth-48-million-euro-loss-rmjd5gf0s"
+   },
+   {
+    "label": "UniCourt: NB Alternatives Advisers v. Wayflyer Advances, NY Supreme Court (filed Aug 2025)",
+    "url": "https://unicourt.com/case/ny-sup1-casegc3c0c75f08281-3137265"
+   },
+   {
+    "label": "Wikipedia: Wayflyer FY2024 €48M loss, revenue +50% to €95.2M",
+    "url": "https://en.wikipedia.org/wiki/Wayflyer"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.7",
+  "glassdoor_reviews": "185",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Wayflyer-Reviews-E5239058.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Leading independent ecommerce revenue-based lender ($6B+ deployed since 2020), but platform lenders like Shopify Capital ($4.2B originated in 2025 alone) sell the same product to the same merchants using data Wayflyer must connect to; a single-borrower default caused a €48M loss.",
+  "distance_sources": [
+   {
+    "label": "Cobalt Intelligence: Shopify Capital originated $4.2B in 2025 (Mar 2026)",
+    "url": "https://newsletter.cobaltintelligence.com/p/shopify-quietly-funded-6b-in-merchant-loans-last-year"
+   },
+   {
+    "label": "Wayflyer: $250M ATLAS SP facility, $100M+ revenue, $6B deployed (Feb 2026)",
+    "url": "https://wayflyer.com/press-releases/wayflyer-secures-usd250m-credit-facility-with-atlas-sp-partners-to-expand-sme-funding-capacity"
+   }
+  ],
+  "hiring_locations": [
+   "Dublin",
+   "London",
+   "Charlotte",
+   "Remote (Europe)"
+  ]
+ },
+ {
+  "name": "Clearco",
+  "slug": "clearco",
+  "site": "https://www.clear.co",
+  "careers_url": "https://jobs.ashbyhq.com/clearco",
+  "what_they_do": "Non-dilutive working-capital funding for ecommerce and DTC brands, repaid weekly",
+  "problem": "Ecommerce brands need cash for inventory and ads before sales arrive, without giving up equity or waiting on banks",
+  "industry": "Fintech / ecommerce financing",
+  "stage": "Series D",
+  "last_round": "$60M",
+  "last_round_date": "Oct 2023",
+  "lead_investors": "Inovia Capital, Founders Circle Capital",
+  "total_open_roles": "6",
+  "ops_roles": "",
+  "hiring_trend": "Shrinking: ~146 staff (May 2025, -15% YoY on LinkedIn) → ~110 (Dec 2025) → under 100 (Aug 2026)",
+  "headcount": "~100",
+  "latest_news": "Secured $100M asset-backed debt facility from Macquarie; targets break-even Q4 2026",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://betakit.com/clearco-secures-100-million-usd-for-rescaling-after-difficult-years/",
+  "traction": "~400 merchants funded; advances tripled in 2024, +50% 2025 (CEO claims, unaudited)",
+  "red_flags": "Still shrinking after the 2022–23 layoffs and 2023 recap that cut valuation ~90% to ~$200M: headcount fell from ~146 (May 2025) to under 100 (Aug 2026) via more cuts ('streamlining'), incl. a Mar 2025 layoff; 2026 cash came only as C$7.5M insider convertible notes plus debt.",
+  "red_flags_sources": [
+   {
+    "label": "BetaKit: Clearco headcount now just under 100 after 'streamlining'; C$7.5M insider notes (Aug 2026)",
+    "url": "https://betakit.com/clearco-secures-100-million-usd-for-rescaling-after-difficult-years/"
+   },
+   {
+    "label": "The Logic: ~110 staff, a fifth of 2022 headcount (Dec 2025)",
+    "url": "https://thelogic.co/news/fintech-clearco-grows-after-turmoil/"
+   },
+   {
+    "label": "LinkedIn company page: 146 employees, -15.1% YoY (May 2025)",
+    "url": "https://linkedin.com/company/clearco"
+   },
+   {
+    "label": "LinkedIn post: analytics engineer laid off from Clearco (Mar 2025)",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7302337202586374144"
+   },
+   {
+    "label": "Globe and Mail: recapitalization slashed valuation to ~$200M from $2B+ (Aug 2026)",
+    "url": "https://www.theglobeandmail.com/business/article-clearco-close-to-profitability-three-years-after-painful/"
+   },
+   {
+    "label": "Glassdoor reviews: 'Morale is low, high turnover' (May 2026), 3.4 rating",
+    "url": "https://www.glassdoor.com/Reviews/Clearco-Reviews-E1566057.htm"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.4",
+  "glassdoor_reviews": "257",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Clearco-Reviews-E1566057.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Pioneered revenue-based ecommerce funding but now a shrunken follower behind Shopify Capital and Wayflyer, with ~400 merchants, a thin underwriting edge that rivals copied, and dependence on debt facilities for capital.",
+  "distance_sources": [
+   {
+    "label": "Globe and Mail: main rivals are Shopify and Wayflyer (Aug 2026)",
+    "url": "https://www.theglobeandmail.com/business/article-clearco-close-to-profitability-three-years-after-painful/"
+   },
+   {
+    "label": "The Logic: Shopify and Square adopted similar sales-data funding (Aug 2026)",
+    "url": "https://thelogic.co/briefing/clearco-taps-macquarie-for-us100m-in-financing-to-back-its-rebound/"
+   },
+   {
+    "label": "PR Newswire: $100M Macquarie asset-backed facility (Aug 2026)",
+    "url": "https://www.prnewswire.com/news-releases/clearco-secures-100-million-asset-backed-financing-facility-from-macquarie-group-to-expand-funding-for-growing-ecommerce-brands-302853628.html"
+   }
+  ],
+  "hiring_locations": [
+   "Toronto",
+   "United States",
+   "Remote (Canada)"
+  ]
  }
 ]
