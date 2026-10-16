@@ -792,12 +792,20 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
       .x-tagline span { color: var(--text-secondary); font-weight: 500; }
 
       .x-story { margin: 14px 0 4px; border: 2px solid var(--text-primary); border-radius: var(--r-s); background: var(--x-card); font: var(--type-small); color: var(--text-secondary); }
-      .x-story summary { cursor: pointer; padding: 10px 16px; font-weight: 700; color: var(--text-primary); min-height: 44px; display: flex; align-items: center; gap: 8px; list-style: none; }
+      .x-story summary { cursor: pointer; padding: 12px 18px; font: 700 15px/1.2 var(--sans); color: var(--text-primary); min-height: 44px; display: flex; align-items: center; gap: 8px; list-style: none; }
       .x-story summary::-webkit-details-marker { display: none; }
       .x-story summary::before { content: "+"; font: 700 14px/1 var(--x-mono); width: 20px; height: 20px; display: inline-grid; place-items: center; border-radius: 50%; background: var(--x-lime); color: var(--text-primary); box-shadow: inset 0 0 0 1.5px var(--text-primary); flex: none; }
       .x-story[open] summary::before { content: "−"; }
-      .x-story__body { padding: 0 16px 14px; max-width: 70ch; }
-      .x-story__body p { margin: 8px 0; }
+      .x-story__body { padding: 2px 18px 18px; }
+      .x-story__body p { margin: 0; }
+      .x-story__lead { font: 500 16px/1.5 var(--sans); color: var(--text-primary); max-width: 62ch; margin-bottom: 14px !important; }
+      .x-story__grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+      .x-story__item { border-top: 3px solid var(--x-lime); background: rgba(0,0,0,0.025); border-radius: 0 0 var(--r-s) var(--r-s); padding: 10px 12px 12px; }
+      .x-story__item p { font: 400 14px/1.5 var(--sans); color: var(--text-primary); opacity: 0.82; }
+      .x-story__k { display: block; font: 700 12px/1 var(--x-mono); text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-primary); margin-bottom: 6px; }
+      .x-story__cta { margin-top: 14px !important; font: 500 14px/1.4 var(--sans); color: var(--text-primary); }
+      .x-story__cta a { color: inherit; font-weight: 700; text-decoration: underline; text-decoration-color: var(--x-lime); text-decoration-thickness: 3px; text-underline-offset: 3px; }
+      @media (max-width: 640px) { .x-story__grid { grid-template-columns: 1fr; } .x-story__lead { font-size: 15px; } }
       .x-more { display: flex; align-items: center; justify-content: center; gap: 12px; padding: 16px 18px; border-top: 1px solid var(--text-primary); font: var(--type-small); color: var(--text-secondary); flex-wrap: wrap; }
       .x-more[hidden], .x-more [hidden] { display: none; }
       .x-more .x-msort { display: inline-flex; align-items: center; gap: 6px; }
@@ -1046,11 +1054,13 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
           <details class="x-story" id="story">
             <summary>What is Well Run?</summary>
             <div class="x-story__body">
-              <p>Every week there's a new startup announcing a huge round, and I always ended up wondering how they were really doing. Not the headline, the actual picture. Are they growing? And do they have a product that can last, or could anyone copy it next year?</p>
-              <p>I couldn't find a simple answer anywhere, so I built one: a score from public signals. Who's hiring and for what, how recent the last round was, real revenue or customer growth, and points off for things like layoffs. Then a separate call on how long they can keep it up.</p>
-              <p>I'm a big sports fan, so I gave it a race theme to make it more fun and visual. <b>Pace</b> is how fast a company is running right now, in zones from Sprint to Steady (some are still warming up, some are cooling down). <b>Distance</b> is whether it's built for a marathon or a 10K.</p>
-              <p>It covers 550+ private startups, and it's automated, so scores and open roles get updated week by week. You can also filter for the ones building out their ops teams. Tap any company to see why it scored the way it did, with sources.</p>
-              <p>Know a startup that should be on here? <a href="https://www.linkedin.com/in/alfredoponcedeleon" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline;text-underline-offset:2px">Send it my way</a>.</p>
+              <p class="x-story__lead">Startups announce big rounds every week. I wanted to know how they're really doing, so I built a score from public signals and gave it a race theme.</p>
+              <div class="x-story__grid">
+                <div class="x-story__item"><span class="x-story__k">Pace</span><p>How fast a company is moving right now: hiring, recent funding, real growth, minus red flags like layoffs. Zones run from Sprint to Steady.</p></div>
+                <div class="x-story__item"><span class="x-story__k">Distance</span><p>Whether the product can last. A Marathon is hard to copy; a 10K could have a rival next year.</p></div>
+                <div class="x-story__item"><span class="x-story__k">Weekly</span><p>550+ private startups, rescored with open roles every week. Tap any company to see why, with sources.</p></div>
+              </div>
+              <p class="x-story__cta">Know a startup that belongs here? <a href="https://www.linkedin.com/in/alfredoponcedeleon" target="_blank" rel="noopener">Send it my way →</a></p>
             </div>
           </details>
           <div class="x-hero">
