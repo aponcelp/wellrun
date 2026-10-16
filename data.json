@@ -30333,5 +30333,65 @@
    "LatAm",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Deepgram",
+  "slug": "deepgram",
+  "site": "https://deepgram.com",
+  "careers_url": "https://jobs.ashbyhq.com/deepgram",
+  "what_they_do": "Speech-to-text, text-to-speech and voice agent APIs for developers and enterprises",
+  "problem": "Teams building voice products need fast, accurate, affordable speech recognition and voices without training their own models",
+  "industry": "Voice AI / speech-to-text APIs",
+  "stage": "Series C",
+  "last_round": "$130M (Series C; EDBI strategic extension Aug 2026, amount undisclosed)",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "AVP (with Alkeon, Madrona, Tiger Global, In-Q-Tel, BlackRock-managed funds)",
+  "total_open_roles": "88",
+  "ops_roles": "Director of Product Operations; Privacy Operations Lead; Customer Success Engineer (Scaled); Forward-Deployed Engineer (FDE), Strategic Accounts",
+  "hiring_trend": "Headcount ~203 → ~298 Q1 2025 to Q1 2026 (Revelio, +47%); open roles 72 (2026, Revelio) → 88 now",
+  "headcount": "~300-375",
+  "latest_news": "Hired Ed Anuff (ex-IBM watsonx.data, DataStax, Apigee) as Chief Product Officer",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://deepgram.com/learn/deepgram-chief-product-officer-ed-anuff",
+  "traction": "$100M+ ARR (Aug 2026); ARR +115% YoY entering 2025 (Sacra); 200,000+ developers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.25",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "47",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Deepgram-Reviews-E1404455.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "A top independent voice AI API ($100M+ ARR, 200,000+ developers; powers Decagon, Sierra, Vapi, Granola) running its own models and infrastructure, cash-flow positive at end of 2024, with a second line in TTS and voice agents; OpenAI, Google and ElevenLabs sell rival voice models to the same developers.",
+  "distance_sources": [
+   {
+    "label": "Deepgram: Flux TTS launch as it passes $100M ARR; Decagon, Sierra, Vapi, Granola as customers (Aug 2026)",
+    "url": "https://deepgram.com/learn/text-to-speech-comes-of-age-deepgram-launches-conversation-native-speech"
+   },
+   {
+    "label": "Sacra: Deepgram ARR, usage growth and competition",
+    "url": "https://sacra.com/c/deepgram"
+   },
+   {
+    "label": "Built In: Deepgram ended 2024 cash-flow positive with 400+ enterprise customers",
+    "url": "http://builtin.com/company/deepgram"
+   },
+   {
+    "label": "Reuters: Deepgram raises $130M at $1.3B valuation (Jan 2026)",
+    "url": "https://www.reuters.com/technology/voice-ai-startup-deepgram-raises-130-million-13-billion-valuation-2026-01-13/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Ann Arbor",
+   "London",
+   "Remote (US)",
+   "Remote (Singapore)"
+  ]
  }
 ]
