@@ -29610,5 +29610,59 @@
    "New York",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "VGS (Very Good Security)",
+  "slug": "very-good-security",
+  "site": "https://www.verygoodsecurity.com",
+  "careers_url": "https://jobs.lever.co/verygoodsecurity",
+  "what_they_do": "Payment card tokenization vault, network tokens and card management APIs for merchants and fintechs",
+  "problem": "Storing card data means heavy PCI compliance, breach risk and lock-in to one payment processor",
+  "industry": "Payments infrastructure / data security",
+  "stage": "Series C",
+  "last_round": "$60M",
+  "last_round_date": "Dec 2020",
+  "lead_investors": "Vertex Ventures US, Andreessen Horowitz, Goldman Sachs Growth",
+  "total_open_roles": "19",
+  "ops_roles": "",
+  "hiring_trend": "Flat, ~207 staff (Revelio, +1% YoY); open roles 11 → 20 in 2026",
+  "headcount": "~207 (Revelio); LinkedIn shows ~490",
+  "latest_news": "Surpassed 10 billion tokens stored, doubling its vault in 12 months",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.verygoodsecurity.com/press-releases/listing",
+  "traction": "10B+ tokens stored (doubled in 12 mo); claims ~1/3 of e-commerce touched",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "111",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/VGS-Reviews-E2151677.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A leading independent, processor-agnostic token vault with 10B+ tokens and Visa as partner and investor; cards stored in the vault are hard to move, but Stripe, Adyen and the card networks offer tokenization directly and headcount has been flat since 2023.",
+  "distance_sources": [
+   {
+    "label": "VGS: Surpasses 10 billion tokens stored (Sep 2026)",
+    "url": "https://www.verygoodsecurity.com/blog/posts/10-billion-tokens-the-next-chapter-in-payments-innovation"
+   },
+   {
+    "label": "VGS: Expanded Visa partnership for AI-driven commerce (Apr 2025)",
+    "url": "https://www.verygoodsecurity.com/press-releases/listing"
+   },
+   {
+    "label": "Revelio Labs: VGS headcount 2023–2026",
+    "url": "https://www.reveliolabs.com/companies/very-good-security/employees"
+   }
+  ],
+  "hiring_locations": [
+   "SF Bay Area",
+   "Canada",
+   "Remote (US)"
+  ]
  }
 ]
