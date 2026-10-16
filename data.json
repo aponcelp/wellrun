@@ -29664,5 +29664,59 @@
    "Canada",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Harper",
+  "slug": "harper",
+  "site": "https://www.harperinsure.com",
+  "careers_url": "https://jobs.ashbyhq.com/harperinsure",
+  "what_they_do": "AI-run commercial insurance brokerage placing small-business coverage across 165+ carriers",
+  "problem": "Small businesses wait a week or more for commercial coverage, and many brokers turn hard-to-place risks away",
+  "industry": "Insurance brokerage / insurtech",
+  "stage": "Series A",
+  "last_round": "$35M",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "Emergence Capital",
+  "total_open_roles": "37",
+  "ops_roles": "Special Projects Lead; Business Operations Associate; Forward Deployed Operations; Customer Service Operations Specialist",
+  "hiring_trend": "Headcount ~25 (Feb 2026) → ~69 (Dealroom), +590% YoY; open roles 28 (Aug) → 37 (Oct)",
+  "headcount": "~69 (est.)",
+  "latest_news": "Named to CB Insights' 2026 Insurtech 50 list of most promising insurtech startups",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.cbinsights.com/research/report/top-insurtech-startups-2026/",
+  "traction": "~$5M ARR (company-reported, Apr 2026); 6,000+ businesses served; team +590% YoY",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "A tiny new entrant in a market owned by Marsh, Hub and Acrisure, chased by AI-native rivals (Corgi, Equal Parts) and AI-armed agencies that can match its speed; its 98.8% renewal claim is self-reported, so the renewal lock-in brokerages live on is not yet proven.",
+  "distance_sources": [
+   {
+    "label": "Teardown: Harper business model, traction and competitive set (Jul 2026)",
+    "url": "https://www.teardown.ai/companies/harper"
+   },
+   {
+    "label": "The Inference: Harper's 1,000-customers-a-month claim vs homepage counter (Oct 2026)",
+    "url": "https://theinference.org/article/ai-insurance-broker-harper-claims-1-000-customers-a-month-its-homepage-has-gained-1-000-since-february"
+   },
+   {
+    "label": "Harper homepage: 6,000+ businesses, 98.78% renewal (company claim)",
+    "url": "https://www.harperinsure.com/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Atlanta"
+  ]
  }
 ]
