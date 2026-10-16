@@ -30541,5 +30541,72 @@
    "Austin",
    "SF Bay Area"
   ]
+ },
+ {
+  "name": "Firecrawl",
+  "slug": "firecrawl",
+  "site": "https://www.firecrawl.dev",
+  "careers_url": "https://jobs.ashbyhq.com/firecrawl",
+  "what_they_do": "API that searches, scrapes and crawls the web into clean data for AI agents",
+  "problem": "AI teams waste months building brittle scrapers and still can't get clean, reliable web data into their models",
+  "industry": "Web data infrastructure for AI / developer tools",
+  "stage": "Series B",
+  "last_round": "$75M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Smash Capital (Series B); Nexus Venture Partners, Y Combinator (Series A)",
+  "total_open_roles": "33",
+  "ops_roles": "Implementation Specialist; Success Engineer; Legal Operations Manager; AI Enablement Lead",
+  "hiring_trend": "Headcount ~22 → ~56 in 12 mo (+155% YoY, LinkedIn est.); 33 open roles, all added Jul–Oct 2026",
+  "headcount": "~55",
+  "latest_news": "Raised $75M Series B led by Smash Capital; launched Alexandria knowledge library for agents",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.firecrawl.dev/blog/introducing-alexandria-series-b",
+  "traction": "Company says 8-figure ARR in year one, more than doubled in year two; 1.5M users",
+  "red_flags": "Watch-out only (no score hit): publishers and TollBit/Goldstein reports name Firecrawl among AI scrapers reselling publisher content, some ignoring robots.txt. No lawsuit naming Firecrawl found; scraping suits are hitting peers (Reddit and Google v. SerpApi, Perplexity).",
+  "red_flags_sources": [
+   {
+    "label": "Digiday: third-party scrapers incl. Firecrawl named in publisher-content report (Apr 2026)",
+    "url": "https://digiday.com/media/media-briefing-another-ai-threat-emerges-for-publishers-the-third-party-scraper/"
+   },
+   {
+    "label": "Hacker News: users report inconsistent robots.txt handling (Sep 2025)",
+    "url": "https://news.ycombinator.com/item?id=45374976"
+   },
+   {
+    "label": "ProxyPicker Scraping Law Hub: 2025–26 scraping suits (SerpApi, Perplexity; Firecrawl not a party)",
+    "url": "https://proxypicker.com/scraping-law-hub/"
+   }
+  ],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Default web-data layer for AI builders: most-starred scraper on GitHub (190K+), 1.5M users, Shopify, Apple, Canva, and its own indexes plus paid provider deals (Wikimedia). Bright Data is bigger on revenue, labs ship built-in web tools, and publisher pushback on scraping is a live risk.",
+  "distance_sources": [
+   {
+    "label": "Firecrawl: Introducing Alexandria and our $75M Series B (Sep 2026)",
+    "url": "https://www.firecrawl.dev/blog/introducing-alexandria-series-b"
+   },
+   {
+    "label": "TechCrunch: Firecrawl raises $14.5M Series A, already profitable (Aug 2025)",
+    "url": "https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/"
+   },
+   {
+    "label": "Digiday: publishers vs third-party AI scrapers (Apr 2026)",
+    "url": "https://digiday.com/media/media-briefing-another-ai-threat-emerges-for-publishers-the-third-party-scraper/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Toronto Hub",
+   "Remote"
+  ]
  }
 ]
