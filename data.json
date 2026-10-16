@@ -30491,5 +30491,55 @@
   "hiring_locations": [
    "New York"
   ]
+ },
+ {
+  "name": "River AI",
+  "slug": "river-ai",
+  "site": "https://river.ai",
+  "careers_url": "https://job-boards.greenhouse.io/riverai",
+  "what_they_do": "API to fine-tune, RL-train and serve your own open-weight AI models",
+  "problem": "Companies want AI models they own and can improve, without building a training and GPU infrastructure team",
+  "industry": "AI infrastructure / model training & inference",
+  "stage": "Series A",
+  "last_round": "$1.1B",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "General Catalyst, AMP PBC",
+  "total_open_roles": "19",
+  "ops_roles": "Operations Lead; Member of Program Staff, Data",
+  "hiring_trend": "New: first roles posted May 2026, 19 open now; headcount ~20 in Aug to ~22-23 (LinkedIn)",
+  "headcount": "~20-23",
+  "latest_news": "Launched River Inference, open models priced 20% below official provider rates",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://aitamer.news/posts/river-ai-river-inference-rust-stack/",
+  "traction": "Early: API live since Jun 2026; named users incl. Perplexity, Abacus AI; est. revenue $3-7M (Seedtable)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Four months old with ~20 staff and a just-launched API; competes in a crowded post-training and inference field (Together, Fireworks and others) where price cuts are easy to match, so staying power can't be judged yet despite a deep war chest.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: General Catalyst leads $1.1B round into 2-month-old River AI (Aug 2026)",
+    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
+   },
+   {
+    "label": "AI Tamer: River Inference lists open models 20% under labs' rates (Oct 2026)",
+    "url": "https://aitamer.news/posts/river-ai-river-inference-rust-stack/"
+   }
+  ],
+  "hiring_locations": [
+   "Palo Alto",
+   "Austin",
+   "SF Bay Area"
+  ]
  }
 ]
