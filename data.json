@@ -30964,5 +30964,360 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Anduril",
+  "slug": "anduril",
+  "site": "https://www.anduril.com",
+  "careers_url": "https://boards.greenhouse.io/andurilindustries",
+  "what_they_do": "Autonomous drones, sensors, weapons and Lattice AI software for US and allied militaries",
+  "problem": "Militaries need modern autonomous systems built fast and cheap, not decade-long, cost-plus programs from legacy primes",
+  "industry": "Defense tech / autonomous systems",
+  "stage": "Series H",
+  "last_round": "$5B",
+  "last_round_date": "May 2026",
+  "lead_investors": "Thrive Capital, Andreessen Horowitz",
+  "total_open_roles": "2537",
+  "ops_roles": "Business Operations Lead (Costa Mesa, CA); Chief of Staff, Production (Costa Mesa, CA); Senior Manager, Growth Operations (Costa Mesa, CA); Deployment Operations Manager (Costa Mesa, CA / Washington, DC)",
+  "hiring_trend": "Workforce nearly doubled in 2025 per company (~9,300-9,700 now, Revelio/Tracxn); 2,537 open roles",
+  "headcount": "~9,300-9,700",
+  "latest_news": "Employee tender offer values Anduril at $90B, up from $61B in May",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.cnbc.com/2026/10/14/anduril-tender-offer-valuation.html",
+  "traction": "$2.2B revenue in 2025, more than double 2024; Army enterprise deal worth up to $20B",
+  "red_flags": "Execution and safety setbacks: Reuters and WSJ (Nov 2025) reported drone crashes and test failures, plus Navy safety complaints; WIRED (Mar 2026) described repeated management exits and delays at its rocket-motor plant.",
+  "red_flags_sources": [
+   {
+    "label": "Reuters: Anduril faces setbacks from drone crashes (Nov 2025)",
+    "url": "https://www.reuters.com/business/aerospace-defense/us-defense-firm-anduril-faces-setbacks-drone-crashes-2025-11-27/"
+   },
+   {
+    "label": "WSJ: 'We do fail ... a lot': Anduril hits setbacks with weapons tech (Nov 2025)",
+    "url": "https://www.wsj.com/business/anduril-industries-defense-tech-problems-52b90cae"
+   },
+   {
+    "label": "WIRED: Anduril's real war is with itself (Mar 2026)",
+    "url": "https://www.wired.com/story/andurils-real-war-is-with-itself/"
+   }
+  ],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "324",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Anduril-Reviews-E3546800.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "The clear leader among new defense primes, with $2.2B revenue, many product lines and a $20B Army enterprise deal; still far behind Lockheed, RTX and Northrop, and exposed to one customer (the Pentagon), budget delays and heavy factory spending.",
+  "distance_sources": [
+   {
+    "label": "Reuters: Anduril raises $5B at $61B; revenue doubled to $2.2B (May 2026)",
+    "url": "https://www.reuters.com/legal/transactional/us-defense-firm-anduril-raises-5-billion-doubling-its-valuation-61-billion-2026-05-13/"
+   },
+   {
+    "label": "Forbes: Anduril's raise; Army $20B enterprise contract (May 2026)",
+    "url": "https://www.forbes.com/sites/monicahunter-hart/2026/05/15/andurils-massive-raise-makes-its-ceo-into-a-billionaire/"
+   }
+  ],
+  "hiring_locations": [
+   "Costa Mesa",
+   "Washington, DC",
+   "Ashville",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Prometheus",
+  "slug": "prometheus",
+  "site": "https://www.prometheus.ai",
+  "careers_url": "https://jobs.ashbyhq.com/prometheus",
+  "what_they_do": "AI 'artificial general engineer' that speeds design-to-manufacturing of complex physical products",
+  "problem": "Designing, prototyping and building things like jet engines or chips takes engineering teams a decade or more",
+  "industry": "Physical AI / AI for engineering & manufacturing",
+  "stage": "Series B",
+  "last_round": "$12B",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Jeff Bezos (largest Series A backer); Series B: JPMorgan, BlackRock, Goldman Sachs, DST Global, ARCH Venture Partners (no lead named)",
+  "total_open_roles": "10",
+  "ops_roles": "",
+  "hiring_trend": "Headcount <100 (Nov 2025) → ~150 (Jun 2026), +50% est.; ~10 open roles, 7 posted in last 30 days",
+  "headcount": "~150",
+  "latest_news": "Leased ~100,000 sq ft former American Steel site in West Oakland for manufacturing work",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.bizjournals.com/sanfrancisco/news/2026/08/10/oakland-project-prometheus-bezos-ai-manufacturing.html",
+  "traction": "No product or revenue disclosed yet; headcount up ~50% since Nov 2025 launch (~150 staff)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.25",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Huge capital and a proprietary engineering-data and compute moat in the making, but no product, customers or revenue yet, and Periodic Labs, Lila and the big labs chase similar physical-AI ground.",
+  "distance_sources": [
+   {
+    "label": "GeekWire: Prometheus raises $12B at $41B; ~150 staff, no product timeline (Jun 2026)",
+    "url": "https://www.geekwire.com/2026/bezos-ai-startup-prometheus-raises-12b-at-41b-valuation-and-the-ceos-explain-what-theyre-doing/"
+   },
+   {
+    "label": "TechCrunch: Prometheus raises $12B for an 'artificial general engineer' (Jun 2026)",
+    "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Figure AI",
+  "slug": "figure-ai",
+  "site": "https://www.figure.ai",
+  "careers_url": "https://job-boards.greenhouse.io/figureai",
+  "what_they_do": "General-purpose humanoid robots and Helix AI for factories, logistics and homes",
+  "problem": "Factories and warehouses can't find or keep enough workers for repetitive, physical tasks",
+  "industry": "Humanoid robotics / physical AI",
+  "stage": "Series C",
+  "last_round": "$1B+",
+  "last_round_date": "Sep 2025",
+  "lead_investors": "Parkway Venture Capital",
+  "total_open_roles": "100",
+  "ops_roles": "Commercial Operations Associate (San Jose, onsite); Logistics & Dispatch Manager (San Jose); Deployment Engineer, Commercial Sites (San Jose); Warehouse Manager, Commercial Operations (San Jose)",
+  "hiring_trend": "Headcount ~415 → ~955 YoY on LinkedIn (+130%); open roles 124 → 104 Aug–Sep 2026, ~100 now",
+  "headcount": "~660-955 (about 314 salaried; rest hourly/contract, per CEO Jun 2026)",
+  "latest_news": "Nvidia reportedly discussing another $1B as Figure seeks ~$1.5B near $39B valuation",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.humanoidsdaily.com/news/nvidia-figure-billion-investment-talks-report",
+  "traction": "Revenue undisclosed (est. low tens of $M); BMW and Catalyst Brands pilots; ~740 robots built (CEO claim)",
+  "red_flags": "Nov 2025 whistleblower suit: ex-head of product safety says he was fired after warning robots could fracture a skull; Figure denies and countersued, case ongoing. Press scrutiny of commercial claims: BMW said no Figure robots were running at Spartanburg in Nov 2025, and $39B valuation rests on near-zero disclosed revenue.",
+  "red_flags_sources": [
+   {
+    "label": "CNBC: Figure AI sued by whistleblower over robot safety (Nov 2025)",
+    "url": "https://www.cnbc.com/2025/11/21/figure-ai-sued.html"
+   },
+   {
+    "label": "Justia docket: Gruendel v. Figure AI, N.D. Cal. 5:25-cv-10094",
+    "url": "https://dockets.justia.com/docket/california/candce/5:2025cv10094/460223"
+   },
+   {
+    "label": "The Filament: Figure left Spartanburg; BMW task still manual (May 2026)",
+    "url": "https://thefilament.news/tech/figure-left-spartanburg-the-sheet-metal-task-is-manual"
+   },
+   {
+    "label": "The Inference: BMW counted Figure robots one at a time (Oct 2026)",
+    "url": "https://theinference.org/article/bmw-counted-figure-robots-one-at-a-time-the-valuation-is-priced-on-100-000"
+   }
+  ],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.3",
+  "glassdoor_reviews": "8",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Figure-AI-Reviews-E9642582.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Best-funded US humanoid maker with its own BotQ factory and Helix fleet data, but no category lead by revenue yet against Tesla Optimus, Agility, Apptronik and cheaper Chinese rivals, and a $3.5B compute commitment against ~$1.9B raised is heavy burn exposure.",
+  "distance_sources": [
+   {
+    "label": "Forbes: Figure commits $3.5B to Nscale for up to 100,000 Nvidia GPUs (Sep 2026)",
+    "url": "https://www.forbes.com/sites/jonmarkman/2026/09/09/figure-ai-commits-35-billion-to-nscale-for-up-to-100000-nvidia-gpus/"
+   },
+   {
+    "label": "Figure: Series C at $39B post-money (Sep 2025)",
+    "url": "https://www.figure.ai/news/series-c"
+   }
+  ],
+  "hiring_locations": [
+   "San Jose",
+   "São Paulo",
+   "Mexico City"
+  ]
+ },
+ {
+  "name": "Etched",
+  "slug": "etched",
+  "site": "https://www.etched.com",
+  "careers_url": "https://jobs.ashbyhq.com/etched",
+  "what_they_do": "Custom AI inference chips and rack-scale clusters built to run large models faster and cheaper",
+  "problem": "Running frontier AI models on GPUs is expensive, power-hungry and slow at scale",
+  "industry": "AI hardware / inference chips",
+  "stage": "Series D",
+  "last_round": "$700M",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "Jane Street (Series D); Sequoia led the $300M Series C (Jul 2026)",
+  "total_open_roles": "115",
+  "ops_roles": "Silicon Operations Program Manager; Manufacturing Operations Program Manager (Taiwan); Technical Program Manager, Infrastructure",
+  "hiring_trend": "Headcount ~150 (2025) to 400-450+ (mid-2026), roughly 3x in about a year; 115 open roles",
+  "headcount": "~450",
+  "latest_news": "Reviewing new funding offers at $40B-$50B valuation, two months after $21B round",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+  "traction": "$1B+ signed customer contracts; first rack delivered to Jane Street Jul 2026",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.5",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.1",
+  "glassdoor_reviews": "14",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Etched-Reviews-E10665634.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Well-funded challenger with working silicon and $1B+ in contracts, but far behind Nvidia in inference compute, with one delivered customer so far, heavy burn, and dependence on scarce TSMC capacity.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: Etched raises $700M at $21B, first delivery to Jane Street (Aug 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/08/18/3347095/0/en/etched-raises-700m-at-a-21b-valuation-and-completes-first-customer-delivery-to-jane-street.html"
+   },
+   {
+    "label": "TechCrunch: Etched fields offers at $40B+, runway and burn context (Oct 2026)",
+    "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/"
+   }
+  ],
+  "hiring_locations": [
+   "San Jose",
+   "Taipei",
+   "Austin",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Skild AI",
+  "slug": "skild-ai",
+  "site": "https://www.skild.ai",
+  "careers_url": "https://job-boards.greenhouse.io/skildai-careers",
+  "what_they_do": "One AI 'brain' model that runs any robot, sold to factories, warehouses and sites",
+  "problem": "Robots must be reprogrammed for every task and machine, so automation is slow, brittle and expensive to deploy",
+  "industry": "Robotics / physical AI foundation models",
+  "stage": "Series C",
+  "last_round": "$1.4B",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "SoftBank (Series C); Lightspeed, Coatue, SoftBank, Bezos Expeditions (Series A)",
+  "total_open_roles": "50",
+  "ops_roles": "Operations Program Manager – Data Infrastructure (Bangalore); Program Manager – Data Collection & Annotation (Bangalore); Deployment & Support Engineer (San Mateo)",
+  "hiring_trend": "Headcount ~125 (Mar 2026, +32% YoY per Revelio) to ~159-165 (Aug-Sep 2026, Tracxn/LinkedIn); 50 open roles",
+  "headcount": "~160",
+  "latest_news": "Crossed $100M ARR ten months after first commercial deployment; 60+ paying customers",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.skild.ai/blogs/skild-crosses-100m-arr",
+  "traction": "$100M+ ARR (Sep 2026) from ~$30M in 2025; 60+ paying customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "3.2",
+  "glassdoor_reviews": "3",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Skild-AI-Reviews-E10127923.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Revenue leader among robot-brain startups ($100M+ ARR, 60+ customers, OEMs like ABB and Universal Robots embedding it) with a data flywheel from every deployment; still an early, crowded race against Physical Intelligence, Google DeepMind and Nvidia's open models, at roughly 140x run-rate valuation.",
+  "distance_sources": [
+   {
+    "label": "Skild AI: crossed $100M ARR, 60+ paying customers (Sep 2026)",
+    "url": "https://www.skild.ai/blogs/skild-crosses-100m-arr"
+   },
+   {
+    "label": "The Next Web: OEMs embedding the Skild Brain (Jul 2026)",
+    "url": "https://thenextweb.com/news/skild-ai-gpt-moment-robots-abhinav-gupta"
+   },
+   {
+    "label": "Revenue Memo: Skild AI funding, valuation and rivals (Oct 2026)",
+    "url": "https://www.revenuememo.com/p/skild-ai-funding"
+   }
+  ],
+  "hiring_locations": [
+   "San Mateo",
+   "Bengaluru",
+   "Pittsburgh",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Shield AI",
+  "slug": "shield-ai",
+  "site": "https://shield.ai",
+  "careers_url": "https://jobs.lever.co/shieldai",
+  "what_they_do": "AI pilot software (Hivemind) plus V-BAT and X-BAT autonomous military aircraft",
+  "problem": "Militaries need drones and aircraft that fly missions on their own when GPS and communications are jammed",
+  "industry": "Defense tech / autonomous aircraft",
+  "stage": "Series G",
+  "last_round": "$1.5B",
+  "last_round_date": "Mar 2026",
+  "lead_investors": "Advent International, JPMorganChase Security and Resiliency Initiative",
+  "total_open_roles": "616",
+  "ops_roles": "Director, Enterprise Strategy and Operations (San Diego/Dallas/DC, onsite); Senior Lead, Enterprise Strategy and Operations (San Diego/Dallas/DC, onsite); Deployed Operations Manager (Dallas, onsite); Senior Manager, Customer Success (Dallas, onsite)",
+  "hiring_trend": "Headcount ~1,200 (Dec 2025, Fortune) → ~1,800-1,900 (Revelio/Tracxn 2026); 616 open roles, 300+ added in 30 days",
+  "headcount": "~1,800-1,900",
+  "latest_news": "In talks to raise Series H at a $20B+ valuation, up ~60% since March",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://dealroom.co/news/150864-shield-ai-in-talks-to-raise-at-20b-valuation-up-60-in-five-months",
+  "traction": "~$300M FY2025 revenue; projects $540M+ in 2026 (80%+ growth); Hivemind picked for USAF CCA",
+  "red_flags": "Safety and workplace allegations: Reuters (Jun 2026) investigation into V-BAT crashes and safety problems citing 21 ex-staff and a whistleblower complaint, after a 2024 Navy finger injury that cost 2025 revenue targets; May 2026 lawsuit alleging harassment by a customer-ops senior director and retaliation for safety concerns.",
+  "red_flags_sources": [
+   {
+    "label": "Reuters: Drone crashes and severed fingers at a $13B military startup (Jun 2026)",
+    "url": "https://www.reuters.com/business/finance/drone-crashes-severed-fingers-13-billion-silicon-valley-military-startup-2026-06-05/"
+   },
+   {
+    "label": "Forbes: How a grisly injury threw Shield AI off course (May 2025)",
+    "url": "https://www.forbes.com/sites/davidjeans/2025/05/13/shield-ai-navy-injury/"
+   },
+   {
+    "label": "Claims Journal/Bloomberg: Ex-Shield AI worker sues over acts by senior official (Jun 2026)",
+    "url": "https://www.claimsjournal.com/news/national/2026/06/01/337889.htm"
+   },
+   {
+    "label": "Glassdoor: Shield AI reviews (3.3, senior management 2.8, work/life 2.6)",
+    "url": "https://www.glassdoor.com/Reviews/Shield-AI-Reviews-E1764043.htm"
+   }
+  ],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "3.3",
+  "glassdoor_reviews": "207",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Shield-AI-Reviews-E1764043.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "One of the top US autonomy players: Hivemind has flown 26 vehicle classes, is licensed to OEMs like Honeywell and won the USAF CCA autonomy slot, and V-BAT is deployed with many militaries; but Anduril is bigger, revenue rests on government buyers, and V-BAT safety problems are a live risk.",
+  "distance_sources": [
+   {
+    "label": "Shield AI: Series G and Aechelon acquisition, Hivemind on 26 vehicle classes (Mar 2026)",
+    "url": "https://shield.ai/shield-ai-to-acquire-software-simulation-company-aechelon-and-raise-2b-at-12-7b-valuation/"
+   },
+   {
+    "label": "Shield AI: Honeywell flies first autonomous aircraft with Hivemind (Oct 2026)",
+    "url": "https://shield.ai/honeywell-aerospace-flies-first-autonomous-aircraft-6-weeks-after-starting-shield-ai-hivemind-training-completes-two-aircraft-isr-mission/"
+   },
+   {
+    "label": "Fortune: Shield AI projects $540M+ revenue in 2026 (Mar 2026)",
+    "url": "https://fortune.com/2026/03/26/shield-ai-revenue-series-g-funding-12-billion-valuation/"
+   }
+  ],
+  "hiring_locations": [
+   "Dallas",
+   "San Diego",
+   "Seattle",
+   "Remote (US)"
+  ]
  }
 ]
