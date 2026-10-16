@@ -29557,5 +29557,58 @@
    "Remote (Singapore)",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Manifest OS",
+  "slug": "manifest-os",
+  "site": "https://www.manifestos.com",
+  "careers_url": "https://jobs.ashbyhq.com/manifest-os",
+  "what_they_do": "AI software, brand and back office powering Manifest Law, an AI-native immigration firm",
+  "problem": "Business immigration is slow, opaque and billed by the hour; employers can't see case status or predict cost",
+  "industry": "Legal services / AI-native law firm platform",
+  "stage": "Series A",
+  "last_round": "$60M",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "Menlo Ventures, Kleiner Perkins, First Round Capital, Quiet Capital",
+  "total_open_roles": "13",
+  "ops_roles": "Client Operations Manager; Enterprise Program Mobility Manager; Global Case Manager; Global Consular Lead",
+  "hiring_trend": "Staff ~55 (Feb 2026, company site) → ~99 on LinkedIn (Oct 2026); Manifest Law ~144, +200% YoY (LinkedIn); 8 of 13 postings opened since Oct 6",
+  "headcount": "~99 (plus ~144 at Manifest Law)",
+  "latest_news": "Hired corporate immigration partner Matt Minor as Practice Lead, after AILA president Jeff Joseph in July",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://manifestlaw.com/press/matt-minor-joins-manifest-law",
+  "traction": "3,000+ client engagements, 100+ attorneys, 150+ corporate immigration programs in 18 months; no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "A well-funded newcomer in business immigration still far behind incumbents like Fragomen and BAL; sticky multi-year corporate programs help, but the model depends on Arizona's ABS licence, which the state's Supreme Court has been tightening since a Feb 2026 investigation found harm at other ABS firms.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Manifest OS $60M Series A, 18-month results (Apr 2026)",
+    "url": "https://www.businesswire.com/news/home/20260427884891/en/Manifest-OS-Raises-$60M-to-Scale-the-Worlds-First-AI-Native-Law-Firm-Model"
+   },
+   {
+    "label": "Legal Futures: Manifest targets UK ABS licence after raise (May 2026)",
+    "url": "https://www.legalfutures.co.uk/latest-news/exclusive-ai-powered-us-firm-targets-uk-after-60m-fund-raise"
+   },
+   {
+    "label": "LawSites: Arizona Republic probe of the ABS program; court moves to tighten rules (Feb 2026)",
+    "url": "https://www.lawnext.com/2026/02/arizona-republic-investigation-finds-consumer-harm-loopholes-and-conflicts-of-interest-in-arizonas-legal-regulatory-reform.html"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote (US)"
+  ]
  }
 ]
