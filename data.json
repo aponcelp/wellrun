@@ -30279,5 +30279,59 @@
    "San Francisco",
    "Remote"
   ]
+ },
+ {
+  "name": "Archy",
+  "slug": "archy",
+  "site": "https://www.archy.com",
+  "careers_url": "https://jobs.ashbyhq.com/archy",
+  "what_they_do": "Cloud practice management, payments and AI agents for independent dental offices",
+  "problem": "Dental offices juggle old server software and add-ons, with short-staffed teams buried in insurance and billing work",
+  "industry": "Dental practice management software / vertical SaaS",
+  "stage": "Series C",
+  "last_round": "$50M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "JMI Equity (prior leads TCV, Entrée Capital)",
+  "total_open_roles": "11",
+  "ops_roles": "Manager, Customer Experience IT (Remote, US); Migration Automation Software Engineer (Remote, US)",
+  "hiring_trend": "Headcount 57 (Oct 2025) → ~130-138 (Sep 2026), +155% YoY on LinkedIn; 11 open roles",
+  "headcount": "~130-138",
+  "latest_news": "Raised $50M Series C led by JMI Equity; total funding $97M",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.archy.com/blog/weve-raised-50-million-to-bring-dental-practices-into-the-ai-era",
+  "traction": "1,000 practices (from a few hundred in 2024); payments $100M → $300M/yr in ~11 mo (company-reported)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.3",
+  "glassdoor_reviews": "5",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Archy-Reviews-E8698072.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky system of record with built-in payments, but a young follower with ~1,000 practices in a crowded category led by Dentrix, Eaglesoft, Open Dental and CareStack; reviews flag thin reporting and integrations and hard migrations.",
+  "distance_sources": [
+   {
+    "label": "Archy: $50M Series C, 1,000 practices, $300M payments (Sep 2026)",
+    "url": "https://www.archy.com/blog/weve-raised-50-million-to-bring-dental-practices-into-the-ai-era"
+   },
+   {
+    "label": "Crunchbase News: $20M Series B, 57 staff, payments model (Oct 2025)",
+    "url": "https://news.crunchbase.com/venture/dental-saas-provider-archy-raises-seriesb/"
+   },
+   {
+    "label": "review.dental: Archy review, depth vs Dentrix/Open Dental (2026)",
+    "url": "https://review.dental/reviews/archy"
+   }
+  ],
+  "hiring_locations": [
+   "Dallas",
+   "LatAm",
+   "Remote (US)"
+  ]
  }
 ]
