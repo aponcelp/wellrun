@@ -1042,6 +1042,19 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
         .x-runhead .x-msort > span { width: auto; }
         .x-seg.x-colbtn { padding: 0 10px; font-size: 14px; white-space: nowrap; }
       }
+      .x-ltoggle { display: none; }
+      @media (max-width: 860px) {
+        .x-ltoggle { all: unset; box-sizing: border-box; display: flex; align-items: center; gap: 8px; width: 100%; min-height: var(--tap); margin-top: 12px; padding: 8px 16px; cursor: pointer; border: 2px solid var(--text-primary); border-radius: var(--r-s); background: var(--x-card); font: 700 15px/1.2 var(--sans); color: var(--text-primary); }
+        .x-ltoggle i { margin-left: auto; font: 500 20px/1 var(--sans); font-style: normal; transition: transform var(--dur-quick) var(--ease-out); }
+        .x-ltoggle[aria-expanded="true"] i { transform: rotate(45deg); }
+        .x-ltoggle[aria-expanded="true"] { border-bottom-left-radius: 0; border-bottom-right-radius: 0; }
+        .x-legend:not(.is-open) { display: none; }
+        .x-legend.is-open { border-top: 0; border-top-left-radius: 0; border-top-right-radius: 0; }
+      }
+      @media (max-width: 640px) {
+        .x-track { display: none; }
+        .x-tagline { margin-bottom: 0; }
+      }
       .foot { font: 400 12px/1.6 var(--x-mono); border-top: 3px solid var(--x-clay); }
       .foot .x-exit { display: inline-block; padding: 2px 8px; border-radius: 4px; background: var(--text-primary); color: var(--x-lime); }
     </style>
@@ -1070,7 +1083,8 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
               <figcaption>One lane per pace zone, led by its fastest company. More momentum, further down the lap.</figcaption>
             </figure>
           </div>
-          <div class="x-legend" aria-label="Pace legend">
+          <button type="button" class="x-ltoggle" id="ltoggle" aria-expanded="false" aria-controls="legendwrap">How scoring works<i aria-hidden="true">+</i></button>
+          <div class="x-legend" id="legendwrap" aria-label="Pace legend">
             <p class="x-legend__rule"><b>Pace = momentum:</b> open roles (all teams), how recent the last round was, traction (ARR, customers, headcount) and red flags. Checked weekly.</p>
             <details class="x-formula">
               <summary>How the score is calculated</summary>
@@ -1740,4 +1754,7 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
   
 
 <script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};</script><script defer src="/_vercel/insights/script.js"></script><script>!function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture register register_once register_for_session unregister unregister_for_session getFeatureFlag getFeatureFlagPayload isFeatureEnabled reloadFeatureFlags updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures on onFeatureFlags onSessionId getSurveys getActiveMatchingSurveys renderSurvey canRenderSurvey getNextSurveyStep identify setPersonProperties group resetGroups setPersonPropertiesForFlags resetPersonPropertiesForFlags setGroupPropertiesForFlags resetGroupPropertiesForFlags reset get_distinct_id getGroups get_session_id get_session_replay_url alias set_config startSessionRecording stopSessionRecording sessionRecordingStarted captureException loadToolbar get_property getSessionProperty createPersonProfile opt_in_capturing opt_out_capturing has_opted_in_capturing has_opted_out_capturing clear_opt_in_out_capturing debug".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);posthog.init('phc_xnbHgX897rLb6KBHRsq4ifStwhzhS7xK9odacZhGvvtW',{api_host:'https://us.i.posthog.com',defaults:'2025-05-24',person_profiles:'identified_only'});try{if(/[?&]me=1/.test(location.search))localStorage.setItem('wr_me','1');if(localStorage.getItem('wr_me')==='1')posthog.opt_out_capturing()}catch(e){};</script>
+<script>
+(function(){var b=document.getElementById('ltoggle'),l=document.getElementById('legendwrap');if(!b||!l)return;b.addEventListener('click',function(){var o=l.classList.toggle('is-open');b.setAttribute('aria-expanded',o?'true':'false');});})();
+</script>
 </body></html>
