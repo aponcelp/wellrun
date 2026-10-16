@@ -1761,4 +1761,32 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
 <script>
 (function(){var b=document.getElementById('ltoggle'),l=document.getElementById('legendwrap');if(!b||!l)return;b.addEventListener('click',function(){var o=l.classList.toggle('is-open');b.setAttribute('aria-expanded',o?'true':'false');});})();
 </script>
+<script id="wr-track">
+(function(){
+  function cap(n,p){try{if(window.posthog&&posthog.capture)posthog.capture(n,p||{});}catch(e){}}
+  function co(el){var li=el&&el.closest(".x-proc");var n=li&&li.querySelector(".x-name");return n?n.textContent.trim():"";}
+  document.addEventListener("click",function(e){
+    var t=e.target;
+    var main=t.closest(".x-proc__main");
+    if(main&&!t.closest(".x-logo, .x-name")){setTimeout(function(){if(main.getAttribute("aria-expanded")==="true")cap("company_opened",{company:co(main)});},0);return;}
+    var go=t.closest(".x-logo, .x-name");
+    if(go&&go.closest(".x-proc")){cap("company_site_clicked",{company:co(go)});return;}
+    var a=t.closest("a[href]");
+    if(a&&a.closest(".x-proc")){var ap=a.querySelector(".x-apply")||a.closest("li");cap(a.querySelector(".x-apply")?"careers_clicked":"company_link_clicked",{company:co(a),role:(a.querySelector("b")||{}).textContent||"",url:a.href});return;}
+    var f=t.closest(".x-flag");
+    if(f){var g=f.parentElement&&f.parentElement.id;cap(g==="sorts"?"sort_changed":"filter_changed",{group:g,value:f.dataset.value});return;}
+    var c=t.closest(".x-colbtn");
+    if(c){cap("sort_changed",{group:"column",value:c.dataset.sortcol});return;}
+    if(t.closest("#hiring")){cap("filter_changed",{group:"hiring_ops",value:document.getElementById("hiring").getAttribute("aria-pressed")==="true"?"off":"on"});return;}
+    if(t.closest("#morebtn")){cap("show_more");return;}
+    if(t.closest("#ltoggle")){cap("scoring_help_toggled");return;}
+    if(t.closest("#ftoggle")){cap("filters_toggled");return;}
+    var s=t.closest("#story > summary");
+    if(s){var d=document.getElementById("story");if(d&&!d.open)cap("story_opened");return;}
+    if(t.closest("#reset")){cap("filters_reset");}
+  },true);
+  var q=document.getElementById("q"),qt;
+  if(q)q.addEventListener("input",function(){clearTimeout(qt);qt=setTimeout(function(){var v=q.value.trim();if(v.length>1)cap("searched",{query:v.slice(0,60)});},1200);});
+})();
+</script>
 </body></html>
