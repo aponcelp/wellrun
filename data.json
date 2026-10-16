@@ -29875,5 +29875,133 @@
    "London",
    "Remote"
   ]
+ },
+ {
+  "name": "Tines",
+  "slug": "tines",
+  "site": "https://www.tines.com",
+  "careers_url": "https://job-boards.greenhouse.io/tines",
+  "what_they_do": "No-code and AI workflow, app and agent platform for security and IT teams",
+  "problem": "Security and IT teams drown in repetitive alerts and tickets, and AI tools spread without governance or oversight",
+  "industry": "Security & IT workflow automation (SOAR / AI agents)",
+  "stage": "Series C",
+  "last_round": "$125M",
+  "last_round_date": "Feb 2025",
+  "lead_investors": "Goldman Sachs Alternatives (growth equity); SoftBank Vision Fund 2, Accel participating",
+  "total_open_roles": "33",
+  "ops_roles": "Senior Manager, Professional Services Engineering; Senior Forward Deployed Engineer - West; Senior Manager, Pricing; Lead Customer Success Manager - West",
+  "hiring_trend": "LinkedIn ~633 staff (+31% YoY); job postings +120% in 2026 (Revelio); 100 US jobs (Mar 2026) and 100 Irish jobs (Oct 2026) announced",
+  "headcount": "~550-630",
+  "latest_news": "Announced 100 new Irish jobs and a new Dublin HQ to scale its Tines 3B AI platform",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.irishtimes.com/business/2026/10/12/tech-company-tines-to-create-100-jobs-in-ireland-over-two-years-and-open-new-facility/",
+  "traction": "Revenue doubled to $39.6M (FY Jan 2025); 122% NRR; targeting $100M ARR in 2026",
+  "red_flags": "Watch-outs (not scored): an unannounced small job cut in Feb 2026 (a sales leader posted publicly that she was laid off), while headcount still grew ~30% YoY; COO/CFO Heather Planishek left after about 5 months (hired Jul 2025, named Lambda CFO Dec 2025). No lawsuits, down round or company-wide layoffs found.",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn: 'Last week, I was unexpectedly laid off from Tines' (Feb 2026)",
+    "url": "https://www.linkedin.com/posts/courtney-reding-494b9011_last-week-i-was-unexpectedly-laid-off-from-activity-7426684404330270720-bpKD"
+   },
+   {
+    "label": "Fortune: Planishek named Lambda CFO after serving as Tines COO/CFO (Dec 2025)",
+    "url": "https://fortune.com/2025/12/09/berkshire-appoints-new-cfo-as-analysts-warn-of-more-executive-departures"
+   },
+   {
+    "label": "PR Newswire: Tines press releases incl. Planishek appointment (Jul 2025)",
+    "url": "https://www.prnewswire.com/news/tines/"
+   }
+  ],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "78",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Tines-Reviews-E4429333.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Co-leader of modern no-code SOAR with Torq, 122% NRR and a second line (IT workflows, Tines 3B for governed AI apps and agents) with SAP, Coinbase and Databricks as customers; but platform giants bundle SOAR cheaply and Torq ($1.2B, Jan 2026) is racing it in AI SOC.",
+  "distance_sources": [
+   {
+    "label": "Tines Almanac: 122% NRR, enterprise base tripled, $100M ARR goal (Mar 2026)",
+    "url": "https://www.tines.com/blog/tines-almanac/"
+   },
+   {
+    "label": "Irish Times: Tines revenue doubled to $39.6M (May 2026)",
+    "url": "https://www.irishtimes.com/business/2026/05/28/tines-doubled-revenue-ahead-of-125m-funding-round/"
+   },
+   {
+    "label": "Automation Atlas: Torq vs Tines, the two leading no-code SOAR platforms (May 2026)",
+    "url": "https://automationatlas.io/guides/torq-vs-tines-2026-comparison/"
+   },
+   {
+    "label": "SecurityWeek: Torq raises $140M at $1.2B (Jan 2026)",
+    "url": "https://www.securityweek.com/torq-raises-140-million-at-1-2-billion-valuation"
+   }
+  ],
+  "hiring_locations": [
+   "Boston",
+   "Dublin",
+   "Sydney",
+   "Remote (US)",
+   "Remote (Ireland)"
+  ]
+ },
+ {
+  "name": "LiveKit",
+  "slug": "livekit",
+  "site": "https://livekit.io",
+  "careers_url": "https://jobs.ashbyhq.com/livekit",
+  "what_they_do": "Open-source framework and cloud for building real-time voice, video and physical AI agents",
+  "problem": "Building voice agents that respond instantly, scale to millions of calls and connect to phones is hard plumbing",
+  "industry": "Voice AI infrastructure / real-time communications",
+  "stage": "Series C",
+  "last_round": "$100M",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "Index Ventures (Series C); Altimeter (Series A/B)",
+  "total_open_roles": "28",
+  "ops_roles": "Senior Product Operations Manager; Forward Deployed Engineer, Spanish/English; Forward Deployed Engineer; Technical Account Manager",
+  "hiring_trend": "Headcount ~55 → ~117 Q1 2025 to Q1 2026 (Revelio), ~175 on LinkedIn (+165% YoY, est.); 28 open roles",
+  "headcount": "~120-175",
+  "latest_news": "Acquired Loophole Labs (8-person infra team) to cut agent startup times under 3 seconds",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://fortune.com/press-releases/livekit-acquires-loophole-labs-ai-agent-infrastructure-2026-09-24/",
+  "traction": "$10M+ run rate in 2024 (CEO); 500+ paying customers incl. OpenAI, Salesforce, Tesla",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "4",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/LiveKit-Reviews-E10388730.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "The default open-source stack for real-time voice agents (powers ChatGPT voice mode, Salesforce Agentforce voice, Tesla, ~25% of US 911 calls) with new inference, observability and simulation lines; revenue is still small and the AI labs ship their own realtime voice APIs.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: LiveKit powers OpenAI's Voice Mode, 500+ paying customers, $10M+ run rate (Apr 2025)",
+    "url": "https://techcrunch.com/2025/04/10/livekits-tools-help-power-real-time-communications/"
+   },
+   {
+    "label": "LiveKit blog: Series C, $100M at $1B led by Index (Jan 2026)",
+    "url": "https://livekit.com/blog/livekit-series-c"
+   },
+   {
+    "label": "LiveKit blog: Agent Simulations GA (Oct 2026)",
+    "url": "https://livekit.com/blog/testing-voice-agents-with-agent-simulations"
+   }
+  ],
+  "hiring_locations": [
+   "APJ",
+   "San Francisco",
+   "Remote (North America)",
+   "Remote (US)"
+  ]
  }
 ]
