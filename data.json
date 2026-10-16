@@ -30654,5 +30654,81 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "MotherDuck",
+  "slug": "motherduck",
+  "site": "https://motherduck.com",
+  "careers_url": "https://jobs.ashbyhq.com/motherduck",
+  "what_they_do": "Serverless cloud data warehouse built on DuckDB, for analysts, apps and AI agents",
+  "problem": "Small and mid-size data teams overpay for Snowflake-style warehouses and wait on slow, complex infrastructure for everyday queries",
+  "industry": "Data infrastructure / cloud data warehouse",
+  "stage": "Series B+",
+  "last_round": "$33M",
+  "last_round_date": "May 2025",
+  "lead_investors": "Undisclosed (unannounced extension at ~$496M post; New Forge, Sherpalo per CB Insights); Series B led by Felicis",
+  "total_open_roles": "3",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~81 → ~132 Q1 2025 to Q1 2026 (Revelio, +63%); LinkedIn ~164; only 3 open roles now vs 12–16 active postings in 2025–26",
+  "headcount": "~130-165",
+  "latest_news": "Amazon bought DuckLabs, DuckDB's developer; MotherDuck stays independent and adds enterprise DuckDB support",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://motherduck.com/blog/duckdb-amazon/",
+  "traction": "~850 paying customers after 18 months of commercial operation (Jun 2026); revenue not disclosed",
+  "red_flags": "Watch (not scored): Amazon acquired DuckLabs (closed ~Sep 2026), the team behind DuckDB and a MotherDuck shareholder; MotherDuck's CEO expects AWS to launch its own DuckDB service. A Jun 2026 Glassdoor review cites burnout and engineering decisions being overturned by two strong leaders. The $33M May 2025 round was never announced (valuation up ~24% from the 2023 round, not a down round). No layoffs found.",
+  "red_flags_sources": [
+   {
+    "label": "AWS: Amazon to acquire DuckLabs (Aug 2026)",
+    "url": "https://aws.amazon.com/blogs/big-data/aws-and-ducklabs-building-the-future-of-analytics-together/"
+   },
+   {
+    "label": "MotherDuck CEO: DuckDB outgrows its nest; expects an Amazon DuckDB service (Aug 2026)",
+    "url": "https://motherduck.com/blog/duckdb-amazon/"
+   },
+   {
+    "label": "Layerbase: DuckLabs owns a stake in MotherDuck, now held by AWS (Aug 2026)",
+    "url": "https://layerbase.com/blog/aws-ducklabs-duckdb-governance"
+   },
+   {
+    "label": "Glassdoor review: burnout, eng leadership overturning decisions (Jun 2026)",
+    "url": "https://www.glassdoor.sg/Reviews/Employee-Review-MotherDuck-E9737849-RVW104565525.htm"
+   },
+   {
+    "label": "Forge: $33M Series B+ at $496M post, undisclosed investors (May 2025)",
+    "url": "https://forgeglobal.com/motherduck_ipo"
+   }
+  ],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.3",
+  "glassdoor_reviews": "3",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-MotherDuck-EI_IE9737849.11,21.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "The leading independent DuckDB cloud with ~850 paying customers and new AI pipeline and dashboard lines, but small next to Snowflake, Databricks, BigQuery and ClickHouse, and Amazon now owns DuckDB's developer and may sell its own DuckDB service to the same buyers.",
+  "distance_sources": [
+   {
+    "label": "SiliconANGLE: MotherDuck Flights launch; ~850 paying customers (Jun 2026)",
+    "url": "https://siliconangle.com/2026/06/10/exclusive-motherduck-adds-agentic-data-ingestion-cloud-analytics-service/"
+   },
+   {
+    "label": "InfoWorld: AWS acquires DuckLabs, what it wants (Aug 2026)",
+    "url": "https://www.infoworld.com/article/4214800/aws-acquires-ducklabs-but-what-does-it-want-from-the-team-behind-duckdb.html"
+   },
+   {
+    "label": "The New Stack: MotherDuck buys Tower, its first acquisition (Aug 2026)",
+    "url": "https://thenewstack.io/motherduck-tower-acquisition-python/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Amsterdam",
+   "Berlin",
+   "Remote"
+  ]
  }
 ]
