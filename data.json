@@ -29775,5 +29775,55 @@
    "New York",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Vantora",
+  "slug": "vantora",
+  "site": "https://www.vantora.us",
+  "careers_url": "https://jobs.gem.com/vantora",
+  "what_they_do": "Builds AI-native companies inside industrial enterprises, co-owned with the partner from day one",
+  "problem": "Industrial giants can't buy off-the-shelf AI that fits their operations, data and biggest P&L problems",
+  "industry": "Enterprise AI venture building / industrial AI",
+  "stage": "Growth equity (PE majority stake)",
+  "last_round": "$100M+",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Silversmith Capital Partners",
+  "total_open_roles": "18",
+  "ops_roles": "Portfolio Operations Manager; Venture General Manager; Customer Success Specialist - Overroute; Customer Success Specialist - Scout",
+  "hiring_trend": "Headcount +56% YoY (~122 on LinkedIn, +44 people); 18 open roles on Gem",
+  "headcount": "~100-122",
+  "latest_news": "Rebranded from UP.Labs; Silversmith took a majority stake with $100M+, first outside capital",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+  "traction": "Profitable; revenue +79% YoY to ~$50M; 17 ventures launched with Porsche, J.B. Hunt, Alaska",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Profitable and growing fast, but revenue sits with a handful of Fortune 500 partners, the model is services-heavy and was just reworked, and Palantir and consultancies like BCG X sell AI-in-operations to the same industrial buyers.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Vantora raises $100M, shifts to proprietary builds for partners (Sep 2026)",
+    "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
+   },
+   {
+    "label": "Silversmith: Vantora secures $100M+ growth investment (Sep 2026)",
+    "url": "https://www.silversmith.com/news/vantora-secures-more-than-100-million-from-silversmith-capital-partners"
+   },
+   {
+    "label": "Inc. Russia: revenue up ~79% to near $50M, profitable (Sep 2026)",
+    "url": "https://incrussia.ru/news/sozdatel-ii-biznesov-dlya-porsche-i-alaska-airlines-poluchil-kontrolnogo-investora/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
