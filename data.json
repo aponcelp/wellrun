@@ -29718,5 +29718,62 @@
    "New York",
    "Atlanta"
   ]
+ },
+ {
+  "name": "Bastion",
+  "slug": "bastion",
+  "site": "https://bastion.com",
+  "careers_url": "https://jobs.ashbyhq.com/bastion",
+  "what_they_do": "Regulated custody, issuance and payout infrastructure for enterprise and bank stablecoin programs",
+  "problem": "Big companies want branded stablecoins and stablecoin payments without building custody, licenses and compliance themselves",
+  "industry": "Fintech / stablecoin infrastructure",
+  "stage": "Series A",
+  "last_round": "$14.6M",
+  "last_round_date": "Sep 2025",
+  "lead_investors": "Coinbase Ventures",
+  "total_open_roles": "7",
+  "ops_roles": "Payment Operations Associate",
+  "hiring_trend": "Headcount 27 (Sep 2025) to ~50 (Oct 2026), +39% YoY on LinkedIn; 7 open roles",
+  "headcount": "~50",
+  "latest_news": "Chosen as licensed custodian for Samsung Wallet's USDC feature on 82M US Galaxy phones",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/10/08/3376923/0/en/bastion-selected-as-one-of-samsung-wallet-s-stablecoin-partners-providing-regulated-infrastructure-custody-and-cross-border-remittances.html",
+  "traction": "Samsung Wallet (82M devices, launching late Oct 2026) and Sony Bank deals; no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 15, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Licenses (NY trust charter, OCC conditional national trust charter, money transmitter licenses) and embedded custody make it sticky once a client is live, but its marquee programs (Samsung Wallet, Sony Bank) are not live yet and it trails Paxos, Anchorage and Stripe's Bridge in a crowded field.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: Samsung Wallet stablecoin partner, launching last week of Oct 2026 (Oct 7 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/08/3376923/0/en/bastion-selected-as-one-of-samsung-wallet-s-stablecoin-partners-providing-regulated-infrastructure-custody-and-cross-border-remittances.html"
+   },
+   {
+    "label": "OCC Corporate Decision #1391: conditional national trust bank conversion (Sep 2026)",
+    "url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1391.pdf"
+   },
+   {
+    "label": "TokenPost: Sony Bank stablecoin still under consideration, no launch date (Sep 2026)",
+    "url": "https://www.tokenpost.com/news/business/25504"
+   },
+   {
+    "label": "Fortune: $14.6M round; competes with Paxos and Agora; 27 staff (Sep 2025)",
+    "url": "https://fortune.com/crypto/2025/09/24/bastion-coinbase-sony-samsung-hashed-fundraise/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote (US)"
+  ]
  }
 ]
