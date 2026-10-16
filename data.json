@@ -30784,5 +30784,55 @@
    "Toronto",
    "Remote"
   ]
+ },
+ {
+  "name": "Float",
+  "slug": "float",
+  "site": "https://floatfinancial.com",
+  "careers_url": "https://jobs.ashbyhq.com/float",
+  "what_they_do": "Corporate cards, business accounts, bill pay and expense software for Canadian businesses",
+  "problem": "Canadian finance teams juggle slow banks and US tools that don't handle CAD, provincial taxes or French",
+  "industry": "Fintech / spend management (Canada)",
+  "stage": "Series C",
+  "last_round": "C$85M (~US$61M)",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Inovia Capital (Series C); Goldman Sachs Alternatives (Series B)",
+  "total_open_roles": "21",
+  "ops_roles": "Product Operations Manager, Cards & Spend Management; Revenue Operations Manager, Customer Success; Acquisition (Sales) Operations Manager; Bilingual Operations Associate, Risk",
+  "hiring_trend": "Headcount ~100 (Jan 2025) → ~150 (Jan 2026) → ~170 (Jun 2026); 21 open roles",
+  "headcount": "~170",
+  "latest_news": "Launched Float Payments: bill pay by card, 21-currency vendor payments, free EFT/ACH",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/rob-khazzam-a795b211_icymi-we-just-launched-float-payments-activity-7513235385984909312-yUFO",
+  "traction": "Revenue +120% and customers doubled to 7,500+ since Jan 2025 Series B; >C$30M revenue then",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "3.4",
+  "glassdoor_reviews": "52",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Float-Reviews-E5181544.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Canada's homegrown leader in spend management (7,500+ businesses, about a third using more than one product, cash balances up 4.5x), but Ramp entered Canada in Jul 2026 with far more capital.",
+  "distance_sources": [
+   {
+    "label": "Float: C$85M Series C, customers and revenue since Series B (Jun 2026)",
+    "url": "https://floatfinancial.com/press/float-financial-raises-cad-85-million-series-c"
+   },
+   {
+    "label": "Fintech.ca: Ramp brings finance platform to Canada, opens Toronto office (Jul 2026)",
+    "url": "https://www.fintech.ca/2026/07/28/ramp-brings-finance-platform-to-canada/"
+   }
+  ],
+  "hiring_locations": [
+   "Toronto",
+   "Calgary",
+   "Remote (Canada)"
+  ]
  }
 ]
