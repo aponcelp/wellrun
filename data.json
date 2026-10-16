@@ -30901,5 +30901,68 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "BigPanda",
+  "slug": "bigpanda",
+  "site": "https://www.bigpanda.io",
+  "careers_url": "https://www.bigpanda.io/company/panda-way/jobs/",
+  "what_they_do": "AI that groups IT alerts and automates incident detection, triage and response for enterprises",
+  "problem": "IT ops teams drown in alert noise and slow manual triage, so outages last longer and cost more",
+  "industry": "AIOps / IT incident management",
+  "stage": "Series E",
+  "last_round": "$20M",
+  "last_round_date": "Aug 2022",
+  "lead_investors": "UBS, Wells Fargo Strategic Capital (Series E extension); Jan 2022 $190M led by Advent International and Insight Partners",
+  "total_open_roles": "22",
+  "ops_roles": "Product Operations Manager, Launch Readiness & Tooling (Remote, US); Sr Technical Program Manager, Professional Services (Remote, US, EST/CT preferred); Senior Business Value Manager (Remote, US)",
+  "hiring_trend": "Shrinking: ~376 → ~318 staff 2023 to 2026 (−15.5%, −4.8% YoY, Revelio); postings down 67% in 2026",
+  "headcount": "~320",
+  "latest_news": "Partnered with ServiceNow to embed its event intelligence and incident automation",
+  "latest_news_date": "Mar 2026",
+  "latest_news_url": "https://www.bigpanda.io/press-release/partnership-with-servicenow/",
+  "traction": "Revenue est. $30–40M (third-party); G2 Leader in AIOps Summer 2026; headcount falling",
+  "red_flags": "Secondary-market valuation est. ~$0.6B, down 51% from the $1.2B 2022 round, with no new funding in 4 years. Workforce shrinking about 15% since 2023 and job postings down 67% in 2026; Glassdoor reviews cite repeated layoffs and leadership churn.",
+  "red_flags_sources": [
+   {
+    "label": "TrueUp: BigPanda secondary valuation $0.6B, down 51% from last round (Notice.co est., Oct 2026)",
+    "url": "https://www.trueup.io/co/bigpanda"
+   },
+   {
+    "label": "Revelio Labs: BigPanda headcount 376 → 318 (2023–2026), postings −66.7% in 2026",
+    "url": "https://www.reveliolabs.com/companies/bigpanda/employees"
+   },
+   {
+    "label": "Glassdoor: BigPanda reviews mentioning layoffs",
+    "url": "https://www.glassdoor.co.uk/Reviews/BigPanda-layoff-Reviews-EI_IE968647.0,8_KH9,15.htm"
+   }
+  ],
+  "score": "0.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.7",
+  "glassdoor_reviews": "168",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/BigPanda-Reviews-E968647.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "An early AIOps leader that sits deep in enterprise IT stacks, but it is being squeezed by ServiceNow, Datadog, Dynatrace and PagerDuty bundling 'good enough' correlation. It now partners with ServiceNow for reach, and it is shrinking with no fresh capital.",
+  "distance_sources": [
+   {
+    "label": "BigPanda: ServiceNow partnership (Mar 2026)",
+    "url": "https://www.bigpanda.io/press-release/partnership-with-servicenow/"
+   },
+   {
+    "label": "Tracxn: BigPanda profile, ranked 2nd of 104 active competitors",
+    "url": "https://tracxn.com/d/companies/bigpanda/__WUzKLUpTSEm6x1hshS09GQQtQFLEKvqmbaWcUgB_4nA"
+   },
+   {
+    "label": "Revelio Labs: BigPanda headcount trend",
+    "url": "https://www.reveliolabs.com/companies/bigpanda/employees"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
