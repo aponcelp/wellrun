@@ -30608,5 +30608,51 @@
    "Toronto Hub",
    "Remote"
   ]
+ },
+ {
+  "name": "RapidCanvas",
+  "slug": "rapidcanvas",
+  "site": "https://www.rapidcanvas.ai",
+  "careers_url": "https://www.rapidcanvas.ai/careers",
+  "what_they_do": "AI platform plus field AI engineers who build and run custom enterprise AI apps",
+  "problem": "Mid-size enterprises have AI mandates but no in-house AI talent to get past pilots into production",
+  "industry": "Enterprise AI / managed AI delivery",
+  "stage": "Series B",
+  "last_round": "$29M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Vertex Ventures SEA & India, Hitachi Ventures",
+  "total_open_roles": "14",
+  "ops_roles": "AI Engagement Manager (Remote - USA); AI Engagement Manager (Remote - LATAM); Senior Product Manager - Enterprise AI Solutions (Remote - India)",
+  "hiring_trend": "Headcount 68 → 106 Q1 2025 to Q1 2026 (Revelio, +56%); postings up in 2026",
+  "headcount": "~106-123",
+  "latest_news": "Raised $29M Series B led by Vertex Ventures; total funding $52.5M",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.rapidcanvas.ai/newsroom/rapidcanvas-raises-29m-series-b-to-bring-fortune-100-grade-ai-to-every-enterprise",
+  "traction": "ARR up 8x over six quarters (self-reported); 75+ enterprise customers in 2026",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.8",
+  "glassdoor_reviews": "22",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/RapidCanvas-Reviews-E8731362.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 16, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Embedded field engineers and a customer-specific context layer make it sticky, and over 40% of customers run several use cases; but it is a small follower in a crowded field (Palantir, Dataiku, DataRobot, big IT services firms) with services-heavy delivery.",
+  "distance_sources": [
+   {
+    "label": "RapidCanvas: $29M Series B, 8x ARR, 75+ enterprises, 40% multi-use-case (Oct 2026)",
+    "url": "https://www.rapidcanvas.ai/newsroom/rapidcanvas-raises-29m-series-b-to-bring-fortune-100-grade-ai-to-every-enterprise"
+   },
+   {
+    "label": "Revelio Labs: RapidCanvas headcount 106, Q1 2026",
+    "url": "https://www.reveliolabs.com/companies/rapidcanvas/employees"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
