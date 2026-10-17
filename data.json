@@ -31438,5 +31438,126 @@
    "New York",
    "Salt Lake City"
   ]
+ },
+ {
+  "name": "Belong",
+  "slug": "belong",
+  "site": "https://belonghome.com",
+  "careers_url": "https://apply.workable.com/belong-6",
+  "what_they_do": "Full-service, tech-run leasing and property management for single-family rental homeowners",
+  "problem": "Small landlords juggle leasing agents, tenants, repairs and rent collection themselves, with poor service and costly vacancies",
+  "industry": "Proptech / residential property management",
+  "stage": "Series C",
+  "last_round": "$50M equity (+$30M debt)",
+  "last_round_date": "May 2022",
+  "lead_investors": "Fifth Wall (Series C); Battery Ventures (B), GGV Capital (A), a16z (Seed)",
+  "total_open_roles": "3",
+  "ops_roles": "Experience Manager (Concierge, Member Support, Home Occupancy ops; Buenos Aires)",
+  "hiring_trend": "LinkedIn ~206-210 staff, +21% YoY (est.); growth skewed to Buenos Aires/Lima; open roles down to 3 from 'hiring across all roles' in Jan 2026",
+  "headcount": "~200-210",
+  "latest_news": "Launched in New Hampshire, its 21st state (61 metro regions); 23 states + DC by Oct",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://belonghome.com/blog/new-hampshire-meet-belong-a-residential-operating-system-for-your-home",
+  "traction": "CEO says 2025 revenue +60%, gross profit +76%, listings +130% YoY; 12 new states",
+  "red_flags": "Repeated rounds of layoffs and offshoring described in Glassdoor reviews from Jan 2025 through Jan 2026 (\"nonstop layoffs\", \"entire teams disappear\"); no new equity round since May 2022. Smaller: a hidden-fee false-advertising class action (Gupta, Oct 2024, settled within a month) and two Dec 2025 employee suits (discrimination; FLSA wage claim, settled 2026) - noted, not scored.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor: Belong (CA) reviews mentioning layoffs (Jan 2025, Aug 2025, Jan 2026)",
+    "url": "https://www.glassdoor.com/Reviews/Belong-CA-layoff-Reviews-EI_IE3168267.0,9_KH10,16.htm"
+   },
+   {
+    "label": "TechCrunch: Belong's last raise, $50M equity + $30M debt led by Fifth Wall (May 2022)",
+    "url": "https://techcrunch.com/2022/05/19/belong-secures-80m-in-equity-debt-to-take-the-pain-out-of-rental-property-management/"
+   },
+   {
+    "label": "Justia: Gupta v. Belong Home class action, settled and dismissed (Oct-Dec 2024)",
+    "url": "https://dockets.justia.com/docket/california/candce/3:2024cv07239/437962"
+   },
+   {
+    "label": "PacerMonitor: Versailles v. Belong Inc employment discrimination suit (S.D. Fla., Dec 2025)",
+    "url": "https://www.pacermonitor.com/public/case/61836514/Versailles_v_Belong_Inc"
+   },
+   {
+    "label": "Justia: Kotsiopoulou v. Belong FLSA suit, settled (S.D. Fla., Dec 2025-Apr 2026)",
+    "url": "https://dockets.justia.com/docket/florida/flsdce/1:2025cv26173/704305"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.2",
+  "glassdoor_reviews": "250",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Belong-CA-Reviews-E3168267.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 17, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "One of several venture-backed tech-enabled property managers (Mynd, Evernest, Poplar, Doorstead) in a fragmented market with no clear leader; density across 60+ metros is a real edge, but it has not raised equity since 2022 and runs on rolling cuts and offshoring, so burn risk is high.",
+  "distance_sources": [
+   {
+    "label": "Startuply: Belong's competitive set (Mynd, Evernest, Poplar Homes, Doorstead) (May 2026)",
+    "url": "https://startuply.vc/article/belong-s-55-million-series-c-aims-to-integrate-the-rental-home-s-entire-lifecycl-1de99q"
+   },
+   {
+    "label": "Belong: New Hampshire launch, 21st state and 61 metro regions (Sep 2026)",
+    "url": "https://belonghome.com/blog/new-hampshire-meet-belong-a-residential-operating-system-for-your-home"
+   },
+   {
+    "label": "Belong (LinkedIn): CEO's 2025 results, revenue +60%, listings +130% (Jan 2026)",
+    "url": "https://www.linkedin.com/posts/belonghq_we-are-growing-fast-and-hiring-in-miami-activity-7414119430844272640-L6rd"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Henry",
+  "slug": "henry",
+  "site": "https://www.henry.ai",
+  "careers_url": "https://app.dover.com/jobs/henry",
+  "what_they_do": "AI that drafts underwriting, comps, offering memos and pitch decks for commercial real estate brokers",
+  "problem": "Brokers and analysts lose days building BOVs, offering memos and decks by hand for every deal",
+  "industry": "Proptech / AI for commercial real estate",
+  "stage": "Series A",
+  "last_round": "$16.5M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "FirstMark Capital (Series A); Susa Ventures, 1Sharpe (seed)",
+  "total_open_roles": "8",
+  "ops_roles": "Associate, Account Management (onboarding through renewal)",
+  "hiring_trend": "Headcount ~15 → ~35 in 12 mo (+133%, LinkedIn); team 'more than doubled' (company, Aug 2026); open roles 2–3 (early Sep) → 8 now",
+  "headcount": "~32-36",
+  "latest_news": "Henry Deal raises existing customers' spend 30–40%; 80%+ of new pilots convert to paid",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://commercialobserver.com/2026/09/henryai-henry-deal/",
+  "traction": "150+ brokerage firms incl. 9 of top 10 US; ~$3M ARR Sep 2025, revenue ~3x since (founder claims)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 17, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast early adoption across the biggest CRE brokerages, with firm data and workflows embedded over a two-week onboarding, but it is a two-year-old niche player beside Buildout's 50,000-broker installed base (now hiring for AI), cheaper AI deck tools, and general-purpose models the founders say softened demand early in 2026; the newer Henry Deal platform is still unproven.",
+  "distance_sources": [
+   {
+    "label": "Upstarts Media: Henry AI raises $16.5M, launches Henry Deal; demand softened after Claude releases (Jul 2026)",
+    "url": "https://www.upstartsmedia.com/p/startup-henry-ai-real-estate-series-a"
+   },
+   {
+    "label": "Commercial Observer: Henry Deal upsell and pilot conversion figures (Sep 2026)",
+    "url": "https://commercialobserver.com/2026/09/henryai-henry-deal/"
+   },
+   {
+    "label": "Yujie Cheng: Henry AI strategic teardown (Buildout, competitors, ARR claims) (Sep 2026)",
+    "url": "https://chengyujie.com/notes/henry-ai-strategic-teardown"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
