@@ -31319,5 +31319,70 @@
    "Seattle",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "WeaveGrid",
+  "slug": "weavegrid",
+  "site": "https://www.weavegrid.com",
+  "careers_url": "https://jobs.ashbyhq.com/weave-grid",
+  "what_they_do": "Software that lets utilities orchestrate EV charging, home batteries and smart devices on the grid",
+  "problem": "Utilities face fast load growth from EVs and devices without overbuilding transformers, feeders and substations",
+  "industry": "Energy tech / grid orchestration (DERMS)",
+  "stage": "Series B",
+  "last_round": "$28M",
+  "last_round_date": "Dec 2024",
+  "lead_investors": "Woven Capital (Toyota); Salesforce Ventures (Series B lead)",
+  "total_open_roles": "3",
+  "ops_roles": "",
+  "hiring_trend": "Shrinking: ~87 → ~59 staff Q1 2025 to Q1 2026 (Revelio), LinkedIn ~74 (-16% YoY); 3 open roles; ~20% layoff Sep 2025",
+  "headcount": "~60-75",
+  "latest_news": "Powers new PG&E and GM Energy home-charging bundle with managed-charging savings",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.weavegrid.com/news/new-pg-e-and-gm-energy-bundle-makes-home-ev-charging-easier-and-more-affordable",
+  "traction": "~$5.5M revenue (est.); works with utilities serving 50%+ of US EVs; 4+ new utility programs in 2026",
+  "red_flags": "Sep 2025 layoff cut ~20% of staff across teams and seniority; headcount down ~32% YoY to ~59 by Q1 2026 (Revelio). No new priced VC round since Dec 2024; only undisclosed strategic checks from Hyundai/Kia (Jan 2025) and LG Technology Ventures (Sep 2025).",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn: former employee on ~20% layoff at WeaveGrid (Sep 2025)",
+    "url": "https://www.linkedin.com/posts/ian-ferguson-064030a7_weavegrid-will-end-this-week-20-smaller-activity-7374103328621846529-ulpj"
+   },
+   {
+    "label": "TrueUp: WeaveGrid layoff tracker (Sep 2025, 16 impacted)",
+    "url": "https://www.trueup.io/co/weavegrid"
+   },
+   {
+    "label": "Revelio Labs: Weave Grid headcount 87 → 59, Q1 2025 to Q1 2026",
+    "url": "https://www.reveliolabs.com/companies/weave-grid/employees"
+   }
+  ],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "10",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/WeaveGrid-Reviews-E8543499.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 17, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "A recognized leader in US EV managed charging (Wood Mackenzie; utilities serving 50%+ of US EVs, sticky multi-year regulated programs), but a small, shrinking company in a crowded field with EnergyHub (Alarm.com), ev.energy and the automaker JV ChargeScape, and it depends on automaker telematics access.",
+  "distance_sources": [
+   {
+    "label": "WeaveGrid: Wood Mackenzie names WeaveGrid a managed-charging leader (Sep 2025)",
+    "url": "https://www.weavegrid.com/news/wood-mackenzie-names-weavegrid-managed-charging-leader"
+   },
+   {
+    "label": "Teardown: ev.energy competitive landscape (ChargeScape, EnergyHub, WeaveGrid)",
+    "url": "https://www.teardown.ai/companies/ev-energy"
+   },
+   {
+    "label": "EnergyHub: EV utility programs, 60%+ of EVs reachable via integrations",
+    "url": "https://www.energyhub.com/edge-derms-platform/der-types/electric-vehicle-utility-programs"
+   }
+  ],
+  "hiring_locations": [
+   "Remote"
+  ]
  }
 ]
