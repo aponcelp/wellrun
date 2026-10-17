@@ -31384,5 +31384,59 @@
   "hiring_locations": [
    "Remote"
   ]
+ },
+ {
+  "name": "Setpoint",
+  "slug": "setpoint",
+  "site": "https://www.setpoint.io",
+  "careers_url": "https://job-boards.greenhouse.io/setpoint",
+  "what_they_do": "Software and diligence services that run debt facilities and securitizations for asset-backed lenders",
+  "problem": "Borrowers and lenders reconcile loan tapes, borrowing bases and diligence by spreadsheet and email, slowly and error-prone",
+  "industry": "Fintech / asset-backed finance infrastructure",
+  "stage": "Series B",
+  "last_round": "$31M",
+  "last_round_date": "Aug 2024",
+  "lead_investors": "645 Ventures (Series B); Andreessen Horowitz (Series A)",
+  "total_open_roles": "8",
+  "ops_roles": "Implementation Manager; Capital Solutions Manager; Capital Solutions Manager (Data OS, Insight OS); Analyst, Diligence",
+  "hiring_trend": "Headcount ~100 (Apr 2025) → ~165 (Aug 2026), +21–39% YoY; open roles ~18 (Jul) → 8 now",
+  "headcount": "~165",
+  "latest_news": "Served as third-party diligence platform for Figure's $316M HELOC securitization",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://business.am-news.com/am-news/article/bizwire-2026-9-9-setpoint-serves-as-third-party-diligence-platform-for-figures-316-million-heloc-securitization",
+  "traction": "Revenue just under $20M in 2023 (+600%); $100B+ annual volume; 200+ customers; Inc. 5000 #344",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 17, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A leading modern platform in a niche category, embedded in lenders' and borrowers' facility workflows, with bank strategics (Citi, Wells Fargo), 200+ customers and a second line in rating agency-approved diligence (inTENT); still small, partly services-heavy, and tied to deal volumes.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Setpoint to acquire inTENT Fulfillment (Jan 2026)",
+    "url": "https://www.businesswire.com/news/home/20260113314404/en/Setpoint-Announces-Agreement-to-Acquire-inTENT-Fulfillment-and-Expands-Rating-AgencyApproved-Loan-Diligence"
+   },
+   {
+    "label": "Fortune: Citi and Wells Fargo join $31M Setpoint Series B (Aug 2024)",
+    "url": "https://fortune.com/2024/08/13/citi-and-wells-fargo-join-31-million-funding-round-for-loan-startup-setpoint/"
+   },
+   {
+    "label": "ABF Journal: Ben Rubenstein 2026 Innovator ($100B+ annual volume) (May 2026)",
+    "url": "https://www.abfjournal.com/profile/ben-rubenstein-2026-innovator/"
+   }
+  ],
+  "hiring_locations": [
+   "Austin",
+   "New York",
+   "Salt Lake City"
+  ]
  }
 ]
