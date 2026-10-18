@@ -31740,9 +31740,9 @@
   ]
  },
  {
-  "name": "Hasura",
-  "slug": "hasura",
-  "site": "https://hasura.io",
+  "name": "PromptQL",
+  "slug": "promptql",
+  "site": "https://promptql.io",
   "careers_url": "https://jobs.gem.com/promptql",
   "what_they_do": "GraphQL data APIs, now PromptQL: a shared AI workspace that queries company data",
   "problem": "Teams can't get accurate AI answers from scattered company data, and the context lives in people's heads and Slack",
