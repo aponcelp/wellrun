@@ -32013,5 +32013,51 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "CarbonAI",
+  "slug": "carbonai",
+  "site": "https://carboncre.ai",
+  "careers_url": "",
+  "what_they_do": "AI agents that run underwriting, diligence and loan surveillance for commercial real estate lenders",
+  "problem": "CRE lending teams spend hours keying rent rolls, leases and financials into models instead of judging deals",
+  "industry": "Vertical AI / commercial real estate lending",
+  "stage": "Seed",
+  "last_round": "$8M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Cowboy Ventures (latest round); Bling Capital (earlier round)",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~4 → ~7 in 12 mo (+75%, LinkedIn est.); first sales hires planned; no public job board",
+  "headcount": "~7-9",
+  "latest_news": "Announced $12M raised to date, latest $8M round led by Cowboy Ventures",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://finance.yahoo.com/real-estate/articles/carbonai-raises-12m-bring-ai-130000246.html",
+  "traction": "7-figure contracted revenue within 6 months of early-2025 launch; Greystone a customer; 40,000+ documents processed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Seed-stage team of under ten with early marquee lenders and per-loan pricing that embeds in lenders' own Excel models and quarterly surveillance, but adoption is too early to judge in a crowded CRE-AI field.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: CarbonAI raises $12M led by Cowboy Ventures (Oct 2026)",
+    "url": "https://www.businesswire.com/news/home/20261015411340/en/CarbonAI-Raises-%2412M-to-Bring-AI-Agents-to-Commercial-Real-Estate-Lending"
+   },
+   {
+    "label": "Axios Pro: $12M over two rounds, $8M latest; per-document/per-deal/per-loan pricing (Oct 2026)",
+    "url": "https://www.axios.com/pro/fintech-deals/2026/10/15/carbonai-12-million-cowboy-cre-lending-ai"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
