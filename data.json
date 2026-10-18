@@ -32305,5 +32305,68 @@
   "hiring_locations": [
    "Seattle"
   ]
+ },
+ {
+  "name": "Freehand",
+  "slug": "freehand",
+  "site": "https://www.freehand.ai",
+  "careers_url": "https://jobs.ashbyhq.com/freehand",
+  "what_they_do": "AI agents that audit, dispute and pay supply-chain invoices (freight, 3PL, tariffs) for enterprises",
+  "problem": "Big shippers overpay on freight, logistics and trade bills because checking invoices against contracts is manual, slow work",
+  "industry": "Supply chain spend management / freight audit & payment",
+  "stage": "Series B",
+  "last_round": "$75M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Battery Ventures, NewRoad Capital Partners",
+  "total_open_roles": "10",
+  "ops_roles": "Chief of Staff / Strategic Finance / BizOps; AI Deployment Strategist",
+  "hiring_trend": "Headcount ~119 (Jun 2026) → ~157 (Oct), +17% in 90 days (Tracxn/Inc42 est.); open roles 2 → 10 since spring",
+  "headcount": "~155-160",
+  "latest_news": "Launched Freehand Pay (powered by Stripe) to pay and reconcile supplier invoices end-to-end",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/10/13/3379529/0/en/freehand-launches-freehand-pay-expanding-ai-teams-from-invoice-audit-to-payment.html",
+  "traction": "~50 enterprise customers (Meta, J&J, Pfizer, Unilever); headcount +17% in 90 days; ARR undisclosed",
+  "red_flags": "Sept 2026: rival Trax Technologies sued Freehand in federal court (N.D. Cal.) for false advertising and trade libel over its competitor-comparison marketing; seeks injunction and damages.",
+  "red_flags_sources": [
+   {
+    "label": "EIN Presswire: Trax Technologies files legal action against Freehand (Oct 2026)",
+    "url": "https://www.einpresswire.com/article/945858111/trax-technologies-files-legal-action-against-freehand"
+   },
+   {
+    "label": "U.S. District Court N.D. Cal.: Trax Technologies v. Freehand, 3:26-cv-10884 (filed Sep 24, 2026)",
+    "url": "https://cand.uscourts.gov/cases-e-filing/cases/326-cv-10884/trax-technologies-inc-v-freehand-inc"
+   }
+  ],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Embedded in customers' ERP and payment flows with Fortune 50 logos and a new payments line, but it is a newcomer in freight audit and payment behind long-standing players like Cass and Trax, and only about 50 customers so far.",
+  "distance_sources": [
+   {
+    "label": "Crunchbase News: Freehand raises $75M Series B, ~50 customers (Jul 2026)",
+    "url": "https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/"
+   },
+   {
+    "label": "Freehand: Recognized in 2026 Gartner Market Guide for Freight Audit and Payment (Feb 2026)",
+    "url": "https://www.freehand.ai/press-release/freehand-2026-gartner-market-guide-freight-audit-payment"
+   },
+   {
+    "label": "GlobeNewswire: Freehand launches Freehand Pay (Oct 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/13/3379529/0/en/freehand-launches-freehand-pay-expanding-ai-teams-from-invoice-audit-to-payment.html"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote (India)",
+   "Remote (US)"
+  ]
  }
 ]
