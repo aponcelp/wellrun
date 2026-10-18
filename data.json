@@ -31891,5 +31891,81 @@
    "Remote (Global)",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "HiddenLayer",
+  "slug": "hiddenlayer",
+  "site": "https://www.hiddenlayer.com",
+  "careers_url": "https://job-boards.greenhouse.io/hiddenlayer",
+  "what_they_do": "Security platform that discovers, scans and protects enterprise AI models and agents at runtime",
+  "problem": "Companies shipping AI agents and models can't see or stop prompt injection, tool misuse or poisoned open-source models",
+  "industry": "AI security / cybersecurity",
+  "stage": "Series B",
+  "last_round": "$100M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Delta-v Capital (lead); Ten Eleven Ventures, Morgan Stanley, M12, Booz Allen Ventures",
+  "total_open_roles": "16",
+  "ops_roles": "Customer Success Manager (Remote); AI Solutions Architect, Post-Sales (Remote UK)",
+  "hiring_trend": "Flat: ~150 staff Q1 2026, -2.4% YoY and ~144-152 since late 2024 (Revelio); LinkedIn ~179 (+10% YoY); 16 open roles now, mostly sales, after Sep 2026 raise",
+  "headcount": "~150-180",
+  "latest_news": "Raised $100M Series B led by Delta-v Capital to expand agent runtime security and EMEA",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+  "traction": "ARR up 10x+ in a year to 'tens of millions'; 50+ new platform customers; DoD and frontier-lab clients",
+  "red_flags": "Minor, not scored: CRO seat turned over twice in 18 months (Abigail Maines left Feb 2025; Chelsea Strong hired Jul 2025; Mike Gesnaldo hired Aug 2026); headcount flat ~150 since late 2024 despite claimed 10x ARR growth; patent-assertion suit by Congruent Media Resourcing (W.D. Tex., Jun 2026, pending). Only 2 Glassdoor reviews (one, Mar 2025, says exec leadership lacks direction).",
+  "red_flags_sources": [
+   {
+    "label": "HiddenLayer: Chelsea Strong named CRO (Jul 2025)",
+    "url": "https://www.hiddenlayer.com/news/hiddenlayer-appoints-chelsea-strong-as-chief-revenue-officer-to-accelerate-global-growth-and-customer-expansion"
+   },
+   {
+    "label": "HiddenLayer: Mike Gesnaldo named CRO (Aug 2026)",
+    "url": "https://www.hiddenlayer.com/news/hiddenlayer-appoints-mike-gesnaldo-as-chief-revenue-officer"
+   },
+   {
+    "label": "Cyber GTM Talk: Abigail Maines, former HiddenLayer CRO (Jan 2026)",
+    "url": "https://cybergtmtalk.com/episode/why-early-stage-sales-is-all-about-precision-not-volume-abigail-maines-gtm-advisor-yl-ventures"
+   },
+   {
+    "label": "Revelio Labs: HiddenLayer headcount ~150, -2.4% YoY (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/hiddenlayer/employees"
+   },
+   {
+    "label": "Justia: Congruent Media Resourcing v. HiddenLayer, 7:26-cv-00229 (Jun 2026)",
+    "url": "https://dockets.justia.com/docket/texas/txwdce/7:2026cv00229/1172914318"
+   },
+   {
+    "label": "Glassdoor: HiddenLayer reviews",
+    "url": "https://www.glassdoor.com/Reviews/HiddenLayer-Reviews-E8769025.htm"
+   }
+  ],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "3.5",
+  "glassdoor_reviews": "2",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/HiddenLayer-Reviews-E8769025.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "One of the last independent AI-security pure plays with real ARR momentum, but Palo Alto (Protect AI), Cisco (Robust Intelligence), Check Point (Lakera) and SentinelOne (Prompt Security) now bundle the same protection into suites the same CISOs already buy.",
+  "distance_sources": [
+   {
+    "label": "Forrester: Securing AI's M&A feeding frenzy (Sep 2025)",
+    "url": "https://www.forrester.com/blogs/securing-ais-ma-feeding-frenzy-is-on/"
+   },
+   {
+    "label": "TechCrunch: HiddenLayer $100M Series B, ARR 10x (Sep 2026)",
+    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
+   }
+  ],
+  "hiring_locations": [
+   "Portland",
+   "Knoxville",
+   "Remote (US)",
+   "Remote (UK)"
+  ]
  }
 ]
