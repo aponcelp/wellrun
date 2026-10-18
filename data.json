@@ -31809,5 +31809,87 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Railway",
+  "slug": "railway",
+  "site": "https://railway.com",
+  "careers_url": "https://jobs.ashbyhq.com/railway",
+  "what_they_do": "Cloud platform that deploys apps, databases and agents from code in seconds, on its own servers",
+  "problem": "Shipping software to production means wrestling Docker, Kubernetes and hyperscaler setup instead of building the product",
+  "industry": "Developer tools / cloud hosting (PaaS)",
+  "stage": "Series B",
+  "last_round": "$100M",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "TQ Ventures (with FPV Ventures, Redpoint, Unusual Ventures)",
+  "total_open_roles": "7",
+  "ops_roles": "",
+  "hiring_trend": "Growing lean: ~35 staff (May 2026) → ~40 (Oct 2026); 7 open roles, all engineering, several evergreen since 2024-25",
+  "headcount": "~35-40",
+  "latest_news": "Launched Railway Authentication, an identity-aware proxy to lock down app endpoints",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://blog.railway.com/p/railway-authentication-identity-aware-proxy",
+  "traction": "~$20M → ~$100M ARR in 2026 (investor-reported); 3M users, ~100K signups/week, 25K paying businesses",
+  "red_flags": "Reliability crisis in 2026: repeated incidents (Jan, Feb DDoS, Mar 30 CDN cached logged-in users' data, Jul 2 US East outage) and an 8-hour platform-wide outage on May 19 after Google Cloud suspended its account; April PocketOS episode, where an AI agent's single API call wiped a production volume and its same-volume backups, drew wide criticism of Railway's API and backup design (Railway restored the data). Not scored: no layoffs found; Series A to B gap was ~44 months (May 2022 → Jan 2026), which caps traction at 'some' under the slow-gap rule.",
+  "red_flags_sources": [
+   {
+    "label": "Railway: Incident report, May 19, 2026 GCP account suspension (~8h platform-wide outage)",
+    "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage"
+   },
+   {
+    "label": "The Register: Google Cloud suspended Railway without cause, causing outage (May 2026)",
+    "url": "https://www.theregister.com/off-prem/2026/05/20/google-cloud-suspended-major-customer-railwaycom-without-cause-causing-outage/5243111"
+   },
+   {
+    "label": "InfoQ: GCP suspension caused eight-hour outage; Feb postmortem cited cascading failures (May 2026)",
+    "url": "https://www.infoq.com/news/2026/05/railway-gcp-account-outage"
+   },
+   {
+    "label": "Railway: Incident report, Feb 18-21 DDoS + Cloudflare outage",
+    "url": "https://blog.railway.com/p/incident-report-february-19-2026"
+   },
+   {
+    "label": "Railway: Incident report, Mar 30, 2026, authenticated user data cached",
+    "url": "https://blog.railway.com/p/incident-report-march-30-2026-authenticated-user-data-cached"
+   },
+   {
+    "label": "Railway: Incident report, Jul 2, 2026 US East outage",
+    "url": "https://blog.railway.com/p/incident-report-july-2-2026-us-east-services-outage"
+   },
+   {
+    "label": "heise: AI agent deletes PocketOS data on Railway, backups stored in same volume (May 2026)",
+    "url": "https://www.heise.de/en/news/AI-agent-deletes-data-catastrophe-for-PocketOS-11279570.html"
+   }
+  ],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "A leading Heroku successor with broad adoption (3M users, ~$100M ARR) and a real cost edge from owning its servers (~70% margins on its metal), but Vercel, Render, Fly and the hyperscalers are bigger or close, and 2026 outages plus a control plane that still leaned on Google Cloud are live exposure.",
+  "distance_sources": [
+   {
+    "label": "Latent Space: Jake Cooper on 3M users, own-metal data centers, ~70% margins (May 2026)",
+    "url": "https://www.latent.space/p/railway"
+   },
+   {
+    "label": "ARR Club: Railway grew from $20M to ~$100M ARR in 2026, ~40 people (Oct 2026)",
+    "url": "https://www.arr.club/signal/railway-grew-from-20m-to-100m-arr-in-2026"
+   },
+   {
+    "label": "TechTarget: Railway has 100,000 paid users at 25,000 businesses (Jan 2026)",
+    "url": "https://www.techtarget.com/it-infrastructure/news/366637659/Upstart-cloud-provider-Railway-turns-heads-with-speed"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (Global)",
+   "Remote (US)"
+  ]
  }
 ]
