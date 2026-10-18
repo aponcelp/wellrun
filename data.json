@@ -32368,5 +32368,107 @@
    "Remote (India)",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "gaiia",
+  "slug": "gaiia",
+  "site": "https://gaiia.com",
+  "careers_url": "https://ats.rippling.com/en-CA/gaiias-open-positions/jobs",
+  "what_they_do": "All-in-one billing, provisioning, field service and workflow software for internet providers",
+  "problem": "ISPs juggle five to ten clunky legacy systems for billing, orders and field service, hurting ops and customer experience",
+  "industry": "Telecom OSS/BSS software (ISP billing & operations)",
+  "stage": "Series B",
+  "last_round": "$40M",
+  "last_round_date": "May 2026",
+  "lead_investors": "JMI Equity, Inovia Capital",
+  "total_open_roles": "10",
+  "ops_roles": "Data Migration Specialist (Operations); Forward Deployed Engineer - Migration (Operations); Forward Deployed Engineer (FDE)",
+  "hiring_trend": "Headcount ~50 (Jun 2024) → ~90 (May 2026), est. ~117 now (+40-60% YoY); CEO targeting ~130",
+  "headcount": "~90-117",
+  "latest_news": "Raised $40M Series B led by JMI Equity after three straight years of 3x revenue",
+  "latest_news_date": "May 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20260512467690/en/gaiia-Raises-40-Million-Series-B-Led-by-JMI-Equity-to-Modernize-the-Operating-System-for-Communications-Service-Providers",
+  "traction": ">3x revenue growth three years running; 40+ ISP customers incl. Cogeco; 10M+ workflows run",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "3",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Gaiia-EI_IE8532559.11,16.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "The billing and operations system of record is very hard to rip out, and growth (3x a year, Cogeco as a customer) is real, but at ~40-60 ISP customers it is still a challenger behind long-established ISP billing vendors like Sonar, Splynx, CSG and NISC.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: gaiia raises $40M Series B, 3x revenue growth, customers incl. Cogeco (May 2026)",
+    "url": "https://www.businesswire.com/news/home/20260512467690/en/gaiia-Raises-40-Million-Series-B-Led-by-JMI-Equity-to-Modernize-the-Operating-System-for-Communications-Service-Providers"
+   },
+   {
+    "label": "Fierce Network: gaiia has 40+ ISP customers (Oct 2025)",
+    "url": "https://www.fierce-network.com/broadband/gaiia-takes-technical-challenge-telecom-ma"
+   },
+   {
+    "label": "BetaKit: Gaiia secures $40M USD Series B, 90-person team (May 2026)",
+    "url": "https://betakit.com/telecom-software-startup-gaiia-secures-40-million-usd-series-b-round/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Probook",
+  "slug": "probook",
+  "site": "https://www.probook.ai",
+  "careers_url": "https://jobs.ashbyhq.com/probook",
+  "what_they_do": "AI dispatch and front-office automation for HVAC, plumbing and electrical companies",
+  "problem": "Home service shops lose revenue and pay big dispatch teams to match the right technician to each call",
+  "industry": "Vertical AI / home services & field service software",
+  "stage": "Series A",
+  "last_round": "$34M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Andreessen Horowitz (Series A), Sequoia Capital (seed)",
+  "total_open_roles": "11",
+  "ops_roles": "Deployment Strategist",
+  "hiring_trend": "Headcount ~14 → ~72 in 12 mo (+414% YoY, LinkedIn); 10x'd in 2025; open roles 11, all NYC on-site",
+  "headcount": "~61-74",
+  "latest_news": "Raised $40M: $34M Series A led by a16z plus $6M Sequoia-led seed",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/06/23/3316215/0/en/Probook-Raises-40M-from-Andreessen-Horowitz-and-Sequoia-to-Scale-the-AI-Operating-System-for-Home-Services.html",
+  "traction": "Hundreds of locations in 35+ states incl. PE rollups; ~$14.5M revenue (Tracxn est.)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Probook-EI_IE11018808.11,18.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real adoption with large PE-backed operators and in-person deployments that are hard to rip out, but it runs as a layer on ServiceTitan, which dominates the category and sells its own AI scheduling to the same buyers; Avoca and others crowd the AI front office.",
+  "distance_sources": [
+   {
+    "label": "Fortune: Probook raises $40M; ServiceTitan has its own AI scheduling (Jun 2026)",
+    "url": "https://fortune.com/2026/06/23/exclusive-this-startup-wants-to-be-the-ai-brain-for-home-services-and-it-just-raised-40-million-from-sequoia-and-a16z/"
+   },
+   {
+    "label": "ServiceTitan Marketplace: Probook partner listing",
+    "url": "https://marketplace.servicetitan.com/partner/probook"
+   },
+   {
+    "label": "a16z: Investing in Probook (Jun 2026)",
+    "url": "https://www.a16z.news/p/investing-in-probook"
+   }
+  ],
+  "hiring_locations": [
+   "New York"
+  ]
  }
 ]
