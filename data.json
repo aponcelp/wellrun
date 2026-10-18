@@ -31912,7 +31912,7 @@
   "latest_news_date": "Sep 2026",
   "latest_news_url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
   "traction": "ARR up 10x+ in a year to 'tens of millions'; 50+ new platform customers; DoD and frontier-lab clients",
-  "red_flags": "Minor, not scored: CRO seat turned over twice in 18 months (Abigail Maines left Feb 2025; Chelsea Strong hired Jul 2025; Mike Gesnaldo hired Aug 2026); headcount flat ~150 since late 2024 despite claimed 10x ARR growth; patent-assertion suit by Congruent Media Resourcing (W.D. Tex., Jun 2026, pending). Only 2 Glassdoor reviews (one, Mar 2025, says exec leadership lacks direction).",
+  "red_flags": "Leadership churn (-1): CRO seat turned over twice in 18 months (Abigail Maines left Feb 2025; Chelsea Strong hired Jul 2025; Mike Gesnaldo hired Aug 2026). Minor, not scored: headcount flat ~150 since late 2024 despite claimed 10x ARR growth; patent-assertion suit by Congruent Media Resourcing (W.D. Tex., Jun 2026, pending). Only 2 Glassdoor reviews (one, Mar 2025, says exec leadership lacks direction).",
   "red_flags_sources": [
    {
     "label": "HiddenLayer: Chelsea Strong named CRO (Jul 2025)",
@@ -31939,8 +31939,8 @@
     "url": "https://www.glassdoor.com/Reviews/HiddenLayer-Reviews-E8769025.htm"
    }
   ],
-  "score": "5.0",
-  "zone": "Sprint",
+  "score": "4.0",
+  "zone": "Tempo",
   "status": "new",
   "glassdoor_rating": "3.5",
   "glassdoor_reviews": "2",
