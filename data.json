@@ -32113,5 +32113,78 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Ema",
+  "slug": "ema",
+  "site": "https://www.ema.ai",
+  "careers_url": "https://jobs.ashbyhq.com/ema",
+  "what_they_do": "Agentic \"AI employees\" that run HR, IT and finance workflows for large enterprises",
+  "problem": "Employee requests in HR, IT and finance pile up across dozens of systems and need large service teams",
+  "industry": "Enterprise AI agents / HR, IT & finance automation",
+  "stage": "Series B",
+  "last_round": "$77M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Creaegis (lead), Accel, Section 32, Prosus",
+  "total_open_roles": "37",
+  "ops_roles": "Customer Engagement Manager (Post-sales, SF Bay Area); Forward Deployed Builder (UK remote); Customer Engagement Manager (Bengaluru); Senior Support Specialist (UK remote)",
+  "hiring_trend": "Headcount ~140 (mid-2025) → ~260-310 (2026, LinkedIn/Crustdata); open roles ~9 → 37 after Sep 2026 round",
+  "headcount": "~260-310",
+  "latest_news": "Hired ex-Workato leaders as Head of Revenue and Head of Marketing, plus a new CFO",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/08/20/3348396/0/en/ema-ai-appoints-jonathan-feldman-as-head-of-revenue-partnerships-and-solutions-to-accelerate-enterprise-growth.html",
+  "traction": "Revenue up 50x in two years; ~180% net dollar retention; 50+ enterprise deals (NTT DATA, Hitachi, ADP, PwC)",
+  "red_flags": "Watch (not scored): Glassdoor (3.5/5, 23 reviews, 2.6 work-life balance), Blind and an Oct 2026 Indeed review describe very high attrition, fear-driven management and unpaid promised bonuses. No layoffs, lawsuits, down round or C-suite exits found; Series B was all primary equity at 4x+ the 2024 valuation.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor: Ema (CA) reviews, 3.5/5 from 23 reviews",
+    "url": "https://www.glassdoor.com/Reviews/Ema-CA-Reviews-E10246450.htm"
+   },
+   {
+    "label": "Glassdoor review: 'Netflix Documentary Level Insanity' cites attrition within 6 months (Apr 2026)",
+    "url": "https://www.glassdoor.ca/Reviews/Employee-Review-Ema-CA-E10246450-RVW103460074.htm"
+   },
+   {
+    "label": "Glassdoor review: 'Don't join Ema Unlimited' cites extreme attrition (Nov 2025)",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Ema-CA-E10246450-RVW101351549.htm"
+   },
+   {
+    "label": "Blind thread: employees report high attrition and unpaid performance bonuses (Oct 2025)",
+    "url": "https://www.teamblind.com/post/how-is-ema-ai-startup-zpumdmpc"
+   },
+   {
+    "label": "Indeed: Ema employee reviews, incl. Oct 2026 Mountain View review on leadership",
+    "url": "https://www.indeed.com/cmp/Ema-5d884f44/reviews"
+   }
+  ],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "3.5",
+  "glassdoor_reviews": "23",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Ema-CA-Reviews-E10246450.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real proof (claimed ~180% NDR, 90%+ of customers expand, Fortune 500 deployments wired into systems of record), but it trails far better-funded rivals (Sierra, Glean, Decagon) in a niche where incumbents bought the closest peers (ServiceNow-Moveworks) and sell the same agents to the same HR/IT buyers.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Ema raises $77M; ~180% NDR, 50+ enterprise deals (Sep 2026)",
+    "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
+   },
+   {
+    "label": "ProofStory: Ema research report on peers acquired and capital gap (Sep 2026)",
+    "url": "https://proofstory.co/research/ema/index.html"
+   }
+  ],
+  "hiring_locations": [
+   "India - Bengaluru",
+   "SF Bay Area",
+   "Bengaluru",
+   "Remote (UK)",
+   "Remote (US)"
+  ]
  }
 ]
