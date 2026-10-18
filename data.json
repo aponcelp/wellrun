@@ -31688,5 +31688,55 @@
    "in San Francisco",
    "Remote"
   ]
+ },
+ {
+  "name": "Greptile",
+  "slug": "greptile",
+  "site": "https://www.greptile.com",
+  "careers_url": "https://jobs.ashbyhq.com/greptile",
+  "what_they_do": "AI agent that reviews pull requests with full codebase context to catch bugs",
+  "problem": "AI-written code piles up faster than engineers can review it, so bugs and bad patterns slip into production",
+  "industry": "Developer tools / AI code review",
+  "stage": "Series B",
+  "last_round": "$40M",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "Benchmark, Menlo Ventures (round not formally announced; ~$526M post-money per Forge)",
+  "total_open_roles": "18",
+  "ops_roles": "Chief of Staff, GTM (first RevOps hire); Forward Deployed Engineer; Product Manager",
+  "hiring_trend": "Headcount ~28 → ~37 in one quarter (+32% QoQ, Caplight Aug 2026), +70% YoY (Dealroom); 18 open roles, 17 posted since Aug 21",
+  "headcount": "~40",
+  "latest_news": "Launched Plus and Apex review tiers that spend more time per PR to catch more bugs",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.greptile.com/blog/introducing-plus-and-apex",
+  "traction": "$0 to eight-figure ARR; 22,000+ customers; customer count 4x in nine months (YipitData)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "3.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Greptile-Reviews-E10224772.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast-growing (22,000+ customers, eight-figure ARR) but a follower: CodeRabbit leads mid-market and has raised far more, Sourcegraph leads enterprise, and GitHub Copilot and Cursor ship code review directly to the same buyers; self-hosted enterprise deployments are its stickiest edge.",
+  "distance_sources": [
+   {
+    "label": "YipitData: Greptile customers 4x in 9 months, CodeRabbit leads mid-market, Sourcegraph leads enterprise (updated Aug 2026)",
+    "url": "https://www.yipitdata.com/resources/greptile-vs-coderabbit-ai-code-review-market"
+   },
+   {
+    "label": "Greptile: There is an AI Code Review Bubble (Jan 2026)",
+    "url": "https://www.greptile.com/blog/ai-code-review-bubble"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote"
+  ]
  }
 ]
