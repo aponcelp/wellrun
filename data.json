@@ -31738,5 +31738,76 @@
    "New York",
    "Remote"
   ]
+ },
+ {
+  "name": "Hasura",
+  "slug": "hasura",
+  "site": "https://hasura.io",
+  "careers_url": "https://jobs.gem.com/promptql",
+  "what_they_do": "GraphQL data APIs, now PromptQL: a shared AI workspace that queries company data",
+  "problem": "Teams can't get accurate AI answers from scattered company data, and the context lives in people's heads and Slack",
+  "industry": "Developer tools / data APIs & enterprise AI",
+  "stage": "Series C",
+  "last_round": "$100M",
+  "last_round_date": "Feb 2022",
+  "lead_investors": "Greenoaks, Lightspeed (growth)",
+  "total_open_roles": "4",
+  "ops_roles": "Forward Deployed Analyst, US (SF hybrid or remote-US); Forward Deployed Analyst, Bangalore",
+  "hiring_trend": "Shrinking: headcount 192 → 137 Q4 2024 to Q1 2026 (-21% YoY, Revelio); new postings down from ~9/mo in 2025 to ~2/mo in 2026",
+  "headcount": "~70-140",
+  "latest_news": "Rebranded around PromptQL and launched it as an AI-native Slack replacement (#2 on Product Hunt)",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.producthunt.com/products/promptql?launch=promptql-2",
+  "traction": "~$29M revenue 2023 (est.); 32K GitHub stars; Instacart, McDonald's, Cisco named as customers",
+  "red_flags": "Repeated layoffs and a shrinking team: headcount down ~43% since 2023 (240 → 137) and -21% YoY, with recent Glassdoor reviews (Sep 2025, Sep 2026) describing significant layoffs, leadership churn and weak capital. Minor, not scored: no announced round since Feb 2022, and the July 2026 launch framed the old $136M as a fresh raise ('We raised $136M to kill Slack').",
+  "red_flags_sources": [
+   {
+    "label": "Revelio Labs: Hasura headcount 137, -21.2% YoY, -42.7% since 2023 (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/hasura/employees"
+   },
+   {
+    "label": "Glassdoor: PromptQL (Hasura) reviews mentioning layoffs (Sep 2025, Sep 2026)",
+    "url": "https://www.glassdoor.com/Reviews/PromptQL-layoff-Reviews-EI_IE1451757.0,8_KH9,15.htm"
+   },
+   {
+    "label": "Glassdoor: PromptQL (Hasura) 3.1 rating, 40% positive outlook",
+    "url": "https://www.glassdoor.com/Reviews/PromptQL-Reviews-E1451757.htm"
+   },
+   {
+    "label": "Doomers: 'We raised $136M to kill Slack' launch post (Jul 2026)",
+    "url": "https://doomers.ai/launches/promptql"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.1",
+  "glassdoor_reviews": "49",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/PromptQL-Reviews-E1451757.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Hasura's GraphQL engine is a widely used open-source standard (32K GitHub stars) that is sticky once apps are built on it, but the company now bets on PromptQL, an AI workspace in a crowded field where Slack, Glean and the AI labs (Claude, ChatGPT) sell to the same buyers, while headcount keeps shrinking with no new round since 2022.",
+  "distance_sources": [
+   {
+    "label": "Hasura: From GraphQL to PromptQL, a new chapter begins (Jun 2025)",
+    "url": "https://hasura.io/blog/from-graphql-to-promptql-a-new-chapter-begins"
+   },
+   {
+    "label": "Product Hunt: PromptQL, multiplayer AI that replaces Slack (Jul 2026)",
+    "url": "https://www.producthunt.com/products/promptql?launch=promptql-2"
+   },
+   {
+    "label": "GitHub: hasura/graphql-engine (32K stars)",
+    "url": "https://github.com/hasura/graphql-engine"
+   },
+   {
+    "label": "Revelio Labs: Hasura headcount trend",
+    "url": "https://www.reveliolabs.com/companies/hasura/employees"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
