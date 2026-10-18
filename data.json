@@ -32186,5 +32186,72 @@
    "Remote (UK)",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Arcee AI",
+  "slug": "arcee-ai",
+  "site": "https://www.arcee.ai",
+  "careers_url": "https://job-boards.greenhouse.io/arceeai",
+  "what_they_do": "US lab building open-weight Trinity language models and tools to customize and deploy them",
+  "problem": "Companies want frontier-grade AI they can run, inspect and tune in their own environment without handing data to closed labs",
+  "industry": "AI foundation models / open-weight LLMs",
+  "stage": "Series B",
+  "last_round": "$150M+",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Vista Equity Partners, Cambium Capital, Emergence Capital",
+  "total_open_roles": "0",
+  "ops_roles": "",
+  "hiring_trend": "Small and roughly flat: ~43 on LinkedIn (+10% YoY) vs ~20 per Live Data (-16%); no open roles",
+  "headcount": "~40",
+  "latest_news": "Raised Series B (at least $150M) at $1B+ valuation led by Vista, Cambium, Emergence",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://fortune.com/2026/09/16/arcee-ai-trained-four-models-for-20-million-now-its-worth-1-billion/",
+  "traction": "Trained four open models incl. 400B Trinity Large for ~$20M; DOE and 17 national labs partnership",
+  "red_flags": "Two wrongful-termination suits: MacCarthy (Jun 2025, alleges harassment by co-founder CRO and retaliation) and Brodeur (Mar 2026). Two of three co-founders left the C-suite within a month: CTO Jacob Solawetz (Aug 2025, now advisor) and CRO Brian Benedict (Sep 2025).",
+  "red_flags_sources": [
+   {
+    "label": "PacerMonitor: MacCarthy v. Arcee AI (C.D. Cal., remanded to LA Superior Court 25STCV17275)",
+    "url": "https://www.pacermonitor.com/public/case/59198202/Mary_Maccarthy_v_Arcee_AI,_Inc_et_al"
+   },
+   {
+    "label": "Midpage: MacCarthy v. Arcee AI remand order with complaint allegations (Oct 2025)",
+    "url": "https://app.midpage.ai/document/mary-maccarthy-v-arcee-ai-1000457626090"
+   },
+   {
+    "label": "UniCourt: Hayley Brodeur v. Arcee AI wrongful termination (SF Superior Court, Mar 2026)",
+    "url": "https://unicourt.com/case/ca-sfc-casebkca93322872e9-762258"
+   },
+   {
+    "label": "Brian Benedict LinkedIn post on leaving Arcee AI (Sep 2025)",
+    "url": "https://www.linkedin.com/posts/benedictbrian_the-beginning-has-always-been-the-most-exciting-activity-7374891325835608064-wOl_"
+   },
+   {
+    "label": "Equilar: co-founder transitions for Solawetz and Benedict (Aug 2025); Lucas Atkins now CTO",
+    "url": "https://people.equilar.com/bio/org/arceeai/13711848"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "3.5",
+  "glassdoor_reviews": "2",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Arcee-AI-Reviews-E10637795.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "Strong-efficiency challenger in US open-weight models, but a follower behind Meta, Mistral, OpenAI's open models, Nvidia and better-funded Reflection, with heavy burn risk (bet ~65-70% of cash on one training run) and no disclosed revenue scale yet.",
+  "distance_sources": [
+   {
+    "label": "Fortune: Arcee trained four models for $20M, now worth $1B (Sep 2026)",
+    "url": "https://fortune.com/2026/09/16/arcee-ai-trained-four-models-for-20-million-now-its-worth-1-billion/"
+   },
+   {
+    "label": "WSJ: The race to build an American alternative to cheap AI from China (Aug 2026)",
+    "url": "https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
