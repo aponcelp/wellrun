@@ -31559,5 +31559,56 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Allara",
+  "slug": "allara",
+  "site": "https://www.allarahealth.com",
+  "careers_url": "https://jobs.ashbyhq.com/allarahealth",
+  "what_they_do": "Insurance-covered virtual care for women's hormonal, metabolic and reproductive conditions like PCOS",
+  "problem": "Women with PCOS, thyroid or hormonal issues get dismissed and bounced between specialists with no joined-up care",
+  "industry": "Women's health / telehealth",
+  "stage": "Series B+ (undisclosed)",
+  "last_round": "$30M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Index Ventures, GV",
+  "total_open_roles": "213",
+  "ops_roles": "Senior Manager, Credentialing & Payer Operations; Director of Clinical Operations; Payer Operations Specialist; Payer Contracting Specialist",
+  "hiring_trend": "Headcount ~240, team +38% YoY (Dealroom est.); job board 14 → 213 postings Apr → Oct 2026, mostly 1099 clinicians",
+  "headcount": "~240",
+  "latest_news": "Raised $30M led by existing backers Index and GV; total funding $75M",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.fiercehealthcare.com/finance/allara-raises-30m-expand-virtual-womens-healthcare-across-continuum",
+  "traction": "120,000+ women served; revenue grew 4x in 2024 (CEO); team +38% YoY",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.25",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "7",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Allara-Health-Reviews-E8668606.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Leading specialist in insurance-covered PCOS and hormonal care, with payer contracts in most states and 120,000 women served, but it is now pushing into GLP-1s, perimenopause and urgent care, where Midi and Hims & Hers are far bigger.",
+  "distance_sources": [
+   {
+    "label": "Allara: $30M raise, 120,000+ women served, new GLP-1, perimenopause and urgent care lines (Oct 2026)",
+    "url": "https://www.allarahealth.com/blog/allara-raises-30m-to-transform-the-womens-healthcare-experience-with-ai"
+   },
+   {
+    "label": "Fierce Healthcare: Allara raises $30M, works with major commercial payers (Oct 2026)",
+    "url": "https://www.fiercehealthcare.com/finance/allara-raises-30m-expand-virtual-womens-healthcare-across-continuum"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Illinois",
+   "Texas",
+   "Remote (Philippines)"
+  ]
  }
 ]
