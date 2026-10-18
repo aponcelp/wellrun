@@ -31967,5 +31967,51 @@
    "Remote (US)",
    "Remote (UK)"
   ]
+ },
+ {
+  "name": "Moritz",
+  "slug": "moritz-legal",
+  "site": "https://www.moritzlegal.com",
+  "careers_url": "https://www.ycombinator.com/companies/moritz/jobs",
+  "what_they_do": "AI-native law firm: AI drafts commercial legal work, senior attorneys review and sign off",
+  "problem": "In-house teams and founders wait weeks and pay hourly BigLaw rates for routine contracts and deals",
+  "industry": "Legal services / legal AI",
+  "stage": "Seed",
+  "last_round": "$9M",
+  "last_round_date": "May 2026",
+  "lead_investors": "Y Combinator, 20VC",
+  "total_open_roles": "6",
+  "ops_roles": "Open Role (Operations generalist; SF/NY/Remote US; $70K-$180K)",
+  "hiring_trend": "Grew from founders in an SF apartment (Apr 2026) to ~16-21 staff (LinkedIn/Tracxn, est.); 6 open roles",
+  "headcount": "~16-21",
+  "latest_news": "Opened London office and hired a Head of EMEA; now covers 44 countries",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/moritzlaw_moritz-is-now-expanding-to-london-our-activity-7514063668515446784-DAHL",
+  "traction": "200+ in-house teams served, up from 100+ in May; $3.5B contract value closed (self-reported)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Five-month-old seed firm (YC W26) with fast, self-reported client growth but no revenue or retention data yet, in a crowded AI-native law firm field; the MSO structure that routes funding around US bar ownership rules is a regulatory exposure.",
+  "distance_sources": [
+   {
+    "label": "Moritz: Moritz raises $9M (May 2026)",
+    "url": "https://www.moritzlegal.com/blog/moritz-raises-9m"
+   },
+   {
+    "label": "Global Legal Post: Moritz $9M seed and Parlai MSO structure (May 2026)",
+    "url": "https://www.globallegalpost.com/news/ai-native-law-firm-start-up-moritz-secures-9m-in-seed-funding-round-533457054"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
