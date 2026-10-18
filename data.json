@@ -31610,5 +31610,83 @@
    "Texas",
    "Remote (Philippines)"
   ]
+ },
+ {
+  "name": "Clerk",
+  "slug": "clerk",
+  "site": "https://clerk.com",
+  "careers_url": "https://jobs.ashbyhq.com/clerk",
+  "what_they_do": "Drop-in sign-in, user management, multi-tenancy and billing for web and mobile apps",
+  "problem": "Developers waste weeks building secure login, user accounts and org permissions instead of shipping their product",
+  "industry": "Developer tools / identity & auth",
+  "stage": "Series C",
+  "last_round": "$50M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": "Menlo Ventures, Anthropic's Anthology Fund",
+  "total_open_roles": "3",
+  "ops_roles": "",
+  "hiring_trend": "Flat: ~311 staff, -0.4% YoY (Revelio, Mar 2026); careers page 8 → 4 → 1 → 3 roles Oct 2025 → Oct 2026",
+  "headcount": "~210-310",
+  "latest_news": "Launched MCP server that lets AI agents manage Clerk apps, after accountless CLI setup",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://clerk.com/blog/clerk-mcp-server-account-tools",
+  "traction": "200M+ users across 15,000+ apps (Oct 2025); #4 fastest-growing vendor by new customers on Ramp (Dec 2025)",
+  "red_flags": "Reliability and security crisis in 2026: repeated outages (Feb 10, Feb 19, Mar 10) took customer logins down, Clerk shifted most engineering to reliability, and some customers (Val Town) left; two serious auth-bypass CVEs (9.1 critical Apr 2026, 8.1 high May 2026). Minor, not scored: job postings cooled from 8 to 1-3 and headcount is flat.",
+  "red_flags_sources": [
+   {
+    "label": "Clerk: Postmortem of Mar 10, 2026 outage ('frustration is rightfully mounting', engineering shifted to reliability)",
+    "url": "https://clerk.com/blog/2026-03-10-service-outage-postmortem"
+   },
+   {
+    "label": "Clerk on X: 'we have not lived up to that responsibility' (Mar 2026)",
+    "url": "https://x.com/clerk/status/2032564086467342606"
+   },
+   {
+    "label": "DEV Community: Clerk vs Better Auth, Val Town left after outages (Aug 2026)",
+    "url": "https://dev.to/davron_yuldashev_0a91802f/clerk-vs-better-auth-in-2026-the-honest-migration-math-184b"
+   },
+   {
+    "label": "OpenCVE: Clerk CVE-2026-41248 (9.1 critical) and CVE-2026-42349 (8.1 high)",
+    "url": "https://app.opencve.io/cve?vendor=clerk"
+   },
+   {
+    "label": "Clerk: Middleware route protection bypass advisory (Apr 2026)",
+    "url": "https://clerk.com/blog/middleware-based-route-protection-bypass"
+   },
+   {
+    "label": "Revelio Labs: Clerk headcount 311, -0.4% YoY (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/clerk/employees"
+   }
+  ],
+  "score": "2.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Default auth for React/Next.js and AI-native startups (200M+ users, 15,000+ apps, top-4 on Ramp's growth list) and hard to rip out once user data lives there, but Auth0/Okta is far bigger, WorkOS, Stytch and open-source Better Auth compete, and 2026 outages and CVEs pushed some customers away.",
+  "distance_sources": [
+   {
+    "label": "Clerk: $50M Series C, 200M users across 15,000 apps (Oct 2025)",
+    "url": "https://clerk.com/blog/series-c"
+   },
+   {
+    "label": "Clerk: #4 fastest-growing software vendor on Ramp, Dec 2025",
+    "url": "https://clerk.com/blog/clerk-ranked-4-fastest-growing-software-vendor-by-ramp"
+   },
+   {
+    "label": "DEV Community: Clerk vs Better Auth migration math (Aug 2026)",
+    "url": "https://dev.to/davron_yuldashev_0a91802f/clerk-vs-better-auth-in-2026-the-honest-migration-math-184b"
+   }
+  ],
+  "hiring_locations": [
+   "in San Francisco",
+   "Remote"
+  ]
  }
 ]
