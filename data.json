@@ -32253,5 +32253,57 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Nuance Labs",
+  "slug": "nuance-labs",
+  "site": "https://www.nuancelabs.ai",
+  "careers_url": "https://job-boards.greenhouse.io/nuancelabs",
+  "what_they_do": "Real-time audiovisual AI model for face-to-face conversations with expressive avatars",
+  "problem": "AI avatars and voice bots lag and miss tone, expression and timing, so conversations feel robotic",
+  "industry": "Conversational AI / foundation models",
+  "stage": "Series A",
+  "last_round": "$50M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Lightspeed Venture Partners",
+  "total_open_roles": "9",
+  "ops_roles": "",
+  "hiring_trend": "Headcount 4 (Sep 2025) → ~24-27 (Sep-Oct 2026); 9 open roles, mostly research",
+  "headcount": "~24-27",
+  "latest_news": "Raised $50M Series A led by Lightspeed, with NVIDIA joining; public research preview due this year",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.geekwire.com/2026/seattles-nuance-labs-raises-50m-to-give-ai-models-human-expression-and-nuance/",
+  "traction": "Pre-product, no revenue disclosed; research preview due late 2026; team grew 4 to ~27",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Ex-Apple research team with $60M raised, but no product shipped or customers yet, and the big AI labs could fast-follow (a risk its own founders named).",
+  "distance_sources": [
+   {
+    "label": "Business Insider: Nuance Labs $50M Series A, pre-product (Sep 2026)",
+    "url": "https://www.businessinsider.com/former-apple-researchers-raise-50-million-to-build-foundational-model-2026-9"
+   },
+   {
+    "label": "GeekWire: Nuance Labs raises $50M, employs 27 (Sep 2026)",
+    "url": "https://www.geekwire.com/2026/seattles-nuance-labs-raises-50m-to-give-ai-models-human-expression-and-nuance/"
+   },
+   {
+    "label": "Upstarts: $10M seed; risk that OpenAI and others fast-follow (Sep 2025)",
+    "url": "https://www.upstartsmedia.com/p/nuance-labs-emotional-ai-model"
+   }
+  ],
+  "hiring_locations": [
+   "Seattle"
+  ]
  }
 ]
