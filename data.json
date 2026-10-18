@@ -32059,5 +32059,59 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Straiker",
+  "slug": "straiker",
+  "site": "https://www.straiker.ai",
+  "careers_url": "https://www.straiker.ai/careers",
+  "what_they_do": "Discovers, red-teams and protects enterprise AI agents at runtime, with a kill switch",
+  "problem": "Security teams can't see which AI agents are running or stop one that's hijacked into leaking data",
+  "industry": "Cybersecurity / AI agent security",
+  "stage": "Series A",
+  "last_round": "$64M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Marathon Management Partners, Citi Ventures, Illuminate Financial, Workday Ventures",
+  "total_open_roles": "5",
+  "ops_roles": "Strategic Engagement Manager",
+  "hiring_trend": "Headcount 15 → 40 in 12 mo (Feb 2026), 64 at Series A (Jun 2026), ~88-99 on LinkedIn now (+170-200% YoY, est.)",
+  "headcount": "~90",
+  "latest_news": "Launched Agentic Kill Switch to take compromised AI agents offline in seconds",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://runtimewire.com/article/straiker-agentic-kill-switch-ai-agent-security",
+  "traction": "Run-rate revenue up 15x+ in under a year; Fortune 500 and frontier-lab customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "0",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Straiker-EI_IE10965019.11,19.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Fast-growing standalone with a learning edge (production detections feed its testing and models), but it is a small player in a crowded field where Palo Alto, Check Point, CrowdStrike, SentinelOne, Cisco and F5 have bought AI-security startups and now bundle it into their platforms.",
+  "distance_sources": [
+   {
+    "label": "Straiker: $64M Series A, run-rate revenue up 15x+ (Jun 2026)",
+    "url": "https://www.straiker.ai/blog/straiker-raises-64m-series-a-to-secure-the-agentic-workforce"
+   },
+   {
+    "label": "Forrester: Securing AI's M&A feeding frenzy (Sep 2025)",
+    "url": "https://www.forrester.com/blogs/securing-ais-ma-feeding-frenzy-is-on/"
+   },
+   {
+    "label": "Palo Alto Networks completes Protect AI acquisition (Jul 2025)",
+    "url": "https://www.paloaltonetworks.com/company/press/2025/palo-alto-networks-completes-acquisition-of-protect-ai"
+   },
+   {
+    "label": "Check Point acquires Lakera (Sep 2025)",
+    "url": "https://www.checkpoint.com/press-releases/check-point-acquires-lakera-to-deliver-end-to-end-ai-security-for-enterprises"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
