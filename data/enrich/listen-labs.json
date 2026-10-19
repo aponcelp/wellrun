@@ -51,7 +51,12 @@
     }
   ],
   "total_raised": "~$100M",
-  "revenue_est": null,
+  "revenue_est": {
+    "value": "~$30M annualized revenue (people familiar)",
+    "as_of": "Sep 2026",
+    "basis": "press report",
+    "source": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
+  },
   "news_timeline": [
     {
       "date": "2026-09",

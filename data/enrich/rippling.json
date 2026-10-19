@@ -4,9 +4,9 @@
   "founded": 2016,
   "hq": "San Francisco, CA",
   "headcount_est": {
-    "value": "~5,000-5,200",
-    "as_of": "2026",
-    "source": "https://siliconvalleyinvestclub.com/companies/rippling"
+    "value": "nearly 7,000",
+    "as_of": "Sep 2026",
+    "source": "https://www.linkedin.com/posts/rippling_rippling-has-nearly-7000-employees-and-no-activity-7500583468209405953-BFqm"
   },
   "leadership": [
     {
@@ -15,13 +15,6 @@
       "founder": true,
       "linkedin": "https://linkedin.com/in/parkerconrad",
       "source": "https://www.rippling.com/company/about"
-    },
-    {
-      "name": "Prasanna Sankar",
-      "title": "Co-founder (listed as former/ex co-founder)",
-      "founder": true,
-      "linkedin": null,
-      "source": "https://en.wikipedia.org/wiki/Rippling_(company)"
     },
     {
       "name": "Matt MacInnis",
@@ -152,6 +145,11 @@
       "url": "https://thenextweb.com/news/deel-rippling-spying-case-witness-ruling"
     },
     {
+      "date": "2026-09",
+      "headline": "Opens AI Lab in Bengaluru; India team near 2,500 employees",
+      "url": "https://finance.yahoo.com/technology/ai/articles/rippling-opens-ai-lab-bengaluru-013000402.html"
+    },
+    {
       "date": "2026-08",
       "headline": "Rippling and MCP startup Runlayer drop dueling trade-secret lawsuits",
       "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/"
@@ -165,11 +163,6 @@
       "date": "2026-03",
       "headline": "Launched Rippling AI agents across HR, IT and finance",
       "url": "https://www.rippling.com/blog/introducing-rippling-ai"
-    },
-    {
-      "date": "2025-05",
-      "headline": "Raised $450M Series G at $16.8B plus $200M employee tender",
-      "url": "https://www.rippling.com/blog/series-g-fundraising-tender-offer"
     }
   ],
   "competitors": [

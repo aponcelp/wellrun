@@ -4,9 +4,9 @@
   "founded": 2019,
   "hq": "San Francisco, CA",
   "headcount_est": {
-    "value": "~95",
-    "as_of": "2026",
-    "source": "https://siliconvalleyinvestclub.com/es/companies/workos"
+    "value": "~123",
+    "as_of": "Mar 2026",
+    "source": "https://www.reveliolabs.com/companies/workos/employees"
   },
   "leadership": [
     {
@@ -53,10 +53,10 @@
   ],
   "total_raised": "~$198M",
   "revenue_est": {
-    "value": "$30M+ ARR",
-    "as_of": "Oct 2025",
-    "basis": "press report",
-    "source": "https://siliconvalleyinvestclub.com/es/companies/workos"
+    "value": "~$50M ARR (CEO interview)",
+    "as_of": "May 2026",
+    "basis": "company-stated (interview)",
+    "source": "https://www.knuckleup.co/p/michael-grinich"
   },
   "news_timeline": [
     {

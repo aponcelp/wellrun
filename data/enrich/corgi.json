@@ -67,7 +67,12 @@
     }
   ],
   "total_raised": "~$440M+ ($378M company-stated through B1, plus $64M reported Sep 2026; B2 amount undisclosed)",
-  "revenue_est": null,
+  "revenue_est": {
+    "value": "~$100M annualized revenue (from $40M+ ARR at end-2025)",
+    "as_of": "May 2026",
+    "basis": "company-stated (via Forbes)",
+    "source": "https://www.forbes.com/sites/richardnieva/2026/05/06/corgi-ai-unicorn"
+  },
   "news_timeline": [
     {
       "date": "2026-09",

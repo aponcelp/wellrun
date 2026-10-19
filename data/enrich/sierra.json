@@ -4,9 +4,9 @@
   "founded": 2023,
   "hq": "San Francisco, CA",
   "headcount_est": {
-    "value": "~1,041",
-    "as_of": "2026",
-    "source": "https://platform.tracxn.com/a/d/company/5e217ace928ab01aff6f1886/sierra"
+    "value": "nearly 800 across 12 offices",
+    "as_of": "Jun 2026",
+    "source": "https://www.linkedin.com/posts/nluppov_a-privilege-to-celebrate-3-years-at-sierra-activity-7467773172772360192-2fBr"
   },
   "leadership": [
     {
@@ -22,6 +22,13 @@
       "founder": true,
       "linkedin": null,
       "source": "http://techcrunch.com/2024/10/28/bret-taylors-customer-service-ai-startup-just-raised-175m"
+    },
+    {
+      "name": "Julia Brau Donnelly",
+      "title": "CFO (ex-Pinterest CFO)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://sierra.ai/uk/blog/julia-brau-donnelly-joins-sierra"
     }
   ],
   "funding_history": [
@@ -60,16 +67,26 @@
   ],
   "total_raised": "~$1.585B (CB Insights)",
   "revenue_est": {
-    "value": "$100M ARR in 7 quarters",
-    "as_of": "Nov 2025",
+    "value": "$200M ARR, two quarters after $100M (Nov 2025)",
+    "as_of": "May 2026",
     "basis": "company-stated",
-    "source": "https://sierra.ai/blog/100m-arr"
+    "source": "https://www.linkedin.com/posts/brettaylor_sierra-just-hit-200m-in-arr-it-took-seven-activity-7466233808489566209-QsxX"
   },
   "news_timeline": [
     {
       "date": "2026-10",
       "headline": "Launches Personal Agent Protocol with Meta, Stripe, Walmart and 40+ partners",
       "url": "https://sierra.ai/blog/introducing-personal-agent-protocol"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Hires former Pinterest CFO Julia Brau Donnelly as CFO",
+      "url": "https://sierra.ai/uk/blog/julia-brau-donnelly-joins-sierra"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Crosses $200M ARR; earns FedRAMP High authorization",
+      "url": "https://www.tbpndigest.com/story/2026-06-10/sierra-crosses-200m-arr-and-earns-fedramp-high-certification-opening-the-door-to-federal-government-contracts"
     },
     {
       "date": "2026-05",

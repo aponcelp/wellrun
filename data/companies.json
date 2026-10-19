@@ -32821,5 +32821,54 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Coframe",
+  "slug": "coframe",
+  "site": "https://www.coframe.com",
+  "careers_url": "https://jobs.ashbyhq.com/coframe",
+  "what_they_do": "AI agent that builds, A/B tests and personalizes website and landing page variants",
+  "problem": "Growth teams lack the designers, engineers and analysts to run enough website tests to lift conversion",
+  "industry": "Marketing tech / conversion rate optimization",
+  "stage": "Seed",
+  "last_round": "$9.3M",
+  "last_round_date": "Oct 2024",
+  "lead_investors": "Khosla Ventures, NFDG (Nat Friedman, Daniel Gross)",
+  "total_open_roles": "20",
+  "ops_roles": "Finance and Operations Lead; Customer Success Manager; Solutions Engineer",
+  "hiring_trend": "Headcount ~34 → ~45 QoQ to Aug 2026 (Caplight est.); 20 open roles, 13 posted since Jul",
+  "headcount": "~40-49",
+  "latest_news": "Acquired HaystacksAI; its founder Bo Mohazzabi (ex-Optimizely) joins as VP of GTM",
+  "latest_news_date": "Mar 2026",
+  "latest_news_url": "https://www.coframe.com/post/coframe-acquires-haystacks-and-appoints-founder-ceo-bo-mohazzabi-as-vp-of-gtm-to-accelerate-its-ai-growth-agent",
+  "traction": "Est. $2.5M ARR (GetLatka); customers incl. Replit, Dropbox; $150M customer lift claimed (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Seed-stage with small revenue in a crowded testing market led by Optimizely, VWO and AB Tasty; its learning-from-tests edge is not yet proven at scale.",
+  "distance_sources": [
+   {
+    "label": "Reuters: Coframe raises $9.3M seed (Oct 2024)",
+    "url": "https://www.reuters.com/technology/artificial-intelligence/coframe-raises-9-million-websites-that-optimize-themselves-using-ai-2024-10-29"
+   },
+   {
+    "label": "GetLatka: Coframe est. $2.5M ARR",
+    "url": "https://getlatka.com/companies/coframe.com"
+   }
+  ],
+  "hiring_locations": [
+   "SF Bay Area",
+   "San Francisco"
+  ]
  }
 ]

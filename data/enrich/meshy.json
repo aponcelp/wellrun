@@ -1,22 +1,96 @@
 {
   "slug": "meshy",
   "checked": "Oct 19, 2026",
-  "founded": null,
+  "founded": 2021,
   "hq": "Sunnyvale, CA",
-  "headcount_est": null,
+  "headcount_est": {
+    "value": "~184 (up ~163% YoY)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/meshyai"
+  },
   "leadership": [
-    {"name": "Ethan Hu", "title": "Founder & CEO", "founder": true, "linkedin": null, "source": "https://www.aap.com.au/aapreleases/cision20260721ae06857"}
+    {
+      "name": "Ethan Hu",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.aap.com.au/aapreleases/cision20260721ae06857"
+    },
+    {
+      "name": "Eric (Xiang) Li",
+      "title": "VP, Head of Engineering",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/meshyai"
+    },
+    {
+      "name": "Fei Pan",
+      "title": "VP of Growth",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://rocketreach.co/meshy-management_b70dc687c4e71b92"
+    },
+    {
+      "name": "Hannah Zhou",
+      "title": "Head of Product",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theorg.com/org/meshy"
+    },
+    {
+      "name": "Yuwei Hu",
+      "title": "Head of Finance & Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theorg.com/org/meshy"
+    }
   ],
   "funding_history": [
-    {"round": "Series A", "date": "2024-03", "amount": "$15M", "valuation": null, "lead": null, "source": "https://siliconvalleyinvestclub.com/companies/meshy-ai/tear-sheet.pdf"},
-    {"round": "Series B", "date": "2026-07", "amount": "~$400M", "valuation": "$1.5B", "lead": "IDG Capital, Matrix Partners China, Monolith (reported; company did not disclose)", "source": "https://www.prnewswire.com/news-releases/meshy-raises-nearly-400-million-at-a-1-5-billion-valuation-the-largest-round-to-date-in-ai-3d-302828384.html"}
+    {
+      "round": "Series A",
+      "date": "2024-03",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/meshy-ai/tear-sheet.pdf"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-07",
+      "amount": "~$400M",
+      "valuation": "$1.5B",
+      "lead": "IDG Capital, Matrix Partners China, Monolith (reported; company did not disclose)",
+      "source": "https://www.prnewswire.com/news-releases/meshy-raises-nearly-400-million-at-a-1-5-billion-valuation-the-largest-round-to-date-in-ai-3d-302828384.html"
+    }
   ],
   "total_raised": "~$465M+",
-  "revenue_est": {"value": "$100M+ ARR", "as_of": "Sep 2026", "basis": "company-stated", "source": "https://www.prnewswire.com/news-releases/meshy-surpasses-100-million-in-annual-recurring-revenue-growing-100x-in-under-two-years-302894078.html"},
+  "revenue_est": {
+    "value": "$100M+ ARR",
+    "as_of": "Sep 2026",
+    "basis": "company-stated",
+    "source": "https://www.prnewswire.com/news-releases/meshy-surpasses-100-million-in-annual-recurring-revenue-growing-100x-in-under-two-years-302894078.html"
+  },
   "news_timeline": [
-    {"date": "2026-09", "headline": "Passes $100M ARR, up 100x from $1M in under two years", "url": "https://www.prnewswire.com/news-releases/meshy-surpasses-100-million-in-annual-recurring-revenue-growing-100x-in-under-two-years-302894078.html"},
-    {"date": "2026-07", "headline": "Raises ~$400M Series B at $1.5B, largest round to date in AI 3D", "url": "https://www.aap.com.au/aapreleases/cision20260721ae06857"},
-    {"date": "2026-07", "headline": "Reports 12M+ registered users and 100M+ models created; ARR growing ~12x YoY", "url": "https://www.aap.com.au/aapreleases/cision20260721ae06857"}
+    {
+      "date": "2026-09",
+      "headline": "Passes $100M ARR, up 100x from $1M in under two years",
+      "url": "https://www.prnewswire.com/news-releases/meshy-surpasses-100-million-in-annual-recurring-revenue-growing-100x-in-under-two-years-302894078.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Raises ~$400M Series B at $1.5B, largest round to date in AI 3D",
+      "url": "https://www.aap.com.au/aapreleases/cision20260721ae06857"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Reports 12M+ registered users and 100M+ models created; ARR growing ~12x YoY",
+      "url": "https://www.aap.com.au/aapreleases/cision20260721ae06857"
+    }
   ],
-  "competitors": ["Tripo AI", "Luma AI", "Kaedim", "Rodin (Hyper3D)"]
+  "competitors": [
+    "Tripo AI",
+    "Luma AI",
+    "Kaedim",
+    "Rodin (Hyper3D)"
+  ]
 }

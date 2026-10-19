@@ -2,8 +2,12 @@
   "slug": "runpod",
   "checked": "Oct 19, 2026",
   "founded": 2022,
-  "hq": "Moorestown, NJ",
-  "headcount_est": null,
+  "hq": "San Francisco, CA (offices in New Jersey)",
+  "headcount_est": {
+    "value": "~142",
+    "as_of": "Sep 2026",
+    "source": "https://tracxn.com/d/companies/runpod/__fmUJ0oyBYH3F6QbwBUl3wrJN0Y1huzsUOz86E5EEvWI"
+  },
   "leadership": [
     {
       "name": "Zhen Lu",
@@ -57,6 +61,11 @@
       "date": "2026-10",
       "headline": "Passed $325M ARR and hired ex-DigitalOcean CFO Brian Erickson",
       "url": "https://www.runpod.io/press/runpod-325m-arr-new-cfo"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Fall 2026 State of AI Compute report: B200 list prices up 31% Jan–Aug",
+      "url": "https://www.runpod.io/press/runpod-fall-2026-state-of-ai-compute"
     },
     {
       "date": "2026-06",

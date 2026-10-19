@@ -4,9 +4,9 @@
   "founded": 2021,
   "hq": "New York, NY (R&D in Tel Aviv)",
   "headcount_est": {
-    "value": "~1,100",
-    "as_of": "Jan 2026",
-    "source": "https://finance.yahoo.com/news/exclusive-cyera-ceo-yotam-segev-120000837.html"
+    "value": "1,500+ across 18 countries",
+    "as_of": "Sep 2026",
+    "source": "https://valueaddvc.com/pulse/cyera-400m-goldman-sachs-12b-valuation-2026"
   },
   "leadership": [
     {
@@ -119,9 +119,9 @@
   ],
   "total_raised": "$2.7B+",
   "revenue_est": {
-    "value": "$150M+ ARR",
+    "value": "~$150M ARR per people familiar (company called the figures inaccurate); company says ARR tripled three years running",
     "as_of": "Jun 2026",
-    "basis": "press report",
+    "basis": "press report (disputed)",
     "source": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/"
   },
   "news_timeline": [

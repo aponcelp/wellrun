@@ -3,30 +3,135 @@
   "checked": "Oct 19, 2026",
   "founded": 2025,
   "hq": "Amsterdam, Netherlands (R&D in Tel Aviv)",
-  "headcount_est": {"value": "~650", "as_of": "Sep 2026", "source": "https://www.morningstar.com/news/business-wire/20260901326498/wonderful-raises-550-million-series-c-to-scale-the-ai-operating-system-for-the-enterprise"},
+  "headcount_est": {
+    "value": "~650",
+    "as_of": "Sep 2026",
+    "source": "https://www.morningstar.com/news/business-wire/20260901326498/wonderful-raises-550-million-series-c-to-scale-the-ai-operating-system-for-the-enterprise"
+  },
   "leadership": [
-    {"name": "Bar Winkler", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "http://wonderful.ai/about-us"},
-    {"name": "Roey Lalazar", "title": "Co-founder & CTO", "founder": true, "linkedin": null, "source": "http://wonderful.ai/about-us"},
-    {"name": "Guy Sustiel", "title": "COO", "founder": false, "linkedin": null, "source": "http://wonderful.ai/about-us"},
-    {"name": "Roi Tavor", "title": "CRO", "founder": false, "linkedin": null, "source": "http://wonderful.ai/about-us"},
-    {"name": "Melissa Zeloof", "title": "CMO", "founder": false, "linkedin": null, "source": "http://wonderful.ai/about-us"},
-    {"name": "Barak Kaufman", "title": "CSO", "founder": false, "linkedin": null, "source": "http://wonderful.ai/about-us"}
+    {
+      "name": "Bar Winkler",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://wonderful.ai/about-us"
+    },
+    {
+      "name": "Roey Lalazar",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://wonderful.ai/about-us"
+    },
+    {
+      "name": "Guy Sustiel",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://wonderful.ai/about-us"
+    },
+    {
+      "name": "Roi Tavor",
+      "title": "CRO",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://wonderful.ai/about-us"
+    },
+    {
+      "name": "Melissa Zeloof",
+      "title": "CMO",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://wonderful.ai/about-us"
+    },
+    {
+      "name": "Barak Kaufman",
+      "title": "CSO",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://wonderful.ai/about-us"
+    }
   ],
   "funding_history": [
-    {"round": "Seed", "date": "2025-07", "amount": "$34M", "valuation": null, "lead": "Index Ventures", "source": "https://dealroom.co/companies/wonderful-"},
-    {"round": "Series A", "date": "2025-11", "amount": "$100M", "valuation": "~$700M (reported)", "lead": "Index Ventures", "source": "https://www.indexventures.com/perspectives/wonderful-secures-100m-to-drive-adoption-of-ai-agents-globally/"},
-    {"round": "Series B", "date": "2026-03", "amount": "$150M", "valuation": "$2B", "lead": "Insight Partners", "source": "https://www.prnewswire.com/news-releases/wonderful-raises-150m-series-b-to-accelerate-enterprise-ai-adoption-in-30-markets-302712238.html"},
-    {"round": "Series B extension", "date": "2026", "amount": "$15M", "valuation": null, "lead": null, "source": "https://dealroom.co/companies/wonderful-"},
-    {"round": "Series C", "date": "2026-09", "amount": "$550M", "valuation": "$5B", "lead": "Insight Partners", "source": "https://www.wonderful.ai/blog-articles/wonderful-raises-550m-series-c?scLang=en"}
+    {
+      "round": "Seed",
+      "date": "2025-07",
+      "amount": "$34M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://dealroom.co/companies/wonderful-"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-11",
+      "amount": "$100M",
+      "valuation": "~$700M (reported)",
+      "lead": "Index Ventures",
+      "source": "https://www.indexventures.com/perspectives/wonderful-secures-100m-to-drive-adoption-of-ai-agents-globally/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-03",
+      "amount": "$150M",
+      "valuation": "$2B",
+      "lead": "Insight Partners",
+      "source": "https://www.prnewswire.com/news-releases/wonderful-raises-150m-series-b-to-accelerate-enterprise-ai-adoption-in-30-markets-302712238.html"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2026",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://dealroom.co/companies/wonderful-"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-09",
+      "amount": "$550M",
+      "valuation": "$5B",
+      "lead": "Insight Partners",
+      "source": "https://www.wonderful.ai/blog-articles/wonderful-raises-550m-series-c?scLang=en"
+    }
   ],
   "total_raised": "~$850M",
-  "revenue_est": null,
+  "revenue_est": {
+    "value": "~$70M annualized run-rate (est.); company expects $100M+ by end-2026",
+    "as_of": "Sep 2026",
+    "basis": "press report",
+    "source": "https://www.calcalistech.com/ctechnews/article/2lcydeh3v"
+  },
   "news_timeline": [
-    {"date": "2026-09", "headline": "Raises $550M Series C at $5B led by Insight; Salesforce joins as investor", "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"},
-    {"date": "2026-09", "headline": "Repositions as 'Wonderful AI OS'; 35+ markets and 650 employees", "url": "https://www.morningstar.com/news/business-wire/20260901326498/wonderful-raises-550-million-series-c-to-scale-the-ai-operating-system-for-the-enterprise"},
-    {"date": "2026-06", "headline": "Launches in Australia, following Singapore in May", "url": "https://www.wonderful.ai/blog-articles/wonderful-raises-550m-series-c?scLang=es-MX"},
-    {"date": "2026-04", "headline": "Announces partnership with McKinsey", "url": "https://www.wonderful.ai/blog-articles/wonderful-raises-550m-series-c?scLang=es-MX"},
-    {"date": "2026-03", "headline": "Raises $150M Series B at $2B led by Insight Partners", "url": "https://www.prnewswire.com/news-releases/wonderful-raises-150m-series-b-to-accelerate-enterprise-ai-adoption-in-30-markets-302712238.html"}
+    {
+      "date": "2026-09",
+      "headline": "Raises $550M Series C at $5B led by Insight; Salesforce joins as investor",
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Repositions as 'Wonderful AI OS'; 35+ markets and 650 employees",
+      "url": "https://www.morningstar.com/news/business-wire/20260901326498/wonderful-raises-550-million-series-c-to-scale-the-ai-operating-system-for-the-enterprise"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Launches in Australia, following Singapore in May",
+      "url": "https://www.wonderful.ai/blog-articles/wonderful-raises-550m-series-c?scLang=es-MX"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Announces partnership with McKinsey",
+      "url": "https://www.wonderful.ai/blog-articles/wonderful-raises-550m-series-c?scLang=es-MX"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Raises $150M Series B at $2B led by Insight Partners",
+      "url": "https://www.prnewswire.com/news-releases/wonderful-raises-150m-series-b-to-accelerate-enterprise-ai-adoption-in-30-markets-302712238.html"
+    }
   ],
-  "competitors": ["sierra", "decagon", "parloa", "polyai"]
+  "competitors": [
+    "sierra",
+    "decagon",
+    "parloa",
+    "polyai"
+  ]
 }

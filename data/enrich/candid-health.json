@@ -4,9 +4,9 @@
   "founded": 2019,
   "hq": "San Francisco, CA",
   "headcount_est": {
-    "value": "~226",
-    "as_of": "2026",
-    "source": "https://platform.tracxn.com/a/d/company/58be05c2e4b0013e26069303/candid%20health"
+    "value": "200+ FTEs (70+ in engineering)",
+    "as_of": "Jul 2026",
+    "source": "https://www.linkedin.com/posts/oliviablack_beyond-thrilled-to-finally-share-that-candid-activity-7485692545688289281-MYv-"
   },
   "leadership": [
     {
@@ -19,13 +19,6 @@
     {
       "name": "Doug Proctor",
       "title": "Co-founder & COO",
-      "founder": true,
-      "linkedin": null,
-      "source": "https://candidhealth.com/blog/candid-health-raises-usd52-5-million-series-c"
-    },
-    {
-      "name": "Adam Reis",
-      "title": "Co-founder",
       "founder": true,
       "linkedin": null,
       "source": "https://candidhealth.com/blog/candid-health-raises-usd52-5-million-series-c"
@@ -72,7 +65,7 @@
       "source": "https://fortune.com/2026/07/22/candid-health-raises-120-million-to-take-on-americas-280-billion-medical-billing-mess/"
     }
   ],
-  "total_raised": "~$219.5M",
+  "total_raised": "~$220M (Denver Business Journal via NEWSx)",
   "revenue_est": {
     "value": "ARR growing 190% YoY (absolute ARR not disclosed)",
     "as_of": "Jul 2026",
@@ -80,6 +73,16 @@
     "source": "https://finance.yahoo.com/healthcare/articles/candid-health-raises-120m-led-115500377.html"
   },
   "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Signs 14,000 sq ft Denver (RiNo) office lease after Series D",
+      "url": "https://newsx.io/2026/09/06/healthcare-billing-startup-leases-rino-office-after-120-million-raise/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Partners with Flatiron Health to bring its RCM to oncology practices",
+      "url": "https://candidhealth.com/blog/flatiron-partnership"
+    },
     {
       "date": "2026-07",
       "headline": "Raises $120M Series D led by Sixth Street Growth, tripling valuation",

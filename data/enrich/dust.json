@@ -4,9 +4,9 @@
   "founded": 2023,
   "hq": "Paris, France & San Francisco, CA",
   "headcount_est": {
-    "value": "101-250",
-    "as_of": "2026",
-    "source": "https://www.crunchbase.com/organization/dust-5f56"
+    "value": "~144",
+    "as_of": "Oct 2026",
+    "source": "https://dealroom.co/companies/dust-1"
   },
   "leadership": [
     {
@@ -50,8 +50,13 @@
       "source": "https://www.globenewswire.com/news-release/2026/05/18/3296726/0/en/dust-raises-40m-to-make-ai-multiplayer-inside-the-enterprise.html"
     }
   ],
-  "total_raised": "~$61.5M",
-  "revenue_est": null,
+  "total_raised": "$60M+ (company-stated)",
+  "revenue_est": {
+    "value": "~$20M ARR (up from ~$1M at Jun 2024 Series A); not profitable",
+    "as_of": "Early 2026",
+    "basis": "press report",
+    "source": "https://www.mind.eu.com/retail/en/article/dust-raises-us40-million-to-conquer-the-usa/"
+  },
   "news_timeline": [
     {
       "date": "2026-09",

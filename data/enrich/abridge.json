@@ -126,7 +126,12 @@
     }
   ],
   "total_raised": "~$830M",
-  "revenue_est": null,
+  "revenue_est": {
+    "value": "~$100M ARR (Sacra estimate); $117M contracted ARR reported for Q1 2025; no newer figure disclosed",
+    "as_of": "May 2025",
+    "basis": "estimate",
+    "source": "https://sacra.com/c/abridge"
+  },
   "news_timeline": [
     {
       "date": "2026-10",

@@ -1,12 +1,12 @@
 {
   "slug": "forus",
   "checked": "Oct 19, 2026",
-  "founded": null,
+  "founded": 2023,
   "hq": "New York, NY",
   "headcount_est": {
-    "value": "~100",
-    "as_of": "May 2026",
-    "source": "https://www.forus.com/stories/forus-announcement"
+    "value": "~211",
+    "as_of": "Oct 2026",
+    "source": "https://research.crustdata.com/company/forus"
   },
   "leadership": [
     {
@@ -15,6 +15,27 @@
       "founder": true,
       "linkedin": null,
       "source": "https://www.businesswire.com/news/home/20260512458472/en/Forus-Raises-%24160M-to-Build-the-Foundation-for-Modern-Medicine"
+    },
+    {
+      "name": "Andrew Beinstein",
+      "title": "Head of Engineering",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://research.crustdata.com/company/forus"
+    },
+    {
+      "name": "Adam Harris, MD",
+      "title": "Head of Clinical Intelligence",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://research.crustdata.com/company/forus"
+    },
+    {
+      "name": "Sabrina Low",
+      "title": "General Counsel",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://research.crustdata.com/company/forus"
     }
   ],
   "funding_history": [
@@ -37,10 +58,10 @@
   ],
   "total_raised": "$300M+ (company-stated)",
   "revenue_est": {
-    "value": "ARR >$10M at end-2025, up ~5x by May 2026",
+    "value": "ARR >$10M at end-2025, ~5x by May 2026; company expected $50M+ annualized revenue in 2026",
     "as_of": "May 2026",
     "basis": "press report",
-    "source": "https://www.forbes.com/sites/amyfeldman/2026/05/12/billions-in-prescriptions-go-unfilled-this-startup-is-using-ai-to-fix-that/"
+    "source": "https://www.citybiz.co/article/845561/forus-raises-160m-to-enable-faster-access-to-prescription-drugs/"
   },
   "news_timeline": [
     {

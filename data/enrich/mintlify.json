@@ -66,6 +66,16 @@
   },
   "news_timeline": [
     {
+      "date": "2026-09",
+      "headline": "Launches Mintlify Desktop beta and relaunches free Starter plan",
+      "url": "https://www.mintlify.com/blog/mintlify-desktop"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Agents reach ~66% of docs traffic (250M+ queries in July); launches agent signup",
+      "url": "https://www.mintlify.com/blog/mint-signup"
+    },
+    {
       "date": "2026-04",
       "headline": "Raised $45M Series B at $500M led by a16z and Salesforce Ventures",
       "url": "https://www.mintlify.com/blog/series-b"

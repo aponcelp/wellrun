@@ -3,7 +3,11 @@
   "checked": "Oct 19, 2026",
   "founded": 2023,
   "hq": "Mountain View, CA",
-  "headcount_est": null,
+  "headcount_est": {
+    "value": "nearly 200",
+    "as_of": "Sep 2026",
+    "source": "https://finance.yahoo.com/technology/ai/articles/ema-raises-77m-ai-starts-120000270.html"
+  },
   "leadership": [
     {
       "name": "Surojit Chatterjee",
@@ -68,7 +72,12 @@
     }
   ],
   "total_raised": "$140M",
-  "revenue_est": null,
+  "revenue_est": {
+    "value": "Not disclosed; revenue up 50x over two years and $150M+ bookings incl. multiyear contracts (company)",
+    "as_of": "Sep 2026",
+    "basis": "company-stated",
+    "source": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
+  },
   "news_timeline": [
     {
       "date": "2026-09",

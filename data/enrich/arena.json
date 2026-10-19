@@ -5,22 +5,92 @@
   "hq": "San Francisco, CA",
   "headcount_est": null,
   "leadership": [
-    {"name": "Anastasios Angelopoulos", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://www.prnewswire.com/news-releases/lmarena-secures-100m-in-seed-funding-to-bring-scientific-rigor-to-ai-reliability-302462025.html"},
-    {"name": "Wei-Lin Chiang", "title": "Co-founder & CTO", "founder": true, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/58bfe4d6e4b0c26072b7a37c/arena"},
-    {"name": "Ion Stoica", "title": "Co-founder", "founder": true, "linkedin": null, "source": "https://www.prnewswire.com/news-releases/lmarena-secures-100m-in-seed-funding-to-bring-scientific-rigor-to-ai-reliability-302462025.html"}
+    {
+      "name": "Anastasios Angelopoulos",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/lmarena-secures-100m-in-seed-funding-to-bring-scientific-rigor-to-ai-reliability-302462025.html"
+    },
+    {
+      "name": "Wei-Lin Chiang",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/58bfe4d6e4b0c26072b7a37c/arena"
+    },
+    {
+      "name": "Ion Stoica",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/lmarena-secures-100m-in-seed-funding-to-bring-scientific-rigor-to-ai-reliability-302462025.html"
+    }
   ],
   "funding_history": [
-    {"round": "Seed", "date": "2025-05", "amount": "$100M", "valuation": "$600M", "lead": "Andreessen Horowitz & UC Investments", "source": "https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/"},
-    {"round": "Series A", "date": "2026-01", "amount": "$150M", "valuation": "$1.7B", "lead": "Felicis & UC Investments", "source": "https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation-four-months-after-launching-its-product/"},
-    {"round": "Series B", "date": "2026-09", "amount": "$200M", "valuation": "$3.1B (company); one report says $2.88B post", "lead": "Lightspeed Venture Partners & Khosla Ventures", "source": "https://www.finsmes.com/2026/10/arena-raises-200m-in-series-b-funding-at-3-1b-valuation.html"}
+    {
+      "round": "Seed",
+      "date": "2025-05",
+      "amount": "$100M",
+      "valuation": "$600M",
+      "lead": "Andreessen Horowitz & UC Investments",
+      "source": "https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-01",
+      "amount": "$150M",
+      "valuation": "$1.7B",
+      "lead": "Felicis & UC Investments",
+      "source": "https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation-four-months-after-launching-its-product/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-09",
+      "amount": "$200M",
+      "valuation": "$3.1B (company); one report says $2.88B post",
+      "lead": "Lightspeed Venture Partners & Khosla Ventures",
+      "source": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+    }
   ],
   "total_raised": "~$450M",
-  "revenue_est": {"value": "~$30M annualized consumption rate", "as_of": "Dec 2025", "basis": "company-stated", "source": "https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation-four-months-after-launching-its-product/"},
+  "revenue_est": {
+    "value": "$100M+ annualized run-rate (from $30M in Jan 2026)",
+    "as_of": "Jun 2026",
+    "basis": "company-stated (annualized run-rate)",
+    "source": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+  },
   "news_timeline": [
-    {"date": "2026-10", "headline": "Announces $200M Series B at $3.1B; launches AI Alignment Index", "url": "https://arena.ai/blog/series-b"},
-    {"date": "2026-01", "headline": "Raises $150M Series A at $1.7B, four months after commercial launch", "url": "https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation-four-months-after-launching-its-product/"},
-    {"date": "2025-12", "headline": "Annualized consumption rate reaches $30M within four months of launch", "url": "https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation-four-months-after-launching-its-product/"},
-    {"date": "2025-05", "headline": "Spins out of UC Berkeley with $100M seed at $600M", "url": "https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/"}
+    {
+      "date": "2026-10",
+      "headline": "Announces $200M Series B at $3.1B; launches AI Alignment Index",
+      "url": "https://arena.ai/blog/series-b"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Annualized revenue passes $100M, eight months after paid evals launch",
+      "url": "https://thenextweb.com/news/arena-ai-leaderboard-100-million-revenue-evaluation"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raises $150M Series A at $1.7B, four months after commercial launch",
+      "url": "https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation-four-months-after-launching-its-product/"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Annualized consumption rate reaches $30M within four months of launch",
+      "url": "https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation-four-months-after-launching-its-product/"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Spins out of UC Berkeley with $100M seed at $600M",
+      "url": "https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/"
+    }
   ],
-  "competitors": ["scale-ai", "Artificial Analysis", "Braintrust", "surge-ai"]
+  "competitors": [
+    "scale-ai",
+    "Artificial Analysis",
+    "Braintrust",
+    "surge-ai"
+  ]
 }

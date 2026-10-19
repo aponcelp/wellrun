@@ -111,6 +111,16 @@
   },
   "news_timeline": [
     {
+      "date": "2026-09",
+      "headline": "Launches custom agents for scheduled GRC work and Vanta Control Framework",
+      "url": "https://www.vanta.com/whats-new"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Vanta becomes available directly inside ChatGPT",
+      "url": "https://www.vanta.com/whats-new"
+    },
+    {
       "date": "2026-05",
       "headline": "Named a Leader among GRC platforms in first-ever analyst inclusion",
       "url": "https://finance.yahoo.com/sectors/technology/articles/vanta-named-leader-among-governance-170000577.html"
@@ -129,16 +139,6 @@
       "date": "2025-07",
       "headline": "Raised $150M Series D at $4.15B led by Wellington",
       "url": "https://www.vanta.com/resources/vanta-announces-series-d"
-    },
-    {
-      "date": "2025-07",
-      "headline": "Acquired Riskey for AI-powered vendor risk monitoring",
-      "url": "https://www.businesswire.com/news/home/20250717555906/en/Vanta-Acquires-Riskey-to-Transform-Vendor-Risk-with-Continuous-AI-Powered-Monitoring"
-    },
-    {
-      "date": "2025-06",
-      "headline": "Bug exposed some customers' data to other customers",
-      "url": "https://finance.yahoo.com/news/vanta-bug-exposed-customers-data-171047953.html"
     }
   ],
   "competitors": [

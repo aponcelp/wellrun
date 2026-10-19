@@ -3,7 +3,11 @@
   "checked": "Oct 19, 2026",
   "founded": 2017,
   "hq": "New York, NY",
-  "headcount_est": null,
+  "headcount_est": {
+    "value": "~1,000 (from under 300 two years earlier)",
+    "as_of": "Sep 2026",
+    "source": "https://www.ubstandard.com/technology/sales-automation-startup-clay-nears-7-billion-valuation-in-wellington-led-round"
+  },
   "leadership": [
     {
       "name": "Kareem Amin",
@@ -79,10 +83,10 @@
   ],
   "total_raised": "~$320M primary (TechCrunch: $204M through Series C, plus $115M Series D)",
   "revenue_est": {
-    "value": "$100M ARR; revenue 4x in 2025",
-    "as_of": "Dec 2025",
+    "value": "On track for $200M ARR in Q3 2026 (company); ~$150M ARR in May 2026 (Sacra est.)",
+    "as_of": "Sep 2026",
     "basis": "company-stated",
-    "source": "https://www.clay.com/blog/100m-arr"
+    "source": "https://www.arr.club/clay/clay-arr-nearing-200m-with-17k-teams-building-on-it"
   },
   "news_timeline": [
     {
