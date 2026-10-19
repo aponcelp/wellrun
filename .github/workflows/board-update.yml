@@ -1,0 +1,15 @@
+name: Board update
+on:
+  push:
+    branches: [main]
+    paths: ["data.json", "data/companies.json", "index.html"]
+  workflow_dispatch:
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Check board data and write the weekly report
+        run: python3 .github/scripts/board_report.py "${{ github.event.before || 'HEAD~1' }}"
