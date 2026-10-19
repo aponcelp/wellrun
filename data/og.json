@@ -833,6 +833,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "doorloop": {
+  "url": "https://cdn.doorloop.com/opengraph.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-19"
+ },
  "doppel": {
   "url": "https://prod-cms.doppel.com/sites/default/files/2025-11/Open_Graph_Image_0.png",
   "kind": "og",

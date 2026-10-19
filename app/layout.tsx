@@ -25,6 +25,8 @@ export const metadata: Metadata = {
     // og:image comes from app/opengraph-image.tsx; /og.png stays in public/ as the legacy card.
   },
   twitter: { card: "summary_large_image", images: [{ url: "/opengraph-image", width: 1200, height: 630 }] },
+  // Google Search Console ownership (same token as main's index.html, 17a088f); keep through launch.
+  verification: { google: "_JCXbGJ7vU0_NDU_WMynTgqRy7ZSxeA3mnUybxotF3c" },
 };
 
 export const viewport: Viewport = { themeColor: "#0A2119", width: "device-width", initialScale: 1 };

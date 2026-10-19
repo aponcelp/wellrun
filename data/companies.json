@@ -32870,5 +32870,61 @@
    "SF Bay Area",
    "San Francisco"
   ]
+ },
+ {
+  "name": "DoorLoop",
+  "slug": "doorloop",
+  "site": "https://www.doorloop.com",
+  "careers_url": "https://www.comeet.com/jobs/doorloop/0A.006",
+  "what_they_do": "All-in-one property management software: rent, accounting, leasing, maintenance",
+  "problem": "Landlords and property managers juggle clunky, disconnected tools to run their portfolios",
+  "industry": "Proptech / property management software",
+  "stage": "Series B",
+  "last_round": "$100M",
+  "last_round_date": "Oct 2024",
+  "lead_investors": "JMI Equity (earlier: Alpine Software Group)",
+  "total_open_roles": "4",
+  "ops_roles": "Senior Go-To-Market Analyst",
+  "hiring_trend": "Hiring has slowed: 4 open roles (Miami, NYC, Tel Aviv), one a maternity cover",
+  "headcount": "200+",
+  "latest_news": "Launched DoorLoop 2.0, a ground-up platform rebuild with AI agents",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prweb.com/releases/doorloop-launches-doorloop-2-0--rebuilding-property-management-software-for-what-comes-next-302903245.html",
+  "traction": "10,000+ paying customers; ~95% of users stayed on the rebuilt 2.0",
+  "red_flags": "Employee reviews from Jul–Sep 2026 describe a recent mass layoff, and the company's response acknowledged 'difficult decisions'",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor layoff reviews",
+    "url": "https://www.glassdoor.com/Reviews/DoorLoop-layoff-Reviews-EI_IE6826868.0,8_KH9,15.htm"
+   }
+  ],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "109",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-DoorLoop-EI_IE6826868.11,19.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky for landlords, but bigger rivals crowd it and recent layoffs add burn risk.",
+  "distance_sources": [
+   {
+    "label": "DoorLoop 2.0 launch release",
+    "url": "https://www.prweb.com/releases/doorloop-launches-doorloop-2-0--rebuilding-property-management-software-for-what-comes-next-302903245.html"
+   },
+   {
+    "label": "Glassdoor layoff reviews",
+    "url": "https://www.glassdoor.com/Reviews/DoorLoop-layoff-Reviews-EI_IE6826868.0,8_KH9,15.htm"
+   }
+  ],
+  "hiring_locations": [
+   "Miami",
+   "New York",
+   "Tel Aviv",
+   "Remote"
+  ]
  }
 ]
