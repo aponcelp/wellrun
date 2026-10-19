@@ -33421,5 +33421,72 @@
    "New York",
    "Chicago"
   ]
+ },
+ {
+  "name": "RealPage",
+  "slug": "realpage",
+  "site": "https://www.realpage.com",
+  "careers_url": "https://careers-realpagepms.icims.com/jobs/search?ss=1",
+  "what_they_do": "Property management, leasing, payments, screening and pricing software for rental housing; owns Buildium",
+  "problem": "Apartment owners and managers need one system to lease, collect rent, price units and run large portfolios",
+  "industry": "Proptech / property management software",
+  "stage": "PE-owned (Thoma Bravo take-private)",
+  "last_round": "$10.2B take-private (PE; no VC credit)",
+  "last_round_date": "Apr 2021",
+  "lead_investors": "Thoma Bravo",
+  "total_open_roles": "106",
+  "ops_roles": "Pricing Strategy Manager (Remote, FL); Customer Success Manager II, Key Accounts (Remote, US); Head of GTM & Commercialization, Fintech (Richardson, TX); Data Science Project Manager (Richardson, TX)",
+  "hiring_trend": "Shrinking slightly: ~11.7K staff, -2.4% YoY after -2.3% in 2025 (Revelio); repeated reorgs 2025-26; 106 open roles (42 US)",
+  "headcount": "~8,000 (CEO, Jul 2026)",
+  "latest_news": "Paused new EliseAI integrations, citing breach of platform agreement",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://therealdeal.com/national/2026/10/13/realpage-ceo-defends-halt-to-eliseai-integration/",
+  "traction": "42,000 customers, 24M+ rental units served; $1B+ revenue at take-private; acquired Cherre Jul 2026",
+  "red_flags": "Algorithmic rent-pricing antitrust: DOJ consent decree (Nov 2025, approved May 2026) restricts its pricing product; 10-state AG suit survived dismissal Oct 2026; NY, CA, CT laws and city bans (SF, Philadelphia, Minneapolis, Seattle, Jersey City) target its software. Repeated layoffs and reorgs 2025-26, with Glassdoor reviews citing constant cuts and offshoring.",
+  "red_flags_sources": [
+   {
+    "label": "DOJ: RealPage settlement requires end to sharing competitively sensitive data (Nov 2025)",
+    "url": "https://www.justice.gov/opa/pr/justice-department-requires-realpage-end-sharing-competitively-sensitive-information-and"
+   },
+   {
+    "label": "California AG: court denies RealPage bid to dismiss multistate rent-pricing suit (Oct 2026)",
+    "url": "https://oag.ca.gov/news/press-releases/court-sides-attorney-general-bonta-realpage-case-denies-realpage-and-landlords%E2%80%99"
+   },
+   {
+    "label": "Multifamily Dive: NY algorithmic rent ban paused; city bans in SF, Philadelphia, Minneapolis, Seattle (Oct 2026)",
+    "url": "https://www.multifamilydive.com/news/realpage-injunction-new-york-algorithmic-rent-setting-ban/832045/"
+   },
+   {
+    "label": "Glassdoor: RealPage reviews mentioning layoffs",
+    "url": "https://www.glassdoor.com/Reviews/RealPage-layoff-Reviews-EI_IE104221.0,8_KH9,15.htm"
+   },
+   {
+    "label": "Revelio Labs: RealPage headcount -2.4% YoY (2026)",
+    "url": "https://www.reveliolabs.com/companies/realpage/employees"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "2,656",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/RealPage-Reviews-E104221.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in + Data",
+  "distance": "Half",
+  "distance_why": "Runs back offices for 42,000 customers, but rent-pricing rules now curb its data edge.",
+  "distance_sources": [
+   {
+    "label": "The Real Deal: RealPage pauses EliseAI integrations; 42,000 customers (Oct 2026)",
+    "url": "https://therealdeal.com/national/2026/10/13/realpage-ceo-defends-halt-to-eliseai-integration/"
+   },
+   {
+    "label": "Multifamily Dive: RealPage wins pause on NY rent-setting ban (Oct 2026)",
+    "url": "https://www.multifamilydive.com/news/realpage-injunction-new-york-algorithmic-rent-setting-ban/832045/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

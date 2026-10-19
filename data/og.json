@@ -2477,6 +2477,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "realpage": {
+  "url": "https://s.realpage.com/dist/site/static/social-default-cover/RealPage-Generic-Cover.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-19"
+ },
  "reducto": {
   "url": "https://reducto.ai/opengraph-image-pztefn.png?dad257abe5b90369",
   "kind": "og",
