@@ -1,0 +1,161 @@
+{
+  "slug": "cyera",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "New York, NY (R&D in Tel Aviv)",
+  "headcount_est": {
+    "value": "~1,100",
+    "as_of": "Jan 2026",
+    "source": "https://finance.yahoo.com/news/exclusive-cyera-ceo-yotam-segev-120000837.html"
+  },
+  "leadership": [
+    {
+      "name": "Yotam Segev",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/yotam-segev-096156113/",
+      "source": "https://www.cyera.com/about"
+    },
+    {
+      "name": "Tamar Bar-Ilan",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/tamar-bar-ilan-67bb481a7/",
+      "source": "https://www.cyera.com/about"
+    },
+    {
+      "name": "Yonatan Itai",
+      "title": "Co-founder & VP of R&D",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/yonatan-itai-878050208/",
+      "source": "https://www.cyera.com/about"
+    },
+    {
+      "name": "Brandon Sweeney",
+      "title": "President",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.cyera.com/press-releases/cyera-expands-executive-leadership-appoints-brandon-sweeney-as-president"
+    },
+    {
+      "name": "Joseph Iantosca",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/5495e1c9e4b0dbd5ec4bf050/cyera"
+    },
+    {
+      "name": "Steve Rog",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/5495e1c9e4b0dbd5ec4bf050/cyera"
+    },
+    {
+      "name": "Jason Clark",
+      "title": "Chief Strategy Officer",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/jasonclarkfl/",
+      "source": "https://www.cyera.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series C",
+      "date": "2023",
+      "amount": null,
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://en.wikipedia.org/wiki/Cyera"
+    },
+    {
+      "round": "Series D",
+      "date": "2024-04",
+      "amount": "$300M",
+      "valuation": null,
+      "lead": "Coatue",
+      "source": "https://en.wikipedia.org/wiki/Cyera"
+    },
+    {
+      "round": "Series D extension",
+      "date": "2024-11",
+      "amount": "$300M",
+      "valuation": null,
+      "lead": "Accel, Sapphire Ventures",
+      "source": "https://en.wikipedia.org/wiki/Cyera"
+    },
+    {
+      "round": "Series E",
+      "date": "2025-06",
+      "amount": "$540M",
+      "valuation": "$6B",
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Cyera"
+    },
+    {
+      "round": "Series F",
+      "date": "2026-01",
+      "amount": "$400M",
+      "valuation": "~$9B",
+      "lead": "Blackstone",
+      "source": "https://finance.yahoo.com/news/exclusive-cyera-ceo-yotam-segev-120000837.html"
+    },
+    {
+      "round": "Series G",
+      "date": "2026-06",
+      "amount": "$600M",
+      "valuation": "$12B",
+      "lead": "Evolution Equity Partners",
+      "source": "https://en.wikipedia.org/wiki/Cyera"
+    },
+    {
+      "round": "Series G extension",
+      "date": "2026-09",
+      "amount": "$400M",
+      "valuation": null,
+      "lead": "Goldman Sachs Alternatives",
+      "source": "https://www.cyera.com/press-releases/cyera-announces-400-million-investment-from-goldman-sachs-to-build-the-trust-layer-for-the-agentic-enterprise"
+    }
+  ],
+  "total_raised": "$2.7B+",
+  "revenue_est": {
+    "value": "$150M+ ARR",
+    "as_of": "Jun 2026",
+    "basis": "press report",
+    "source": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Adds $400M Goldman Sachs extension; closes ~$1B Oasis Security purchase",
+      "url": "https://www.cyera.com/press-releases/cyera-announces-400-million-investment-from-goldman-sachs-to-build-the-trust-layer-for-the-agentic-enterprise"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Agrees to acquire Oasis Security (non-human identity) for ~$1B",
+      "url": "https://en.wikipedia.org/wiki/Cyera"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Raises $600M Series G at $12B led by Evolution Equity",
+      "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Named a Leader in Forrester Wave for sensitive data discovery",
+      "url": "https://www.cyera.com/press-releases/cyera-recognized-as-a-leader-in-sensitive-data-discovery-and-classification"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raises $400M led by Blackstone",
+      "url": "https://finance.yahoo.com/news/exclusive-cyera-ceo-yotam-segev-120000837.html"
+    }
+  ],
+  "competitors": [
+    "Varonis",
+    "BigID",
+    "Microsoft Purview",
+    "Netskope",
+    "Palo Alto Networks"
+  ]
+}

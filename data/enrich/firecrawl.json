@@ -1,0 +1,106 @@
+{
+  "slug": "firecrawl",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~54",
+    "as_of": "Oct 2026",
+    "source": "https://platform.tracxn.com/a/d/company/6616dd53957dbe6f992775d5/firecrawl"
+  },
+  "leadership": [
+    {
+      "name": "Caleb Peffer",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2025/08/19/3135573/0/en/firecrawl-announces-14-5-million-in-series-a-funding-to-put-web-data-on-tap-for-ai-agents.html"
+    },
+    {
+      "name": "Nicolas Silberstein Camara",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2025/08/19/3135573/0/en/firecrawl-announces-14-5-million-in-series-a-funding-to-put-web-data-on-tap-for-ai-agents.html"
+    },
+    {
+      "name": "Eric Ciarla",
+      "title": "Co-founder (CMO / Chief Growth Officer)",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/eric-ciarla",
+      "source": "https://www.caplight.com/company/firecrawl"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (YC S22)",
+      "date": "2022-09",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "http://app.dealroom.co/companies/sideguide_firecrawl_mendable"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-08",
+      "amount": "$14.5M",
+      "valuation": null,
+      "lead": "Nexus Venture Partners",
+      "source": "https://www.firecrawl.dev/press/firecrawl-series-a-press-release.pdf"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-09",
+      "amount": "$75M",
+      "valuation": null,
+      "lead": "Smash Capital",
+      "source": "https://www.firecrawl.dev/blog/introducing-alexandria-series-b"
+    }
+  ],
+  "total_raised": "~$91M ($16.2M through Series A per company + $75M Series B)",
+  "revenue_est": {
+    "value": "8-figure ARR in year one, more than doubled in year two",
+    "as_of": "Sep 2026",
+    "basis": "company-stated",
+    "source": "https://www.firecrawl.dev/blog/introducing-alexandria-series-b"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raises $75M Series B led by Smash Capital; launches Alexandria knowledge library",
+      "url": "https://www.firecrawl.dev/blog/introducing-alexandria-series-b"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Becomes an official ChatGPT plugin for live web data",
+      "url": "https://www.firecrawl.dev/blog/category/product-updates"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Launches /monitor endpoint for change detection",
+      "url": "https://www.firecrawl.dev/blog/firecrawl-monitoring-launch"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Releases open-source web-agent framework",
+      "url": "https://www.firecrawl.dev/blog/category/product-updates"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Launches Firecrawl Skill and CLI for coding agents",
+      "url": "https://www.firecrawl.dev/blog/category/product-updates"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Raises $14.5M Series A led by Nexus; ships Firecrawl v2",
+      "url": "https://www.globenewswire.com/news-release/2025/08/19/3135573/0/en/firecrawl-announces-14-5-million-in-series-a-funding-to-put-web-data-on-tap-for-ai-agents.html"
+    }
+  ],
+  "competitors": [
+    "exa",
+    "parallel-web-systems",
+    "apify",
+    "Tavily",
+    "Bright Data"
+  ]
+}

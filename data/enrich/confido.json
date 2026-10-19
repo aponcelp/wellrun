@@ -1,0 +1,83 @@
+{
+  "slug": "confido",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~94",
+    "as_of": "Oct 2026",
+    "source": "https://platform.tracxn.com/a/d/company/612e50b83b332d1ec4b9a4f9/confido"
+  },
+  "leadership": [
+    {
+      "name": "Justin Hunter",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/justin-hunter",
+      "source": "https://www.businesswire.com/news/home/20260922033622/en/Confido-Raises-%2455M-Series-B-to-Take-AI-Powered-Automation-Across-the-Entire-Consumer-Brand-Back-Office"
+    },
+    {
+      "name": "Kara Holinski",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://dealroom.co/news/talk-htAl33M5F54-from-pivot-hell-to-a-55m-series-b-confidos-ai-back-office-playbook"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": null,
+      "valuation": null,
+      "lead": "Watchfire Ventures",
+      "source": "https://confidotech.com/blogs/a-note-from-our-founders-raising-our-series-a-to-build-the-future-of-cpg-finance"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-08",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Footwork",
+      "source": "https://www.goodwinlaw.com/en/news-and-events/news/2025/08/announcements-technology-goodwin-represents-confido"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-09",
+      "amount": "$55M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://www.confidotech.com/blogs/confido-raises-55m-series-b-to-scale-the-ai-operating-system-for-cpg-brands"
+    }
+  ],
+  "total_raised": "$77M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raises $55M Series B led by Insight Partners; total funding $77M",
+      "url": "https://www.businesswire.com/news/home/20260922033622/en/Confido-Raises-%2455M-Series-B-to-Take-AI-Powered-Automation-Across-the-Entire-Consumer-Brand-Back-Office"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launches Fido AI agent for trade promotion management users",
+      "url": "https://www.confidotech.com/blogs/the-future-of-ai-in-cpg"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Announces $15M Series A led by Footwork plus seed led by Watchfire ($20M combined)",
+      "url": "https://finance.yahoo.com/news/confido-said-first-automated-financial-172842838.html"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Launches AI Contract Reading for trade promotions and disputes",
+      "url": "https://www.confidotech.com/press/confido-launches-ai-contract-reading-to-streamline-trade-promotions-disputes-and-documentation-across-cpg-teams"
+    }
+  ],
+  "competitors": [
+    "glimpse",
+    "Vividly",
+    "Promomash",
+    "SAP / Oracle trade promotion suites"
+  ]
+}

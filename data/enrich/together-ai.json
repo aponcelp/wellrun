@@ -1,0 +1,140 @@
+{
+  "slug": "together-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~436",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/60a93e9184a11e4839b06955/together%20ai"
+  },
+  "leadership": [
+    {
+      "name": "Vipul Ved Prakash",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.together.ai/about-us"
+    },
+    {
+      "name": "Ce Zhang",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.together.ai/about-us"
+    },
+    {
+      "name": "Tri Dao",
+      "title": "Co-founder & Chief Scientist",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.together.ai/about-us"
+    },
+    {
+      "name": "Percy Liang",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.together.ai/about-us"
+    },
+    {
+      "name": "Chris Ré",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.together.ai/about-us"
+    },
+    {
+      "name": "Charles Zedlewski",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.together.ai/about-us"
+    },
+    {
+      "name": "Kai Mak",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://together.ai/blog/together-ai-announcing-305m-series-b"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-05",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Lux Capital",
+      "source": "https://www.together.ai/blog/seed-funding"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-11",
+      "amount": "$102.5M",
+      "valuation": null,
+      "lead": "Kleiner Perkins",
+      "source": "https://web.archive.org/web/20260814184735/https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2024-03",
+      "amount": "$106M",
+      "valuation": null,
+      "lead": "Salesforce Ventures",
+      "source": "https://www.together.ai/blog/seed-funding"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-02",
+      "amount": "$305M",
+      "valuation": "$3.3B",
+      "lead": "General Catalyst",
+      "source": "https://www.reuters.com/legal/transactional/together-ai-raises-800-million-83-billion-valuation-2026-07-01"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-07",
+      "amount": "$800M",
+      "valuation": "$8.3B",
+      "lead": "Aramco Ventures",
+      "source": "https://www.businesswire.com/news/home/20260701243402/en/Together-AI-Raises-$800-Million-at-$8.3-Billion-Valuation-to-Make-Frontier-AI-Accessible-to-All"
+    }
+  ],
+  "total_raised": "~$1.33B (Tracxn)",
+  "revenue_est": {
+    "value": "~$1B annualized revenue (Feb 2026, Sacra est.); annual bookings >$1.15B (Q2 2026, company)",
+    "as_of": "Jul 2026",
+    "basis": "estimate",
+    "source": "https://sacra.com/c/together-ai"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Partners with HUMAIN on 250MW Saudi data center and cloud services",
+      "url": "https://www.businesswire.com/news/home/20260831746233/en/Together-AI-and-HUMAIN-Form-Strategic-Partnership-to-Accelerate-AI-Infrastructure-and-Cloud-Services-in-Saudi-Arabia"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Raises $800M Series C at $8.3B led by Aramco Ventures",
+      "url": "https://www.reuters.com/legal/transactional/together-ai-raises-800-million-83-billion-valuation-2026-07-01"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Acquires Refuel.ai for data labeling and structuring",
+      "url": "https://www.techtarget.com/ai/news/366623990/Together-AI-acquires-startup-to-improve-data-quality"
+    },
+    {
+      "date": "2025-02",
+      "headline": "Raises $305M Series B at $3.3B led by General Catalyst",
+      "url": "http://together.ai/blog/together-ai-announcing-305m-series-b"
+    }
+  ],
+  "competitors": [
+    "fireworks-ai",
+    "baseten",
+    "deepinfra",
+    "CoreWeave",
+    "modal"
+  ]
+}

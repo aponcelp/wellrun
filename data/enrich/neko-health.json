@@ -1,0 +1,30 @@
+{
+  "slug": "neko-health",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "Stockholm, Sweden (US: New York, NY)",
+  "headcount_est": {"value": "~740", "as_of": "2026", "source": "https://platform.tracxn.com/a/d/company/630bf8b67692c1186fb09dfa/neko%20health"},
+  "leadership": [
+    {"name": "Hjalmar Nilsonne", "title": "Co-founder & CEO", "founder": true, "linkedin": "https://linkedin.com/in/nilsonne", "source": "https://www.nekohealth.com/us/en/press/neko-health-opens-its-doors-in-new-york"},
+    {"name": "Daniel Ek", "title": "Co-founder", "founder": true, "linkedin": null, "source": "https://www.nekohealth.com/gb/en/press/neko-health-raises-usd700m-series-c-ahead-of-us-launch"},
+    {"name": "Dr. Sunita Mishra", "title": "Chief Medical Officer", "founder": false, "linkedin": null, "source": "https://finance.yahoo.com/healthcare/articles/neko-health-raises-700m-us-114438758.html"},
+    {"name": "Mikael Olenfalk", "title": "CTO", "founder": false, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/630bf8b67692c1186fb09dfa/neko%20health"},
+    {"name": "Noa Reifer", "title": "Chief People Officer", "founder": false, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/630bf8b67692c1186fb09dfa/neko%20health"}
+  ],
+  "funding_history": [
+    {"round": "Series A", "date": "2023-07", "amount": "€60M (~$65M)", "valuation": null, "lead": "Lakestar", "source": "https://www.nekohealth.com/gb/en/press/press-release-series-a"},
+    {"round": "Series B", "date": "2025-01", "amount": "$260M", "valuation": "$1.8B", "lead": "Lightspeed Venture Partners", "source": "https://techcrunch.com/2025/01/22/neko-the-body-scanning-startup-co-founded-by-spotifys-daniel-ek-snaps-up-260m-at-a-1-8b-valuation/"},
+    {"round": "Debt", "date": "2026-07", "amount": "SEK 1.7B (~$206M, convertible/debt)", "valuation": null, "lead": null, "source": "https://dealroom.co/companies/neko-health"},
+    {"round": "Series C", "date": "2026-07", "amount": "$700M", "valuation": "~$7B (reported; not disclosed by company)", "lead": "Lightspeed Venture Partners (co-lead O.G. Venture Partners)", "source": "https://www.nekohealth.com/gb/en/press/neko-health-raises-usd700m-series-c-ahead-of-us-launch"}
+  ],
+  "total_raised": "~$1.0B equity (plus ~SEK 1.7B debt)",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-09", "headline": "Opens first US clinic in New York; scan priced at $499, HSA/FSA eligible", "url": "https://www.nekohealth.com/us/en/press/neko-health-opens-its-doors-in-new-york"},
+    {"date": "2026-08", "headline": "Says 25,000+ New Yorkers on waitlist ahead of US launch", "url": "https://www.nekohealth.com/us/en/press/neko-health-is-opening-in-new-york-city"},
+    {"date": "2026-07", "headline": "Raises $700M Series C led by Lightspeed and O.G. Venture Partners", "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/swedens-neko-health-raises-700-million-ahead-us-launch-2026-07-15"},
+    {"date": "2026-03", "headline": "Hires ex-Amazon Health CMO Dr. Sunita Mishra as chief medical officer", "url": "https://finance.yahoo.com/healthcare/articles/neko-health-raises-700m-us-114438758.html"},
+    {"date": "2026-01", "headline": "Announces US expansion; scans grew 6x in 2025, 300,000+ signups", "url": "https://www.nekohealth.com/se/en/press/neko-health-to-launch-first-us-location-in-new-york-city"}
+  ],
+  "competitors": ["function-health", "Prenuvo", "Superpower"]
+}

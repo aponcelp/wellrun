@@ -1,0 +1,28 @@
+{
+  "slug": "profound",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": {"value": "~407", "as_of": "2026", "source": "https://platform.tracxn.com/a/d/company/665cb90625918c369008d833/profound"},
+  "leadership": [
+    {"name": "James Cadwallader", "title": "Co-founder & CEO", "founder": true, "linkedin": "https://www.linkedin.com/in/jsca/", "source": "https://www.tryprofound.com/blog/profound-raises-96m-series-c"},
+    {"name": "Dylan Babbs", "title": "Co-founder & CTO", "founder": true, "linkedin": "https://www.linkedin.com/in/babbsdj/", "source": "https://www.tryprofound.com/blog/profound-raises-96m-series-c"}
+  ],
+  "funding_history": [
+    {"round": "Seed", "date": "2024-08", "amount": "$3.5M", "valuation": null, "lead": "Khosla Ventures", "source": "https://www.tryprofound.com/blog/series-b"},
+    {"round": "Series A", "date": "2025-06", "amount": "$20M", "valuation": null, "lead": "Kleiner Perkins", "source": "https://www.prnewswire.com/news-releases/profound-raises-20m-as-brands-race-from-blue-links-to-ai-answers-302486211.html"},
+    {"round": "Series B", "date": "2025-08", "amount": "$35M", "valuation": null, "lead": "Sequoia Capital", "source": "https://www.tryprofound.com/newsroom/profound-raises-35m-series-b-as-ai-search-becomes-the-next-platform-shift"},
+    {"round": "Series C", "date": "2026-02", "amount": "$96M", "valuation": "$1B", "lead": "Lightspeed Venture Partners", "source": "https://www.globenewswire.com/news-release/2026/02/24/3243475/0/en/profound-raises-series-c-at-1b-valuation-to-lead-a-new-category-of-marketing.html"},
+    {"round": "Series D", "date": "2026-09", "amount": "$180M", "valuation": "$1.8B", "lead": "Sequoia Capital & Kleiner Perkins (co-leads)", "source": "https://www.globenewswire.com/news-release/2026/09/15/3362180/0/en/profound-raises-180m-series-d-at-1-8b-valuation-to-build-the-ai-platform-for-marketing-teams.html"}
+  ],
+  "total_raised": "$335M+",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-09", "headline": "Raises $180M Series D at $1.8B; 1,000+ enterprise brands incl. a third of Fortune 100", "url": "https://www.globenewswire.com/news-release/2026/09/15/3362180/0/en/profound-raises-180m-series-d-at-1-8b-valuation-to-build-the-ai-platform-for-marketing-teams.html"},
+    {"date": "2026-09", "headline": "Launches tool that automatically generates ads for AI chatbots", "url": "https://siliconangle.com/2026/09/15/profound-raises-180m-to-boost-brands-visibility-in-ai-services"},
+    {"date": "2026-02", "headline": "Hits $1B valuation with $96M Series C led by Lightspeed; launches Profound Agents", "url": "https://www.tryprofound.com/blog/profound-raises-96m-series-c"},
+    {"date": "2025-08", "headline": "Raises $35M Series B led by Sequoia two months after Series A", "url": "https://fortune.com/2025/08/12/ai-search-startup-profound-raises-35-million-series-b-sequoia"},
+    {"date": "2025-06", "headline": "Raises $20M Series A led by Kleiner Perkins; launches Profound Lite", "url": "https://www.prnewswire.com/news-releases/profound-raises-20m-as-brands-race-from-blue-links-to-ai-answers-302486211.html"}
+  ],
+  "competitors": ["peec-ai", "AthenaHQ", "Scrunch AI", "Semrush"]
+}

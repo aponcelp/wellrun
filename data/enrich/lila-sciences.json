@@ -1,0 +1,29 @@
+{
+  "slug": "lila-sciences",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "Cambridge, MA",
+  "headcount_est": {"value": "201-500 (LinkedIn range)", "as_of": "Oct 2026", "source": "https://linkedin.com/company/lila-sciences"},
+  "leadership": [
+    {"name": "Geoffrey von Maltzahn, PhD", "title": "Co-founder & CEO", "founder": true, "linkedin": "https://linkedin.com/in/geoffrey-von-maltzahn-7a6b755a", "source": "https://www.lila.ai/team/geoffrey-von-maltzahn"},
+    {"name": "Jon Hennek, PhD", "title": "Chief Revenue & Product Officer", "founder": false, "linkedin": null, "source": "https://www.lila.ai/team"},
+    {"name": "John Gregoire, PhD", "title": "Chief Autonomous Science Officer", "founder": false, "linkedin": null, "source": "https://www.lila.ai/team"},
+    {"name": "Rafael Gómez-Bombarelli, PhD", "title": "CSO, Physical Sciences", "founder": false, "linkedin": null, "source": "https://www.lila.ai/team"},
+    {"name": "Julie Shah, PhD", "title": "Chief Robotics Officer", "founder": false, "linkedin": null, "source": "https://www.lila.ai/team"},
+    {"name": "Joshua Roth", "title": "Chief Software & Systems Officer", "founder": false, "linkedin": null, "source": "https://www.lila.ai/team"}
+  ],
+  "funding_history": [
+    {"round": "Seed", "date": "2025-03", "amount": "$200M", "valuation": null, "lead": "Flagship Pioneering", "source": "https://pharmaphorum.com/news/scientific-superintelligence-firm-lila-launches-200m"},
+    {"round": "Series A", "date": "2025-09", "amount": "$235M", "valuation": null, "lead": "Braidwell, Collective Global", "source": "https://www.lila.ai/news/series-a-235-million"},
+    {"round": "Series A extension", "date": "2025-10", "amount": "$115M", "valuation": ">$1.3B", "lead": null, "source": "http://reuters.com/business/ai-lab-lila-sciences-tops-13-billion-valuation-with-new-nvidia-backing-2025-10-14"}
+  ],
+  "total_raised": "$550M",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-10", "headline": "CEO von Maltzahn named a Fast Company 2026 Tech Visionary of the Year", "url": "https://www.lila.ai/news/lilas-ceo-geoffrey-von-maltzahn-2026-tech-visionary-of-the-year"},
+    {"date": "2026-06", "headline": "Reported in talks to raise ~$2B Series B (unconfirmed)", "url": "https://www.revenuememo.com/p/lila-sciences-funding"},
+    {"date": "2025-10", "headline": "Closes $350M Series A with $115M extension incl. Nvidia; valued >$1.3B", "url": "http://reuters.com/business/ai-lab-lila-sciences-tops-13-billion-valuation-with-new-nvidia-backing-2025-10-14"},
+    {"date": "2025-09", "headline": "Raises $235M Series A co-led by Braidwell and Collective Global", "url": "https://www.lila.ai/news/series-a-235-million"}
+  ],
+  "competitors": ["periodic-labs", "Recursion", "Isomorphic Labs", "FutureHouse"]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "clickhouse",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": {"value": "~800", "as_of": "Sep 2026", "source": "https://clickhouse.com/blog/clickhouse-appoints-mike-scarpelli-to-board-of-directors"},
+  "leadership": [
+    {"name": "Aaron Katz", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://www.businesswire.com/news/home/20260116008883/en/ClickHouse-Raises-$400M-Series-D-Led-by-Dragoneer-to-Accelerate-Expansion-Across-Analytics-and-AI-Infrastructure"},
+    {"name": "Alexey Milovidov", "title": "Co-founder & CTO (creator of ClickHouse)", "founder": true, "linkedin": null, "source": "https://www.businesswire.com/news/home/20260116008883/en/ClickHouse-Raises-$400M-Series-D-Led-by-Dragoneer-to-Accelerate-Expansion-Across-Analytics-and-AI-Infrastructure"},
+    {"name": "Yury Izrailevsky", "title": "Co-founder", "founder": true, "linkedin": null, "source": "https://www.businesswire.com/news/home/20260116008883/en/ClickHouse-Raises-$400M-Series-D-Led-by-Dragoneer-to-Accelerate-Expansion-Across-Analytics-and-AI-Infrastructure"}
+  ],
+  "funding_history": [
+    {"round": "Series A", "date": "2021-09", "amount": "$50M", "valuation": null, "lead": "Index Ventures & Benchmark", "source": "http://clickhouse.com/company/our-story"},
+    {"round": "Series B", "date": "2021-10", "amount": "$250M", "valuation": "$2B", "lead": "Coatue & Altimeter", "source": "http://clickhouse.com/company/our-story"},
+    {"round": "Series C", "date": "2025-05", "amount": "$350M", "valuation": null, "lead": null, "source": "https://www.clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era"},
+    {"round": "Series D", "date": "2026-01", "amount": "$400M (later extended)", "valuation": "~$15B", "lead": "Dragoneer Investment Group", "source": "https://www.reuters.com/technology/database-management-firm-clickhouse-valued-15-billion-amid-ai-boom-2026-01-16"}
+  ],
+  "total_raised": "~$1.05B+",
+  "revenue_est": {"value": "$350M+ run-rate", "as_of": "Sep 2026", "basis": "company-stated", "source": "https://www.morningstar.com/news/business-wire/20260922401828/clickhouse-appoints-mike-scarpelli-former-snowflake-and-servicenow-cfo-to-board-of-directors"},
+  "news_timeline": [
+    {"date": "2026-09", "headline": "Expands Microsoft tie-up with native Fabric workload and OneLake support", "url": "https://clickhouse.com/company/news"},
+    {"date": "2026-09", "headline": "Adds ex-Snowflake CFO Mike Scarpelli to board; run-rate revenue passes $350M", "url": "https://venturebeat.com/business/clickhouse-appoints-mike-scarpelli-former-snowflake-and-servicenow-cfo-to-board-of-directors"},
+    {"date": "2026-01", "headline": "Raises $400M Series D at ~$15B led by Dragoneer; acquires Langfuse, launches Postgres", "url": "https://clickhouse.com/blog/clickhouse-raises-400-million-series-d-acquires-langfuse-launches-postgres"},
+    {"date": "2025-05", "headline": "Raises $350M Series C; total funding passes $650M", "url": "https://www.clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era"}
+  ],
+  "competitors": ["Snowflake", "databricks", "Google BigQuery", "motherduck", "Elastic"]
+}

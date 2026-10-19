@@ -1,0 +1,29 @@
+{
+  "slug": "7ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "Boston, MA",
+  "headcount_est": null,
+  "leadership": [
+    {"name": "Lior Div", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://7ai.com/company"},
+    {"name": "Yonatan Striem-Amit", "title": "Co-founder & CTO", "founder": true, "linkedin": "https://linkedin.com/in/yonatanstriemamit", "source": "https://7ai.com/company"},
+    {"name": "Brian McDonough", "title": "Chief Revenue Officer", "founder": false, "linkedin": null, "source": "https://7ai.com/company"},
+    {"name": "Allen Lieberman", "title": "Chief Product Officer", "founder": false, "linkedin": null, "source": "https://7ai.com/company"},
+    {"name": "Nathan Burke", "title": "Chief Marketing Officer", "founder": false, "linkedin": null, "source": "https://7ai.com/company"},
+    {"name": "Israel Barak", "title": "CISO", "founder": false, "linkedin": null, "source": "https://7ai.com/company"}
+  ],
+  "funding_history": [
+    {"round": "Seed", "date": "2024-06", "amount": "$36M", "valuation": "~$144M (Dealroom)", "lead": "Greylock", "source": "https://app.dealroom.co/news/feed/seven-ai-raises-36m-for-cybersecurity"},
+    {"round": "Series A", "date": "2025-12", "amount": "$130M", "valuation": "~$700M (reported)", "lead": "Index Ventures", "source": "https://www.wsj.com/articles/cybersecurity-startup-7ai-raises-130-million-in-series-a-funding-efb18f14"}
+  ],
+  "total_raised": "$166M",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-07", "headline": "Launches Federated SIEM and 7AI Build; 9M+ investigations run", "url": "https://www.globenewswire.com/news-release/2026/07/27/3333567/0/en/7AI-Launches-Federated-SIEM-and-7AI-Build-Establishing-the-Foundation-for-AI-Native-Security-Operations.html"},
+    {"date": "2026-07", "headline": "Launches partner-first 7AI Alliance Partner Program", "url": "https://www.globenewswire.com/news-release/2026/07/23/3332201/0/en/7ai-launches-modern-partner-first-global-alliance-program-to-scale-agentic-security-operations.html"},
+    {"date": "2026-06", "headline": "Launches Threat Hunt, Threat Intel Hunt and Skills", "url": "https://www.globenewswire.com/de/news-release/2026/06/01/3304271/0/en/7ai-launches-threat-hunt-threat-intel-hunt-and-skills-giving-security-teams-the-power-to-make-ai-agents-work-their-way.html"},
+    {"date": "2026-05", "headline": "Launches managed PLAID ELITE SOC service; adds 100 Boston jobs; customers 3x QoQ", "url": "https://www.globenewswire.com/news-release/2026/05/26/3301008/0/en/after-7-million-investigations-in-production-7ai-widens-the-gap-in-agentic-security-with-plaid-elite-and-100-new-ai-jobs-in-boston.html"},
+    {"date": "2025-12", "headline": "Raises $130M Series A led by Index, largest cybersecurity A round on record", "url": "https://www.businesswire.com/news/home/20251204907769/en/Citing-the-Agentic-Security-Inflection-Point-7AI-Raises-Largest-Cybersecurity-A-Round-in-History-to-Bring-AI-Security-Agents-to-Enterprises"}
+  ],
+  "competitors": ["Dropzone AI", "Prophet Security", "Torq", "Exaforce"]
+}

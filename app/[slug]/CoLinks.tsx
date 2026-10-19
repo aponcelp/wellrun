@@ -16,7 +16,9 @@ export default function CoLinks({ name, slug, site, careers }: { name: string; s
           Careers ↗
         </a>
       )}
-      <CopyLink slug={slug} name={name} />
+      <span className="co__share">
+        <CopyLink slug={slug} name={name} />
+      </span>
     </p>
   );
 }

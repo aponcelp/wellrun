@@ -1,0 +1,101 @@
+{
+  "slug": "legora",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "Stockholm, Sweden (US HQ New York)",
+  "headcount_est": {
+    "value": "~400 (from ~40 a year earlier)",
+    "as_of": "Mar 2026",
+    "source": "https://www.law.com/legaltechnews/2026/03/10/legora-announces-550m-series-d-at-555b-valuation-"
+  },
+  "leadership": [
+    {
+      "name": "Max Junestrand",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://legora.com/blog/series-d"
+    },
+    {
+      "name": "August Erséus",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://crunchbase.com/organization/legora"
+    },
+    {
+      "name": "Sigge Labor",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Legora"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2025-05",
+      "amount": "$80M",
+      "valuation": "$675M",
+      "lead": "ICONIQ, General Catalyst",
+      "source": "https://legora.com/blog/series-b"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-10",
+      "amount": "$150M",
+      "valuation": "$1.8B",
+      "lead": "Bessemer Venture Partners",
+      "source": "https://www.law.com/legaltechnews/2025/10/30/legal-ai-provider-legora-announces-150m-series-c-funding-round-"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-03",
+      "amount": "$550M (+$50M extension Apr 2026)",
+      "valuation": "$5.55B",
+      "lead": "Accel",
+      "source": "https://legora.com/blog/series-d"
+    }
+  ],
+  "total_raised": "~$866M (Seedtable); $800M+ after Series D per Law.com",
+  "revenue_est": {
+    "value": "$200M+ ARR, doubling in under six months",
+    "as_of": "Sep 2026",
+    "basis": "press report",
+    "source": "https://dealroom.co/news/155480-legora-doubles-to-200m-arr-in-six-months/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "In talks to raise at least $300M at ~$8.5B pre-money (Bloomberg)",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/legora-in-talks-to-raise-funds-at-a-roughly-8-5-billion-value"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Doubles to $200M+ ARR in under six months",
+      "url": "https://dealroom.co/news/155480-legora-doubles-to-200m-arr-in-six-months/"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Reaches $100M ARR; launches Jude Law ad campaign",
+      "url": "https://en.wikipedia.org/wiki/Legora"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Raises $550M Series D at $5.55B led by Accel; acquires Walter AI",
+      "url": "https://legora.com/newsroom/legora-raises-550-million-series-d-to-fuel-us-growth"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Raises $150M Series C at $1.8B led by Bessemer",
+      "url": "https://www.law.com/legaltechnews/2025/10/30/legal-ai-provider-legora-announces-150m-series-c-funding-round-"
+    }
+  ],
+  "competitors": [
+    "harvey",
+    "eve-legal",
+    "gc-ai",
+    "Thomson Reuters CoCounsel",
+    "Luminance"
+  ]
+}

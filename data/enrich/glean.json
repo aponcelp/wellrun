@@ -1,0 +1,143 @@
+{
+  "slug": "glean",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "Palo Alto, CA",
+  "headcount_est": {
+    "value": "850+",
+    "as_of": "Jun 2025",
+    "source": "http://glean-it.com/43VgKOS"
+  },
+  "leadership": [
+    {
+      "name": "Arvind Jain",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2022/05/18/2446150/0/en/Glean-Raises-100M-Series-C-At-1B-Valuation-To-Deliver-A-Powerful-Unified-Search-Experience-For-Companies-Across-Their-SaaS-Apps.html"
+    },
+    {
+      "name": "T.R. Vishwanath",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2022/05/18/2446150/0/en/Glean-Raises-100M-Series-C-At-1B-Valuation-To-Deliver-A-Powerful-Unified-Search-Experience-For-Companies-Across-Their-SaaS-Apps.html"
+    },
+    {
+      "name": "Piyush Prahladka",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2022/05/18/2446150/0/en/Glean-Raises-100M-Series-C-At-1B-Valuation-To-Deliver-A-Powerful-Unified-Search-Experience-For-Companies-Across-Their-SaaS-Apps.html"
+    },
+    {
+      "name": "Tony Gentilcore",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2022/05/18/2446150/0/en/Glean-Raises-100M-Series-C-At-1B-Valuation-To-Deliver-A-Powerful-Unified-Search-Experience-For-Companies-Across-Their-SaaS-Apps.html"
+    },
+    {
+      "name": "Amar Maletira",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.theofficialboard.com/org-chart/glean"
+    },
+    {
+      "name": "Emrecan Dogan",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260616204573/en/Glean-Expands-Financial-Services-MCP-Ecosystem-to-Bring-Trusted-Market-Intelligence-Into-Enterprise-Context"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2019-03",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Kleiner Perkins",
+      "source": "https://siliconvalleyinvestclub.com/pt/companies/glean"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-05",
+      "amount": "$100M",
+      "valuation": "$1B",
+      "lead": "Sequoia Capital",
+      "source": "https://www.globenewswire.com/news-release/2022/05/18/2446150/0/en/Glean-Raises-100M-Series-C-At-1B-Valuation-To-Deliver-A-Powerful-Unified-Search-Experience-For-Companies-Across-Their-SaaS-Apps.html"
+    },
+    {
+      "round": "Series D",
+      "date": "2024-02",
+      "amount": "$200M+",
+      "valuation": "$2.2B",
+      "lead": "Kleiner Perkins, Lightspeed",
+      "source": "https://www.businesswire.com/news/home/20240227101592/en/Glean-Announces-Over-200M-Series-D-to-Accelerate-Secure-Deployment-of-Generative-AI-in-the-Enterprise"
+    },
+    {
+      "round": "Series E",
+      "date": "2024-09",
+      "amount": "$260M",
+      "valuation": "$4.6B",
+      "lead": "Altimeter, DST Global",
+      "source": "https://tracxn.com/d/companies/glean/__0aO5V-wZsJgrfCZYNJm9ccNqZCpaXHw-O9LJTlZZYgQ/funding-and-investors"
+    },
+    {
+      "round": "Series F",
+      "date": "2025-06",
+      "amount": "$150M",
+      "valuation": "$7.2B",
+      "lead": "Wellington Management",
+      "source": "https://www.glean.com/press/glean-raises-150m-series-f-at-7-2b-valuation-to-accelerate-enterprise-ai-agent-innovation-globally"
+    }
+  ],
+  "total_raised": "~$765M",
+  "revenue_est": {
+    "value": "$300M ARR",
+    "as_of": "May 2026",
+    "basis": "company-stated",
+    "source": "https://www.businesswire.com/news/home/20260528505530/en/Glean-Surpasses-%24300M-ARR-Unrivaled-Enterprise-Context-Fuels-AI-Adoption"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Launched a Global Partner Network to scale its enterprise AI ecosystem",
+      "url": "https://markets.financialcontent.com/stocks/news/publisher/glean"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Expanded financial-services MCP ecosystem with FactSet, S&P Global and others",
+      "url": "https://www.businesswire.com/news/home/20260616204573/en/Glean-Expands-Financial-Services-MCP-Ecosystem-to-Bring-Trusted-Market-Intelligence-Into-Enterprise-Context"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Crossed $300M ARR, tripling in about 15 months",
+      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Launched new AI assistant that moves employees from insight to execution",
+      "url": "https://markets.financialcontent.com/stocks/news/publisher/glean"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Doubled ARR to $200M nine months after passing $100M",
+      "url": "http://finance.yahoo.com/news/glean-surpasses-200m-arr-enterprise-231500406.html"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Raised $150M Series F at $7.2B led by Wellington",
+      "url": "https://www.glean.com/press/glean-raises-150m-series-f-at-7-2b-valuation-to-accelerate-enterprise-ai-agent-innovation-globally"
+    }
+  ],
+  "competitors": [
+    "dust",
+    "Microsoft Copilot",
+    "openai",
+    "Moveworks",
+    "Guru"
+  ]
+}

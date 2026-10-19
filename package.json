@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "og": "node scripts/fetch-og.mjs"
   },
   "dependencies": {
     "@sentry/nextjs": "^11.8.0",

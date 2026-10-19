@@ -1,0 +1,31 @@
+{
+  "slug": "sardine",
+  "checked": "Oct 19, 2026",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {"name": "Soups Ranjan", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://www.sardine.ai/authors/soups-ranjan"},
+    {"name": "Aditya Goel", "title": "Co-founder & COO", "founder": true, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/5eea868005d9502b07b9e9fd/sardine%20technologies"},
+    {"name": "Zahid Shaikh", "title": "Co-founder", "founder": true, "linkedin": null, "source": "https://techcrunch.com/2022/09/20/sardine-fintech-crypto-fraud-startup-a16z-series-b-funding/"},
+    {"name": "Benjamin Cook", "title": "CFO", "founder": false, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/5eea868005d9502b07b9e9fd/sardine%20technologies"},
+    {"name": "Kazuki Nishiura", "title": "CTO", "founder": false, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/5eea868005d9502b07b9e9fd/sardine%20technologies"}
+  ],
+  "funding_history": [
+    {"round": "Seed", "date": "2021-03", "amount": "$4.5M", "valuation": null, "lead": null, "source": "https://techcrunch.com/2022/02/10/sardines-algorithm-helps-crypto-and-fintech-companies-detect-fraud/"},
+    {"round": "Series A", "date": "2022-02", "amount": "$19.5M", "valuation": null, "lead": "Andreessen Horowitz", "source": "https://www.businesswire.com/news/home/20220208006267/en/Sardine-Closes-%2419.5-Million-in-Series-A-Funding-from-Andreessen-Horowitz-and-NYCA-as-It-Sets-a-New-Standard-in-Fraud-Prevention"},
+    {"round": "Series B", "date": "2022-09", "amount": "$51.5M", "valuation": null, "lead": "Andreessen Horowitz (Growth)", "source": "https://techcrunch.com/2022/09/20/sardine-fintech-crypto-fraud-startup-a16z-series-b-funding/"},
+    {"round": "Series C", "date": "2025-02", "amount": "$70M", "valuation": null, "lead": "Activant Capital", "source": "https://www.sardine.ai/blog/series-c-announcement"},
+    {"round": "Series C extension", "date": "2026-05", "amount": "$25M", "valuation": null, "lead": "National Bank of Canada (NAventures)", "source": "https://www.businesswire.com/news/home/20260520863174/en/National-Bank-of-Canada-Partners-with-Sardine-to-Strengthen-Digital-Banking-Security-and-Fraud-Operations-Efficiency"}
+  ],
+  "total_raised": "$170M",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-09", "headline": "Launches Sardine AI Labs with card-fraud foundation model and $375K fellowships", "url": "https://www.sardine.ai/press/pr/sardine-ai-labs"},
+    {"date": "2026-09", "headline": "Named a Leader in Forrester Wave: Financial Crime Management, Q3 2026", "url": "https://www.sardine.ai/press/pr/sardine-ai-labs"},
+    {"date": "2026-05", "headline": "National Bank of Canada deploys Sardine and leads $25M Series C extension", "url": "http://fintech.global/2026/05/21/sardine-lands-25m-as-national-bank-of-canada-deepens-bet"},
+    {"date": "2026-03", "headline": "Introduces Fraud Prevention as a Service offering", "url": "https://www.sardine.ai/authors/soups-ranjan"},
+    {"date": "2025-02", "headline": "Raises $70M Series C led by Activant; total $145M", "url": "https://www.sardine.ai/blog/series-c-announcement"}
+  ],
+  "competitors": ["alloy", "Sift", "Socure", "Unit21", "Feedzai"]
+}

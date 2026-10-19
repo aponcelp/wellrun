@@ -1,0 +1,172 @@
+{
+  "slug": "ramp",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~6,000 (Tracxn est.)",
+    "as_of": "Oct 2026",
+    "source": "https://platform.tracxn.com/a/d/company/5316bf8ae4b03fb7f1eacd39/ramp"
+  },
+  "leadership": [
+    {
+      "name": "Eric Glyman",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/eglyman",
+      "source": "https://ramp.com/authors/eric-glyman"
+    },
+    {
+      "name": "Karim Atiyeh",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/karimatiyeh",
+      "source": "https://next.ramp.com/blog/welcoming-my-co-founder-karim-as-co-ceo-of-ramp"
+    },
+    {
+      "name": "Gene Lee",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Ramp_(company)"
+    },
+    {
+      "name": "Rahul Sengottuvelu",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://next.ramp.com/blog/welcoming-my-co-founder-karim-as-co-ceo-of-ramp"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2020-02",
+      "amount": "~$15M",
+      "valuation": null,
+      "lead": "Founders Fund",
+      "source": "https://en.wikipedia.org/wiki/Ramp_(company)"
+    },
+    {
+      "round": "Series A follow-on",
+      "date": "2020-12",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Ramp_(company)"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-04",
+      "amount": "$115M",
+      "valuation": "$1.6B",
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Ramp_(company)"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-08",
+      "amount": "$300M",
+      "valuation": "$3.9B",
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Ramp_(company)"
+    },
+    {
+      "round": "Series D",
+      "date": "2023-08",
+      "amount": "$300M",
+      "valuation": "$5.8B",
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Ramp_(company)"
+    },
+    {
+      "round": "Series D-2",
+      "date": "2024-06",
+      "amount": "$150M",
+      "valuation": "$7.65B",
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Ramp_(company)"
+    },
+    {
+      "round": "Series E",
+      "date": "2025-06",
+      "amount": null,
+      "valuation": "$16B",
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Ramp_(company)"
+    },
+    {
+      "round": "Series E-2",
+      "date": "2025-07",
+      "amount": null,
+      "valuation": "$22.5B",
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Ramp_(company)"
+    },
+    {
+      "round": "Primary + tender",
+      "date": "2025-11",
+      "amount": "$300M primary",
+      "valuation": "$32B",
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://en.wikipedia.org/wiki/Ramp_(company)"
+    },
+    {
+      "round": "Series F",
+      "date": "2026-06",
+      "amount": "$750M",
+      "valuation": "$44B",
+      "lead": "ICONIQ Growth, GIC, Ontario Teachers' Pension Plan",
+      "source": "https://en.wikipedia.org/wiki/Ramp_(company)"
+    },
+    {
+      "round": "Series G",
+      "date": "2026-10",
+      "amount": "$1.85B",
+      "valuation": "$60B",
+      "lead": "Dragoneer (co-leads Thrive, Founders Fund, Sands, Avenir)",
+      "source": "https://www.prnewswire.com/news-releases/ramp-reaches-60-billion-valuation-as-annualized-revenue-tops-2-billion-302909315.html"
+    }
+  ],
+  "total_raised": "~$5B equity (company-stated)",
+  "revenue_est": {
+    "value": "$2B+ annualized revenue, cash-flow positive",
+    "as_of": "Oct 2026",
+    "basis": "company-stated",
+    "source": "https://www.prnewswire.com/news-releases/ramp-reaches-60-billion-valuation-as-annualized-revenue-tops-2-billion-302909315.html"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $1.85B led by Dragoneer at $60B; annualized revenue tops $2B",
+      "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Karim Atiyeh named co-CEO; Rahul Sengottuvelu becomes CTO",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ramp-elevates-cto-co-ceo-110510173.html"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Raises $750M at $44B led by ICONIQ, GIC and Ontario Teachers'",
+      "url": "https://www.gic.com.sg/uploads/2026/06/Ramp-Raises-Series-F-at-44-Billion-Valuation-3.pdf"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Valued at $32B after $300M round led by Lightspeed plus tender",
+      "url": "https://en.wikipedia.org/wiki/Ramp_(company)"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Reaches $1B annualized revenue",
+      "url": "https://en.wikipedia.org/wiki/Ramp_(company)"
+    }
+  ],
+  "competitors": [
+    "brex",
+    "Navan",
+    "Amex",
+    "BILL (Divvy)",
+    "Airbase (Paylocity)"
+  ]
+}

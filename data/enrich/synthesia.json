@@ -1,0 +1,28 @@
+{
+  "slug": "synthesia",
+  "checked": "Oct 19, 2026",
+  "founded": 2017,
+  "hq": "London, UK (US HQ: New York, NY)",
+  "headcount_est": {"value": "501-1,000", "as_of": "2026", "source": "https://www.crunchbase.com/organization/synthesia"},
+  "leadership": [
+    {"name": "Victor Riparbelli", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://www.synthesia.io/post/synthesia-secures-180m-in-series-d-funding"},
+    {"name": "Steffen Tjerrild", "title": "Co-founder & COO", "founder": true, "linkedin": null, "source": "https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in"},
+    {"name": "Lourdes Agapito", "title": "Co-founder", "founder": true, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/5a1bfac1e4b0f5ba5210c55b/synthesia"},
+    {"name": "Matthias Niessner", "title": "Co-founder", "founder": true, "linkedin": null, "source": "https://www.crunchbase.com/organization/synthesia"}
+  ],
+  "funding_history": [
+    {"round": "Series D", "date": "2025-01", "amount": "$180M", "valuation": "$2.1B", "lead": "NEA", "source": "https://www.synthesia.io/post/synthesia-secures-180m-in-series-d-funding"},
+    {"round": "Strategic (Adobe)", "date": "2025-04", "amount": null, "valuation": null, "lead": "Adobe", "source": "https://platform.tracxn.com/a/d/company/5a1bfac1e4b0f5ba5210c55b/synthesia"},
+    {"round": "Series E", "date": "2026-01", "amount": "$200M (+ employee secondary)", "valuation": "$4B", "lead": "GV (Google Ventures)", "source": "http://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work"}
+  ],
+  "total_raised": "~$530M+ ($330M+ through Series D, company-stated, plus $200M Series E)",
+  "revenue_est": {"value": "$100M+ ARR (crossed Apr 2025); reportedly targeting $200M in 2026", "as_of": "Apr 2025", "basis": "press report", "source": "https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in"},
+  "news_timeline": [
+    {"date": "2026-09", "headline": "Opens 50,000 sq ft US HQ in Manhattan's Flatiron; ~half of revenue now from US", "url": "https://www.unite.ai/synthesia-opens-50-000-square-foot-us-headquarters-in-new-york"},
+    {"date": "2026-05", "headline": "Signs NYC lease at 675 Sixth Ave; plans to add 400+ employees in 2026", "url": "https://www.bizjournals.com/newyork/news/2026/05/12/synthesia-ai-office-lease-manhattan-nyc-675-6th-av.html"},
+    {"date": "2026-04", "headline": "Opens offices in Austin, Berlin, Paris and Zurich", "url": "https://www.synthesia.io/post/synthesia-global-expansion-austin-berlin-paris-zurich-2026"},
+    {"date": "2026-01", "headline": "Raises $200M Series E at $4B led by GV, with NASDAQ-run employee secondary", "url": "http://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work"},
+    {"date": "2025-04", "headline": "Crosses $100M ARR", "url": "https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in"}
+  ],
+  "competitors": ["heygen", "Colossyan", "invideo", "D-ID", "elevenlabs"]
+}

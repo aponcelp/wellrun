@@ -1,0 +1,101 @@
+{
+  "slug": "tines",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "Dublin, Ireland & Boston, MA",
+  "headcount_est": {
+    "value": "~500 (company target for 2026)",
+    "as_of": "Jul 2026",
+    "source": "https://www.independent.ie/business/1bn-tech-firm-tines-not-for-sale-as-it-launches-new-ai-platform/a/159288208.html"
+  },
+  "leadership": [
+    {
+      "name": "Eoin Hinchy",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/eoinhinchy",
+      "source": "https://www.irishtimes.com/business/2026/10/12/tech-company-tines-to-create-100-jobs-in-ireland-over-two-years-and-open-new-facility/"
+    },
+    {
+      "name": "Thomas Kinsella",
+      "title": "Co-founder & CCO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.independent.ie/business/1bn-tech-firm-tines-not-for-sale-as-it-launches-new-ai-platform/a/159288208.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2021-04",
+      "amount": "$26M",
+      "valuation": null,
+      "lead": "Addition",
+      "source": "https://www.globenewswire.com/news-release/2022/10/04/2528074/0/en/Tines-Raises-55-Million-Through-Series-B-Extension-Led-by-Felicis.html"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2022-10",
+      "amount": "$55M",
+      "valuation": null,
+      "lead": "Felicis",
+      "source": "https://www.globenewswire.com/news-release/2022/10/04/2528074/0/en/Tines-Raises-55-Million-Through-Series-B-Extension-Led-by-Felicis.html"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2024-05",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.prnewswire.com/news-releases/tines-secures-125m-in-series-c-financing-bringing-total-valuation-to-1-125b-302372726.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-02",
+      "amount": "$125M",
+      "valuation": "$1.125B",
+      "lead": "Goldman Sachs Alternatives (Growth Equity)",
+      "source": "https://www.prnewswire.com/news-releases/tines-secures-125m-in-series-c-financing-bringing-total-valuation-to-1-125b-302372726.html"
+    }
+  ],
+  "total_raised": "$272M",
+  "revenue_est": {
+    "value": "$39.6M revenue (FY to Jan 2025), doubled YoY",
+    "as_of": "Jan 2025",
+    "basis": "company-stated",
+    "source": "https://www.irishtimes.com/business/2026/05/28/tines-doubled-revenue-ahead-of-125m-funding-round/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Plans 100 new Irish jobs and a new Dublin HQ",
+      "url": "https://www.irishtimes.com/business/2026/10/12/tech-company-tines-to-create-100-jobs-in-ireland-over-two-years-and-open-new-facility/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Launched Tines 3B, AI-native platform to build and govern workflows, apps, agents",
+      "url": "https://www.prnewswire.com/apac/news-releases/tines-launches-3b-to-help-enterprises-govern-ai-workflows-apps-and-agents-302836545.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "CEO says Tines is not for sale; headcount set to reach ~500 this year",
+      "url": "https://www.independent.ie/business/1bn-tech-firm-tines-not-for-sale-as-it-launches-new-ai-platform/a/159288208.html"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Accounts show revenue doubled to $39.6M ahead of Series C",
+      "url": "https://www.irishtimes.com/business/2026/05/28/tines-doubled-revenue-ahead-of-125m-funding-round/"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Announced 100 US jobs and new Boston office",
+      "url": "https://www.siliconrepublic.com/start-ups/irish-ai-unicorn-tines-plans-100-new-dublin-jobs"
+    }
+  ],
+  "competitors": [
+    "Torq",
+    "Palo Alto Networks Cortex XSOAR",
+    "Splunk SOAR",
+    "n8n"
+  ]
+}

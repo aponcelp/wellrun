@@ -1,0 +1,101 @@
+{
+  "slug": "candid-health",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~226",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/58be05c2e4b0013e26069303/candid%20health"
+  },
+  "leadership": [
+    {
+      "name": "Nick Perry",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260721951537/en/Candid-Health-Raises-$120M-Led-by-Sixth-Street-Growth-to-Fuel-Autonomous-Revenue-Cycle-Management-in-Healthcare"
+    },
+    {
+      "name": "Doug Proctor",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://candidhealth.com/blog/candid-health-raises-usd52-5-million-series-c"
+    },
+    {
+      "name": "Adam Reis",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://candidhealth.com/blog/candid-health-raises-usd52-5-million-series-c"
+    },
+    {
+      "name": "Bethany Hale",
+      "title": "Chief Marketing Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/5c13bda88f08de34edf6f309/candid%20health"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-03",
+      "amount": null,
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://platform.tracxn.com/a/d/company/5c13bda88f08de34edf6f309/candid%20health"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-09",
+      "amount": "$29M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://platform.tracxn.com/a/d/company/5c13bda88f08de34edf6f309/candid%20health"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-02",
+      "amount": "$52.5M",
+      "valuation": null,
+      "lead": "Oak HC/FT",
+      "source": "https://candidhealth.com/blog/candid-health-raises-usd52-5-million-series-c"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-07",
+      "amount": "$120M",
+      "valuation": "~3x Series C valuation (undisclosed)",
+      "lead": "Sixth Street Growth",
+      "source": "https://fortune.com/2026/07/22/candid-health-raises-120-million-to-take-on-americas-280-billion-medical-billing-mess/"
+    }
+  ],
+  "total_raised": "~$219.5M",
+  "revenue_est": {
+    "value": "ARR growing 190% YoY (absolute ARR not disclosed)",
+    "as_of": "Jul 2026",
+    "basis": "company-stated",
+    "source": "https://finance.yahoo.com/healthcare/articles/candid-health-raises-120m-led-115500377.html"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-07",
+      "headline": "Raises $120M Series D led by Sixth Street Growth, tripling valuation",
+      "url": "https://fortune.com/2026/07/22/candid-health-raises-120-million-to-take-on-americas-280-billion-medical-billing-mess/"
+    },
+    {
+      "date": "2025-02",
+      "headline": "Raises $52.5M Series C led by Oak HC/FT",
+      "url": "https://candidhealth.com/blog/candid-health-raises-usd52-5-million-series-c"
+    }
+  ],
+  "competitors": [
+    "Waystar",
+    "R1 RCM",
+    "AKASA",
+    "Collectly",
+    "Athenahealth"
+  ]
+}

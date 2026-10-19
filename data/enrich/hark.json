@@ -1,0 +1,75 @@
+{
+  "slug": "hark",
+  "checked": "Oct 19, 2026",
+  "founded": 2025,
+  "hq": "San Jose, CA",
+  "headcount_est": {
+    "value": "~70",
+    "as_of": "May 2026",
+    "source": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/"
+  },
+  "leadership": [
+    {
+      "name": "Brett Adcock",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260521171628/en/Hark-Raises-%24700M-Series-A-at-a-%246B-Valuation"
+    },
+    {
+      "name": "Abidur Chowdhury",
+      "title": "Director / Head of Design",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Founder capital",
+      "date": "2025",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": "Brett Adcock (personal funds)",
+      "source": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-05",
+      "amount": "$700M+",
+      "valuation": "$6B post",
+      "lead": "Parkway Venture Capital",
+      "source": "https://www.businesswire.com/news/home/20260521171628/en/Hark-Raises-%24700M-Series-A-at-a-%246B-Valuation"
+    }
+  ],
+  "total_raised": "$700M+ (plus $100M founder capital)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launched Hark Pro on web, iOS and Android with free, $20 and $100/mo plans",
+      "url": "https://hark.com/articles/introducing-hark-pro"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Announced Handoff, its web-browsing computer-use AI agent",
+      "url": "https://www.businesswire.com/news/home/20260805041028/en/Hark-Announces-Handoff-the-Worlds-Best-Web-Browsing-AI-Agent"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raised $700M+ Series A at $6B post-money led by Parkway Venture Capital",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Emerged from stealth as an AI lab with ~45 staff, backed by $100M of Adcock's money",
+      "url": "http://businesswire.com/news/home/20260324789327/en/Hark-Launches-AI-Lab-Building-Futuristic-Interface-to-Artificial-Intelligence"
+    }
+  ],
+  "competitors": [
+    "openai",
+    "perplexity",
+    "sesame",
+    "Google (Gemini)"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "scribe",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~120 (planned to double within 12 months)",
+    "as_of": "Nov 2025",
+    "source": "https://web.archive.org/web/20251112114300/https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off"
+  },
+  "leadership": [
+    {
+      "name": "Jennifer Smith",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/jenniferreneesmith",
+      "source": "https://www.globenewswire.com/news-release/2025/11/12/3186646/0/en/scribe-raises-75-million-series-c-to-power-enterprise-workflows-with-ai.html"
+    },
+    {
+      "name": "Aaron Podolny",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/aaronpodolny",
+      "source": "https://linkedin.com/in/aaronpodolny"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "Amplify Partners",
+      "source": "https://www.businesswire.com/news/home/20211018005677/en/Scribe-Raises-$30-Million-to-Build-the-First-Operating-System-for-Know-How"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-10",
+      "amount": "$22M",
+      "valuation": null,
+      "lead": "Tiger Global",
+      "source": "https://siliconvalleyinvestclub.com/ru/companies/scribe/tear-sheet.pdf"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-02",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Redpoint Ventures",
+      "source": "https://siliconvalleyinvestclub.com/ru/companies/scribe/tear-sheet.pdf"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-11",
+      "amount": "$75M",
+      "valuation": "$1.3B",
+      "lead": "StepStone",
+      "source": "https://www.globenewswire.com/news-release/2025/11/12/3186646/0/en/scribe-raises-75-million-series-c-to-power-enterprise-workflows-with-ai.html"
+    }
+  ],
+  "total_raised": "~$130M",
+  "revenue_est": {
+    "value": "$100M ARR",
+    "as_of": "Apr 2026",
+    "basis": "company-stated",
+    "source": "https://scribe.com/library/100-million-arr-press-release"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launched Autocapture: workflows documented automatically, no start/stop",
+      "url": "https://scribe.launchnotes.io/announcements/capture-workflows-automatically-with-autocapture-no-pressing-start-or-stop"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Announced $100M ARR, 6M users and 94% of the Fortune 500",
+      "url": "https://www.cnbc.com/video/2026/05/11/jennifer-smith-scribe-ceo-a-fortt-knox-update.html"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Crossed $100M ARR after launching Optimize, Agents and an MCP server",
+      "url": "https://scribe.com/library/100-million-arr"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Raised $75M Series C at $1.3B led by StepStone; launched Scribe Optimize",
+      "url": "https://www.globenewswire.com/news-release/2025/11/12/3186646/0/en/scribe-raises-75-million-series-c-to-power-enterprise-workflows-with-ai.html"
+    }
+  ],
+  "competitors": [
+    "tango",
+    "guidde",
+    "WalkMe",
+    "Whatfix"
+  ]
+}

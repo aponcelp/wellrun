@@ -1,0 +1,132 @@
+{
+  "slug": "cognition",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~200 (Wikipedia, 2026); board est. ~400",
+    "as_of": "2026",
+    "source": "https://en.wikipedia.org/wiki/Cognition_AI"
+  },
+  "leadership": [
+    {
+      "name": "Scott Wu",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Cognition_AI"
+    },
+    {
+      "name": "Steven Hao",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Cognition_Labs"
+    },
+    {
+      "name": "Walden Yan",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Cognition_Labs"
+    },
+    {
+      "name": "Russell Kaplan",
+      "title": "President",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/russelljkaplan",
+      "source": "https://linkedin.com/in/russelljkaplan"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Early round",
+      "date": "2024-01",
+      "amount": "$21M",
+      "valuation": "$350M",
+      "lead": "Founders Fund",
+      "source": "https://en.wikipedia.org/wiki/Cognition_AI"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-04",
+      "amount": "$175M",
+      "valuation": "$2B",
+      "lead": "Founders Fund",
+      "source": "https://en.wikipedia.org/wiki/Cognition_AI"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-03",
+      "amount": null,
+      "valuation": "$4B",
+      "lead": "8VC",
+      "source": "https://en.wikipedia.org/wiki/Cognition_AI"
+    },
+    {
+      "round": "Growth round",
+      "date": "2025-09",
+      "amount": null,
+      "valuation": "~$10B",
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Cognition_AI"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-05",
+      "amount": "$1B",
+      "valuation": "$26B",
+      "lead": null,
+      "source": "https://money.usnews.com/investing/news/articles/2026-09-08/cognition-ai-raises-2-billion-at-48-billion-valuation"
+    },
+    {
+      "round": "Series E",
+      "date": "2026-09",
+      "amount": "$2B+",
+      "valuation": "$48B",
+      "lead": "Andreessen Horowitz, Accel",
+      "source": "https://cognition.com/blog/series-e"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": {
+    "value": "~$1B run-rate revenue",
+    "as_of": "Sep 2026",
+    "basis": "company-stated",
+    "source": "https://cognition.com/blog/1b-run-rate"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Run-rate revenue reaches ~$1B weeks after Series E",
+      "url": "https://cognition.com/blog/1b-run-rate"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Raises $2B+ Series E at $48B led by a16z and Accel",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Rebrands Windsurf IDE as Devin Desktop",
+      "url": "https://en.wikipedia.org/wiki/Cognition_AI"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raises $1B at $26B valuation",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/ai-coding-startup-cognition-raises-1-billion-at-26-billion-value"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Signs deal to acquire Windsurf after Google's acquihire of its CEO",
+      "url": "https://en.wikipedia.org/wiki/Cognition_AI"
+    }
+  ],
+  "competitors": [
+    "Cursor (Anysphere)",
+    "anthropic",
+    "openai",
+    "factory",
+    "replit"
+  ]
+}

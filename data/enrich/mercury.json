@@ -1,0 +1,116 @@
+{
+  "slug": "mercury",
+  "checked": "Oct 19, 2026",
+  "founded": 2017,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Immad Akhund",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://mercury.com/blog/series-d-announcement"
+    },
+    {
+      "name": "Jason Zhang",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20250326427283/en/Mercury-Announces-%24300-Million-Series-C-Round-at-%243.5-Billion-Valuation"
+    },
+    {
+      "name": "Max Tagher",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2025/03/26/fintech-mercury-lands-300m-in-sequoia-led-series-c-doubles-valuation-to-3-5b"
+    },
+    {
+      "name": "Daniel Kang",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/531ca614e4b0f7e16657c34a/mercury"
+    },
+    {
+      "name": "Jon Auxier",
+      "title": "CEO & President, Mercury Bank (proposed national bank)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260427949683/en/Mercury-Receives-OCC-Conditional-Approval-to-Establish-Mercury-Bank-N.A."
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2021-07",
+      "amount": "$120M",
+      "valuation": "$1.62B",
+      "lead": null,
+      "source": "https://techcrunch.com/2025/03/26/fintech-mercury-lands-300m-in-sequoia-led-series-c-doubles-valuation-to-3-5b/embed"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-03",
+      "amount": "$300M (primary + secondary)",
+      "valuation": "$3.5B",
+      "lead": "Sequoia Capital",
+      "source": "https://mercury.com/blog/series-c-announcement"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-05",
+      "amount": "$200M",
+      "valuation": "$5.2B",
+      "lead": "TCV",
+      "source": "https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-%24200-Million-Series-D-at-%245.2B-Valuation"
+    }
+  ],
+  "total_raised": "~$650M–$700M (est.: $500M through Series C per TechCrunch + $200M Series D; Seedtable lists $646M)",
+  "revenue_est": {
+    "value": "~$650M annualized revenue; profitable 4 years",
+    "as_of": "May 2026",
+    "basis": "company-stated",
+    "source": "https://www.cnbc.com/2026/05/20/fintech-mercury-valuation-fundraise-bank-charter.html"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launches Books, free accounting built into Mercury banking",
+      "url": "https://aiforaccountants.substack.com/p/mercury-just-put-a-free-ai-powered"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Launches Mercury Command for AI-driven financial work",
+      "url": "https://www.businesswire.com/news/home/20260616596362/en/Mercury-Launches-Command-a-New-Way-to-Run-Your-Business-Through-Banking"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raises $200M Series D at $5.2B led by TCV; $650M annualized revenue",
+      "url": "https://www.cnbc.com/2026/05/20/fintech-mercury-valuation-fundraise-bank-charter.html"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Gets OCC conditional approval for Mercury Bank, N.A.",
+      "url": "https://www.businesswire.com/news/home/20260427949683/en/Mercury-Receives-OCC-Conditional-Approval-to-Establish-Mercury-Bank-N.A."
+    },
+    {
+      "date": "2025-12",
+      "headline": "Applies for OCC national bank charter and FDIC insurance",
+      "url": "https://www.businesswire.com/news/home/20251219760269/en/Mercury-Applies-for-OCC-National-Bank-Charter-to-Become-the-Bank-for-Builders"
+    },
+    {
+      "date": "2025-03",
+      "headline": "Raises $300M Series C led by Sequoia at $3.5B",
+      "url": "http://techcrunch.com/2025/03/26/fintech-mercury-lands-300m-in-sequoia-led-series-c-doubles-valuation-to-3-5b"
+    }
+  ],
+  "competitors": [
+    "brex",
+    "ramp",
+    "novo",
+    "Silicon Valley Bank (First Citizens)",
+    "Relay"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "starcloud",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "Redmond, WA",
+  "headcount_est": {"value": "~61", "as_of": "Oct 2026", "source": "https://platform.tracxn.com/a/d/company/584ee864e4b0744078b5e5ca/star%20cloud"},
+  "leadership": [
+    {"name": "Philip Johnston", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://www.businesswire.com/news/home/20260821884035/en/Starcloud-Raises-%24250-Million-at-%242.3-Billion-Valuation-to-Scale-AI-with-Orbital-Data-Centers"},
+    {"name": "Ezra Feilden", "title": "Co-founder & CTO", "founder": true, "linkedin": null, "source": "https://www.businesswire.com/news/home/20260821884035/en/Starcloud-Raises-%24250-Million-at-%242.3-Billion-Valuation-to-Scale-AI-with-Orbital-Data-Centers"},
+    {"name": "Adi Oltean", "title": "Co-founder & Chief Engineer", "founder": true, "linkedin": null, "source": "https://www.businesswire.com/news/home/20260821884035/en/Starcloud-Raises-%24250-Million-at-%242.3-Billion-Valuation-to-Scale-AI-with-Orbital-Data-Centers"}
+  ],
+  "funding_history": [
+    {"round": "Pre-seed (incl. YC)", "date": "2024", "amount": "$3M", "valuation": null, "lead": null, "source": "https://www.hpcwire.com/off-the-wire/starcloud-raises-170m-series-a-at-1-1b-valuation-led-by-benchmark-and-eqt-ventures"},
+    {"round": "Seed / earlier rounds (cumulative)", "date": "2024-2025", "amount": "~$34M total pre-Series A", "valuation": null, "lead": null, "source": "https://finance.yahoo.com/sectors/technology/articles/starcloud-reaches-1-1-billion-110256995.html"},
+    {"round": "Series A", "date": "2026-03", "amount": "$170M", "valuation": "$1.1B", "lead": "Benchmark, EQT Ventures", "source": "https://www.businesswire.com/news/home/20260330024111/en/CORRECTING-and-REPLACING-Starcloud-Raises-%24170M-Series-A-at-%241.1bn-Valuation-Led-by-Benchmark-and-EQT-Ventures"},
+    {"round": "Series A extension", "date": "2026-08", "amount": "$250M", "valuation": "$2.3B post-money", "lead": "Manhattan West", "source": "https://www.businesswire.com/news/home/20260821884035/en/Starcloud-Raises-%24250-Million-at-%242.3-Billion-Valuation-to-Scale-AI-with-Orbital-Data-Centers"}
+  ],
+  "total_raised": "$450M",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-08", "headline": "Raises $250M Series A extension at $2.3B; Nvidia and Cisco join", "url": "https://www.businesswire.com/news/home/20260821884035/en/Starcloud-Raises-%24250-Million-at-%242.3-Billion-Valuation-to-Scale-AI-with-Orbital-Data-Centers"},
+    {"date": "2026-05", "headline": "Lays out path to 88,000-satellite orbital compute constellation", "url": "https://spacenews.com/starclouds-path-to-88000-computing-satellites"},
+    {"date": "2026-03", "headline": "Raises $170M Series A at $1.1B led by Benchmark and EQT; YC's fastest unicorn", "url": "https://www.businesswire.com/news/home/20260330024111/en/CORRECTING-and-REPLACING-Starcloud-Raises-%24170M-Series-A-at-%241.1bn-Valuation-Led-by-Benchmark-and-EQT-Ventures"},
+    {"date": "2025-11", "headline": "Launches Starcloud-1, first satellite with an Nvidia H100 GPU", "url": "https://www.starcloud.com/starcloud-1"}
+  ],
+  "competitors": ["Aetherflux", "Axiom Space (orbital data centers)", "Google Project Suncatcher", "SpaceX"]
+}

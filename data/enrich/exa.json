@@ -1,0 +1,109 @@
+{
+  "slug": "exa",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~120",
+    "as_of": "May 2026",
+    "source": "https://siliconvalleyinvestclub.com/companies/exa"
+  },
+  "leadership": [
+    {
+      "name": "Will Bryk",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://exa.ai/blog/announcing-series-c"
+    },
+    {
+      "name": "Jeff Wang",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2024/07/16/exa-raises-17m-lightspeed-nvidia-ycombinator-google-ai-models"
+    },
+    {
+      "name": "Marcus Holm",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://exa.ai/blog/announcing-series-c"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": "$5M",
+      "valuation": null,
+      "lead": null,
+      "source": "http://techcrunch.com/2024/07/16/exa-raises-17m-lightspeed-nvidia-ycombinator-google-ai-models"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-07",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "http://techcrunch.com/2024/07/16/exa-raises-17m-lightspeed-nvidia-ycombinator-google-ai-models"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-09",
+      "amount": "$85M",
+      "valuation": "$700M",
+      "lead": "Benchmark",
+      "source": "http://exa.ai/blog/announcing-series-b"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-05",
+      "amount": "$250M",
+      "valuation": "$2.2B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://exa.ai/blog/announcing-series-c"
+    }
+  ],
+  "total_raised": "~$357M",
+  "revenue_est": {
+    "value": "~$10M ARR",
+    "as_of": "Sep 2025",
+    "basis": "estimate",
+    "source": "https://siliconvalleyinvestclub.com/pl/companies/exa"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches Places index (211M places) alongside Search and Websets",
+      "url": "https://exa.ai/blog/places-search"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Introduces Exa Agent",
+      "url": "http://exa.ai/blog/announcing-series-b"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raises $250M Series C at $2.2B led by a16z; LaunchDarkly president joins as CRO",
+      "url": "https://exa.ai/blog/announcing-series-c"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Announces partnership with Google",
+      "url": "http://exa.ai/blog/announcing-series-b"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Raises $85M Series B at $700M led by Benchmark",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-03/benchmark-bets-big-on-exa-which-wants-to-be-google-for-the-ai-era"
+    }
+  ],
+  "competitors": [
+    "parallel-web-systems",
+    "firecrawl",
+    "Tavily",
+    "perplexity",
+    "SerpAPI"
+  ]
+}

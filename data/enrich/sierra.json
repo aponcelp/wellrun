@@ -1,0 +1,97 @@
+{
+  "slug": "sierra",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~1,041",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/5e217ace928ab01aff6f1886/sierra"
+  },
+  "leadership": [
+    {
+      "name": "Bret Taylor",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/amp/2026/05/04/bret-taylor-sierra-fundraise-openai.html"
+    },
+    {
+      "name": "Clay Bavor",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2024/10/28/bret-taylors-customer-service-ai-startup-just-raised-175m"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A",
+      "date": "2024-02",
+      "amount": "$110M",
+      "valuation": "~$1B",
+      "lead": "Sequoia Capital, Benchmark",
+      "source": "https://fortune.com/2024/02/13/bret-taylor-clay-bavor-ai-startup-sierra-110-million-funding-sequoia-benchmark"
+    },
+    {
+      "round": "Series C",
+      "date": "2024-10",
+      "amount": "$175M",
+      "valuation": "$4.5B",
+      "lead": "Greenoaks Capital",
+      "source": "http://techcrunch.com/2024/10/28/bret-taylors-customer-service-ai-startup-just-raised-175m"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-09",
+      "amount": "$350M",
+      "valuation": "$10B",
+      "lead": "Greenoaks Capital",
+      "source": "https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation"
+    },
+    {
+      "round": "Series E",
+      "date": "2026-05",
+      "amount": "$950M",
+      "valuation": "$15.8B",
+      "lead": "Tiger Global, GV",
+      "source": "https://www.cnbc.com/amp/2026/05/04/bret-taylor-sierra-fundraise-openai.html"
+    }
+  ],
+  "total_raised": "~$1.585B (CB Insights)",
+  "revenue_est": {
+    "value": "$100M ARR in 7 quarters",
+    "as_of": "Nov 2025",
+    "basis": "company-stated",
+    "source": "https://sierra.ai/blog/100m-arr"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches Personal Agent Protocol with Meta, Stripe, Walmart and 40+ partners",
+      "url": "https://sierra.ai/blog/introducing-personal-agent-protocol"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raises $950M Series E at $15.8B led by Tiger Global and GV",
+      "url": "https://www.cnbc.com/amp/2026/05/04/bret-taylor-sierra-fundraise-openai.html"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Reaches $100M ARR in seven quarters",
+      "url": "https://sierra.ai/blog/100m-arr"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Raises $350M at $10B led by Greenoaks",
+      "url": "https://www.cnbc.com/amp/2025/09/04/bret-taylor-sierra-ai-startup-salesforce-openai.html"
+    }
+  ],
+  "competitors": [
+    "decagon",
+    "parloa",
+    "Salesforce Agentforce",
+    "polyai",
+    "cresta"
+  ]
+}

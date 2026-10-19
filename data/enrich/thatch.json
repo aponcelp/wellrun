@@ -1,0 +1,108 @@
+{
+  "slug": "thatch",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~200-230",
+    "as_of": "Oct 2026",
+    "source": "https://platform.tracxn.com/a/d/company/63ec37c3b3fd7f08b495f117/thatch"
+  },
+  "leadership": [
+    {
+      "name": "Chris Ellis",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/chris-ellis-thatch",
+      "source": "https://thatch.com/blog/thatch-series-c-announcement"
+    },
+    {
+      "name": "Adam Stevenson",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://thatch.com/blog/thatch-series-a-announcement"
+    },
+    {
+      "name": "Gary Daniels",
+      "title": "Chief Growth Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://thatch.ai/blog/thatch-series-b-announcement"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed + Seed",
+      "date": "2023",
+      "amount": "$6M+",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.mobihealthnews.com/news/thatch-raises-108m-1b-valuation"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-09",
+      "amount": "$38M",
+      "valuation": null,
+      "lead": "General Catalyst, Index Ventures",
+      "source": "https://thatch.com/blog/thatch-series-a-announcement"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-04",
+      "amount": "$40M",
+      "valuation": "$410M (PitchBook)",
+      "lead": "Index Ventures",
+      "source": "https://thatch.ai/blog/thatch-series-b-announcement"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-09",
+      "amount": "$108M",
+      "valuation": "$1B",
+      "lead": "The General Partnership",
+      "source": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/"
+    }
+  ],
+  "total_raised": "~$192M",
+  "revenue_est": {
+    "value": "Revenue ~7x YoY (absolute undisclosed); Tracxn estimates ~$80M",
+    "as_of": "Sep 2026",
+    "basis": "company-stated growth; $ figure is estimate",
+    "source": "https://thatch.com/blog/thatch-series-c-announcement"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raises $108M Series C at $1B; Eli Lilly and Paychex join as strategics",
+      "url": "https://thatch.com/blog/thatch-series-c-announcement"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Justworks launches ICHRA offering for small businesses powered by Thatch",
+      "url": "http://justworks.com/press/press-release/justworks-partners-with-thatch-on-health-insurance-reimbursement-offering-ICHRA"
+    },
+    {
+      "date": "2026-04",
+      "headline": "CareFirst BCBS picks Thatch as admin hub for its DMV ICHRA program",
+      "url": "http://beckerspayer.com/payer/ichra/carefirst-bcbs-launches-new-ichra-initiative"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Takes over rival Venteur's ICHRA customers and brokers",
+      "url": "https://thatch.com/press/venteur"
+    },
+    {
+      "date": "2025-04",
+      "headline": "Raises $40M Series B led by Index; ADP invests and partners; hires CGO",
+      "url": "https://thatch.ai/blog/thatch-series-b-announcement"
+    }
+  ],
+  "competitors": [
+    "Take Command",
+    "Remodel Health",
+    "Nexben",
+    "Zorro"
+  ]
+}

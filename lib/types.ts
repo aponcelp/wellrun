@@ -64,3 +64,32 @@ export type Row = {
   /** Default Pace rank, 1-based. */
   rank: number;
 };
+
+/** Public, sourced enrichment for a company (data/enrich/<slug>.json, schema in data/enrich/SCHEMA.md). */
+export type Sourced = { value: string; as_of: string; source: string };
+export type Enrichment = {
+  slug: string;
+  checked?: string;
+  founded?: number | null;
+  hq?: string | null;
+  headcount_est?: Sourced | null;
+  leadership?: { name: string; title: string; founder?: boolean; linkedin?: string | null; source?: string | null }[];
+  funding_history?: { round: string; date: string; amount?: string | null; valuation?: string | null; lead?: string | null; source?: string | null }[];
+  total_raised?: string | null;
+  revenue_est?: (Sourced & { basis?: string }) | null;
+  news_timeline?: { date: string; headline: string; url?: string | null }[];
+  competitors?: string[];
+};
+
+/** A verified preview image from the company's own landing page (data/og.json, written by scripts/fetch-og.mjs). */
+export type OgImage = { url: string; kind: "og" | "twitter" | "icon"; type?: string; checked?: string };
+
+/** One marker on the rivals track. */
+export type Runner = { slug: string; name: string; host: string; zone: ZoneKey; score: number; me?: boolean };
+
+/** Everything the expanded card and the company page need for one company. */
+export type Card = Company & {
+  enrich?: Enrichment | null;
+  og?: OgImage | null;
+  rivals?: { track: Runner[]; off: string[]; hi: number };
+};

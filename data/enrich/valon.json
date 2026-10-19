@@ -1,0 +1,28 @@
+{
+  "slug": "valon",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {"name": "Andrew Wang", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://www.businesswire.com/news/home/20261005181820/en/Valon-Raises-%24150-Million-Series-D-at-a-%242.3-Billion-Valuation-to-Deploy-ValonOS-and-AI-Agents-into-Mortgage"},
+    {"name": "Linda Du", "title": "Co-founder & President", "founder": true, "linkedin": null, "source": "https://www.carringtonhc.com/news/detail?id=805"},
+    {"name": "Jon Hsu", "title": "Co-founder", "founder": true, "linkedin": null, "source": "https://www.forbes.com/sites/zoyahasan/2026/10/05/fintech-unicorn-valon-hit-a-2-billion-valuation-to-bring-ai-to-americas-13-trillion-mortgage-market"},
+    {"name": "Sean Snyder", "title": "CTO", "founder": false, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/58c08bade4b0e437d839388e/valon%20mortgage"}
+  ],
+  "funding_history": [
+    {"round": "Series A", "date": "2021-02", "amount": "$50M", "valuation": null, "lead": "Andreessen Horowitz", "source": "https://www.businesswire.com/news/home/20210202005142/en/Valon-Raises-$50-Million-Series-A-Funding-Led-by-Andreessen-Horowitz-and-Uses-Technology-to-Challenge-the-Traditional-Residential-Mortgage-Servicing-Industrys-Status-Quo"},
+    {"round": "Series B", "date": "2021-11", "amount": null, "valuation": null, "lead": null, "source": "https://platform.tracxn.com/a/d/company/58c08bade4b0e437d839388e/valon%20mortgage"},
+    {"round": "Series C", "date": "2024-10", "amount": "$100M", "valuation": "$1.1B", "lead": null, "source": "https://www.housingwire.com/articles/mortgage-servicing-startup-valon-100m-series-c-funding"},
+    {"round": "Series D", "date": "2026-10", "amount": "$150M", "valuation": "$2.3B", "lead": "Ribbit Capital", "source": "https://ffnews.com/news/valon-raises-150-million-series-d-at-a-2-3-billion-valuation-to-deploy-valonos-a-f55ae8f9"}
+  ],
+  "total_raised": "~$440M ($290M+ before Series D, company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-10", "headline": "Raises $150M Series D at $2.3B led by Ribbit; aims at 1 in 6 US mortgages", "url": "https://www.businesswire.com/news/home/20261005181820/en/Valon-Raises-%24150-Million-Series-D-at-a-%242.3-Billion-Valuation-to-Deploy-ValonOS-and-AI-Agents-into-Mortgage"},
+    {"date": "2026-08", "headline": "Carrington completes acquisition of Valon Mortgage (~810K loans); Valon goes software-only", "url": "https://www.carringtonhc.com/news/detail?id=805"},
+    {"date": "2026-05", "headline": "Strikes Carrington deal: ValonOS adoption plus sale of servicing arm", "url": "http://housingwire.com/articles/carrington-buys-valon-mortgage"},
+    {"date": "2024-10", "headline": "Raises $100M Series C at $1.1B valuation", "url": "https://www.housingwire.com/articles/mortgage-servicing-startup-valon-100m-series-c-funding"}
+  ],
+  "competitors": ["ICE Mortgage Technology (Black Knight MSP)", "Sagent", "Sapiens/FICS", "Mr. Cooper (Xome)"]
+}

@@ -1,12 +1,11 @@
 "use client";
-import Link from "next/link";
 import type React from "react";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import type { Company, Row } from "@/lib/types";
+import type { Card, Row } from "@/lib/types";
 import { BUCKET_ORDER, DISTS, SORTS, SORT_KEYS, SORT_NOTE, STAGES, toSortKey, ZONES, fmtScore, hostOf, type SortKey } from "@/lib/rank";
 import { cap } from "@/lib/track";
 import { reportError } from "@/lib/monitoring";
-import Detail from "./Detail";
+import Detail, { ProfileButton } from "./Detail";
 import { DistMark, ZoneMark } from "./Marks";
 import Logo from "./Logo";
 import CopyLink from "./CopyLink";
@@ -19,7 +18,7 @@ const GROUP_ID: Record<FilterKey, string> = { chart: "charts", industry: "indust
 const ZONE_LABEL: Record<string, string> = Object.fromEntries(ZONES.map((z) => [z.key, z.name]));
 const SORT_LABEL: Record<SortKey, string> = { fastest: "Pace", distance: "Distance" };
 
-type Detail = Company | "loading" | "error";
+type Detail = Card | "loading" | "error";
 
 export default function Board({ rows }: { rows: Row[] }) {
   const [s, setS] = useState<State>(INITIAL);
@@ -101,7 +100,7 @@ export default function Board({ rows }: { rows: Row[] }) {
     setDetails((d) => (d[slug] && d[slug] !== "error" ? d : { ...d, [slug]: "loading" }));
     fetch(`/d/${encodeURIComponent(slug)}`)
       .then((r) => (r.ok ? r.json() : Promise.reject(r.status)))
-      .then((c: Company) => setDetails((d) => ({ ...d, [slug]: c })))
+      .then((c: Card) => setDetails((d) => ({ ...d, [slug]: c })))
       .catch((err) => {
         reportError(err, { where: "board.details", slug });
         loading.current.delete(slug);
@@ -424,14 +423,8 @@ export default function Board({ rows }: { rows: Row[] }) {
                       </div>
                     )}
                     <div className="sheet__links">
+                      <ProfileButton c={r} where="bottom" />
                       <span className="sheet__share">
-                        <Link
-                          href={`/${r.slug}`}
-                          prefetch={false}
-                          onClick={(e) => cap("company_link_clicked", { company: r.name, role: "", url: e.currentTarget.href })}
-                        >
-                          {r.name}&apos;s Well Run page <small>(shareable link)</small> →
-                        </Link>
                         <CopyLink slug={r.slug} name={r.name} />
                       </span>
                       {r.site && (

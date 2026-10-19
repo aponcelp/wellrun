@@ -1,0 +1,166 @@
+{
+  "slug": "whatnot",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "Marina del Rey / Los Angeles, CA",
+  "headcount_est": {
+    "value": "~1,564",
+    "as_of": "Mar 2026",
+    "source": "https://siliconvalleyinvestclub.com/companies/whatnot"
+  },
+  "leadership": [
+    {
+      "name": "Grant LaFontaine",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/whatnot"
+    },
+    {
+      "name": "Logan Head",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/whatnot"
+    },
+    {
+      "name": "Ryan Troy",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/whatnot"
+    },
+    {
+      "name": "Daniel Fisher",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/whatnot"
+    },
+    {
+      "name": "Tess Singha",
+      "title": "Chief People Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/whatnot"
+    },
+    {
+      "name": "John Orta",
+      "title": "General Counsel / Chief Legal Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/whatnot"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-12",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": "Wonder Ventures",
+      "source": "https://siliconvalleyinvestclub.com/companies/whatnot"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-03",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://siliconvalleyinvestclub.com/companies/whatnot"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-05",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "YC Continuity",
+      "source": "https://siliconvalleyinvestclub.com/companies/whatnot"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-09",
+      "amount": "$150M",
+      "valuation": "$1.5B",
+      "lead": "CapitalG",
+      "source": "https://siliconvalleyinvestclub.com/companies/whatnot"
+    },
+    {
+      "round": "Series D",
+      "date": "2022-07",
+      "amount": "$260M",
+      "valuation": "$3.7B",
+      "lead": "DST Global",
+      "source": "https://siliconvalleyinvestclub.com/companies/whatnot"
+    },
+    {
+      "round": "Series E",
+      "date": "2025-01",
+      "amount": "$265M",
+      "valuation": "~$5B",
+      "lead": "Avra, Greycroft",
+      "source": "https://techcrunch.com/2025/01/08/livestream-shopping-app-whatnot-raises-265m-pinning-valuation-at-nearly-5b/"
+    },
+    {
+      "round": "Series F",
+      "date": "2025-10",
+      "amount": "$225M",
+      "valuation": "$11.5B",
+      "lead": "CapitalG, DST Global",
+      "source": "https://siliconvalleyinvestclub.com/companies/whatnot"
+    },
+    {
+      "round": "Series G",
+      "date": "2026-08",
+      "amount": "$545M",
+      "valuation": "$20B",
+      "lead": "ICONIQ, Lightspeed, Avra",
+      "source": "https://www.cnbc.com/2026/08/07/whatnot-live-shopping-valuation-20-billion.html"
+    }
+  ],
+  "total_raised": "~$1.5B",
+  "revenue_est": {
+    "value": "~$1B revenue (2025)",
+    "as_of": "2025",
+    "basis": "estimate",
+    "source": "https://siliconvalleyinvestclub.com/companies/whatnot"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Permanently cut seller commissions, some to as low as 3%",
+      "url": "https://www.inc.com/amaya-nichole/whatnot-permanently-lowering-seller-commissions-some-rates-fall-as-low-as-3-percent/91406246"
+    },
+    {
+      "date": "2026-09",
+      "headline": "ThredUp expands into live shopping on Whatnot",
+      "url": "https://finance.yahoo.com/media-advertising/articles/thredup-expands-live-shopping-whatnot-100000250.html"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Raised $545M Series G at $20B valuation",
+      "url": "https://www.cnbc.com/2026/08/07/whatnot-live-shopping-valuation-20-billion.html"
+    },
+    {
+      "date": "2026-06",
+      "headline": "H1 2026 GMV topped $8B, matching all of 2025; fashion is top category",
+      "url": "https://dtcdispatch.com/2026/06/17/fashion-tops-all-categories-on-whatnot-as-platform-hits-8b-in-annual-gmv/"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Hit with RICO / illegal-lottery suit over sports card breaks",
+      "url": "https://www.benzinga.com/markets/private-markets/26/03/51338094/whatnot-faces-rico-illegal-lottery-allegations-tied-to-sports-card-breaks"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Raised $225M Series F at $11.5B valuation",
+      "url": "https://www.pymnts.com/commerce/shopping/2025/whatnot-raises-225-million-for-enthusiast-community-focused-live-shopping-platform/"
+    }
+  ],
+  "competitors": [
+    "eBay",
+    "TikTok Shop",
+    "Fanatics Live",
+    "Poshmark"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "elevenlabs",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "London, UK / New York, NY",
+  "headcount_est": {"value": "~1,300", "as_of": "2026", "source": "https://platform.tracxn.com/a/d/company/6257fe795947a40ba0449fe5/elevenlabs"},
+  "leadership": [
+    {"name": "Mati Staniszewski", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://live.euronext.com/en/financial-news/elevenlabs-valuation-doubles-22-billion-surging-ai-voice-agent-demand"},
+    {"name": "Piotr Dabkowski", "title": "Co-founder & CTO", "founder": true, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/6257fe795947a40ba0449fe5/elevenlabs"},
+    {"name": "Ethan Tandowsky", "title": "Chief Financial Officer", "founder": false, "linkedin": null, "source": "https://elevenlabs.io/blog/cfo"},
+    {"name": "Alex Holt", "title": "Field CTO", "founder": false, "linkedin": null, "source": "https://elevenlabs.io/blog/alex-holt-field-cto"}
+  ],
+  "funding_history": [
+    {"round": "Series A", "date": "2023-06", "amount": "$19M", "valuation": null, "lead": "Nat Friedman, Daniel Gross & Andreessen Horowitz", "source": "https://elevenlabs.io/blog/elevenlabs-launches-new-generative-voice-ai-products-and-announces-19m-series-a-round-led-by-nat-friedman-daniel-gross-and-andreessen-horowitz"},
+    {"round": "Series B", "date": "2024-01", "amount": "$80M", "valuation": "~$1.1B", "lead": "Andreessen Horowitz, Nat Friedman & Daniel Gross", "source": "http://elevenlabs.io/blog/series-b"},
+    {"round": "Series C", "date": "2025-01", "amount": "$180M", "valuation": "$3.3B", "lead": "Andreessen Horowitz & ICONIQ Growth", "source": "https://elevenlabs.io/blog/series-c"},
+    {"round": "Series D", "date": "2026-02", "amount": "$500M (later closes added)", "valuation": "$11B", "lead": "Sequoia Capital", "source": "https://www.elevenlabs.io/blog/series-d"},
+    {"round": "Employee tender (secondary)", "date": "2026-09", "amount": "$300M", "valuation": "$22B", "lead": "Wellington & T. Rowe Price", "source": "https://elevenlabs.io/blog/tender-22bn?output=1"}
+  ],
+  "total_raised": "$781M+ primary (company-stated at Series D, plus later Series D closes)",
+  "revenue_est": {"value": "$500M+ ARR", "as_of": "May 2026", "basis": "company-stated", "source": "https://m.economictimes.com/tech/funding/voice-ai-firm-elevenlabs-tops-500-million-arr-announces-additional-funding/amp_articleshow/130833329.cms"},
+  "news_timeline": [
+    {"date": "2026-10", "headline": "CEO says ElevenLabs aims to be IPO-ready by 2028", "url": "https://www.tradingview.com/news/cnbctv:4d72d7903094b:0/"},
+    {"date": "2026-09", "headline": "$300M employee tender values company at $22B, double its Series D", "url": "https://elevenlabs.io/blog/tender-22bn?output=1"},
+    {"date": "2026-09", "headline": "Hires ex-Adyen CFO Ethan Tandowsky as chief financial officer", "url": "https://elevenlabs.io/blog/cfo"},
+    {"date": "2026-05", "headline": "ARR tops $500M in first four months of 2026; third Series D close", "url": "https://m.economictimes.com/tech/funding/voice-ai-firm-elevenlabs-tops-500-million-arr-announces-additional-funding/amp_articleshow/130833329.cms"},
+    {"date": "2026-02", "headline": "Raises $500M Series D at $11B led by Sequoia", "url": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/"}
+  ],
+  "competitors": ["cartesia", "deepgram", "sierra", "OpenAI voice", "Hume AI"]
+}

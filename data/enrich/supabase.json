@@ -1,0 +1,143 @@
+{
+  "slug": "supabase",
+  "checked": "Oct 19, 2026",
+  "founded": 2020,
+  "hq": "San Francisco, CA (remote-first)",
+  "headcount_est": {
+    "value": "~440",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/58dd44cfe4b04ae5aafbc23e/supabase"
+  },
+  "leadership": [
+    {
+      "name": "Paul Copplestone",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/58dd44cfe4b04ae5aafbc23e/supabase"
+    },
+    {
+      "name": "Ant Wilson",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/58dd44cfe4b04ae5aafbc23e/supabase"
+    },
+    {
+      "name": "Rory Wilding",
+      "title": "COO & CCO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/58dd44cfe4b04ae5aafbc23e/supabase"
+    },
+    {
+      "name": "Scott Buxton",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/58dd44cfe4b04ae5aafbc23e/supabase"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-12",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "Coatue",
+      "source": "https://web.archive.org/web/20240930192605/https://www.crunchbase.com/organization/supabase/company_financials"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-09",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Coatue",
+      "source": "https://web.archive.org/web/20240930192605/https://www.crunchbase.com/organization/supabase/company_financials"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-05",
+      "amount": "$80M",
+      "valuation": null,
+      "lead": "Felicis",
+      "source": "https://web.archive.org/web/20240930192605/https://www.crunchbase.com/organization/supabase/company_financials"
+    },
+    {
+      "round": "Series C",
+      "date": "2024-09",
+      "amount": "$80M",
+      "valuation": "~$765M (PitchBook est.)",
+      "lead": "Craft Ventures, Peak XV",
+      "source": "http://techcrunch.com/2025/10/03/supabase-nabs-5b-valuation-four-months-after-hitting-2b"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-04",
+      "amount": "$200M",
+      "valuation": "$2B",
+      "lead": "Accel",
+      "source": "https://fortune.com/2025/04/22/exclusive-supabase-raises-200-million-series-d-at-2-billion-valuation"
+    },
+    {
+      "round": "Series E",
+      "date": "2025-10",
+      "amount": "$100M",
+      "valuation": "$5B",
+      "lead": "Accel, Peak XV",
+      "source": "http://techcrunch.com/2025/10/03/supabase-nabs-5b-valuation-four-months-after-hitting-2b"
+    },
+    {
+      "round": "Series F",
+      "date": "2026-06",
+      "amount": "$500M",
+      "valuation": "$10.5B",
+      "lead": "GIC",
+      "source": "https://www.prnewswire.com/news-releases/supabase-raises-500m-at-10-5b-to-accelerate-lead-in-agentic-infrastructure-302791787.html"
+    },
+    {
+      "round": "Series F extension",
+      "date": "2026-10",
+      "amount": "$150M",
+      "valuation": null,
+      "lead": "GIC",
+      "source": "https://www.prnewswire.com/news-releases/supabase-announces-150m-in-new-funding-and-turso-acquisition-302896752.html"
+    }
+  ],
+  "total_raised": "~$1.15B (over $1B through Series F per company, plus $150M Oct 2026)",
+  "revenue_est": {
+    "value": "~$170M ARR",
+    "as_of": "May 2026",
+    "basis": "estimate",
+    "source": "https://sacra.com/research/supabase-170m-year-growing-221-yoy/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $150M led by GIC and agrees to acquire Turso",
+      "url": "https://siliconangle.com/2026/10/02/database-startup-supabase-raises-150m-acquires-turso"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Raises $500M Series F at $10.5B led by GIC",
+      "url": "https://www.prnewswire.com/news-releases/supabase-raises-500m-at-10-5b-to-accelerate-lead-in-agentic-infrastructure-302791787.html"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Raises $100M Series E at $5B led by Accel and Peak XV",
+      "url": "http://techcrunch.com/2025/10/03/supabase-nabs-5b-valuation-four-months-after-hitting-2b"
+    },
+    {
+      "date": "2025-04",
+      "headline": "Raises $200M Series D at $2B led by Accel",
+      "url": "https://fortune.com/2025/04/22/exclusive-supabase-raises-200-million-series-d-at-2-billion-valuation"
+    }
+  ],
+  "competitors": [
+    "planetscale",
+    "Neon (Databricks)",
+    "Firebase (Google)",
+    "AWS Amplify",
+    "Convex"
+  ]
+}

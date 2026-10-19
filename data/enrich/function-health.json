@@ -1,0 +1,29 @@
+{
+  "slug": "function-health",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "Austin, TX",
+  "headcount_est": null,
+  "leadership": [
+    {"name": "Jonathan Swerdlin", "title": "Co-founder & CEO", "founder": true, "linkedin": "https://linkedin.com/in/jonathanswerdlin", "source": "https://www.fiercehealthcare.com/health-tech/function-health-lands-450m-growth-financing-scale-tech-enabled-preventive-health"},
+    {"name": "Dr. Mark Hyman", "title": "Co-founder & Chief Medical Officer", "founder": true, "linkedin": null, "source": "https://hlth.com/insights/news/function-health-raises-298m-series-b-at-2-5b-valuation-2025-11-25"},
+    {"name": "Seth Weisfeld", "title": "Co-founder & Chief Design Officer", "founder": true, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/58bde976e4b041de9c89b9f0/function%20health"},
+    {"name": "Dan Swerdlin", "title": "Co-founder & General Counsel", "founder": true, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/58bde976e4b041de9c89b9f0/function%20health"},
+    {"name": "Taj Alavi", "title": "Chief Marketing Officer", "founder": false, "linkedin": "https://linkedin.com/in/tajalavi", "source": "https://www.prnewswire.com/news-releases/function-accelerates-growth-with-strategic-hire-taj-alavi-former-marketing-leader-at-spotify-uber-and-instagram-to-serve-as-chief-marketing-officer-302898589.html"}
+  ],
+  "funding_history": [
+    {"round": "Early rounds (Seed/Series A, combined)", "date": "2024-06", "amount": "$53M total raised as of Jun 2024", "valuation": null, "lead": null, "source": "https://www.nbcphiladelphia.com/news/business/money-report/function-health-buys-ezra-launches-full-body-scan-for-a-third-of-the-price/4176948/"},
+    {"round": "Series B", "date": "2025-11", "amount": "$298M", "valuation": "$2.5B", "lead": "Redpoint Ventures", "source": "https://www.fiercehealthcare.com/health-tech/function-health-lands-298m-series-b-rolls-out-medical-intelligence-ai-model-health-data"},
+    {"round": "Debt", "date": "2026-07", "amount": "$450M growth financing (General Catalyst Customer Value Fund)", "valuation": null, "lead": "General Catalyst", "source": "https://www.prnewswire.com/news-releases/function-secures-450-million-growth-financing-from-general-catalysts-customer-value-fund-cvf-302838766.html"}
+  ],
+  "total_raised": "~$351M equity, plus $450M growth financing",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-10", "headline": "Hires ex-Spotify/Uber/Instagram marketer Taj Alavi as first CMO", "url": "https://www.prnewswire.com/news-releases/function-accelerates-growth-with-strategic-hire-taj-alavi-former-marketing-leader-at-spotify-uber-and-instagram-to-serve-as-chief-marketing-officer-302898589.html"},
+    {"date": "2026-07", "headline": "Secures $450M growth financing from General Catalyst's Customer Value Fund", "url": "https://www.fiercehealthcare.com/health-tech/function-health-lands-450m-growth-financing-scale-tech-enabled-preventive-health"},
+    {"date": "2026-04", "headline": "Acquires Getlabs at-home blood draw network; later adds SuppCo", "url": "https://www.fiercehealthcare.com/health-tech/function-health-lands-450m-growth-financing-scale-tech-enabled-preventive-health"},
+    {"date": "2025-11", "headline": "Raises $298M Series B at $2.5B led by Redpoint; launches Medical Intelligence Lab", "url": "https://www.functionhealth.com/article/function-announcement"},
+    {"date": "2025-05", "headline": "Acquires full-body MRI company Ezra; launches $499 scan", "url": "https://www.nbcphiladelphia.com/news/business/money-report/function-health-buys-ezra-launches-full-body-scan-for-a-third-of-the-price/4176948/"}
+  ],
+  "competitors": ["neko-health", "Superpower", "InsideTracker", "Prenuvo"]
+}

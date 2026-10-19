@@ -1,0 +1,26 @@
+{
+  "slug": "factory",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {"name": "Matan Grinberg", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://www.sequoiacap.com/founder/matan-grinberg"},
+    {"name": "Eno Reyes", "title": "Co-founder & CTO", "founder": true, "linkedin": null, "source": "https://sequoiacap.com/founder/eno-reyes"}
+  ],
+  "funding_history": [
+    {"round": "Seed", "date": "2023", "amount": "~$5M (implied: >$20M total after $15M Series A)", "valuation": null, "lead": "Sequoia Capital", "source": "https://factory.ai/news/series-a-announcement"},
+    {"round": "Series A", "date": "2024-06", "amount": "$15M", "valuation": "$120M", "lead": "Sequoia Capital", "source": "https://factory.ai/news/series-a-announcement"},
+    {"round": "Series B", "date": "2025-09", "amount": "$50M", "valuation": "$300M", "lead": "NEA, Sequoia Capital, J.P. Morgan, Nvidia", "source": "https://factory.ai/news/series-b"},
+    {"round": "Series C", "date": "2026-04", "amount": "$150M", "valuation": "$1.5B", "lead": "Khosla Ventures", "source": "https://factory.ai/news/series-c"},
+    {"round": "Series D (unnamed round)", "date": "2026-09", "amount": "$200M", "valuation": "$5B", "lead": "Blackstone, Khosla Ventures, Sequoia Capital (no single lead named)", "source": "https://factory.ai/news/5-billion-valuation"}
+  ],
+  "total_raised": "$400M+",
+  "revenue_est": {"value": "Revenue doubled month over month for six months (absolute undisclosed)", "as_of": "Apr 2026", "basis": "company-stated", "source": "https://factory.ai/news/series-c"},
+  "news_timeline": [
+    {"date": "2026-09", "headline": "Raises $200M at $5B valuation, tripling April price", "url": "https://factory.ai/news/5-billion-valuation"},
+    {"date": "2026-04", "headline": "Raises $150M Series C led by Khosla at $1.5B", "url": "https://factory.ai/news/series-c"},
+    {"date": "2025-09", "headline": "Launches Droids (#1 on Terminal Bench) and raises $50M Series B", "url": "https://www.businesswire.com/news/home/20250925993478/en/Factory-Unleashes-the-Droids-Raises-%2450-Million-Series-B-from-NEA-Sequoia-Capital-NVIDIA-and-J.P.-Morgan"}
+  ],
+  "competitors": ["cognition", "augment", "Cursor (Anysphere)", "GitHub Copilot", "warp"]
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "ema",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "Mountain View, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Surojit Chatterjee",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/surojitchatterjee",
+      "source": "https://www.ema.ai/about-us"
+    },
+    {
+      "name": "Souvik Sen",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://finance.yahoo.com/technology/ai/articles/ema-raises-77m-ai-starts-120000270.html"
+    },
+    {
+      "name": "Malvin Hoxhallari",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.ema.ai/about-us"
+    },
+    {
+      "name": "Jonathan Feldman",
+      "title": "Head of Revenue, Partnerships and Solutions",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/08/20/3348396/0/en/ema-ai-appoints-jonathan-feldman-as-head-of-revenue-partnerships-and-solutions-to-accelerate-enterprise-growth.html"
+    },
+    {
+      "name": "Craig Dewar",
+      "title": "Head of Marketing",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.ema.ai/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed / early Series A",
+      "date": "2024-03",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Accel, Section 32, Prosus Ventures",
+      "source": "https://techcrunch.com/2024/03/05/ema-a-universal-ai-employee-emerges-from-stealth-with-25m/"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2024-07",
+      "amount": "$36M",
+      "valuation": null,
+      "lead": "Accel, Section 32",
+      "source": "https://www.citybiz.co/article/584176/ema-adds-36m-to-series-a"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-09",
+      "amount": "$77M",
+      "valuation": "undisclosed (>4x prior round)",
+      "lead": "Creaegis",
+      "source": "https://www.globenewswire.com/news-release/2026/09/23/3367506/0/en/ema-raises-77m-series-b-to-put-ai-employees-to-work-across-the-enterprise.html"
+    }
+  ],
+  "total_raised": "$140M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raises $77M Series B led by Creaegis; total funding $140M",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367506/0/en/ema-raises-77m-series-b-to-put-ai-employees-to-work-across-the-enterprise.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launches Voice AI Employee for HR and IT phone lines",
+      "url": "https://www.ema.ai/blog/voice-ai-employee/introducing-ema-voice-ai-employee-for-hr-and-it"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launches HR, IT and Finance Hub of pre-trained AI Employees",
+      "url": "https://www.globenewswire.com/news-release/2026/09/01/3354202/0/en/ema-launches-hr-it-and-finance-hub-to-help-enterprises-put-ai-employees-to-work-in-minutes.html"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Hires ex-Workato exec Jonathan Feldman as Head of Revenue",
+      "url": "https://www.globenewswire.com/news-release/2026/08/20/3348396/0/en/ema-ai-appoints-jonathan-feldman-as-head-of-revenue-partnerships-and-solutions-to-accelerate-enterprise-growth.html"
+    }
+  ],
+  "competitors": [
+    "Moveworks (ServiceNow)",
+    "leena-ai",
+    "Kore.ai",
+    "Aisera",
+    "Workato"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "slug": "abridge",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "Pittsburgh, PA",
+  "headcount_est": {
+    "value": "~676",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/56e79e3ee4b0b1e718fcd2e0/abridge%20inc"
+  },
+  "leadership": [
+    {
+      "name": "Shiv Rao",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.abridge.com/press-release/series-c-150"
+    },
+    {
+      "name": "Zachary Lipton",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/56e79e3ee4b0b1e718fcd2e0/abridge%20inc"
+    },
+    {
+      "name": "Sandeep Konam",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/56e79e3ee4b0b1e718fcd2e0/abridge%20inc"
+    },
+    {
+      "name": "Julia Chou",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://finance.yahoo.com/quote/ABRI.PVT"
+    },
+    {
+      "name": "Sagar Sanghvi",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/56e79e3ee4b0b1e718fcd2e0/abridge%20inc"
+    },
+    {
+      "name": "Brian Wilson",
+      "title": "Chief Commercial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/56e79e3ee4b0b1e718fcd2e0/abridge%20inc"
+    },
+    {
+      "name": "Tina Shah",
+      "title": "Chief Clinical Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://finance.yahoo.com/quote/ABRI.PVT"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-02",
+      "amount": "$5.3M",
+      "valuation": "$26.6M post",
+      "lead": null,
+      "source": "https://finance.yahoo.com/quote/ABRI.PVT"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-10",
+      "amount": "$10.2M",
+      "valuation": "$103M post",
+      "lead": null,
+      "source": "https://finance.yahoo.com/quote/ABRI.PVT"
+    },
+    {
+      "round": "Series A-1",
+      "date": "2022-08",
+      "amount": "$12.5M",
+      "valuation": "$144M post",
+      "lead": null,
+      "source": "https://finance.yahoo.com/quote/ABRI.PVT"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-10",
+      "amount": "$30M",
+      "valuation": "$232M post",
+      "lead": null,
+      "source": "https://finance.yahoo.com/quote/ABRI.PVT"
+    },
+    {
+      "round": "Series C",
+      "date": "2024-02",
+      "amount": "$150M",
+      "valuation": "$850M post",
+      "lead": "Lightspeed (co-lead Redpoint)",
+      "source": "https://www.abridge.com/press-release/series-c-150"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-02",
+      "amount": "$250M",
+      "valuation": "$2.75B",
+      "lead": "Elad Gil, IVP",
+      "source": "https://fortune.com/2025/02/17/exclusive-abridge-raises-250-million-series-d-led-by-elad-gil-and-ivp"
+    },
+    {
+      "round": "Series E",
+      "date": "2025-06",
+      "amount": "$300M (~$316M incl. extension)",
+      "valuation": "$5.3B",
+      "lead": "Andreessen Horowitz, Khosla Ventures",
+      "source": "https://www.bizjournals.com/pittsburgh/news/2025/06/24/abridge-andreessen-horowitz-ai.html"
+    },
+    {
+      "round": "Strategic",
+      "date": "2026-06",
+      "amount": null,
+      "valuation": null,
+      "lead": "Eli Lilly",
+      "source": "https://fortune.com/2026/06/11/abridge-operating-system-medicine-nvidia-eli-lilly-artsight/"
+    }
+  ],
+  "total_raised": "~$830M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Enterprise-wide agreement across the University of Texas System",
+      "url": "https://www.abridge.com/press-release/ut-health-enterprise-wide"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Selected for VA nationwide ambient AI enterprise contract",
+      "url": "https://www.abridge.com/press-release/va-enterprise-contract"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Extended platform to CDI and coding teams with pre-bill claim review",
+      "url": "https://www.abridge.com/press-release/pre-bill-review-for-cdi-and-coding-teams"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Acquired the Altrina team",
+      "url": "https://www.abridge.com/category/announcements"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Announced Nvidia deal and Eli Lilly strategic investment; launched clinician platform",
+      "url": "https://www.statnews.com/2026/06/11/abridge-inks-deals-with-nvidia-and-lilly/"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Raised $300M Series E at $5.3B led by a16z and Khosla",
+      "url": "https://www.bizjournals.com/pittsburgh/news/2025/06/24/abridge-andreessen-horowitz-ai.html"
+    }
+  ],
+  "competitors": [
+    "ambience-healthcare",
+    "commure",
+    "heidi-health",
+    "Microsoft Dragon Copilot (Nuance)"
+  ]
+}

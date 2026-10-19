@@ -1,0 +1,78 @@
+{
+  "slug": "dust",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "Paris, France & San Francisco, CA",
+  "headcount_est": {
+    "value": "101-250",
+    "as_of": "2026",
+    "source": "https://www.crunchbase.com/organization/dust-5f56"
+  },
+  "leadership": [
+    {
+      "name": "Gabriel Hubert",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/gabhubert",
+      "source": "https://dust.tt/blog/series-b-multiplayer-ai"
+    },
+    {
+      "name": "Stanislas Polu",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/05/18/3296726/0/en/dust-raises-40m-to-make-ai-multiplayer-inside-the-enterprise.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023",
+      "amount": "~$5.5M (implied from Tracxn total)",
+      "valuation": null,
+      "lead": null,
+      "source": "https://tracxn.com/d/companies/dust/__WL3DGBylY_2PK478wWq02CN8h1CsgdX6Wv05s4tt1gk/funding-and-investors"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-06",
+      "amount": "$16M",
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "https://seedtable.com/companies/dust/funding-rounds/series-a-2024-06"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-05",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "Abstract, Sequoia",
+      "source": "https://www.globenewswire.com/news-release/2026/05/18/3296726/0/en/dust-raises-40m-to-make-ai-multiplayer-inside-the-enterprise.html"
+    }
+  ],
+  "total_raised": "~$61.5M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Named Paris AI transformation firm AI Partners an official partner",
+      "url": "https://dust.tt/blog?tag=News"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Signed European digital consultancy Niji as official partner",
+      "url": "https://dust.tt/blog?tag=News"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raised $40M Series B with Abstract and Sequoia; 3,000+ orgs, zero 2025 churn",
+      "url": "https://www.globenewswire.com/news-release/2026/05/18/3296726/0/en/dust-raises-40m-to-make-ai-multiplayer-inside-the-enterprise.html"
+    }
+  ],
+  "competitors": [
+    "glean",
+    "openai",
+    "Microsoft Copilot Studio",
+    "lindy"
+  ]
+}

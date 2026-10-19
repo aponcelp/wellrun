@@ -1,0 +1,23 @@
+{
+  "slug": "viktor",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "Warsaw, Poland & Munich, Germany",
+  "headcount_est": null,
+  "leadership": [
+    {"name": "Fryderyk Wiatrowski", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://fortune.com/2026/05/19/viktor-ai-startup-raises-75-million-for-virtual-coworker-exclusive"},
+    {"name": "Peter Albert", "title": "Co-founder & CTO", "founder": true, "linkedin": null, "source": "https://fortune.com/2026/05/19/viktor-ai-startup-raises-75-million-for-virtual-coworker-exclusive"}
+  ],
+  "funding_history": [
+    {"round": "Series A", "date": "2026-05", "amount": "$75M", "valuation": null, "lead": "Accel", "source": "https://viktor.com/blog/viktor-series-a"}
+  ],
+  "total_raised": "$75M (disclosed)",
+  "revenue_est": {"value": "~$50M ARR", "as_of": "Sep 2026", "basis": "company-stated (co-founder post)", "source": "https://www.arr.club/signal/viktor-arr-hit-50m-in-just-7-months"},
+  "news_timeline": [
+    {"date": "2026-09", "headline": "Co-founder says Viktor hit $50M ARR seven months after launch", "url": "https://www.arr.club/signal/viktor-arr-hit-50m-in-just-7-months"},
+    {"date": "2026-07", "headline": "Passes $25M ARR within 16 weeks; 50,000 teams", "url": "https://www.arr.club/getviktor/viktor-arr-surpasses-25m-within-16-weeks-through-self-serve-motion"},
+    {"date": "2026-05", "headline": "Raises $75M Series A led by Accel, largest ever for a Polish-founded startup", "url": "http://thenextweb.com/news/viktor-75-million-series-a-accel-ai-coworker-slack-teams"},
+    {"date": "2026-02", "headline": "Launches publicly as AI coworker in Slack; $1M ARR at launch", "url": "https://app.dealroom.co/news/note/slack-ai-agent-viktor-hits-1m-arr-at-launch"}
+  ],
+  "competitors": ["lindy", "dust", "glean", "Sana"]
+}

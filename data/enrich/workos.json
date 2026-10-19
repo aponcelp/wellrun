@@ -1,0 +1,94 @@
+{
+  "slug": "workos",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~95",
+    "as_of": "2026",
+    "source": "https://siliconvalleyinvestclub.com/es/companies/workos"
+  },
+  "leadership": [
+    {
+      "name": "Michael Grinich",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/grinich",
+      "source": "https://workos.com/blog/workos-raises-100m-series-c"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": "$3.4M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://pitchbook.com/profiles/company/431385-04"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-03",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Lachy Groom",
+      "source": "http://www.workos.com/about"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-06",
+      "amount": "$80M",
+      "valuation": "$525M",
+      "lead": "Greenoaks",
+      "source": "http://workos.com/blog/series-b"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-03",
+      "amount": "$100M",
+      "valuation": "$2B",
+      "lead": "Meritech, Sapphire",
+      "source": "https://workos.com/blog/workos-raises-100m-series-c"
+    }
+  ],
+  "total_raised": "~$198M",
+  "revenue_est": {
+    "value": "$30M+ ARR",
+    "as_of": "Oct 2025",
+    "basis": "press report",
+    "source": "https://siliconvalleyinvestclub.com/es/companies/workos"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Previewed Airlock, Atlas and Passport agent products at init() 2026",
+      "url": "https://workos.com/blog/init-2026-recap"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Launched WorkOS MCP server to manage accounts from any AI agent",
+      "url": "https://workos.com/blog/management-mcp-server"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Released Pipes MCP for agent access to third-party data connections",
+      "url": "https://workos.com/changelog"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Raised $100M Series C at $2B led by Meritech and Sapphire",
+      "url": "https://workos.com/blog/workos-raises-100m-series-c"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Launched WorkOS CLI for one-command AuthKit integration",
+      "url": "https://workos.com/changelog"
+    }
+  ],
+  "competitors": [
+    "clerk",
+    "Auth0 (Okta)",
+    "Stytch",
+    "FusionAuth"
+  ]
+}

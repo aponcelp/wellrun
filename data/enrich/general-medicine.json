@@ -1,0 +1,25 @@
+{
+  "slug": "general-medicine",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA (office in Boston)",
+  "headcount_est": {"value": "~135", "as_of": "Oct 2026", "source": "https://platform.tracxn.com/a/d/company/68309575ff889f6e990a8b68/general%20medicine"},
+  "leadership": [
+    {"name": "TJ Parker", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://generalmedicine.co/company/about"},
+    {"name": "Elliot Cohen", "title": "Co-founder & President", "founder": true, "linkedin": null, "source": "https://generalmedicine.co/company/about"},
+    {"name": "Ashwin Muralidharan", "title": "Co-founder & Chief Product Officer", "founder": true, "linkedin": null, "source": "https://generalmedicine.co/company/about"},
+    {"name": "Pallabi Sanyal-Dey, MD", "title": "Medical Director", "founder": false, "linkedin": null, "source": "https://generalmedicine.co/company/about"},
+    {"name": "Jacqui Miller", "title": "Chief Communications Officer", "founder": false, "linkedin": null, "source": "https://generalmedicine.co/company/about"}
+  ],
+  "funding_history": [
+    {"round": "Seed / early rounds", "date": "2025-05", "amount": "$32M", "valuation": null, "lead": "Matrix", "source": "https://fortune.com/2025/05/22/general-medicine-startup-pillpack-founders-raise/"},
+    {"round": "Series B", "date": "2026-10", "amount": "$120M", "valuation": null, "lead": "Andreessen Horowitz", "source": "https://generalmedicine.co/resources/general-medicine-raises-120-million-to-build-the-healthcare-store"}
+  ],
+  "total_raised": "$152M",
+  "revenue_est": {"value": "~$36M", "as_of": "2026", "basis": "estimate", "source": "https://platform.tracxn.com/a/d/company/68309575ff889f6e990a8b68/general%20medicine"},
+  "news_timeline": [
+    {"date": "2026-10", "headline": "Raises $120M Series B led by a16z, with Eli Lilly and Mercy Health", "url": "https://www.prnewswire.com/news-releases/general-medicine-raises-120-million-to-build-the-healthcare-store-302899356.html"},
+    {"date": "2025-05", "headline": "PillPack founders launch General Medicine nationwide with $32M led by Matrix", "url": "https://www.prnewswire.com/news-releases/former-amazon-leaders-launch-general-medicine-a-healthcare-store-that-gives-everyone-access-to-the-best-care-in-the-world-302463562.html"}
+  ],
+  "competitors": ["Amazon One Medical", "Hims & Hers", "Ro", "Mark Cuban Cost Plus Drugs"]
+}

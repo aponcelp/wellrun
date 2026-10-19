@@ -1,0 +1,94 @@
+{
+  "slug": "simile",
+  "checked": "Oct 19, 2026",
+  "founded": 2025,
+  "hq": "Palo Alto, CA",
+  "headcount_est": {
+    "value": "50+",
+    "as_of": "Jul 2026",
+    "source": "https://linkedin.com/company/simile-ai-inc"
+  },
+  "leadership": [
+    {
+      "name": "Joon Sung Park",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/"
+    },
+    {
+      "name": "Michael Bernstein",
+      "title": "Co-founder & Chief Product Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://dealroom.co/companies/simile"
+    },
+    {
+      "name": "Percy Liang",
+      "title": "Co-founder & Chief Scientist",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://dealroom.co/companies/simile"
+    },
+    {
+      "name": "Elaina Yallen",
+      "title": "Chief Customer Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://dealroom.co/companies/simile"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-02",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-07",
+      "amount": "$200M+",
+      "valuation": "$2B post-money",
+      "lead": "Greenoaks, Index Ventures (co-leads)",
+      "source": "https://www.simile.com/blog/series-b"
+    }
+  ],
+  "total_raised": "$300M+",
+  "revenue_est": {
+    "value": "Revenue up 5x in five months since Feb 2026 launch (absolute undisclosed)",
+    "as_of": "Jul 2026",
+    "basis": "company-stated",
+    "source": "https://simile.ai/blog/series-b"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "WSJ profiles CVS Health's use of Simile digital twins",
+      "url": "https://www.simile.com/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Raises $200M+ Series B at $2B, five months after $100M Series A",
+      "url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "NYT DealBook: Simile's AI twins replace parts of market research for CVS",
+      "url": "https://www.nytimes.com/2026/07/30/business/dealbook/simile-ai-agents-funding.html"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Emerges from stealth with $100M Series A led by Index Ventures",
+      "url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/"
+    }
+  ],
+  "competitors": [
+    "aaru",
+    "listen-labs",
+    "Electric Twin",
+    "Artificial Societies"
+  ]
+}

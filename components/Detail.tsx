@@ -1,8 +1,12 @@
 "use client";
+import Link from "next/link";
 import type { ReactNode } from "react";
-import type { Company, Source } from "@/lib/types";
+import type { Card, Source } from "@/lib/types";
 import { checkedOf, gdOf, has, opsOf, plainEngine } from "@/lib/rank";
 import { cap } from "@/lib/track";
+import RivalTrack from "./RivalTrack";
+import ScoreBuilt from "./ScoreBuilt";
+import Shot from "./Shot";
 
 /** One tile of the card: a label, then its content. Same blocks, in the same order, as the original site's card. */
 function Block({ label, mod, children }: { label: string; mod?: string; children: ReactNode }) {
@@ -31,8 +35,34 @@ const trendNote = (t: string) =>
     .replace(/^\s*[;,.]\s*/, "")
     .trim();
 
-/** The full company card: used inline on the board and on each company's own page. */
-export default function Detail({ c }: { c: Company }) {
+/** What the full profile holds, in a few words, so the button promises something concrete. */
+export function teaser(c: Card): string[] {
+  const e = c.enrich;
+  const out: string[] = [];
+  if (e?.leadership?.length) out.push(`${e.leadership.length} ${e.leadership.length === 1 ? "leader" : "leaders"}`);
+  if (e?.funding_history?.length) out.push(`${e.funding_history.length} funding ${e.funding_history.length === 1 ? "round" : "rounds"}`);
+  if (e?.revenue_est?.value) out.push("revenue estimate");
+  if (e?.news_timeline?.length) out.push("news timeline");
+  if (!out.length) out.push("pace track", "score breakdown", "shareable page");
+  return out;
+}
+
+/** The big "open the full profile" button used in the expanded card. */
+export function ProfileButton({ c, where }: { c: Pick<Card, "name" | "slug">; where: "top" | "bottom" }) {
+  return (
+    <Link
+      href={`/${c.slug}`}
+      prefetch={false}
+      className={"btn-profile btn-profile--" + where}
+      onClick={(e) => cap("company_link_clicked", { company: c.name, role: "", url: e.currentTarget.href })}
+    >
+      Open {c.name}&apos;s full profile <span aria-hidden="true">→</span>
+    </Link>
+  );
+}
+
+/** The full company card: used inline on the board ("card") and on each company's own page ("page"). */
+export default function Detail({ c, variant = "card" }: { c: Card; variant?: "card" | "page" }) {
   const ext = (url: string, text: ReactNode, key?: string | number) => (
     <a
       key={key}
@@ -86,8 +116,25 @@ export default function Detail({ c }: { c: Company }) {
 
   const hasFunding = [c.stage, c.last_round, c.last_round_date, c.lead_investors].some(has);
 
+  const rivals = c.rivals;
+  const showTrack = variant === "card" && !!rivals && rivals.track.length > 1;
+
   return (
     <>
+      {variant === "card" && (
+        <div className={"d-cta" + (c.og ? "" : " d-cta--noimg")}>
+          {c.og && (
+            <Link href={`/${c.slug}`} prefetch={false} className="d-cta__img" tabIndex={-1} aria-hidden="true">
+              <Shot og={c.og} name={c.name} />
+            </Link>
+          )}
+          <div className="d-cta__body">
+            <p className="d-cta__k">Well Run profile</p>
+            <p className="d-cta__t">{teaser(c).join(" · ")}</p>
+            <ProfileButton c={c} where="top" />
+          </div>
+        </div>
+      )}
       <div className="d-grid">
         {has(c.problem) && (
           <Block label="The problem">
@@ -144,6 +191,14 @@ export default function Detail({ c }: { c: Company }) {
             )}
           </Block>
         )}
+        {showTrack && rivals && (
+          <Block label="Rivals on the track" mod="wide track">
+            <RivalTrack track={rivals.track} off={rivals.off} hi={rivals.hi} compact />
+          </Block>
+        )}
+        <div className="d-b d-b--wide d-b--score">
+          <ScoreBuilt c={c} />
+        </div>
         {has(c.distance) && (
           <Block label="Distance" mod="wide">
             <p className="d-dist">

@@ -1,0 +1,95 @@
+{
+  "slug": "mintlify",
+  "checked": "Oct 19, 2026",
+  "founded": null,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~69",
+    "as_of": "May 2026",
+    "source": "https://tracxn.com/d/companies/mintlify/__4H1JwQrPEEjkuME5kKnugS51A3fazz3eCPVzsiIl9gs"
+  },
+  "leadership": [
+    {
+      "name": "Han Wang",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.mintlify.com/blog/series-b"
+    },
+    {
+      "name": "Hahnbee Lee",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/mintlify"
+    },
+    {
+      "name": "Shawn Lestage",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/617463cc7f95d8147cd91e44/mintlify"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (incl. 2022 convertible note)",
+      "date": "2022",
+      "amount": "~$3M (implied: $21M total at Series A less $18M)",
+      "valuation": null,
+      "lead": "Y Combinator, Bain Capital Ventures",
+      "source": "https://www.mintlify.com/blog/series-a"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-09",
+      "amount": "$18M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.mintlify.com/blog/series-a"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-04",
+      "amount": "$45M",
+      "valuation": "$500M",
+      "lead": "Andreessen Horowitz, Salesforce Ventures",
+      "source": "https://www.mintlify.com/blog/series-b"
+    }
+  ],
+  "total_raised": "~$67M",
+  "revenue_est": {
+    "value": "~$21.4M ARR",
+    "as_of": "Jul 2026",
+    "basis": "estimate",
+    "source": "https://sacra.com/research/mintlify-at-21m-arr-growing-326-yoy"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-04",
+      "headline": "Raised $45M Series B at $500M led by a16z and Salesforce Ventures",
+      "url": "https://www.mintlify.com/blog/series-b"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Acquired Helicone, open-source LLM observability platform and AI gateway",
+      "url": "https://www.mintlify.com/blog/mintlify-acquires-helicone"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Researchers disclosed platform CVEs; patched within hours",
+      "url": "https://www.mintlify.com/blog/working-with-security-researchers-november-2025"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Acquired Trieve to improve RAG search in documentation",
+      "url": "https://www.mintlify.com/blog/mintlify-acquires-trieve-to-improve-rag-search-in-documentation"
+    }
+  ],
+  "competitors": [
+    "GitBook",
+    "ReadMe",
+    "Fern",
+    "Redocly"
+  ]
+}

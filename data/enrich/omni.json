@@ -1,0 +1,28 @@
+{
+  "slug": "omni",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {"name": "Colin Zima", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "http://omni.co/blog/press-release-omni-series-c-funding"},
+    {"name": "Jamie Davidson", "title": "Co-founder & President", "founder": true, "linkedin": null, "source": "https://www.businesswire.com/news/home/20240314523059/en/Business-Intelligence-Platform-Omni-Announces-Additional-%2420M-in-Capital-From-Theory-Ventures"},
+    {"name": "Chris Merrick", "title": "Co-founder & CTO", "founder": true, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/5905a0cfe4b07acaea3803c5/omni"}
+  ],
+  "funding_history": [
+    {"round": "Seed", "date": "2022-04", "amount": "$9.4M", "valuation": null, "lead": "First Round Capital", "source": "https://omni.co/blog/series-a-press-release"},
+    {"round": "Series A", "date": "2022-08", "amount": "$17.5M", "valuation": null, "lead": "Redpoint Ventures", "source": "https://omni.co/blog/series-a-press-release"},
+    {"round": "Series A extension", "date": "2024-03", "amount": "$20M", "valuation": null, "lead": "Theory Ventures", "source": "https://www.businesswire.com/news/home/20240314523059/en/Business-Intelligence-Platform-Omni-Announces-Additional-%2420M-in-Capital-From-Theory-Ventures"},
+    {"round": "Series B", "date": "2025-03", "amount": "$69M", "valuation": "$650M", "lead": "ICONIQ Growth", "source": "https://siliconvalleyinvestclub.com/de/companies/omni/tear-sheet.pdf"},
+    {"round": "Series C", "date": "2026-04", "amount": "$120M (incl. $30M employee tender)", "valuation": "$1.5B", "lead": "ICONIQ", "source": "https://www.businesswire.com/news/home/20260423569749/en/Omni-Raises-Series-C-at-%241.5B-Valuation-Building-the-AI-Analytics-Platform-for-the-Enterprise"}
+  ],
+  "total_raised": "~$236M",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-09", "headline": "Brings Jev into Omni (acqui-hire/acquisition announced by CEO)", "url": "https://omni.co/blog/omni-series-c-funding"},
+    {"date": "2026-06", "headline": "Named Databricks ISV Emerging Partner of the Year", "url": "https://omni.co/blog/omni-series-c-funding"},
+    {"date": "2026-04", "headline": "Raises $120M Series C at $1.5B led by ICONIQ; revenue grew 4x last year", "url": "http://omni.co/blog/press-release-omni-series-c-funding"},
+    {"date": "2025-10", "headline": "Acquires embedded analytics startup Explo", "url": "https://www.businesswire.com/news/home/20251022265779/en/Omni-Accelerates-Growth-With-Acquisition-of-Explo"}
+  ],
+  "competitors": ["Looker (Google)", "Tableau", "Sigma Computing", "hex", "metabase"]
+}

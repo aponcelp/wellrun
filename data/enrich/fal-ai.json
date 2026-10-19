@@ -1,0 +1,28 @@
+{
+  "slug": "fal-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": {"value": "~190", "as_of": "2026", "source": "https://platform.tracxn.com/a/d/company/6033c163a876541ebb827d05/fal"},
+  "leadership": [
+    {"name": "Burkay Gur", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://www.businesswire.com/news/home/20250731234742/en/fal-Raises-%24125M-in-Series-C-Led-by-Meritech-with-Salesforce-Ventures-Shopify-Ventures-and-Google-AI-Futures-Fund-Joining-to-Power-the-Next-Decade-of-Generative-Media"},
+    {"name": "Gorkem Yurtseven", "title": "Co-founder", "founder": true, "linkedin": null, "source": "https://www.businesswire.com/news/home/20250212239085/en/fal-Raises-$49M-Series-B-to-Power-the-Future-of-AI-Video"}
+  ],
+  "funding_history": [
+    {"round": "Series A", "date": "2024-09", "amount": "$13.9M", "valuation": "~$97M", "lead": null, "source": "https://forgeglobal.com/fal_ipo"},
+    {"round": "Series B", "date": "2025-02", "amount": "$49M", "valuation": null, "lead": "Notable Capital & Andreessen Horowitz", "source": "https://www.businesswire.com/news/home/20250212239085/en/fal-Raises-$49M-Series-B-to-Power-the-Future-of-AI-Video"},
+    {"round": "Series C", "date": "2025-07", "amount": "$125M", "valuation": "$1.5B", "lead": "Meritech", "source": "https://www.reuters.com/business/ai-infrastructure-company-fal-raises-125-million-valuing-company-15-billion-2025-07-31"},
+    {"round": "Series D", "date": "2025-12", "amount": "$140M", "valuation": "$4.5B", "lead": "Sequoia", "source": "https://www.businesswire.com/news/home/20251209532649/en/fal-Raises-%24140M-in-Series-D-Led-by-Sequoia-with-Major-Participation-from-Kleiner-Perkins-and-New-Investment-from-Alkeon-Capital-and-NVentures-NVIDIAs-venture-capital-arm-to-Accelerate-the-Future-of-Real-Time-Generative-Media"},
+    {"round": "Series E-2 (reported, not announced)", "date": "2026-04", "amount": "$200M", "valuation": "$8B", "lead": null, "source": "https://forgeglobal.com/fal_ipo"}
+  ],
+  "total_raised": "~$337M announced through Series D (company says $300M+); more if reported 2026 Series E is included",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-05", "headline": "Names AWS preferred cloud; platform serves 2.5M developers", "url": "https://www.businesswire.com/news/home/20260519125851/en/fal-Scales-the-Worlds-Largest-Generative-Media-Platform-with-AWS-Serving-2.5-Million-Developers"},
+    {"date": "2026-04", "headline": "Reported $200M Series E-2 tranche at ~$8B valuation", "url": "https://forgeglobal.com/fal_ipo"},
+    {"date": "2026-03", "headline": "Reported in talks to raise $300M-$350M at ~$8B", "url": "https://sacra.com/c/fal-ai"},
+    {"date": "2025-12", "headline": "Raises $140M Series D at $4.5B led by Sequoia; third raise of 2025", "url": "https://techcrunch.com/2025/12/09/fal-nabs-140m-in-fresh-funding-led-by-sequoia-tripling-valuation-to-4-5b"},
+    {"date": "2025-07", "headline": "Raises $125M Series C at $1.5B led by Meritech", "url": "https://www.reuters.com/business/ai-infrastructure-company-fal-raises-125-million-valuing-company-15-billion-2025-07-31"}
+  ],
+  "competitors": ["Replicate (Cloudflare)", "together-ai", "fireworks-ai", "runware", "baseten"]
+}

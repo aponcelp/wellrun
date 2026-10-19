@@ -1,0 +1,26 @@
+{
+  "slug": "rillet",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "New York, NY / San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {"name": "Nicolas Kopp", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://www.businesswire.com/news/home/20260819978953/en/Rillet-Raises-$100M-Series-C-at-$1B-Valuation-to-Build-Accounting-Superintelligence"},
+    {"name": "Stelios Modes", "title": "Co-founder & CTO", "founder": true, "linkedin": null, "source": "https://www.globenewswire.com/fr/news-release/2025/08/06/3128328/0/en/rillet-raises-70m-to-replace-20th-century-accounting-software-with-ai-native-erp-built-by-accountants.html"}
+  ],
+  "funding_history": [
+    {"round": "Pre-seed + Seed", "date": "2024-07", "amount": "$13.5M", "valuation": null, "lead": "First Round Capital", "source": "https://finance.yahoo.com/news/rillet-raises-25m-sequoia-automate-155700789.html"},
+    {"round": "Series A", "date": "2025-05", "amount": "$25M", "valuation": null, "lead": "Sequoia Capital", "source": "https://www.prnewswire.com/news-releases/rillet-raises-25m-series-a-from-sequoia-capital-to-bring-ai-to-mid-market-accounting-302467399.html"},
+    {"round": "Series B", "date": "2025-08", "amount": "$70M", "valuation": null, "lead": "ICONIQ & Andreessen Horowitz", "source": "https://www.globenewswire.com/fr/news-release/2025/08/06/3128328/0/en/rillet-raises-70m-to-replace-20th-century-accounting-software-with-ai-native-erp-built-by-accountants.html"},
+    {"round": "Series C", "date": "2026-08", "amount": "$100M", "valuation": "$1B", "lead": "ICONIQ", "source": "https://www.businesswire.com/news/home/20260819978953/en/Rillet-Raises-$100M-Series-C-at-$1B-Valuation-to-Build-Accounting-Superintelligence"}
+  ],
+  "total_raised": "$200M+",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-08", "headline": "Raises $100M Series C at $1B led by ICONIQ; 600+ customers, new ARR doubled in 3 months", "url": "https://www.rutlandherald.com/news/business/rillet-raises-100m-series-c-at-1b-valuation-to-build-accounting-superintelligence/article_33222e20-837a-5ff4-a6c2-6c1c9f484b90.html"},
+    {"date": "2026-08", "headline": "CEO says unicorn round came together in 48 hours without a formal raise", "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/"},
+    {"date": "2025-08", "headline": "Raises $70M Series B led by ICONIQ and a16z; 200+ customers", "url": "https://www.globenewswire.com/fr/news-release/2025/08/06/3128328/0/en/rillet-raises-70m-to-replace-20th-century-accounting-software-with-ai-native-erp-built-by-accountants.html"},
+    {"date": "2025-05", "headline": "Raises $25M Series A led by Sequoia", "url": "https://www.prnewswire.com/news-releases/rillet-raises-25m-series-a-from-sequoia-capital-to-bring-ai-to-mid-market-accounting-302467399.html"}
+  ],
+  "competitors": ["NetSuite", "Sage Intacct", "dualentry", "campfire", "numeric"]
+}

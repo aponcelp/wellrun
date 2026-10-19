@@ -1,0 +1,24 @@
+{
+  "slug": "broccoli-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": {"value": "~112", "as_of": "Oct 2026", "source": "https://platform.tracxn.com/a/d/company/53466476e4b085eb38a66ede/broccoli%20ai"},
+  "leadership": [
+    {"name": "AJ (Abhishek) Jain", "title": "Co-founder & CEO", "founder": true, "linkedin": "https://linkedin.com/in/abhishek-jain9925", "source": "https://seedtable.com/companies/broccoli-ai/funding-rounds/series-a-2026-07"},
+    {"name": "Aditya Ketkar", "title": "Co-founder & CTO", "founder": true, "linkedin": null, "source": "http://ycombinator.com/companies/broccoli-ai"},
+    {"name": "Abhishek Jalan", "title": "Co-founder", "founder": true, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/53466476e4b085eb38a66ede/broccoli%20ai"},
+    {"name": "Marcelle Flowers", "title": "COO", "founder": false, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/53466476e4b085eb38a66ede/broccoli%20ai"}
+  ],
+  "funding_history": [
+    {"round": "Accelerator (YC W22)", "date": "2022", "amount": "$500K", "valuation": null, "lead": "Y Combinator", "source": "https://tracxn.com/d/companies/broccoliai/__omNQfVB6IhELqx6GFzPdp-Lty-PuBRDFABYQNVk2m8Y/funding-and-investors"},
+    {"round": "Series A", "date": "2026-07", "amount": "$25M", "valuation": "~$100M (Dealroom)", "lead": "Khosla Ventures", "source": "https://www.exchange4media.com/industry-briefing-news/khosla-ventures-invests-25-million-in-broccoli-ai-155961.html"}
+  ],
+  "total_raised": "~$25.5M",
+  "revenue_est": {"value": "$15M+ ARR", "as_of": "Oct 2026", "basis": "company-stated (press report)", "source": "https://theinference.org/article/broccoli-ai-clones-receptionists-voices-with-khosla-s-25-million-as-servicetitan-unveils-30-agents"},
+  "news_timeline": [
+    {"date": "2026-10", "headline": "Launches Voice Studio cloning contractors' own CSR voices as ServiceTitan adds agents", "url": "https://theinference.org/article/broccoli-ai-clones-receptionists-voices-with-khosla-s-25-million-as-servicetitan-unveils-30-agents"},
+    {"date": "2026-07", "headline": "Raises $25M Series A led by Khosla Ventures", "url": "https://www.exchange4media.com/industry-briefing-news/khosla-ventures-invests-25-million-in-broccoli-ai-155961.html"}
+  ],
+  "competitors": ["avoca", "Hatch", "ServiceTitan (native AI agents)", "Sameday AI"]
+}
