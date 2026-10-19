@@ -1,0 +1,127 @@
+{
+  "slug": "suno",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "Cambridge, MA",
+  "headcount_est": {
+    "value": "~200 (company, Jun 2026) to ~490 (Tracxn)",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/53ae33cfe4b0c9ef6eb074ec/suno"
+  },
+  "leadership": [
+    {
+      "name": "Mikey Shulman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/mikeyshulman",
+      "source": "https://www.suno.com/blog/series-d-announcement"
+    },
+    {
+      "name": "Georg Kucsko",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/53ae33cfe4b0c9ef6eb074ec/suno"
+    },
+    {
+      "name": "Martin Camacho",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/53ae33cfe4b0c9ef6eb074ec/suno"
+    },
+    {
+      "name": "Brinn Sanders",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/53ae33cfe4b0c9ef6eb074ec/suno"
+    },
+    {
+      "name": "Jack Brody",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.musicbusinessworldwide.com/suno-v6-ai-music-models-launch-in-partnership-with-wmg-bmg-and-believe/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2023",
+      "amount": null,
+      "valuation": null,
+      "lead": "Matrix",
+      "source": "https://inforcapital.com/companies/suno"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-05",
+      "amount": "$125M",
+      "valuation": "~$500M",
+      "lead": "Lightspeed, Nat Friedman & Daniel Gross, Matrix, Founder Collective",
+      "source": "https://suno.com/blog/fundraising-announcement-may-2024"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-11",
+      "amount": "$250M",
+      "valuation": "$2.45B",
+      "lead": "Menlo Ventures",
+      "source": "http://prnewswire.com/news-releases/suno-raises-250m-at-a-2-45b-valuation-302620166.html"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-06",
+      "amount": "$400M+",
+      "valuation": "$5.4B",
+      "lead": "Bond Capital",
+      "source": "https://www.suno.com/blog/series-d-announcement"
+    }
+  ],
+  "total_raised": "~$775M",
+  "revenue_est": {
+    "value": "'Far beyond' $300M revenue run-rate; 2M+ paid subscribers",
+    "as_of": "Oct 2026",
+    "basis": "company-stated",
+    "source": "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Hired first CFO and signed third label license as IPO questions mount",
+      "url": "https://www.musicbusinessworldwide.com/with-a-new-cfo-three-licensing-deals-and-775m-raised-whats-stopping-5-4b-valued-suno-from-an-ipo/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launched licensed v6 music models with Warner Music, BMG and Believe",
+      "url": "https://www.musicbusinessworldwide.com/suno-v6-ai-music-models-launch-in-partnership-with-wmg-bmg-and-believe/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Universal and Sony sue Suno a second time, targeting v6 models",
+      "url": "https://www.musicbusinessworldwide.com/universal-and-sony-sue-suno-for-a-second-time-claiming-platforms-v6-models-are-the-fruit-of-the-same-poisoned-tree/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Signed licensing deal with BMG",
+      "url": "https://www.bostonglobe.com/2026/08/12/business/suno-ai-songs-bmg-deal-copyright/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Raised $400M+ Series D at $5.4B led by Bond",
+      "url": "https://www.suno.com/blog/series-d-announcement"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Settled Warner Music copyright suit and signed licensing deal",
+      "url": "https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25"
+    }
+  ],
+  "competitors": [
+    "Udio",
+    "elevenlabs",
+    "Stability AI",
+    "Google (Lyria)"
+  ]
+}

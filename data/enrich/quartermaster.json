@@ -1,0 +1,87 @@
+{
+  "slug": "quartermaster",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "Arlington, VA",
+  "headcount_est": {
+    "value": "~100 (up ~5x YoY)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/quartermasterai"
+  },
+  "leadership": [
+    {
+      "name": "Neil Sobin",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m"
+    },
+    {
+      "name": "Matt Beck",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.quartermaster.us/about"
+    },
+    {
+      "name": "Zachary Rubin",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.caplight.com/company/quartermaster"
+    },
+    {
+      "name": "Steve Ribaudo",
+      "title": "Chief Growth Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://craft.co/quartermaster-ai/executives"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-05",
+      "amount": "$43M",
+      "valuation": null,
+      "lead": "First Round Capital, Quiet Capital",
+      "source": "https://techcrunch.com/2026/05/20/this-startup-raised-43m-to-build-a-hive-mind-for-ships"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-09",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m"
+    },
+    {
+      "round": "Debt",
+      "date": "2026-09",
+      "amount": "$40M venture debt",
+      "valuation": null,
+      "lead": "Stifel",
+      "source": "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m"
+    }
+  ],
+  "total_raised": "~$143M equity + $40M debt (disclosed rounds)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raises $140M: preemptive $100M Series B led by Insight + $40M Stifel debt",
+      "url": "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raises $43M Series A; SmartMast on 600+ ships in 25 countries",
+      "url": "http://ventureburn.com/quartermaster-raises-43m-to-transform-ocean-tracking"
+    }
+  ],
+  "competitors": [
+    "Windward",
+    "Spire Global",
+    "Kpler",
+    "HawkEye 360"
+  ]
+}

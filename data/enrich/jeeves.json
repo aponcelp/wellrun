@@ -1,0 +1,121 @@
+{
+  "slug": "jeeves",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "Miami, FL",
+  "headcount_est": {
+    "value": "200+",
+    "as_of": "2026",
+    "source": "https://tryjeeves.com/us/about-us"
+  },
+  "leadership": [
+    {
+      "name": "Dileep Thazhmon",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/jeeves-raises-110-million-equity-round-to-scale-its-stablecoin-native-banking-platform-for-global-enterprises-across-35-countries-302892811.html"
+    },
+    {
+      "name": "Alexander Melikian",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.caplight.com/company/jeeves"
+    },
+    {
+      "name": "Victor Garrido Freyria",
+      "title": "Chief Operating Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.caplight.com/company/jeeves"
+    },
+    {
+      "name": "Sundar Sankarnarayanan",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.caplight.com/company/jeeves"
+    },
+    {
+      "name": "Kash Baghaei",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.tryjeeves.com/announcement/jeeves-v21"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021-06",
+      "amount": "$31M",
+      "valuation": "~$100M+",
+      "lead": "Andreessen Horowitz",
+      "source": "http://techcrunch.com/2021/09/02/fintech-startup-jeeves-raises-57m-goes-from-yc-to-500m-valuation-in-one-year"
+    },
+    {
+      "round": "Debt",
+      "date": "2021-06",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": null,
+      "source": "http://techcrunch.com/2021/09/02/fintech-startup-jeeves-raises-57m-goes-from-yc-to-500m-valuation-in-one-year"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-09",
+      "amount": "$57M",
+      "valuation": "$500M",
+      "lead": "CRV",
+      "source": "https://www.prnewswire.com/news-releases/jeeves-yc-s20-raises-57-million-series-b-led-by-crv-at-500-million-valuation-to-fuel-launch-in-uk-europe-and-colombia-301368086.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-03",
+      "amount": "$180M",
+      "valuation": "$2.1B",
+      "lead": "Tencent",
+      "source": "https://pitchbook.com/news/articles/international-corporate-card-fintech-jeeves-180m-series-c"
+    },
+    {
+      "round": "Series C-1",
+      "date": "2026-09",
+      "amount": "$110M",
+      "valuation": null,
+      "lead": "CoinFund",
+      "source": "https://www.fintechfutures.com/venture-capital-funding/jeeves-110m-series-c1-funding-round-stablecoins"
+    }
+  ],
+  "total_raised": "$380M+ equity (company-stated), plus debt facilities",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raises $110M Series C-1 led by CoinFund; launches stablecoin wallet (190 countries)",
+      "url": "https://www.prnewswire.com/news-releases/jeeves-raises-110-million-equity-round-to-scale-its-stablecoin-native-banking-platform-for-global-enterprises-across-35-countries-302892811.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Says revenue grew 4x in 14 months; annualized volume tops $5B, $1.5B from stablecoins",
+      "url": "https://www.morningstar.com/news/pr-newswire/20260929fl58869/jeeves-raises-110-million-equity-round-to-scale-its-stablecoin-native-banking-platform-for-global-enterprises-across-35-countries"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Opens Madrid office to push EMEA stablecoin payment corridors",
+      "url": "https://www.fintechfutures.com/venture-capital-funding/jeeves-110m-series-c1-funding-round-stablecoins"
+    },
+    {
+      "date": "2026-09",
+      "headline": "CEO says Jeeves has fewer employees than two years ago while volume grew 10x+",
+      "url": "https://www.fintechfutures.com/venture-capital-funding/jeeves-110m-series-c1-funding-round-stablecoins"
+    }
+  ],
+  "competitors": [
+    "ramp",
+    "brex",
+    "Airwallex",
+    "rain",
+    "Clara"
+  ]
+}

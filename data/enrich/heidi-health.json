@@ -1,0 +1,101 @@
+{
+  "slug": "heidi-health",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "Melbourne, Australia (North America HQ: Toronto; US office New York)",
+  "headcount_est": {
+    "value": "close to 600",
+    "as_of": "Sep 2026",
+    "source": "https://www.briefs.co/news/heidi-lands-340-million-to-speed-up-ai-that-tackles-doctors"
+  },
+  "leadership": [
+    {
+      "name": "Dr. Thomas Kelly",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://finance.yahoo.com/news/heidi-secures-65-million-usd-040100354.html"
+    },
+    {
+      "name": "Waleed Mussa",
+      "title": "Co-founder & CFO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://finance.yahoo.com/news/heidi-secures-65-million-usd-040100354.html"
+    },
+    {
+      "name": "Yu Liu",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://finance.yahoo.com/news/heidi-secures-65-million-usd-040100354.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2025-10",
+      "amount": "$65M",
+      "valuation": "$465M",
+      "lead": "Point72 Private Investments",
+      "source": "https://www.heidihealth.com/en-gb/blog/heidi-series-b"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-09",
+      "amount": "$100M",
+      "valuation": "$900M",
+      "lead": "Blackbird",
+      "source": "https://www.businesswire.com/news/home/20260922400970/en/Heidi-Secures-US%24340M-to-Scale-Agents-Across-Health-Systems-Globally"
+    },
+    {
+      "round": "Debt",
+      "date": "2026-09",
+      "amount": "$240M (non-dilutive growth financing, General Catalyst Customer Value Fund)",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://www.mobihealthnews.com/news/heidi-health-garnered-340m-reaches-900m-valuation"
+    }
+  ],
+  "total_raised": "~$197M equity (+$240M non-dilutive); ~$429M total per CB Insights",
+  "revenue_est": {
+    "value": "$50M ARR (from $1M two years earlier)",
+    "as_of": "Apr 2026",
+    "basis": "company-stated",
+    "source": "https://www.heidihealth.com/en-us/blog/heidi-secures-us340m-to-scale-agents-across-health-systems-globally"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Secures $340M: $100M Series C at $900M led by Blackbird plus $240M from General Catalyst",
+      "url": "https://www.mobihealthnews.com/news/heidi-health-garnered-340m-reaches-900m-valuation"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Sets up North American HQ in Toronto; Canada now its second-largest market",
+      "url": "http://investontario.ca/press-release/invest-ontario-welcomes-heidis-north-american-headquarters-toronto"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Forms first US Customer Advisory Board of 12 physicians as it expands in US",
+      "url": "https://www.businesswire.com/news/home/20260729378382/en/Heidi-Launches-U.S.-Customer-Advisory-Board-to-Put-Frontline-Clinicians-at-the-Center-of-AI-Development"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Launches Heidi Remote, its first hardware device for audio capture",
+      "url": "https://www.heidihealth.com/en-us/blog/heidi-launches-hardware"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Launches Heidi Evidence and acquires UK clinical AI firm AutoMedica",
+      "url": "https://www.heidihealth.com/en-us/blog/heidi-launches-evidence"
+    }
+  ],
+  "competitors": [
+    "abridge",
+    "ambience-healthcare",
+    "Nuance DAX (Microsoft)",
+    "Suki",
+    "openevidence"
+  ]
+}

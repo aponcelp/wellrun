@@ -1,0 +1,109 @@
+{
+  "slug": "n8n",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "Berlin, Germany",
+  "headcount_est": {
+    "value": "~1,292 (Tracxn official count; other trackers lower)",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/5dc15ba77ce88a1d6fce65a0/n8n"
+  },
+  "leadership": [
+    {
+      "name": "Jan Oberhauser",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/janoberhauser",
+      "source": "https://blog.n8n.io/n8n-sap/"
+    },
+    {
+      "name": "Michael Kuntz",
+      "title": "VP Finance / Interim CFO",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/michaelkuntz1",
+      "source": "https://linkedin.com/in/michaelkuntz1"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-03",
+      "amount": "$1.5M",
+      "valuation": null,
+      "lead": "Sequoia Capital, firstminute capital",
+      "source": "https://en.wikipedia.org/wiki/N8n"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-04",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "Felicis Ventures",
+      "source": "https://techcrunch.com/2021/04/26/n8n-raises-12m-for-its-fair-code-approach-to-low-code-workflow-automation/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-03",
+      "amount": "€55M (~$60M)",
+      "valuation": "~€250M",
+      "lead": "Highland Europe",
+      "source": "https://n8n.io/blog/series-b"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-10",
+      "amount": "$180M",
+      "valuation": "$2.5B",
+      "lead": "Accel",
+      "source": "https://n8n.io/blog/series-c"
+    },
+    {
+      "round": "Strategic (SAP)",
+      "date": "2026-05",
+      "amount": null,
+      "valuation": "$5.2B",
+      "lead": "SAP",
+      "source": "https://blog.n8n.io/n8n-sap/"
+    }
+  ],
+  "total_raised": "~$240M primary (company-stated, through Series C)",
+  "revenue_est": {
+    "value": ">€100M (~$117M) ARR",
+    "as_of": "May 2026",
+    "basis": "press report",
+    "source": "https://www.mainsights.io/ma-news/german-erp-systems-provider-sap-publ-invests-in-workflow-automation-platform-n8n-at-usd-52bn-valuation"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "ZoomInfo launches native n8n integration via GTM.AI",
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202610120830BIZWIRE_USPRX____20261012_BW317239-1"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launched n8n Agents, reusable agents callable from Slack, schedules or workflows",
+      "url": "https://blog.n8n.io/introducing-n8n-agents/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Launched AI Assistant that builds workflows from plain language (preview)",
+      "url": "https://community.n8n.io/t/introducing-the-ai-assistant-the-workflow-building-agent-inside-n8n/302667/1"
+    },
+    {
+      "date": "2026-05",
+      "headline": "SAP strategic investment values n8n at $5.2B; n8n embedded in Joule Studio",
+      "url": "https://blog.n8n.io/n8n-sap/"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Raised $180M Series C at $2.5B led by Accel",
+      "url": "https://n8n.io/blog/series-c"
+    }
+  ],
+  "competitors": [
+    "Zapier",
+    "Make",
+    "gumloop",
+    "Workato"
+  ]
+}

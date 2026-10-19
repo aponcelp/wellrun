@@ -1,0 +1,142 @@
+{
+  "slug": "harvey",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~1,840",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/5fd917af8e51191db854df00/harvey"
+  },
+  "leadership": [
+    {
+      "name": "Winston Weinberg",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/winston-weinberg",
+      "source": "https://www.harvey.ai/company"
+    },
+    {
+      "name": "Gabe Pereyra",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/gabepereyra",
+      "source": "https://www.harvey.ai/company"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-11",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "OpenAI Startup Fund",
+      "source": "https://en.wikipedia.org/wiki/Harvey_(software)"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-04",
+      "amount": "$23M",
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "https://en.wikipedia.org/wiki/Harvey_(software)"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-12",
+      "amount": "$80M",
+      "valuation": "$715M",
+      "lead": "Elad Gil, Kleiner Perkins",
+      "source": "https://en.wikipedia.org/wiki/Harvey_(software)"
+    },
+    {
+      "round": "Series C",
+      "date": "2024-07",
+      "amount": "$100M",
+      "valuation": "$1.5B",
+      "lead": "GV",
+      "source": "https://en.wikipedia.org/wiki/Harvey_(software)"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-02",
+      "amount": "$300M",
+      "valuation": "$3B",
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Harvey_(software)"
+    },
+    {
+      "round": "Series E",
+      "date": "2025-06",
+      "amount": "$300M",
+      "valuation": "~$5B",
+      "lead": "Kleiner Perkins, Coatue",
+      "source": "https://en.wikipedia.org/wiki/Harvey_(software)"
+    },
+    {
+      "round": "Series F",
+      "date": "2025-12",
+      "amount": "$160M",
+      "valuation": "~$8B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://en.wikipedia.org/wiki/Harvey_(software)"
+    },
+    {
+      "round": "Series G",
+      "date": "2026-03",
+      "amount": "$200M",
+      "valuation": "$11B",
+      "lead": "GIC, Sequoia Capital",
+      "source": "https://www.cnbc.com/amp/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html"
+    },
+    {
+      "round": "Series H",
+      "date": "2026-09",
+      "amount": "$550M",
+      "valuation": "$15.5B",
+      "lead": "Diffusion, Lightspeed Venture Partners",
+      "source": "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence"
+    }
+  ],
+  "total_raised": "$1.55B+ (TechCrunch); Tracxn lists ~$1.82B",
+  "revenue_est": {
+    "value": "$350M+ annualized revenue (from ~$190M in Jan 2026)",
+    "as_of": "Aug 2026",
+    "basis": "press report",
+    "source": "https://thenextweb.com/news/harvey-legal-ai-15-5bn-valuation-500m-raise-vertical-ai"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Opens Boston office, hiring 40+ in sales, legal engineering and CS",
+      "url": "https://www.bostonglobe.com/2026/10/01/business/harvey-ai-boston-office/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Raises $550M at $15.5B co-led by Diffusion and Lightspeed; buys Guardrails AI",
+      "url": "https://www.law.com/legaltechnews/2026/09/09/harvey-announces-550m-funding-round-boosting-valuation-to-155b-"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launches first post-trained open-weight legal model, Harvey Tenet",
+      "url": "https://www.siliconrepublic.com/start-ups/harvey-legal-ai-funding-and-investment-550m"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Raises $200M at $11B co-led by GIC and Sequoia",
+      "url": "https://www.cnbc.com/amp/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Acquires Hexus to build tools for in-house legal teams",
+      "url": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/"
+    }
+  ],
+  "competitors": [
+    "legora",
+    "eve-legal",
+    "gc-ai",
+    "Thomson Reuters CoCounsel",
+    "Clio"
+  ]
+}

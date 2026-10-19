@@ -1,0 +1,125 @@
+{
+  "slug": "float",
+  "checked": "Oct 19, 2026",
+  "founded": null,
+  "hq": "Toronto, ON, Canada",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Rob Khazzam",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/rob-khazzam-a795b211",
+      "source": "https://floatfinancial.com/about-us"
+    },
+    {
+      "name": "Ruslan Nikolaev",
+      "title": "Co-founder & Head of Product",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://floatfinancial.com/about-us"
+    },
+    {
+      "name": "Griffin Keglevich",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://floatfinancial.com/about-us"
+    },
+    {
+      "name": "Nina Bilimoria Angelo",
+      "title": "SVP, Go-to-Market",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://floatfinancial.com/about-us"
+    },
+    {
+      "name": "Brendan White",
+      "title": "VP, Finance & Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://floatfinancial.com/about-us"
+    },
+    {
+      "name": "Mark Antidormi",
+      "title": "VP Regulatory, Risk & Chief Compliance Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://floatfinancial.com/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021-11",
+      "amount": "US$30M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.bnnbloomberg.ca/business/company-news/2025/01/13/float-financial-raises-70-million-from-goldman-sachs-omers-among-others"
+    },
+    {
+      "round": "Debt",
+      "date": "2024-02",
+      "amount": "$50M credit facility",
+      "valuation": null,
+      "lead": "Silicon Valley Bank",
+      "source": "https://www.bnnbloomberg.ca/business/company-news/2025/01/13/float-financial-raises-70-million-from-goldman-sachs-omers-among-others"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-01",
+      "amount": "C$70M",
+      "valuation": null,
+      "lead": "Goldman Sachs Alternatives (Growth Equity)",
+      "source": "https://www.businesswire.com/news/home/20250113579768/en/Float-Financial-Announces-$70-Million-Investment-Round-Led-by-Growth-Equity-at-Goldman-Sachs-Alternatives-to-Build-Canadas-Most-Complete-Business-Finance-Solution"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-06",
+      "amount": "C$85M (~US$61M)",
+      "valuation": "+70% vs Series B (undisclosed)",
+      "lead": "Inovia Capital",
+      "source": "https://floatfinancial.com/press/float-financial-raises-cad-85-million-series-c"
+    }
+  ],
+  "total_raised": "~C$300M incl. debt and equity (company-stated)",
+  "revenue_est": {
+    "value": "Revenue up 120% since Jan 2025 Series B (>C$30M at that time)",
+    "as_of": "Jun 2026",
+    "basis": "company-stated",
+    "source": "https://floatfinancial.com/press/float-financial-raises-cad-85-million-series-c"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launched Float Payments: card bill pay, 21-currency vendor payments, free EFT/ACH",
+      "url": "https://www.linkedin.com/posts/rob-khazzam-a795b211_icymi-we-just-launched-float-payments-activity-7513235385984909312-yUFO"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Rival Ramp brings its finance platform to Canada",
+      "url": "https://www.fintech.ca/2026/07/28/ramp-brings-finance-platform-to-canada/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Raised C$85M Series C led by Inovia Capital",
+      "url": "https://floatfinancial.com/press/float-financial-raises-cad-85-million-series-c"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Launched Float Intelligence, AI trained on Canadian transactions",
+      "url": "https://floatfinancial.com/press/float-intelligence"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Became a member of Payments Canada",
+      "url": "https://betakit.com/float-wise-koho-paramount-and-brim-join-payments-canada"
+    }
+  ],
+  "competitors": [
+    "ramp",
+    "brex",
+    "Expensify",
+    "Canadian big banks (RBC, TD)"
+  ]
+}

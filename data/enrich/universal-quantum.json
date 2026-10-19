@@ -1,0 +1,78 @@
+{
+  "slug": "universal-quantum",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "Haywards Heath, UK (sites in Hamburg, Germany and the US)",
+  "headcount_est": {
+    "value": "~100",
+    "as_of": "Mar 2026",
+    "source": "https://www.reveliolabs.com/companies/universal-quantum/employees"
+  },
+  "leadership": [
+    {
+      "name": "Sebastian Weidt",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/weidt",
+      "source": "https://universalquantum.com/who-we-are"
+    },
+    {
+      "name": "Winfried Hensinger",
+      "title": "Co-founder, Chief Scientist & Chairman",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cbinsights.com/company/universal-quantum/people"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-06",
+      "amount": "£3.6M",
+      "valuation": null,
+      "lead": "Hoxton Ventures, Village Global, LA ROCA Capital, Propagator, Luminous (participants)",
+      "source": "https://pomegra.io/startups/universal-quantum-raises-100m-series-a-in-2026-2026-10-13"
+    },
+    {
+      "round": "Seed",
+      "date": "2022-05",
+      "amount": null,
+      "valuation": null,
+      "lead": "Quantum Exponential",
+      "source": "https://platform.tracxn.com/a/d/company/589250dfe4b0b10da2c73c91/universal%20quantum"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$100M+",
+      "valuation": "undisclosed",
+      "lead": "DCVC, Firgun Ventures",
+      "source": "https://universalquantum.com/knowledge-hub/universal-quantum-raises-over-100m-series-a-to-scale-quantum-computing-globally"
+    }
+  ],
+  "total_raised": "$125M+ (per Tech.eu; excludes DLR contract revenue)",
+  "revenue_est": {
+    "value": "£9.2M revenue (2025), down from £17.0M (2023) and £11.3M (2024); £5.8M loss in 2025",
+    "as_of": "Dec 2025",
+    "basis": "filed accounts (press report)",
+    "source": "https://pomegra.io/startups/universal-quantum-raises-100m-series-a-in-2026-2026-10-13"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $100M+ Series A co-led by DCVC and Firgun, largest for a UK quantum firm",
+      "url": "https://thequantuminsider.com/2026/10/08/universal-quantum-raises-over-100-million-series-a/"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Plans to expand research hubs in Germany and Singapore; EDBI joins round",
+      "url": "https://www.straitstimes.com/business/singapores-edbi-roblox-ceo-back-universal-quantum-start-up-in-us100-million-series-a-round"
+    }
+  ],
+  "competitors": [
+    "Quantinuum",
+    "IonQ",
+    "Oxford Ionics",
+    "Alpine Quantum Technologies"
+  ]
+}

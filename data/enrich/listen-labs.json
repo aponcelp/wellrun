@@ -1,0 +1,88 @@
+{
+  "slug": "listen-labs",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~93",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/66077fff77ec376f75299ed0/listen%20labs"
+  },
+  "leadership": [
+    {
+      "name": "Alfred Wahlforss",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-listen-labs/"
+    },
+    {
+      "name": "Florian Juengermann",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/66077fff77ec376f75299ed0/listen%20labs"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A",
+      "date": "2025-04 (announced)",
+      "amount": "$27M",
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "https://fortune.com/2025/04/23/ai-startup-listen-labs-sequoia-27-million-funding/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-01",
+      "amount": "$69M",
+      "valuation": "$500M",
+      "lead": "Ribbit Capital",
+      "source": "https://www.prnewswire.com/news-releases/listen-labs-raises-69-million-series-b-to-bring-customer-voices-into-every-decision-302661000.html"
+    },
+    {
+      "round": "Acquisition (pending)",
+      "date": "2026-09",
+      "amount": null,
+      "valuation": null,
+      "lead": "Salesforce (definitive agreement)",
+      "source": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-listen-labs/"
+    }
+  ],
+  "total_raised": "~$100M",
+  "revenue_est": {
+    "value": "~$30M annualized revenue (people familiar)",
+    "as_of": "Sep 2026",
+    "basis": "press report",
+    "source": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Salesforce signs definitive agreement to acquire Listen Labs",
+      "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-listen-labs/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Scrapped a $125M Series C at $1.5B (Menlo) amid Salesforce talks",
+      "url": "https://web.archive.org/web/20260911192047/https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raised $69M Series B at $500M led by Ribbit Capital",
+      "url": "https://www.prnewswire.com/news-releases/listen-labs-raises-69-million-series-b-to-bring-customer-voices-into-every-decision-302661000.html"
+    },
+    {
+      "date": "2025-04",
+      "headline": "Announced $27M seed and Series A led by Sequoia",
+      "url": "https://fortune.com/2025/04/23/ai-startup-listen-labs-sequoia-27-million-funding/"
+    }
+  ],
+  "competitors": [
+    "outset",
+    "Qualtrics",
+    "UserTesting",
+    "Strella"
+  ]
+}

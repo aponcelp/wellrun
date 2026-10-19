@@ -1,0 +1,128 @@
+{
+  "slug": "crusoe",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "Denver, CO (also San Francisco)",
+  "headcount_est": {
+    "value": "~1,715",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/6577fd9ef2f4230446706fcc/crusoe"
+  },
+  "leadership": [
+    {
+      "name": "Chase Lochmiller",
+      "title": "Co-founder, CEO & Chairman",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://crusoe.ai/leadership"
+    },
+    {
+      "name": "Cully Cavness",
+      "title": "Co-founder, President & Chief Strategy Officer",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/ccavness",
+      "source": "https://crusoe.ai/leadership"
+    },
+    {
+      "name": "Michael Gordon",
+      "title": "COO & CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://web.archive.org/web/20260114075309/https://www.crusoe.ai/resources/newsroom/crusoe-closes-series-d-funding"
+    },
+    {
+      "name": "Nitin Perumbeti",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/6577fd9ef2f4230446706fcc/crusoe"
+    },
+    {
+      "name": "Tara Green",
+      "title": "Chief People Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/6577fd9ef2f4230446706fcc/crusoe"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2019-12",
+      "amount": "$30M",
+      "valuation": "$100M",
+      "lead": null,
+      "source": "https://siliconvalleyinvestclub.com/ko/companies/crusoe-energy"
+    },
+    {
+      "round": "Series D",
+      "date": "2024-12",
+      "amount": "$600M",
+      "valuation": "$2.8B",
+      "lead": "Founders Fund",
+      "source": "https://web.archive.org/web/20260928222503/https://www.crusoe.ai/resources/newsroom/crusoe-closes-series-d-funding"
+    },
+    {
+      "round": "Series E",
+      "date": "2025-10",
+      "amount": "$1.375B",
+      "valuation": "$10B",
+      "lead": "Valor Equity Partners",
+      "source": "https://siliconvalleyinvestclub.com/ko/companies/crusoe-energy"
+    },
+    {
+      "round": "Series F",
+      "date": "2026-09",
+      "amount": "$3.9B (initial close)",
+      "valuation": "$30.9B",
+      "lead": "Atreides, Mubadala Capital, Valor Equity Partners",
+      "source": "https://www.globenewswire.com/news-release/2026/09/17/3364326/0/en/crusoe-raises-3-9-billion-series-f-for-its-vertically-integrated-ai-infrastructure-platform.html"
+    }
+  ],
+  "total_raised": "~$6.6B+ equity (est.; excludes project/debt financing)",
+  "revenue_est": {
+    "value": "~$694M (Tracxn estimate)",
+    "as_of": "2026",
+    "basis": "estimate",
+    "source": "https://platform.tracxn.com/a/d/company/6577fd9ef2f4230446706fcc/crusoe"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Developing new data center campus in Armstrong County, Texas",
+      "url": "https://www.crusoe.ai/resources/newsroom"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Raises $3.9B Series F at $30.9B for data centers and modular AI factories",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Signs multiyear cloud agreement with Perplexity",
+      "url": "https://markets.businessinsider.com/news/stocks/crusoe-perplexity-ai-deal-highlights-demand-for-nvidia-gb300-chips-1036548089"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Signs ~$13B five-year AI cloud contract with Jane Street (Bloomberg)",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/crusoe-signs-roughly-13-billion-ai-cloud-deal-with-jane-street"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Announces 1GW AI data center campus with Lancium in Childress, Texas",
+      "url": "https://www.crusoe.ai/resources/newsroom"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Appoints ex-MongoDB exec Michael Gordon as COO and CFO",
+      "url": "https://web.archive.org/web/20260114075309/https://www.crusoe.ai/resources/newsroom/crusoe-closes-series-d-funding"
+    }
+  ],
+  "competitors": [
+    "CoreWeave",
+    "Nebius",
+    "Lambda",
+    "together-ai",
+    "vultr"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "runpod",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "San Francisco, CA (offices in New Jersey)",
+  "headcount_est": {
+    "value": "~142",
+    "as_of": "Sep 2026",
+    "source": "https://tracxn.com/d/companies/runpod/__fmUJ0oyBYH3F6QbwBUl3wrJN0Y1huzsUOz86E5EEvWI"
+  },
+  "leadership": [
+    {
+      "name": "Zhen Lu",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20240508053225/en/RunPod-Raises-$20M-in-Seed-Funding-Co-led-by-Intel-Capital-and-Dell-Technologies-Capital"
+    },
+    {
+      "name": "Pardeep Singh",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://tracxn.com/d/companies/runpod/__fmUJ0oyBYH3F6QbwBUl3wrJN0Y1huzsUOz86E5EEvWI"
+    },
+    {
+      "name": "Brian Erickson",
+      "title": "CFO (ex-DigitalOcean)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.runpod.io/press/runpod-325m-arr-new-cfo"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-05",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Intel Capital, Dell Technologies Capital",
+      "source": "https://www.businesswire.com/news/home/20240508053225/en/RunPod-Raises-$20M-in-Seed-Funding-Co-led-by-Intel-Capital-and-Dell-Technologies-Capital"
+    },
+    {
+      "round": "Series A / growth",
+      "date": "2026-06",
+      "amount": "$100M",
+      "valuation": "$1B",
+      "lead": "Summit Partners",
+      "source": "https://www.summitpartners.com/news/%20runpod-raises-100m-led-by-summit-partners-to-accelerate-the-ai-developer-cloud"
+    }
+  ],
+  "total_raised": "~$122M (Tracxn, 4 rounds)",
+  "revenue_est": {
+    "value": "$325M ARR",
+    "as_of": "Oct 2026",
+    "basis": "company-stated",
+    "source": "https://www.runpod.io/press/runpod-325m-arr-new-cfo"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Passed $325M ARR and hired ex-DigitalOcean CFO Brian Erickson",
+      "url": "https://www.runpod.io/press/runpod-325m-arr-new-cfo"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Fall 2026 State of AI Compute report: B200 list prices up 31% Jan–Aug",
+      "url": "https://www.runpod.io/press/runpod-fall-2026-state-of-ai-compute"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Raised $100M led by Summit Partners at $1B valuation",
+      "url": "https://thenextweb.com/news/runpod-100m-summit-partners-1bn-valuation"
+    },
+    {
+      "date": "2025",
+      "headline": "Glassdoor reviews describe an unannounced mid-2025 layoff",
+      "url": "https://www.glassdoor.com/Reviews/Runpod-layoff-Reviews-EI_IE10032056.0,6_KH7,13.htm"
+    }
+  ],
+  "competitors": [
+    "vast-ai",
+    "together-ai",
+    "modal",
+    "CoreWeave",
+    "Lambda"
+  ]
+}

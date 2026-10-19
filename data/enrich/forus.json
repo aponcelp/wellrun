@@ -1,0 +1,85 @@
+{
+  "slug": "forus",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~211",
+    "as_of": "Oct 2026",
+    "source": "https://research.crustdata.com/company/forus"
+  },
+  "leadership": [
+    {
+      "name": "Sahir Jaggi",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260512458472/en/Forus-Raises-%24160M-to-Build-the-Foundation-for-Modern-Medicine"
+    },
+    {
+      "name": "Andrew Beinstein",
+      "title": "Head of Engineering",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://research.crustdata.com/company/forus"
+    },
+    {
+      "name": "Adam Harris, MD",
+      "title": "Head of Clinical Intelligence",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://research.crustdata.com/company/forus"
+    },
+    {
+      "name": "Sabrina Low",
+      "title": "General Counsel",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://research.crustdata.com/company/forus"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed–Series B (aggregate, as Tandem)",
+      "date": "2026-05",
+      "amount": "$160M+",
+      "valuation": "~$1B",
+      "lead": "Thrive Capital, General Catalyst, Accel (backers)",
+      "source": "https://www.businesswire.com/news/home/20260512458472/en/Forus-Raises-%24160M-to-Build-the-Foundation-for-Modern-Medicine"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-09",
+      "amount": "$150M",
+      "valuation": "$3B",
+      "lead": "Bain Capital Ventures",
+      "source": "https://www.businesswire.com/news/home/20260908463918/en/Forus-Raises-%24150M-at-a-%243B-Valuation-as-Its-AI-Network-Becomes-How-Medicine-Reaches-Patients"
+    }
+  ],
+  "total_raised": "$300M+ (company-stated)",
+  "revenue_est": {
+    "value": "ARR >$10M at end-2025, ~5x by May 2026; company expected $50M+ annualized revenue in 2026",
+    "as_of": "May 2026",
+    "basis": "press report",
+    "source": "https://www.citybiz.co/article/845561/forus-raises-160m-to-enable-faster-access-to-prescription-drugs/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raises $150M Series C at $3B led by Bain Capital Ventures",
+      "url": "https://www.fiercehealthcare.com/health-tech/forus-secures-150m-series-c-3b-valuation"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Rebrands from Tandem to Forus; announces $160M raised, reaches $1B valuation",
+      "url": "https://www.bizjournals.com/newyork/news/2026/05/12/nyc-health-tech-startup-reaches-unicorn-status.html"
+    }
+  ],
+  "competitors": [
+    "CoverMyMeds (McKesson)",
+    "Develop Health",
+    "Infinitus",
+    "Silna Health",
+    "Cohere Health"
+  ]
+}

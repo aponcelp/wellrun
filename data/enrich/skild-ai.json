@@ -1,0 +1,26 @@
+{
+  "slug": "skild-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "Pittsburgh, PA",
+  "headcount_est": null,
+  "leadership": [
+    {"name": "Deepak Pathak", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-%241.4B-Now-Valued-Over-%2414B"},
+    {"name": "Abhinav Gupta", "title": "Co-founder & President", "founder": true, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/663c8cdb24b7cd6fbda98de6/skild"}
+  ],
+  "funding_history": [
+    {"round": "Series A", "date": "2024-07", "amount": "$300M", "valuation": "$1.5B", "lead": "Lightspeed, Coatue, SoftBank & Bezos Expeditions", "source": "https://www.businesswire.com/news/home/20240709306400/en/Skild-AI-Raises-$300M-Series-A-To-Build-A-Scalable-AI-Foundation-Model-For-Robotics"},
+    {"round": "Series B", "date": "2025", "amount": "~$500M (reported)", "valuation": "~$4B (reported)", "lead": "SoftBank", "source": "http://techcrunch.com/2025/01/28/softbank-to-invest-500m-in-robotics-startup-skildai"},
+    {"round": "Series C", "date": "2026-01", "amount": "~$1.4B", "valuation": "$14B+", "lead": "SoftBank", "source": "https://www.skild.ai/blogs/series-c"}
+  ],
+  "total_raised": "~$2.2B (incl. reported Series B)",
+  "revenue_est": {"value": "$100M+ ARR ($50M recognized in first 10 months)", "as_of": "Sep 2026", "basis": "company-stated", "source": "https://www.skild.ai/blogs/how-to-make-100m"},
+  "news_timeline": [
+    {"date": "2026-09", "headline": "Crosses $100M ARR ten months after first deployment; 60+ paying customers", "url": "https://skild.ai/blogs/skild-crosses-100m-arr"},
+    {"date": "2026-08", "headline": "Introduces S1 flagship robot foundation model that learns from one video", "url": "https://www.securities.io/skild-ai-crosses-100-million-annual-revenue-run-rate-in-ten-months"},
+    {"date": "2026-04", "headline": "Acquires Zebra Technologies' robotics automation (Fetch) business", "url": "https://thenextweb.com/news/skild-ai-100m-run-rate-eu-rules"},
+    {"date": "2026-03", "headline": "Expands NVIDIA, ABB Robotics and Universal Robots partnerships", "url": "https://www.miragenews.com/skild-ai-boosts-robot-intelligence-with-abb-1638146"},
+    {"date": "2026-01", "headline": "Raises ~$1.4B Series C at $14B+ led by SoftBank", "url": "https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-%241.4B-Now-Valued-Over-%2414B"}
+  ],
+  "competitors": ["Physical Intelligence", "figure-ai", "Covariant", "Field AI", "general-intuition"]
+}

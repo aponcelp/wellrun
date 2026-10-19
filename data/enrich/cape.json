@@ -1,0 +1,84 @@
+{
+  "slug": "cape",
+  "checked": "Oct 19, 2026",
+  "founded": null,
+  "hq": "Arlington, VA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "John Doyle",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cape.co/blog/announcing-our-series-c"
+    },
+    {
+      "name": "Nicholas Espinoza",
+      "title": "Co-founder & Head of R&D",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/59056aa7e4b095f1bce6e825/cape"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A",
+      "date": "pre-2024",
+      "amount": "$21M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2024/04/18/cape-dials-up-61m-from-a16z-more-for-mobile-service-that-doesnt-use-personal-data"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-04",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "A*, Andreessen Horowitz",
+      "source": "https://www.businesswire.com/news/home/20240418101671/en/Cape-Raises-61M-to-Build-Ultra-Private-and-Secure-Mobile-Carrier"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-03",
+      "amount": "$100M",
+      "valuation": "$900M",
+      "lead": "Bain Capital Ventures, IVP",
+      "source": "https://www.cape.co/blog/announcing-our-series-c"
+    }
+  ],
+  "total_raised": "$191M (company-stated; includes ~$30M not itemized publicly)",
+  "revenue_est": {
+    "value": "$37M revenue (2025), up from $4.5M in 2024",
+    "as_of": "2025",
+    "basis": "press report",
+    "source": "https://www.forbes.com/sites/thomasbrewster/2026/03/19/ex-palantir-duo-built-a-900-million-anti-surveillance-cell-network/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launched Multi-Network Coverage: one number switches between two national networks",
+      "url": "https://www.cape.co/blog/product-feature-multi-network-coverage"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Raised $100M Series C at $900M co-led by Bain Capital Ventures and IVP",
+      "url": "https://www.cape.co/blog/announcing-our-series-c"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Forbes profiles the ex-Palantir duo's $900M anti-surveillance network",
+      "url": "https://www.forbes.com/sites/thomasbrewster/2026/03/19/ex-palantir-duo-built-a-900-million-anti-surveillance-cell-network/"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Exited beta and launched nationwide service to consumers",
+      "url": "https://www.businesswire.com/news/home/20260127583129/en/Privacy-first-Mobile-Carrier-Cape-Launches-Nationwide-Service-to-Consumers"
+    }
+  ],
+  "competitors": [
+    "Verizon",
+    "AT&T (FirstNet)",
+    "T-Mobile",
+    "Efani"
+  ]
+}

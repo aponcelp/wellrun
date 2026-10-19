@@ -1,0 +1,114 @@
+{
+  "slug": "kalshi",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~370",
+    "as_of": "Mar 2026",
+    "source": "https://siliconvalleyinvestclub.com/companies/kalshi"
+  },
+  "leadership": [
+    {
+      "name": "Tarek Mansour",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/mansourtarek",
+      "source": "https://siliconvalleyinvestclub.com/companies/kalshi"
+    },
+    {
+      "name": "Luana Lopes Lara",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/kalshi"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021-02",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "https://siliconvalleyinvestclub.com/companies/kalshi"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-06",
+      "amount": "$185M",
+      "valuation": "$2B",
+      "lead": "Paradigm",
+      "source": "https://news.kalshi.com/p/kalshi-raises-185-million-2-billion-valuation"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-10",
+      "amount": "$300M",
+      "valuation": "$5B",
+      "lead": "Andreessen Horowitz, Sequoia",
+      "source": "https://news.kalshi.com/p/kalshi-hits-5-billion-valuation-amid-international-expansion"
+    },
+    {
+      "round": "Series E",
+      "date": "2025-12",
+      "amount": "$1B",
+      "valuation": "$11B",
+      "lead": "Paradigm",
+      "source": "https://news.kalshi.com/p/kalshi-11-billion-valuation-series-e"
+    },
+    {
+      "round": "Series F",
+      "date": "2026-05",
+      "amount": "$1B",
+      "valuation": "$22B",
+      "lead": "Coatue",
+      "source": "https://news.kalshi.com/p/kalshi-raises-1-billion-22-billion-valuation-institutional-demand-surges"
+    }
+  ],
+  "total_raised": "~$2.5B+ (SVIC lists ~$4.5B incl. duplicate/unconfirmed tranches)",
+  "revenue_est": {
+    "value": "~$2B annualized revenue",
+    "as_of": "Jun 2026",
+    "basis": "press report",
+    "source": "https://siliconvalleyinvestclub.com/2026/06/22/kalshi-explores-ipo-after-crossing-2b-in-annualized-revenue-at-22b-valuation/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Ends volume-based rewards program amid regulatory scrutiny",
+      "url": "https://sbcamericas.com/2026/10/02/kalshi-end-volume-rewards-scrutiny"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Another court rules Kalshi sports contracts aren't swaps; states can act",
+      "url": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Reported to be finalizing ~$1B raise at ~$40B valuation",
+      "url": "https://cryptobriefing.com/kalshi-nears-1-billion-raise-40-billion-valuation/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Added 3 million new users during the FIFA World Cup",
+      "url": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raised $1B Series F at $22B valuation led by Coatue",
+      "url": "https://news.kalshi.com/p/kalshi-raises-1-billion-22-billion-valuation-institutional-demand-surges"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Raised $1B Series E at $11B valuation led by Paradigm",
+      "url": "https://news.kalshi.com/p/kalshi-11-billion-valuation-series-e"
+    }
+  ],
+  "competitors": [
+    "Polymarket",
+    "Robinhood (prediction markets)",
+    "Crypto.com",
+    "PredictIt"
+  ]
+}

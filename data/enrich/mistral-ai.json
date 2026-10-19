@@ -1,0 +1,138 @@
+{
+  "slug": "mistral-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "Paris, France",
+  "headcount_est": {
+    "value": "1,000+",
+    "as_of": "2026",
+    "source": "https://en.wikipedia.org/wiki/Mistral_AI"
+  },
+  "leadership": [
+    {
+      "name": "Arthur Mensch",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/arthur-mensch",
+      "source": "https://mistral.ai/en/about"
+    },
+    {
+      "name": "Guillaume Lample",
+      "title": "Co-founder & Chief Science Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://mistral.ai/en/about"
+    },
+    {
+      "name": "Timothée Lacroix",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://mistral.ai/en/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-06",
+      "amount": "€105M (~$117M)",
+      "valuation": "~€240M",
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://en.wikipedia.org/wiki/Mistral_AI"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-12",
+      "amount": "€385M (~$428M)",
+      "valuation": "~€2B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://en.wikipedia.org/wiki/Mistral_AI"
+    },
+    {
+      "round": "Strategic (Microsoft)",
+      "date": "2024-02",
+      "amount": "$16M",
+      "valuation": null,
+      "lead": "Microsoft",
+      "source": "https://en.wikipedia.org/wiki/Mistral_AI"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-06",
+      "amount": "€600M (~$645M)",
+      "valuation": "€5.8B",
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Mistral_AI"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-09",
+      "amount": "€1.7B",
+      "valuation": "€11.7B–€12B",
+      "lead": "ASML",
+      "source": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/"
+    },
+    {
+      "round": "Debt",
+      "date": "2026-03",
+      "amount": "$830M (data center financing)",
+      "valuation": null,
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Mistral_AI"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-09",
+      "amount": "€3B (~$3.5B)",
+      "valuation": "€21B+",
+      "lead": "Samsung Electronics",
+      "source": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": {
+    "value": "$400M+ ARR, targeting $1B in 2026",
+    "as_of": "Feb 2026",
+    "basis": "company-stated",
+    "source": "https://finance.yahoo.com/technology/ai/articles/mistral-ai-everything-know-openai-194318445.html"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raises €3B Series D at €21B+ led by Samsung",
+      "url": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Signs multibillion-dollar European AI infrastructure deal with Microsoft",
+      "url": "https://en.wikipedia.org/wiki/Mistral_AI"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Acquires Austrian industrial-simulation AI startup Emmi AI",
+      "url": "https://en.wikipedia.org/wiki/Mistral_AI"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Raises $830M to build data centers near Paris and in Sweden",
+      "url": "https://en.wikipedia.org/wiki/Mistral_AI"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Acquires Paris AI infrastructure startup Koyeb",
+      "url": "https://en.wikipedia.org/wiki/Mistral_AI"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Raises €1.7B Series C led by ASML, valued around €12B",
+      "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/"
+    }
+  ],
+  "competitors": [
+    "openai",
+    "anthropic",
+    "cohere",
+    "Google DeepMind",
+    "Meta (Llama)"
+  ]
+}

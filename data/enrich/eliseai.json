@@ -1,0 +1,125 @@
+{
+  "slug": "eliseai",
+  "checked": "Oct 19, 2026",
+  "founded": 2017,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "251–500 (Crunchbase range)",
+    "as_of": "2026",
+    "source": "https://www.crunchbase.com/organization/meetelise"
+  },
+  "leadership": [
+    {
+      "name": "Minna Song",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20240814601656/en/EliseAI-World-Leader-in-AI-Enabled-Solutions-for-Housing-Raises-%2475-Million-Series-D-Round-Valuing-Company-in-Excess-of-%241-Billion"
+    },
+    {
+      "name": "Tony Stoyanov",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20240814601656/en/EliseAI-World-Leader-in-AI-Enabled-Solutions-for-Housing-Raises-%2475-Million-Series-D-Round-Valuing-Company-in-Excess-of-%241-Billion"
+    },
+    {
+      "name": "Ian Weng",
+      "title": "Chief Strategy Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/60005473d2cd161f1d0ca21e/eliseai"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2021-12",
+      "amount": "$23.5M",
+      "valuation": null,
+      "lead": "Navitas Capital, JLL Spark",
+      "source": "https://www.revenuememo.com/p/eliseai-funding"
+    },
+    {
+      "round": "Debt",
+      "date": "2022-08",
+      "amount": "$15M credit line (raised to $30M Dec 2023)",
+      "valuation": null,
+      "lead": "Bridge Bank",
+      "source": "https://www.revenuememo.com/p/eliseai-funding"
+    },
+    {
+      "round": "Series C",
+      "date": "2023-06",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Point72 Ventures",
+      "source": "https://tracxn.com/d/companies/eliseai/__frC_1IDVJYdO6D1sDs1wID8oSQfzoVZH1wRXFipczc8/funding-and-investors"
+    },
+    {
+      "round": "Series D",
+      "date": "2024-08",
+      "amount": "$75M",
+      "valuation": "~$1B",
+      "lead": "Sapphire Ventures",
+      "source": "http://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding"
+    },
+    {
+      "round": "Series E",
+      "date": "2025-08",
+      "amount": "$250M",
+      "valuation": "~$2.2B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.businesswire.com/news/home/20250820023566/en"
+    },
+    {
+      "round": "Series F",
+      "date": "2026-09",
+      "amount": "$350M",
+      "valuation": "$4B",
+      "lead": "Andreessen Horowitz, Bessemer (co-led)",
+      "source": "https://www.globenewswire.com/news-release/2026/09/29/3370681/0/en/eliseai-raises-350-million-at-4-billion-valuation-to-bring-ai-deeper-into-housing-and-healthcare.html"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": {
+    "value": "$200M+ ARR, 100% YoY growth five years running",
+    "as_of": "Jun 2026",
+    "basis": "company-stated",
+    "source": "https://eliseai.com/blog/eliseai-hits-200m-arr-after-five-consecutive-years-of-100-growth-across-housing-and-healthcare"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Named Nextech co-development partner for voice AI in specialty practices",
+      "url": "https://www.globenewswire.com/news-release/2026/10/09/3378185/0/en/eliseai-named-as-co-development-partner-with-nextech-to-bring-agentic-voiceai-to-specialty-practices.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Raises $350M at $4B co-led by a16z and Bessemer",
+      "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launches Apollo, an agentic AI teammate for multifamily operators",
+      "url": "https://www.globenewswire.com/news-release/2026/09/03/3355976/0/en/eliseai-unveils-apollo-one-ai-teammate-built-to-work-across-every-multifamily-role.html"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Passes $200M ARR after five straight years of 100% growth",
+      "url": "https://eliseai.com/blog/eliseai-hits-200m-arr-after-five-consecutive-years-of-100-growth-across-housing-and-healthcare"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Raises $250M Series E led by Andreessen Horowitz",
+      "url": "https://www.businesswire.com/news/home/20250820023566/en"
+    }
+  ],
+  "competitors": [
+    "RealPage (Lumina)",
+    "Yardi",
+    "Entrata",
+    "Funnel Leasing",
+    "AppFolio"
+  ]
+}

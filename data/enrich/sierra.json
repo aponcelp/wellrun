@@ -1,0 +1,114 @@
+{
+  "slug": "sierra",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "nearly 800 across 12 offices",
+    "as_of": "Jun 2026",
+    "source": "https://www.linkedin.com/posts/nluppov_a-privilege-to-celebrate-3-years-at-sierra-activity-7467773172772360192-2fBr"
+  },
+  "leadership": [
+    {
+      "name": "Bret Taylor",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/amp/2026/05/04/bret-taylor-sierra-fundraise-openai.html"
+    },
+    {
+      "name": "Clay Bavor",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2024/10/28/bret-taylors-customer-service-ai-startup-just-raised-175m"
+    },
+    {
+      "name": "Julia Brau Donnelly",
+      "title": "CFO (ex-Pinterest CFO)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://sierra.ai/uk/blog/julia-brau-donnelly-joins-sierra"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A",
+      "date": "2024-02",
+      "amount": "$110M",
+      "valuation": "~$1B",
+      "lead": "Sequoia Capital, Benchmark",
+      "source": "https://fortune.com/2024/02/13/bret-taylor-clay-bavor-ai-startup-sierra-110-million-funding-sequoia-benchmark"
+    },
+    {
+      "round": "Series C",
+      "date": "2024-10",
+      "amount": "$175M",
+      "valuation": "$4.5B",
+      "lead": "Greenoaks Capital",
+      "source": "http://techcrunch.com/2024/10/28/bret-taylors-customer-service-ai-startup-just-raised-175m"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-09",
+      "amount": "$350M",
+      "valuation": "$10B",
+      "lead": "Greenoaks Capital",
+      "source": "https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation"
+    },
+    {
+      "round": "Series E",
+      "date": "2026-05",
+      "amount": "$950M",
+      "valuation": "$15.8B",
+      "lead": "Tiger Global, GV",
+      "source": "https://www.cnbc.com/amp/2026/05/04/bret-taylor-sierra-fundraise-openai.html"
+    }
+  ],
+  "total_raised": "~$1.585B (CB Insights)",
+  "revenue_est": {
+    "value": "$200M ARR, two quarters after $100M (Nov 2025)",
+    "as_of": "May 2026",
+    "basis": "company-stated",
+    "source": "https://www.linkedin.com/posts/brettaylor_sierra-just-hit-200m-in-arr-it-took-seven-activity-7466233808489566209-QsxX"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches Personal Agent Protocol with Meta, Stripe, Walmart and 40+ partners",
+      "url": "https://sierra.ai/blog/introducing-personal-agent-protocol"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Hires former Pinterest CFO Julia Brau Donnelly as CFO",
+      "url": "https://sierra.ai/uk/blog/julia-brau-donnelly-joins-sierra"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Crosses $200M ARR; earns FedRAMP High authorization",
+      "url": "https://www.tbpndigest.com/story/2026-06-10/sierra-crosses-200m-arr-and-earns-fedramp-high-certification-opening-the-door-to-federal-government-contracts"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raises $950M Series E at $15.8B led by Tiger Global and GV",
+      "url": "https://www.cnbc.com/amp/2026/05/04/bret-taylor-sierra-fundraise-openai.html"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Reaches $100M ARR in seven quarters",
+      "url": "https://sierra.ai/blog/100m-arr"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Raises $350M at $10B led by Greenoaks",
+      "url": "https://www.cnbc.com/amp/2025/09/04/bret-taylor-sierra-ai-startup-salesforce-openai.html"
+    }
+  ],
+  "competitors": [
+    "decagon",
+    "parloa",
+    "Salesforce Agentforce",
+    "polyai",
+    "cresta"
+  ]
+}

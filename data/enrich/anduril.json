@@ -1,0 +1,189 @@
+{
+  "slug": "anduril",
+  "checked": "Oct 19, 2026",
+  "founded": 2017,
+  "hq": "Costa Mesa, CA",
+  "headcount_est": {
+    "value": "~8,000",
+    "as_of": "2026",
+    "source": "https://www.forbes.com/profile/brian-schimpf"
+  },
+  "leadership": [
+    {
+      "name": "Palmer Luckey",
+      "title": "Founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.anduril.com/leadership"
+    },
+    {
+      "name": "Brian Schimpf",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/bschimpf",
+      "source": "https://www.anduril.com/leadership"
+    },
+    {
+      "name": "Trae Stephens",
+      "title": "Co-founder & Executive Chairman",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.anduril.com/leadership"
+    },
+    {
+      "name": "Matt Grimm",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.anduril.com/leadership"
+    },
+    {
+      "name": "Joseph Chen",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.anduril.com/leadership"
+    },
+    {
+      "name": "Christian Brose",
+      "title": "President & Chief Strategy Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.anduril.com/leadership"
+    },
+    {
+      "name": "Matthew Steckman",
+      "title": "President & Chief Business Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://anduril.com/anduril-leadership"
+    },
+    {
+      "name": "Babak Siavoshy",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://anduril.com/anduril-leadership"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2017-08",
+      "amount": "$17.5M",
+      "valuation": null,
+      "lead": "Founders Fund",
+      "source": "http://clay.com/dossier/anduril-industries-funding"
+    },
+    {
+      "round": "Series A",
+      "date": "2018-06",
+      "amount": "$41M",
+      "valuation": null,
+      "lead": "Founders Fund",
+      "source": "http://clay.com/dossier/anduril-industries-funding"
+    },
+    {
+      "round": "Series B",
+      "date": "2019-09",
+      "amount": "$120-127M",
+      "valuation": null,
+      "lead": "Founders Fund, General Catalyst",
+      "source": "http://clay.com/dossier/anduril-industries-funding"
+    },
+    {
+      "round": "Series C",
+      "date": "2020-07",
+      "amount": "$200M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "http://clay.com/dossier/anduril-industries-funding"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-06",
+      "amount": "$450M",
+      "valuation": "$4.6B",
+      "lead": "Elad Gil",
+      "source": "http://anduril.com/news/anduril-raises-usd450-million-in-series-d-funding"
+    },
+    {
+      "round": "Series E",
+      "date": "2022-12",
+      "amount": "$1.48B",
+      "valuation": "$8.48B",
+      "lead": "Valor Equity Partners",
+      "source": "https://www.anduril.com/news/anduril-raises-usd1-48-billion-in-series-e-funding"
+    },
+    {
+      "round": "Series F",
+      "date": "2024-08",
+      "amount": "$1.5B",
+      "valuation": "$14B",
+      "lead": "Founders Fund, Sands Capital",
+      "source": "https://siliconvalleyinvestclub.com/pt/funding-rounds?q=Anduril%20Industries"
+    },
+    {
+      "round": "Series G",
+      "date": "2025-06",
+      "amount": "$2.5B",
+      "valuation": "$30.5B",
+      "lead": "Founders Fund",
+      "source": "https://www.cnbc.com/amp/2025/06/05/anduril-valuation-founders-fund.html"
+    },
+    {
+      "round": "Series H",
+      "date": "2026-05",
+      "amount": "$5B",
+      "valuation": "$61B",
+      "lead": "Thrive Capital, Andreessen Horowitz",
+      "source": "https://www.anduril.com/news/anduril-announces-usd5b-series-h-raise"
+    }
+  ],
+  "total_raised": "~$11.4B",
+  "revenue_est": {
+    "value": "$2.2B revenue (2025); ~$4.3B projected 2026",
+    "as_of": "2025",
+    "basis": "press report",
+    "source": "http://sacra-pdfs.s3.us-east-2.amazonaws.com/anduril.pdf"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Employee tender offer values Anduril at $90B",
+      "url": "https://www.cnbc.com/2026/10/14/anduril-tender-offer-valuation.html"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Won $1.8B Army contract to expand Lattice battlefield command system",
+      "url": "https://www.andurilnews.com/"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raised $5B Series H at $61B led by Thrive Capital and a16z",
+      "url": "https://www.anduril.com/news/anduril-announces-usd5b-series-h-raise"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Army awards 10-year enterprise contract worth up to $20B",
+      "url": "https://www.army.mil/article/291074/u_s_army_awards_enterprise_contract_for_it_commercial_solutions"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Began building YFQ-44 fighter prototypes at Arsenal-1 plant in Ohio",
+      "url": "https://defence-industry.eu/tag/anduril"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Reuters reports drone crashes and test setbacks across programs",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-defense-firm-anduril-faces-setbacks-drone-crashes-2025-11-27/"
+    }
+  ],
+  "competitors": [
+    "shield-ai",
+    "saronic",
+    "Palantir",
+    "Lockheed Martin",
+    "General Atomics"
+  ]
+}

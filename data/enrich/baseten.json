@@ -1,0 +1,111 @@
+{
+  "slug": "baseten",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~415",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/6001d7bf28a00f1e2cf2dbef/baseten%20technologies"
+  },
+  "leadership": [
+    {
+      "name": "Tuhin Srivastava",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://baseten.co/author/tuhin-srivastava"
+    },
+    {
+      "name": "Amir Haghighat",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/amirhaghighat",
+      "source": "https://siliconvalleyinvestclub.com/ko/companies/baseten"
+    },
+    {
+      "name": "Philip Howes",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://baseten.co/blog/announcing-our-series-f"
+    },
+    {
+      "name": "Pankaj Gupta",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://baseten.co/blog/announcing-our-series-f"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series C",
+      "date": "2025-02",
+      "amount": "$75M",
+      "valuation": null,
+      "lead": "IVP, Spark Capital",
+      "source": "https://siliconvalleyinvestclub.com/ja/companies/baseten/tear-sheet.pdf"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-09",
+      "amount": "$150M",
+      "valuation": "$2.15B",
+      "lead": "BOND",
+      "source": "https://www.businesswire.com/news/home/20250905680113/en/Baseten-Secures-$150M-Series-D-as-the-Premier-Inference-Platform-for-AIs-App-Layer"
+    },
+    {
+      "round": "Series E",
+      "date": "2026-01",
+      "amount": "$300M",
+      "valuation": "$5B",
+      "lead": "IVP, CapitalG",
+      "source": "https://baseten.co/blog/announcing-baseten-s-300m-series-e"
+    },
+    {
+      "round": "Series F",
+      "date": "2026-06",
+      "amount": "$1.5B",
+      "valuation": "$13B",
+      "lead": "Altimeter, Conviction, Spark Capital (co-leads Sands, Wellington)",
+      "source": "https://baseten.co/blog/announcing-our-series-f"
+    }
+  ],
+  "total_raised": "~$2.1B+",
+  "revenue_est": {
+    "value": "~$600M annualized revenue (Sacra est.); revenue up 20x YoY (company)",
+    "as_of": "Mar 2026",
+    "basis": "estimate",
+    "source": "https://sacra.com/c/baseten"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Joins OpenAI's B2B marketplace to serve open models in Codex and API",
+      "url": "https://www.baseten.co/blog/baseten-openai-partnership"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Raises $1.5B Series F at $13B; revenue up 20x in a year",
+      "url": "https://baseten.co/blog/announcing-our-series-f"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raises $300M Series E at $5B led by IVP and CapitalG",
+      "url": "https://baseten.co/blog/announcing-baseten-s-300m-series-e"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Raises $150M Series D at $2.15B led by BOND",
+      "url": "https://www.businesswire.com/news/home/20250905680113/en/Baseten-Secures-$150M-Series-D-as-the-Premier-Inference-Platform-for-AIs-App-Layer"
+    }
+  ],
+  "competitors": [
+    "fireworks-ai",
+    "together-ai",
+    "modal",
+    "deepinfra",
+    "fal-ai"
+  ]
+}

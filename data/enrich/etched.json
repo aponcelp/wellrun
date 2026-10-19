@@ -1,0 +1,28 @@
+{
+  "slug": "etched",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "San Jose, CA",
+  "headcount_est": {"value": "400+", "as_of": "Aug 2026", "source": "https://www.globenewswire.com/news-release/2026/08/18/3347095/0/en/etched-raises-700m-at-a-21b-valuation-and-completes-first-customer-delivery-to-jane-street.html"},
+  "leadership": [
+    {"name": "Gavin Uberti", "title": "Co-founder & CEO", "founder": true, "linkedin": "https://linkedin.com/in/guberti", "source": "https://www.globenewswire.com/news-release/2026/08/18/3347095/0/en/etched-raises-700m-at-a-21b-valuation-and-completes-first-customer-delivery-to-jane-street.html"},
+    {"name": "Robert Wachen", "title": "Co-founder & President", "founder": true, "linkedin": null, "source": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip"},
+    {"name": "Chris Zhu", "title": "Co-founder", "founder": true, "linkedin": null, "source": "https://www.siliconrepublic.com/start-ups/ai-chip-start-up-etched-raises-700m-at-21bn-valuation"}
+  ],
+  "funding_history": [
+    {"round": "Seed", "date": "2023-03", "amount": "$5.4M", "valuation": "$34M", "lead": null, "source": "https://ca.finance.yahoo.com/news/ai-startup-etched-raises-120-120324173.html"},
+    {"round": "Series A", "date": "2024-06", "amount": "$120M", "valuation": null, "lead": "Primary Venture Partners & Positive Sum", "source": "https://www.cnbc.com/2024/06/25/etched-raises-120-million-to-build-chip-to-take-on-nvidia-in-ai.html"},
+    {"round": "Series B", "date": "2025-12", "amount": "$500M", "valuation": "$5B", "lead": null, "source": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip"},
+    {"round": "Series C", "date": "2026-07", "amount": "$300M", "valuation": "$10.3B", "lead": "Sequoia Capital", "source": "https://www.siliconrepublic.com/start-ups/ai-chip-start-up-etched-raises-700m-at-21bn-valuation"},
+    {"round": "Series D", "date": "2026-08", "amount": "$700M", "valuation": "$21B", "lead": "Jane Street", "source": "https://www.globenewswire.com/news-release/2026/08/18/3347095/0/en/etched-raises-700m-at-a-21b-valuation-and-completes-first-customer-delivery-to-jane-street.html"}
+  ],
+  "total_raised": "~$1.5B+",
+  "revenue_est": {"value": "~$1B in sales (bookings, company-stated)", "as_of": "Jun 2026", "basis": "company-stated", "source": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip"},
+  "news_timeline": [
+    {"date": "2026-10", "headline": "Fielding funding offers at $40B+ valuation two months after $21B round (sources)", "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/"},
+    {"date": "2026-08", "headline": "Raises $700M at $21B led by Jane Street; ships first rack to Jane Street", "url": "https://www.globenewswire.com/news-release/2026/08/18/3347095/0/en/etched-raises-700m-at-a-21b-valuation-and-completes-first-customer-delivery-to-jane-street.html"},
+    {"date": "2026-07", "headline": "Closes $300M Series C at $10.3B led by Sequoia", "url": "https://www.siliconrepublic.com/start-ups/ai-chip-start-up-etched-raises-700m-at-21bn-valuation"},
+    {"date": "2026-06", "headline": "Emerges from stealth with working chip, $5B valuation and $1B in sales", "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip"}
+  ],
+  "competitors": ["Nvidia", "Groq", "Cerebras", "sambanova", "positron-ai"]
+}

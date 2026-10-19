@@ -1,0 +1,118 @@
+{
+  "slug": "cresta",
+  "checked": "Oct 19, 2026",
+  "founded": 2017,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~730",
+    "as_of": "Jun 2026",
+    "source": "https://siliconvalleyinvestclub.com/de/companies/cresta/tear-sheet.pdf"
+  },
+  "leadership": [
+    {
+      "name": "Zayd Enam",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/zaydenam/",
+      "source": "https://cresta.com/press/cresta-closes-125m-series-d-to-accelerate-adoption-of-human-centric-ai-in-the-contact-center"
+    },
+    {
+      "name": "Tim Shi",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/tianlinshi/",
+      "source": "https://cresta.com/press/cresta-closes-125m-series-d-to-accelerate-adoption-of-human-centric-ai-in-the-contact-center"
+    },
+    {
+      "name": "Sebastian Thrun",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/sebastian-thrun-59a0b273",
+      "source": "https://cresta.com/press/cresta-closes-125m-series-d-to-accelerate-adoption-of-human-centric-ai-in-the-contact-center"
+    },
+    {
+      "name": "Ping Wu",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/pingwu",
+      "source": "https://cresta.com/press/cresta-launches-21m-funding-enable"
+    },
+    {
+      "name": "Alex Cramer",
+      "title": "CRO",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/alexcramer",
+      "source": "https://cresta.com/press/cresta-launches-21m-funding-enable"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2020",
+      "amount": "$21M",
+      "valuation": null,
+      "lead": "Greylock, Andreessen Horowitz",
+      "source": "https://cresta.com/press/cresta-launches-21m-funding-enable"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-03",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "https://cresta.com/es/press/sequoia-greylock-and-a16z-back-crestas"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-03",
+      "amount": "$80M",
+      "valuation": "$1.6B",
+      "lead": "Tiger Global",
+      "source": "https://www.prnewswire.com/news-releases/cresta-raises-series-c-quadruples-valuation-to-1-6b-on-its-mission-to-revolutionize-the-contact-center-with-real-time-intelligence-301505177.html"
+    },
+    {
+      "round": "Series D",
+      "date": "2024-11",
+      "amount": "$125M",
+      "valuation": null,
+      "lead": "World Innovation Lab, QIA",
+      "source": "http://prnewswire.com/news-releases/cresta-closes-125m-series-d-to-accelerate-adoption-of-human-centric-ai-in-the-contact-center-302309858.html"
+    }
+  ],
+  "total_raised": "$270M+",
+  "revenue_est": {
+    "value": "$100M+ ARR",
+    "as_of": "Apr 2026",
+    "basis": "company-stated",
+    "source": "https://cresta.com/press"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Established Japan entity, led by ex-ElevenLabs Japan head",
+      "url": "https://www.ai-market-watch.com/news/cresta-establishes-a-japan-entity-and-begins-full-scale-local-operations-8447wj"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Signed strategic partnership with Atento for hybrid human-AI CX",
+      "url": "https://cresta.com/press"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Passed $100M ARR; named Sequoia's Doug Leone board chair",
+      "url": "https://cresta.com/press"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Named one of Forbes' Best Startup Employers for third year",
+      "url": "https://cresta.com/press"
+    }
+  ],
+  "competitors": [
+    "decagon",
+    "sierra",
+    "uniphore",
+    "Observe.AI",
+    "NICE"
+  ]
+}

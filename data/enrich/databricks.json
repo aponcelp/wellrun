@@ -1,0 +1,215 @@
+{
+  "slug": "databricks",
+  "checked": "Oct 19, 2026",
+  "founded": 2013,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "10,000+ (company); ~14,000 on LinkedIn",
+    "as_of": "Oct 2026",
+    "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-acquires-row-zero-bringing-live-governed-spreadsheets"
+  },
+  "leadership": [
+    {
+      "name": "Ali Ghodsi",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/alighodsi/",
+      "source": "https://databricks.com/company/leadership-team"
+    },
+    {
+      "name": "Matei Zaharia",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://craft.co/databricks/executives"
+    },
+    {
+      "name": "Ion Stoica",
+      "title": "Co-founder & Executive Chairman",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://craft.co/databricks/executives"
+    },
+    {
+      "name": "Reynold Xin",
+      "title": "Co-founder & Chief Architect",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://craft.co/databricks/executives"
+    },
+    {
+      "name": "David Conte",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1587468/000158746826000002/xslFormDX01/primary_doc.xml"
+    },
+    {
+      "name": "Ron Gabrisko",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://databricks.com/company/leadership-team"
+    },
+    {
+      "name": "Andy Kofoid",
+      "title": "President, Global Field Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://databricks.com/company/leadership-team"
+    },
+    {
+      "name": "Hatim Shafique",
+      "title": "Chief Operating Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://craft.co/databricks/executives"
+    },
+    {
+      "name": "Amy Reichanadter",
+      "title": "Chief People Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://databricks.com/company/leadership-team"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2013-09",
+      "amount": "$13.9M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://en.wikipedia.org/wiki/Databricks"
+    },
+    {
+      "round": "Series B",
+      "date": "2014-06",
+      "amount": "$33M",
+      "valuation": null,
+      "lead": "New Enterprise Associates",
+      "source": "https://pitchbook.com/newsletter/databricks-announces-33m-series-b"
+    },
+    {
+      "round": "Series E",
+      "date": "2019-02",
+      "amount": "$250M",
+      "valuation": "$2.75B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://web.archive.org/web/20220115063219/https://databricks.com/company/newsroom/press-releases/databricks-250-million-funding-supports-explosive-growth-and-global-demand-for-unified-analytics-brings-valuation-to-2-75-billion"
+    },
+    {
+      "round": "Series F",
+      "date": "2019-10",
+      "amount": "$400M",
+      "valuation": "$6.2B",
+      "lead": "Andreessen Horowitz",
+      "source": "http://databricks.com/company/newsroom/press-releases/databricks-growth-draws-400-million-series-f-investment-and-6-2-billion-valuation"
+    },
+    {
+      "round": "Series G",
+      "date": "2021-02",
+      "amount": "$1B",
+      "valuation": "$28B",
+      "lead": "Franklin Templeton",
+      "source": "https://en.wikipedia.org/wiki/Databricks"
+    },
+    {
+      "round": "Series H",
+      "date": "2021-08",
+      "amount": "$1.6B",
+      "valuation": "$38B",
+      "lead": "Counterpoint Global (Morgan Stanley)",
+      "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-raises-1-6-billion-series-h-investment-at-38-billion-valuation"
+    },
+    {
+      "round": "Series I",
+      "date": "2023-09",
+      "amount": "$500M+",
+      "valuation": "$43B",
+      "lead": null,
+      "source": "https://www.thestack.technology/databricks-just-raised-a-fresh-500-million-why"
+    },
+    {
+      "round": "Series J",
+      "date": "2024-12",
+      "amount": "$10B",
+      "valuation": "$62B",
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Databricks"
+    },
+    {
+      "round": "Series K",
+      "date": "2025-08",
+      "amount": "~$1B",
+      "valuation": "$100B+",
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Databricks"
+    },
+    {
+      "round": "Series L",
+      "date": "2025-12",
+      "amount": "$4B+ (closed at $5B in Feb 2026)",
+      "valuation": "$134B",
+      "lead": "Insight Partners, Fidelity, J.P. Morgan Asset Management",
+      "source": "https://www.hpcwire.com/bigdatawire/this-just-in/databricks-announces-series-l-funding-round-and-134b-valuation"
+    },
+    {
+      "round": "Debt",
+      "date": "2026-02",
+      "amount": "$2B new debt capacity",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.cnbc.com/2026/02/09/databricks-completes-5-billion-funding-round-with-2-billion-in-debt.html"
+    },
+    {
+      "round": "Series L-II",
+      "date": "2026-08",
+      "amount": "$5B",
+      "valuation": "$190B",
+      "lead": "Coatue",
+      "source": "https://en.wikipedia.org/wiki/Databricks"
+    }
+  ],
+  "total_raised": "~$32.3B (CB Insights)",
+  "revenue_est": {
+    "value": "$7B+ revenue run-rate, >80% YoY",
+    "as_of": "Aug 2026",
+    "basis": "company-stated",
+    "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-grows-80-yoy-surpasses-7b-revenue-run-rate-scales"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Acquires Row Zero to bring governed spreadsheets to Genie",
+      "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-acquires-row-zero-bringing-live-governed-spreadsheets"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Closes $5B round at $190B valuation led by Coatue; $7B run-rate",
+      "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-grows-80-yoy-surpasses-7b-revenue-run-rate-scales"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Expands Microsoft partnership; Genie integrated into Microsoft 365 and Copilot",
+      "url": "https://en.wikipedia.org/wiki/Databricks"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Agrees to acquire Panther Labs for security lakehouse (Lakewatch)",
+      "url": "https://en.wikipedia.org/wiki/Databricks"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Completes $5B Series L plus $2B debt at $134B; $5.4B run-rate",
+      "url": "https://www.cnbc.com/2026/02/09/databricks-completes-5-billion-funding-round-with-2-billion-in-debt.html"
+    }
+  ],
+  "competitors": [
+    "Snowflake",
+    "Google BigQuery",
+    "Microsoft Fabric",
+    "AWS (Redshift/SageMaker)",
+    "clickhouse"
+  ]
+}

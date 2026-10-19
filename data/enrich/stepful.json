@@ -1,0 +1,28 @@
+{
+  "slug": "stepful",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {"name": "Carl Madi", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://www.stepful.com/team/carl-madi"},
+    {"name": "Edoardo Serra", "title": "Co-founder & CTO", "founder": true, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/68015cca444808221e15e6f0/stepful"},
+    {"name": "Tressia Hobeika", "title": "Co-founder & Chief Product Officer", "founder": true, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/68015cca444808221e15e6f0/stepful"}
+  ],
+  "funding_history": [
+    {"round": "Accelerator (YC)", "date": "2021-08", "amount": "$125K", "valuation": null, "lead": "Y Combinator", "source": "https://pitchbook.com:8443/profiles/company/481867-75"},
+    {"round": "Seed", "date": "2021-10", "amount": "$1.86M", "valuation": null, "lead": null, "source": "https://pitchbook.com:8443/profiles/company/481867-75"},
+    {"round": "Seed", "date": "2023-05", "amount": "$8M", "valuation": null, "lead": null, "source": "https://www.ycombinator.com/companies/stepful"},
+    {"round": "Series A", "date": "2024-02", "amount": "$12M", "valuation": null, "lead": "AlleyCorp Impact", "source": "https://www.stepful.com/post/stepful-announces-12m-series-a"},
+    {"round": "Series B", "date": "2024-11", "amount": "$31.5M", "valuation": null, "lead": "Oak HC/FT", "source": "https://techcrunch.com/2024/11/13/stepful-raises-31-5m-to-address-healthcare-staffing-shortage-with-ai-powered-training/"},
+    {"round": "Series C", "date": "2026-06", "amount": "$55M", "valuation": null, "lead": "Oak HC/FT", "source": "https://www.businesswire.com/news/home/20260608013439/en/Stepful-Announces-%2455M-Series-C-to-Scale-Its-AI-Powered-Training-Platform-Across-the-Healthcare-Workforce"}
+  ],
+  "total_raised": "~$123M (sum of disclosed rounds; $36.3M through Series A per Multiples)",
+  "revenue_est": {"value": "~$148M", "as_of": "2026", "basis": "estimate", "source": "https://platform.tracxn.com/a/d/company/577d16e3e4b0a33a70ab22db/stepful"},
+  "news_timeline": [
+    {"date": "2026-09", "headline": "Acquires St. Louis College of Health Careers, renamed Stepful College", "url": "https://www.einpresswire.com/article/942265986/stepful-acquires-45-year-old-nursing-school-to-scale-healthcare-talent-development-through-accredited-degrees-programs"},
+    {"date": "2026-06", "headline": "Raises $55M Series C led by Oak HC/FT; 35+ health system clients", "url": "https://www.businesswire.com/news/home/20260608013439/en/Stepful-Announces-%2455M-Series-C-to-Scale-Its-AI-Powered-Training-Platform-Across-the-Healthcare-Workforce"},
+    {"date": "2024-11", "headline": "Raises $31.5M Series B led by Oak HC/FT", "url": "https://techcrunch.com/2024/11/13/stepful-raises-31-5m-to-address-healthcare-staffing-shortage-with-ai-powered-training/"}
+  ],
+  "competitors": ["Penn Foster", "MedCerts", "Guild", "Carrus"]
+}

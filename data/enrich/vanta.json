@@ -1,0 +1,151 @@
+{
+  "slug": "vanta",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~1,941",
+    "as_of": "Jun 2026",
+    "source": "https://siliconvalleyinvestclub.com/companies/vanta"
+  },
+  "leadership": [
+    {
+      "name": "Christina Cacioppo",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/vanta"
+    },
+    {
+      "name": "Erik Goldman",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/vanta"
+    },
+    {
+      "name": "John McCauley",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/vanta"
+    },
+    {
+      "name": "Jeremy Epling",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/vanta"
+    },
+    {
+      "name": "Scott Holden",
+      "title": "CMO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://finance.yahoo.com/news/scott-holden-joins-vanta-chief-160000770.html"
+    },
+    {
+      "name": "Stevie Case",
+      "title": "CRO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://pulse2.com/vanta-profile-stevie-case-interview/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2018-04",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://siliconvalleyinvestclub.com/companies/vanta"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-05",
+      "amount": "$50M",
+      "valuation": "~$500M",
+      "lead": "Sequoia Capital",
+      "source": "https://siliconvalleyinvestclub.com/companies/vanta"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-06",
+      "amount": "$110M",
+      "valuation": "$1.6B",
+      "lead": "Craft Ventures",
+      "source": "https://siliconvalleyinvestclub.com/companies/vanta"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2022-10",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "CrowdStrike Ventures",
+      "source": "https://siliconvalleyinvestclub.com/companies/vanta"
+    },
+    {
+      "round": "Series C",
+      "date": "2024-07",
+      "amount": "$150M",
+      "valuation": "$2.45B",
+      "lead": "Sequoia Capital",
+      "source": "https://siliconvalleyinvestclub.com/companies/vanta"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-07",
+      "amount": "$150M",
+      "valuation": "$4.15B",
+      "lead": "Wellington Management",
+      "source": "https://www.vanta.com/resources/vanta-announces-series-d"
+    }
+  ],
+  "total_raised": "~$503M",
+  "revenue_est": {
+    "value": "$300M ARR",
+    "as_of": "Apr 2026",
+    "basis": "company-stated",
+    "source": "https://www.businesswire.com/news/home/20260429269142/en/Vanta-Crosses-$300M-ARR-as-Growth-Accelerates-from-AI"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launches custom agents for scheduled GRC work and Vanta Control Framework",
+      "url": "https://www.vanta.com/whats-new"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Vanta becomes available directly inside ChatGPT",
+      "url": "https://www.vanta.com/whats-new"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Named a Leader among GRC platforms in first-ever analyst inclusion",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/vanta-named-leader-among-governance-170000577.html"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Crossed $300M ARR, up 63% YoY, as AI accelerates growth",
+      "url": "https://www.businesswire.com/news/home/20260429269142/en/Vanta-Crosses-$300M-ARR-as-Growth-Accelerates-from-AI"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Launched new AI agents and enterprise controls for audits",
+      "url": "https://www.businesswire.com/news/home/20260319211415/en/Vantas-New-Agents-and-Enterprise-Controls-Eliminate-Audit-Chaos"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Raised $150M Series D at $4.15B led by Wellington",
+      "url": "https://www.vanta.com/resources/vanta-announces-series-d"
+    }
+  ],
+  "competitors": [
+    "drata",
+    "comp-ai",
+    "Secureframe",
+    "OneTrust",
+    "Sprinto"
+  ]
+}

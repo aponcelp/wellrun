@@ -1,0 +1,114 @@
+{
+  "slug": "corgi",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~250",
+    "as_of": "2026",
+    "source": "https://www.ycombinator.com/companies/corgi-insurance"
+  },
+  "leadership": [
+    {
+      "name": "Nico Laqua",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/nico-laqua-302b17233",
+      "source": "https://www.corgi.insure/press-releases/series-b1"
+    },
+    {
+      "name": "Emily Yuan",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://corgi.insure/press-releases/series-b"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A",
+      "date": "2026-01 (announced)",
+      "amount": "$108M",
+      "valuation": "~$630M post (PitchBook est.)",
+      "lead": "Y Combinator (seed), Contrary (A)",
+      "source": "https://corgi.insure/blog/corgi-raises-108m"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-05",
+      "amount": "$160M",
+      "valuation": "$1.3B",
+      "lead": "TCV, Kindred Ventures",
+      "source": "https://www.prnewswire.com/news-releases/corgi-raises-160-million-series-b-to-continue-expanding-its-full-stack-insurance-platform-into-new-verticals-302764003.html"
+    },
+    {
+      "round": "Series B1",
+      "date": "2026-05",
+      "amount": "$106M",
+      "valuation": "$2.6B",
+      "lead": "TCV",
+      "source": "https://www.corgi.insure/press-releases/series-b1"
+    },
+    {
+      "round": "Series B2",
+      "date": "2026-07",
+      "amount": null,
+      "valuation": "$4B (reported)",
+      "lead": null,
+      "source": "https://www.forbes.com/sites/annatong/2026/07/22/ai-startup-corgi-of-seven-day-work-week-fame-raises-yet-again-at-4-billion-valuation"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2026-09",
+      "amount": "$64M",
+      "valuation": "$5B (reported)",
+      "lead": "Haun Ventures, Clear Street, Standard Capital (new investors)",
+      "source": "https://www.forbes.com/sites/richardnieva/2026/09/26/corgi-5-billion-valuation"
+    }
+  ],
+  "total_raised": "~$440M+ ($378M company-stated through B1, plus $64M reported Sep 2026; B2 amount undisclosed)",
+  "revenue_est": {
+    "value": "~$100M annualized revenue (from $40M+ ARR at end-2025)",
+    "as_of": "May 2026",
+    "basis": "company-stated (via Forbes)",
+    "source": "https://www.forbes.com/sites/richardnieva/2026/05/06/corgi-ai-unicorn"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Reported $5B valuation after fourth round in five months",
+      "url": "https://www.forbes.com/sites/richardnieva/2026/09/26/corgi-5-billion-valuation"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Business Insider details internal drama; cafe lease and employee-dismissal disputes",
+      "url": "https://www.businessinsider.com/inside-the-drama-dogging-corgi-the-5-billion-insurance-startup-2026-9"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Reportedly raised again at $4B, third round in eight weeks",
+      "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Denied accusations it copied an open-source product",
+      "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raised $160M Series B at $1.3B, then $106M B1 at $2.6B weeks later",
+      "url": "https://www.corgi.insure/press-releases/series-b1"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raised $108M and won approval as a licensed full-stack carrier",
+      "url": "https://finance.yahoo.com/news/corgi-insurance-raises-108-million-002700786.html"
+    }
+  ],
+  "competitors": [
+    "Vouch",
+    "Embroker",
+    "Coalition",
+    "Newfront"
+  ]
+}

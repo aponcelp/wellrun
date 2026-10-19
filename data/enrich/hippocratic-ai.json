@@ -1,0 +1,132 @@
+{
+  "slug": "hippocratic-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "Palo Alto, CA",
+  "headcount_est": {
+    "value": "~354",
+    "as_of": "Oct 2026",
+    "source": "https://platform.tracxn.com/a/d/company/6453d6aaf80a95626a99a5d5/hippocratic%20ai"
+  },
+  "leadership": [
+    {
+      "name": "Munjal Shah",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://hippocraticai.com/team/"
+    },
+    {
+      "name": "Dr. Meenesh Bhimani",
+      "title": "Co-founder & Chief Medical Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://hippocraticai.com/team/"
+    },
+    {
+      "name": "Dr. Ahad Wahid",
+      "title": "President of Life Sciences",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://secure.businesswire.com/news/home/20260113404488/en/Hippocratic-AI-Expands-Across-Healthcare-Verticals-Following-Rapid-Adoption-of-Generative-AI-Healthcare-Agents"
+    },
+    {
+      "name": "Cynara Lilly",
+      "title": "Chief Communications Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://munjalshah.com/hippocratic-ai-announces-new-senior-executive-appointments"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-05",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "General Catalyst, Andreessen Horowitz",
+      "source": "http://app.dealroom.co/companies/hippocraticai_com"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-03",
+      "amount": "$53M",
+      "valuation": "$500M",
+      "lead": "General Catalyst",
+      "source": "https://web.archive.org/web/20240927175505/https://www.crunchbase.com/organization/hippocratic-ai/company_financials"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2024-09",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "NVentures",
+      "source": "http://app.dealroom.co/companies/hippocraticai_com"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-01",
+      "amount": "$141M",
+      "valuation": "$1.64B",
+      "lead": "Kleiner Perkins",
+      "source": "https://munjalshah.com/hippocratic-ai-reaches-1-64b-valuation-with-new-funding-round/"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-11",
+      "amount": "$126M",
+      "valuation": "$3.5B",
+      "lead": "Avenir Growth",
+      "source": "https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-lands-126m-series-c-expand-patient-facing-ai-agents-fuel-ma"
+    },
+    {
+      "round": "Unannounced",
+      "date": "2026",
+      "amount": "~$40M (implied)",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.revenuememo.com/p/hippocratic-ai-funding"
+    }
+  ],
+  "total_raised": "$404M announced (~$444M incl. unannounced 2026 money)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Launches Agentic Orchestrators: teams of voice agents coordinated around outcomes",
+      "url": "http://www.prnewswire.com/news-releases/hippocratic-ai-announces-next-generation-of-healthcare-ai-orchestrators-focused-on-outcomes-not-tasks-302850620.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "WellSpan Health expands to multi-year, platform-wide partnership",
+      "url": "https://www.globenewswire.com/news-release/2026/07/30/3336096/0/en/WellSpan-expands-Hippocratic-AI-partnership-to-support-clinical-operations-and-improve-patient-experience.html"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Adds senior life sciences execs and a Chief Communications Officer",
+      "url": "http://www.prnewswire.com/news-releases/hippocratic-ai-expands-life-sciences-leadership-team-as-pharma-and-medtech-demand-for-voice-ai-agents-accelerates-302778102.html"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Releases Polaris 5.0 healthcare model, built on 180M+ patient interactions",
+      "url": "https://hippocraticai.com/hippocratic-ai-launches-polaris-5-0/"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Acquires clinical-trials AI startup Grove AI; names President of Life Sciences",
+      "url": "http://businesswire.com/news/home/20260112959357/en/Hippocratic-AI-Consolidates-Life-Sciences-Leadership-with-Acquisition-of-Grove-AI-and-Key-Executive-Appointments"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Raises $126M Series C led by Avenir Growth at $3.5B valuation",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-lands-126m-series-c-expand-patient-facing-ai-agents-fuel-ma"
+    }
+  ],
+  "competitors": [
+    "Infinitus Systems",
+    "Assort Health",
+    "Notable",
+    "commure",
+    "Innovaccer"
+  ]
+}

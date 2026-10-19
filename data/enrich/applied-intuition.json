@@ -1,0 +1,145 @@
+{
+  "slug": "applied-intuition",
+  "checked": "Oct 19, 2026",
+  "founded": 2017,
+  "hq": "Sunnyvale, CA",
+  "headcount_est": {
+    "value": "~1,531",
+    "as_of": "Jun 2026",
+    "source": "https://siliconvalleyinvestclub.com/companies/appliedintuition"
+  },
+  "leadership": [
+    {
+      "name": "Qasar Younis",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.appliedintuition.com/press-releases/applied-intuition-nissan-aidv-development"
+    },
+    {
+      "name": "Peter Ludwig",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/appliedintuition"
+    },
+    {
+      "name": "Varun Mittal",
+      "title": "President",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/appliedintuition"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2017-06",
+      "amount": null,
+      "valuation": null,
+      "lead": "Lux Capital",
+      "source": "https://siliconvalleyinvestclub.com/companies/appliedintuition"
+    },
+    {
+      "round": "Angel",
+      "date": "2018-09",
+      "amount": "$11.5M",
+      "valuation": null,
+      "lead": "Marc Andreessen",
+      "source": "https://siliconvalleyinvestclub.com/companies/appliedintuition"
+    },
+    {
+      "round": "Series B",
+      "date": "2019-09",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://siliconvalleyinvestclub.com/companies/appliedintuition"
+    },
+    {
+      "round": "Series C",
+      "date": "2020-10",
+      "amount": "$125M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://siliconvalleyinvestclub.com/companies/appliedintuition"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-11",
+      "amount": "$175M",
+      "valuation": "$3.6B",
+      "lead": "Addition",
+      "source": "https://siliconvalleyinvestclub.com/companies/appliedintuition"
+    },
+    {
+      "round": "Series E",
+      "date": "2024-03",
+      "amount": "$250M",
+      "valuation": "$6B",
+      "lead": "Elad Gil",
+      "source": "https://siliconvalleyinvestclub.com/companies/appliedintuition"
+    },
+    {
+      "round": "Secondary",
+      "date": "2024-07",
+      "amount": "$300M",
+      "valuation": null,
+      "lead": "Fidelity",
+      "source": "https://siliconvalleyinvestclub.com/companies/appliedintuition"
+    },
+    {
+      "round": "Series F",
+      "date": "2025-06",
+      "amount": "$600M (incl. tender)",
+      "valuation": "$15B",
+      "lead": "BlackRock, Kleiner Perkins",
+      "source": "https://www.appliedintuition.com/news/series-f"
+    }
+  ],
+  "total_raised": "~$1.2B primary (~$1.5B incl. 2024 secondary)",
+  "revenue_est": {
+    "value": "~$830M ARR",
+    "as_of": "2025",
+    "basis": "estimate",
+    "source": "https://sacra.com/research/applied-intuition-at-830m-year"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Reportedly fielding investor offers at $30B+ valuation",
+      "url": "https://seekingalpha.com/news/4652623-applied-intuition-fielding-offers-at-30b-valuation-the-information"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Signed SDV/Vehicle OS deals with both Honda and Nissan",
+      "url": "https://www.prnewswire.com/news-releases/applied-intuition-partners-with-honda-to-accelerate-next-generation-software-defined-vehicles-302897467.html"
+    },
+    {
+      "date": "2026-08",
+      "headline": "HUMAIN deal to deploy autonomous trucking across Saudi Arabia",
+      "url": "https://www.prnewswire.com/news-releases/humain-and-applied-intuition-announce-strategic-collaboration-to-deploy-physical-ai-across-saudi-arabia-starting-with-autonomous-trucking-302865096.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Launched Dana, an agentic platform for physical AI",
+      "url": "https://www.prnewswire.com/apac/news-releases/applied-intuition-launches-dana-the-agentic-platform-for-physical-ai-302831516.html"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Expanded its Self-Driving System into Japan",
+      "url": "https://www.morningstar.com/news/pr-newswire/20260617sf85482/applied-intuition-expands-its-self-driving-system-into-japan-one-of-the-worlds-most-demanding-automotive-markets"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Closed $600M Series F and tender at $15B valuation",
+      "url": "https://www.appliedintuition.com/news/series-f"
+    }
+  ],
+  "competitors": [
+    "Wayve",
+    "Foretellix",
+    "NVIDIA DRIVE",
+    "Mobileye"
+  ]
+}

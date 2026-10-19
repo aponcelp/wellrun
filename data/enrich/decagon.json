@@ -1,0 +1,28 @@
+{
+  "slug": "decagon",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {"name": "Jesse Zhang", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://decagon.ai/blog/dialogues-2026"},
+    {"name": "Ashwin Sreenivas", "title": "Co-founder & President", "founder": true, "linkedin": null, "source": "https://decagon.ai/blog/dialogues-2026"}
+  ],
+  "funding_history": [
+    {"round": "Seed", "date": "2024-06", "amount": "$5M", "valuation": null, "lead": "Andreessen Horowitz", "source": "https://decagon.ai/blog/series-a"},
+    {"round": "Series A", "date": "2024-06", "amount": "$30M", "valuation": null, "lead": "Accel", "source": "https://decagon.ai/blog/series-a"},
+    {"round": "Series B", "date": "2024-10", "amount": "$65M", "valuation": null, "lead": "Bain Capital Ventures", "source": "https://decagon.ai/blog/series-b"},
+    {"round": "Series C", "date": "2025-06", "amount": "$131M", "valuation": "$1.5B", "lead": null, "source": "https://www.businesswire.com/news/home/20250623894798/en/Decagon-Raises-%24131M-at-%241.5B-Valuation-to-Deliver-Concierge-Customer-Experience-with-AI-Agents"},
+    {"round": "Series D", "date": "2026-01", "amount": "$250M", "valuation": "$4.5B", "lead": "Coatue & Index Ventures", "source": "https://www.businesswire.com/news/home/20260128580542/en/Decagons-Valuation-Triples-to-$4.5-Billion-as-it-Ushers-in-the-Age-of-AI-Concierge"}
+  ],
+  "total_raised": "~$481M",
+  "revenue_est": {"value": "$100M+ annualized revenue", "as_of": "Aug 2026", "basis": "company-stated (to Newcomer)", "source": "https://www.newcomer.co/p/decagon-hit-100-million-betting-against"},
+  "news_timeline": [
+    {"date": "2026-10", "headline": "ServiceNow denies reports of takeover interest in Decagon", "url": "https://www.pymnts.com/news/acquiring/2026/servicenow-denies-reports-of-takeover-interest-in-ai-agent-startup-decagon/"},
+    {"date": "2026-10", "headline": "Launches Voice 3, Personal Agent Gateway and Agent Modules at Decagon Dialogues", "url": "https://decagon.ai/blog/dialogues-2026"},
+    {"date": "2026-08", "headline": "Crosses $100M in annualized revenue", "url": "https://www.newcomer.co/p/decagon-hit-100-million-betting-against"},
+    {"date": "2026-03", "headline": "Closes employee tender at $4.5B valuation", "url": "https://decagon.ai/topic/workplace?b1780783_page=2"},
+    {"date": "2026-01", "headline": "Raises $250M Series D at $4.5B led by Coatue and Index", "url": "https://www.businesswire.com/news/home/20260128580542/en/Decagons-Valuation-Triples-to-$4.5-Billion-as-it-Ushers-in-the-Age-of-AI-Concierge"}
+  ],
+  "competitors": ["sierra", "Salesforce Agentforce", "Fin (formerly Intercom)", "parloa", "wonderful"]
+}

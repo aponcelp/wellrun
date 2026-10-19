@@ -1,0 +1,27 @@
+{
+  "slug": "felix-pago",
+  "checked": "Oct 19, 2026",
+  "founded": 2020,
+  "hq": "Miami, FL",
+  "headcount_est": {"value": "~520", "as_of": "Oct 2026", "source": "https://platform.tracxn.com/a/d/company/5e2db6d86da7b511d1708c86/felix"},
+  "leadership": [
+    {"name": "Manuel Godoy", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://refreshmiami.com/news/felix-pagos-75m-raise-proves-money-talks-on-whatsapp/"},
+    {"name": "Bernardo Garcia", "title": "Co-founder & COO", "founder": true, "linkedin": null, "source": "https://refreshmiami.com/news/felix-pagos-75m-raise-proves-money-talks-on-whatsapp/"}
+  ],
+  "funding_history": [
+    {"round": "Pre-seed (extension)", "date": "2023-09", "amount": "$7.8M (cumulative pre-seed incl. extension)", "valuation": null, "lead": null, "source": "https://latamlist.com/mexican-fintech-felix-pago-secures-15-5m-series-a/amp"},
+    {"round": "Series A", "date": "2024-06", "amount": "$15.5M", "valuation": null, "lead": "Castle Island Ventures", "source": "https://latamlist.com/mexican-fintech-felix-pago-secures-15-5m-series-a/amp"},
+    {"round": "Series B", "date": "2025-04", "amount": "$75M", "valuation": null, "lead": "QED Investors", "source": "https://refreshmiami.com/news/felix-pagos-75m-raise-proves-money-talks-on-whatsapp/"},
+    {"round": "Series C", "date": "2026-09", "amount": "$87M equity", "valuation": "~$1.4B (reported by Tracxn; not company-confirmed)", "lead": "Andreessen Horowitz", "source": "https://www.miamiherald.com/news/business/article317076435.html"},
+    {"round": "Debt", "date": "2026-09", "amount": "$113M credit facility", "valuation": null, "lead": "General Catalyst Customer Value Fund", "source": "https://www.bloomberg.com/news/articles/2026-09-01/felix-pago-raises-200-million-to-expand-into-financial-services"}
+  ],
+  "total_raised": "~$300M incl. $113M credit facility (Dealroom)",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-10", "headline": "Launches WhatsApp remittances to Costa Rica", "url": "https://www.elfinancierocr.com/tecnologia/como-funciona-felix-el-servicio-de-remesas-desde/KLASDFJZR5FOBFEUWGZMDXU43E/story/"},
+    {"date": "2026-09", "headline": "Raises $200M Series C package: $87M equity led by a16z + $113M GC credit line", "url": "https://www.bloomberg.com/news/articles/2026-09-01/felix-pago-raises-200-million-to-expand-into-financial-services"},
+    {"date": "2026-09", "headline": "Says it has processed $8B+ for 6M+ users; expanding into lending and savings", "url": "https://beinsure.com/news/felix-raises-200mn-to-expand-ai-financial-services-in-latin-america"},
+    {"date": "2025-04", "headline": "Raises $75M Series B led by QED Investors", "url": "https://www.orrick.com/en/News/2025/04/Remittance-Platform-Felix-Pago-Announces-75-Million-Series-B-Led-by-QED-Investors"}
+  ],
+  "competitors": ["Remitly", "Wise", "Western Union", "Intermex", "Viamericas"]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "runway",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "New York, NY",
+  "headcount_est": {"value": "~516", "as_of": "2026", "source": "https://platform.tracxn.com/a/d/company/5aa97679e4b06f4c9e530100/runway"},
+  "leadership": [
+    {"name": "Cristóbal Valenzuela", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://runway.com/news/runway-series-e-funding"}
+  ],
+  "funding_history": [
+    {"round": "Series C", "date": "2022-12", "amount": "$50M", "valuation": null, "lead": "Felicis", "source": "https://runwayml.com/news/runway-raises-50-series-c"},
+    {"round": "Series C extension", "date": "2023-06", "amount": "$141M", "valuation": null, "lead": "Google, NVIDIA, Salesforce Ventures (participants)", "source": "https://www.businesswire.com/news/home/20230629278272/en/Runway-Announces-%24141M-in-Funding-to-Expand-Multi-Modal-AI-Research-and-Product-Deployment"},
+    {"round": "Series D", "date": "2025-04", "amount": "$308M", "valuation": "~$3B", "lead": "General Atlantic", "source": "https://variety.com/2025/digital/news/ai-runway-raises-308-million-funding-valuation-1236358677"},
+    {"round": "Series E", "date": "2026-02", "amount": "$315M", "valuation": "$5.3B (reported)", "lead": "General Atlantic", "source": "https://runway.com/news/runway-series-e-funding"}
+  ],
+  "total_raised": "~$860M",
+  "revenue_est": {"value": "~$200M ARR", "as_of": "Sep 2026", "basis": "press report", "source": "https://dealroom.co/news/149523-runway-buys-frances-kinetix-crosses-200m-arr-in-physical-ai-push"},
+  "news_timeline": [
+    {"date": "2026-09", "headline": "Acquires Paris AI lab Kinetix team for robotics world models; ARR ~$200M", "url": "https://runway.com/news/company-news/kinetix-joins-runway"},
+    {"date": "2026-02", "headline": "Raises $315M Series E at ~$5.3B led by General Atlantic", "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5.3b-valuation-eyes-more-capable-world-models/"},
+    {"date": "2025-12", "headline": "Releases first world model GWM-1 and Gen-4.5 video model", "url": "https://siliconangle.com/2026/02/10/world-model-startup-runway-closes-315m-funding-round/"},
+    {"date": "2025-12", "headline": "Announces multi-year strategic partnership with Adobe for Firefly", "url": "https://siliconvalleyinvestclub.com/id/companies/runway/tear-sheet.pdf"},
+    {"date": "2025-04", "headline": "Raises $308M Series D led by General Atlantic at ~$3B", "url": "https://variety.com/2025/digital/news/ai-runway-raises-308-million-funding-valuation-1236358677"}
+  ],
+  "competitors": ["Google Veo", "OpenAI Sora", "pika", "Luma AI", "higgsfield-ai"]
+}

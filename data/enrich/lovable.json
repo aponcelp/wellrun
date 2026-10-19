@@ -1,0 +1,108 @@
+{
+  "slug": "lovable",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "Stockholm, Sweden",
+  "headcount_est": {
+    "value": "~150",
+    "as_of": "Apr 2026",
+    "source": "https://www.forbes.com/companies/lovable"
+  },
+  "leadership": [
+    {
+      "name": "Anton Osika",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Lovable_(company)"
+    },
+    {
+      "name": "Fabian Hedin",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/profile/fabian-hedin"
+    },
+    {
+      "name": "Andy Toung",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/2026/05/19/lovable-cnbc-disruptor-50-ranking.html"
+    },
+    {
+      "name": "Ryan Meadows",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-02",
+      "amount": "$200M",
+      "valuation": "$1.8B",
+      "lead": "Accel",
+      "source": "https://en.wikipedia.org/wiki/Lovable_(company)"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-12",
+      "amount": "$330M",
+      "valuation": "$6.6B",
+      "lead": "CapitalG, Menlo Ventures",
+      "source": "https://en.wikipedia.org/wiki/Lovable_(company)"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-08",
+      "amount": "$400M",
+      "valuation": "$13.3B",
+      "lead": "Menlo Ventures, Scaleup Europe Fund",
+      "source": "https://en.wikipedia.org/wiki/Lovable_(company)"
+    }
+  ],
+  "total_raised": "~$952.5M (Seedtable)",
+  "revenue_est": {
+    "value": "$600M+ annualized revenue",
+    "as_of": "Sep 2026",
+    "basis": "press report",
+    "source": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Annualized revenue crosses $600M",
+      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Raises $400M Series C at $13.3B led by Menlo and Scaleup Europe Fund",
+      "url": "https://en.wikipedia.org/wiki/Lovable_(company)"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Says it added $100M revenue in one month with 146 employees",
+      "url": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Raises $330M Series B at $6.6B led by CapitalG and Menlo",
+      "url": "https://en.wikipedia.org/wiki/Lovable_(company)"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Reaches $200M ARR",
+      "url": "https://en.wikipedia.org/wiki/Lovable_(company)"
+    }
+  ],
+  "competitors": [
+    "replit",
+    "Bolt.new (StackBlitz)",
+    "vercel",
+    "Cursor (Anysphere)",
+    "emergent"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "fireworks-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "San Mateo, CA",
+  "headcount_est": {
+    "value": "~364",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/637d56c4e455b527bba1503d/fireworks"
+  },
+  "leadership": [
+    {
+      "name": "Lin Qiao",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/lin-qiao-22248b4",
+      "source": "https://fireworks.ai/team"
+    },
+    {
+      "name": "Dmytro Dzhulgakov",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/dzhulgakov",
+      "source": "https://linkedin.com/in/dzhulgakov"
+    },
+    {
+      "name": "Benny Chen",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fireworks.ai/team"
+    },
+    {
+      "name": "Chenyu Zhao",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fireworks.ai/team"
+    },
+    {
+      "name": "Dmytro Ivchenko",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fireworks.ai/team"
+    },
+    {
+      "name": "James Reed",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fireworks.ai/team"
+    },
+    {
+      "name": "Pawel Garbacki",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fireworks.ai/team"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2024-07",
+      "amount": "$52M",
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "https://en.wikipedia.org/wiki/Fireworks_AI"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-10",
+      "amount": "$250M",
+      "valuation": "$4B",
+      "lead": "Lightspeed, Index Ventures, Evantic (co-led)",
+      "source": "https://fireworks.ai/blog/series-c"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-07",
+      "amount": "$1.505B",
+      "valuation": "$17.5B",
+      "lead": "Atreides, Index Ventures, TCV",
+      "source": "https://fireworks.ai/blog/series-d-announcement"
+    }
+  ],
+  "total_raised": "~$1.8B (Tracxn); $77M before Series C",
+  "revenue_est": {
+    "value": "$1B+ annualized revenue",
+    "as_of": "Jul 2026",
+    "basis": "company-stated",
+    "source": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Reported to consider new round at up to $30B valuation",
+      "url": "https://www.theinformation.com/articles/fireworks-fal-consider-new-rounds-inference-demand-soars"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Introduces FireRouter with Opus inside Fireworks Nexus",
+      "url": "https://fireworks.ai/blog/introducing-firerouter-with-opus"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Launches Fireworks Nexus, managed open-model layer for AI coding tools",
+      "url": "https://fireworks.ai/blog/fireworks-nexus"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Raises $1.505B Series D at $17.5B; passes $1B annualized revenue",
+      "url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Acquires Hathora for global compute orchestration",
+      "url": "https://fireworks.ai/blog/fireworks-acquires-hathora"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Raises $250M Series C at $4B",
+      "url": "https://fireworks.ai/blog/series-c"
+    }
+  ],
+  "competitors": [
+    "together-ai",
+    "baseten",
+    "fal-ai",
+    "deepinfra",
+    "modal"
+  ]
+}

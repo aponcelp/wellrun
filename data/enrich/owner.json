@@ -1,0 +1,116 @@
+{
+  "slug": "owner",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "San Francisco / Palo Alto, CA",
+  "headcount_est": {
+    "value": "~455",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/531ccf3fe4b0f7e166603580/owner"
+  },
+  "leadership": [
+    {
+      "name": "Adam Guild",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/owner-raises-240m-led-by-goldman-sachs-alternatives-to-build-the-ai-native-platform-for-every-local-business-302862420.html"
+    },
+    {
+      "name": "Dean Bloembergen",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/owner-raises-240m-led-by-goldman-sachs-alternatives-to-build-the-ai-native-platform-for-every-local-business-302862420.html"
+    },
+    {
+      "name": "Rob Lehman",
+      "title": "President & COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/owner-raises-240m-led-by-goldman-sachs-alternatives-to-build-the-ai-native-platform-for-every-local-business-302862420.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021",
+      "amount": "$10.7M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.zoominfo.com/financial/ownercom-inc/558809181"
+    },
+    {
+      "round": "Series A",
+      "date": null,
+      "amount": "$15M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.zoominfo.com/financial/ownercom-inc/558809181"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-01",
+      "amount": "$33M",
+      "valuation": null,
+      "lead": "Redpoint Ventures, Altman Capital",
+      "source": "https://en.wikipedia.org/wiki/Owner.com"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-05",
+      "amount": "$120M",
+      "valuation": "$1B",
+      "lead": "Meritech, Headline",
+      "source": "https://owner.com/c"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-08",
+      "amount": "$240M",
+      "valuation": "$2.3B",
+      "lead": "Goldman Sachs Alternatives",
+      "source": "https://www.prnewswire.com/news-releases/owner-raises-240m-led-by-goldman-sachs-alternatives-to-build-the-ai-native-platform-for-every-local-business-302862420.html"
+    }
+  ],
+  "total_raised": "~$420M",
+  "revenue_est": {
+    "value": "$100M+ ARR",
+    "as_of": "Aug 2026",
+    "basis": "company-stated",
+    "source": "https://www.prnewswire.com/news-releases/owner-raises-240m-led-by-goldman-sachs-alternatives-to-build-the-ai-native-platform-for-every-local-business-302862420.html"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Raised $240M Series D at $2.3B led by Goldman Sachs Alternatives",
+      "url": "https://www.prnewswire.com/news-releases/owner-raises-240m-led-by-goldman-sachs-alternatives-to-build-the-ai-native-platform-for-every-local-business-302862420.html"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Unveiled AI CMO 'Grader', claiming $1B+ in customer sales",
+      "url": "https://fenado.ai/articles/ownercom-introduces-ai-cmo-grader-claiming-1-billion-in-sales-faces-lawsuit"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Court lets ChowNow's false-advertising claims against Owner proceed",
+      "url": "https://news.bloombergtax.com/tech-and-telecom-law/chownows-false-advertising-claims-against-rival-move-forward"
+    },
+    {
+      "date": "2025-08",
+      "headline": "ChowNow sues Owner in federal court over ads, ratings and trademark use",
+      "url": "https://dockets.justia.com/docket/california/candce/5:2025cv07315/455442/feed"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Raised $120M Series C at $1B; Popmenu sued over website-grader tool",
+      "url": "https://www.restaurantbusinessonline.com/technology/restaurant-tech-supplier-popmenu-sues-rival-ownercom-over-website-grading-tool"
+    }
+  ],
+  "competitors": [
+    "chownow",
+    "Popmenu",
+    "Toast",
+    "BentoBox"
+  ]
+}

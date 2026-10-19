@@ -1,0 +1,92 @@
+{
+  "slug": "flex-business",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~110 (plan: 200+ by end of 2026)",
+    "as_of": "Jul 2026",
+    "source": "https://www.flex.one/resource-hub/halo-fund-leads-70m-investment-to-accelerate-the-launch-of-flex-global"
+  },
+  "leadership": [
+    {
+      "name": "Zaid Rahman",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/zaidrahman",
+      "source": "https://www.flex.one/resource-hub/flex-raises-60m-series-b"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Earlier equity (pre-2025)",
+      "date": null,
+      "amount": "~$20M (implied: $105M total equity after Series B minus $85M in 2025 rounds)",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.flex.one/resource-hub/flex-raises-60m-series-b"
+    },
+    {
+      "round": "Equity round",
+      "date": "2025-03",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Titanium Ventures",
+      "source": "https://www.businesswire.com/news/home/20250306625979/en/Flex-Raises-%24225-Million-in-Equity-and-Debt-Funding-to-Build-All-in-One-Business-and-Personal-Financial-Management-Platform-for-Business-Owners"
+    },
+    {
+      "round": "Debt",
+      "date": "2025-03",
+      "amount": "$200M credit facility",
+      "valuation": null,
+      "lead": "Victory Park Capital",
+      "source": "https://www.businesswire.com/news/home/20250306625979/en/Flex-Raises-%24225-Million-in-Equity-and-Debt-Funding-to-Build-All-in-One-Business-and-Personal-Financial-Management-Platform-for-Business-Owners"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-12",
+      "amount": "$60M",
+      "valuation": null,
+      "lead": "Portage",
+      "source": "https://www.flex.one/resource-hub/flex-raises-60m-series-b"
+    },
+    {
+      "round": "Series B1",
+      "date": "2026-07",
+      "amount": "$70M",
+      "valuation": "~$1.2B (Reuters, source)",
+      "lead": "Halo Fund",
+      "source": "https://www.streetinsider.com/Reuters/AI+finance+startup+Flex+doubles+valuation+to+about+$1.2+billion,+source+says/26764872.html"
+    }
+  ],
+  "total_raised": "$180M equity + $300M debt",
+  "revenue_est": {
+    "value": "Annualized revenue up 3x Dec 2025 to Jul 2026 (absolute undisclosed)",
+    "as_of": "Jul 2026",
+    "basis": "company-stated",
+    "source": "https://www.flex.one/resource-hub/halo-fund-leads-70m-investment-to-accelerate-the-launch-of-flex-global"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-07",
+      "headline": "Raises $70M Series B1 led by Halo Fund at ~$1.2B; launches stablecoin-based Flex Global",
+      "url": "https://www.streetinsider.com/Reuters/AI+finance+startup+Flex+doubles+valuation+to+about+$1.2+billion,+source+says/26764872.html"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Raises $60M Series B led by Portage; revenue 4x in a year",
+      "url": "https://www.globenewswire.com/fr/news-release/2025/12/04/3199876/0/en/flex-raises-60m-series-b-equity-round-to-scale-its-ai-native-private-bank-for-high-net-worth-business-owners.html"
+    },
+    {
+      "date": "2025-03",
+      "headline": "Raises $225M: $25M equity led by Titanium + $200M Victory Park credit line",
+      "url": "https://www.businesswire.com/news/home/20250306625979/en/Flex-Raises-%24225-Million-in-Equity-and-Debt-Funding-to-Build-All-in-One-Business-and-Personal-Financial-Management-Platform-for-Business-Owners"
+    }
+  ],
+  "competitors": [
+    "brex",
+    "ramp",
+    "mercury",
+    "American Express Business"
+  ]
+}

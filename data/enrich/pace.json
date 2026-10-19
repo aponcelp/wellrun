@@ -1,0 +1,23 @@
+{
+  "slug": "pace",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": {"value": "~28", "as_of": "May 2026", "source": "https://www.forbes.com/sites/annatong/2026/05/27/thrive-and-sequoia-back-pace-with-46-million-to-automate-insurances-back-office"},
+  "leadership": [
+    {"name": "Jamie Cuffe", "title": "Founder & CEO", "founder": true, "linkedin": null, "source": "https://withpace.com/news/next-century"}
+  ],
+  "funding_history": [
+    {"round": "Series A", "date": "2026-01", "amount": "$10M", "valuation": null, "lead": "Sequoia Capital", "source": "https://withpace.com/news/a-new-era"},
+    {"round": "Series B", "date": "2026-05", "amount": "$46M", "valuation": "$375M (reported)", "lead": "Thrive Capital, Sequoia Capital", "source": "https://www.forbes.com/sites/annatong/2026/05/27/thrive-and-sequoia-back-pace-with-46-million-to-automate-insurances-back-office"}
+  ],
+  "total_raised": "$56M",
+  "revenue_est": {"value": "ARR up 15x+ through Q3 2026 (absolute figure undisclosed)", "as_of": "Oct 2026", "basis": "company-stated", "source": "https://www.arr.club/signal/pace-grew-arr-15x-through-first-three-quarters-of-2026"},
+  "news_timeline": [
+    {"date": "2026-10", "headline": "Says ARR grew 15x+ through first three quarters of 2026", "url": "https://www.arr.club/signal/pace-grew-arr-15x-through-first-three-quarters-of-2026"},
+    {"date": "2026-05", "headline": "Raises $46M Series B co-led by Thrive and Sequoia (~$375M valuation)", "url": "https://www.businesswire.com/news/home/20260527047143/en/Pace-Raises-%2446-Million-Series-B-to-Build-the-Next-Century-of-Insurance"},
+    {"date": "2026-01", "headline": "Raises $10M led by Sequoia", "url": "https://withpace.com/news/a-new-era"},
+    {"date": "2025-12", "headline": "Selected by Prudential's Individual Life business to automate policy servicing", "url": "https://via.ritzau.dk/pressemeddelelse/14706431/pace-selected-by-prudential-financial-to-help-automate-its-insurance-operations-with-agentic-ai?lang=en&publisherId=90456"}
+  ],
+  "competitors": ["furtherai", "Sixfold", "Federato", "Kalepa"]
+}

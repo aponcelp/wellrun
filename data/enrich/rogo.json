@@ -1,0 +1,114 @@
+{
+  "slug": "rogo",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Gabe Stengel",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://rogo.ai/news/series-d"
+    },
+    {
+      "name": "John Willett",
+      "title": "Co-founder (leads London/Europe)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://rogo.ai/news/scaling-rogo-to-build-the-future-of-investment-banking-our-75m-series-c-and-european-expansion"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-02",
+      "amount": null,
+      "valuation": null,
+      "lead": "AlleyCorp",
+      "source": "https://siliconvalleyinvestclub.com/hi/companies/rogo"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-10",
+      "amount": "$18.5M",
+      "valuation": null,
+      "lead": "Khosla Ventures",
+      "source": "https://siliconvalleyinvestclub.com/hi/companies/rogo"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-04",
+      "amount": "$50M",
+      "valuation": "$350M",
+      "lead": "Thrive Capital",
+      "source": "https://siliconvalleyinvestclub.com/hi/companies/rogo"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-01",
+      "amount": "$75M",
+      "valuation": "$750M",
+      "lead": "Sequoia Capital",
+      "source": "https://rogo.ai/news/scaling-rogo-to-build-the-future-of-investment-banking-our-75m-series-c-and-european-expansion"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-04",
+      "amount": "$160M",
+      "valuation": "~$2B",
+      "lead": "Kleiner Perkins",
+      "source": "https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html"
+    },
+    {
+      "round": "Strategic",
+      "date": "2026-09",
+      "amount": "~$30M",
+      "valuation": null,
+      "lead": "Barclays (with BNP Paribas, Citi, MUFG, Société Générale)",
+      "source": "https://rogo.com/news/strategic-investors"
+    }
+  ],
+  "total_raised": "~$344M (AlleyWatch via INFLXD)",
+  "revenue_est": {
+    "value": "~$50M ARR (from ~$15M end-2025)",
+    "as_of": "Sep 2026",
+    "basis": "press report",
+    "source": "https://www.arr.club/rogo/rogo-arr-hit-50m-on-track-for-100m-arr-by-next-year"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Partners with Octus on credit data",
+      "url": "https://rogo.com/newsroom"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Takes ~$30M strategic investment from Barclays, BNP, Citi, MUFG, SocGen",
+      "url": "https://dealroom.co/news/150079-rogo-raises-30m-from-four-banks-as-ai-moves-from-experiment-to-infrastru"
+    },
+    {
+      "date": "2026-09",
+      "headline": "ARR reported to triple to ~$50M",
+      "url": "https://www.arr.club/rogo/rogo-arr-hit-50m-on-track-for-100m-arr-by-next-year"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Raises $160M Series D led by Kleiner Perkins",
+      "url": "https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raises $75M Series C led by Sequoia; opens London office",
+      "url": "https://rogo.ai/news/scaling-rogo-to-build-the-future-of-investment-banking-our-75m-series-c-and-european-expansion"
+    }
+  ],
+  "competitors": [
+    "hebbia",
+    "AlphaSense",
+    "Bloomberg (AI tools)",
+    "model-ml",
+    "Brightwave"
+  ]
+}

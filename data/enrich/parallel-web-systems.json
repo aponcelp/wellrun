@@ -1,0 +1,24 @@
+{
+  "slug": "parallel-web-systems",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "Palo Alto, CA",
+  "headcount_est": {"value": "~50", "as_of": "Apr 2026", "source": "https://www.gate.com/news/detail/parag-agrawals-parallel-raises-100m-series-b-for-ai-agent-search-20678828"},
+  "leadership": [
+    {"name": "Parag Agrawal", "title": "Founder & CEO", "founder": true, "linkedin": "https://linkedin.com/in/paragagr", "source": "http://morningstar.com/news/pr-newswire/20260429sf46075/parallel-raises-at-2-billion-valuation-to-scale-web-infrastructure-for-agents"}
+  ],
+  "funding_history": [
+    {"round": "Seed", "date": "2024-01", "amount": "$30M", "valuation": null, "lead": "Khosla Ventures, Index Ventures, First Round Capital", "source": "https://siliconangle.com/2025/11/12/former-twitter-ceo-parag-agrawals-al-startup-parallel-raises-100-million/"},
+    {"round": "Series A", "date": "2025-11", "amount": "$100M", "valuation": "$740M", "lead": "Kleiner Perkins, Index Ventures", "source": "https://ca.finance.yahoo.com/news/ex-twitter-ceo-agrawals-ai-222020264.html"},
+    {"round": "Series B", "date": "2026-04", "amount": "$100M", "valuation": "$2B", "lead": "Sequoia Capital", "source": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise"}
+  ],
+  "total_raised": "$230M",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-07", "headline": "Partners with Google Cloud for agentic web search on Gemini Enterprise", "url": "https://www.prnewswire.com/news/parallel-web-systems/"},
+    {"date": "2026-04", "headline": "Raises $100M Series B led by Sequoia at $2B valuation", "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise"},
+    {"date": "2026-04", "headline": "Ships upgrades to Search and Extract APIs", "url": "https://parallel.ai/blog/parallel-search-api"},
+    {"date": "2025-11", "headline": "Raises $100M Series A at $740M co-led by Kleiner Perkins and Index", "url": "https://siliconangle.com/2025/11/12/former-twitter-ceo-parag-agrawals-al-startup-parallel-raises-100-million/"}
+  ],
+  "competitors": ["exa", "firecrawl", "Tavily", "perplexity", "Brave Search API"]
+}

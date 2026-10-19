@@ -1,0 +1,220 @@
+{
+  "slug": "anthropic",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~6,000",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/5891f187e4b0bbf964d81192/anthropic"
+  },
+  "leadership": [
+    {
+      "name": "Dario Amodei",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Anthropic"
+    },
+    {
+      "name": "Daniela Amodei",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Anthropic"
+    },
+    {
+      "name": "Jared Kaplan",
+      "title": "Co-founder & Chief Science Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Anthropic"
+    },
+    {
+      "name": "Jack Clark",
+      "title": "Co-founder & Head of Policy (leads Anthropic Institute)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://observer.com/2026/04/anthropic-top-executives-after-labs-launch"
+    },
+    {
+      "name": "Krishna Rao",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/krishna-rao-193b613",
+      "source": "https://www.anthropic.com/company/leadership"
+    },
+    {
+      "name": "Paul Smith",
+      "title": "Chief Commercial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.anthropic.com/company/leadership"
+    },
+    {
+      "name": "Ami Vora",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.anthropic.com/company/leadership"
+    },
+    {
+      "name": "Rahul Patil",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://observer.com/2026/04/anthropic-top-executives-after-labs-launch"
+    },
+    {
+      "name": "Hannah Pritchett",
+      "title": "Chief People Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.anthropic.com/company/leadership"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021-05",
+      "amount": "$124M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Anthropic"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-04",
+      "amount": "$580M",
+      "valuation": null,
+      "lead": "FTX",
+      "source": "https://en.wikipedia.org/wiki/Anthropic"
+    },
+    {
+      "round": "Series C",
+      "date": "2023-05",
+      "amount": "$450M",
+      "valuation": "$4.1B",
+      "lead": "Spark Capital",
+      "source": "https://tracxn.com/d/companies/anthropic/__SzoxXDMin-NK5tKB7ks8yHr6S9Mz68pjVCzFEcGFZ08/funding-and-investors"
+    },
+    {
+      "round": "Strategic (Amazon)",
+      "date": "2023-09",
+      "amount": "$1.25B (of $4B commitment; $2.75B more in Mar 2024)",
+      "valuation": null,
+      "lead": "Amazon",
+      "source": "https://en.wikipedia.org/wiki/Anthropic"
+    },
+    {
+      "round": "Strategic (Google)",
+      "date": "2023-10",
+      "amount": "$500M (+$1.5B committed)",
+      "valuation": null,
+      "lead": "Google",
+      "source": "https://en.wikipedia.org/wiki/Anthropic"
+    },
+    {
+      "round": "Strategic (Amazon)",
+      "date": "2024-11",
+      "amount": "$4B",
+      "valuation": null,
+      "lead": "Amazon",
+      "source": "https://en.wikipedia.org/wiki/Anthropic"
+    },
+    {
+      "round": "Series E",
+      "date": "2025-03",
+      "amount": "$3.5B",
+      "valuation": "$61.5B",
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://en.wikipedia.org/wiki/Anthropic"
+    },
+    {
+      "round": "Series F",
+      "date": "2025-09",
+      "amount": "$13B",
+      "valuation": "$183B",
+      "lead": "ICONIQ, Fidelity, Lightspeed (co-led)",
+      "source": "https://en.wikipedia.org/wiki/Anthropic"
+    },
+    {
+      "round": "Strategic (Microsoft, Nvidia)",
+      "date": "2025-11",
+      "amount": "up to $15B",
+      "valuation": null,
+      "lead": "Microsoft, Nvidia",
+      "source": "https://en.wikipedia.org/wiki/Anthropic"
+    },
+    {
+      "round": "Series G",
+      "date": "2026-02",
+      "amount": "$30B",
+      "valuation": "$380B",
+      "lead": null,
+      "source": "https://fortune.com/2026/03/05/anthropic-cfo-ipo-risk/"
+    },
+    {
+      "round": "Series H",
+      "date": "2026-05",
+      "amount": "$65B (incl. $15B prior hyperscaler commitments)",
+      "valuation": "$965B",
+      "lead": "Altimeter, Dragoneer, Greenoaks, Sequoia",
+      "source": "https://www.anthropic.com/news/series-h"
+    },
+    {
+      "round": "Strategic (AMD)",
+      "date": "2026-07",
+      "amount": "up to $5B",
+      "valuation": null,
+      "lead": "AMD",
+      "source": "https://en.wikipedia.org/wiki/Anthropic"
+    }
+  ],
+  "total_raised": "~$135B–$144B (sources differ)",
+  "revenue_est": {
+    "value": "$16.8B Q3 2026 revenue; $65B+ run rate (end Jul 2026)",
+    "as_of": "Oct 2026",
+    "basis": "press report",
+    "source": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Q3 revenue reported at $16.8B, adjusted-profitable, ahead of IPO",
+      "url": "https://www.reuters.com/business/finance/anthropics-q3-revenue-surges-45-nearly-17-billion-2026-10-14/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Annualized revenue expected to top $100B; IPO as soon as November (NYT)",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Revenue run rate tops $65B at end of July",
+      "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Judge approves $1.5B authors' copyright settlement",
+      "url": "https://www.pcmag.com/news/judge-approves-anthropics-15-billion-copyright-settlement-for-authors"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Confidentially files S-1 for U.S. IPO",
+      "url": "https://www.reuters.com/business/ai-giant-anthropic-confidentially-files-us-ipo-2026-06-01"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raises $65B Series H at $965B post-money valuation",
+      "url": "https://www.anthropic.com/news/series-h"
+    }
+  ],
+  "competitors": [
+    "openai",
+    "mistral-ai",
+    "cohere",
+    "Google DeepMind",
+    "xAI"
+  ]
+}

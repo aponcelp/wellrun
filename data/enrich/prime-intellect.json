@@ -1,0 +1,94 @@
+{
+  "slug": "prime-intellect",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "11–50 (Crunchbase range); board est. ~65",
+    "as_of": "2026",
+    "source": "https://www.crunchbase.com/organization/prime-intellect"
+  },
+  "leadership": [
+    {
+      "name": "Vincent Weisser",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://radical.vc/portfolio/prime-intellect/"
+    },
+    {
+      "name": "Johannes Hagemann",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://radical.vc/portfolio/prime-intellect/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-04",
+      "amount": "$5.5M",
+      "valuation": null,
+      "lead": "Distributed Global, CoinFund",
+      "source": "https://en.wikipedia.org/wiki/Prime_Intellect"
+    },
+    {
+      "round": "Seed extension",
+      "date": "2025-02",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Founders Fund",
+      "source": "https://en.wikipedia.org/wiki/Prime_Intellect"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-07",
+      "amount": "$130M",
+      "valuation": "$1B",
+      "lead": "Radical Ventures",
+      "source": "https://www.primeintellect.ai/blog/series-a"
+    }
+  ],
+  "total_raised": "$150M+ (company-stated)",
+  "revenue_est": {
+    "value": "$100M+ annualized revenue; 6,000+ customers",
+    "as_of": "Jul 2026",
+    "basis": "company-stated",
+    "source": "https://www.primeintellect.ai/blog/series-a"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches Prime Inference for serving frontier open models",
+      "url": "https://aifrontierpost.com/articles/prime-intellect-prime-inference-launch/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Publishes study of frontier models doing autonomous ML research",
+      "url": "https://en.wikipedia.org/wiki/Prime_Intellect"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Raises $130M Series A at $1B led by Radical; $100M+ annualized revenue",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Releases INTELLECT-3, a 106B-parameter MoE trained with large-scale RL",
+      "url": "https://en.wikipedia.org/wiki/Prime_Intellect"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Releases INTELLECT-2, a 32B model trained via distributed RL",
+      "url": "https://en.wikipedia.org/wiki/Prime_Intellect"
+    }
+  ],
+  "competitors": [
+    "together-ai",
+    "modal",
+    "Thinking Machines (Tinker)",
+    "fireworks-ai",
+    "runpod"
+  ]
+}

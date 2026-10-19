@@ -1,0 +1,148 @@
+{
+  "slug": "openai",
+  "checked": "Oct 19, 2026",
+  "founded": 2015,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~11,000",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/566fc72ee4b0be04a58d6733/openai"
+  },
+  "leadership": [
+    {
+      "name": "Sam Altman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://finance.yahoo.com/news/openai-projects-70-billion-annualized-113114847.html"
+    },
+    {
+      "name": "Greg Brockman",
+      "title": "Co-founder & President (now also oversees products)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html"
+    },
+    {
+      "name": "Sarah Friar",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/amp/2026/03/24/openai-secures-an-extra-10-billion-in-record-funding-round-cfo-friar-says.html"
+    },
+    {
+      "name": "Dali Rajic",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://openai.com/index/dali-rajic-chief-revenue-officer/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Nonprofit donations",
+      "date": "2015-12",
+      "amount": "~$133M received ($1B pledged)",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.revenuememo.com/p/openai-funding"
+    },
+    {
+      "round": "Corporate (Microsoft)",
+      "date": "2019-07",
+      "amount": "$1B",
+      "valuation": null,
+      "lead": "Microsoft",
+      "source": "https://web.archive.org/web/20241007195435/https://www.crunchbase.com/organization/openai/company_financials"
+    },
+    {
+      "round": "Corporate (Microsoft)",
+      "date": "2023-01",
+      "amount": "~$10B",
+      "valuation": "~$29B (reported)",
+      "lead": "Microsoft",
+      "source": "https://www.revenuememo.com/p/openai-funding"
+    },
+    {
+      "round": "Secondary / tender",
+      "date": "2023-04",
+      "amount": "$300M+",
+      "valuation": "$27-29B",
+      "lead": null,
+      "source": "https://www.revenuememo.com/p/openai-funding"
+    },
+    {
+      "round": "Venture round (convertible notes)",
+      "date": "2024-10",
+      "amount": "$6.6B",
+      "valuation": "$157B",
+      "lead": "Thrive Capital",
+      "source": "https://fortune.com/2024/10/02/openai-officially-raises-6-6-billion-funding-deal-157-billion-valuation-sam-altman-thrive-capital/"
+    },
+    {
+      "round": "Debt",
+      "date": "2024-10",
+      "amount": "$4B revolving credit facility",
+      "valuation": null,
+      "lead": null,
+      "source": "https://web.archive.org/web/20241007195435/https://www.crunchbase.com/organization/openai/company_financials"
+    },
+    {
+      "round": "Venture round",
+      "date": "2025-03",
+      "amount": "$40B",
+      "valuation": "$300B",
+      "lead": "SoftBank",
+      "source": "https://www.latimes.com:443/business/story/2025-03-31/openai-finalizes-a-record-40-billion-funding-round"
+    },
+    {
+      "round": "Venture round",
+      "date": "2026-03",
+      "amount": "$122B",
+      "valuation": "$852B post-money",
+      "lead": "Amazon ($50B), Nvidia ($30B), SoftBank ($30B)",
+      "source": "https://openai.com/index/accelerating-the-next-phase-ai/"
+    }
+  ],
+  "total_raised": "~$180B+",
+  "revenue_est": {
+    "value": "~$50B annualized",
+    "as_of": "Sep 2026",
+    "basis": "press report",
+    "source": "https://finance.yahoo.com/technology/ai/articles/openai-expects-70-billion-annualized-014338719.html"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Run-rate ~$50B at end of Sept; tells investors it expects $70B+ by year-end",
+      "url": "https://finance.yahoo.com/technology/ai/articles/openai-expects-70-billion-annualized-014338719.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Altman rules out 2026 IPO; confidential filing made in June, 2027 debut targeted",
+      "url": "https://money.usnews.com/investing/news/articles/2026-09-18/openai-expects-to-burn-through-almost-280-billion-by-2030-ft-reports"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Names ex-Wiz president Dali Rajic CRO; Brad Lightcap and Denise Dresser depart",
+      "url": "https://www.thedailystar.net/news/technology/news/openai-appoints-new-cro-4251541"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Fidji Simo steps down; Greg Brockman takes over products",
+      "url": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Closes record $122B round at $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
+    }
+  ],
+  "competitors": [
+    "anthropic",
+    "Google DeepMind",
+    "xAI",
+    "Meta",
+    "mistral-ai"
+  ]
+}

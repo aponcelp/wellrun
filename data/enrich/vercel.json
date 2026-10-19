@@ -1,0 +1,150 @@
+{
+  "slug": "vercel",
+  "checked": "Oct 19, 2026",
+  "founded": 2015,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~1,000",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/5516d8f9e4b07e6319f25b6a/vercel"
+  },
+  "leadership": [
+    {
+      "name": "Guillermo Rauch",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://vercel.com/blog/series-f"
+    },
+    {
+      "name": "Jeanne DeWitt Grosser",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/vercel"
+    },
+    {
+      "name": "Malte Ubl",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/vercel"
+    },
+    {
+      "name": "Tom Occhino",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/vercel"
+    },
+    {
+      "name": "Marten Abrahamsen",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/vercel"
+    },
+    {
+      "name": "Keith Messick",
+      "title": "CMO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/vercel"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2020-04",
+      "amount": "$21M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://siliconvalleyinvestclub.com/companies/vercel"
+    },
+    {
+      "round": "Series B",
+      "date": "2020-12",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "GV",
+      "source": "https://siliconvalleyinvestclub.com/companies/vercel"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-06",
+      "amount": "$102M",
+      "valuation": "$1.1B",
+      "lead": "Bedrock Capital",
+      "source": "https://siliconvalleyinvestclub.com/companies/vercel"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-11",
+      "amount": "$150M",
+      "valuation": "$2.5B",
+      "lead": "GGV Capital (now Notable Capital)",
+      "source": "http://vercel.com/blog/vercel-funding-series-d-and-valuation"
+    },
+    {
+      "round": "Series E",
+      "date": "2024-05",
+      "amount": "$250M",
+      "valuation": "$3.25B",
+      "lead": "Accel",
+      "source": "https://www.reuters.com/technology/vercel-completes-250-mln-series-e-round-325-bln-valuation-2024-05-16/"
+    },
+    {
+      "round": "Series F",
+      "date": "2025-09",
+      "amount": "$300M",
+      "valuation": "$9.3B",
+      "lead": "Accel, GIC",
+      "source": "https://vercel.com/blog/series-f"
+    }
+  ],
+  "total_raised": "~$863M",
+  "revenue_est": {
+    "value": "~$600M ARR",
+    "as_of": "Sep-Oct 2026",
+    "basis": "estimate",
+    "source": "https://sacra.com/c/vercel/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Reported ~$600M ARR, with about half tied to coding agents",
+      "url": "https://www.arr.club/signal/vercel-arr-hit-600m-with-50-comes-from-coding-agents"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Appointed ex-Datadog president Amit Agarwal to its board",
+      "url": "https://www.01net.it/vercel-appoints-amit-agarwal-standard-template-labs-ceo-and-former-datadog-president-to-board-of-directors/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Launched agent framework and enterprise controls for agentic infrastructure",
+      "url": "https://siliconangle.com/2026/06/17/vercel-launches-new-framework-enterprise-controls-agentic-ai-infrastructure/"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Security breach via a third-party AI tool exposed internal systems",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/vercel-security-breach-explained-how-a-third-party-ai-tool-exposed-internal-systems-and-what-it-means-for-developers/articleshow/130485205.cms"
+    },
+    {
+      "date": "2026-04",
+      "headline": "CEO signals IPO readiness as ARR hits $340M run rate",
+      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Raised $300M Series F at $9.3B led by Accel and GIC",
+      "url": "https://vercel.com/blog/series-f"
+    }
+  ],
+  "competitors": [
+    "netlify",
+    "railway",
+    "Cloudflare",
+    "Render"
+  ]
+}

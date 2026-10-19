@@ -1,0 +1,27 @@
+{
+  "slug": "openrouter",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": {"value": "~108", "as_of": "Oct 2026", "source": "https://platform.tracxn.com/a/d/company/64b74dfbb31260256fc7f19e/openrouter"},
+  "leadership": [
+    {"name": "Alex Atallah", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://stripe.com/en-cn/newsroom/news/stripe-agrees-to-acquire-openrouter"},
+    {"name": "Louis Vichy", "title": "Co-founder", "founder": true, "linkedin": "https://linkedin.com/in/louisgv", "source": "https://en.wikipedia.org/wiki/OpenRouter"},
+    {"name": "Chris Clark", "title": "Co-founder & COO", "founder": true, "linkedin": null, "source": "https://platform.tracxn.com/a/d/company/64b74dfbb31260256fc7f19e/openrouter"}
+  ],
+  "funding_history": [
+    {"round": "Seed", "date": "2025", "amount": "$12.5M", "valuation": null, "lead": "Andreessen Horowitz", "source": "https://en.wikipedia.org/wiki/OpenRouter"},
+    {"round": "Series A", "date": "2025-04", "amount": "$28M", "valuation": "~$500M (reported)", "lead": "Menlo Ventures", "source": "https://www.wsj.com/articles/openrouter-a-marketplace-for-ai-models-raises-40-million-168073de"},
+    {"round": "Series B", "date": "2026-05", "amount": "$113M", "valuation": "~$1.3B (reported)", "lead": "CapitalG", "source": "https://openrouter.ai/blog/series-b/"},
+    {"round": "Acquisition (agreed)", "date": "2026-08", "amount": "~$7.5B (reported, terms undisclosed)", "valuation": null, "lead": "Stripe", "source": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html"}
+  ],
+  "total_raised": "~$153M (before Stripe acquisition)",
+  "revenue_est": {"value": "~$160M annualized revenue", "as_of": "Aug 2026", "basis": "estimate", "source": "https://sacra.com/c/openrouter/"},
+  "news_timeline": [
+    {"date": "2026-08", "headline": "Stripe agrees to acquire OpenRouter; NYT puts price near $7.5B", "url": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html"},
+    {"date": "2026-07", "headline": "OpenRouter reportedly hits ~$140M ARR, nearly 3x since April", "url": "https://www.arr.club/signal/openrouter-arr-hit-140m-with-nearly-3x-growth-since-april"},
+    {"date": "2026-05", "headline": "Raises $113M Series B led by CapitalG at ~$1.3B; 25T tokens/week", "url": "https://www.businesswire.com/news/home/20260526953416/en/OpenRouter-Raises-$113-Million-CapitalG-led-Series-B-as-Weekly-Volume-Explodes-to-25T-Tokens"},
+    {"date": "2025-06", "headline": "Announces $40M seed + Series A from a16z and Menlo Ventures", "url": "https://www.globenewswire.com/news-release/2025/06/25/3105125/0/en/OpenRouter-raises-40-million-to-scale-up-multi-model.html"}
+  ],
+  "competitors": ["Portkey", "LiteLLM", "vercel", "together-ai", "Martian"]
+}
