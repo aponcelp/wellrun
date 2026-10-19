@@ -33367,5 +33367,59 @@
    "New York",
    "Remote"
   ]
+ },
+ {
+  "name": "Shepherd",
+  "slug": "shepherd",
+  "site": "https://www.shepherdinsurance.com",
+  "careers_url": "https://jobs.ashbyhq.com/shepherd",
+  "what_they_do": "AI-native commercial insurance (casualty, builder's risk, workers' comp) for construction and energy",
+  "problem": "Contractors and data-center or energy developers wait weeks for quotes and pay prices blind to their jobsite safety data",
+  "industry": "Insurtech / commercial P&C (MGU) for construction and energy",
+  "stage": "Series B",
+  "last_round": "$42M",
+  "last_round_date": "Mar 2026",
+  "lead_investors": "Intact Private Capital",
+  "total_open_roles": "23",
+  "ops_roles": "Customer Experience Associate",
+  "hiring_trend": "Headcount ~47 (mid-2025) → ~75 (Mar 2026) → ~103 on LinkedIn (est.); 23 open roles, 5 posted Oct 19",
+  "headcount": "~75-100",
+  "latest_news": "Launched admitted Workers' Comp in 36 states via expanded Core Specialty program",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.withshepherd.com/blog/introducing-new-workers-compensation-program",
+  "traction": "Revenue 7x in 24 mo, 23x 2022-25 (company-stated); 630+ customers, 1,600+ policies",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Fast-growing niche MGU with a real data angle (jobsite telemetry, every submission structured), but small next to Chubb, Travelers and other construction-casualty incumbents, and it writes on carriers' paper (Intact, Core Specialty), so capacity is borrowed.",
+  "distance_sources": [
+   {
+    "label": "Shepherd: doubled GWP run rate H1 2026, Intact capacity deal, 630+ customers (Aug 2026)",
+    "url": "https://www.shepherdinsurance.com/blog/intact-partnership-momentum"
+   },
+   {
+    "label": "SiliconANGLE: $42M Series B, revenue 7x off an undisclosed base (Mar 2026)",
+    "url": "https://siliconangle.com/2026/03/24/insurance-tech-startup-shepherd-raises-42m-underwrite-physical-layer-ai/"
+   },
+   {
+    "label": "Shepherd: Behind our Series B, ~75 people across five offices (Mar 2026)",
+    "url": "https://www.withshepherd.com/blog/behind-our-42m-series-b"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Chicago"
+  ]
  }
 ]

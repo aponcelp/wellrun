@@ -2741,6 +2741,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "shepherd": {
+  "url": "https://www.shepherdinsurance.com/og/home",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-19"
+ },
  "shield-ai": {
   "url": "https://shield.ai/wp-content/uploads/2025/03/ogp.jpg",
   "kind": "og",
