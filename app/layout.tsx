@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Anton, IBM_Plex_Mono, Inter } from "next/font/google";
 import { SITE } from "@/lib/rank";
+import Built from "@/components/Built";
 import "./globals.css";
 
 const display = Anton({ weight: "400", subsets: ["latin"], variable: "--f-display", display: "swap" });
@@ -43,10 +44,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         {children}
         <footer className="foot">
-          <p>
+          <Built />
+          <p className="foot__by">
             Well Run is a side project by{" "}
-            <a href="https://www.linkedin.com/in/alfredoponcedeleon" target="_blank" rel="noopener">Alfredo Ponce de León</a>{" "}
-            · ops roles from public Ashby, Greenhouse and Lever boards · finish line: <span className="exit">exit 0</span>
+            <a href="https://www.linkedin.com/in/alfredoponcedeleon" target="_blank" rel="noopener">Alfredo Ponce de León</a>
           </p>
         </footer>
       </body>

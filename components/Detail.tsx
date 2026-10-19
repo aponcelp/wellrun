@@ -4,6 +4,7 @@ import type { Company, Source } from "@/lib/types";
 import { checkedOf, gdOf, has, opsOf, plainEngine } from "@/lib/rank";
 import { cap } from "@/lib/track";
 
+/** One tile of the card: a label, then its content. Same blocks, in the same order, as the original site's card. */
 function Block({ label, mod, children }: { label: string; mod?: string; children: ReactNode }) {
   return (
     <div className={"d-b" + (mod ? " " + mod.split(" ").map((m) => "d-b--" + m).join(" ") : "")}>
@@ -12,6 +13,23 @@ function Block({ label, mod, children }: { label: string; mod?: string; children
     </div>
   );
 }
+
+/** A compact label/value row inside a tile; `big` sets the value in condensed numerals. */
+function Fact({ k, v, big }: { k: string; v: ReactNode; big?: boolean }) {
+  return (
+    <div className="d-f">
+      <dt>{k}</dt>
+      <dd className={big ? "d-big" : ""}>{v}</dd>
+    </div>
+  );
+}
+
+/** "644 open roles; S-1 filed, …" → "S-1 filed, …" (the count is shown on its own). */
+const trendNote = (t: string) =>
+  t
+    .replace(/^\s*~?[\d,]+\+?\s+open\s+roles?\s*[;,.:·-]?\s*/i, "")
+    .replace(/^\s*[;,.]\s*/, "")
+    .trim();
 
 /** The full company card: used inline on the board and on each company's own page. */
 export default function Detail({ c }: { c: Company }) {
@@ -44,18 +62,29 @@ export default function Detail({ c }: { c: Company }) {
   };
   const ops = opsOf(c);
   const gd = gdOf(c);
-  const trend = [
-    has(c.hiring_trend) && String(c.hiring_trend),
-    String(c.total_open_roles ?? "").trim() && "open roles " + String(c.total_open_roles).trim(),
-    has(c.headcount) && "headcount " + c.headcount,
-  ].filter(Boolean).join(" · ");
-  const newsText = has(c.latest_news) ? c.latest_news + (has(c.latest_news_date) ? ` (${c.latest_news_date})` : "") : "";
-  let gdText: string;
-  if (gd) gdText = `${gd} ★` + (has(c.glassdoor_reviews) ? ` (${c.glassdoor_reviews} reviews)` : "");
-  else if (has(c.glassdoor_rating)) gdText = /^</.test(String(c.glassdoor_rating).trim()) ? "Fewer than 5 reviews, no rating yet" : String(c.glassdoor_rating);
-  else gdText = "No rating yet";
-  const funding = [c.stage, c.last_round, c.last_round_date, c.lead_investors].filter(has).join(" · ");
+  const open = String(c.total_open_roles ?? "").trim();
+  const note = has(c.hiring_trend) ? (open ? trendNote(String(c.hiring_trend)) : String(c.hiring_trend).trim()) : "";
+  const hasTrend = !!(open || note || has(c.headcount));
   const locs = c.hiring_locations || [];
+
+  // Glassdoor only takes a tile when there is something to say.
+  let gdNode: ReactNode = null;
+  if (gd) {
+    const t = (
+      <>
+        <span className="d-big">{gd} ★</span>
+        {has(c.glassdoor_reviews) && <span className="d-sub"> {c.glassdoor_reviews} reviews</span>}
+      </>
+    );
+    gdNode = has(c.glassdoor_url) ? ext(c.glassdoor_url, <>{t} ↗</>) : <p>{t}</p>;
+  } else if (has(c.glassdoor_rating) && /^</.test(String(c.glassdoor_rating).trim())) {
+    const t = "Fewer than 5 reviews, no rating yet";
+    gdNode = has(c.glassdoor_url) ? ext(c.glassdoor_url, t + " ↗") : <p className="d-note">{t}</p>;
+  } else if (has(c.glassdoor_url)) {
+    gdNode = ext(c.glassdoor_url, "No rating yet · see Glassdoor ↗");
+  }
+
+  const hasFunding = [c.stage, c.last_round, c.last_round_date, c.lead_investors].some(has);
 
   return (
     <>
@@ -68,35 +97,58 @@ export default function Detail({ c }: { c: Company }) {
         {(has(c.what_they_do) || has(c.traction)) && (
           <Block label="What they do">
             {has(c.what_they_do) && <p>{c.what_they_do}</p>}
-            {has(c.traction) && <p className="d-note">{c.traction}</p>}
+            {has(c.traction) && (
+              <p className="d-traction">
+                <span className="d-tag">Traction</span> {c.traction}
+              </p>
+            )}
           </Block>
         )}
-        {trend && (
+        {hasTrend && (
           <Block label="Hiring trend">
-            <p>{trend}</p>
+            <dl className="d-facts">
+              {open && <Fact k="Open roles" v={open} big />}
+              {ops.length > 0 && <Fact k="Ops roles" v={ops.length} big />}
+              {has(c.headcount) && <Fact k="Headcount" v={c.headcount} />}
+            </dl>
+            {note && <p className="d-note">{note}</p>}
           </Block>
         )}
         {locs.length > 0 && (
           <Block label="Hiring in">
-            <p>{locs.join(" · ")}</p>
+            <ul className="d-locs">
+              {locs.map((l) => (
+                <li key={l}>{l}</li>
+              ))}
+            </ul>
           </Block>
         )}
-        {newsText && (
-          <Block label="Latest news">{has(c.latest_news_url) ? ext(c.latest_news_url, newsText + " ↗") : <p>{newsText}</p>}</Block>
+        {has(c.latest_news) && (
+          <Block label="Latest news">
+            {has(c.latest_news_date) && <p className="d-date">{c.latest_news_date}</p>}
+            {has(c.latest_news_url) ? ext(c.latest_news_url, c.latest_news + " ↗") : <p>{c.latest_news}</p>}
+          </Block>
         )}
-        <Block label="Glassdoor">
-          {has(c.glassdoor_url) ? ext(c.glassdoor_url, gdText + " ↗") : <p className={gd ? "" : "d-note"}>{gdText}</p>}
-        </Block>
-        {funding && (
+        {gdNode && <Block label="Glassdoor">{gdNode}</Block>}
+        {hasFunding && (
           <Block label="Funding">
-            <p>{funding}</p>
+            <dl className="d-facts">
+              {has(c.last_round) && <Fact k="Last round" v={c.last_round} big />}
+              {has(c.stage) && <Fact k="Stage" v={c.stage} />}
+              {has(c.last_round_date) && <Fact k="Date" v={c.last_round_date} />}
+            </dl>
+            {has(c.lead_investors) && (
+              <p className="d-note">
+                <span className="d-tag">Led by</span> {c.lead_investors}
+              </p>
+            )}
           </Block>
         )}
         {has(c.distance) && (
           <Block label="Distance" mod="wide">
-            <p>
+            <p className="d-dist">
               <b>{c.distance}</b>
-              {has(c.engine) && c.engine !== "None yet" ? " · edge: " + plainEngine(c.engine) : ""}
+              {has(c.engine) && c.engine !== "None yet" && <span className="d-sub"> · edge: {plainEngine(c.engine)}</span>}
             </p>
             {has(c.distance_why) && <p>{c.distance_why}</p>}
             {sources(c.distance_sources)}
@@ -108,7 +160,7 @@ export default function Detail({ c }: { c: Company }) {
             {sources(c.red_flags_sources)}
           </Block>
         )}
-        <Block label="Open ops roles" mod="wide">
+        <Block label={ops.length ? `Open ops roles · ${ops.length}` : "Open ops roles"} mod="wide roles">
           {ops.length ? (
             <ul className="d-roles" aria-label={`Open ops roles at ${c.name}`}>
               {ops.map((t, i) => (

@@ -1,5 +1,5 @@
 import Board from "@/components/Board";
-import { Scoring, Story } from "@/components/Intro";
+import { Hero } from "@/components/Intro";
 import Track, { type Runner } from "@/components/Track";
 import { getCompanies, getCompaniesInDataOrder } from "@/lib/data";
 import { hostOf, toRows, zoneOf } from "@/lib/rank";
@@ -33,18 +33,7 @@ export default async function Home() {
             by <a href="https://www.linkedin.com/in/alfredoponcedeleon" target="_blank" rel="noopener">Alfredo Ponce de León</a>
           </span>
         </div>
-        <div className="hero">
-          <div className="hero__copy">
-            <h1 className="tagline">
-              Startups that run well. <span>Private companies only, paced by funding and buzz, curated daily.</span>
-            </h1>
-            <div className="intro">
-              <Story />
-              <Scoring />
-            </div>
-          </div>
-          <Track pool={pool} />
-        </div>
+        <Hero track={<Track pool={pool} />} />
       </header>
       <main>
         <Board rows={rows} />

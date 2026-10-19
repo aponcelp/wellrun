@@ -7,6 +7,7 @@ import { DistMark, ZoneMark } from "@/components/Marks";
 import { getCompanies, getCompany } from "@/lib/data";
 import { DMETA, SITE, fmtScore, has, hostOf, opsOf, zoneOf } from "@/lib/rank";
 import CoLinks from "./CoLinks";
+import CoTrack from "@/components/CoTrack";
 
 export const dynamicParams = false;
 
@@ -94,7 +95,8 @@ export default async function CompanyPage({ params }: Props) {
             <dd className="co__ops">{ops || "—"}</dd>
           </div>
         </dl>
-        <CoLinks name={c.name} site={c.site} careers={has(c.careers_url) ? c.careers_url : ""} />
+        <CoTrack all={await getCompanies()} c={c} />
+        <CoLinks name={c.name} slug={c.slug} site={c.site} careers={has(c.careers_url) ? c.careers_url : ""} />
       </header>
       <article className="sheet sheet--page">
         <div className="sheet__in">

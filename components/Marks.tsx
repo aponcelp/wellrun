@@ -1,7 +1,7 @@
 import type { ZoneKey } from "@/lib/types";
 import { DMETA, ZONE_BY_KEY } from "@/lib/rank";
 
-/** A small clay token in the zone's color, with the zone's name. */
+/** Pace: the split in condensed numerals, then the legacy signal bars, the zone tag and the score. */
 export function ZoneMark({ zone, score, split, meter }: { zone: ZoneKey; score?: string; split?: boolean; meter?: boolean }) {
   const z = ZONE_BY_KEY[zone];
   return (
@@ -13,18 +13,18 @@ export function ZoneMark({ zone, score, split, meter }: { zone: ZoneKey; score?:
         </span>
       )}
       <span className="zm__line">
-        <i className="zm__tok" aria-hidden="true" />
+        {meter && <Meter on={z.bars} of={5} kind="zone" />}
         <span className="zm__name">{z.name}</span>
         {score != null && <span className="zm__score">{score}</span>}
       </span>
-      {meter && <Meter on={z.bars} of={5} />}
     </span>
   );
 }
 
-export function Meter({ on, of }: { on: number; of: number }) {
+/** Bars as on the original site: `zone` = rising signal bars in the zone color; `dist` = four flat segments. */
+export function Meter({ on, of, kind = "dist" }: { on: number; of: number; kind?: "zone" | "dist" }) {
   return (
-    <span className="meter" aria-hidden="true">
+    <span className={kind === "zone" ? "zbars" : "dbars"} aria-hidden="true">
       {Array.from({ length: of }, (_, i) => (
         <i key={i} className={i < on ? "on" : ""} />
       ))}

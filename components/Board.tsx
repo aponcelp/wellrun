@@ -2,12 +2,13 @@
 import Link from "next/link";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { Company, Row } from "@/lib/types";
-import { BUCKET_ORDER, DISTS, SORTS, SORT_NOTE, STAGES, ZONES, fmtScore, slugify, type SortKey } from "@/lib/rank";
+import { BUCKET_ORDER, DISTS, SORTS, SORT_NOTE, STAGES, ZONES, fmtScore, hostOf, type SortKey } from "@/lib/rank";
 import { cap } from "@/lib/track";
 import { reportError } from "@/lib/monitoring";
 import Detail from "./Detail";
 import { DistMark, ZoneMark } from "./Marks";
 import Logo from "./Logo";
+import CopyLink from "./CopyLink";
 
 type FilterKey = "chart" | "industry" | "stage" | "zone" | "dist";
 type State = { hiring: boolean; chart: string; industry: string; stage: string; zone: string; dist: string; sort: SortKey; q: string };
@@ -134,19 +135,9 @@ export default function Board({ rows }: { rows: Row[] }) {
   const chartMode = s.sort === "fastest" && !s.hiring && !q && [s.industry, s.stage, s.zone, s.dist].every((v) => v === "All");
   const total = rows.length;
   const filterCount = [s.hiring, s.chart !== "All", s.industry !== "All", s.stage !== "All", s.zone !== "All", s.dist !== "All"].filter(Boolean).length;
-  const advCount = [s.hiring, s.chart !== "All", s.industry !== "All", s.dist !== "All"].filter(Boolean).length;
+  const advCount = [s.hiring, s.chart !== "All", s.industry !== "All", s.stage !== "All", s.dist !== "All"].filter(Boolean).length;
   const active = filterCount > 0 || !!q;
   const left = list.length - shown;
-
-  let cmd = "$ well_run";
-  if (s.hiring) cmd += " --hiring-ops";
-  if (s.chart !== "All") cmd += " --chart=" + slugify(s.chart);
-  if (s.zone !== "All") cmd += " --zone=" + s.zone;
-  if (s.dist !== "All") cmd += " --distance=" + slugify(s.dist);
-  if (s.industry !== "All") cmd += " --industry=" + slugify(s.industry);
-  if (s.stage !== "All") cmd += " --stage=" + slugify(s.stage);
-  if (s.sort !== "fastest") cmd += " --sort=" + s.sort;
-  if (s.q.trim()) cmd += ` | grep -i "${s.q.trim()}"`;
 
   const chips = (key: FilterKey, values: string[], label: (v: string) => string) => (
     <div className="chips" role="group" aria-label={key}>
@@ -167,8 +158,16 @@ export default function Board({ rows }: { rows: Row[] }) {
 
   const sortButtons = (from: "sorts" | "column", cls: string) =>
     (["fastest", "distance", "hiring"] as SortKey[]).map((k) => (
-      <button key={k} type="button" className={cls} aria-pressed={s.sort === k} onClick={() => pickSort(k, from)}>
+      <button
+        key={k}
+        type="button"
+        className={cls}
+        aria-pressed={s.sort === k}
+        aria-label={from === "column" ? `Sort by ${SORT_LABEL[k]}` : undefined}
+        onClick={() => pickSort(k, from)}
+      >
         {SORT_LABEL[k]}
+        {from === "column" && <i className="cols__arr" aria-hidden="true">{s.sort === k ? "↓" : "↕"}</i>}
       </button>
     ));
 
@@ -184,9 +183,7 @@ export default function Board({ rows }: { rows: Row[] }) {
   const chase = (first: boolean) => (
     <li className={"chartline chartline--chase" + (first ? " chartline--top" : "")} key="chase">
       <h2 className="chartline__title">The Chase Pack</h2>
-      <p className="chartline__sub">
-        #101 to #{total}, chasing the top 100
-      </p>
+      <p className="chartline__sub">ranks 101 to {total}, chasing the top 100 · re-ranked every Sunday</p>
       <button type="button" className="chartline__jump" onClick={() => jump("Well Run 100")}>
         Back to the Well Run 100 ↑
       </button>
@@ -215,25 +212,76 @@ export default function Board({ rows }: { rows: Row[] }) {
               onChange={(e) => onSearch(e.target.value)}
             />
           </label>
-          <button
-            type="button"
-            className="ftoggle"
-            aria-expanded={filtersOpen}
-            aria-controls="fmore"
-            onClick={() => {
-              cap("filters_toggled");
-              setFiltersOpen((o) => !o);
-            }}
-          >
-            Filters{filterCount > 0 && <b>{filterCount}</b>}
-            <i aria-hidden="true">+</i>
-          </button>
+        </div>
+        <div className="fbar">
+          <span className="fbar__k" id="fbar-k">Filter by zone</span>
+          <div className="fbar__zones" role="group" aria-labelledby="fbar-k">
+            {ZONES.map((z) => (
+              <button
+                key={z.key}
+                type="button"
+                className={`ztog z-${z.key}`}
+                aria-pressed={s.zone === z.key}
+                onClick={() => pickFilter("zone", z.key)}
+              >
+                <i className="zm__tok" aria-hidden="true" />
+                {z.name}
+              </button>
+            ))}
+          </div>
+          <div className="fbar__end">
+            <button
+              type="button"
+              className="fmore-btn"
+              aria-expanded={filtersOpen}
+              aria-controls="fmore"
+              onClick={() => {
+                cap("filters_toggled");
+                setFiltersOpen((o) => !o);
+              }}
+            >
+              <span className="fmore-btn__mark" aria-hidden="true">{filtersOpen ? "−" : "+"}</span>
+              More filters
+              {advCount > 0 && <b>{advCount}</b>}
+            </button>
+            {active && (
+              <button type="button" className="fclear" onClick={reset}>
+                Clear <span aria-hidden="true">×</span>
+              </button>
+            )}
+          </div>
+        </div>
+        <div className="fmore" id="fmore" hidden={!filtersOpen}>
+          <div className="frow">
+            <span className="frow__k">Stage</span>
+            {chips("stage", STAGES, (v) => (v === "All" ? "Any" : v))}
+          </div>
+          <div className="frow">
+            <span className="frow__k">Hiring</span>
+            <div className="chips">
+              <button type="button" className="chip" id="hiring" aria-pressed={s.hiring} onClick={toggleHiring}>
+                Hiring ops
+              </button>
+            </div>
+          </div>
+          <div className="frow">
+            <span className="frow__k">Distance</span>
+            {chips("dist", ["All"].concat(DISTS), (v) => v)}
+          </div>
+          <div className="frow">
+            <span className="frow__k">Chart</span>
+            {chips("chart", ["All", "Well Run 100", "Chase Pack"], (v) => v)}
+          </div>
+          <div className="frow">
+            <span className="frow__k">Industry</span>
+            {chips("industry", industries, (v) => v)}
+          </div>
         </div>
         <div className="sortbar">
           <h2 className="sortbar__h">Today&apos;s splits</h2>
-          <div className="seg" role="group" aria-label="Sort by">
-            <span className="seg__k">Sort</span>
-            {sortButtons("column", "seg__b")}
+          <div className="sortby" role="group" aria-labelledby="sortby-k">
+            <span className="sortby__k" id="sortby-k">Sort by</span>
+            <span className="sortby__seg">{sortButtons("sorts", "sortby__b")}</span>
           </div>
           <span className="sortbar__note">{SORT_NOTE[s.sort]}</span>
           {active && (
@@ -242,65 +290,13 @@ export default function Board({ rows }: { rows: Row[] }) {
             </output>
           )}
         </div>
-        <div className="fmore" id="fmore" hidden={!filtersOpen}>
-          <div className="frow">
-            <span className="frow__k">Zone</span>
-            {chips("zone", ["All"].concat(ZONES.map((z) => z.key)), (v) => (v === "All" ? "All" : ZONE_LABEL[v]))}
-          </div>
-          <div className="frow">
-            <span className="frow__k">Stage</span>
-            {chips("stage", STAGES, (v) => (v === "All" ? "Any" : v))}
-          </div>
-          <div className="frow">
-            <span className="frow__k">Sort</span>
-            <div className="chips" role="group" aria-label="Sort order">
-              {(["fastest", "distance", "hiring"] as SortKey[]).map((k) => (
-                <button key={k} type="button" className="chip" aria-pressed={s.sort === k} onClick={() => pickSort(k, "sorts")}>
-                  {k === "fastest" ? "Fastest" : SORT_LABEL[k]}
-                </button>
-              ))}
-            </div>
-          </div>
-          <details className="adv" id="adv">
-            <summary>
-              <span className="frow__k">More</span>
-              <span className="adv__lbl">
-                hiring, chart, distance, industry{advCount > 0 && <b>{advCount}</b>}
-              </span>
-              <i aria-hidden="true">+</i>
-            </summary>
-            <div className="frow">
-              <span className="frow__k">Hiring</span>
-              <div className="chips">
-                <button type="button" className="chip" id="hiring" aria-pressed={s.hiring} onClick={toggleHiring}>
-                  Hiring ops
-                </button>
-              </div>
-            </div>
-            <div className="frow">
-              <span className="frow__k">Chart</span>
-              {chips("chart", ["All", "Well Run 100", "Chase Pack"], (v) => v)}
-            </div>
-            <div className="frow">
-              <span className="frow__k">Distance</span>
-              {chips("dist", ["All"].concat(DISTS), (v) => v)}
-            </div>
-            <div className="frow">
-              <span className="frow__k">Industry</span>
-              {chips("industry", industries, (v) => v)}
-            </div>
-          </details>
-          <p className="echo">
-            <code>{cmd}</code>
-          </p>
-        </div>
       </div>
 
       <div className="cols">
         <span>Pos</span>
         <span>Company</span>
         {sortButtons("column", "cols__b")}
-        <span />
+        <span className="sr-only">Details</span>
       </div>
 
       <ol className="chart" id="log" ref={listRef} key={version}>
@@ -335,6 +331,7 @@ export default function Board({ rows }: { rows: Row[] }) {
                   }}
                 >
                   <span className="row__pos">
+                    <i className={"row__dot" + (r.ops > 0 ? " on" : "")} aria-hidden="true" />
                     <span className="sr-only">Position </span>
                     {p}
                     {r.ops > 0 && <span className="sr-only">, hiring ops</span>}
@@ -376,12 +373,18 @@ export default function Board({ rows }: { rows: Row[] }) {
                       </span>
                     )}
                   </span>
-                  <span className="row__caret" aria-hidden="true" />
+                  <span className="row__more" aria-hidden="true">
+                    <span className="row__more-t">{isOpen ? "Close" : "Details"}</span>
+                    <i className="row__chev" />
+                  </span>
                 </button>
               </div>
               <div className="sheet" id={pid} hidden={!isOpen}>
                 {isOpen && (
                   <div className="sheet__in">
+                    <button type="button" className="xclose sheet__close" onClick={() => toggle(r)} aria-label={`Close ${r.name} details`}>
+                      Close <span aria-hidden="true">×</span>
+                    </button>
                     {d && d !== "loading" && d !== "error" ? (
                       <Detail c={d} />
                     ) : d === "error" ? (
@@ -393,26 +396,29 @@ export default function Board({ rows }: { rows: Row[] }) {
                         <i />
                       </div>
                     )}
-                    <p className="sheet__links">
-                      <Link
-                        href={`/${r.slug}`}
-                        prefetch={false}
-                        onClick={(e) => cap("company_link_clicked", { company: r.name, role: "", url: e.currentTarget.href })}
-                      >
-                        {r.name}&apos;s full page →
-                      </Link>
+                    <div className="sheet__links">
+                      <span className="sheet__share">
+                        <Link
+                          href={`/${r.slug}`}
+                          prefetch={false}
+                          onClick={(e) => cap("company_link_clicked", { company: r.name, role: "", url: e.currentTarget.href })}
+                        >
+                          {r.name}&apos;s Well Run page <small>(shareable link)</small> →
+                        </Link>
+                        <CopyLink slug={r.slug} name={r.name} />
+                      </span>
                       {r.site && (
                         <a
                           href={r.site}
                           target="_blank"
                           rel="noopener"
-                          aria-label={`${r.name} website`}
+                          aria-label={`${hostOf(r.site) || r.name + " website"} (opens ${r.name}'s own site)`}
                           onClick={() => cap("company_link_clicked", { company: r.name, role: "", url: r.site })}
                         >
-                          site ↗
+                          {hostOf(r.site) || "Website"} ↗
                         </a>
                       )}
-                    </p>
+                    </div>
                   </div>
                 )}
               </div>

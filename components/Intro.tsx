@@ -1,22 +1,13 @@
 "use client";
-import { useState } from "react";
+import { useState, type ReactNode } from "react";
 import { DMETA, DISTS, ZONES } from "@/lib/rank";
 import { cap } from "@/lib/track";
 import { Meter } from "./Marks";
 
-/** "What is Well Run?" (copy kept verbatim from the original site). */
-export function Story() {
+/** "What is Well Run?" body (copy kept verbatim from the original site). */
+function StoryBody() {
   return (
-    <details
-      className="story"
-      id="story"
-      onClick={(e) => {
-        const sum = (e.target as HTMLElement).closest("#story > summary");
-        if (sum && !(e.currentTarget as HTMLDetailsElement).open) cap("story_opened");
-      }}
-    >
-      <summary>What is Well Run?</summary>
-      <div className="story__body">
+    <div className="story__body">
         <p className="story__lead">Startups announce big rounds every week. I wanted to know how they&apos;re really doing, so I built a score from public signals and gave it a race theme.</p>
         <div className="story__grid">
           <div className="story__item"><span className="story__k">Pace</span><p>How fast a company is moving right now: hiring, recent funding, real growth, minus red flags like layoffs. Zones run from Sprint to Steady.</p></div>
@@ -25,37 +16,21 @@ export function Story() {
         </div>
         <p className="story__cta">Know a startup that belongs here? <a href="https://www.linkedin.com/in/alfredoponcedeleon" target="_blank" rel="noopener">Send it my way →</a></p>
       </div>
-    </details>
   );
 }
 
-/** "How scoring works" toggle and legend. */
-export function Scoring() {
-  const [open, setOpen] = useState(false);
+/** "How scoring works" legend body. */
+function LegendBody() {
   return (
-    <>
-      <button
-        type="button"
-        className="ltoggle"
-        id="ltoggle"
-        aria-expanded={open}
-        aria-controls="legendwrap"
-        onClick={() => {
-          cap("scoring_help_toggled");
-          setOpen((o) => !o);
-        }}
-      >
-        How scoring works<i aria-hidden="true">+</i>
-      </button>
-      <div className={"legend" + (open ? " is-open" : "")} id="legendwrap" aria-label="Pace legend" hidden={!open}>
+    <div className="legend" aria-label="Pace legend">
         <div className="legend__col">
           <p className="legend__rule"><b>Pace = momentum:</b> open roles (all teams), how recent the last round was, traction (ARR, customers, headcount) and red flags. Checked weekly.</p>
           <ul className="legend__zones">
             {ZONES.map((z) => (
               <li key={z.key} className={`z-${z.key}`}>
-                <span className="zm"><i className="zm__tok" aria-hidden="true" /><span className="zm__name">{z.name}</span></span>
+                <span className="zm"><span className="zm__name">{z.name}</span></span>
                 <span className="legend__split">{z.split}<small>/km</small></span>
-                <Meter on={z.bars} of={5} />
+                <Meter on={z.bars} of={5} kind="zone" />
                 <span className="legend__n">{z.range}</span>
                 {z.desc && <span className="legend__d">{z.desc}</span>}
               </li>
@@ -104,6 +79,71 @@ export function Scoring() {
           </details>
         </div>
       </div>
+  );
+}
+
+type PanelKey = "story" | "legend";
+
+/** A clear open/close toggle: a square +/− mark and a label whose verb changes with the state. */
+export function PanelToggle({ open, onClick, label, controls, id }: { open: boolean; onClick: () => void; label: string; controls: string; id?: string }) {
+  return (
+    <button type="button" className={"ptoggle" + (open ? " is-open" : "")} id={id} aria-expanded={open} aria-controls={controls} onClick={onClick}>
+      <span className="ptoggle__mark" aria-hidden="true">{open ? "−" : "+"}</span>
+      <span className="ptoggle__lbl">{label}</span>
+      <span className="ptoggle__state" aria-hidden="true">{open ? "Close" : "Open"}</span>
+    </button>
+  );
+}
+
+/**
+ * The hero row (headline + toggles on the left, the track on the right) and, below it, the two
+ * explainer panels. The panels open full-width under the hero so they never push into the track.
+ */
+export function Hero({ track }: { track: ReactNode }) {
+  const [open, setOpen] = useState<Record<PanelKey, boolean>>({ story: false, legend: false });
+  const flip = (k: PanelKey) => {
+    if (k === "story" && !open.story) cap("story_opened");
+    if (k === "legend") cap("scoring_help_toggled");
+    setOpen((o) => ({ ...o, [k]: !o[k] }));
+  };
+  const head = (k: PanelKey, title: string) => (
+    <div className="panel__head">
+      <h2 className="panel__title">{title}</h2>
+      <button type="button" className="xclose" onClick={() => flip(k)}>
+        Close <span aria-hidden="true">×</span>
+      </button>
+    </div>
+  );
+  return (
+    <>
+      <div className="hero">
+        <div className="hero__copy">
+          <h1 className="tagline">
+            Startups that run well. <span>Private companies only, paced by funding and buzz, curated daily.</span>
+          </h1>
+          <div className="intro">
+            <PanelToggle open={open.story} onClick={() => flip("story")} label="What is Well Run?" controls="story" />
+            <PanelToggle open={open.legend} onClick={() => flip("legend")} label="How scoring works" controls="legendwrap" id="ltoggle" />
+          </div>
+        </div>
+        {track}
+      </div>
+      <section className="panel" id="story" hidden={!open.story} aria-label="What is Well Run?">
+        {open.story && (
+          <>
+            {head("story", "What is Well Run?")}
+            <StoryBody />
+          </>
+        )}
+      </section>
+      <section className="panel" id="legendwrap" hidden={!open.legend} aria-label="How scoring works">
+        {open.legend && (
+          <>
+            {head("legend", "How scoring works")}
+            <LegendBody />
+          </>
+        )}
+      </section>
     </>
   );
 }
