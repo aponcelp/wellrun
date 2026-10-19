@@ -919,3 +919,14 @@ a.row__name:hover { text-decoration: underline; text-decoration-color: var(--cla
   .pf-h { font-size: 24px; }
   .pf-tl li { grid-template-columns: 66px minmax(0, 1fr); gap: 10px; }
 }
+
+/* Newsletter signup line (footer, every page) */
+.signup { max-width: 520px; margin: 0 auto 28px; padding: 18px 0 0; text-align: left; }
+.signup__label { display: block; font-family: var(--f-mono), monospace; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-2); margin-bottom: 8px; }
+.signup__row { display: flex; gap: 8px; }
+.signup input { flex: 1; min-width: 0; font: inherit; font-size: 15px; padding: 10px 12px; border: 2px solid var(--ink); border-radius: 0; background: #fff; color: var(--ink); }
+.signup input:focus { outline: none; box-shadow: 0 0 0 3px var(--lime); }
+.signup button { font: inherit; font-weight: 700; font-size: 14px; padding: 10px 16px; border: 2px solid var(--ink); background: var(--ink); color: var(--lime); cursor: pointer; }
+.signup button:disabled { opacity: .6; cursor: default; }
+.signup__err { margin: 6px 0 0; font-size: 13px; color: #b5482a; }
+.signup--done { font-size: 15px; color: var(--ink); }

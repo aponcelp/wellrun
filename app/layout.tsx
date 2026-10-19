@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Anton, IBM_Plex_Mono, Inter } from "next/font/google";
 import { SITE } from "@/lib/rank";
 import Built from "@/components/Built";
+import Signup from "@/components/Signup";
 import "./globals.css";
 
 const display = Anton({ weight: "400", subsets: ["latin"], variable: "--f-display", display: "swap" });
@@ -46,6 +47,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         {children}
         <footer className="foot">
+          {/* Shows once BEEHIIV_API_KEY is set in Vercel (needs a redeploy). */}
+          {process.env.BEEHIIV_API_KEY ? <Signup /> : null}
           <Built />
           <p className="foot__by">
             Well Run is a side project by{" "}
