@@ -1,0 +1,36 @@
+{
+  "slug": "nova-credit",
+  "checked": "Oct 19, 2026",
+  "founded": 2016,
+  "hq": "New York, NY",
+  "headcount_est": {"value": "~103", "as_of": "Mar 2026", "source": "https://www.reveliolabs.com/companies/nova-credit/employees"},
+  "leadership": [
+    {"name": "Misha Esipov", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://www.novacredit.com/company"},
+    {"name": "Mani Ramezani", "title": "Chief Technology Officer", "founder": false, "linkedin": null, "source": "https://www.novacredit.com/company"},
+    {"name": "Nathan Pike", "title": "Head of Finance and Strategy", "founder": false, "linkedin": null, "source": "https://www.novacredit.com/company"},
+    {"name": "Mei Lui", "title": "Head of Product", "founder": false, "linkedin": null, "source": "https://www.novacredit.com/company"},
+    {"name": "Chris Hansen", "title": "Head of Strategic Partnerships and New Business", "founder": false, "linkedin": null, "source": "https://www.novacredit.com/company"},
+    {"name": "Josh Brown", "title": "Head of Solutions", "founder": false, "linkedin": null, "source": "https://www.novacredit.com/company"},
+    {"name": "Hale Ahangi", "title": "Head of People and Talent", "founder": false, "linkedin": null, "source": "https://www.novacredit.com/company"}
+  ],
+  "funding_history": [
+    {"round": "Seed (Y Combinator)", "date": "2016-08", "amount": "$120K", "valuation": null, "lead": "Y Combinator", "source": "https://seedtable.com/companies/nova-credit/funding-rounds"},
+    {"round": "Seed", "date": "2016-09", "amount": "$3.3M", "valuation": null, "lead": "Index Ventures", "source": "https://seedtable.com/companies/nova-credit/funding-rounds"},
+    {"round": "Series A", "date": "2018-05", "amount": "$16M", "valuation": null, "lead": "General Catalyst", "source": "https://seedtable.com/companies/nova-credit/funding-rounds"},
+    {"round": "Series B", "date": "2020-02", "amount": "$50M", "valuation": null, "lead": "Kleiner Perkins", "source": "https://www.novacredit.com/corporate-blog/why-we-raised-a-usd50m-series-b"},
+    {"round": "Strategic", "date": "2022-09", "amount": "$10M", "valuation": null, "lead": "HSBC", "source": "https://stockanalysis.com/private/nova-credit/valuation/"},
+    {"round": "Series C", "date": "2023-10", "amount": "$45M", "valuation": "$200M", "lead": "Canapi Ventures", "source": "https://www.novacredit.com/corporate-blog/nova-credit-raises-usd45m-series-c-financing-to-scale-cash-flow-underwriting"},
+    {"round": "Series D", "date": "2025-10", "amount": "$35M", "valuation": null, "lead": "Socium Ventures", "source": "https://www.novacredit.com/corporate-blog/nova-credit-raises-usd35m-series-d-to-accelerate-cash-flow-underwriting"}
+  ],
+  "total_raised": "~$159M",
+  "revenue_est": {"value": "~$25M revenue (2024, doubled YoY)", "as_of": "Dec 2024", "basis": "press report", "source": "https://www.forbes.com/sites/jeffkauflin/2025/02/05/inside-the-unlikely-turnaround-of-a-fintech-helping-immigrants-get-access-to-credit/"},
+  "news_timeline": [
+    {"date": "2026-09", "headline": "Cox Automotive embeds Income Navigator in Dealertrack as preferred partner", "url": "https://www.coxautoinc.com/press-releases/cox-automotive-partners-with-nova-credit-to-embed-cash-flow-intelligence-into-dealertrack"},
+    {"date": "2026-09", "headline": "Block opens Cash App Score to lenders through Nova Credit", "url": "https://www.novacredit.com/corporate-blog/Nova-Credit-Adds-Block-Cash-App-Score-to-the-Nova-Credit-Cash-Flow-Intelligence-Platform"},
+    {"date": "2026-01", "headline": "Seen Finance (Snap Finance affiliate) adopts Nova Credit Platform", "url": "https://www.novacredit.com/corporate-blog/seen-finance-tm-partners-with-nova-credit-to-expand-credit-access-by"},
+    {"date": "2025-10", "headline": "Raises $35M Series D led by Socium Ventures (Cox Enterprises)", "url": "https://www.businesswire.com/news/home/20251014703778/en/Nova-Credit-Raises-%2435M-Series-D-to-Accelerate-Cash-Flow-Underwriting-Revolution"},
+    {"date": "2025-09", "headline": "Chase and PayPal select Cash Atlas for cash-flow underwriting", "url": "https://www.novacredit.com/corporate-blog/nova-credit-cash-flow-solutions-to-be-utilized-by-chase"},
+    {"date": "2025-06", "headline": "Yardi embeds Cash Atlas in ScreeningWorks Pro (6M+ rental units)", "url": "https://www.novacredit.com/corporate-blog/yardi-embeds-nova-credits-cash-atlas-to-approve-credit-invisible"}
+  ],
+  "competitors": ["plaid", "Experian", "FICO", "Mastercard Open Banking (Finicity)", "Prism Data"]
+}

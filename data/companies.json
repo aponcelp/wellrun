@@ -33301,5 +33301,67 @@
    "Remote (US)",
    "Remote (UK)"
   ]
+ },
+ {
+  "name": "Nova Credit",
+  "slug": "nova-credit",
+  "site": "https://www.novacredit.com",
+  "careers_url": "https://job-boards.greenhouse.io/novacredit",
+  "what_they_do": "Cash-flow underwriting, income verification and cross-border credit reports for lenders and landlords",
+  "problem": "Lenders and landlords can't fairly judge thin-file applicants and newcomers whose credit history the US bureaus don't show",
+  "industry": "Credit data / cash-flow underwriting",
+  "stage": "Series D",
+  "last_round": "$35M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": "Socium Ventures (Cox Enterprises)",
+  "total_open_roles": "8",
+  "ops_roles": "Senior Deployment Lead",
+  "hiring_trend": "Revelio ~103 staff (-4% YoY, down from 131 in Q2 2024); postings +84% in 2026",
+  "headcount": "~103-128",
+  "latest_news": "Block opens its Cash App Score to outside lenders via Nova Credit's platform",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.novacredit.com/corporate-blog/Nova-Credit-Adds-Block-Cash-App-Score-to-the-Nova-Credit-Cash-Flow-Intelligence-Platform",
+  "traction": "Revenue doubled in 2024 to ~$25M (est.); 7,000+ customers incl. Chase, PayPal, Yardi",
+  "red_flags": "Headcount contraction 2024-25: Revelio shows ~131 (Q2 2024) falling to ~92 (Q4 2025); Jun 2025 Glassdoor reviews cite frequent layoffs and constant reorgs.",
+  "red_flags_sources": [
+   {
+    "label": "Revelio Labs: Nova Credit headcount by quarter (2023-2026)",
+    "url": "https://www.reveliolabs.com/companies/nova-credit/employees"
+   },
+   {
+    "label": "Glassdoor: Nova Credit reviews mentioning layoffs (Jun 2025)",
+    "url": "https://www.glassdoor.com/Reviews/Nova-Credit-layoff-Reviews-EI_IE1772663.0,11_KH12,18.htm"
+   }
+  ],
+  "score": "2.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.1",
+  "glassdoor_reviews": "54",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Nova-Credit-Reviews-E1772663.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Unique cross-border Credit Passport and FCRA-compliant rails embedded in Yardi, Dealertrack, Chase and PayPal, but cash-flow underwriting is crowded with bigger players (Plaid, Experian, FICO, Mastercard) and it relies on aggregator rails that include a rival.",
+  "distance_sources": [
+   {
+    "label": "Forbes: Inside the turnaround of Nova Credit; cash-flow underwriting grows intensely competitive (Feb 2025)",
+    "url": "https://www.forbes.com/sites/jeffkauflin/2025/02/05/inside-the-unlikely-turnaround-of-a-fintech-helping-immigrants-get-access-to-credit/"
+   },
+   {
+    "label": "Cox Automotive: Nova Credit embedded in Dealertrack as preferred partner (Sep 2026)",
+    "url": "https://www.coxautoinc.com/press-releases/cox-automotive-partners-with-nova-credit-to-embed-cash-flow-intelligence-into-dealertrack"
+   },
+   {
+    "label": "Fintech Takes: Plaid vs. FICO and the credit bureaus (Oct 2026)",
+    "url": "https://fintechtakes.com/p/266e18f4-6bff-42b2-ae53-c03dcc09a1f3"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote"
+  ]
  }
 ]
