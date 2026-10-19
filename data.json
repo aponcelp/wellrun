@@ -32580,5 +32580,246 @@
    "New York",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Daytona",
+  "slug": "daytona",
+  "site": "https://www.daytona.io",
+  "careers_url": "https://www.daytona.io/careers",
+  "what_they_do": "Fast, isolated cloud sandboxes where AI agents run code, browse and use computers",
+  "problem": "Agent builders need safe, instant environments to execute untrusted AI-generated code at scale without building infra",
+  "industry": "AI infrastructure / agent sandboxes",
+  "stage": "Series B",
+  "last_round": "$48.3M",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "Bain Capital Ventures, FirstMark (per CB Insights; SEC filing, not formally announced); Series A $24M led by FirstMark (Feb 2026)",
+  "total_open_roles": "11",
+  "ops_roles": "",
+  "hiring_trend": "11 open roles (eng, product, design, community) in SF/Croatia; ~30 staff (PitchBook), 51-100 (Crunchbase)",
+  "headcount": "~30-50",
+  "latest_news": "SEC filing shows $48.3M Series B of a $60M offering, two quarters after its $24M A",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://dealroom.co/news/145417-daytona-lands-48-3m-series-b-for-ai-agent-sandbox-platform",
+  "traction": "$1M ARR 50 days after Apr 2025 relaunch, $3M 45 days later (company-stated); LangChain, Writer, Fortune 100 users",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Early mover in agent sandboxes with fast usage growth, but a crowded field (E2B, Modal, Vercel, Cloudflare) where hyperscalers can ship the same primitive; revenue still small.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Daytona raises $24M Series A (Feb 2026)",
+    "url": "https://www.prnewswire.com/news-releases/daytona-raises-24m-series-a-to-give-every-agent-a-computer-302680740.html"
+   },
+   {
+    "label": "Outset Capital: Daytona hit $3M ARR in 95 days (Jun 2026)",
+    "url": "https://outsetcapital.substack.com/p/daytona-hit-3m-arr-in-95-days-ceo"
+   },
+   {
+    "label": "CB Insights: Daytona financials ($48.3M Series B, Aug 2026)",
+    "url": "https://www.cbinsights.com/company/daytona/financials"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Accrual",
+  "slug": "accrual",
+  "site": "https://www.accrual.com",
+  "careers_url": "https://accrual.com/about",
+  "what_they_do": "AI agents that prepare tax returns, audit workpapers and close work for accounting firms",
+  "problem": "Accounting firms drown in manual tax prep and review across fragmented systems while short on staff",
+  "industry": "Accounting & tax tech",
+  "stage": "Series A",
+  "last_round": "$75M",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "General Catalyst",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "No public job board (applications via jobs@accrual.com); ~19-33 staff (Dealroom/Tracxn est.)",
+  "headcount": "~20-35",
+  "latest_news": "Launched Arc, an AI agent platform with 20 agents for accounting-firm workflows",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.cpapracticeadvisor.com/2026/09/24/accrual-launches-ai-agent-platform-arc/190513",
+  "traction": "Thousands of 2026 returns; 6 Armanino offices live, 60% fewer prep hours (company-stated); H&R Block partner",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Launched from stealth in Feb 2026; early named firm wins (Armanino) but too little adoption yet to judge against Intuit, Thomson Reuters, CCH and other AI-tax entrants.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Accrual launches with $75M (Feb 2026)",
+    "url": "https://www.businesswire.com/news/home/20260205968515/en"
+   },
+   {
+    "label": "Accrual homepage: Armanino results",
+    "url": "https://www.accrual.com"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Goodfire",
+  "slug": "goodfire",
+  "site": "https://www.goodfire.com",
+  "careers_url": "https://job-boards.greenhouse.io/goodfire",
+  "what_they_do": "Interpretability lab and tools to understand, monitor and edit the internals of AI models",
+  "problem": "Teams deploying AI can't see why models behave as they do, so they can't debug, steer or trust them",
+  "industry": "AI interpretability / AI safety",
+  "stage": "Series B",
+  "last_round": "$150M",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "B Capital",
+  "total_open_roles": "27",
+  "ops_roles": "Business Operations Manager; Chief of Staff; Forward Deployed Engineer; Forward Deployed Research Scientist",
+  "hiring_trend": "Team ~51 (Apr 2026) → ~69 (Oct 2026), est. +35%; 27 open roles (29 postings incl. 2 general-interest), nearly all SF",
+  "headcount": "~70",
+  "latest_news": "Partnered with Baseten on Project Beacon to detect unsafe agent behavior in open models",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.goodfire.com/blog/goodfire-baseten-partnership",
+  "traction": "Customers incl. Microsoft, Mayo Clinic, Arc Institute, Rakuten; no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Best-funded independent interpretability lab ($1.25B valuation) with marquee partners, but commercial adoption is still early and frontier labs build interpretability in-house.",
+  "distance_sources": [
+   {
+    "label": "Goodfire: Our Series B, $150M at $1.25B (Feb 2026)",
+    "url": "https://www.goodfire.com/blog/our-series-b"
+   },
+   {
+    "label": "Goodfire + Baseten partnership (Oct 2026)",
+    "url": "https://www.goodfire.com/blog/goodfire-baseten-partnership"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "London"
+  ]
+ },
+ {
+  "name": "Adaption Labs",
+  "slug": "adaption-labs",
+  "site": "https://adaptionlabs.ai",
+  "careers_url": "https://jobs.ashbyhq.com/adaption",
+  "what_they_do": "Platform that optimizes training data and auto-tunes custom AI models that keep adapting",
+  "problem": "Building a custom AI model needs scarce labeled data and weeks of expert tuning, and models go stale",
+  "industry": "AI models / data tooling",
+  "stage": "Seed",
+  "last_round": "$50M",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "Emergence Capital",
+  "total_open_roles": "7",
+  "ops_roles": "",
+  "hiring_trend": "7 open roles (research, engineering, community), SF/US/UK; ~38 staff (Tracxn est.)",
+  "headcount": "~38",
+  "latest_news": "Launched Invent a Dataset: describe a goal, get generated training data and a tuned model",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://adaptionlabs.ai/blog/introducing-invent-a-dataset",
+  "traction": "Adaptive Data live with API/SDK since Apr 2026; early deployments avg 82% data-quality gain (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Seed-stage lab led by ex-Cohere research VP Sara Hooker; products only months old with no disclosed customers or revenue.",
+  "distance_sources": [
+   {
+    "label": "Fortune: Adaption Labs raises $50M seed (Feb 2026)",
+    "url": "https://fortune.com/2026/02/04/adaption-labs-50-million-seed-funding-emergence-captial-sara-hooker-sudip-roy-ai-models-that-learn-on-the-fly/"
+   },
+   {
+    "label": "Adaption: Adaptive Data API and SDK (Apr 2026)",
+    "url": "https://adaptionlabs.ai/blog/adaptive-data-api-and-python-sdk"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Positron AI",
+  "slug": "positron-ai",
+  "site": "https://www.positron.ai",
+  "careers_url": "https://ats.rippling.com/positron/jobs",
+  "what_they_do": "Memory-first AI inference servers and custom chips sold to clouds and AI providers",
+  "problem": "Serving AI models on GPUs is costly and power-hungry, and scarce HBM memory caps supply",
+  "industry": "AI inference hardware / semiconductors",
+  "stage": "Series C",
+  "last_round": "$875M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "NEA, Atreides Management, Valor Equity Partners, Andra Capital, SemiAnalysis Capital, Jim Clark",
+  "total_open_roles": "18",
+  "ops_roles": "AI Forward Deployed Engineer, Lead",
+  "hiring_trend": "Headcount 49 (Dec 2025, LinkedIn via Latka) → ~98 (Tracxn, 2026), roughly doubled; 18 open roles, mostly ASIC/silicon in Austin and remote US",
+  "headcount": "~76-98",
+  "latest_news": "Raised $875M Series C at $5B valuation to tape out Asimov chip and ramp Titan",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html",
+  "traction": "50+ Atlas racks at Oracle Cloud; Jump Trading, Parasail, i3d.net customers; ~$5.4M 2025 revenue (est.)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.25",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Positron-AI-Reviews-E11118019.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Real Oracle deployment and a differentiated HBM-free bet, but a follower behind Nvidia and better-established inference-chip rivals, with next-gen silicon not shipping until H2 2027 and heavy burn.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Positron $875M Series C at $5B (Sep 2026)",
+    "url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html"
+   },
+   {
+    "label": "GetLatka: Positron AI revenue estimate",
+    "url": "https://getlatka.com/companies/positron.ai"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
