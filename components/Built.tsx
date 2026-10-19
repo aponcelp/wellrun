@@ -10,6 +10,7 @@ const STEPS: { verb: string; tool: string }[] = [
   { verb: "logged by", tool: "GitHub Actions" },
   { verb: "watched by", tool: "PostHog + Sentry" },
   { verb: "found via", tool: "Google Search Console" },
+  { verb: "sent by", tool: "Beehiiv" },
 ];
 
 const LOG_URL = "https://github.com/aponcelp/wellrun/actions/workflows/board-update.yml";
@@ -38,6 +39,7 @@ export default function Built() {
         <div><dt>GitHub Actions</dt><dd>Publishes a public log of every board update. <a href={LOG_URL} target="_blank" rel="noopener">See the log ↗</a></dd></div>
         <div><dt>PostHog + Sentry</dt><dd>PostHog for privacy-friendly analytics; Sentry for error monitoring.</dd></div>
         <div><dt>Google Search Console</dt><dd>Shows which searches find us.</dd></div>
+        <div><dt>Beehiiv</dt><dd>Sends Well Run Weekly: the board&apos;s biggest moves, new adds and standout roles, every Monday.</dd></div>
       </dl>
     </section>
   );
