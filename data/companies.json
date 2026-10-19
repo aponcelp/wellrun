@@ -33536,5 +33536,99 @@
   "hiring_locations": [
    "Remote"
   ]
+ },
+ {
+  "name": "Endear",
+  "slug": "endear",
+  "site": "https://www.endearhq.com",
+  "careers_url": "https://app.dover.com/jobs/endear",
+  "what_they_do": "Clienteling CRM that lets retail store associates text, email and sell to customers",
+  "problem": "Store teams lose shoppers after one visit because customer data and follow-up live in scattered tools",
+  "industry": "Retail CRM / clienteling",
+  "stage": "Series A",
+  "last_round": "$6M",
+  "last_round_date": "Jan 2025",
+  "lead_investors": "Channel Equity Partners",
+  "total_open_roles": "4",
+  "ops_roles": "Director, Business Operations (Remote US)",
+  "hiring_trend": "Headcount ~33 → ~40 in 12 mo (LinkedIn, +21%); 4 open roles",
+  "headcount": "~40",
+  "latest_news": "Launched AI Opportunity Engine; early stores grew associate outreach 6x in six weeks",
+  "latest_news_date": "May 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/endears-new-ai-opportunity-engine-drives-35x-increase-in-store-associate-outreach-302777257.html",
+  "traction": "2,000+ stores in 19 countries (up from ~800 in 2022); Reformation, AG Jeans",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Endear-Reviews-E4391359.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky store workflow tied to Shopify and POS data, in a crowded clienteling field.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Endear launches AI Opportunity Engine, 2,000+ stores (May 2026)",
+    "url": "https://www.prnewswire.com/news-releases/endears-new-ai-opportunity-engine-drives-35x-increase-in-store-associate-outreach-302777257.html"
+   },
+   {
+    "label": "Endear: $6M Series A led by Channel Equity Partners (Jan 2025)",
+    "url": "https://endearhq.com/endear-series-a-funding"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Capable Labs",
+  "slug": "capable",
+  "site": "https://capable.com",
+  "careers_url": "https://jobs.ashbyhq.com/capable",
+  "what_they_do": "AI-driven, vertically integrated lab designing peptide drugs, starting with sleep",
+  "problem": "Drug discovery takes years per design cycle; AI drug designs need fast real-world lab data to improve",
+  "industry": "AI drug discovery / biotech",
+  "stage": "Seed",
+  "last_round": "$38M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Cathay Innovation, Abstract Ventures",
+  "total_open_roles": "20",
+  "ops_roles": "(Senior Manager / Associate Director) Clinical Operations",
+  "hiring_trend": "Out of stealth Jul 2026; ~20 open roles since Aug; team ~9 on LinkedIn, lab 2K → 22.5K sq ft",
+  "headcount": "~10-15",
+  "latest_news": "Raised $38M seed ($50M total), moved into 22,500 sq ft Mission Bay lab",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://progress.capable.com/p/202610",
+  "traction": "Preclinical: first sleep candidate (CAPABLE-002) entering safety studies; no revenue",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Bets on a proprietary design-synthesize-test data loop; just out of stealth with only preclinical programs, so no proof yet that its drugs work in humans.",
+  "distance_sources": [
+   {
+    "label": "Capable: Fall update, $38M seed and new SF lab (Oct 2026)",
+    "url": "https://progress.capable.com/p/202610"
+   },
+   {
+    "label": "Harpoon Ventures: Capable company profile",
+    "url": "https://www.harpoon.vc/company/stealth-co-3D12ADS"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
  }
 ]
