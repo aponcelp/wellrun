@@ -33779,5 +33779,55 @@
    "San Francisco",
    "Remote"
   ]
+ },
+ {
+  "name": "Armadin",
+  "slug": "armadin",
+  "site": "https://armadin.com",
+  "careers_url": "https://jobs.ashbyhq.com/armadin",
+  "what_they_do": "Swarms of autonomous AI attacker agents that continuously red-team enterprise and government networks",
+  "problem": "Annual pen tests and scanners can't keep pace with AI-speed attackers chaining small weaknesses into breaches",
+  "industry": "Cybersecurity / AI offensive security",
+  "stage": "Series B",
+  "last_round": "$255.5M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Andreessen Horowitz, Accel",
+  "total_open_roles": "25",
+  "ops_roles": "",
+  "hiring_trend": "0 to ~130-150 staff since Sep 2025 founding (LinkedIn ~131, Tracxn 148); 25 open roles",
+  "headcount": "~130-150",
+  "latest_news": "Raised $255.5M Series B co-led by a16z and Accel at >$2.5B valuation; $445M total",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/armadin-raises-255-5-million-series-b-to-scale-effective-autonomous-security-302895278.html",
+  "traction": "In production with Fortune 500 and government customers; no revenue or customer count disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.25",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Founder pedigree and $445M raised in seven months, but launched Mar 2026 with no disclosed revenue or customer count, against established rivals like Horizon3.ai and Synack.",
+  "distance_sources": [
+   {
+    "label": "SecurityWeek: Armadin raises $255M at $2.5B valuation (Oct 2026)",
+    "url": "https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/"
+   },
+   {
+    "label": "TechCrunch: Armadin raises $255.5M at $2.5B (Oct 2026)",
+    "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/"
+   }
+  ],
+  "hiring_locations": [
+   "Palo Alto",
+   "Washington, DC",
+   "Remote (Mexico)"
+  ]
  }
 ]
