@@ -32986,5 +32986,80 @@
    "San Francisco",
    "Remote (UK)"
   ]
+ },
+ {
+  "name": "Altana",
+  "slug": "altana",
+  "site": "https://altana.ai",
+  "careers_url": "https://job-boards.greenhouse.io/altanaai",
+  "what_they_do": "AI trade network for customs classification, origin, compliance screening and agentic customs filing",
+  "problem": "Importers, customs brokers and border agencies can't see deep supply chains or keep pace with shifting tariffs and trade rules",
+  "industry": "Supply chain intelligence / trade compliance",
+  "stage": "Series C",
+  "last_round": "$200M",
+  "last_round_date": "Jul 2024",
+  "lead_investors": "US Innovative Technology Fund (Thomas Tull)",
+  "total_open_roles": "38",
+  "ops_roles": "Senior Staff Implementation Delivery Manager; Technical Account Manager, Logistics; Technical Account Analyst, Logistics; Senior Manager, Delivery",
+  "hiring_trend": "Headcount flat: ~264 → ~280 (+0.7% YoY to Mar 2026, Revelio), ~300 after Cervo deal; open roles 17 (2025) → 38 now",
+  "headcount": "~280-315",
+  "latest_news": "Acquired Cervo AI (agentic customs-entry writer) in cash-and-stock deal that could top $100M",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://altana.ai/resources/altana-acquires-cervo-ai",
+  "traction": "8 of 10 largest logistics providers; CBP and UK government contracts; revenue est. $23.6M (2023) → $37.5M (2024)",
+  "red_flags": "Aug 2026: China placed Altana on its countermeasures list (Chinese parties barred from dealing with it); CEO says no operational impact. No priced round in 27 months and secondary-market estimate (Notice.co) ~35% below the $1B Series C. Recent Glassdoor/Blind reviews cite unclear product direction and a mission drifting toward government surveillance work. No layoffs, lawsuits or down round found.",
+  "red_flags_sources": [
+   {
+    "label": "Business Insider: China bars dealings with Altana (Aug 2026)",
+    "url": "https://www.businessinsider.com/us-china-trade-altana-supply-chain-software-2026-8"
+   },
+   {
+    "label": "MOFCOM Order No. 2 of 2026: countermeasures on 6 US entities (Aug 5, 2026)",
+    "url": "https://www.mofcom.gov.cn/zcfb/blgg/art/2026/art_a4c3461ae13c466e9203de207efcbe4b.html"
+   },
+   {
+    "label": "TrueUp: secondary valuation est. $0.6B, down 35% from last round (Oct 2026)",
+    "url": "https://www.trueup.io/co/altana"
+   },
+   {
+    "label": "Glassdoor: Altana AI reviews, 4.1 from 43 (Oct 2026 review: 'unclear product direction')",
+    "url": "https://www.glassdoor.com/Reviews/Altana-AI-Reviews-E6390363.htm"
+   },
+   {
+    "label": "Blind: 'Intense leadership and a mission/culture in crisis' (Apr 2026)",
+    "url": "https://www.teamblind.com/company/Altana-Technologies/reviews"
+   },
+   {
+    "label": "Revelio Labs: headcount 280, +0.7% YoY (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/altana/employees"
+   }
+  ],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.1",
+  "glassdoor_reviews": "43",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Altana-AI-Reviews-E6390363.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Data + Network",
+  "distance": "Half",
+  "distance_why": "Shared trade graph used by customs and 8 of 10 top logistics providers; geopolitics-exposed.",
+  "distance_sources": [
+   {
+    "label": "Sheppard: Altana serves 8 of the world's 10 largest logistics providers (Jul 2026)",
+    "url": "https://www.sheppard.com/news-and-events/press-releases/sheppard-advises-altana-on-strategic-acquisition-of-cervo-ai"
+   },
+   {
+    "label": "Business Insider: Altana's contributory supply chain graph (Aug 2026)",
+    "url": "https://www.businessinsider.com/us-china-trade-altana-supply-chain-software-2026-8"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Washington, DC",
+   "London"
+  ]
  }
 ]
