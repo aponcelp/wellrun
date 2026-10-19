@@ -1,0 +1,53 @@
+{
+  "slug": "circle",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "New York, NY (fully remote)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Sid Yadav",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://community.circle.so/c/product-updates/exciting-news-we-ve-raised-a-25m-series-a-funding-round"
+    },
+    {
+      "name": "Andrew Guttormsen",
+      "title": "Co-founder & Chief Revenue Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://app.welcometothejungle.com/companies/Circle"
+    },
+    {
+      "name": "Rudy Santino",
+      "title": "Co-founder & Head of Design",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://circle.so/careers"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-02",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": "Angels and customers",
+      "source": "https://community.circle.so/c/product-updates/announcement-we-ve-raised-an-additional-4m-here-at-circle"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-12",
+      "amount": "$24.7M",
+      "valuation": "$200M",
+      "lead": "Tiger Global",
+      "source": "http://techcrunch.com/2021/12/07/circle-comes-around-again-with-fresh-capital-led-by-tiger-global-for-200m-valuation"
+    }
+  ],
+  "total_raised": "~$30M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

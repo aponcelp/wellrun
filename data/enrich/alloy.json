@@ -1,0 +1,69 @@
+{
+  "slug": "alloy",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2015,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Tommy Nicholas",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Alloy_(company)"
+    },
+    {
+      "name": "Laura Spiekerman",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Alloy_(company)"
+    },
+    {
+      "name": "Charles Hearn",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Alloy_(company)"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2017-10",
+      "amount": "$3.8M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.alloy.com/blog/alloy-raises-3.8m-for-data-driven-identity-verification-platform"
+    },
+    {
+      "round": "Series B",
+      "date": "2020-09",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2021/09/30/alloy-raises-100m-at-a-1-35b-valuation-to-help-banks-and-fintechs-fight-fraud-with-its-api-based-platform/"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-09",
+      "amount": "$100M",
+      "valuation": "$1.35B",
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://www.alloy.com/about/press/alloy-secures-100m-in-series-c-funding-led-by-lightspeed-venture-partners-bringing-valuation-to-1-35b"
+    },
+    {
+      "round": "Series C extension",
+      "date": "2022-09",
+      "amount": "$52M",
+      "valuation": "$1.55B",
+      "lead": "Lightspeed Venture Partners, Avenir Growth",
+      "source": "https://www.alleywatch.com/2022/09/alloy-identity-management-fintech-decisioning-transaction-monitoring-kyc-aml-tommy-nicholas/"
+    }
+  ],
+  "total_raised": "$207.8M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

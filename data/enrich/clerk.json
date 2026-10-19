@@ -1,0 +1,62 @@
+{
+  "slug": "clerk",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Colin Sidoti",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://clerk.com/blog/series-c"
+    },
+    {
+      "name": "Braden Sidoti",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://clerk.com/blog/series-c"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": "S28 Capital",
+      "source": "https://clerk.com/blog/clerk-raises-for-next-gen-auth"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-03",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://sacra.com/c/clerk/"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-01",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "CRV",
+      "source": "https://sacra.com/c/clerk/"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-10",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Menlo Ventures, Anthology Fund (Anthropic)",
+      "source": "https://clerk.com/blog/series-c"
+    }
+  ],
+  "total_raised": "~$105M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

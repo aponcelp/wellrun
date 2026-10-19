@@ -1,0 +1,54 @@
+{
+  "slug": "krea",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Victor Perez",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.krea.ai/blog/new-krea"
+    },
+    {
+      "name": "Diego Rodriguez",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.krea.ai/blog/new-krea"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed/Seed",
+      "date": null,
+      "amount": "$3M",
+      "valuation": null,
+      "lead": "Pebblebed, Abstract Ventures",
+      "source": "https://techcrunch.com/2025/04/07/kreas-founders-snubbed-postgrad-grants-from-the-king-of-spain-to-build-their-ai-startup-now-its-valued-at-500m/"
+    },
+    {
+      "round": "Series A",
+      "date": null,
+      "amount": "$33M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.krea.ai/blog/new-krea"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-04",
+      "amount": "$47M",
+      "valuation": "~$500M",
+      "lead": "Bain Capital Ventures",
+      "source": "https://techcrunch.com/2025/04/07/kreas-founders-snubbed-postgrad-grants-from-the-king-of-spain-to-build-their-ai-startup-now-its-valued-at-500m/"
+    }
+  ],
+  "total_raised": "$83M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

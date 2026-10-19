@@ -1,0 +1,94 @@
+{
+  "slug": "langchain",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~451 (LinkedIn)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/langchain"
+  },
+  "leadership": [
+    {
+      "name": "Harrison Chase",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://ivp.com/content/langchain-the-platform-for-the-enterprise-ai-agent-era"
+    },
+    {
+      "name": "Ankush Gola",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://ivp.com/content/langchain-the-platform-for-the-enterprise-ai-agent-era"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-04",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Benchmark",
+      "source": "https://techcrunch.com/2025/07/08/langchain-is-about-to-become-a-unicorn-sources-say/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-02",
+      "amount": "$25M",
+      "valuation": "~$200M (reported)",
+      "lead": "Sequoia Capital",
+      "source": "https://techcrunch.com/2025/07/08/langchain-is-about-to-become-a-unicorn-sources-say/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-10",
+      "amount": "$125M",
+      "valuation": "$1.25B",
+      "lead": "IVP",
+      "source": "https://langchain.com/blog/series-b"
+    }
+  ],
+  "total_raised": "$160M",
+  "revenue_est": {
+    "value": "$12M-$16M ARR (company says it has grown since)",
+    "as_of": "Jun 2025",
+    "basis": "press report",
+    "source": "https://techcrunch.com/2025/07/08/langchain-is-about-to-become-a-unicorn-sources-say/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Ships LangSmith Engine v2, Managed Deep Agents and Fine-Tuning at Interrupt NYC",
+      "url": "https://www.langchain.com/blog/langsmith-engine-agents-fine-tuning-trajectories"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Expands Interrupt agent conference to New York and London",
+      "url": "https://theagenttimes.com/articles/langchain-expands-interrupt-agent-conference-to-new-york-and-fa8791de"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Launches LangChain Labs (continual learning research) and LangSmith Engine",
+      "url": "https://www.langchain.com/blog/introducing-langchain-labs"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Raises $125M at $1.25B led by IVP; ships LangChain and LangGraph 1.0",
+      "url": "https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/"
+    },
+    {
+      "date": "2025-07",
+      "headline": "TechCrunch: raising at ~$1B valuation; LangSmith drives $12-16M ARR",
+      "url": "https://techcrunch.com/2025/07/08/langchain-is-about-to-become-a-unicorn-sources-say/"
+    }
+  ],
+  "competitors": [
+    "LlamaIndex",
+    "CrewAI",
+    "arize-ai",
+    "Braintrust",
+    "Weights & Biases"
+  ]
+}

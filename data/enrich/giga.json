@@ -1,0 +1,46 @@
+{
+  "slug": "giga",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Varun Vummadi",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/varunvummadi",
+      "source": "https://www.globenewswire.com/news-release/2025/11/05/3181809/0/en/Giga-Raises-61M-in-New-Funding-to-Reinvent-AI-Powered-Support.html"
+    },
+    {
+      "name": "Esha Manideep",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2025/11/05/3181809/0/en/Giga-Raises-61M-in-New-Funding-to-Reinvent-AI-Powered-Support.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (YC)",
+      "date": "2023",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://platform.tracxn.com/a/d/company/57db0334e4b0af1418b43f47/giga%20ai"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-11",
+      "amount": "$61M",
+      "valuation": null,
+      "lead": "Redpoint Ventures",
+      "source": "https://giga.ai/news/series-a"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

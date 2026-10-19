@@ -1,0 +1,47 @@
+{
+  "slug": "mission-lane",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "Richmond, VA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Brandon Black",
+      "title": "Chief Executive Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20240215641456/en/Mission-Lane-Names-Brandon-Black-as-CEO"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2019-09",
+      "amount": "$200M+ equity (plus $300M debt facility)",
+      "valuation": null,
+      "lead": "Invus, LL Funds, QED, Oaktree (investors)",
+      "source": "https://www.prnewswire.com/news-releases/mission-lane-names-new-ceo-raises-half-billion-dollars-in-financing-300917284.html"
+    },
+    {
+      "round": "Redeemable preferred",
+      "date": "2021-10",
+      "amount": "$150M",
+      "valuation": null,
+      "lead": "Oaktree Capital Management",
+      "source": "https://www.businesswire.com/news/home/20211026005137/en/Mission-Lane-Completes-Inaugural-%24320-Million-ABS-Transaction-and-Raises-%24150M-in-Redeemable-Preferred-Equity"
+    },
+    {
+      "round": "Insider round",
+      "date": "2024-02",
+      "amount": null,
+      "valuation": null,
+      "lead": "Invus Opportunities and QED Investors",
+      "source": "https://www.crowdfundinsider.com/2024/02/221618-mission-lane-appoints-brandon-black-as-ceo-acquires-additional-funding-from-qed-investors-others"
+    }
+  ],
+  "total_raised": "~$350M+ equity disclosed (excl. debt and undisclosed 2024 round)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

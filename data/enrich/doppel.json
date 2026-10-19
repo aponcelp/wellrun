@@ -1,0 +1,126 @@
+{
+  "slug": "doppel",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "200+ (company-stated after hiring 60+ in Q1 2026)",
+    "as_of": "Jun 2026",
+    "source": "https://www.prnewswire.com/news-releases/doppel-enters-japan-marking-next-phase-of-global-expansion-302801151.html"
+  },
+  "leadership": [
+    {
+      "name": "Kevin Tian",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.doppel.com/company/press-releases/doppel-raises-series-c-to-meet-rising-demand-for-ai-driven-social-engineering-defense"
+    },
+    {
+      "name": "Rahul Madduluri",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/rahulmadduluri",
+      "source": "https://www.doppel.com/company/press-releases/doppel-raises-series-c-to-meet-rising-demand-for-ai-driven-social-engineering-defense"
+    },
+    {
+      "name": "Ofir Ronen",
+      "title": "SVP of Customer Success",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.doppel.com/company/press-releases/former-varonis-vectra-ai-executive-joins-doppel-svp-customer-success"
+    },
+    {
+      "name": "Alyssa Smrekar",
+      "title": "SVP of Marketing",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/doppel-9e9d"
+    },
+    {
+      "name": "Joey Rachid",
+      "title": "Chief Security Advisor & Field CISO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.doppel.com/company/press-releases/doppel-appoints-former-xerox-executive-joey-rachid-chief-security-advisor"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-05",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://stockanalysis.com/private/doppel/valuation/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-01",
+      "amount": "$14M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.doppel.com/blog/press-release-doppel-secures-14-million-series"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-05",
+      "amount": "$35M",
+      "valuation": "$205M",
+      "lead": "Bessemer Venture Partners",
+      "source": "https://www.doppel.com/company/press-releases/doppel-raises-35-million-series-b"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-11",
+      "amount": "$70M",
+      "valuation": "$600M+",
+      "lead": "Bessemer Venture Partners",
+      "source": "https://www.doppel.com/company/press-releases/doppel-raises-series-c-to-meet-rising-demand-for-ai-driven-social-engineering-defense"
+    },
+    {
+      "round": "Strategic",
+      "date": "2026-09",
+      "amount": null,
+      "valuation": null,
+      "lead": "MUFG Innovation Partners",
+      "source": "https://www.doppel.com/company/press-releases/mufg-innovation-partners-becomes-strategic-investor-doppel"
+    }
+  ],
+  "total_raised": "$124M through Series C (company-stated) plus undisclosed MUFG investment",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "MUFG Innovation Partners invests; Doppel passes 300 customers",
+      "url": "https://www.doppel.com/company/press-releases/mufg-innovation-partners-becomes-strategic-investor-doppel"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Named official social engineering defense partner of the SF 49ers",
+      "url": "https://www.doppel.com/company/press-releases/doppel-and-san-francisco-49ers-announce-multi-year-partnership"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Doppel Email Security reaches general availability",
+      "url": "https://www.doppel.com/company/press-releases/doppel-email-security-generally-available"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Expands into Japan; tops 250 customers and 200 employees",
+      "url": "https://www.doppel.com/company/press-releases/doppel-enters-japan-marking-next-phase-global-expansion"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Raises $70M Series C at $600M+ led by Bessemer",
+      "url": "https://www.doppel.com/company/press-releases/doppel-raises-series-c-to-meet-rising-demand-for-ai-driven-social-engineering-defense"
+    }
+  ],
+  "competitors": [
+    "ZeroFox",
+    "BlueVoyant",
+    "Bolster",
+    "Adaptive Security",
+    "KnowBe4"
+  ]
+}

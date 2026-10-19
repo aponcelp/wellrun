@@ -1,0 +1,96 @@
+{
+  "slug": "levanta",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "Seattle, WA",
+  "headcount_est": {
+    "value": "113 (LinkedIn-derived count, +69% YoY)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/trylevanta"
+  },
+  "leadership": [
+    {
+      "name": "Ian Brodie",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/08/27/3352054/0/en/levanta-raises-22m-series-b-from-volition-capital-to-deploy-the-infrastructure-for-creator-commerce-media.html"
+    },
+    {
+      "name": "Rob Schab",
+      "title": "Co-founder & CMO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.volitioncapital.com/portfolio/levanta/"
+    },
+    {
+      "name": "Spencer McKenney",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.volitioncapital.com/portfolio/levanta/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023",
+      "amount": "$1M",
+      "valuation": null,
+      "lead": "Long Run Capital",
+      "source": "https://www.geekwire.com/2023/levanta-a-startup-that-connects-influencers-and-amazon-sellers-for-affiliate-partnerships-raises-1m/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-11",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Volition Capital",
+      "source": "https://www.prnewswire.com/news-releases/levanta-secures-20-million-in-series-a-funding-led-by-volition-capital-to-accelerate-creator-driven-commerce-302309091.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-08",
+      "amount": "$22M",
+      "valuation": null,
+      "lead": "Volition Capital",
+      "source": "https://www.globenewswire.com/news-release/2026/08/27/3352054/0/en/levanta-raises-22m-series-b-from-volition-capital-to-deploy-the-infrastructure-for-creator-commerce-media.html"
+    }
+  ],
+  "total_raised": "$43M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Raises $22M Series B led by Volition; 2026 revenue up 80% YoY",
+      "url": "https://www.globenewswire.com/news-release/2026/08/27/3352054/0/en/levanta-raises-22m-series-b-from-volition-capital-to-deploy-the-infrastructure-for-creator-commerce-media.html"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Acquires Perch+, an early Amazon-seller affiliate network",
+      "url": "https://www.globenewswire.com/news-release/2026/04/06/3268381/0/en/levanta-acquires-perch-expanding-its-affiliate-marketplace-with-hundreds-of-amazon-sellers-and-publishers.html"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Unifies creator and affiliate programs across Shopify, Amazon and Walmart",
+      "url": "https://www.globenewswire.com/news-release/2026/03/02/3247311/0/en/Levanta-Unifies-Creator-and-Affiliate-Programs-Across-Shopify-Amazon-and-Walmart.html"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Launches Paid Placements: flat-rate creator deals with affiliate tracking",
+      "url": "https://www.prnewswire.com/news-releases/amazon-and-walmart-sellers-can-now-secure-flat-rate-creator-deals-with-affiliate-level-performance-measurement-302689456.html"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Launches TikTok Shop integration for affiliates",
+      "url": "https://www.linkedin.com/posts/rob-schab_tiktok-waitlist-levanta-activity-7351241755461083136-uLRt"
+    }
+  ],
+  "competitors": [
+    "Archer Affiliates",
+    "Amazon Creator Connections",
+    "impact.com",
+    "Awin",
+    "LTK"
+  ]
+}

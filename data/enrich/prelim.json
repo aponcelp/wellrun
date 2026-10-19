@@ -1,0 +1,46 @@
+{
+  "slug": "prelim",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Heang Chan",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://prelim.com/about"
+    },
+    {
+      "name": "Chris Blaser",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://prelim.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Accelerator (YC S17)",
+      "date": "2017",
+      "amount": null,
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://www.ycombinator.com/companies/prelim"
+    },
+    {
+      "round": "Venture (undisclosed)",
+      "date": "2022-03",
+      "amount": null,
+      "valuation": null,
+      "lead": "EJF Capital",
+      "source": "https://www.businesswire.com/news/home/20220317005022/en/Prelim-Announces-New-Funding-To-Power-the-Future-of-Digital-Banking-Technology-and-Automation"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

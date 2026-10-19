@@ -1,0 +1,68 @@
+{
+  "slug": "split-pay",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Andrew Borovsky",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://raising.fi/news/split-pay-series-a-series-b-september-2026"
+    },
+    {
+      "name": "Gerard Knight",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://raising.fi/news/split-pay-series-a-series-b-september-2026"
+    },
+    {
+      "name": "Leonid Movsesyan",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://raising.fi/news/split-pay-series-a-series-b-september-2026"
+    },
+    {
+      "name": "Alexander Labowitz",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://raising.fi/news/split-pay-series-a-series-b-september-2026"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://dealroom.co/news/149459-split-pay-raises-100m-series-b-to-smooth-renters-cashflow/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025 (fall)",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Khosla Ventures",
+      "source": "https://www.axios.com/2026/09/08/split-pay-khosla-125-million"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-09",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": "Khosla Ventures",
+      "source": "https://www.axios.com/2026/09/08/split-pay-khosla-125-million"
+    }
+  ],
+  "total_raised": "~$140M ($15M seed + $125M Series A+B)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

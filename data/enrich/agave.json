@@ -1,0 +1,90 @@
+{
+  "slug": "agave",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "85 (Tracxn official count)",
+    "as_of": "Oct 2026",
+    "source": "https://platform.tracxn.com/a/d/company/5f9b9be4af193e18dae2a028/agave"
+  },
+  "leadership": [
+    {
+      "name": "Tom Reno",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260707861533/en/Agave-Raises-%2415M-Series-A-to-Bring-AI-to-Construction-Financials"
+    },
+    {
+      "name": "John Zucchi",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260707861533/en/Agave-Raises-%2415M-Series-A-to-Bring-AI-to-Construction-Financials"
+    },
+    {
+      "name": "Pooria Azimi",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260707861533/en/Agave-Raises-%2415M-Series-A-to-Bring-AI-to-Construction-Financials"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (Y Combinator W22)",
+      "date": "2022-01",
+      "amount": "$500K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/agaveapi"
+    },
+    {
+      "round": "Seed",
+      "date": "2023-08",
+      "amount": "$2.9M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://techcrunch.com/2023/08/30/agave/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-07",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://www.businesswire.com/news/home/20260707861533/en/Agave-Raises-%2415M-Series-A-to-Bring-AI-to-Construction-Financials"
+    }
+  ],
+  "total_raised": "$20M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Adds vendor statement reconciliation to AP Automation",
+      "url": "https://www.linkedin.com/posts/agave-api_new-in-agave-ap-automation-vendor-statement-activity-7492624326589001728-Gj-k"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Raises $15M Series A led by Accel; 500+ customers, profitable 2+ years",
+      "url": "https://www.businesswire.com/news/home/20260707861533/en/Agave-Raises-%2415M-Series-A-to-Bring-AI-to-Construction-Financials"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Officially launches AP Automation for construction accounting",
+      "url": "https://www.linkedin.com/posts/agave-api_were-excited-to-officially-launch-ap-automation-activity-7459643987205832707-475p"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Expands Sage partnership: one of two firms with restricted construction ERP APIs",
+      "url": "https://useagave.com/blog/agave-announces-deeper-partnership-with-sage"
+    }
+  ],
+  "competitors": [
+    "Adaptive",
+    "Ryvit (Trimble App Xchange)",
+    "Procore Pay",
+    "Stampli"
+  ]
+}

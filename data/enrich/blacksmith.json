@@ -1,0 +1,108 @@
+{
+  "slug": "blacksmith",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~30 (company-stated)",
+    "as_of": "Aug 2026",
+    "source": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
+  },
+  "leadership": [
+    {
+      "name": "Aditya (JP) Jayaprakash",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.blacksmith.sh/company"
+    },
+    {
+      "name": "Aayush Shah",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.blacksmith.sh/company"
+    },
+    {
+      "name": "Aditya Maru",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.blacksmith.sh/company"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed (Y Combinator W24)",
+      "date": "2024-03",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/blacksmith_3"
+    },
+    {
+      "round": "Seed",
+      "date": "2025-05",
+      "amount": "$3.5M",
+      "valuation": null,
+      "lead": "GV",
+      "source": "https://www.blacksmith.sh/blog/blacksmith-seed-announcement"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-09",
+      "amount": "$10M",
+      "valuation": "$60M",
+      "lead": "GV",
+      "source": "https://techcrunch.com/2025/09/17/google-ventures-doubles-down-on-dev-tool-startup-blacksmith-just-4-months-after-its-seed-round/"
+    },
+    {
+      "round": "Series B (closed Mar 2026, announced Aug 2026)",
+      "date": "2026-03",
+      "amount": "$45M",
+      "valuation": "$550M",
+      "lead": "Peak XV Partners",
+      "source": "https://www.blacksmith.sh/blog/announcing-blacksmiths-series-b-led-by-peak-xv-partners"
+    }
+  ],
+  "total_raised": "$58.5M (TechCrunch)",
+  "revenue_est": {
+    "value": "\"Tens of millions of dollars\" annualized revenue (passed $10M run rate earlier)",
+    "as_of": "Aug 2026",
+    "basis": "company-stated",
+    "source": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Announces $45M Series B led by Peak XV at $550M; 6,000+ customers",
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Publishes postmortem on July 21 control-plane outage",
+      "url": "https://www.blacksmith.sh/blog/blacksmith-outage-on-july-21-2026"
+    },
+    {
+      "date": "2025-12",
+      "headline": "GitHub announces Actions pricing change incl. fee for self-hosted runner usage",
+      "url": "https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Raises $10M Series A led by GV four months after seed",
+      "url": "https://techcrunch.com/2025/09/17/google-ventures-doubles-down-on-dev-tool-startup-blacksmith-just-4-months-after-its-seed-round/"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Raises $3.5M seed led by GV",
+      "url": "https://www.blacksmith.sh/blog/blacksmith-seed-announcement"
+    }
+  ],
+  "competitors": [
+    "GitHub Actions hosted runners",
+    "Depot",
+    "Namespace",
+    "BuildJet"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "chamelio",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Alex Zilberman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/chamelio-raises-26m-series-a-to-replace-legacy-clm-with-ai-native-in-house-legal-operations-302886011.html"
+    },
+    {
+      "name": "Gil Banyas",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/chamelio-raises-26m-series-a-to-replace-legacy-clm-with-ai-native-in-house-legal-operations-302886011.html"
+    },
+    {
+      "name": "Gal Lellouche",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/chamelio-raises-26m-series-a-to-replace-legacy-clm-with-ai-native-in-house-legal-operations-302886011.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-01",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Work-Bench, Emerge",
+      "source": "https://www.businesswire.com/news/home/20260127115341/en/Chamelio-Raises-%2410M-Seed-Round-To-Scale-End-to-End-Legal-Intelligence-Platform"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$26M",
+      "valuation": null,
+      "lead": "Entrée Capital",
+      "source": "https://www.prnewswire.com/news-releases/chamelio-raises-26m-series-a-to-replace-legacy-clm-with-ai-native-in-house-legal-operations-302886011.html"
+    }
+  ],
+  "total_raised": "$39.5M (per AlleyWatch)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

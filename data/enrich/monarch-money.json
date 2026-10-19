@@ -1,0 +1,61 @@
+{
+  "slug": "monarch-money",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Val Agostino",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.monarch.com/blog/series-b"
+    },
+    {
+      "name": "Ozzie Osman",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/2025/05/23/personal-finance-app-monarch-raises-75-million.html"
+    },
+    {
+      "name": "Jon Sutherland",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/2025/05/23/personal-finance-app-monarch-raises-75-million.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-07",
+      "amount": "$4.8M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://techcrunch.com/2021/07/23/monarch-raises-4-8m/"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-02",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Menlo Ventures",
+      "source": "https://sacra.com/c/monarch-money/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-05",
+      "amount": "$75M",
+      "valuation": "$850M",
+      "lead": "FPV Ventures, Forerunner Ventures",
+      "source": "https://www.cnbc.com/2025/05/23/personal-finance-app-monarch-raises-75-million.html"
+    }
+  ],
+  "total_raised": "~$95M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "fulcrum",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Arjun Mangla",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260127194044/en/Fulcrum-Raises-%2425-Million-to-Bridge-the-Gap-Between-Legacy-Systems-and-AI-in-Insurance"
+    },
+    {
+      "name": "Sambhav Anand",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260127194044/en/Fulcrum-Raises-%2425-Million-to-Bridge-the-Gap-Between-Legacy-Systems-and-AI-in-Insurance"
+    },
+    {
+      "name": "Lexie Tonelli",
+      "title": "Head of Strategy & Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.insurancebusinessmag.com/us/news/cyber/reclaiming-broker-time-the-technology-reshaping-insurance-servicing-570903.aspx"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (included in the $25M total announced Jan 2026)",
+      "date": null,
+      "amount": null,
+      "valuation": null,
+      "lead": "Foundation Capital",
+      "source": "https://foundationcapital.com/ideas/building-the-context-graph-for-insurance-why-we%E2%80%99re-doubling-down-on-fulcrum"
+    },
+    {
+      "round": "Series A (seed + A announced together: $25M)",
+      "date": "2026-01",
+      "amount": "$25M (combined seed + Series A)",
+      "valuation": null,
+      "lead": "CRV",
+      "source": "https://www.businesswire.com/news/home/20260127194044/en/Fulcrum-Raises-%2425-Million-to-Bridge-the-Gap-Between-Legacy-Systems-and-AI-in-Insurance"
+    }
+  ],
+  "total_raised": "$25M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launches certificate (COI) automation: certificates in under 60 seconds",
+      "url": "https://www.prnewswire.com/news-releases/fulcrum-launches-certificate-automation-doubling-the-time-its-platform-gives-back-to-account-managers-302891611.html"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Becomes a certified Applied Systems (Applied Epic) integration partner",
+      "url": "https://www.linkedin.com/posts/bmungaray_applied-systems-launches-new-vendor-certification-activity-7493389535716986880-8oph"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Acquires Megaphone; founders join as founding PM and designer",
+      "url": "https://www.insurtechinsights.com/news/fulcrum-strengthens-ai-offering-with-megaphone-acquisition/3165/"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raises $25M combined seed and Series A led by CRV",
+      "url": "https://www.businesswire.com/news/home/20260127194044/en/Fulcrum-Raises-%2425-Million-to-Bridge-the-Gap-Between-Legacy-Systems-and-AI-in-Insurance"
+    }
+  ],
+  "competitors": [
+    "Patra",
+    "Exdion",
+    "Zywave"
+  ]
+}

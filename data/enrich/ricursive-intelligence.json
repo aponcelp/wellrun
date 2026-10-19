@@ -1,0 +1,46 @@
+{
+  "slug": "ricursive-intelligence",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "Palo Alto, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Anna Goldie",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lsvp.com/company/ricursive-intelligence"
+    },
+    {
+      "name": "Azalia Mirhoseini",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-12",
+      "amount": "$35M",
+      "valuation": "$750M",
+      "lead": "Sequoia Capital",
+      "source": "https://www.prnewswire.com/news-releases/ricursive-intelligence-launches-frontier-ai-lab-to-transform-semiconductor-design-and-accelerate-path-toward-artificial-superintelligence-302630776.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-01",
+      "amount": "$300M",
+      "valuation": "$4B",
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://www.prnewswire.com/news-releases/ricursive-intelligence-raises-300-million-series-a-at-4-billion-valuation-to-accelerate-ai-driven-semiconductor-design-302670061.html"
+    }
+  ],
+  "total_raised": "$335M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

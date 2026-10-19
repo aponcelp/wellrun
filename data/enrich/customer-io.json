@@ -1,0 +1,53 @@
+{
+  "slug": "customer-io",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2012,
+  "hq": "Portland, OR",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Colin Nederkoorn",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://customer.io/about"
+    },
+    {
+      "name": "John Allison",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://customer.io/learn/how-we-work/bootstrapping-vc-funded"
+    },
+    {
+      "name": "John Schoenstein",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://customer.io/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Equity crowdfunding (Republic)",
+      "date": "2021-08",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://sacra.com/c/customerio/"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-03",
+      "amount": null,
+      "valuation": null,
+      "lead": "Spectrum Equity",
+      "source": "https://www.globenewswire.com/news-release/2022/03/10/2401439/0/en/Customer-io-surpasses-30m-ARR-and-raises-financing-from-Spectrum-Equity.html"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

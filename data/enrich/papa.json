@@ -1,0 +1,77 @@
+{
+  "slug": "papa",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Andrew Parker",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/papa"
+    },
+    {
+      "name": "Alfredo Vaamonde",
+      "title": "Co-founder, Board Director",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.papa.com/about"
+    },
+    {
+      "name": "Dani Bchara",
+      "title": "President & CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/papainc"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2018",
+      "amount": "$2.4M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.mobihealthnews.com/news/senior-care-platform-papa-scoops-150m-series-d-funding"
+    },
+    {
+      "round": "Series A",
+      "date": "2019-10",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Canaan",
+      "source": "https://globalventuring.com/corporate/softbank-accompanies-papa-to-150m-series-d"
+    },
+    {
+      "round": "Series B",
+      "date": "2020-09",
+      "amount": "$18M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.mobihealthnews.com/news/senior-care-platform-papa-scoops-150m-series-d-funding"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-04",
+      "amount": "$60M",
+      "valuation": null,
+      "lead": "Tiger Global",
+      "source": "https://techcrunch.com/2021/04/13/2137375/"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-11",
+      "amount": "$150M",
+      "valuation": "$1.4B",
+      "lead": "SoftBank Vision Fund 2",
+      "source": "https://www.fiercehealthcare.com/tech/softbank-backs-papa-s-150m-series-d-to-scale-up-family-demand-services"
+    }
+  ],
+  "total_raised": "$240M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

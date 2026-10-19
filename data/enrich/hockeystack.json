@@ -1,0 +1,61 @@
+{
+  "slug": "hockeystack",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Buğra Gündüz",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.bvp.com/news/unlocking-revenue-insights-for-gtm-teams-hockeystack-raises-20m-series-a"
+    },
+    {
+      "name": "Arda Bulut",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.bvp.com/news/unlocking-revenue-insights-for-gtm-teams-hockeystack-raises-20m-series-a"
+    },
+    {
+      "name": "Emir Atli",
+      "title": "Co-founder & CRO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.bvp.com/news/unlocking-revenue-insights-for-gtm-teams-hockeystack-raises-20m-series-a"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-11",
+      "amount": "$2.7M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/surveys_by_hockeystack"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-01",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Bessemer Venture Partners",
+      "source": "https://www.axios.com/2025/01/28/hockeystack-revenue-analytics-software"
+    },
+    {
+      "round": "Series A extension (undisclosed)",
+      "date": "2026-04",
+      "amount": null,
+      "valuation": null,
+      "lead": "Bessemer Venture Partners",
+      "source": "https://www.prnewswire.com/news-releases/hockeystack-raises-50m-to-build-revenue-agents-for-the-enterprise-302742217.html"
+    }
+  ],
+  "total_raised": "$50M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

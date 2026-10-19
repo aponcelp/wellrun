@@ -1,0 +1,53 @@
+{
+  "slug": "zenzap",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "New York, NY (R&D in Israel)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Guy Weiss",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lsvp.com/stories/ai-for-the-real-economy-our-series-a-in-zenzap/"
+    },
+    {
+      "name": "Jonatan Bien",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lsvp.com/stories/ai-for-the-real-economy-our-series-a-in-zenzap/"
+    },
+    {
+      "name": "Noam Neumann",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lsvp.com/stories/ai-for-the-real-economy-our-series-a-in-zenzap/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.calcalistech.com/ctechnews/article/b1zgob6jfe"
+    },
+    {
+      "round": "Series A (closed Aug 2025, announced Oct 2026)",
+      "date": "2025-08",
+      "amount": "$33M",
+      "valuation": null,
+      "lead": "Bessemer Venture Partners, Lightspeed Venture Partners",
+      "source": "https://www.calcalistech.com/ctechnews/article/b1zgob6jfe"
+    }
+  ],
+  "total_raised": "$44M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

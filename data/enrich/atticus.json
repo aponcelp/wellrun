@@ -1,0 +1,47 @@
+{
+  "slug": "atticus",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "Los Angeles, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Sam Byker",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://atticus.com/mission"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021",
+      "amount": null,
+      "valuation": null,
+      "lead": "Forerunner Ventures",
+      "source": "https://www.forerunnerventures.com/perspectives/atticus-getting-americans-in-crisis-the-aid-they-deserve"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-05",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.idealist.org/en/business/0761fc9c33c84effa489929cf16fc843-atticus-los-angeles"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-04",
+      "amount": "$50M",
+      "valuation": "$450M",
+      "lead": null,
+      "source": "https://jobs.ashbyhq.com/atticus/37661fa1-aef8-4cb3-854d-7bc5e8e7fc3d"
+    }
+  ],
+  "total_raised": "$100M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

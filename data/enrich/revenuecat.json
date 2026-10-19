@@ -1,0 +1,70 @@
+{
+  "slug": "revenuecat",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jacob Eiting",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20250522835623/en/RevenueCat-Raises-%2450M-Series-C-to-Expand-Global-Infrastructure-for-Consumer-Software-Monetization"
+    },
+    {
+      "name": "Miguel Carranza",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/revenuecat"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2018-10",
+      "amount": "$1.5M",
+      "valuation": "$7M",
+      "lead": "SaaStr Fund",
+      "source": "https://www.saastr.com/how-saastr-fund-backed-revenuecat-went-from-a-1-5m-round-at-7m-valuation-in-2018-to-500m-today/"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-08",
+      "amount": "$15M",
+      "valuation": "$60M",
+      "lead": "Index Ventures",
+      "source": "https://www.businessinsider.com/revenuecat-funding-developers-app-subscription-apple-google-play-app-store-2020-8"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-05",
+      "amount": "$40M",
+      "valuation": "$300M post",
+      "lead": "YC Continuity",
+      "source": "https://techcrunch.com/2021/05/27/revenuecat-raises-40m-series-b-for-its-in-app-subscription-platform/"
+    },
+    {
+      "round": "Series C",
+      "date": "2024-04",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2024/04/25/revenuecat-raises-12m-series-c-as-it-expands-its-subscription-management-to-the-web/"
+    },
+    {
+      "round": "Series C-2",
+      "date": "2025-05",
+      "amount": "$50M",
+      "valuation": "$500M post",
+      "lead": "Bain Capital Ventures",
+      "source": "https://techcrunch.com/2025/05/22/revenuecat-raises-50m-as-it-expands-beyond-mobile-app-monetization"
+    }
+  ],
+  "total_raised": "$100M (company-stated, May 2025)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

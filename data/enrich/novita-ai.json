@@ -1,0 +1,29 @@
+{
+  "slug": "novita-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ben Li",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/benli-apus",
+      "source": "https://linkedin.com/in/benli-apus"
+    },
+    {
+      "name": "Junyu Huang",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://councils.forbes.com/profile/Junyu-Huang-Chief-Operating-Officer-Novita-AI/6c815f2b-b70f-41df-984d-6c206bd09d17"
+    }
+  ],
+  "funding_history": [],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

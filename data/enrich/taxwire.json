@@ -1,0 +1,65 @@
+{
+  "slug": "taxwire",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~43 (LinkedIn)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/taxwire"
+  },
+  "leadership": [
+    {
+      "name": "Andrew Rea",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://headline.com/portfolio/taxwire/"
+    },
+    {
+      "name": "Steven Schmatz",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://dealroom.co/companies/taxwire"
+    },
+    {
+      "name": "Graham Martin",
+      "title": "Head of Tax (ex-TaxJar, Stripe, Zamp)",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://taxwire.com/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A (combined)",
+      "date": "2026-06",
+      "amount": "$25M",
+      "valuation": "~$100M (Dealroom)",
+      "lead": "Headline (co-led seed with XYZ Venture Capital)",
+      "source": "https://www.alleywatch.com/2026/06/taxwire-ai-sales-tax-compliance-vat-automation-platform-andrew-rea/"
+    }
+  ],
+  "total_raised": "$25M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-06",
+      "headline": "Raises $25M Seed + Series A led by Headline; 300+ customers",
+      "url": "https://www.alleywatch.com/2026/06/taxwire-ai-sales-tax-compliance-vat-automation-platform-andrew-rea/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Says it grew 5x in under eight months and displaced 150+ legacy tax systems",
+      "url": "https://blog.headline.com/p/our-investment-in-taxwire-relieving"
+    }
+  ],
+  "competitors": [
+    "Avalara",
+    "Anrok",
+    "Zamp",
+    "numeral",
+    "sphere"
+  ]
+}

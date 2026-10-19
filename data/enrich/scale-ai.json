@@ -1,0 +1,94 @@
+{
+  "slug": "scale-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Francis deSouza",
+      "title": "CEO (from Aug 2026)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.axios.com/2026/07/30/scale-ai-google-cloud-coo-francis-desouza"
+    },
+    {
+      "name": "Alexandr Wang",
+      "title": "Founder (left for Meta 2025; remains board director)",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (YC)",
+      "date": "2016-09",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/scale_ai"
+    },
+    {
+      "round": "Series A",
+      "date": "2017-05",
+      "amount": "$4.5M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://app.dealroom.co/companies/scale_ai"
+    },
+    {
+      "round": "Series B",
+      "date": "2018-08",
+      "amount": "$18M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://app.dealroom.co/companies/scale_ai"
+    },
+    {
+      "round": "Series C",
+      "date": "2019-08",
+      "amount": "$100M",
+      "valuation": "$1B",
+      "lead": "Founders Fund",
+      "source": "https://app.dealroom.co/companies/scale_ai"
+    },
+    {
+      "round": "Series D",
+      "date": "2020-12",
+      "amount": "$155M",
+      "valuation": "$3.5B",
+      "lead": "Tiger Global",
+      "source": "http://en.wikipedia.org/wiki/Scale_AI"
+    },
+    {
+      "round": "Series E",
+      "date": "2021-04",
+      "amount": "$325M",
+      "valuation": "$7.3B",
+      "lead": "Dragoneer, Greenoaks, Tiger Global",
+      "source": "http://en.wikipedia.org/wiki/Scale_AI"
+    },
+    {
+      "round": "Series F",
+      "date": "2024-05",
+      "amount": "$1B",
+      "valuation": "$13.8B",
+      "lead": "Accel",
+      "source": "https://finance.yahoo.com/news/scale-ai-confirms-significant-investment-071221297.html"
+    },
+    {
+      "round": "Strategic (Meta, 49% stake)",
+      "date": "2025-06",
+      "amount": "$14.3B",
+      "valuation": "$29B+",
+      "lead": "Meta",
+      "source": "https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexandr-wang-is-leaving/"
+    }
+  ],
+  "total_raised": "~$1.6B venture + $14.3B Meta investment",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

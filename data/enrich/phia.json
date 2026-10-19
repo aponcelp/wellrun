@@ -1,0 +1,53 @@
+{
+  "slug": "phia",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Phoebe Gates",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/01/27/3226735/0/en/Phia-Raises-35M-Series-A-to-Build-the-AI-Alignment-Layer-for-Commerce.html"
+    },
+    {
+      "name": "Sophia Kianni",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/sophiakianni",
+      "source": "https://www.globenewswire.com/news-release/2026/01/27/3226735/0/en/Phia-Raises-35M-Series-A-to-Build-the-AI-Alignment-Layer-for-Commerce.html"
+    },
+    {
+      "name": "Flora Li",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/phia-co"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-09",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "Kleiner Perkins",
+      "source": "https://fortune.com/2025/09/17/exclusive-phia-founded-by-phoebe-gates-and-sophia-kianni-raises-8-million-seed-round-led-by-kleiner-perkins/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-01",
+      "amount": "$35M",
+      "valuation": "$185M",
+      "lead": "Notable Capital",
+      "source": "https://techcrunch.com/2026/01/27/phoebe-gates-and-sophia-kiannis-phia-raises-35m-to-make-shopping-fun-again/"
+    }
+  ],
+  "total_raised": "$43M+",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

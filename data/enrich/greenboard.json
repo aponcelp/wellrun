@@ -1,0 +1,46 @@
+{
+  "slug": "greenboard",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Dave Feldman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260512170224/en/Greenboard-Raises-%2420M-to-Make-Everyone-a-Compliance-Champion"
+    },
+    {
+      "name": "Ed Schembor",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260512170224/en/Greenboard-Raises-%2420M-to-Make-Everyone-a-Compliance-Champion"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-05",
+      "amount": "$4.5M",
+      "valuation": null,
+      "lead": "Base10 Partners",
+      "source": "https://www.greenboard.com/blog/announcing-our-4-5m-seed-fundraise"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-05",
+      "amount": "$15.5M",
+      "valuation": null,
+      "lead": "Base10 Partners",
+      "source": "https://fortune.com/2026/05/12/greenboard-raises-15-5-million-series-a-to-keep-compliance-from-slowing-down-business/"
+    }
+  ],
+  "total_raised": "$20M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "crux",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Alfred Johnson",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crux.com/about"
+    },
+    {
+      "name": "Allen Kramer",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crux.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-04",
+      "amount": "$4.6M",
+      "valuation": null,
+      "lead": "Lowercarbon Capital",
+      "source": "https://www.crux.com/blog/launch-release"
+    },
+    {
+      "round": "Seed extension",
+      "date": "2023-06",
+      "amount": "$4.25M",
+      "valuation": null,
+      "lead": "Ardent Venture Partners",
+      "source": "https://www.crux.com/blog/seed-extension"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-01",
+      "amount": "$18.2M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.crux.com/blog/series-a-funding-round-sustainable-finance"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-04",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Lowercarbon Capital",
+      "source": "https://www.crux.com/blog/crux-announces-50m-series-b-funding-round"
+    }
+  ],
+  "total_raised": "$77M+ equity (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

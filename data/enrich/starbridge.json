@@ -1,0 +1,102 @@
+{
+  "slug": "starbridge",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Justin Wenig",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge"
+    },
+    {
+      "name": "Matt Stinson",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/starbridge-fcbe"
+    },
+    {
+      "name": "Jordan Kindler",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/6690a4c16de1fc28b14cc869/starbridge"
+    },
+    {
+      "name": "Henry Bell",
+      "title": "Chief Growth Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/6690a4c16de1fc28b14cc869/starbridge"
+    },
+    {
+      "name": "Jennifer Jiao",
+      "title": "Chief Marketing Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/6690a4c16de1fc28b14cc869/starbridge"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-02",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Owl Ventures",
+      "source": "https://starbridge.ai/blog/announcing-starbridge-s-10m-seed-round"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-10",
+      "amount": "$42M",
+      "valuation": null,
+      "lead": "Craft Ventures",
+      "source": "https://www.craftventures.com/articles/why-we-invested-in-starbridge"
+    }
+  ],
+  "total_raised": "$52M",
+  "revenue_est": {
+    "value": "~$1M ARR in Aug 2025; company says ARR grew 10x+ over the following year (absolute undisclosed)",
+    "as_of": "Aug 2025",
+    "basis": "company-stated (CRO post)",
+    "source": "https://www.linkedin.com/posts/coachstinson_last-august-we-had-3-aes-and-1m-in-arr-activity-7500941395180888066-8t06"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches Starbridge MCP connector for Claude and ChatGPT",
+      "url": "https://starbridge.ai/blog/starbridge-mcp"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Says ARR grew 10x+ in a year; 600+ customers",
+      "url": "https://www.arr.club/signal/starbridge-10x-arr-year-600-customers"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Adds channel partner and contract vehicle access (Sourcewell, NASPO, etc.)",
+      "url": "https://starbridge.ai/blog/channel-partner-contract-vehicle-access"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Launches Starbridge Search Agent for gov and edu sales",
+      "url": "https://www.linkedin.com/posts/justinwenig_today-were-announcing-the-launch-of-starbridge-activity-7465391247742967808-Hy5y"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Raises $42M Series A led by Craft Ventures",
+      "url": "http://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge"
+    }
+  ],
+  "competitors": [
+    "GovSpend",
+    "Deltek GovWin IQ",
+    "GovTribe",
+    "Bloomberg Government"
+  ]
+}

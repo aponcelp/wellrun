@@ -1,0 +1,140 @@
+{
+  "slug": "imprint",
+  "checked": "Oct 19, 2026",
+  "founded": 2020,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "150-200 (LinkedIn-derived est., +40% YoY)",
+    "as_of": "May 2026",
+    "source": "https://www.linkedin.com/posts/imprint-payments_imprint-shellperformanceelite-cobrandedcards-activity-7462142730643738624-o7Ld"
+  },
+  "leadership": [
+    {
+      "name": "Daragh Murphy",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20251217961518/en/Imprint-Raises-%24150-Million-Series-D-to-Transform-Co-Brand-Cards-into-a-True-Loyalty-Platform"
+    },
+    {
+      "name": "Gaurav Ahuja",
+      "title": "Co-founder (Chairman at founding; ex-Thrive Capital partner)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2021/11/15/meet-imprint-the-fintech-that-just-raised-38m-from-the-likes-of-kleiner-perkins-stripe-and-affirm/"
+    },
+    {
+      "name": "Livingston Miller",
+      "title": "Chief Business Officer & General Counsel",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://imprint.co/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-01",
+      "amount": "~$15M",
+      "valuation": null,
+      "lead": "Thrive Capital, Affirm",
+      "source": "https://techcrunch.com/2021/11/15/meet-imprint-the-fintech-that-just-raised-38m-from-the-likes-of-kleiner-perkins-stripe-and-affirm/"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-11",
+      "amount": "$38M",
+      "valuation": "$160M",
+      "lead": "Kleiner Perkins, Stripe",
+      "source": "https://www.forbes.com/sites/emilymason/2023/11/13/businesses-love-rewards-credit-cards-this-startup-is-making-them-easy-to-launch/"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-11",
+      "amount": "$75M",
+      "valuation": "$240M",
+      "lead": "Ribbit Capital",
+      "source": "https://www.forbes.com/sites/emilymason/2023/11/13/businesses-love-rewards-credit-cards-this-startup-is-making-them-easy-to-launch/"
+    },
+    {
+      "round": "Series C",
+      "date": "2024-10",
+      "amount": "$75M",
+      "valuation": "$600M",
+      "lead": "Khosla Ventures (Keith Rabois)",
+      "source": "https://www.businesswire.com/news/home/20241009550698/en/Imprint-Raises-75-Million-Series-C-to-Fuel-Innovation-and-Partnerships-as-it-Reinvents-Co-branded-Credit-Cards"
+    },
+    {
+      "round": "Debt",
+      "date": "2025-03",
+      "amount": "$500M",
+      "valuation": null,
+      "lead": "Truist, Mizuho, HSBC UK",
+      "source": "https://app.dealroom.co/companies/imprint_"
+    },
+    {
+      "round": "Equity (unlabeled)",
+      "date": "2025-07",
+      "amount": "$70M",
+      "valuation": "~$900M",
+      "lead": null,
+      "source": "https://www.cnbc.com/2025/07/22/credit-card-startup-imprint-rakuten.html"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-12",
+      "amount": "$150M",
+      "valuation": "$1.2B",
+      "lead": "Khosla Ventures",
+      "source": "https://www.businesswire.com/news/home/20251217961518/en/Imprint-Raises-%24150-Million-Series-D-to-Transform-Co-Brand-Cards-into-a-True-Loyalty-Platform"
+    },
+    {
+      "round": "Debt",
+      "date": "2026-08",
+      "amount": "$2B debt capacity",
+      "valuation": null,
+      "lead": "Citi, HSBC, Truist, Mizuho, RBC, Scotiabank, TD (per Dealroom)",
+      "source": "https://www.morningstar.com/news/accesswire/1211620msn/imprint-secures-2-billion-in-new-debt-funding-as-institutional-demand-grows"
+    }
+  ],
+  "total_raised": "~$352M equity (Sacra), plus debt facilities",
+  "revenue_est": {
+    "value": "~$400M revenue; CEO says aims to double in 2027",
+    "as_of": "Oct 2026",
+    "basis": "company-stated",
+    "source": "https://finance.yahoo.com/video/imprint-ceo-daragh-murphy-offering-163509026.html"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launches Kroger Rewards World Elite Mastercard, replacing U.S. Bank",
+      "url": "https://www.thekrogerco.com/ir-feed-item/kroger-introduces-kroger-rewards-world-elite-mastercard-to-help-customers-earn-more-points-and-save-more-every-day/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Secures $2B in new debt funding capacity",
+      "url": "https://www.morningstar.com/news/accesswire/1211620msn/imprint-secures-2-billion-in-new-debt-funding-as-institutional-demand-grows"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Shell launches Performance Elite World Mastercard built with Imprint",
+      "url": "https://www.prnewswire.com/news-releases/shell-introduces-credit-card-that-rewards-everyday-spending-beyond-fuel-302774714.html"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Raises $150M Series D at $1.2B led by Khosla Ventures",
+      "url": "https://www.businesswire.com/news/home/20251217961518/en/Imprint-Raises-%24150-Million-Series-D-to-Transform-Co-Brand-Cards-into-a-True-Loyalty-Platform"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Wins Rakuten co-brand card over big banks; raises $70M at ~$900M",
+      "url": "https://www.cnbc.com/2025/07/22/credit-card-startup-imprint-rakuten.html"
+    }
+  ],
+  "competitors": [
+    "Synchrony",
+    "Barclays US",
+    "Cardless",
+    "Bilt"
+  ]
+}

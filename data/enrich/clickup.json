@@ -1,0 +1,54 @@
+{
+  "slug": "clickup",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "San Diego, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Zeb Evans",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/ClickUp"
+    },
+    {
+      "name": "Alex Yurkowski",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/ClickUp"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2020-06",
+      "amount": "$35M",
+      "valuation": "~$200M",
+      "lead": "Craft Ventures",
+      "source": "https://clickup.com/blog/clickup-raises-35m-series-a"
+    },
+    {
+      "round": "Series B",
+      "date": "2020-12",
+      "amount": "$100M",
+      "valuation": "$1B",
+      "lead": "Georgian",
+      "source": "https://techcrunch.com/2020/12/15/clickup-hits-1-billion-valuation-in-100m-series-b-raise"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-10",
+      "amount": "$400M",
+      "valuation": "$4B",
+      "lead": "Andreessen Horowitz, Tiger Global",
+      "source": "https://techcrunch.com/2021/10/27/clickup-raises-400m-at-a-4b-valuation-to-expand-its-all-in-one-workplace-productivity-platform-to-europe/"
+    }
+  ],
+  "total_raised": "$535M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

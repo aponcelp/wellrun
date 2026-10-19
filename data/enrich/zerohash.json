@@ -1,0 +1,47 @@
+{
+  "slug": "zerohash",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "Chicago, IL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Edward Woodford",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://zerohash.com/news/interactive-brokers-collaborates-with-zero-hash-to-enhance-crypto-trading"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series C",
+      "date": "2021-09",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Point72 Ventures",
+      "source": "https://blog.zerohash.com/zero-hash-raises-35-million-in-series-c-funding-led-by-point72-ventures-36dc3c3c4787"
+    },
+    {
+      "round": "Series D",
+      "date": "2022-01",
+      "amount": "$105M",
+      "valuation": "~$340M (per PitchBook via Fortune)",
+      "lead": null,
+      "source": "https://www.globenewswire.com/news-release/2022/01/12/2365605/0/en/zero-hash-raises-105-million-series-d-funding.html"
+    },
+    {
+      "round": "Series D-2",
+      "date": "2025-09",
+      "amount": "$104M",
+      "valuation": "$1B",
+      "lead": "Interactive Brokers",
+      "source": "https://www.globenewswire.com/news-release/2025/09/23/3154607/0/en/interactive-brokers-leads-zerohash-capital-raise-as-morgan-stanley-apollo-and-sofi-also-make-significant-onchain-infrastructure-investment-zerohash-reaches-unicorn-status-and-is-no.html"
+    }
+  ],
+  "total_raised": "$275M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

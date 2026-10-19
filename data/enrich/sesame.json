@@ -1,0 +1,60 @@
+{
+  "slug": "sesame",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Brendan Iribe",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.sesame.com/team"
+    },
+    {
+      "name": "Ankit Kumar",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta"
+    },
+    {
+      "name": "Nate Mitchell",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://web.archive.org/web/20251022084301/https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta"
+    },
+    {
+      "name": "Hans Hartmann",
+      "title": "Chief Operating Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://web.archive.org/web/20251022084301/https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2023-11",
+      "amount": "~$57.6M (Dealroom; undisclosed at launch)",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://a16z.com/announcement/investing-in-sesame-ai/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-10",
+      "amount": "$250M",
+      "valuation": "~$1.19B (Tracxn)",
+      "lead": "Sequoia, Spark Capital",
+      "source": "https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta"
+    }
+  ],
+  "total_raised": "~$307.7M+ (Dealroom rounds; earlier seed ~$10.1M per Dealroom)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

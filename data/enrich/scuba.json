@@ -1,0 +1,46 @@
+{
+  "slug": "scuba",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Noah Desai Weiss",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://scuba.app/blog/introducing-scuba"
+    },
+    {
+      "name": "Dolapo Falola",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://scuba.app/blog/introducing-scuba"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2025",
+      "amount": null,
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://www.accel.com/news/ai-that-knows-what-your-team-knows"
+    },
+    {
+      "round": "Seed",
+      "date": "2026",
+      "amount": null,
+      "valuation": null,
+      "lead": "Accel, IVP",
+      "source": "https://finance.yahoo.com/technology/ai/articles/scuba-emerges-stealth-34m-build-160000387.html"
+    }
+  ],
+  "total_raised": "$34M across pre-seed and seed (announced Oct 2026)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "retool",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "David Hsu",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://retool.com/blog/author/david-hsu"
+    },
+    {
+      "name": "Adrian Kaplan",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://craft.co/retool"
+    },
+    {
+      "name": "Michael Blank",
+      "title": "Chief Operating Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.everydev.ai/developers/retool"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2019",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://finance.yahoo.com/news/retool-nears-1-billion-valuation-130000540.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2020-10",
+      "amount": "$50M",
+      "valuation": "$925M",
+      "lead": "Sequoia Capital",
+      "source": "https://finance.yahoo.com/news/retool-nears-1-billion-valuation-130000540.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-12",
+      "amount": "$20M",
+      "valuation": "$1.85B",
+      "lead": "Existing investors (Sequoia, Elad Gil, Nat Friedman, Daniel Gross, Collisons)",
+      "source": "https://retool.com/newsroom/series-c"
+    },
+    {
+      "round": "Series C2",
+      "date": "2022-07",
+      "amount": "$45M",
+      "valuation": "$3.2B",
+      "lead": "Existing investors incl. Sequoia",
+      "source": "https://techcrunch.com/2022/07/28/retool-raises-45m-at-a-3-2b-valuation-to-make-building-custom-software-as-easy-as-buying-off-the-shelf"
+    }
+  ],
+  "total_raised": "~$140M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

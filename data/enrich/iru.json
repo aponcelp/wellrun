@@ -1,0 +1,76 @@
+{
+  "slug": "iru",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Adam Pettit",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2025/10/22/3171148/0/en/kandji-is-now-iru-the-it-security-platform-built-for-the-ai-era.html"
+    },
+    {
+      "name": "Wesley Pettit",
+      "title": "Co-founder & Chief Product Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Iru_(company)"
+    },
+    {
+      "name": "Mark Daughters",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Iru_(company)"
+    },
+    {
+      "name": "Jimmy Acosta",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.cyberdefensemagazine.com/innovator-spotlight-iru/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2020-10",
+      "amount": "$21M",
+      "valuation": null,
+      "lead": "Greycroft",
+      "source": "https://jobswithstartups.com/startups/iru"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-04",
+      "amount": "$60M",
+      "valuation": null,
+      "lead": "Felicis Ventures",
+      "source": "https://jobswithstartups.com/startups/iru"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-11",
+      "amount": "$100M",
+      "valuation": "$800M (CB Insights)",
+      "lead": "Tiger Global",
+      "source": "https://www.iru.com/blog/archive/kandji-raises-100-million-series-c"
+    },
+    {
+      "round": "Series D",
+      "date": "2024-07",
+      "amount": "$100M ($50M equity + $50M GTM capital)",
+      "valuation": "$850M",
+      "lead": "General Catalyst",
+      "source": "https://www.iru.com/blog/archive/kandji-100-million-funding"
+    }
+  ],
+  "total_raised": "~$288M (CB Insights)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

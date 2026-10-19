@@ -1,0 +1,53 @@
+{
+  "slug": "chariot",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Salo Serfati",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.givechariot.com/about"
+    },
+    {
+      "name": "Aaron Kahane",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.givechariot.com/about"
+    },
+    {
+      "name": "Drew Schneider",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.givechariot.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (YC + Spark Capital, SV Angel)",
+      "date": "2022",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://pittsburgh.dealroom.co/companies/chariot_5"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-08",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": "Maveron",
+      "source": "https://www.givechariot.com/post/chariot-announces-11-million-series-a-investment-round-led-by-maveron"
+    }
+  ],
+  "total_raised": "~$11.5M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

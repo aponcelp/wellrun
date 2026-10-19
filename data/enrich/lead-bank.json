@@ -1,0 +1,60 @@
+{
+  "slug": "lead-bank",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 1928,
+  "hq": "Kansas City, MO",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jackie Reses",
+      "title": "Co-founder, CEO & Chair",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.iconiq.com/growth/insights/building-the-future-of-banking-infrastructure-our-partnership-with-lead-bank"
+    },
+    {
+      "name": "Ronak Vyas",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://assets.ctfassets.net/eecwih1bhiad/4QAa6uH9YkCiTFM1TJxQdb/bfb9cd43249556bcb1f326116b442382/FT_Partners_Interview_-_Lead_Bank.pdf"
+    },
+    {
+      "name": "Homam Maalouf",
+      "title": "Co-founder & Chief Product & Data Science Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://assets.ctfassets.net/eecwih1bhiad/4QAa6uH9YkCiTFM1TJxQdb/bfb9cd43249556bcb1f326116b442382/FT_Partners_Interview_-_Lead_Bank.pdf"
+    },
+    {
+      "name": "Erica Khalili",
+      "title": "Co-founder & Chief Legal & Risk Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://assets.ctfassets.net/eecwih1bhiad/4QAa6uH9YkCiTFM1TJxQdb/bfb9cd43249556bcb1f326116b442382/FT_Partners_Interview_-_Lead_Bank.pdf"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Acquisition by Reses-led group",
+      "date": "2022",
+      "amount": "$56M (purchase price)",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.lead.bank/blog-posts/lead-closes-series-b"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-09",
+      "amount": "$70M",
+      "valuation": "$1.47B post",
+      "lead": "ICONIQ, Greycroft (new investors)",
+      "source": "https://www.lead.bank/blog-posts/lead-closes-series-b"
+    }
+  ],
+  "total_raised": "~$180M ($110M before Series B + $70M Series B, per KCBJ)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "matia",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Benjamin Segal",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.matia.io/blog/ai-unified-data-series-a"
+    },
+    {
+      "name": "Geva Segal",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.calcalistech.com/ctechnews/article/r1gv3c00pbx"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-10",
+      "amount": "$10.5M",
+      "valuation": null,
+      "lead": "Leaders Fund, Secret Chord Ventures",
+      "source": "https://www.matia.io/blog/press-release-matia-raises-10-5-million"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-02",
+      "amount": "$21M",
+      "valuation": null,
+      "lead": "Red Dot Capital Partners",
+      "source": "https://www.businesswire.com/news/home/20260210977689/en/Matia-Raises-$21M-Series-A-to-Scale-Unified-Data-Infrastructure-for-the-AI-Era"
+    }
+  ],
+  "total_raised": "$31M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

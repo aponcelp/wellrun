@@ -1,0 +1,47 @@
+{
+  "slug": "pave",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Matt Schulman",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.pave.com/company/board-and-investors"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2020-12",
+      "amount": "$16M",
+      "valuation": "$75M post",
+      "lead": "Andreessen Horowitz",
+      "source": "https://techcrunch.com/2020/12/03/pave-trove-a16z-series-a/"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-08",
+      "amount": "$46M",
+      "valuation": "$400M post",
+      "lead": "YC Continuity",
+      "source": "https://venturebeat.com/technology/employee-compensation-benchmarking-startup-pave-raises-46m"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-06",
+      "amount": "$100M",
+      "valuation": "$1.6B",
+      "lead": "Index Ventures",
+      "source": "https://www.prnewswire.com/news-releases/pave-raises-100m-series-c-led-by-index-ventures-and-acquires-option-impact-301576878.html"
+    }
+  ],
+  "total_raised": "~$163M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

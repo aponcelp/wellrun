@@ -1,0 +1,54 @@
+{
+  "slug": "boulevard",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "Los Angeles, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Matt Danna",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.joinblvd.com/newsroom/boulevard-raises-usd80-million-in-series-d-funding-to-transform-the-client"
+    },
+    {
+      "name": "Sean Stavropoulos",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/boulevard-3"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2020-11",
+      "amount": "$27M",
+      "valuation": null,
+      "lead": "Index Ventures, Toba Capital (co-leads)",
+      "source": "https://www.businesswire.com/news/home/20201123006065/en/Boulevard-Raises-$27M-to-Empower-Salons-and-Spas-to-Thrive-Despite-Lockdowns"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-08",
+      "amount": "$70M",
+      "valuation": "$595M",
+      "lead": "Point72 Private Investments",
+      "source": "https://techcrunch.com/2022/08/09/boulevard-books-70m-to-help-beauty-and-wellness-salons-with-their-bookings/"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-07",
+      "amount": "$80M",
+      "valuation": "~$800M",
+      "lead": "JMI Equity",
+      "source": "https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/"
+    }
+  ],
+  "total_raised": "~$188M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

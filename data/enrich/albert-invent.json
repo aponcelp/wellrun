@@ -1,0 +1,120 @@
+{
+  "slug": "albert-invent",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "Oakland, CA",
+  "headcount_est": {
+    "value": "51-200 (Dealroom band)",
+    "as_of": "Oct 2026",
+    "source": "https://app.dealroom.co/companies/albertinvent_com"
+  },
+  "leadership": [
+    {
+      "name": "Nick Talken",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.albertinvent.com/press-release-post/albert-raises-55m-series-b-to-scale-the-first-chemistry-native-ai"
+    },
+    {
+      "name": "Neelesh Vaikhary",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/albert-invent"
+    },
+    {
+      "name": "Zack Kisner",
+      "title": "Co-founder & Chief Work Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/5e51785bf0339465c53c637f/albert%20invent"
+    },
+    {
+      "name": "Ken Kisner",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://traded.co/vc/deal/albert-invent-raises-55-million-in-series-b-funding-led-by-tcv-with-participation-from-multiple-investors/"
+    },
+    {
+      "name": "James Pycock",
+      "title": "VP of Product",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/5e51785bf0339465c53c637f/albert%20invent"
+    },
+    {
+      "name": "Jim Smitley",
+      "title": "VP of Engineering",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/5e51785bf0339465c53c637f/albert%20invent"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-06",
+      "amount": "$7.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/albertinvent_com"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-12",
+      "amount": "$22.5M",
+      "valuation": null,
+      "lead": "Coatue",
+      "source": "https://www.albertinvent.com/resources/albert-raises-22-5m-and-launches-breakthrough-tm----ai-built-for-chemists"
+    },
+    {
+      "round": "Growth",
+      "date": "2025-02",
+      "amount": "~$20M (Dealroom)",
+      "valuation": null,
+      "lead": "J.P. Morgan Growth Equity Partners",
+      "source": "https://www.businesswire.com/news/home/20250224896792/en/Chemistry-AI-Platform-Albert-Invent-Announces-Growth-Investment-Led-by-J.P.-Morgan-Private-Capital"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-10",
+      "amount": "$55M",
+      "valuation": "~$340M (reported)",
+      "lead": "TCV",
+      "source": "https://www.albertinvent.com/press-release-post/albert-raises-55m-series-b-to-scale-the-first-chemistry-native-ai"
+    }
+  ],
+  "total_raised": "~$105M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $55M Series B led by TCV; launches chemistry-native model Valence",
+      "url": "https://www.albertinvent.com/press-release-post/albert-raises-55m-series-b-to-scale-the-first-chemistry-native-ai"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Publishes FormBench benchmark; claims 45x better accuracy than frontier models",
+      "url": "https://www.morningstar.com/news/business-wire/20261013059321/albert-raises-55m-series-b-to-scale-the-first-chemistry-native-ai"
+    },
+    {
+      "date": "2026-07",
+      "headline": "AkzoNobel adopts Albert to accelerate R&D",
+      "url": "https://www.albertinvent.com/press-release-post/akzonobel-accelerates-r-d-innovation-with-albert-invent"
+    },
+    {
+      "date": "2025-02",
+      "headline": "Growth round led by J.P. Morgan; total funding passes $45M",
+      "url": "https://www.businesswire.com/news/home/20250224896792/en/Chemistry-AI-Platform-Albert-Invent-Announces-Growth-Investment-Led-by-J.P.-Morgan-Private-Capital"
+    }
+  ],
+  "competitors": [
+    "Benchling",
+    "Dotmatics (Siemens)",
+    "Uncountable",
+    "Citrine Informatics",
+    "Schrödinger"
+  ]
+}

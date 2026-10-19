@@ -1,0 +1,70 @@
+{
+  "slug": "lattice",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2015,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Sarah Franklin",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://fortune.com/2024/05/06/sarah-franklin-lattice-salesforce-benioff-ai/"
+    },
+    {
+      "name": "Stephen Poletto",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/531a1c1ee4b0f7e16607fd98/lattice"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2019-04",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://linkedin.com/company/lattice-hq"
+    },
+    {
+      "round": "Series C",
+      "date": "2019-10",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://linkedin.com/company/lattice-hq"
+    },
+    {
+      "round": "Series D",
+      "date": "2020-07",
+      "amount": "$45M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://linkedin.com/company/lattice-hq"
+    },
+    {
+      "round": "Series E",
+      "date": "2021-03",
+      "amount": "$60M",
+      "valuation": "$1B",
+      "lead": null,
+      "source": "http://techcrunch.com/2022/01/19/lattice-raises-175m-more-at-a-3b-valuation-for-its-people-management-platform"
+    },
+    {
+      "round": "Series F",
+      "date": "2022-01",
+      "amount": "$175M",
+      "valuation": "$3B",
+      "lead": "Thrive Capital, Elad Gil, Tiger Global and Dragoneer",
+      "source": "https://www.prnewswire.com/news-releases/lattice-triples-valuation-to-3b-raises-175m-in-series-f-funding-round-301463463.html"
+    }
+  ],
+  "total_raised": "~$330M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

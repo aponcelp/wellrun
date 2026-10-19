@@ -1,0 +1,68 @@
+{
+  "slug": "vacation",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Nelson Miranda",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.globalcosmeticsnews.com/vacation-appoints-nelson-miranda-ceo-to-lead-next-stage-of-growth/"
+    },
+    {
+      "name": "Dakota Green",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globalcosmeticsnews.com/vacation-appoints-nelson-miranda-ceo-to-lead-next-stage-of-growth/"
+    },
+    {
+      "name": "Lach Hall",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globalcosmeticsnews.com/vacation-appoints-nelson-miranda-ceo-to-lead-next-stage-of-growth/"
+    },
+    {
+      "name": "Marty Bell",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globalcosmeticsnews.com/vacation-appoints-nelson-miranda-ceo-to-lead-next-stage-of-growth/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2023-05",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "Silas Capital",
+      "source": "https://www.nasdaq.com/press-release/vacationr-inc.-announces-$6m-series-a-funding-round-2023-05-16"
+    },
+    {
+      "round": "Series B",
+      "date": "2024",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "True Beauty Ventures",
+      "source": "https://www.wsj.com/articles/how-three-friends-built-a-multimillion-dollar-brand-by-making-sunscreen-fun-again-3ee42983"
+    },
+    {
+      "round": "Growth (PE minority, mostly secondary)",
+      "date": "2026-03",
+      "amount": "$70M",
+      "valuation": "$210M",
+      "lead": "VMG Partners",
+      "source": "http://beautyindependent.com/vmg-partners-backing-vacation-follow-sun-bum-path-exit"
+    }
+  ],
+  "total_raised": "$21.2M+ before VMG (WSJ); VMG's $70M mostly secondary",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

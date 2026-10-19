@@ -1,0 +1,66 @@
+{
+  "slug": "anaconda",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2012,
+  "hq": "Austin, TX",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Peter Wang",
+      "title": "Co-founder, Chief AI & Innovation Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.anaconda.com/about-us/leadership"
+    },
+    {
+      "name": "Travis Oliphant",
+      "title": "Co-founder (no longer at company)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.anaconda.com/about-us"
+    },
+    {
+      "name": "David DeSanto",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.anaconda.com/about-us/leadership"
+    },
+    {
+      "name": "Jane Kim",
+      "title": "Co-President & Chief Commercial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.anaconda.com/about-us/leadership"
+    },
+    {
+      "name": "Laura Sellers",
+      "title": "Co-President & Chief Product and Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.anaconda.com/about-us/leadership"
+    },
+    {
+      "name": "Stewart Grierson",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.anaconda.com/about-us/leadership"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series C",
+      "date": "2025-07",
+      "amount": "$150M+",
+      "valuation": "~$1.5B",
+      "lead": "Insight Partners",
+      "source": "https://www.reuters.com/technology/ai-startup-anaconda-valued-15-billion-series-c-funding-2025-07-31/"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

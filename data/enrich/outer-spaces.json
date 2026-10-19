@@ -1,0 +1,45 @@
+{
+  "slug": "outer-spaces",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "El Segundo, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jiake Liu",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://pulse2.com/outer-spaces-raises-8-million-pre-seed-to-combine-outdoor-living-with-home-energy"
+    },
+    {
+      "name": "Terry Lin",
+      "title": "Co-founder & Chief Design Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.vcaonline.com/news/2026100607/outer-spaces-launches-with-a-new-category-beyond-the-walls-of-the-home-merging-outdoor-living-with-home-energy/"
+    },
+    {
+      "name": "Robin Liao",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.vcaonline.com/news/2026100607/outer-spaces-launches-with-a-new-category-beyond-the-walls-of-the-home-merging-outdoor-living-with-home-energy/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2026-10",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "Upfront Ventures",
+      "source": "https://www.vcaonline.com/news/2026100607/outer-spaces-launches-with-a-new-category-beyond-the-walls-of-the-home-merging-outdoor-living-with-home-energy/"
+    }
+  ],
+  "total_raised": "$8M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "raspberry-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Cheryl Liu",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/01/13/raspberry-ai-raises-24m-from-a16z-to-accelerate-fashion-design/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-02",
+      "amount": "$4.5M",
+      "valuation": null,
+      "lead": "Khosla Ventures, Greycroft",
+      "source": "https://www.businessoffashion.com/articles/technology/the-race-to-build-the-best-generative-ai-platform-for-fashion-design/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-01",
+      "amount": "$24M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.businesswire.com/news/home/20250113456014/en/Gen-AI-Platform-for-Fashion-Creatives-Raspberry-AI-Secures-24-Million-in-Series-A-Funding-Round-Led-by-Andreessen-Horowitz-a16z"
+    }
+  ],
+  "total_raised": "$28.5M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

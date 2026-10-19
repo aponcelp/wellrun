@@ -1,0 +1,39 @@
+{
+  "slug": "day-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "Boston, MA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Christopher O'Donnell",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/markitecht",
+      "source": "https://day.ai/company"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-06",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "https://techcrunch.com/2024/06/20/ex-hubspot-exec-builds-ai-powered-crm-learns-for-you-with-4m-seed-led-sequoia/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-02",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "https://www.upstartsmedia.com/p/day-ai-sequoia-ai-crm"
+    }
+  ],
+  "total_raised": "$24M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

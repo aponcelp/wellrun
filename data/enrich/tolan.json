@@ -1,0 +1,54 @@
+{
+  "slug": "tolan",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Quinten Farmer",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.tolans.com/?trk=public_post_main-feed-card_reshare-text"
+    },
+    {
+      "name": "Evan Goldschmidt",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.tolans.com/?trk=public_post_main-feed-card_reshare-text"
+    },
+    {
+      "name": "Ajay Mehta",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.tolans.com/?trk=public_post_main-feed-card_reshare-text"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-02",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Lachy Groom",
+      "source": "http://tolans.com/relay/introducing-tolan"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-07",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Khosla Ventures",
+      "source": "https://www.geekwire.com/2025/ai-companionship-app-tolan-raises-20m-to-help-more-people-grow-with-a-virtual-alien-friend/"
+    }
+  ],
+  "total_raised": "$30M+",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": [],
+  "note": "Company legal entity Portola (AQP, Inc.)."
+}

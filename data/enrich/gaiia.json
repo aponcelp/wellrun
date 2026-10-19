@@ -1,0 +1,87 @@
+{
+  "slug": "gaiia",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "Quebec City / Montreal, QC, Canada",
+  "headcount_est": {
+    "value": "~117 (LinkedIn)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/gaiiasoftware"
+  },
+  "leadership": [
+    {
+      "name": "Marc-André Campagna",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260512467690/en/gaiia-Raises-40-Million-Series-B-Led-by-JMI-Equity-to-Modernize-the-Operating-System-for-Communications-Service-Providers"
+    },
+    {
+      "name": "Olivier Falardeau",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://linkedin.com/in/olivier-falardeau-5513139b"
+    },
+    {
+      "name": "Marc-Olivier Alain",
+      "title": "Co-founder & Head of Product",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/58bf3b71e4b09d69078c1a13/gaiia"
+    },
+    {
+      "name": "Alexandre Verret",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/58bf3b71e4b09d69078c1a13/gaiia"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-10",
+      "amount": "$13M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.globenewswire.com/news-release/2023/10/04/2754910/0/en/gaiia-secures-13m-seed-round-from-y-combinator-kima-ventures-and-oxio-alumni-to-revolutionize-the-connectivity-industry.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-06",
+      "amount": "$13.2M",
+      "valuation": null,
+      "lead": "Inovia Capital",
+      "source": "https://www.globenewswire.com/news-release/2024/06/27/2905120/0/en/gaiia-raises-series-a-led-by-inovia-capital-to-revolutionize-customer-experience-for-internet-service-providers.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-05",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "JMI Equity",
+      "source": "https://www.jmi.com/gaiia-raises-40-million-series-b-led-by-jmi-equity-to-modernize-the-operating-system-for-communications-service-providers/"
+    }
+  ],
+  "total_raised": "$66M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-05",
+      "headline": "Raises $40M Series B led by JMI Equity after three years of 3x+ revenue growth",
+      "url": "https://www.businesswire.com/news/home/20260512467690/en/gaiia-Raises-40-Million-Series-B-Led-by-JMI-Equity-to-Modernize-the-Operating-System-for-Communications-Service-Providers"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Fierce Network profile: 40+ ISP customers, telecom M&A integration push",
+      "url": "https://www.fierce-network.com/broadband/gaiia-takes-technical-challenge-telecom-ma"
+    }
+  ],
+  "competitors": [
+    "Sonar Software",
+    "Splynx",
+    "Netcracker",
+    "Amdocs"
+  ]
+}

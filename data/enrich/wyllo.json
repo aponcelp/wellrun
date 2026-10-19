@@ -1,0 +1,45 @@
+{
+  "slug": "wyllo",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2014,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Scott Gifis",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/scottpgifis",
+      "source": "https://wyllo.ai/nofraud-rebrands-as-wyllo-introducing-a-cx-first-approach-to-ecommerce-risk-intelligence/"
+    },
+    {
+      "name": "Isaac Gurary",
+      "title": "Co-founder (NoFraud)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/no-fraud"
+    },
+    {
+      "name": "Shaya Posner",
+      "title": "Co-founder (NoFraud)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/no-fraud"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Growth equity (PSG)",
+      "date": "2020",
+      "amount": null,
+      "valuation": null,
+      "lead": "PSG",
+      "source": "http://psgequity.com/portfolio/wyllo"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

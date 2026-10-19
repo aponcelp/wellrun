@@ -1,0 +1,59 @@
+{
+  "slug": "retell-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Carlos, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Bing Wu",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.retellai.com/about-us"
+    },
+    {
+      "name": "Zexia Zhang",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.retellai.com/about-us"
+    },
+    {
+      "name": "Todd Li",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.retellai.com/about-us"
+    },
+    {
+      "name": "Weijia Yu",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.retellai.com/about-us"
+    },
+    {
+      "name": "Evie Wang",
+      "title": "Co-founder & CMO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/03/10/3252773/0/en/Inc-Names-Evie-Wang-Co-founder-and-CMO-of-Retell-AI-to-Its-2026-Female-Founders-500-List.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-08",
+      "amount": "$4.6M",
+      "valuation": null,
+      "lead": "Alt Capital",
+      "source": "https://www.retellai.com/blog/seed-announcement"
+    }
+  ],
+  "total_raised": "~$5.1M (CB Insights, incl. YC pre-seed)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

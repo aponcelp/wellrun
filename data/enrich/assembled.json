@@ -1,0 +1,61 @@
+{
+  "slug": "assembled",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ryan Wang",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.assembled.com/blog/a-series-b-announcement-and-a-thank-you"
+    },
+    {
+      "name": "John Wang",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fundraisingfox.com/companies/assembled"
+    },
+    {
+      "name": "Brian Sze",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.assembled.com/blog/100-assemblers-and-counting-a-q-a-series-with-some-of-assembleds-early-hires"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-03",
+      "amount": "$3.1M",
+      "valuation": null,
+      "lead": "Stripe",
+      "source": "https://techcrunch.com/2020/03/11/assembled-raises-3-1m-led-by-stripe-to-build-the-operating-system-for-support-teams/"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-03",
+      "amount": "$16.6M",
+      "valuation": null,
+      "lead": "Emergence Capital",
+      "source": "https://www.netfigo.com/startup/assembled/"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-05",
+      "amount": "$51M",
+      "valuation": null,
+      "lead": "NEA",
+      "source": "https://www.prnewswire.com/news-releases/assembled-raises-51-million-led-by-nea-to-accelerate-workforce-management-platform-301555838.html"
+    }
+  ],
+  "total_raised": "~$71M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "town",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jean-Denis Greze",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.town.com/careers"
+    },
+    {
+      "name": "Tony Vincent",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.town.com/careers"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-03",
+      "amount": "$18M",
+      "valuation": null,
+      "lead": "First Round Capital",
+      "source": "https://town.com/blog/seed-announcement"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-06",
+      "amount": "$55M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.globenewswire.com/news-release/2026/06/03/3306172/0/en/Town-Raises-55M-Series-A-From-a16z-and-Forerunner-to-Build-the-AI-Assistant-That-Learns-How-You-Work.html"
+    }
+  ],
+  "total_raised": "$73M (per a16z)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

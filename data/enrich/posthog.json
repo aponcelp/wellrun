@@ -1,0 +1,78 @@
+{
+  "slug": "posthog",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "James Hawkins",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://posthog.com/about"
+    },
+    {
+      "name": "Tim Glaser",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://posthog.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-03",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": "Y Combinator, 1984 Ventures",
+      "source": "https://posthog.com/media"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-07",
+      "amount": "$9M",
+      "valuation": null,
+      "lead": "GV",
+      "source": "https://posthog.com/media"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-03",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "YC Continuity",
+      "source": "https://posthog.com/media"
+    },
+    {
+      "round": "Series C",
+      "date": "2025",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "YC Continuity, GV",
+      "source": "https://posthog.com/hogpedia/history-of-posthog"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-06",
+      "amount": "$70M",
+      "valuation": "$920M",
+      "lead": "Stripe",
+      "source": "https://posthog.com/blog/series-d"
+    },
+    {
+      "round": "Series E",
+      "date": "2025-09",
+      "amount": "$75M",
+      "valuation": "$1.4B",
+      "lead": "Peak XV Partners",
+      "source": "https://posthog.com/blog/series-e"
+    }
+  ],
+  "total_raised": "~$194M (company-stated, Oct 2025)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "plain",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "London, UK (US office San Francisco)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Simon Rohrbach",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.plain.com/blog/we-ve-raised-a-15m-series-a"
+    },
+    {
+      "name": "Matt Vagni",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.plain.com/blog/we-ve-raised-a-15m-series-a"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-11",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "Index Ventures, Connect Ventures",
+      "source": "https://www.indexventures.com/perspectives/plain-raises-6-million-to-build-api-first-platform-that-will-transform-customer-support-for-businesses/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-02",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Battery Ventures",
+      "source": "https://techcrunch.com/2025/02/14/plain-pulls-in-15m-to-agregate-b2b-customer-services-chats-into-one-platform/"
+    }
+  ],
+  "total_raised": "~$21M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

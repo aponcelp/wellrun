@@ -1,0 +1,100 @@
+{
+  "slug": "nourish",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Aidan Dewar",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/aidandewar",
+      "source": "https://www.nourish.com/blog/nourish-announces-series-c"
+    },
+    {
+      "name": "Stephanie Liu",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://menlovc.com/portfolio/nourish/"
+    },
+    {
+      "name": "Sam Perkins",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://menlovc.com/portfolio/nourish/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-01",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "Thrive Capital",
+      "source": "https://healthcarediscovery.ai/companies/nourish/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-03",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://www.businesswire.com/news/home/20240327148762/en/Nourish-Raises-%2435M-Series-A-to-Expand-Access-to-Registered-Dietitians"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-04",
+      "amount": "$70M",
+      "valuation": "$1B",
+      "lead": "J.P. Morgan Growth Equity Partners",
+      "source": "https://www.businessinsider.com/nutrition-nourish-unicorn-jp-morgan-growth-series-b-2025-4"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-05",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": "Menlo Ventures",
+      "source": "https://www.nourish.com/blog/nourish-announces-series-c"
+    }
+  ],
+  "total_raised": "$215M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-06",
+      "headline": "Launches outcomes-based pricing tied to clinical results",
+      "url": "https://www.nourish.com/blog/nourish-announces-clinical-outcomes-model"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raises $100M Series C led by Menlo; adds GLP-1 prescribing and AI agents",
+      "url": "https://www.nourish.com/blog/nourish-announces-series-c"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Court lets wiretap class action over Google tracker proceed",
+      "url": "https://news.bloomberglaw.com/litigation/nourish-stuck-with-wiretap-claim-over-use-of-google-web-tracker"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Second privacy suit filed in SDNY (Doe v. Nourish)",
+      "url": "https://dockets.justia.com/docket/new-york/nysdce/1:2026cv02231/659965/feed"
+    },
+    {
+      "date": "2025-04",
+      "headline": "Raises $70M Series B led by J.P. Morgan at $1B valuation; profitable",
+      "url": "https://www.businessinsider.com/nutrition-nourish-unicorn-jp-morgan-growth-series-b-2025-4"
+    }
+  ],
+  "competitors": [
+    "Fay",
+    "Foodsmart",
+    "Berry Street",
+    "Virta Health",
+    "Season Health"
+  ]
+}

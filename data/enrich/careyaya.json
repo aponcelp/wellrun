@@ -1,0 +1,46 @@
+{
+  "slug": "careyaya",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "Research Triangle Park, NC",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Neal K. Shah",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.careyaya.org/neal-k-shah"
+    },
+    {
+      "name": "Gavry Eshet",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://theceal.org/wp-content/uploads/2025/11/CareYaya-Presentation-CEAL%40UNC-Nov-19-2025.pdf"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Accelerator investment (Health Equity Innovation Challenge)",
+      "date": "2023-04",
+      "amount": "$50K",
+      "valuation": null,
+      "lead": null,
+      "source": "https://healthequityinnovationchallenge.com/business-finds-innovative-tech-solution-for-home-health-care/"
+    },
+    {
+      "round": "Impact investment (AHA Social Impact Fund)",
+      "date": "2025-02",
+      "amount": null,
+      "valuation": null,
+      "lead": "American Heart Association Social Impact Fund",
+      "source": "https://en.wikipedia.org/wiki/CareYaya_Health_Technologies"
+    }
+  ],
+  "total_raised": "~$3.35M (PitchBook; includes grants/accelerators)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

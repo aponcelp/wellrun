@@ -1,0 +1,63 @@
+{
+  "slug": "headway",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Andrew Adams",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/andrew-lang-adams",
+      "source": "https://www.prnewswire.com/news-releases/headway-raises-100-million-in-series-d-funding-plans-expansion-to-serve-people-with-medicare-advantage-and-medicaid-insurance-coverage-302203630.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019",
+      "amount": null,
+      "valuation": null,
+      "lead": "Accel",
+      "source": "http://headway.co/blog/series-a-announcement"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-11",
+      "amount": "$26M",
+      "valuation": null,
+      "lead": "Thrive Capital, GV",
+      "source": "http://headway.co/blog/series-a-announcement"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-05",
+      "amount": "$70M",
+      "valuation": "$750M",
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.businesswire.com/news/home/20210504005430/en/Headway-Raises-$70-Million-in-Series-B-Funding-to-Unlock-Access-to-Affordable-Mental-Healthcare-for-Every-American"
+    },
+    {
+      "round": "Series C",
+      "date": "2023-10",
+      "amount": "$125M",
+      "valuation": "$1B",
+      "lead": "Spark Capital",
+      "source": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-mental-health-startup-headway-raises-125-million-1-billion-valuation-2023-10-05/"
+    },
+    {
+      "round": "Series D",
+      "date": "2024-07",
+      "amount": "$100M",
+      "valuation": "$2.3B",
+      "lead": "Spark Capital",
+      "source": "https://www.medcitynews.com/2024/07/headway-mental-health-funding"
+    }
+  ],
+  "total_raised": "$321M+",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

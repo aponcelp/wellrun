@@ -1,0 +1,60 @@
+{
+  "slug": "freehand",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Nitin Jayakrishnan",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://freehand.ai/about-us"
+    },
+    {
+      "name": "Abhijeet Manohar",
+      "title": "Co-founder & CPTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://freehand.ai/about-us"
+    },
+    {
+      "name": "Jim Hilbert",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://freehand.ai/about-us"
+    },
+    {
+      "name": "Saravana Kumar",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://freehand.ai/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2024-03",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-07",
+      "amount": "$75M",
+      "valuation": null,
+      "lead": "Battery Ventures, NewRoad Capital Partners",
+      "source": "https://www.freehand.ai/press-release/freehand-raises-75m-to-scale-ai-teams-managing-supply-chain-spend-for-fortune-500-companies"
+    }
+  ],
+  "total_raised": "$100M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

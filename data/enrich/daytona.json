@@ -1,0 +1,53 @@
+{
+  "slug": "daytona",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ivan Burazin",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/ivanburazin",
+      "source": "http://daytona.io/dotfiles/author/ivan-burazin"
+    },
+    {
+      "name": "Vedran Jukić",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://tech.eu/2026/02/06/daytona-raises-24m-series-a-to-build-agent-native-compute-infrastructure/"
+    },
+    {
+      "name": "Goran Draganić",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://traded.co/vc/deal/daytona-raises-24m-series-a-led-by-firstmark-capital-with-125m-valuation/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": null,
+      "valuation": null,
+      "lead": "Upfront Ventures",
+      "source": "https://upfront.com/thoughts/daytonas-24m-series-a"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-02",
+      "amount": "$24M",
+      "valuation": "~$125M (TradedVC)",
+      "lead": "FirstMark Capital",
+      "source": "https://www.daytona.io/dotfiles/daytona-raises-24m-series-a-to-give-every-agent-a-computer"
+    }
+  ],
+  "total_raised": "$31M (per AlleyWatch, Feb 2026)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

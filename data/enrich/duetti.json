@@ -1,0 +1,54 @@
+{
+  "slug": "duetti",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Lior Tibon",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.duetti.co/about"
+    },
+    {
+      "name": "Christopher Nolte",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.duetti.co/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.theverge.com/23512487/duetti-startup-monetize-artist-catalog-throwback-hits-netflix-streaming"
+    },
+    {
+      "round": "Debt",
+      "date": "2025-03",
+      "amount": "$200M ($150M bank facility + $50M Viola Credit)",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.musicbusinessworldwide.com/duetti-secures-200m-in-fresh-financing-led-by-50m-series-c-equity-investment-from-the-raine-group/"
+    },
+    {
+      "round": "Series C (+ debt)",
+      "date": "2026-01",
+      "amount": "$50M equity (+$125M securitization, +$25M credit)",
+      "valuation": null,
+      "lead": "Raine Partners (The Raine Group)",
+      "source": "https://www.businesswire.com/news/home/20260121033285/en/Duetti-Secures-$200-Million-to-Scale-Independent-Music-Catalog-Acquisitions-and-Enhance-Platform-Capabilities"
+    }
+  ],
+  "total_raised": "$635M+ incl. debt; $100M+ equity (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

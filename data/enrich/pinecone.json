@@ -1,0 +1,68 @@
+{
+  "slug": "pinecone",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ash Ashutosh",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://pinecone.io/company"
+    },
+    {
+      "name": "Edo Liberty",
+      "title": "Founder & Chief Scientist",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/edoliberty",
+      "source": "https://pinecone.io/company"
+    },
+    {
+      "name": "Lior Ehrenfeld",
+      "title": "VP, Finance & Ops",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://pinecone.io/company"
+    },
+    {
+      "name": "Jeff Zhu",
+      "title": "VP, Product",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://pinecone.io/company"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Wing Venture Capital",
+      "source": "https://techcrunch.com/2023/04/27/pinecone-drops-100m-investment-on-750m-valuation-as-vector-database-demand-grows/"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-03",
+      "amount": "$28M",
+      "valuation": null,
+      "lead": "Menlo Ventures",
+      "source": "https://app.welcometothejungle.com/companies/Pinecone"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-04",
+      "amount": "$100M",
+      "valuation": "$750M",
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.pinecone.io/newsroom/pinecone-raises-usd100m-in-series-b-funding-to-provide-long-term-memory-for-ai/"
+    }
+  ],
+  "total_raised": "$138M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

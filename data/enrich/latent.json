@@ -1,0 +1,93 @@
+{
+  "slug": "latent",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "126 employees",
+    "as_of": "2026 (Tracxn, date not shown)",
+    "source": "https://platform.tracxn.com/a/d/company/5d5c294adfad2e1bc5188061/latent"
+  },
+  "leadership": [
+    {
+      "name": "Sriram Somasundaram",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/sites/rashishrivastava/2026/03/18/this-600-million-ai-startup-is-speeding-up-paperwork-so-patients-get-drugs-faster/"
+    },
+    {
+      "name": "Rishabh Jain",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://finance.yahoo.com/sectors/healthcare/articles/latent-raises-80m-close-gap-202300860.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (Y Combinator W23)",
+      "date": "2023",
+      "amount": null,
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://www.ycombinator.com/companies/latent"
+    },
+    {
+      "round": "Seed",
+      "date": "2024-09",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://pitchbook.com:8443/profiles/company/522161-11"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-03",
+      "amount": "$80M",
+      "valuation": "~$600M (Forbes, source familiar)",
+      "lead": "Spark Capital, Transformation Capital",
+      "source": "https://www.latenthealth.com/blog/latent-raises-80m-to-close-the-gap-between-diagnosis-and-treatment"
+    }
+  ],
+  "total_raised": "$80M per company (Dealroom: >$93M incl. earlier rounds)",
+  "revenue_est": {
+    "value": ">$20M annualized revenue",
+    "as_of": "Mar 2026",
+    "basis": "press report (Forbes)",
+    "source": "https://www.forbes.com/sites/rashishrivastava/2026/03/18/this-600-million-ai-startup-is-speeding-up-paperwork-so-patients-get-drugs-faster/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Live in 60 health systems; adds Cleveland Clinic, AdventHealth; launches agents",
+      "url": "https://www.latenthealth.com/press/latent-expands-ai-platform-new-generation-of-medicines"
+    },
+    {
+      "date": "2026-07",
+      "headline": "UNC Health reports 45%+ medication-access growth using Latent",
+      "url": "https://www.beckershospitalreview.com/pharmacy/how-unc-health-scaled-medication-access-by-45-without-adding-headcount-with-a-new-pharmacy-intelligence-platform/"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Raises $80M Series A co-led by Spark Capital and Transformation Capital",
+      "url": "https://www.latenthealth.com/blog/latent-raises-80m-to-close-the-gap-between-diagnosis-and-treatment"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Vanderbilt University Medical Center selects Latent for prior auth",
+      "url": "https://www.latenthealth.com/press/health-tech-ai-press-release-vumc"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Ochsner Health signs enterprise-wide three-year deal",
+      "url": "https://news.ochsner.org/news-releases/ochsner-health-partners-with-latent-health-to-accelerate-ai-driven-medication-access/"
+    }
+  ],
+  "competitors": [
+    "CoverMyMeds (McKesson)",
+    "Develop Health",
+    "Infinitus",
+    "Silna Health"
+  ]
+}

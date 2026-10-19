@@ -1,0 +1,61 @@
+{
+  "slug": "leena-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Adit Jain",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://leena.ai/about-us"
+    },
+    {
+      "name": "Mayank Goyal",
+      "title": "Co-founder & Chief Scientist",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://leena.ai/about-us"
+    },
+    {
+      "name": "Anand Prajapati",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://leena.ai/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2018",
+      "amount": "$2M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://economictimes.indiatimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/articleshow/86586687.cms"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-11",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "Greycroft",
+      "source": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-09",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Bessemer Venture Partners",
+      "source": "https://leena.ai/blog/series-b-weve-raised-30m-and-are-all-set-for-our-next-growth-chapter"
+    }
+  ],
+  "total_raised": "$40M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

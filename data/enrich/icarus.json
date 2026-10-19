@@ -1,0 +1,39 @@
+{
+  "slug": "icarus",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "El Segundo, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Henry Kwan",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.icarus.one/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (YC F25)",
+      "date": "2025-09",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/icarus_27"
+    },
+    {
+      "round": "Pre-seed",
+      "date": "2025-12",
+      "amount": "$500K",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.vcbacked.co/company/icarus"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

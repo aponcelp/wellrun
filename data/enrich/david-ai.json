@@ -1,0 +1,54 @@
+{
+  "slug": "david-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Tomer Cohen",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://ycombinator.com/companies/david-ai"
+    },
+    {
+      "name": "Ben Wiley",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/david-ai-f9af"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-01",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "First Round Capital",
+      "source": "https://www.withdavid.ai/news/announcing-our-5m-seed-round-led-by-first-round"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-05",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Alt Capital",
+      "source": "https://techfundingnews.com/david-ai-raises-50m-series-b-audio-data-ai/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-10",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Meritech",
+      "source": "https://www.withdavid.ai/news/announcing-our-50m-series-b"
+    }
+  ],
+  "total_raised": "~$80M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

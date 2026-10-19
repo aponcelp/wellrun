@@ -1,0 +1,114 @@
+{
+  "slug": "positron-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "Reno, NV",
+  "headcount_est": {
+    "value": "100+ employees",
+    "as_of": "Oct 2026",
+    "source": "https://www.positron.ai/about"
+  },
+  "leadership": [
+    {
+      "name": "Mitesh Agrawal",
+      "title": "CEO (ex-Lambda COO)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260204250472/en/Positron-AI-Raises-$230-Million-Series-B-at-Over-$1-Billion-Valuation-to-Scale-Energy-Efficient-AI-Inference"
+    },
+    {
+      "name": "Thomas Sohmers",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://businesswire.com/news/home/20250728912387/en/Positron-AI-Secures-%2451.6-Million-in-Oversubscribed-Series-A-to-Accelerate-Inference-Optimized-Hardware"
+    },
+    {
+      "name": "Edward Kmett",
+      "title": "Co-founder & Chief Scientist",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://businesswire.com/news/home/20250728912387/en/Positron-AI-Secures-%2451.6-Million-in-Oversubscribed-Series-A-to-Accelerate-Inference-Optimized-Hardware"
+    },
+    {
+      "name": "Bernie Sardinha",
+      "title": "COO / Head of Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/65a1812a37fe10346462f190/positron"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-04",
+      "amount": "$6.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.positron.ai/about"
+    },
+    {
+      "round": "Seed",
+      "date": "2025-02",
+      "amount": "$23.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.businesswire.com/news/home/20250211936199/en/Positron-Secures-$23.5M-to-Design-And-Manufacture-Energy-Efficient-Made-In-America-AI-Chips"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-07",
+      "amount": "$51.6M",
+      "valuation": null,
+      "lead": "Valor Equity Partners, Atreides Management, DFJ Growth (co-investors; no single lead named)",
+      "source": "http://businesswire.com/news/home/20250728912387/en/Positron-AI-Secures-%2451.6-Million-in-Oversubscribed-Series-A-to-Accelerate-Inference-Optimized-Hardware"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-02",
+      "amount": "$230M",
+      "valuation": "$1B+ post",
+      "lead": "ARENA Private Wealth, Jump Trading, Unless",
+      "source": "https://www.businesswire.com/news/home/20260204250472/en/Positron-AI-Raises-$230-Million-Series-B-at-Over-$1-Billion-Valuation-to-Scale-Energy-Efficient-AI-Inference"
+    },
+    {
+      "round": "Series C + C-1",
+      "date": "2026-09",
+      "amount": "$875M ($375M C + up to $500M C-1)",
+      "valuation": "$5B post",
+      "lead": "NEA, Atreides, Valor, Andra Capital, SemiAnalysis Capital, Jim Clark",
+      "source": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html"
+    }
+  ],
+  "total_raised": "~$1.18B",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raises $875M Series C at $5B to tape out Asimov chip and ramp Titan systems",
+      "url": "https://www.reuters.com/business/ai-chip-startup-positrons-valuation-skyrockets-latest-funding-round-2026-09-10/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Deploys 50+ Atlas racks at Oracle Cloud, a first for an AI chip startup",
+      "url": "https://www.positron.ai/about"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Raises $230M Series B at $1B+; Qatar Investment Authority and Arm join",
+      "url": "https://www.businesswire.com/news/home/20260204250472/en/Positron-AI-Raises-$230-Million-Series-B-at-Over-$1-Billion-Valuation-to-Scale-Energy-Efficient-AI-Inference"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Closes $51.6M Series A; previews 2026 Asimov accelerator",
+      "url": "http://businesswire.com/news/home/20250728912387/en/Positron-AI-Secures-%2451.6-Million-in-Oversubscribed-Series-A-to-Accelerate-Inference-Optimized-Hardware"
+    }
+  ],
+  "competitors": [
+    "etched",
+    "sambanova",
+    "Groq",
+    "Cerebras",
+    "d-Matrix"
+  ]
+}

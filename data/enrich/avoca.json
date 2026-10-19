@@ -1,0 +1,94 @@
+{
+  "slug": "avoca",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "158 (PitchBook)",
+    "as_of": "Oct 2026",
+    "source": "https://pitchbook.com/profiles/company/521930-62"
+  },
+  "leadership": [
+    {
+      "name": "Tyson Chen",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.avoca.ai/blog/avoca-raises-125m-series-b-1b-valuation"
+    },
+    {
+      "name": "Apurva Shrivastava",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.avoca.ai/blog/avoca-raises-125m-series-b-1b-valuation"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024 (per Fortune; YC W23)",
+      "amount": null,
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://fortune.com/2026/04/27/avoca-ai-agents-missed-calls-hvac-plumbing-roofing-kleiner-perkins-chen-shrivastava-braswell/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-05",
+      "amount": null,
+      "valuation": null,
+      "lead": "Kleiner Perkins",
+      "source": "https://www.altis.vc/research/company/avoca"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-04",
+      "amount": "~$77M (PitchBook)",
+      "valuation": "$1B",
+      "lead": "Meritech, General Catalyst",
+      "source": "https://www.prnewswire.com/news-releases/avoca-raises-125m-at-1b-valuation-to-power-americas-services-economy-with-ai-302753962.html"
+    }
+  ],
+  "total_raised": "$125M+ across seed, A and B (company-stated)",
+  "revenue_est": {
+    "value": "Eight-figure ARR (exact figure undisclosed)",
+    "as_of": "Dec 2025",
+    "basis": "company-stated",
+    "source": "https://www.prnewswire.com/news-releases/avoca-raises-125m-at-1b-valuation-to-power-americas-services-economy-with-ai-302753962.html"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Partners with Elite Call to pair AI agents with human outbound teams",
+      "url": "https://www.avoca.ai/blog/elitecall-partnership"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Brody Pennell moves its whole front office onto Avoca",
+      "url": "https://www.prnewswire.com/news-releases/brody-pennell-partners-with-avoca-to-take-on-the-full-customer-experience-302875291.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launches Launchpad self-serve onboarding for operators",
+      "url": "https://www.avoca.ai/blog/launchpad-onboarding-for-operators-who-move-fast"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Discloses $125M+ raised across three rounds at a $1B valuation",
+      "url": "https://www.prnewswire.com/news-releases/avoca-raises-125m-at-1b-valuation-to-power-americas-services-economy-with-ai-302753962.html"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Partners with home-services marketing firm RYNO",
+      "url": "https://www.linkedin.com/posts/rynoss_ryno-avoca-were-excited-to-announce-activity-7407797114707288064-qm-w"
+    }
+  ],
+  "competitors": [
+    "ServiceTitan (Max/AI CSR)",
+    "Sameday AI",
+    "Rilla",
+    "Hatch",
+    "Goodcall"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "ambience-healthcare",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Nikhil Buduma",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ambiencehealthcare.com/blog/ambience-healthcare-announces-nikhil-buduma-as-new-chief-executive-officer"
+    },
+    {
+      "name": "Mike Ng",
+      "title": "Co-founder, President & Chairman",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ambiencehealthcare.com/blog/ambience-healthcare-announces-nikhil-buduma-as-new-chief-executive-officer"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2022-04",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://sacra.com/c/ambience/"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-02",
+      "amount": "$70M",
+      "valuation": null,
+      "lead": "Kleiner Perkins, OpenAI Startup Fund",
+      "source": "https://techcrunch.com/2024/02/06/ambience-healthcare-raises-70m-for-its-ai-assistant-led-by-openai-and-kleiner-perkins/"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-07",
+      "amount": "$243M",
+      "valuation": "$1.25B",
+      "lead": "Oak HC/FT, Andreessen Horowitz",
+      "source": "https://www.fiercehealthcare.com/health-tech/ambience-banks-243m-series-c-investors-continue-bet-big-ambient-ai"
+    }
+  ],
+  "total_raised": "$345M+ (as of Jul 2025)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

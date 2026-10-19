@@ -1,0 +1,54 @@
+{
+  "slug": "newtonx",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Sascha Eder",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.newtonx.com/team"
+    },
+    {
+      "name": "Germain Chastel",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://venturebeat.com/business/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2018-09",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": "XFund, Third Prime",
+      "source": "https://venturebeat.com/ai/newtonx-uses-ai-to-connect-executives-with-experts-in-any-industry/"
+    },
+    {
+      "round": "Series A",
+      "date": "2019-06",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "Two Sigma Ventures",
+      "source": "https://www.newtonx.com/press/two-sigma-leads-12m-series-a-for-expert-knowledge-network-newtonx"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-12",
+      "amount": "$32M",
+      "valuation": null,
+      "lead": "Marbruck Investments",
+      "source": "http://newtonx.com/press/newtonx-announces-32m-series-b-funding"
+    }
+  ],
+  "total_raised": "$47M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

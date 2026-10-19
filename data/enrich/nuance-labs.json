@@ -1,0 +1,53 @@
+{
+  "slug": "nuance-labs",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "Seattle, WA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Fangchang Ma",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.geekwire.com/2026/seattles-nuance-labs-raises-50m-to-give-ai-models-human-expression-and-nuance/"
+    },
+    {
+      "name": "Edward Zhang",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.definevc.com/insights/nuance-labs"
+    },
+    {
+      "name": "Karren Yang",
+      "title": "Co-founder & Chief Scientist",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.definevc.com/insights/nuance-labs"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-07",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://www.geekwire.com/2025/ex-apple-phds-raise-10m-choose-seattle-to-build-an-ai-foundation-model-that-understands-emotion/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://www.nuancelabs.ai/nuance-labs-series-a-release"
+    }
+  ],
+  "total_raised": "~$60M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

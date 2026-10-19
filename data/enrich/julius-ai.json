@@ -1,0 +1,39 @@
+{
+  "slug": "julius-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Rahul Sonwalkar",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://ycombinator.com/companies/julius"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2022-09",
+      "amount": "$0.5M",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://sacra.com/c/julius/"
+    },
+    {
+      "round": "Seed",
+      "date": "2025-07",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Bessemer Venture Partners",
+      "source": "http://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round"
+    }
+  ],
+  "total_raised": "~$10.5M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

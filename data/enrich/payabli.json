@@ -1,0 +1,61 @@
+{
+  "slug": "payabli",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "William Corbera",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2024/06/25/payabli-is-building-payment-management-tools-for-software-startups"
+    },
+    {
+      "name": "Joseph (Jo) Phillips",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2024/06/25/payabli-is-building-payment-management-tools-for-software-startups"
+    },
+    {
+      "name": "Brian McKinney",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/payabli"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (incl. extension)",
+      "date": "2023",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "TTV Capital",
+      "source": "https://staging.fintechfutures.com/venture-capital-funding/payabli-bags-28m-series-b-to-fuel-ai-development-and-team-expansion"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-06",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "QED Investors",
+      "source": "https://www.payabli.com/news/20m-series-a-to-scale-operations-and-drive-innovation-for-payments-infrastructure-and-monetization-platform/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-06",
+      "amount": "$28M",
+      "valuation": "$305M (per Forbes)",
+      "lead": "Fika Ventures, QED Investors",
+      "source": "https://payabli.com/news/payabli-lands-28m-series-b-to-accelerate-payments-infrastructure-for-software-companies/"
+    }
+  ],
+  "total_raised": "$60M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

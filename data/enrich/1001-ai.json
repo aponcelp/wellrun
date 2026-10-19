@@ -1,0 +1,39 @@
+{
+  "slug": "1001-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "London, UK / GCC",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Bilal Abu-Ghazaleh",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/blag",
+      "source": "https://www.semafor.com/article/06/30/2026/us-investors-lead-30m-funding-for-gulf-ai-startup-1001"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-10",
+      "amount": "$9M",
+      "valuation": null,
+      "lead": "CIV, General Catalyst, Lux Capital",
+      "source": "https://techcrunch.com/2025/10/20/scale-ai-alum-raises-9m-for-ai-serving-critical-industries-in-mena/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-06",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Lux Capital",
+      "source": "https://1001.ai/blog/series-a"
+    }
+  ],
+  "total_raised": "$39M (sum of disclosed rounds)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

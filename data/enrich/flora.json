@@ -1,0 +1,39 @@
+{
+  "slug": "flora",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "Brooklyn, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Weber Wong",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://flora.ai/blog/the-creative-environment-for-the-generative-era"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-05",
+      "amount": "$6.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/florafauna_ai"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-01",
+      "amount": "$42M",
+      "valuation": null,
+      "lead": "Redpoint Ventures",
+      "source": "http://techcrunch.com/2026/01/27/node-based-design-tool-flora-raises-42m-from-redpoint-ventures"
+    }
+  ],
+  "total_raised": "$52M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "probook",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~72 (LinkedIn)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/probook-ai"
+  },
+  "leadership": [
+    {
+      "name": "George Eliadis",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/06/23/3316215/0/en/Probook-Raises-40M-from-Andreessen-Horowitz-and-Sequoia-to-Scale-the-AI-Operating-System-for-Home-Services.html"
+    },
+    {
+      "name": "Lewis Zhang",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://a16z.com/announcement/investing-in-probook"
+    },
+    {
+      "name": "Ben Cervantez",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://probook.ai/company"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "https://fortune.com/2026/06/23/exclusive-this-startup-wants-to-be-the-ai-brain-for-home-services-and-it-just-raised-40-million-from-sequoia-and-a16z"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-06",
+      "amount": "$34M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.globenewswire.com/news-release/2026/06/23/3316215/0/en/Probook-Raises-40M-from-Andreessen-Horowitz-and-Sequoia-to-Scale-the-AI-Operating-System-for-Home-Services.html"
+    }
+  ],
+  "total_raised": "$40M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-06",
+      "headline": "Raises $40M: $34M Series A led by a16z plus previously undisclosed $6M Sequoia seed",
+      "url": "https://www.globenewswire.com/news-release/2026/06/23/3316215/0/en/Probook-Raises-40M-from-Andreessen-Horowitz-and-Sequoia-to-Scale-the-AI-Operating-System-for-Home-Services.html"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Fortune: listed as ServiceTitan partner even as ServiceTitan ships its own AI scheduling",
+      "url": "https://fortune.com/2026/06/23/exclusive-this-startup-wants-to-be-the-ai-brain-for-home-services-and-it-just-raised-40-million-from-sequoia-and-a16z"
+    }
+  ],
+  "competitors": [
+    "netic",
+    "avoca",
+    "ServiceTitan",
+    "Housecall Pro"
+  ]
+}

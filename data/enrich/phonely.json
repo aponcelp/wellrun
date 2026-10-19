@@ -1,0 +1,46 @@
+{
+  "slug": "phonely",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Will Bodewes",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/phonely"
+    },
+    {
+      "name": "Nisal Ranasinghe",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/phonely"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed (YC S24)",
+      "date": "2024-05",
+      "amount": "$500K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://eng.unimelb.edu.au/ingenium/university-of-melbourne-phd-researchers-secure-major-investment-for-ai-start-up"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-04",
+      "amount": "$16M",
+      "valuation": null,
+      "lead": "Base10 Partners",
+      "source": "https://www.phonely.ai/blogs/phonely-series-a-16m-funding"
+    }
+  ],
+  "total_raised": "$19M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

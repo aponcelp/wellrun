@@ -1,0 +1,53 @@
+{
+  "slug": "latitude",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Cyril Mathew",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.oakhcft.com/news/latitude-raises-35m-series-a-to-connect-stablecoin-payments-to-local-rails-worldwide"
+    },
+    {
+      "name": "Brian Wrightson",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.oakhcft.com/news/latitude-raises-35m-series-a-to-connect-stablecoin-payments-to-local-rails-worldwide"
+    },
+    {
+      "name": "Vivek Morzaria",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.oakhcft.com/news/latitude-raises-35m-series-a-to-connect-stablecoin-payments-to-local-rails-worldwide"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-03",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "NEA",
+      "source": "https://fortune.com/2026/03/31/exclusive-former-stripe-and-coinbase-employees-raise-8-million-for-latitude/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Oak HC/FT",
+      "source": "https://latitude.xyz/news/series-a-press-release"
+    }
+  ],
+  "total_raised": "$43M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

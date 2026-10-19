@@ -1,0 +1,61 @@
+{
+  "slug": "glide",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "David Siegel",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.glideapps.com/blog/author/david-siegel"
+    },
+    {
+      "name": "Mark Probst",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/glide"
+    },
+    {
+      "name": "Jason Smith",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/glide"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Accelerator (Y Combinator)",
+      "date": "2019-02",
+      "amount": "$150K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://pitchbook.com/profiles/company/265401-10"
+    },
+    {
+      "round": "Seed",
+      "date": "2019-11",
+      "amount": "$3.6M",
+      "valuation": null,
+      "lead": "First Round Capital",
+      "source": "https://www.businessinsider.com/pitch-deck-glide-seed-funding-first-round-capital-y-combinator-2019-11"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-04",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Benchmark",
+      "source": "http://techcrunch.com/2022/04/21/with-20m-series-a-glide-expands-no-code-application-building-capabilities"
+    }
+  ],
+  "total_raised": "~$23.75M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

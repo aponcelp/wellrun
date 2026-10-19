@@ -1,0 +1,62 @@
+{
+  "slug": "uniphore",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2008,
+  "hq": "Palo Alto, CA (founded in Chennai, India)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Umesh Sachdev",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://uniphore.com/our-team"
+    },
+    {
+      "name": "Ravi Saraogi",
+      "title": "Co-founder & President, APAC",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.livemint.com/companies/start-ups/ai-startup-uniphore-raises-260-milllion-global-investors/amp-11761196184270.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series C",
+      "date": "2019-08",
+      "amount": "$51M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://stockanalysis.com/private/uniphore/valuation/"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-03",
+      "amount": "$140M",
+      "valuation": null,
+      "lead": "Sorenson Capital",
+      "source": "https://tracxn.com/d/companies/uniphore/__qc0Tx2JG6_zdqzjxpSYBCtGZ5GpjeKyO3PsMME5sWbw/funding-and-investors"
+    },
+    {
+      "round": "Series E",
+      "date": "2022-01",
+      "amount": "$400M",
+      "valuation": "$2.5B",
+      "lead": "NEA",
+      "source": "https://www.thehindubusinessline.com/companies/chennai-start-up-uniphore-raises-260-mn-from-nvidia-amd-nea-among-others/article70192182.ece"
+    },
+    {
+      "round": "Series F",
+      "date": "2025-10",
+      "amount": "$260M",
+      "valuation": "$2.5B",
+      "lead": "NVIDIA, AMD, Snowflake, Databricks",
+      "source": "https://uniphore.com/press-releases/nvidia-amd-snowflake-databricks-invest-in-uniphores-series-f"
+    }
+  ],
+  "total_raised": "~$870M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "alta-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "Tel Aviv, Israel",
+  "headcount_est": {
+    "value": "68 (Tracxn)",
+    "as_of": "Oct 2026",
+    "source": "https://platform.tracxn.com/a/d/company/5976edf3e4b06981263ba443/alta"
+  },
+  "leadership": [
+    {
+      "name": "Stav Levi-Neumark",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.altahq.com/about-us"
+    },
+    {
+      "name": "Mor Shabtai",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.altahq.com/about-us"
+    },
+    {
+      "name": "Tom Hoffen",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.altahq.com/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-03",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": "Entrée Capital, Target Global",
+      "source": "https://www.prnewswire.com/news-releases/alta-raises-7m-seed-round-launches-ai-revenue-workforce-302391415.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-07",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "IN Venture (Sumitomo)",
+      "source": "https://www.prnewswire.com/news-releases/alta-raises-25m-to-redefine-the-go-to-market-architecture-for-revenue-teams-302820618.html"
+    }
+  ],
+  "total_raised": "$32M",
+  "revenue_est": {
+    "value": "~$15M ARR (targeting $30M by end of 2026)",
+    "as_of": "Jul 2026",
+    "basis": "company-stated",
+    "source": "https://www.unite.ai/alta-raises-25m-series-a-to-build-an-ai-native-operating-layer-for-revenue-teams/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-07",
+      "headline": "Raises $25M Series A led by Sumitomo's IN Venture; ~$15M ARR",
+      "url": "https://www.calcalistech.com/ctechnews/article/byylhojqze"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Named official GTM partner for Deel's The Pitch startup competition",
+      "url": "https://www.linkedin.com/posts/altahqdotcom_building-something-bold-this-is-your-shot-activity-7427011554224754688-9ZH4"
+    },
+    {
+      "date": "2025-03",
+      "headline": "Launches out of stealth with $7M seed led by Entrée Capital and Target Global",
+      "url": "https://www.prnewswire.com/news-releases/alta-raises-7m-seed-round-launches-ai-revenue-workforce-302391415.html"
+    }
+  ],
+  "competitors": [
+    "11x",
+    "artisan",
+    "rox",
+    "actively"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "assured",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "Palo Alto, CA",
+  "headcount_est": {
+    "value": "98 employees",
+    "as_of": "2026 (PitchBook, date not shown)",
+    "source": "https://pitchbook.com/profiles/company/433002-16"
+  },
+  "leadership": [
+    {
+      "name": "Justin Lewis-Weber",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.assured.com/about"
+    },
+    {
+      "name": "Theo Patt",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.assured.com/about"
+    },
+    {
+      "name": "Richard Palmer",
+      "title": "Head of Sales",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.assured.com/about"
+    },
+    {
+      "name": "Jesse Cravens",
+      "title": "Head of Engineering",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.assured.com/about"
+    },
+    {
+      "name": "Ben Croes",
+      "title": "Head of Product (joined Feb 2026)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/ben-croes-cfa-34996330_new-year-new-role-im-thrilled-to-announce-activity-7423950007801847808-Gh_I"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-12",
+      "amount": "$1.16M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://pitchbook.com:8443/profiles/company/433002-16"
+    },
+    {
+      "round": "Seed",
+      "date": "2020-12",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://pitchbook.com:8443/profiles/company/433002-16"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-03",
+      "amount": "~$23M",
+      "valuation": "~$1B",
+      "lead": "ICONIQ, Kleiner Perkins (participants; lead not disclosed)",
+      "source": "https://www.bloomberg.com/news/articles/2025-03-04/iconiq-kleiner-perkins-back-insurance-startup-assured-at-1-billion-valuation"
+    }
+  ],
+  "total_raised": "~$23-42M (CB Insights $23.04M; Forge $42.09M)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Granted US patent for dynamic call-representative content flows",
+      "url": "https://exa.ai/library/legal/patent/73d9rxgtb70"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Granted US patent tying ML total-loss prediction to reserve estimation",
+      "url": "https://actuary.info/insights/assured-claims-ml-total-loss-reserve-estimation-patent-2026"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Hires Ben Croes to lead product",
+      "url": "https://www.linkedin.com/posts/ben-croes-cfa-34996330_new-year-new-role-im-thrilled-to-announce-activity-7423950007801847808-Gh_I"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Granted US patent for customized first-notice-of-loss experience",
+      "url": "https://exa.ai/library/legal/patent/4lb42md09k5"
+    },
+    {
+      "date": "2025-03",
+      "headline": "Raises Series B at ~$1B valuation with ICONIQ and Kleiner Perkins",
+      "url": "https://www.bloomberg.com/news/articles/2025-03-04/iconiq-kleiner-perkins-back-insurance-startup-assured-at-1-billion-valuation"
+    }
+  ],
+  "competitors": [
+    "Snapsheet",
+    "CCC Intelligent Solutions",
+    "Five Sigma",
+    "Tractable",
+    "Sprout.ai"
+  ]
+}

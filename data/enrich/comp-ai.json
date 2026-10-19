@@ -1,0 +1,53 @@
+{
+  "slug": "comp-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Lewis Carhart",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/"
+    },
+    {
+      "name": "Claudio Fuentes",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/"
+    },
+    {
+      "name": "Mariano Fuentes",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2025-08",
+      "amount": "$2.6M",
+      "valuation": null,
+      "lead": "OSS Capital, Grand Ventures",
+      "source": "https://www.prnewswire.com/news-releases/comp-ai-secures-2-6m-pre-seed-to-disrupt-soc-2-market-302519788.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$34M",
+      "valuation": null,
+      "lead": "Roo Capital, Grand Ventures",
+      "source": "https://www.trycomp.ai/press/series-a"
+    }
+  ],
+  "total_raised": "$37.5M (per TechCrunch)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

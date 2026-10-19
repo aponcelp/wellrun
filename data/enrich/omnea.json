@@ -1,0 +1,90 @@
+{
+  "slug": "omnea",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "London, UK (office in New York)",
+  "headcount_est": {
+    "value": "219 employees",
+    "as_of": "2026 (LinkedIn, date not shown)",
+    "source": "https://linkedin.com/company/omnea"
+  },
+  "leadership": [
+    {
+      "name": "Ben Freeman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businessinsider.com/omnea-procurement-ai-startup-raises-50-million-insight-khosla-2025-9"
+    },
+    {
+      "name": "Ben Allen",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2024/10/14/omnea-raises-25m-to-tackle-the-painfully-annoying-procurement-market/"
+    },
+    {
+      "name": "Sabrina Castiglione",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/619b6c5d2f18c119295098b8/omnea"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": "$5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2024/10/14/omnea-raises-25m-to-tackle-the-painfully-annoying-procurement-market/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-10",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://www.omnea.co/press-release/series-a-announcement"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-09",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Insight Partners, Khosla Ventures",
+      "source": "https://www.prnewswire.com/news-releases/omnea-raises-50m-to-make-procurement-every-cfos-competitive-advantage-302559153.html"
+    }
+  ],
+  "total_raised": "$75M+",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-07",
+      "headline": "Triples revenue in 12 months to June; signs PayPal and T. Rowe Price",
+      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334207/0/en/Omnea-triples-revenue-in-twelve-months-as-enterprises-choose-agentic-operating-system-for-procurement.html"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Launches employee venture fund with Firedrop",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/06/30/3320026/0/en/omnea-launches-venture-fund-with-firedrop-to-back-its-employees-as-future-founders.html"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Named #1 UK startup in Startups 100 2026",
+      "url": "https://startups.co.uk/startups-100/2026/omnea/"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Raises $50M Series B led by Insight Partners and Khosla; revenue up 5x",
+      "url": "https://www.insightpartners.com/ideas/omnea-raises-50m-to-make-procurement-every-cfos-competitive-advantage/"
+    }
+  ],
+  "competitors": [
+    "zip",
+    "Coupa",
+    "Tropic",
+    "Vendr"
+  ]
+}

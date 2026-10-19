@@ -1,0 +1,47 @@
+{
+  "slug": "railway",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jake Cooper",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/thejakecooper",
+      "source": "https://www.prnewswire.com/news-releases/railway-raises-100-million-series-b-as-ai-pushes-todays-cloud-infrastructure-past-its-limits-302667768.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": null,
+      "valuation": null,
+      "lead": "Unusual Ventures",
+      "source": "https://www.unusual.vc/railway-raises-100m-series-b-to-build-the-developer-cloud-for-the-ai-era/"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-05",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Redpoint",
+      "source": "https://app.dealroom.co/companies/railway_app"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-01",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": "TQ Ventures",
+      "source": "https://www.prnewswire.com/news-releases/railway-raises-100-million-series-b-as-ai-pushes-todays-cloud-infrastructure-past-its-limits-302667768.html"
+    }
+  ],
+  "total_raised": "~$124M (CB Insights)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

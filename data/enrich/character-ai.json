@@ -1,0 +1,54 @@
+{
+  "slug": "character-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Menlo Park, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Karandeep Anand",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/karandeep",
+      "source": "https://blog.character.ai/character-ai-names-karandeep-anand-as-ceo"
+    },
+    {
+      "name": "Erin Teague",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2024/10/02/character-ai-hires-ex-youtube-exec-as-cpo-says-will-raise-money-next-year-with-new-partners/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-12",
+      "amount": "$43M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://intelligence.mts.now/atlas/character-ai"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-03",
+      "amount": "$150M",
+      "valuation": "$1B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.businesswire.com/news/home/20230323005299/en/Personalized-Superintelligence-Platform-Character.AI-Secures-$150M-in-Series-A-Funding-Led-by-Andreessen-Horowitz"
+    },
+    {
+      "round": "Google licensing deal / investor buyout (not an equity round)",
+      "date": "2024-08",
+      "amount": "~$2.7B (reported licensing payment)",
+      "valuation": null,
+      "lead": "Google",
+      "source": "https://www.wired.com/story/character-ai-ceo-chatbots-entertainment/"
+    }
+  ],
+  "total_raised": "$193M venture equity (investors bought out in 2024 Google deal)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

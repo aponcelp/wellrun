@@ -1,0 +1,140 @@
+{
+  "slug": "deel",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Alex Bouaziz",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20251016949787/en/Deel-Secures-%24300-Million-in-Series-E-Funding"
+    },
+    {
+      "name": "Shuo Wang",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/sites/mattdurot/2025/10/20/deels-billionaire-cofounders-just-got-500-million-richer-but-theyre-still-poorer-than-bitter-rival-ripplings-parker-conrad/"
+    },
+    {
+      "name": "Joe Kauffman",
+      "title": "President & CFO (ex-Credit Karma CEO)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.deel.com/blog/new-cfo-announcement/"
+    },
+    {
+      "name": "Philippe Bouaziz",
+      "title": "Executive Chairman & Chief Strategy Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.deel.com/blog/new-cfo-announcement/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-03",
+      "amount": "$3.9M",
+      "valuation": "$12M",
+      "lead": "Y Combinator and angels",
+      "source": "https://app.dealroom.co/companies/deel"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-05",
+      "amount": "$14M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.cnbc.com/2020/05/21/remote-work-andreessen-horowitz-leads-14-million-round-in-deel-payroll-start-up.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2020-09",
+      "amount": "$30M",
+      "valuation": "$225M post",
+      "lead": "Spark Capital",
+      "source": "https://www.businesswire.com/news/home/20200909005149/en"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-04",
+      "amount": "$156M",
+      "valuation": "$1.25B",
+      "lead": "YC Continuity",
+      "source": "https://techcrunch.com/2021/04/21/remote-hiring-startup-deel-raises-156m-at-a-1-25b-valuation-after-20x-growth-in-2020/"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-10",
+      "amount": "$425M",
+      "valuation": "$5.5B",
+      "lead": "Coatue",
+      "source": "https://sacra.com/c/deel/"
+    },
+    {
+      "round": "Series D extension",
+      "date": "2022-05",
+      "amount": "undisclosed",
+      "valuation": "$12B",
+      "lead": null,
+      "source": "https://sacra.com/c/deel/"
+    },
+    {
+      "round": "Series E",
+      "date": "2025-10",
+      "amount": "$300M",
+      "valuation": "$17.3B",
+      "lead": "Ribbit Capital (with a16z, Coatue)",
+      "source": "https://www.reuters.com/business/payroll-platform-deel-valued-173-billion-latest-funding-round-2025-10-16/"
+    }
+  ],
+  "total_raised": "~$1.6B (Sacra est.)",
+  "revenue_est": {
+    "value": "$1.5B+ ARR",
+    "as_of": "Jun 2026",
+    "basis": "company-stated",
+    "source": "https://www.calcalistech.com/ctechnews/article/r1nhlgcsge"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Judge keeps key witness in Rippling spying suit; Deel counterclaims sent to arbitration",
+      "url": "https://thenextweb.com/news/deel-rippling-spying-case-witness-ruling"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Launches Deel Retirement 401(k) with Human Interest and Basic Capital",
+      "url": "https://401kspecialistmag.com/global-hr-platform-deel-launches-integrated-us-401k-offering-with-human-interest-basic-capital/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Says ARR passed $1.5B in first half of 2026",
+      "url": "https://www.calcalistech.com/ctechnews/article/r1nhlgcsge"
+    },
+    {
+      "date": "2026-01",
+      "headline": "DOJ opens criminal investigation into Deel over espionage allegations",
+      "url": "https://www.calcalistech.com/ctechnews/article/s1jroxz8zg"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Names ex-Credit Karma CEO Joe Kauffman President & CFO ahead of IPO plans",
+      "url": "https://www.deel.com/blog/new-cfo-announcement/"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Raises $300M Series E at $17.3B led by Ribbit Capital",
+      "url": "https://www.reuters.com/business/payroll-platform-deel-valued-173-billion-latest-funding-round-2025-10-16/"
+    }
+  ],
+  "competitors": [
+    "rippling",
+    "remote",
+    "Oyster",
+    "Papaya Global"
+  ]
+}

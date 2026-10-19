@@ -1,0 +1,77 @@
+{
+  "slug": "faire",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Max Rhodes",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.faire.com/news/about"
+    },
+    {
+      "name": "Marcelo Cortes",
+      "title": "Co-founder & Chief Architect",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.faire.com/news/about"
+    },
+    {
+      "name": "Jeff Kolovson",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/2026/03/19/faire-ceo-growing-too-fast-nearly-sank-company-how-we-fixed-it.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series E",
+      "date": "2020-10",
+      "amount": "$170M",
+      "valuation": "$2.5B",
+      "lead": "Sequoia Capital",
+      "source": "https://www.faire.com/news/2020-10-27-announcing-170m-at-a-2-5b-valuation-in-series-e-led-by-sequoia-capital"
+    },
+    {
+      "round": "Series F",
+      "date": "2021-06",
+      "amount": "$260M",
+      "valuation": "$7B",
+      "lead": "Sequoia Capital",
+      "source": "https://finance.yahoo.com/news/exclusive-online-wholesale-marketplace-faire-040711304.html"
+    },
+    {
+      "round": "Series G",
+      "date": "2021-11",
+      "amount": "$400M",
+      "valuation": "$12.4B",
+      "lead": "Durable Capital, D1, Dragoneer",
+      "source": "https://www.businesswire.com/news/home/20211116005386/en/Faire-Valuation-Grows-to-%2412.4-Billion-With-%24400-Million-Series-G-Funding-Round-Co-Led-by-Durable-Capital-Partners-LP"
+    },
+    {
+      "round": "Series G extension",
+      "date": "2022-05",
+      "amount": "$416M",
+      "valuation": "$12.59B",
+      "lead": null,
+      "source": "https://techcrunch.com/2022/05/10/faire-lands-416m-extension-from-yc-sequoia-and-others-for-online-wholesale-marketplace/"
+    },
+    {
+      "round": "Employee tender (secondary)",
+      "date": "2025-11",
+      "amount": null,
+      "valuation": "$5.2B",
+      "lead": "WCM Investment Management",
+      "source": "https://www.cnbc.com/2026/03/19/faire-ceo-growing-too-fast-nearly-sank-company-how-we-fixed-it.html"
+    }
+  ],
+  "total_raised": "~$1.7B",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

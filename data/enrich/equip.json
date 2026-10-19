@@ -1,0 +1,70 @@
+{
+  "slug": "equip",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "Carlsbad, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Kristina Saffran",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://equip.health/articles/author/kristina-saffran"
+    },
+    {
+      "name": "Erin Parks",
+      "title": "Co-founder, COO & Chief Clinical Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://bhbusiness.com/2025/08/01/digital-eating-disorder-treatment-company-equip-health-discloses-47m-fundraise"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-12",
+      "amount": "~$4M",
+      "valuation": null,
+      "lead": "F-Prime Capital",
+      "source": "https://equip.health/articles/uncategorized/equip-launch-announcement"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-02",
+      "amount": "$13M",
+      "valuation": null,
+      "lead": "Optum Ventures",
+      "source": "https://equip.health/articles/uncategorized/equip-launch-announcement"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-02",
+      "amount": "$58M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://equip.health/articles/news-and-research/equips-series-b"
+    },
+    {
+      "round": "Series C (SEC filing)",
+      "date": "2024-04",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://femtechinsider.com/equip-35m-raise"
+    },
+    {
+      "round": "Late-stage (SEC filing)",
+      "date": "2025-07",
+      "amount": "$46.6M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://bhbusiness.com/2025/08/01/digital-eating-disorder-treatment-company-equip-health-discloses-47m-fundraise"
+    }
+  ],
+  "total_raised": "~$156M (Crunchbase via Behavioral Health Business)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

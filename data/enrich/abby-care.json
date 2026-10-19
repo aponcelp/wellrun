@@ -1,0 +1,39 @@
+{
+  "slug": "abby-care",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Havi Nguyen",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.abbycare.org/our-story"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2025-08",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://homehealthcarenews.com/2026/10/abby-care-raises-82m-to-train-pay-family-caregivers/"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-10",
+      "amount": "$82M",
+      "valuation": null,
+      "lead": "Transformation Capital",
+      "source": "https://www.abbycare.org/blog/abby-care-series-c-raise"
+    }
+  ],
+  "total_raised": "$117M+ (sum of disclosed rounds; earlier rounds undisclosed)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

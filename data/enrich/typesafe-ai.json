@@ -1,0 +1,76 @@
+{
+  "slug": "typesafe-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~31 (LinkedIn)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/typesafe-ai"
+  },
+  "leadership": [
+    {
+      "name": "Diogo Almeida",
+      "title": "Co-founder & CEO (ex-OpenAI, InstructGPT/RLHF)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://sequoiacap.com/article/typesafe-the-jevolution"
+    },
+    {
+      "name": "Erik Gafni",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://a16zjobs.substack.com/p/diogo-almeida-co-inventor-of-chatgpt"
+    },
+    {
+      "name": "Sasha Sheng",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://a16zjobs.substack.com/p/diogo-almeida-co-inventor-of-chatgpt"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-09",
+      "amount": "$40M",
+      "valuation": "~$200M post",
+      "lead": "DCVC",
+      "source": "https://cryptobriefing.com/a16z-leads-typesafe-ai-series-a/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$870M",
+      "valuation": "$7.5B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+    }
+  ],
+  "total_raised": "~$910M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $870M Series A at $7.5B led by a16z; Martin Casado joins board",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Says a third of the Fortune 500 use Jev",
+      "url": "https://typesafe.ai/blog/series-ai"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Exits stealth with $40M DCVC-led seed and launches Jev decision model",
+      "url": "https://cryptobriefing.com/a16z-leads-typesafe-ai-series-a/"
+    }
+  ],
+  "competitors": [
+    "openai",
+    "anthropic",
+    "cohere"
+  ]
+}

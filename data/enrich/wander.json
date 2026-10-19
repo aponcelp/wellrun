@@ -1,0 +1,55 @@
+{
+  "slug": "wander",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Austin, TX",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "John Andrew Entwistle",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.wander.com/series-b"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.phocuswire.com/wander-funding-series-b-50-million-short-term-rentals"
+    },
+    {
+      "round": "Series A",
+      "date": "2022",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.phocuswire.com/wander-funding-series-b-50-million-short-term-rentals"
+    },
+    {
+      "round": "Debt",
+      "date": "2022-11",
+      "amount": "$100M credit facility",
+      "valuation": null,
+      "lead": "Credit Suisse",
+      "source": "https://www.forbes.com/sites/amydobson/2022/11/30/wander-raises-100-million-from-credit-suisse-jumpstarting-new-captive-reit-model-for-vacation-rentals"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-05",
+      "amount": "$50M announced ($64.1M sold per SEC Form D)",
+      "valuation": null,
+      "lead": "QED Investors, Fifth Wall",
+      "source": "https://www.prnewswire.com/news-releases/wander-raises-50m-series-b-to-build-the-trusted-brand-in-vacation-rentals-302466298.html"
+    }
+  ],
+  "total_raised": "$100M+ equity (Sourcery, May 2025); ~$222M incl. debt (Next in Austin)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

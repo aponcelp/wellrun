@@ -1,0 +1,54 @@
+{
+  "slug": "ossium-health",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Kevin Caldwell",
+      "title": "Co-founder, President & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://ossiumhealth.com/series-c/"
+    },
+    {
+      "name": "Erik Woods",
+      "title": "Co-founder, EVP & Chief Science Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20230711878111/en/Ossium-Health-Secures-Series-C-to-Expand-Bone-Marrow-Bank-Advance-Clinical-Trials-to-Treat-Life-Threatening-Blood-and-Immune-Diseases"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2018-05",
+      "amount": "$10M+",
+      "valuation": null,
+      "lead": "First Round Capital",
+      "source": "https://ossiumhealth.com/company"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-03",
+      "amount": "$63M",
+      "valuation": null,
+      "lead": "Vivo Capital, General Catalyst",
+      "source": "https://www.globenewswire.com/news-release/2021/03/18/2195504/0/en/Ossium-Health-Raises-63M-Series-B-to-Revolutionize-Bioengineering.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2023-07",
+      "amount": "$52M",
+      "valuation": null,
+      "lead": "CPMG",
+      "source": "https://ossiumhealth.com/series-c/"
+    }
+  ],
+  "total_raised": "~$126M equity (plus NIH/CIRM grants)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

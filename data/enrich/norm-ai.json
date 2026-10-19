@@ -1,0 +1,102 @@
+{
+  "slug": "norm-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "John Nay",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/norm-ai-raises-120-million-at-a-1-2-billion-valuation-led-by-khosla-ventures-to-deliver-the-full-stack-model-for-legal-ai-302819152.html"
+    },
+    {
+      "name": "Scott Worland",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/5e3b1f1df0339467f38f5c9e/norm%20ai"
+    },
+    {
+      "name": "Mike Schmidtberger",
+      "title": "Chairman",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.norm.ai/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-01",
+      "amount": "$11.1M",
+      "valuation": null,
+      "lead": "Coatue",
+      "source": "https://www.norm.ai/resources/norm-emerges-from-stealth"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-06",
+      "amount": "$27M",
+      "valuation": null,
+      "lead": "Coatue",
+      "source": "https://www.prnewswire.com/news-releases/norm-ai-raises-27-million-series-a-to-expand-ai-driven-regulatory-compliance-platform-302181545.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-03",
+      "amount": "$48M",
+      "valuation": null,
+      "lead": "Coatue (per Seedtable; release names no lead)",
+      "source": "https://www.prnewswire.com/news-releases/norm-ai-secures-48-million-to-transform-regulations-into-compliance-ai-agents-302398351.html"
+    },
+    {
+      "round": "Strategic",
+      "date": "2025-11",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Blackstone",
+      "source": "https://www.norm.ai/"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-07",
+      "amount": "$120M",
+      "valuation": "$1.2B",
+      "lead": "Khosla Ventures",
+      "source": "https://www.reuters.com/technology/legal-ai-startup-norm-ai-hits-12-billion-valuation-after-120-million-funding-2026-07-07/"
+    }
+  ],
+  "total_raised": "$260M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-07",
+      "headline": "Raises $120M Series C at $1.2B led by Khosla; scaling AI-native law firm",
+      "url": "https://www.prnewswire.com/news-releases/norm-ai-raises-120-million-at-a-1-2-billion-valuation-led-by-khosla-ventures-to-deliver-the-full-stack-model-for-legal-ai-302819152.html"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Mike Schmidtberger joins as Chairman",
+      "url": "https://www.norm.ai/"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Blackstone invests $50M more; Norm launches Norm Law, an AI-native law firm",
+      "url": "https://www.norm.ai/"
+    },
+    {
+      "date": "2025-03",
+      "headline": "Raises $48M from Coatue, Craft, Vanguard, Blackstone and others",
+      "url": "https://www.prnewswire.com/news-releases/norm-ai-secures-48-million-to-transform-regulations-into-compliance-ai-agents-302398351.html"
+    }
+  ],
+  "competitors": [
+    "harvey",
+    "legora",
+    "hebbia",
+    "Hadrius"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "squire",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2015,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Songe LaRon",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.finsmes.com/2021/07/squire-technologies-raises-60m-in-series-d-financing-valued-at-750m.html"
+    },
+    {
+      "name": "Dave Salvant",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.svb.com/news/client-news/squire-secures-%2435-million-in-debt-financing-from--silicon-valley-bank"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (Y Combinator)",
+      "date": "2016-09",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/getsquire"
+    },
+    {
+      "round": "Series A",
+      "date": "2019-06",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "Trinity Ventures",
+      "source": "https://app.dealroom.co/companies/getsquire"
+    },
+    {
+      "round": "Series B",
+      "date": "2020-03",
+      "amount": "$34M ($27M equity + $7M debt)",
+      "valuation": null,
+      "lead": "CRV",
+      "source": "https://www.prnewswire.com/news-releases/squire-technologies-raises-34-million-series-b-to-power-barbershop-operations-301073242.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2020-12",
+      "amount": "$59M ($44M equity + $15M debt)",
+      "valuation": "$250M",
+      "lead": "ICONIQ Capital",
+      "source": "https://www.prnewswire.com/news-releases/squire-technologies-raises-59m-series-c-funding-bringing-total-raised-this-year-to-93m-301190779.html"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-07",
+      "amount": "$60M",
+      "valuation": "$750M",
+      "lead": "Tiger Global",
+      "source": "https://www.prnewswire.com/news-releases/squire-technologies-raises-60m-series-d-financing-triples-valuation-to-750m-301343299.html"
+    },
+    {
+      "round": "Debt",
+      "date": "2024-11",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Silicon Valley Bank",
+      "source": "https://www.svb.com/news/client-news/squire-secures-%2435-million-in-debt-financing-from--silicon-valley-bank"
+    }
+  ],
+  "total_raised": "~$200M incl. debt (~$165M through Series D)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

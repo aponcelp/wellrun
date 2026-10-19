@@ -1,0 +1,54 @@
+{
+  "slug": "narmi",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Nikhil Lakhanpal",
+      "title": "Co-founder & Co-President",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/nlakhanpal",
+      "source": "https://www.narmi.com/about"
+    },
+    {
+      "name": "Chris Griffin",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.narmi.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2018-12",
+      "amount": null,
+      "valuation": null,
+      "lead": "Picus Capital",
+      "source": "https://www.narmi.com/insights/picus-capital-on-narmi-series-b"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-02",
+      "amount": "$20.4M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.retailbankerinternational.com/news/narmi-raises-35m"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-06",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Greycroft, NEA, Picus Capital (co-leads)",
+      "source": "https://techcrunch.com/2022/06/15/narmi-lands-35m-to-layer-services-on-top-of-existing-banking-infrastructure"
+    }
+  ],
+  "total_raised": "~$60M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

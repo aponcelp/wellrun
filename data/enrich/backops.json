@@ -1,0 +1,77 @@
+{
+  "slug": "backops",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~53 (LinkedIn)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/backops-"
+  },
+  "leadership": [
+    {
+      "name": "Sean McCarthy",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.backops.com/about-us"
+    },
+    {
+      "name": "Henry Ou",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.backops.com/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-06",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "Construct Capital",
+      "source": "https://seedtable.com/companies/backops-ai"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-03",
+      "amount": "$26M",
+      "valuation": null,
+      "lead": "Theory Ventures",
+      "source": "https://businesswire.com/news/home/20260312950847/en/BackOps-Raises-%2426M-Series-A-to-Build-the-AI-Native-Operating-System-for-Global-Supply-Chains"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-09",
+      "amount": "$42M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://www.prnewswire.com/news-releases/backops-raises-42m-series-b-to-scale-its-ai-resolution-layer-for-supply-chain-operations-302879927.html"
+    }
+  ],
+  "total_raised": "~$74M (sum of disclosed rounds)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raises $42M Series B led by Insight Partners, six months after Series A",
+      "url": "https://www.prnewswire.com/news-releases/backops-raises-42m-series-b-to-scale-its-ai-resolution-layer-for-supply-chain-operations-302879927.html"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Raises $26M Series A led by Theory Ventures",
+      "url": "https://businesswire.com/news/home/20260312950847/en/BackOps-Raises-%2426M-Series-A-to-Build-the-AI-Native-Operating-System-for-Global-Supply-Chains"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Raises $6M seed led by Construct Capital",
+      "url": "https://seedtable.com/companies/backops-ai"
+    }
+  ],
+  "competitors": [
+    "happyrobot",
+    "Pallet",
+    "Vooma"
+  ]
+}

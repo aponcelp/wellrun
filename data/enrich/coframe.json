@@ -1,0 +1,31 @@
+{
+  "slug": "coframe",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Josh Payne",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/joshpxyne",
+      "source": "https://www.reuters.com/technology/artificial-intelligence/coframe-raises-9-million-websites-that-optimize-themselves-using-ai-2024-10-29"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-10",
+      "amount": "$9.3M",
+      "valuation": null,
+      "lead": "Khosla Ventures, NFDG",
+      "source": "https://www.reuters.com/technology/artificial-intelligence/coframe-raises-9-million-websites-that-optimize-themselves-using-ai-2024-10-29"
+    }
+  ],
+  "total_raised": "$9.3M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

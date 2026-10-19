@@ -1,0 +1,45 @@
+{
+  "slug": "thinking-machines-lab",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Mira Murati",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15"
+    },
+    {
+      "name": "Soumith Chintala",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/"
+    },
+    {
+      "name": "Lilian Weng",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Thinking_Machines_Lab"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-07",
+      "amount": "~$2B",
+      "valuation": "$12B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.wired.com/story/thinking-machines-lab-mira-murati-funding/"
+    }
+  ],
+  "total_raised": "~$2B (seed; a reported ~$1B Accel-led round was in talks as of Sep 2026, not confirmed)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

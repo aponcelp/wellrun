@@ -1,0 +1,89 @@
+{
+  "slug": "vapi",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "151 (LinkedIn-derived count, +28% YoY)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/vapi-ai"
+  },
+  "leadership": [
+    {
+      "name": "Jordan Dearsley",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/05/12/3292882/0/en/Vapi-raises-50M-Series-B-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-AI.html"
+    },
+    {
+      "name": "Nikhil Gupta",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2024/12/12/2996317/0/en/Vapi-Dials-in-20M-in-Series-A-Led-by-Bessemer-to-Bring-AI-Voice-Agents-to-Enterprise.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed (Y Combinator W21, as Superpowered)",
+      "date": "2021-03",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/vapi_"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-12",
+      "amount": "$20M",
+      "valuation": "~$130M (Reuters source)",
+      "lead": "Bessemer Venture Partners",
+      "source": "https://www.reuters.com/technology/voice-ai-startup-vapi-raises-20-mln-bessemer-y-combinator-backed-round-2024-12-12"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-05",
+      "amount": "$50M",
+      "valuation": "~$500M (TechCrunch source)",
+      "lead": "Peak XV Partners",
+      "source": "https://www.globenewswire.com/news-release/2026/05/12/3292882/0/en/Vapi-raises-50M-Series-B-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-AI.html"
+    }
+  ],
+  "total_raised": "$72M (company-stated)",
+  "revenue_est": {
+    "value": "\"Healthy eight figures\" ARR run rate (exact figure undisclosed)",
+    "as_of": "May 2026",
+    "basis": "press report (investor source)",
+    "source": "http://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launches Personal Agent Calling beta for personal AI assistants",
+      "url": "https://vapi.ai/blog/vapi-personal-agent-calling"
+    },
+    {
+      "date": "2026-06",
+      "headline": "npm supply-chain worm hits server SDK; contained in 3 hours, no data accessed",
+      "url": "https://vapi.ai/blog/our-response-to-june-3-supply-chain-incident"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Four-hour full US platform outage (published RCA)",
+      "url": "https://status.vapi.ai/incident/901977"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raises $50M Series B led by Peak XV at ~$500M after winning Amazon Ring",
+      "url": "http://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals"
+    }
+  ],
+  "competitors": [
+    "retell-ai",
+    "Bland AI",
+    "Synthflow",
+    "livekit",
+    "elevenlabs"
+  ]
+}

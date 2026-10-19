@@ -1,0 +1,47 @@
+{
+  "slug": "nas-com",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Nuseir Yassin",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.nas.com/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021-07",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/nas_io"
+    },
+    {
+      "round": "Early VC",
+      "date": "2022-07",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/nas_io"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-04",
+      "amount": "$27M",
+      "valuation": null,
+      "lead": "Khosla Ventures",
+      "source": "https://www.prnewswire.com/news-releases/nascom-raises-27m-series-a-led-by-khosla-ventures-as-ai-unleashes-the-biggest-wave-of-new-business-creation-in-history-302745035.html"
+    }
+  ],
+  "total_raised": "~$50M (per American Entrepreneurship Today)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "motive",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2013,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Shoaib Makani",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://gomotive.com/ai-leader-motive-raises-150-million-to-invest-in-product-go-to-market-expansion"
+    },
+    {
+      "name": "Ryan Johns",
+      "title": "Co-founder (technical)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://research.contrary.com/company/motive"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2015",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://en.wikipedia.org/wiki/Motive_(company)"
+    },
+    {
+      "round": "Series B",
+      "date": "2017",
+      "amount": "$18M",
+      "valuation": null,
+      "lead": "Scale Venture Partners, Index Ventures, GV",
+      "source": "https://en.wikipedia.org/wiki/Motive_(company)"
+    },
+    {
+      "round": "Series C",
+      "date": "2018",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "IVP, GV, Index, Scale",
+      "source": "https://en.wikipedia.org/wiki/Motive_(company)"
+    },
+    {
+      "round": "Series D",
+      "date": "2019",
+      "amount": "$149M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Motive_(company)"
+    },
+    {
+      "round": "Series E",
+      "date": "2021-06",
+      "amount": "$190M",
+      "valuation": "$2.3B",
+      "lead": "G2 Venture Partners",
+      "source": "https://www.freightwaves.com/news/motive-raises-valuation-to-2-85b-after-closing-150m-funding-round"
+    },
+    {
+      "round": "Series F",
+      "date": "2022-05",
+      "amount": "$150M",
+      "valuation": "$2.85B",
+      "lead": "Insight Partners, Kleiner Perkins",
+      "source": "https://www.businesswire.com/news/home/20220525005292/en/Motive-Raises-$150-Million-in-Series-F-Funding"
+    },
+    {
+      "round": "Growth",
+      "date": "2025-07",
+      "amount": "$150M",
+      "valuation": null,
+      "lead": "Kleiner Perkins",
+      "source": "http://gomotive.com/ai-leader-motive-raises-150-million-to-invest-in-product-go-to-market-expansion"
+    },
+    {
+      "round": "Non-dilutive financing (General Catalyst CVF)",
+      "date": "2026-09",
+      "amount": "$1.3B+",
+      "valuation": null,
+      "lead": "General Catalyst Customer Value Fund",
+      "source": "https://platform.tracxn.com/a/d/company/531ca6cbe4b0f7e16657ebde/motive"
+    }
+  ],
+  "total_raised": "~$717M equity (Owler) + $1.3B non-dilutive CVF",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

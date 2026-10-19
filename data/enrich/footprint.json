@@ -1,0 +1,54 @@
+{
+  "slug": "footprint",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Eli Wachs",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://onefootprint.com/learn/series-b"
+    },
+    {
+      "name": "Alex Grinman",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.indexventures.com/perspectives/footprint-emerges-from-stealth-to-transform-digital-identity/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-08",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://www.indexventures.com/perspectives/footprint-emerges-from-stealth-to-transform-digital-identity/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-05",
+      "amount": "$13M",
+      "valuation": null,
+      "lead": "QED Investors",
+      "source": "https://www.businesswire.com/news/home/20240521080297/en/Footprint-Raises-%2413-Million-Series-A-led-by-QED-Investors-to-Automate-Consumer-Onboarding-and-Make-Identity-Portable"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-09",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "QED Investors",
+      "source": "https://onefootprint.com/learn/series-b"
+    }
+  ],
+  "total_raised": "$45M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

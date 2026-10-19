@@ -1,0 +1,60 @@
+{
+  "slug": "paid",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "London, UK",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Manny Medina",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lsvp.com/company/paid/"
+    },
+    {
+      "name": "Manoj Ganapathy",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://paid.ai/blog/paid-raises-21-6-million-seed-round"
+    },
+    {
+      "name": "Raj Dosanjh",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://paid.ai/blog/paid-raises-21-6-million-seed-round"
+    },
+    {
+      "name": "Arnon Shimoni",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://paid.ai/blog/paid-raises-21-6-million-seed-round"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2025-03",
+      "amount": "€10M",
+      "valuation": null,
+      "lead": "EQT Ventures, Sequoia Capital",
+      "source": "https://paid.ai/blog/paid-raises-10m-to-build-the-business"
+    },
+    {
+      "round": "Seed",
+      "date": "2025-09",
+      "amount": "$21.6M",
+      "valuation": ">$100M (reported)",
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed"
+    }
+  ],
+  "total_raised": "$33.3M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

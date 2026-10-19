@@ -1,0 +1,54 @@
+{
+  "slug": "11x",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Prabhav Jain",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2025/05/05/11x-ceo-hasan-sukkar-steps-down"
+    },
+    {
+      "name": "Hasan Sukkar",
+      "title": "Founder & Non-Executive Chairman",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2025/05/05/11x-ceo-hasan-sukkar-steps-down"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023",
+      "amount": "$2M",
+      "valuation": null,
+      "lead": "Project A Ventures",
+      "source": "https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-09",
+      "amount": "$24M",
+      "valuation": "~$90M (reported)",
+      "lead": "Benchmark",
+      "source": "https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-11",
+      "amount": "$50M",
+      "valuation": "~$350M (reported)",
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.globenewswire.com/news-release/2024/11/11/2978485/0/en/11x-raises-a-50-million-series-b-led-by-andreessen-horowitz-to-accelerate-the-era-of-digital-workers.html"
+    }
+  ],
+  "total_raised": "~$76M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

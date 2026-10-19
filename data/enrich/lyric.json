@@ -1,0 +1,39 @@
+{
+  "slug": "lyric",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Sunnyvale, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ganesh Ramakrishna",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lyric.tech/ai-info-about-lyric"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023",
+      "amount": null,
+      "valuation": null,
+      "lead": "Primary Venture Partners",
+      "source": "https://www.primary.vc/firstedition/posts/why-we-invested-in-lyric-again/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-08",
+      "amount": "$43.5M (later extended to $55.5M per company)",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://www.prnewswire.com/news-releases/lyric-raises-43-5m-series-b-to-transform-supply-chain-decision-making-with-ai-302520358.html"
+    }
+  ],
+  "total_raised": "$80M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

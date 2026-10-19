@@ -1,0 +1,61 @@
+{
+  "slug": "clueso",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA and Bengaluru, India",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Akash Anand",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/10/13/3379717/0/en/clueso-raises-10m-series-a-to-build-the-agentic-video-platform-for-businesses.html"
+    },
+    {
+      "name": "Prajwal Prakash",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/10/13/3379717/0/en/clueso-raises-10m-series-a-to-build-the-agentic-video-platform-for-businesses.html"
+    },
+    {
+      "name": "Neel Balar",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/10/13/3379717/0/en/clueso-raises-10m-series-a-to-build-the-agentic-video-platform-for-businesses.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed (YC W23)",
+      "date": "2023-03",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/clueso"
+    },
+    {
+      "round": "Seed",
+      "date": "2024-04",
+      "amount": "$1.4M",
+      "valuation": null,
+      "lead": "f7 Ventures",
+      "source": "https://www.clueso.io/blog/announcing-our-seed-funding"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Dharana Capital",
+      "source": "https://www.clueso.io/blog/series-a"
+    }
+  ],
+  "total_raised": "$12M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

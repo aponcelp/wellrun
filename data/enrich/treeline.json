@@ -1,0 +1,38 @@
+{
+  "slug": "treeline",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Peter Doyle",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/treeline-raises-25-million-to-reinvent-it-services-302729004.html"
+    },
+    {
+      "name": "Hussain Kader",
+      "title": "Co-founder (CTO per Tracxn)",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://fortune.com/2026/03/31/treeline-it-investing-peter-doyle-andreesen-horowitz-series-a"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-03",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.prnewswire.com/news-releases/treeline-raises-25-million-to-reinvent-it-services-302729004.html"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

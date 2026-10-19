@@ -1,0 +1,69 @@
+{
+  "slug": "scope-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "London, UK",
+  "headcount_est": {
+    "value": "23 employees",
+    "as_of": "2026 (PitchBook, date not shown)",
+    "source": "https://pitchbook.com/profiles/company/595873-00"
+  },
+  "leadership": [
+    {
+      "name": "Jonathan Low",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://sifted.eu/articles/index-ventures-20m-scope"
+    },
+    {
+      "name": "Jakob Cassiman",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://sifted.eu/articles/index-ventures-20m-scope"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed / Seed",
+      "date": null,
+      "amount": null,
+      "valuation": null,
+      "lead": "Susa Ventures",
+      "source": "https://app.dealroom.co/news/note/from-pen-paper-to-ai-powered-inspections-scope-s-20m-bet-on-a-300b-industry"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-05",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://www.indexventures.com/perspectives/building-the-first-intelligence-layer-for-industrial-assets-our-investment-in-scope/"
+    }
+  ],
+  "total_raised": "$20M+ (seed amounts undisclosed)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-05",
+      "headline": "Raises $20M Series A led by Index Ventures; used by 7 of top 10 TIC firms",
+      "url": "https://sifted.eu/articles/index-ventures-20m-scope"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Names ex-Intertek UK & Ireland CEO Rob van Dorp as board advisor",
+      "url": "https://www.tamradar.com/funding-rounds/scope-series-a-20m"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Relaunches rebuilt platform; later cites 10x ARR and usage growth",
+      "url": "https://app.dealroom.co/news/note/from-pen-paper-to-ai-powered-inspections-scope-s-20m-bet-on-a-300b-industry"
+    }
+  ],
+  "competitors": [
+    "SafetyCulture",
+    "Fulcrum (fulcrumapp)",
+    "Inspectorio"
+  ]
+}

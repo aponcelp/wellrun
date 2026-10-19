@@ -1,0 +1,54 @@
+{
+  "slug": "traba",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "New York, NY (offices in Miami)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Mike Shebat",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.traba.work/about"
+    },
+    {
+      "name": "Akshay Buddiga",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.traba.work/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-07",
+      "amount": "$3.6M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.miamiherald.com/news/business/article252925968.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-07",
+      "amount": "$20M",
+      "valuation": "$120M post",
+      "lead": "Khosla Ventures",
+      "source": "https://techcrunch.com/2022/07/07/traba-raises-20m-to-match-contractors-with-events-and-warehouse-work"
+    },
+    {
+      "round": "Series A-2",
+      "date": "2023-10",
+      "amount": "$22M",
+      "valuation": null,
+      "lead": "Founders Fund",
+      "source": "https://www.globenewswire.com/news-release/2023/10/26/2767614/0/en/traba-raises-22m-led-by-founders-fund-as-the-first-investment-from-fund-viii.html"
+    }
+  ],
+  "total_raised": "$43.6M (as of Oct 2023)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

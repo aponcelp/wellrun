@@ -1,0 +1,62 @@
+{
+  "slug": "remote",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "San Francisco, CA (remote-first)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Job van der Voort",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://remote.com/blog/company-news/213004-remote-secures-300-million-series-c-financing-to-power-global-employment"
+    },
+    {
+      "name": "Marcelo Lebre",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://research.contrary.com/company/remote"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-04",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/remote_1"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-11",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/remote_1"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-07",
+      "amount": "$150M",
+      "valuation": ">$1B",
+      "lead": "Accel",
+      "source": "https://techcrunch.com/2021/07/13/remote-raises-150m-on-a-1b-valuation-to-manage-payroll-and-more-for-organizations-global-workforces"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-04",
+      "amount": "$300M",
+      "valuation": "~$3B",
+      "lead": "SoftBank Vision Fund 2",
+      "source": "https://remote.com/blog/company-news/213004-remote-secures-300-million-series-c-financing-to-power-global-employment"
+    }
+  ],
+  "total_raised": "$495M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

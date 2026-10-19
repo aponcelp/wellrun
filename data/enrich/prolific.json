@@ -1,0 +1,53 @@
+{
+  "slug": "prolific",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2014,
+  "hq": "London, UK",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Phelim Bradley",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://prolific.com/about"
+    },
+    {
+      "name": "Ekaterina Damer",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/prolific-academic"
+    },
+    {
+      "name": "Jim Moodie",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/prolific-academic"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019",
+      "amount": "$1.4M",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "http://techcrunch.com/2023/07/11/prolific-raises-32m-to-train-and-stress-test-ai-models-using-its-network-of-120k-people"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-07",
+      "amount": "$32M (£25M)",
+      "valuation": null,
+      "lead": "Partech, Oxford Science Enterprises",
+      "source": "https://www.prolific.com/resources/series-a-fundraise"
+    }
+  ],
+  "total_raised": "~$33.7M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

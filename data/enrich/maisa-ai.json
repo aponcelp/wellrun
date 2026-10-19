@@ -1,0 +1,46 @@
+{
+  "slug": "maisa-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "Valencia, Spain / San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "David Villalón",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://maisa.ai/blog/maisa-raises-25m-from-creandum-and-forgepoint"
+    },
+    {
+      "name": "Manuel Romero",
+      "title": "Co-founder & Chief Scientific Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2024-12",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "NFX, Village Global",
+      "source": "https://www.forbes.com/sites/davidprosser/2024/12/12/meet-maisa-the-spanish-ai-start-up-backed-by-the-titans-of-big-tech"
+    },
+    {
+      "round": "Seed",
+      "date": "2025-08",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Creandum",
+      "source": "https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate/"
+    }
+  ],
+  "total_raised": "$30M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

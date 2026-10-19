@@ -1,0 +1,104 @@
+{
+  "slug": "miter",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~189-194 (Caplight / PitchBook)",
+    "as_of": "Sep 2026",
+    "source": "https://www.caplight.com/company/miter"
+  },
+  "leadership": [
+    {
+      "name": "Connor Watumull",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.miter.com/resources/miter-the-ai-platform-for-construction-raises-40-million-for-the-built-world/"
+    },
+    {
+      "name": "Tobin Paxton",
+      "title": "Co-founder & CRO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.caplight.com/company/miter"
+    },
+    {
+      "name": "Mike Young",
+      "title": "Chief Operating Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.caplight.com/company/miter"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2021-04",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.caplight.com/company/miter"
+    },
+    {
+      "round": "Early venture (unlabeled)",
+      "date": "2023-05",
+      "amount": "~$15M (implied: $38M total minus $23M in May 2025)",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.businesswire.com/news/home/20250519455411/en/Miter-Raises-%2438M-from-Bessemer-and-Coatue-to-Help-Contractors-Build-with-Confidence"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-05",
+      "amount": "$23M",
+      "valuation": null,
+      "lead": "Bessemer Venture Partners, Coatue",
+      "source": "https://www.businesswire.com/news/home/20250519455411/en/Miter-Raises-%2438M-from-Bessemer-and-Coatue-to-Help-Contractors-Build-with-Confidence"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-09",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "Battery Ventures",
+      "source": "https://www.miter.com/resources/miter-the-ai-platform-for-construction-raises-40-million-for-the-built-world/"
+    }
+  ],
+  "total_raised": "$78M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raises $40M Series B led by Battery Ventures; 2,000+ contractors",
+      "url": "https://www.miter.com/resources/miter-the-ai-platform-for-construction-raises-40-million-for-the-built-world/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Launches Miter Accounts Payable for contractors",
+      "url": "https://www.miter.com/resources/miter-launches-accounts-payable-software/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Launches Miter Performance, performance management for construction",
+      "url": "https://www.miter.com/resources/miter-launches-performance-management-for-construction/"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Launches Miter Safety product for field crews",
+      "url": "https://www.miter.com/resources/miter-launches-safety-product-for-contractors/"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Partners with ServiceTitan on payroll and HR integration",
+      "url": "https://www.servicetitan.com/blog/servicetitan-and-miter-partner"
+    }
+  ],
+  "competitors": [
+    "Foundation Software",
+    "Paylocity",
+    "ADP",
+    "Rippling",
+    "Viewpoint (Trimble)"
+  ]
+}

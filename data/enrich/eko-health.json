@@ -1,0 +1,47 @@
+{
+  "slug": "eko-health",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2013,
+  "hq": "Emeryville, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Connor Landgraf",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/connorlandgraf",
+      "source": "https://www.ekohealth.com/blogs/newsroom/eko-health-raises-41-million-to-scale-ai-driven-heart-and-lung-disease-detection"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series C",
+      "date": "2020-11",
+      "amount": "$65M",
+      "valuation": null,
+      "lead": "Questa Capital (co-lead)",
+      "source": "https://www.questacapital.com/portfolio-companies/eko"
+    },
+    {
+      "round": "Series C extension",
+      "date": "2022-05",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.questacapital.com/portfolio-companies/eko"
+    },
+    {
+      "round": "Series D",
+      "date": "2024-06",
+      "amount": "$41M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2024/06/05/eko-health-scores-41m-to-detect-heart-disease-earlier-and-more-accurately/"
+    }
+  ],
+  "total_raised": "$165M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

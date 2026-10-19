@@ -1,0 +1,60 @@
+{
+  "slug": "whizz",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Mike Peregudov",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.leta.vc/news/leta-capital-leads-12m-series-a-round-for-whizz-an-e-bike-subscription-platform"
+    },
+    {
+      "name": "Alex Mironov",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://nyc.streetsblog.org/2025/01/30/qa-whizz-ceo-has-lessons-for-e-bike-regulation"
+    },
+    {
+      "name": "Ksenia Proka",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://nyc.streetsblog.org/2025/01/30/qa-whizz-ceo-has-lessons-for-e-bike-regulation"
+    },
+    {
+      "name": "Artem Serbovka",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://prod.crainsnewyork.com/chasing-giants/e-bike-startup-whizz-offers-lifeline-delivery-workers"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-04",
+      "amount": "$3.4M",
+      "valuation": null,
+      "lead": "Joint Journey, TMT Investments",
+      "source": "https://www.prweb.com/releases/Whizz_raises_3_4M_to_fuel_the_rapid_growth_of_its_e_bike_rental_platform/prweb19272650.htm"
+    },
+    {
+      "round": "Series A (equity + debt)",
+      "date": "2024-06",
+      "amount": "$12M ($5M equity + $7M debt)",
+      "valuation": null,
+      "lead": "LETA Capital (equity); Flashpoint (debt)",
+      "source": "https://techcrunch.com/2024/06/05/whizz-wants-to-own-the-delivery-e-bike-subscription-space-starting-with-nyc"
+    }
+  ],
+  "total_raised": "~$20M incl. debt (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

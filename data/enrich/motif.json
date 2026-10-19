@@ -1,0 +1,46 @@
+{
+  "slug": "motif",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Amar Hanspal",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://motif.io/company/about"
+    },
+    {
+      "name": "Brian Mathews",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://capitalg.com/portfolio/motif"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024",
+      "amount": null,
+      "valuation": null,
+      "lead": "Redpoint Ventures",
+      "source": "https://www.businesswire.com/news/home/20250130614043/en/Motif-Raises-%2446-Million-from-CapitalG-and-Redpoint-to-Revolutionize-The-AEC-Software-Industry"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-01",
+      "amount": null,
+      "valuation": null,
+      "lead": "CapitalG",
+      "source": "https://www.businesswire.com/news/home/20250130614043/en/Motif-Raises-%2446-Million-from-CapitalG-and-Redpoint-to-Revolutionize-The-AEC-Software-Industry"
+    }
+  ],
+  "total_raised": "$46M (seed + Series A combined)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,172 @@
+{
+  "slug": "cohere",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "Toronto, ON, Canada (dual HQ with Berlin planned post Aleph Alpha deal)",
+  "headcount_est": {
+    "value": "~1,200 (Tracxn)",
+    "as_of": "Oct 2026",
+    "source": "https://platform.tracxn.com/a/d/company/58bf5313e4b0e437d8206b06/cohere"
+  },
+  "leadership": [
+    {
+      "name": "Aidan Gomez",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://cohere.com/about"
+    },
+    {
+      "name": "Nick Frosst",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://cohere.com/about"
+    },
+    {
+      "name": "Ivan Zhang",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://cohere.com/about"
+    },
+    {
+      "name": "Joelle Pineau",
+      "title": "Chief AI Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://cohere.com/about"
+    },
+    {
+      "name": "François Chadwick",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://cohere.com/about"
+    },
+    {
+      "name": "Frank O'Dowd",
+      "title": "Chief Revenue and Commercial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://cohere.com/about"
+    },
+    {
+      "name": "Phil Blunsom",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://cohere.com/about"
+    },
+    {
+      "name": "Ilhan Scheer",
+      "title": "Incoming COO (on close of Aleph Alpha merger)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021-09",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://en.wikipedia.org/wiki/Cohere"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-02",
+      "amount": "$125M",
+      "valuation": null,
+      "lead": "Tiger Global",
+      "source": "https://en.wikipedia.org/wiki/Cohere"
+    },
+    {
+      "round": "Series C",
+      "date": "2023-06",
+      "amount": "$270M",
+      "valuation": "$2.2B",
+      "lead": "Inovia Capital",
+      "source": "https://en.wikipedia.org/wiki/Cohere"
+    },
+    {
+      "round": "Series D",
+      "date": "2024-07",
+      "amount": "$500M",
+      "valuation": "$5.5B",
+      "lead": "PSP Investments",
+      "source": "https://www.bloomberg.com/news/articles/2024-07-22/ai-startup-cohere-valued-at-5-5-billion-in-new-funding-round"
+    },
+    {
+      "round": "Series D extension",
+      "date": "2025-08",
+      "amount": "$500M",
+      "valuation": "$6.8B",
+      "lead": "Radical Ventures, Inovia Capital",
+      "source": "https://cohere.com/blog/august-2025-funding-round"
+    },
+    {
+      "round": "Series D extension",
+      "date": "2025-09",
+      "amount": "$100M",
+      "valuation": "$7B",
+      "lead": null,
+      "source": "https://tracxn.com/d/companies/cohere/__o4xfwmr3XwgsGEyH41XvwBm6Xd-SjsMlSld3d4ci6G0/funding-and-investors"
+    },
+    {
+      "round": "Series E (committed, not yet closed)",
+      "date": "2026-04",
+      "amount": "~$600M (EUR 500M structured financing commitment)",
+      "valuation": "~$20B combined with Aleph Alpha (reported)",
+      "lead": "Schwarz Group",
+      "source": "https://cohere.com/blog/cohere-alephalpha-join-forces"
+    }
+  ],
+  "total_raised": "~$1.6B through Sep 2025 (PitchBook via The Logic), plus ~$600M Series E commitment",
+  "revenue_est": {
+    "value": "~$240M ARR (end of 2025)",
+    "as_of": "Feb 2026",
+    "basis": "press report (investor memo via CNBC)",
+    "source": "https://www.cnbc.com/2026/02/13/ai-startup-cohere-revenue-ipo.html"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches North 2 enterprise agent platform",
+      "url": "https://thetechlantis.com/news/cohere-north-2-enterprise-agent-platform"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Signs definitive merger with Aleph Alpha; combined company valued ~$20B",
+      "url": "https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Reported in talks to raise $2B-$3B at $20B valuation",
+      "url": "https://techfundingnews.com/cohere-in-talks-to-raise-up-to-3b-at-20b-valuation-report/"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Agrees to combine with Aleph Alpha; Schwarz Group to lead Series E",
+      "url": "https://cohere.com/blog/cohere-alephalpha-join-forces"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Tops 2025 revenue target with ~$240M ARR as it eyes IPO",
+      "url": "https://www.cnbc.com/2026/02/13/ai-startup-cohere-revenue-ipo.html"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Raises $500M at $6.8B; hires Joelle Pineau and CFO Francois Chadwick",
+      "url": "https://betakit.com/cohere-secures-500-million-usd-at-6-8-billion-valuation-hires-former-uber-and-meta-execs/"
+    }
+  ],
+  "competitors": [
+    "openai",
+    "anthropic",
+    "mistral-ai",
+    "Google (Gemini)"
+  ]
+}

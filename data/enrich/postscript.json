@@ -1,0 +1,61 @@
+{
+  "slug": "postscript",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": null,
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Adam Turner",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/postscript"
+    },
+    {
+      "name": "Alex Beller",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://postscript.io/author/alex-beller"
+    },
+    {
+      "name": "Colin Turner",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://greylock.com/portfolio-news/messaging-for-commerce"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-12",
+      "amount": "$4.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://ca.finance.yahoo.com/news/postscript-takes-65m-shopify-merchants-120320521.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-03",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Greylock",
+      "source": "https://greylock.com/portfolio-news/messaging-for-commerce"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-06",
+      "amount": "$65M",
+      "valuation": null,
+      "lead": "01 Advisors",
+      "source": "https://postscript.io/blog/series-c-funding-announcement"
+    }
+  ],
+  "total_raised": "$100M+",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

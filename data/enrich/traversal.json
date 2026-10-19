@@ -1,0 +1,60 @@
+{
+  "slug": "traversal",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Anish Agarwal",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260304551167/en/Traversal-Announces-Strategic-Investment-from-Amex-Ventures"
+    },
+    {
+      "name": "Raaz Dwivedi",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://traversal.com/about"
+    },
+    {
+      "name": "Raj Agrawal",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://traversal.com/about"
+    },
+    {
+      "name": "Ahmed Lone",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://traversal.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A",
+      "date": "2025-06",
+      "amount": "$48M (combined)",
+      "valuation": null,
+      "lead": "Sequoia, Kleiner Perkins",
+      "source": "https://www.traversal.com/blog/launch-announcement"
+    },
+    {
+      "round": "Strategic investment",
+      "date": "2026-03",
+      "amount": null,
+      "valuation": null,
+      "lead": "Amex Ventures",
+      "source": "https://www.businesswire.com/news/home/20260304551167/en/Traversal-Announces-Strategic-Investment-from-Amex-Ventures"
+    }
+  ],
+  "total_raised": "$48M+ (Amex strategic amount undisclosed)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

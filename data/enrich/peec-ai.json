@@ -1,0 +1,96 @@
+{
+  "slug": "peec-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2025,
+  "hq": "Berlin, Germany (US office in New York)",
+  "headcount_est": {
+    "value": "111 (LinkedIn-derived count, +270% YoY)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/peec-ai"
+  },
+  "leadership": [
+    {
+      "name": "Marius Meiners",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://peec.ai/blog/we-raised-21m-series-a-to-help-brands-win-in-ai-search"
+    },
+    {
+      "name": "Tobias Siwonia",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/"
+    },
+    {
+      "name": "Daniel Drabo",
+      "title": "Co-founder & CRO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2025-04",
+      "amount": "€1.8M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.businessinsider.de/gruenderszene/business/millionen-deal-so-viel-verdienen-die-gruender-von-peec-ai-jetzt/"
+    },
+    {
+      "round": "Seed",
+      "date": "2025-07",
+      "amount": "€5.2M",
+      "valuation": null,
+      "lead": "20VC",
+      "source": "https://www.businessinsider.de/gruenderszene/business/millionen-deal-so-viel-verdienen-die-gruender-von-peec-ai-jetzt/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-11",
+      "amount": "$21M",
+      "valuation": "$100M+ (CEO: tripled since seed)",
+      "lead": "Singular",
+      "source": "https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/"
+    }
+  ],
+  "total_raised": "$29M (company-stated)",
+  "revenue_est": {
+    "value": "$17.5M ARR",
+    "as_of": "Oct 2026",
+    "basis": "company-stated (CEO on podcast)",
+    "source": "https://unicornbakery.de/en/podcast/peec-ai-von-4-auf-17-5-millionen-arr-in-10-monaten-ceo-marius-meiners-packt-aus"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "CEO says ARR rose from $4M to $17.5M in 10 months; team past 100",
+      "url": "https://unicornbakery.de/en/podcast/peec-ai-von-4-auf-17-5-millionen-arr-in-10-monaten-ceo-marius-meiners-packt-aus"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Passes $10M ARR 16 months after launch; opens first US office in New York",
+      "url": "https://www.globenewswire.com/news-release/2026/05/28/3303009/0/en/peec-ai-hits-10m-arr-16-months-after-launch-as-brands-race-to-optimize-for-ai-search.html"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Raises $21M Series A led by Singular at a $100M+ valuation",
+      "url": "https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Raises €5.2M seed led by 20VC",
+      "url": "https://www.businessinsider.de/gruenderszene/business/millionen-deal-so-viel-verdienen-die-gruender-von-peec-ai-jetzt/"
+    }
+  ],
+  "competitors": [
+    "profound",
+    "Semrush",
+    "Ahrefs (Brand Radar)",
+    "Otterly.AI",
+    "Scrunch AI"
+  ]
+}

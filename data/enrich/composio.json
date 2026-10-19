@@ -1,0 +1,46 @@
+{
+  "slug": "composio",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA / Bengaluru",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Soham Ganatra",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lsvp.com/company/composio"
+    },
+    {
+      "name": "Karan Vaidya",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lsvp.com/company/composio"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-07",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": "Together Fund, Elevation Capital",
+      "source": "https://www.together.fund/perspectives/insights/investing-in-composio-building-the-learning-layer-for-agentic-ai"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-07",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://www.prnewswire.com/news-releases/composio-raises-29m-to-solve-ais-learning-problem-building-skills-that-actually-improve-over-time-302510684.html"
+    }
+  ],
+  "total_raised": "$29M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

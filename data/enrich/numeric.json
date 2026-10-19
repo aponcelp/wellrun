@@ -1,0 +1,61 @@
+{
+  "slug": "numeric",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Parker Gilbert",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.numeric.io/blog/numeric-raises-51m-series-b"
+    },
+    {
+      "name": "Andrew Bihl",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ivp.com/content/numeric-using-AI-to-create-accounting-magic/"
+    },
+    {
+      "name": "Anthony Alvernaz",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ivp.com/content/numeric-using-AI-to-create-accounting-magic/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-05",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.prnewswire.com/news/numeric/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-10",
+      "amount": "$28M",
+      "valuation": null,
+      "lead": "Menlo Ventures",
+      "source": "http://techcrunch.com/2024/10/10/numeric-grabs-28m-series-a-for-automating-accounting-with-ai"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-11",
+      "amount": "$51M",
+      "valuation": null,
+      "lead": "IVP",
+      "source": "https://www.prnewswire.com/news-releases/numeric-raises-51m-series-b-expanding-from-close-management-to-comprehensive-finance-platform-302619774.html"
+    }
+  ],
+  "total_raised": "$89M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

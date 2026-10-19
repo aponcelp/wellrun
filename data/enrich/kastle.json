@@ -1,0 +1,77 @@
+{
+  "slug": "kastle",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "16 (Tracxn)",
+    "as_of": "Oct 2026",
+    "source": "https://platform.tracxn.com/a/d/company/668ca928b3076445bafd9490/kastle"
+  },
+  "leadership": [
+    {
+      "name": "Rishi Choudhary",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/kastle"
+    },
+    {
+      "name": "Nitish Poddar",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://app.dealroom.co/companies/kastle_1"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed (Y Combinator S24)",
+      "date": "2024-08",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/kastle_1"
+    },
+    {
+      "round": "Seed",
+      "date": "2025-03",
+      "amount": "$2.3M",
+      "valuation": null,
+      "lead": "Commerce Ventures",
+      "source": "https://seedtable.com/companies/kastle"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$24M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://www.prnewswire.com/news-releases/kastle-raises-24m-series-a-led-by-insight-partners-to-build-the-ai-workforce-for-banking-operations-302881290.html"
+    }
+  ],
+  "total_raised": "~$26.4M (sum of disclosed rounds)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raises $24M Series A led by Insight Partners",
+      "url": "https://www.prnewswire.com/news-releases/kastle-raises-24m-series-a-led-by-insight-partners-to-build-the-ai-workforce-for-banking-operations-302881290.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "CEO says agents have processed $2B+ in payments",
+      "url": "https://getscuttlebutt.substack.com/p/kastles-founders-10m-americans-pay"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Carrington Mortgage Services picks Kastle to deploy AI agents in servicing",
+      "url": "http://businesswire.com/news/home/20260715427917/en/Carrington-Mortgage-Services-and-Kastle-Announce-Partnership-to-Deploy-AI-Agents-Across-Carringtons-Servicing-Operations"
+    }
+  ],
+  "competitors": [
+    "salient",
+    "Prodigal",
+    "ICE Mortgage Technology"
+  ]
+}

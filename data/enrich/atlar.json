@@ -1,0 +1,53 @@
+{
+  "slug": "atlar",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "Stockholm, Sweden",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Joel Nordström",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.indexventures.com/perspectives/atlar-launches-to-build-an-operating-system-that-will-power-business-transactions"
+    },
+    {
+      "name": "Joel Wägmark",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.indexventures.com/perspectives/atlar-launches-to-build-an-operating-system-that-will-power-business-transactions"
+    },
+    {
+      "name": "Johannes Elgh",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.indexventures.com/perspectives/atlar-launches-to-build-an-operating-system-that-will-power-business-transactions"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-11",
+      "amount": "€5M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://www.atlar.com/blog/announcing-our-seed-round"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-04",
+      "amount": "SEK 90M (~$8.6M)",
+      "valuation": null,
+      "lead": null,
+      "source": "https://nordic9.com/news/atlar-to-raise-sek-90-million-with-index-ventures-la-famiglia-et-al/"
+    }
+  ],
+  "total_raised": "~$13.6M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

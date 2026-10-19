@@ -1,0 +1,36 @@
+{
+  "slug": "column",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "William Hockey",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/william-hockey-04536710",
+      "source": "https://column.com/company/"
+    },
+    {
+      "name": "Annie Hockey",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/sites/jeffkauflin/2022/04/21/plaids-billionaire-cofounder-is-back-with-a-new-startupa-fintech-friendly-bank-hes-running-with-his-wife/"
+    },
+    {
+      "name": "Alex Du",
+      "title": "Chief Operating Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.upstartsmedia.com/p/profile-column-william-hockey-fintech-china"
+    }
+  ],
+  "funding_history": [],
+  "total_raised": "None raised; founder/employee owned (founders put ~$50M into acquiring Northern California National Bank)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

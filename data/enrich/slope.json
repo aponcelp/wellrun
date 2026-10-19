@@ -1,0 +1,62 @@
+{
+  "slug": "slope",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Lawrence Lin Murata",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://slopepay.com/blog/slope-jp-morgan-funding"
+    },
+    {
+      "name": "Alice Deng",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20240717100691/en/Slope-AI-Led-B2B-Payments-Platform-Secures-65-Million-Strategic-Equity-and-Debt-Funding-Provided-by-J.P.-Morgan-and-Others"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-11",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2021/11/22/slope-stripe-for-global-b2b-payments"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-04",
+      "amount": "$24M",
+      "valuation": null,
+      "lead": "Union Square Ventures and Monashees",
+      "source": "http://techcrunch.com/2022/04/15/slope-series-a-buy-now-pay-later-b2b-payments"
+    },
+    {
+      "round": "Venture round",
+      "date": "2023-09",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Union Square Ventures",
+      "source": "https://techcrunch.com/2023/09/27/sam-altman-slope-30m-b2b-payments/"
+    },
+    {
+      "round": "Strategic equity + debt",
+      "date": "2024-07",
+      "amount": "$65M ($15M equity + $50M debt)",
+      "valuation": null,
+      "lead": "J.P. Morgan Payments",
+      "source": "https://www.paymentsdive.com/news/jpmorgan-chase-investment-payments-startup-slope/721896/"
+    }
+  ],
+  "total_raised": "$252M ($77M equity + $175M debt)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

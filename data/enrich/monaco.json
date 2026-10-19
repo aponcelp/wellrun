@@ -1,0 +1,88 @@
+{
+  "slug": "monaco",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Sam Blond",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/02/11/3236493/0/en/monaco-launches-ai-native-sales-platform-to-accelerate-revenue-growth-for-startups.html"
+    },
+    {
+      "name": "Brian Blond",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/02/11/3236493/0/en/monaco-launches-ai-native-sales-platform-to-accelerate-revenue-growth-for-startups.html"
+    },
+    {
+      "name": "Abishek Viswanathan",
+      "title": "Co-founder & Chief Product Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://tracxn.com/d/companies/monaco/__9B-q8rbO4Noh1R1fDL75kQQa7i8IOM36eoUUZ9MRaJc"
+    },
+    {
+      "name": "Malay Desai",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/02/11/3236493/0/en/monaco-launches-ai-native-sales-platform-to-accelerate-revenue-growth-for-startups.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Founders Fund",
+      "source": "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-02",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Founders Fund",
+      "source": "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-05",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Benchmark",
+      "source": "https://www.globenewswire.com/news-release/2026/05/12/3293132/0/en/monaco-secures-50-million-in-series-b-funding-to-grow-ai-powered-sales-platform-amid-strong-customer-demand.html"
+    }
+  ],
+  "total_raised": "$85M+ (company-stated)",
+  "revenue_est": {
+    "value": "Adding $1M+ of new revenue per month (from zero in Feb 2026)",
+    "as_of": "May 2026",
+    "basis": "company-stated",
+    "source": "https://www.businessinsider.com/jack-altman-talks-about-his-first-benchmark-deal-2026-5"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-05",
+      "headline": "Raises $50M Series B led by Benchmark; Jack Altman joins board",
+      "url": "https://www.businessinsider.com/jack-altman-talks-about-his-first-benchmark-deal-2026-5"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Emerges from stealth with $35M (seed + Series A) led by Founders Fund; public beta",
+      "url": "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/"
+    }
+  ],
+  "competitors": [
+    "attio",
+    "rox",
+    "apollo-io",
+    "Salesforce"
+  ]
+}

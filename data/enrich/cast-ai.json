@@ -1,0 +1,118 @@
+{
+  "slug": "cast-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Yuri Frayman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://cast.ai/press-release/cast-ai-valued-at-over-1-billion-with-the-launch-of-its-gpu-marketplace/"
+    },
+    {
+      "name": "Leon Kuperman",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/cast-ai"
+    },
+    {
+      "name": "Laurent Gil",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.scalablepod.it/en/startup/cast-ai/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-11",
+      "amount": "$7.7M",
+      "valuation": null,
+      "lead": "TA Ventures, Florida Funders, DNX Ventures",
+      "source": "https://app.dealroom.co/companies/cast_ai"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-10",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Cota Capital",
+      "source": "https://app.dealroom.co/companies/cast_ai"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2023-03",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Creandum",
+      "source": "https://app.dealroom.co/companies/cast_ai"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-11",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Vintage Investment Partners",
+      "source": "https://cast.ai/press-release/series-b-announcement"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-04",
+      "amount": "$108M",
+      "valuation": "~$850M (Reuters source)",
+      "lead": "G2 Venture Partners, SoftBank Vision Fund 2",
+      "source": "https://www.reuters.com/business/media-telecom/cast-ai-secures-108-million-funding-expand-cloud-automation-2025-04-30/"
+    },
+    {
+      "round": "Strategic + Debt",
+      "date": "2025-10",
+      "amount": "undisclosed",
+      "valuation": null,
+      "lead": "Metanet (equity); J.P. Morgan (credit facility)",
+      "source": "http://cast.ai/press-release/castai-strategic-investment-and-credit-facility"
+    },
+    {
+      "round": "Strategic",
+      "date": "2026-01",
+      "amount": "undisclosed",
+      "valuation": "$1B+",
+      "lead": "Pacific Alliance Ventures (Shinsegae)",
+      "source": "https://cast.ai/press-release/cast-ai-valued-at-over-1-billion-with-the-launch-of-its-gpu-marketplace/"
+    }
+  ],
+  "total_raised": "~$200M (Globes; $181M equity through Series C per SiliconANGLE)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-07",
+      "headline": "Kimchi Coding, its multi-model AI coding agent, reaches general availability",
+      "url": "https://cast.ai/press-release/kimchi-coding-hits-general-availability"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Valued at $1B+ after Shinsegae's PAV invests; launches OMNI Compute GPU marketplace",
+      "url": "http://businesswire.com/news/home/20260112261202/en/Cast-AI-Valued-at-Over-%241-Billion-With-the-Launch-of-Its-GPU-Marketplace"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Strategic investment from Metanet plus J.P. Morgan credit facility",
+      "url": "http://cast.ai/press-release/castai-strategic-investment-and-credit-facility"
+    },
+    {
+      "date": "2025-04",
+      "headline": "Raises $108M Series C led by G2VP and SoftBank Vision Fund 2",
+      "url": "https://techcrunch.com/2025/04/30/cast-ai-raises-108m-to-get-the-max-out-of-ai-kubernetes-and-other-workloads/"
+    }
+  ],
+  "competitors": [
+    "Spot by NetApp (Flexera)",
+    "ScaleOps",
+    "Kubecost (IBM)",
+    "PerfectScale (DoiT)"
+  ]
+}

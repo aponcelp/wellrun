@@ -1,0 +1,112 @@
+{
+  "slug": "exacare",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "84 employees",
+    "as_of": "2026 (Tracxn, date not shown)",
+    "source": "https://platform.tracxn.com/a/d/company/5903fa0de4b095f1bcc12640/exacare"
+  },
+  "leadership": [
+    {
+      "name": "Laird Russell",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.exacare.com/about-us"
+    },
+    {
+      "name": "Ben Willox",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.exacare.com/about-us"
+    },
+    {
+      "name": "Katie Yao",
+      "title": "VP, Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/exa-care"
+    },
+    {
+      "name": "Marc Fields",
+      "title": "SVP of Sales",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/exa-care"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-12",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://platform.tracxn.com/a/d/company/5903fa0de4b095f1bcc12640/exacare"
+    },
+    {
+      "round": "Seed",
+      "date": "2024-02",
+      "amount": "$6.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.techtimes.com/articles/302142/20240228/exacare-raises-6-5m-to-bring-a-data-driven-approach-to-senior-living-operations.htm"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-10",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://www.prnewswire.com/news-releases/exacare-ai-raises-30m-series-a-to-reimagine-admissions-and-launch-a-powerful-suite-of-ai-agents-for-skilled-nursing--home-care-302586587.html"
+    }
+  ],
+  "total_raised": "~$36.5M (CB Insights); CEO bio says $50M+",
+  "revenue_est": {
+    "value": "~$16M revenue",
+    "as_of": "Oct 2026 (Tracxn snapshot)",
+    "basis": "estimate (Tracxn)",
+    "source": "https://platform.tracxn.com/a/d/company/5903fa0de4b095f1bcc12640/exacare"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches Discharge Coordination for outbound SNF referrals",
+      "url": "https://www.exacare.com/resources/blog/introducing-discharge-coordination"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Adds Concurrent Reviews to its Managed Care Agent",
+      "url": "https://www.exacare.com/resources/blog/introducing-concurrent-reviews"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Rebrands; 2,000+ facilities, expands into home health and hospice",
+      "url": "https://www.exacare.com/resources/news/exacare-ai-accelerates-momentum"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Acquires CoreCare Pre-Admit",
+      "url": "https://www.exacare.com/resources/news/exacare-ai-acquires-corecare-pre-admit"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Goes live across all 160 Creative Solutions in Healthcare SNFs",
+      "url": "https://www.businesswire.com/news/home/20260408179582/en/Creative-Solutions-in-Healthcare-Implements-AI-Across-160-Skilled-Nursing-Facilities-Transforming-Preadmission-Through-Partnership-with-ExaCare-AI"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Raises $30M Series A led by Insight Partners",
+      "url": "https://insightpartners.com/ideas/exacare-ai-raises-30m-series-a-to-reimagine-admissions-and-launch-a-powerful-suite-of-ai-agents-for-skilled-nursing-home-care"
+    }
+  ],
+  "competitors": [
+    "WellSky (CarePort)",
+    "PointClickCare",
+    "Aidin",
+    "Ensocare"
+  ]
+}

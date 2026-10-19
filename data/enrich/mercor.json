@@ -1,0 +1,123 @@
+{
+  "slug": "mercor",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~650 per insiders (unconfirmed); company site says 400+",
+    "as_of": "Oct 2026",
+    "source": "https://theinference.org/article/mercor-cut-at-least-50-staff-by-two-sentence-email-and-its-ceo-says-that-was-not-a-layoff"
+  },
+  "leadership": [
+    {
+      "name": "Brendan Foody",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://mercor.com/blog/mercor-to-acquire-deeptune"
+    },
+    {
+      "name": "Adarsh Hiremath",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Mercor"
+    },
+    {
+      "name": "Surya Midha",
+      "title": "Co-founder & Chairman",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Mercor"
+    },
+    {
+      "name": "Sundeep Jain",
+      "title": "President (ex-Uber CPO)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/ko/companies/mercor/"
+    },
+    {
+      "name": "Kevin Shiau",
+      "title": "CFO (ex-Tesla Energy)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.distillintelligence.com/news/mercor"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023",
+      "amount": "$3.6M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024",
+      "amount": "$32M",
+      "valuation": "$250M",
+      "lead": "Benchmark",
+      "source": "https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-02",
+      "amount": "$100M",
+      "valuation": "$2B",
+      "lead": "Felicis",
+      "source": "https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-10",
+      "amount": "$350M",
+      "valuation": "$10B",
+      "lead": "Felicis",
+      "source": "https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c/"
+    }
+  ],
+  "total_raised": "~$485M",
+  "revenue_est": {
+    "value": "$2B+ gross annualized revenue (contractors receive 60-70%)",
+    "as_of": "Jun 2026",
+    "basis": "company-stated",
+    "source": "https://www.forbes.com/sites/richardnieva/2026/07/09/mercor-fundraise/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Cuts at least 50 staff; CEO says it was not a layoff and company is profitable",
+      "url": "https://theinference.org/article/mercor-cut-at-least-50-staff-by-two-sentence-email-and-its-ceo-says-that-was-not-a-layoff"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Nvidia reportedly in talks to join round valuing Mercor at $20B",
+      "url": "https://techstartups.com/2026/08/19/nvidia-in-talks-to-invest-in-ai-data-startup-mercor-at-20-billion-valuation/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Acquires RL-environment startup Deeptune; in talks to raise at $20B",
+      "url": "https://fortune.com/2026/07/09/ai-unicorn-mercor-acquires-deeptune-brendan-foody-investor-a16z-openai-anthropic/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Says gross annualized revenue topped $2B in June, doubling in four months",
+      "url": "https://www.forbes.com/sites/richardnieva/2026/07/09/mercor-fundraise/"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Meta pauses work with Mercor after LiteLLM supply-chain data breach",
+      "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/"
+    }
+  ],
+  "competitors": [
+    "scale-ai",
+    "surge-ai",
+    "Turing",
+    "micro1",
+    "Handshake AI"
+  ]
+}

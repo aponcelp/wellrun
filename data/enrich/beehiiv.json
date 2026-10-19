@@ -1,0 +1,55 @@
+{
+  "slug": "beehiiv",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Tyler Denk",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2024/04/30/beehiiv-newsletters/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021",
+      "amount": "$2.6M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://foundingjourney.com/beehiiv"
+    },
+    {
+      "round": "Seed extension",
+      "date": null,
+      "amount": "$1.6M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://foundingjourney.com/beehiiv"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-06",
+      "amount": "$12.5M",
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-04",
+      "amount": "$33M",
+      "valuation": null,
+      "lead": "NEA",
+      "source": "https://www.businesswire.com/news/home/20240429463635/en/beehiiv-raises-$33M-Series-B-for-newsletter-and-email-platform"
+    }
+  ],
+  "total_raised": "$46.5M (as of Apr 2024)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

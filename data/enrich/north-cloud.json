@@ -1,0 +1,46 @@
+{
+  "slug": "north-cloud",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Matt Biringer",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://north.cloud/why-north"
+    },
+    {
+      "name": "Tom Mango",
+      "title": "VP of Engineering",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://north.cloud/why-north"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-06",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "Companyon Ventures",
+      "source": "https://www.prnewswire.com/news-releases/northcloud-secures-5m-and-launches-new-operating-system-for-advanced-cloud-optimization-and-management-302494590.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-10",
+      "amount": "$60M",
+      "valuation": null,
+      "lead": "PeakSpan Capital",
+      "source": "https://www.prnewswire.com/news-releases/northcloud-raises-60m-series-b-to-unify-spend-intelligence-and-enable-full-automation-across-cloud-ai-and-data-302909322.html"
+    }
+  ],
+  "total_raised": "$65M+ (sum of disclosed A and B; seed undisclosed)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

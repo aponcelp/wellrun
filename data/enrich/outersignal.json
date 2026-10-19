@@ -1,0 +1,45 @@
+{
+  "slug": "outersignal",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Zach Zelner",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.outersignal.com/about"
+    },
+    {
+      "name": "Noah Friedman",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.outersignal.com/blog/series-a"
+    },
+    {
+      "name": "Dov Quint",
+      "title": "VP of GTM Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.outersignal.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$22M",
+      "valuation": null,
+      "lead": "Long Journey Ventures, Abstract Ventures",
+      "source": "https://www.prnewswire.com/news-releases/outersignal-raises-22m-series-a-to-bring-agentic-personalization-to-every-consumer-brand-302892586.html"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

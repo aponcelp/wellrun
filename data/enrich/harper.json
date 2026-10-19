@@ -1,0 +1,38 @@
+{
+  "slug": "harper",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Dakotah Rice",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.harperinsure.com/news/series-a-announcement/"
+    },
+    {
+      "name": "Tushar Nair",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.emcap.com/thoughts/harper-building-the-ai-native-insurance-brokerage-every-business-deserves"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A (combined)",
+      "date": "2026-02",
+      "amount": "$46.8M",
+      "valuation": null,
+      "lead": "Emergence Capital (Series A)",
+      "source": "http://techcrunch.com/2026/02/25/ai-insurance-brokerage-harper-raises-45m-series-a-and-seed"
+    }
+  ],
+  "total_raised": "$47M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

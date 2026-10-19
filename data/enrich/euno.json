@@ -1,0 +1,46 @@
+{
+  "slug": "euno",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "Sunnyvale / San Francisco, CA; Tel Aviv",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Sarah Levy",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.n47.com/insights/why-we-invested-in-euno-the-missing-context-for-enterprise-ai"
+    },
+    {
+      "name": "Eyal Firstenberg",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://euno.ai/blog/euno-raises-series-a"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-03",
+      "amount": "$6.25M",
+      "valuation": null,
+      "lead": "10D",
+      "source": "https://rss.globenewswire.com/news-release/2024/03/19/2848503/0/en/euno-emerges-from-stealth-with-frictionless-data-model-governance-platform-secures-6-25m-in-seed-funding.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$23M",
+      "valuation": null,
+      "lead": "N47",
+      "source": "https://www.prnewswire.com/news-releases/euno-raises-23-million-series-a-to-build-the-ai-context-brain-for-the-enterprise-302872947.html"
+    }
+  ],
+  "total_raised": "$29M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

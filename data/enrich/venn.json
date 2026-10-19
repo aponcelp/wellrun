@@ -1,0 +1,92 @@
+{
+  "slug": "venn",
+  "checked": "Oct 19, 2026",
+  "founded": 2017,
+  "hq": "New York, NY (R&D in Tel Aviv)",
+  "headcount_est": {
+    "value": "114 employees",
+    "as_of": "2026 (PitchBook, date not shown)",
+    "source": "https://pitchbook.com/profiles/company/264494-89"
+  },
+  "leadership": [
+    {
+      "name": "Or Bokobza",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://commercialobserver.com/2026/09/venn-zuma-proptech/"
+    },
+    {
+      "name": "Chen Avni",
+      "title": "Co-founder & Chief Product Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.pc.co.il/featured/458576/"
+    },
+    {
+      "name": "Shiv Gettu",
+      "title": "Chief Partnerships Officer (Zuma co-founder)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://venn.city/resources/venn-acquires-zuma-for-50-million"
+    },
+    {
+      "name": "Kendrick Bradley",
+      "title": "GM, Venn Leasing (Zuma co-founder)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://venn.city/resources/venn-acquires-zuma-for-50-million"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2019-06",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://platform.tracxn.com/a/d/company/58ffd5b7e4b086d519c6402c/venn"
+    },
+    {
+      "round": "Series B (earlier round)",
+      "date": "2021-06",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://platform.tracxn.com/a/d/company/58ffd5b7e4b086d519c6402c/venn"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-11",
+      "amount": "$52M",
+      "valuation": null,
+      "lead": "NOA, CIM Group",
+      "source": "https://www.accessnewswire.com/newsroom/en/real-estate/venn-raises-52m-to-redefine-the-2.5-trillion-multifamily-market-1102637"
+    }
+  ],
+  "total_raised": "$140M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches 'super agents' built on each operator's own data",
+      "url": "https://www.globenewswire.com/news-release/2026/10/06/3375645/0/en/amazon-said-no-to-muse-venn-wants-real-estate-to-say-no-too.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Acquires a16z-backed AI leasing company Zuma for $50M",
+      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366532/0/en/venn-acquires-a16z-backed-zuma-for-50-million-as-its-platform-closes-in-on-one-million-homes.html"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Raises $52M Series B led by NOA and CIM Group; cites 9x ARR growth",
+      "url": "https://en.globes.co.il/en/article-israeli-housing-rental-platform-venn-raises-52m-1001526728"
+    }
+  ],
+  "competitors": [
+    "eliseai",
+    "RealPage",
+    "Entrata",
+    "Funnel Leasing"
+  ]
+}

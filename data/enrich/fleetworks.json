@@ -1,0 +1,46 @@
+{
+  "slug": "fleetworks",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Paul Singer",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2025/10/14/fleetworks-raises-17m-to-match-truckers-with-cargo-faster"
+    },
+    {
+      "name": "Quang Tran",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.fleetworks.ai/blog/fleetworks-launches-always-on-dispatcher-for-trucking-industry-with-17m-funding"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2023-09",
+      "amount": "$500K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "http://blog.amy.vc/fleetworks-17m-series-a-funding-round"
+    },
+    {
+      "round": "Series A (part of $17M raise)",
+      "date": "2025-10",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "First Round Capital",
+      "source": "http://techcrunch.com/2025/10/14/fleetworks-raises-17m-to-match-truckers-with-cargo-faster"
+    }
+  ],
+  "total_raised": "~$17.5M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

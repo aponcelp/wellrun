@@ -1,0 +1,94 @@
+{
+  "slug": "stripe",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2010,
+  "hq": "South San Francisco, CA / Dublin, Ireland",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Patrick Collison",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Stripe,_Inc."
+    },
+    {
+      "name": "John Collison",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://stripe.com/newsroom/news/stripe-series-i"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2011",
+      "amount": "$2M",
+      "valuation": null,
+      "lead": "Sequoia, a16z, SV Angel, Peter Thiel, Elon Musk",
+      "source": "https://en.wikipedia.org/wiki/Stripe,_Inc."
+    },
+    {
+      "round": "Series D",
+      "date": "2016-11",
+      "amount": "$150M",
+      "valuation": "$9.2B",
+      "lead": null,
+      "source": "https://stockanalysis.com/private/stripe/valuation/"
+    },
+    {
+      "round": "Series E",
+      "date": "2018-09",
+      "amount": "$245M",
+      "valuation": "$20B",
+      "lead": null,
+      "source": "https://stockanalysis.com/private/stripe/valuation/"
+    },
+    {
+      "round": "Series F",
+      "date": "2019-01",
+      "amount": "$100M",
+      "valuation": "$22.5B",
+      "lead": null,
+      "source": "https://stockanalysis.com/private/stripe/valuation/"
+    },
+    {
+      "round": "Series G",
+      "date": "2019-09",
+      "amount": "$250M",
+      "valuation": "$35B",
+      "lead": null,
+      "source": "https://stockanalysis.com/private/stripe/valuation/"
+    },
+    {
+      "round": "Series G extension",
+      "date": "2020-04",
+      "amount": "$600M",
+      "valuation": "$36B",
+      "lead": null,
+      "source": "https://stockanalysis.com/private/stripe/valuation/"
+    },
+    {
+      "round": "Series H",
+      "date": "2021-03",
+      "amount": "$600M",
+      "valuation": "$95B",
+      "lead": "Allianz X, AXA, Baillie Gifford, Fidelity, NTMA",
+      "source": "https://jobs.a16z.com/company/stripe"
+    },
+    {
+      "round": "Series I",
+      "date": "2023-03",
+      "amount": "$6.5B+",
+      "valuation": "$50B",
+      "lead": "Thrive Capital, a16z, Founders Fund, General Catalyst, others",
+      "source": "https://stripe.com/newsroom/news/stripe-series-i"
+    }
+  ],
+  "total_raised": "~$9.8B (StockAnalysis / Tracxn); later tenders are secondary",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

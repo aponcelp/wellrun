@@ -1,0 +1,46 @@
+{
+  "slug": "lotus-health",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "KJ Dhaliwal",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/kjdhaliwal",
+      "source": "https://lotus.ai/news/lotus-raised-41m"
+    },
+    {
+      "name": "Zekka Nelson",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lotus.ai/news/lotus-raised-41m"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024",
+      "amount": null,
+      "valuation": null,
+      "lead": "Kleiner Perkins",
+      "source": "https://lotus.ai/news/lotus-raised-41m"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-02",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "CRV, Kleiner Perkins",
+      "source": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free"
+    }
+  ],
+  "total_raised": "$41M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

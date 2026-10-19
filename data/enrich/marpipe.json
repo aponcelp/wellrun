@@ -1,0 +1,53 @@
+{
+  "slug": "marpipe",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Dan Pantelo",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.marpipe.com/about-us"
+    },
+    {
+      "name": "James Goldman",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.marpipe.com/about-us"
+    },
+    {
+      "name": "Pierce Porterfield",
+      "title": "Head of Product",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.marpipe.com/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019",
+      "amount": "$2M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.mrweb.com/drno/news32092.htm"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-09",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "Stage 2 Capital",
+      "source": "https://www.businesswire.com/news/home/20210908005280/en/Marpipe-Raises-$8M-Series-A-to-Build-the-Operating-System-for-Creative-Testing"
+    }
+  ],
+  "total_raised": "~$10M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

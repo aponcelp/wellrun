@@ -1,0 +1,53 @@
+{
+  "slug": "rein",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "New York, NY / Tel Aviv",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Matan Bar-Efrat",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://reinsec.io/about-us/"
+    },
+    {
+      "name": "Netanel Rubin",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://reinsec.io/about-us/"
+    },
+    {
+      "name": "Liat Morad",
+      "title": "VP Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://reinsec.io/news/8200-alumni-raise-8-million-seed-round-for-rein-security-2"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-01",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "Glilot Capital",
+      "source": "https://www.calcalistech.com/ctechnews/article/skchtoplwg"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Glilot Capital, Sienna Venture Capital (co-leads)",
+      "source": "https://www.prnewswire.com/news-releases/rein-security-raises-25-million-to-secure-the-ai-agents-enterprises-build-and-stop-the-ones-that-attack-them-302901591.html"
+    }
+  ],
+  "total_raised": "$35M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

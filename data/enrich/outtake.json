@@ -1,0 +1,47 @@
+{
+  "slug": "outtake",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Alex Dhillon",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.outtake.ai/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-02",
+      "amount": "$3.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://linkedin.com/company/outtakeai"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-04",
+      "amount": "$16.5M",
+      "valuation": null,
+      "lead": "CRV",
+      "source": "https://www.bankinfosecurity.com/outtake-gets-40m-to-grow-automated-threat-response-a-30629"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-01",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "ICONIQ",
+      "source": "https://www.businesswire.com/news/home/20260128049292/en/Outtake-Raises-$40M-Series-B-Led-by-ICONIQ-to-Build-the-Unified-Platform-for-Digital-Trust-in-the-AI-Era"
+    }
+  ],
+  "total_raised": "$60M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

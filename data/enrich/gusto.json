@@ -1,0 +1,108 @@
+{
+  "slug": "gusto",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2011,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Josh Reeves",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://gusto.com/resources/articles/author/joshua-reeves"
+    },
+    {
+      "name": "Edward Kim",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/gusto"
+    },
+    {
+      "name": "Tomer London",
+      "title": "Co-founder & Chief Product Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/gusto"
+    },
+    {
+      "name": "Mike Taylor",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/gusto"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (as ZenPayroll)",
+      "date": "2012-04",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://sacra.com/embed/company-data-valuation-table/gusto/"
+    },
+    {
+      "round": "Series A (as ZenPayroll)",
+      "date": "2014-02",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "General Catalyst, Kleiner Perkins",
+      "source": "https://gusto.com/resources/articles/author/joshua-reeves"
+    },
+    {
+      "round": "Series B (as ZenPayroll)",
+      "date": "2015-04",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://sacra.com/embed/company-data-valuation-table/gusto/"
+    },
+    {
+      "round": "Series C",
+      "date": "2018-07",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://sacra.com/embed/company-data-valuation-table/gusto/"
+    },
+    {
+      "round": "Series D",
+      "date": "2019-07",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://sacra.com/embed/company-data-valuation-table/gusto/"
+    },
+    {
+      "round": "Series E",
+      "date": "2021-08",
+      "amount": "$175M",
+      "valuation": "~$9.5B (Forbes)",
+      "lead": "T. Rowe Price",
+      "source": "https://gusto.com/company-news/series-e-announcement"
+    },
+    {
+      "round": "Series E extension",
+      "date": "2022-05",
+      "amount": "~$55M",
+      "valuation": "~$10B",
+      "lead": "T. Rowe Price",
+      "source": "https://finovate.com/payroll-benefits-and-hr-management-innovator-gusto-secures-series-e-round-extension/"
+    },
+    {
+      "round": "Employee tender offer (secondary)",
+      "date": "2025-06",
+      "amount": "$200M+",
+      "valuation": "$9.3B",
+      "lead": "Teachers' Venture Growth (OTPP)",
+      "source": "https://fortune.com/2025/06/09/gusto-200-million-plus-tender-offer/"
+    }
+  ],
+  "total_raised": "~$746M primary (per Sacra)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

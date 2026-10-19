@@ -1,0 +1,54 @@
+{
+  "slug": "meow",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": null,
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Brandon Arvanaghi",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/arvanaghi",
+      "source": "https://www.meow.com/blog/meow-series-b-announcement"
+    },
+    {
+      "name": "Bryce Crawford",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businessinsider.com/tiger-global-leads-22-million-round-crypto-treasury-startup-meow-2022-7"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-11",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.businessinsider.com/tiger-global-leads-22-million-round-crypto-treasury-startup-meow-2022-7"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-07",
+      "amount": "$22M",
+      "valuation": null,
+      "lead": "Tiger Global",
+      "source": "https://www.businesswire.com/news/home/20220718005482/en/Meow-Closes-22-Million-Series-A-Funding-as-Corporate-Treasuries-Embrace-DeFi-Investing-Options"
+    },
+    {
+      "round": "Series B (strategic)",
+      "date": "2026-10",
+      "amount": "$31.6M",
+      "valuation": null,
+      "lead": "Stifel Financial",
+      "source": "https://www.wsgr.com/en/insights/wilson-sonsini-advises-meow-on-dollar316-million-series-b-and-strategic-partnership.html"
+    }
+  ],
+  "total_raised": "$60M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

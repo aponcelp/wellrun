@@ -1,0 +1,54 @@
+{
+  "slug": "tools-for-humanity",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "San Francisco, CA and Munich, Germany",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Alex Blania",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.toolsforhumanity.com/"
+    },
+    {
+      "name": "Sam Altman",
+      "title": "Co-founder & Chairman",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.toolsforhumanity.com/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021",
+      "amount": "$25M",
+      "valuation": "$1B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.thebigwhale.io/article/worldcoin-wld-analysis-of-the-leading-ai-project-in-cryptos"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-03",
+      "amount": "$100M",
+      "valuation": "$3B (reported)",
+      "lead": "Andreessen Horowitz and Khosla Ventures",
+      "source": "https://www.thebigwhale.io/article/worldcoin-wld-analysis-of-the-leading-ai-project-in-cryptos"
+    },
+    {
+      "round": "Series C",
+      "date": "2023-05",
+      "amount": "$115M",
+      "valuation": null,
+      "lead": "Blockchain Capital",
+      "source": "https://www.coindesk.com/business/2023/05/25/sam-altmans-crypto-project-worldcoin-raises-115m-led-by-blockchain-capital"
+    }
+  ],
+  "total_raised": "$240M (equity rounds)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

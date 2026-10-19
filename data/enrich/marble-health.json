@@ -1,0 +1,46 @@
+{
+  "slug": "marble-health",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jake Sussman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.costanoa.vc/portfolio/marble-health"
+    },
+    {
+      "name": "Dan Ross",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.costanoa.vc/portfolio/marble-health"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-06",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2024/06/21/khosla-backed-marble-built-by-former-headway-founders-offers-affordable-group-therapy-for-teens/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-10",
+      "amount": "$15.5M",
+      "valuation": null,
+      "lead": "Costanoa",
+      "source": "https://www.prnewswire.com/news-releases/marble-raises-15-5m-series-a-to-scale-access-to-youth-mental-health-care-302583202.html"
+    }
+  ],
+  "total_raised": "$20.5M (per Forbes)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

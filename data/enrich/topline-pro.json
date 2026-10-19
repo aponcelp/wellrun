@@ -1,0 +1,54 @@
+{
+  "slug": "topline-pro",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Nick Ornitz",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2022/10/31/topline-pro-5m-home-service-business/"
+    },
+    {
+      "name": "Shannon Kay",
+      "title": "Co-founder (COO)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/topline-pro-announces-27m-to-transform-local-home-services-into-scalable-ai-driven-businesses-302530370.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-10",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2022/10/31/topline-pro-5m-home-service-business/"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-07",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2023/07/31/topline-pro-12m-home-service-enterprise/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-08",
+      "amount": "$27M",
+      "valuation": null,
+      "lead": "Northzone",
+      "source": "https://www.prnewswire.com/news-releases/topline-pro-announces-27m-to-transform-local-home-services-into-scalable-ai-driven-businesses-302530370.html"
+    }
+  ],
+  "total_raised": "$44M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

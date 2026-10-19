@@ -1,0 +1,69 @@
+{
+  "slug": "rula",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "Los Angeles, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Joshua Bruno",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://bhbusiness.com/2024/09/17/digital-mental-health-platform-rula-health-expands-to-50-states/"
+    },
+    {
+      "name": "Gabriel Diop",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20250320397836/en/Curative-Partners-With-Rula-Health-to-Deliver-Unprecedented-%240-Mental-Health-Services-to-Its-Members-Nationwide"
+    },
+    {
+      "name": "Doug Newton",
+      "title": "Chief Medical Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://bhbusiness.com/2024/09/17/digital-mental-health-platform-rula-health-expands-to-50-states/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021-04",
+      "amount": "$11.3M",
+      "valuation": null,
+      "lead": null,
+      "source": "http://pitchbook.com/profiles/company/147754-90"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-01",
+      "amount": "~$87.4M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://seedtable.com/companies/path"
+    },
+    {
+      "round": "Series C",
+      "date": "2024-07",
+      "amount": "$125M-$143M (sources differ)",
+      "valuation": "~$1.22B",
+      "lead": "Hedosophia",
+      "source": "https://sacra.com/c/rula-health"
+    },
+    {
+      "round": "Series C-1",
+      "date": "2026-02",
+      "amount": "$6.24M",
+      "valuation": "$2.4B post",
+      "lead": null,
+      "source": "https://forgeglobal.com/path-ccm_ipo/"
+    }
+  ],
+  "total_raised": "~$263M-$269M (Sacra / Forge)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

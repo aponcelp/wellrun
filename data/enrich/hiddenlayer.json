@@ -1,0 +1,68 @@
+{
+  "slug": "hiddenlayer",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "Austin, TX",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Chris Sestito",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/ctito",
+      "source": "https://www.hiddenlayer.com/news/hiddenlayer-100m-series-b-ai-security"
+    },
+    {
+      "name": "Tanner Burns",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/hiddenlayer"
+    },
+    {
+      "name": "James Ballard",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/hiddenlayer"
+    },
+    {
+      "name": "Jeremiah Gibber",
+      "title": "Chief Marketing Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/hiddenlayer"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-07",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "Ten Eleven Ventures",
+      "source": "https://devcuration.com/articles/hiddenlayer-raises-100m-for-ai-runtime-security"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-09",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "M12, Moore Strategic Ventures",
+      "source": "https://www.prnewswire.com/news-releases/hiddenlayer-raises-50m-in-series-a-funding-to-safeguard-ai-301931260.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-09",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": "Delta-v Capital",
+      "source": "https://www.hiddenlayer.com/news/hiddenlayer-100m-series-b-ai-security"
+    }
+  ],
+  "total_raised": "$155M+ (per SecurityWeek)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

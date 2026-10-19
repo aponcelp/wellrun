@@ -1,0 +1,69 @@
+{
+  "slug": "sentry",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2012,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Milin Desai",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://sentry.io/about/press-releases/sentry-raises-90-million-in-series-e-funding-to-expand-and-drive-adoption-of-developer-first-application-monitoring/"
+    },
+    {
+      "name": "David Cramer",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/dmcramer",
+      "source": "https://linkedin.com/in/dmcramer"
+    },
+    {
+      "name": "Chris Jennings",
+      "title": "Co-founder & Chief Creative Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://research.contrary.com/company/sentry"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2015",
+      "amount": null,
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://sentry.io/about/press-releases/sentry-raises-60-million-in-series-d-funding-at-1-billion-valuation/"
+    },
+    {
+      "round": "Series C",
+      "date": "2019-09",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://venturebeat.com/business/sentry-raises-40-million-for-app-performance-monitoring-tools"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-02",
+      "amount": "$60M",
+      "valuation": "$1B",
+      "lead": "Accel",
+      "source": "https://sentry.io/about/press-releases/sentry-raises-60-million-in-series-d-funding-at-1-billion-valuation/"
+    },
+    {
+      "round": "Series E",
+      "date": "2022-05",
+      "amount": "$90M",
+      "valuation": "$3B+",
+      "lead": "BOND, Accel",
+      "source": "https://sentry.io/about/press-releases/sentry-raises-90-million-in-series-e-funding-to-expand-and-drive-adoption-of-developer-first-application-monitoring/"
+    }
+  ],
+  "total_raised": "$217M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

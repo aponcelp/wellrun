@@ -1,0 +1,38 @@
+{
+  "slug": "planhat",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2015,
+  "hq": "Stockholm, Sweden",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Kaveh Rostampor",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.planhat.com/editorial/building-the-next-generation-customer-platform-planhat-raises-50-million-series-a"
+    },
+    {
+      "name": "Niklas Skog",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.planhat.com/press/stockholm-based-customer-success-software-planhat-secures-50m"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2022-04",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Sprints Capital",
+      "source": "https://www.globenewswire.com/news-release/2022/04/21/2426086/0/en/Planhat-the-Next-Generation-Customer-Platform-Raises-50-Million-Series-A.html"
+    }
+  ],
+  "total_raised": "$50M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

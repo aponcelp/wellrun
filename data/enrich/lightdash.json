@@ -1,0 +1,54 @@
+{
+  "slug": "lightdash",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "London, UK",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Hamzah Chaudhary",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lightdash.com/about"
+    },
+    {
+      "name": "Oliver Laslett",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lightdash.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2021",
+      "amount": "$2.4M",
+      "valuation": null,
+      "lead": "Moonfire Ventures",
+      "source": "https://www.lightdash.com/blogpost/lightdash-raises-seed-round"
+    },
+    {
+      "round": "Seed",
+      "date": "2022-10",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://www.lightdash.com/blogpost/lightdash-raises-seed-round"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-10",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://lightdash.com/blogpost/lightdash-raises-series-a"
+    }
+  ],
+  "total_raised": "~$19.4M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

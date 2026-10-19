@@ -1,0 +1,53 @@
+{
+  "slug": "spott",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "Leuven, Belgium",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Lander Degrève",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.staffingindustry.com/news/global-daily-news/belgian-recruitment-ai-startup-spott-raises-21m-to-expand-ai-capabilities"
+    },
+    {
+      "name": "Manu Vanderveeren",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.staffingindustry.com/news/global-daily-news/belgian-recruitment-ai-startup-spott-raises-21m-to-expand-ai-capabilities"
+    },
+    {
+      "name": "Samuel Smeys",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.staffingindustry.com/news/global-daily-news/belgian-recruitment-ai-startup-spott-raises-21m-to-expand-ai-capabilities"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-03",
+      "amount": "$3.2M",
+      "valuation": null,
+      "lead": "Base10 Partners",
+      "source": "https://spott.io/origin-story"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$21M",
+      "valuation": null,
+      "lead": "Balderton Capital",
+      "source": "https://spott.io/series-a"
+    }
+  ],
+  "total_raised": "$24.2M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

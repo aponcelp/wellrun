@@ -1,0 +1,61 @@
+{
+  "slug": "polyai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "London, UK",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Nikola Mrkšić",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://poly.ai/blog/polyai-raises-86-million-series-d"
+    },
+    {
+      "name": "Shawn (Tsung-Hsien) Wen",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techfundingnews.com/polyai-86m-series-d-nvidia-british-business-bank/"
+    },
+    {
+      "name": "Pei-Hao (Eddy) Su",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techfundingnews.com/polyai-86m-series-d-nvidia-british-business-bank/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2022",
+      "amount": null,
+      "valuation": null,
+      "lead": "Georgian",
+      "source": "https://georgian.io/posts/why-georgian-invested-in-polyai-again"
+    },
+    {
+      "round": "Series C",
+      "date": "2024-05",
+      "amount": "$50M",
+      "valuation": "$500M",
+      "lead": null,
+      "source": "https://intelligence.mts.now/atlas/polyai"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-12",
+      "amount": "$86M",
+      "valuation": "$750M",
+      "lead": "Georgian, Hedosophia, Khosla Ventures",
+      "source": "https://siliconangle.com/2025/12/15/call-center-chatbot-startup-polyai-raises-86m-750m-valuation/"
+    }
+  ],
+  "total_raised": "$200M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

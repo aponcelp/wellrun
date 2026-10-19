@@ -1,0 +1,45 @@
+{
+  "slug": "fish-audio",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "Palo Alto, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Rissa Cao",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/"
+    },
+    {
+      "name": "Shijia Liao",
+      "title": "Co-founder & Chief Scientist",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/fish-audio-raises-52m-in-seed-funding-after-turning-passion-project-into-one-of-voice-ais-fastest-growing-companies-302836233.html"
+    },
+    {
+      "name": "Jiahua Liu",
+      "title": "Co-founder (CTO per Tracxn)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://tracxn.com/d/companies/fish/__gAn1tquu399R7fOz2NLl7Tn1JD8_qe2bzmJIVt0uv4E"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-07",
+      "amount": "$52M",
+      "valuation": null,
+      "lead": "Coreline Ventures, Capital Today",
+      "source": "https://www.prnewswire.com/news-releases/fish-audio-raises-52m-in-seed-funding-after-turning-passion-project-into-one-of-voice-ais-fastest-growing-companies-302836233.html"
+    }
+  ],
+  "total_raised": "$52M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "anterior",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Abdel Mahmoud",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.anterior.com/insights/announcements/anterior-raises-40m-series/"
+    },
+    {
+      "name": "Tahseen Omar",
+      "title": "President & COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.businessinsider.com/pitch-deck-ai-startup-anterior-20-million-series-a-nea-2024-6"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-09",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": "Sequoia (Arc)",
+      "source": "https://www.businessinsider.com/pitch-deck-ai-startup-anterior-20-million-series-a-nea-2024-6"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-06",
+      "amount": "$20M",
+      "valuation": "$95M post (Nordic9)",
+      "lead": "NEA",
+      "source": "https://www.businessinsider.com/pitch-deck-ai-startup-anterior-20-million-series-a-nea-2024-6"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-02",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "NEA, Sequoia (co-led per Nordic9)",
+      "source": "https://www.prnewswire.com/news-releases/anterior-closes-40-million-to-accelerate-health-plan-ai-adoption-bringing-total-funding-to-64-million-302685959.html"
+    }
+  ],
+  "total_raised": "$64M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

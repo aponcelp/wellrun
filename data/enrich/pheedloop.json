@@ -1,0 +1,29 @@
+{
+  "slug": "pheedloop",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2015,
+  "hq": "Toronto (North York), ON, Canada",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Rahul Goel",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cbinsights.com/company/pheedloop/people"
+    },
+    {
+      "name": "George Wong",
+      "title": "President",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://pheedloop.com/more/about-us"
+    }
+  ],
+  "funding_history": [],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

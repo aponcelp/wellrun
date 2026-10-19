@@ -1,0 +1,53 @@
+{
+  "slug": "ascerta",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "Bellevue, WA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "David Tepper",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.geekwire.com/2026/pay-i-rebrands-as-ascerta-and-raises-18m-to-help-enterprises-track-ai-business-value/"
+    },
+    {
+      "name": "Doron Holan",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.geekwire.com/2026/pay-i-rebrands-as-ascerta-and-raises-18m-to-help-enterprises-track-ai-business-value/"
+    },
+    {
+      "name": "Erik Winters",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.geekwire.com/2026/pay-i-rebrands-as-ascerta-and-raises-18m-to-help-enterprises-track-ai-business-value/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (as Pay-i)",
+      "date": "2025-05",
+      "amount": "$4.9M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.geekwire.com/2026/pay-i-rebrands-as-ascerta-and-raises-18m-to-help-enterprises-track-ai-business-value/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$18M",
+      "valuation": null,
+      "lead": "Dell Technologies Capital",
+      "source": "https://ascerta.com/resources/press/ascerta-raises-18m-series-a"
+    }
+  ],
+  "total_raised": "$22.9M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

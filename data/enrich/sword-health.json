@@ -1,0 +1,70 @@
+{
+  "slug": "sword-health",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2015,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Virgílio Bento",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2025/06/17/3100549/0/en/Sword-Health-Raises-40-Million-at-a-4-Billion-Valuation-and-Unveils-Always-On-AI-Mental-Health-Solution-to-Address-the-Global-Mental-Health-Crisis.html"
+    },
+    {
+      "name": "Márcio Colunas",
+      "title": "Co-founder & Chief Scientific Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/55d26c6ee4b02f29daabe838/sword%20health"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2021-02",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Transformation Capital",
+      "source": "http://swordhealth.com/newsroom/series-b-announcement"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-06",
+      "amount": "$85M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://swordhealth.com/newsroom/sword-health-raises-85m-series-c-highlighting-industry-leading-growth-to-revolutionize-musculoskeletal-care"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-11",
+      "amount": "$163M",
+      "valuation": "$2B (incl. secondary)",
+      "lead": "Sapphire Ventures",
+      "source": "https://sword.com/newsroom/sword-health-raises-dollar163m-and-reaches-dollar2b-valuation-as-the-fastest-growing-digital-msk-company"
+    },
+    {
+      "round": "Primary + secondary",
+      "date": "2024-06",
+      "amount": "$30M primary (+$100M secondary)",
+      "valuation": "$3B",
+      "lead": null,
+      "source": "https://techcrunch.com/2024/06/04/sword-healths-raises-130m-valuation-3b-ai-physical-therapy/"
+    },
+    {
+      "round": "Growth",
+      "date": "2025-06",
+      "amount": "$40M",
+      "valuation": "$4B",
+      "lead": "General Catalyst",
+      "source": "https://techcrunch.com/2025/06/17/sword-health-nabs-40m-at-4b-valuation-pushes-ipo-plans-to-at-least-2028/"
+    }
+  ],
+  "total_raised": "~$380M primary ($340M through Jun 2024 per TechCrunch, + $40M Jun 2025)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "tldraw",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "London, UK",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Steve Ruiz",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://tldraw.dev/company"
+    },
+    {
+      "name": "Phil Low",
+      "title": "Head of GTM",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://tldraw.dev/company"
+    },
+    {
+      "name": "Andreas Aslaksen",
+      "title": "Business Operations Lead",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://tldraw.dev/company"
+    },
+    {
+      "name": "Mime Čuvalo",
+      "title": "Head of Engineering",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://tldraw.dev/company"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-11",
+      "amount": "$2.7M",
+      "valuation": null,
+      "lead": "Lux Capital",
+      "source": "https://tldraw.dev/blog/announcing-tldraws-seed-round"
+    },
+    {
+      "round": "Seed extension",
+      "date": "2023-11",
+      "amount": "$2M",
+      "valuation": null,
+      "lead": "Insiders (Amplify, Lux, Preston-Werner Ventures)",
+      "source": "https://tldraw.dev/blog/tldraw-raised-another-2m"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-04",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Lux Capital and Definition (co-led)",
+      "source": "https://tldraw.dev/blog/announcing-tldraw-series-a"
+    }
+  ],
+  "total_raised": "~$14.7M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

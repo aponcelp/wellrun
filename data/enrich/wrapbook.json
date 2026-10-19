@@ -1,0 +1,62 @@
+{
+  "slug": "wrapbook",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "Burbank / Los Angeles, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ali Javid",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/wrapbook-raises-equity-financing-at-a-750m-valuation-plus-launch-of-secondary-tender-offer-for-employees-from-bessemer-venture-partners-302256240.html"
+    },
+    {
+      "name": "Cameron Woodward",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/cameronwoodward",
+      "source": "https://www.hollywoodreporter.com/business/business-news/wrapbook-fund-bessemer-venture-partners-1236009642"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020",
+      "amount": "$3.6M",
+      "valuation": null,
+      "lead": "Equal Ventures",
+      "source": "https://www.wrapbook.com/blog/wrapbook-announces-3-million-dollar-funding-raise"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-03",
+      "amount": "$27M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://techcrunch.com/2021/03/09/wrapbook-series-a/"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-11",
+      "amount": "$100M",
+      "valuation": "$1B",
+      "lead": "Tiger Global Management",
+      "source": "https://www.businesswire.com/news/home/20211110005692/en/Wrapbook-Hits-Billion-Dollar-Valuation-With-Series-B-Round"
+    },
+    {
+      "round": "Growth (primary + tender)",
+      "date": "2024-09",
+      "amount": "$20M",
+      "valuation": "$750M",
+      "lead": "Bessemer Venture Partners",
+      "source": "https://www.prnewswire.com/news-releases/wrapbook-raises-equity-financing-at-a-750m-valuation-plus-launch-of-secondary-tender-offer-for-employees-from-bessemer-venture-partners-302256240.html"
+    }
+  ],
+  "total_raised": "~$150M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

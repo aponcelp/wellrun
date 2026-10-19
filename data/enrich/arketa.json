@@ -1,0 +1,46 @@
+{
+  "slug": "arketa",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Rachel Lea Fishman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/sites/alexyork/2025/06/06/arketa-raises-15-million-to-power-the-next-trip-to-your-yoga-class"
+    },
+    {
+      "name": "Josh Archer",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/sites/alexyork/2025/06/06/arketa-raises-15-million-to-power-the-next-trip-to-your-yoga-class"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-04",
+      "amount": "$7.6M",
+      "valuation": null,
+      "lead": "First Round Capital",
+      "source": "https://www.arketa.com/blog/arketa-raises-7-6m-to-help-studios-grow-beyond-classes"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-06",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Inspired Capital",
+      "source": "https://www.arketa.com/blog/series-a-fundraise"
+    }
+  ],
+  "total_raised": "~$23M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

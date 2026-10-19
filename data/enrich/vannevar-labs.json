@@ -1,0 +1,54 @@
+{
+  "slug": "vannevar-labs",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "Palo Alto, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Brett Granberg",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.vannevarlabs.com/in-the-arena/starting-a-defense-tech-company/"
+    },
+    {
+      "name": "Nini Hamrick",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.wsj.com/articles/with-interest-in-defense-tech-growing-national-security-startup-nets-75-million-11674033146"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019",
+      "amount": "$4.5M",
+      "valuation": null,
+      "lead": "Costanoa Ventures, General Catalyst",
+      "source": "https://techcrunch.com/2021/08/23/vannevar-labs-series-a/"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-05",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "Costanoa Ventures, Point72",
+      "source": "https://techcrunch.com/2021/08/23/vannevar-labs-series-a/"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-01",
+      "amount": "$75M",
+      "valuation": null,
+      "lead": "Felicis",
+      "source": "https://www.prnewswire.com/news-releases/vannevar-labs-announces-75m-series-b-funding-round-301725181.html"
+    }
+  ],
+  "total_raised": "~$91.5M (company says $90M+; cites $1.5B valuation)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

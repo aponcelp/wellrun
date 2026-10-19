@@ -1,0 +1,54 @@
+{
+  "slug": "chargeflow",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "New York, NY / Israel",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ariel Chen",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.chargeflow.io/authors/ariel-chen"
+    },
+    {
+      "name": "Avia Chen",
+      "title": "Co-founder & CMO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.chargeflow.io/ai-info"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2023/08/08/chargeflow-which-taps-ai-to-fight-chargebacks-raises-14m/"
+    },
+    {
+      "round": "Seed",
+      "date": "2023-08",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": "OpenView Venture Partners",
+      "source": "https://techcrunch.com/2023/08/08/chargeflow-which-taps-ai-to-fight-chargebacks-raises-14m/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-11",
+      "amount": "$25M equity + $10M debt",
+      "valuation": null,
+      "lead": "Viola Growth",
+      "source": "https://www.calcalistech.com/ctechnews/article/bk00v9g9e11g"
+    }
+  ],
+  "total_raised": "$49M incl. $10M debt (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "sanity",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "San Francisco, CA (also Oslo)",
+  "headcount_est": {
+    "value": "338 employees",
+    "as_of": "2026 (Tracxn, date not shown)",
+    "source": "https://platform.tracxn.com/a/d/company/5848427be4b048552752a9ce/sanity"
+  },
+  "leadership": [
+    {
+      "name": "Magnus Hillestad",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://bullhoundcapital.com/articles/bullhound-capital-leads-sanitys-85m-series-c"
+    },
+    {
+      "name": "Simen Svale Skogsrud",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://sanity.io/blog/it-takes-a-village"
+    },
+    {
+      "name": "Even Westvang",
+      "title": "Co-founder (product)",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://sanity.io/blog/it-takes-a-village"
+    },
+    {
+      "name": "Øyvind Rostad",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.thesaasnews.com/news/sanity-raises-85-million-in-series-c"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-09",
+      "amount": "$2.4M",
+      "valuation": null,
+      "lead": "Heavybit",
+      "source": "https://vcnewsdaily.com/sanity.io/venture-capital-funding/hqxjjvcqbz"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-10",
+      "amount": "$9.3M",
+      "valuation": null,
+      "lead": "Threshold Ventures",
+      "source": "https://techcrunch.com/2020/10/14/sanity-a-platform-to-build-and-manage-content-flows-on-sites-raises-9-3m-from-ev-williams-threshold-and-more/"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-06",
+      "amount": "$39M",
+      "valuation": null,
+      "lead": "ICONIQ Growth",
+      "source": "https://techcrunch.com/2021/06/24/sanity-raises-39m-for-its-use-anywhere-approach-to-content-repositories"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-05",
+      "amount": "$85M",
+      "valuation": null,
+      "lead": "Bullhound Capital",
+      "source": "https://www.sanity.io/blog/why-the-age-of-cms-is-over"
+    }
+  ],
+  "total_raised": "~$136M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launches Knowledge Bases and Workflows at Everything NYC 2026",
+      "url": "https://www.sanity.io/everything-2026-keynote"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Passes 1M users on the platform",
+      "url": "https://www.linkedin.com/posts/sanity-io_1000000-users-one-million-people-building-activity-7452377198696734720-R3kx"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Repositions platform as the AI Content Operating System",
+      "url": "https://www.prnewswire.com/news-releases/sanity-launches-the-ai-content-operating-system-for-the-ai-era-302704294.html"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Launches Content Agent for natural-language content operations",
+      "url": "https://www.sanity.io/docs/changelog/eac5d59c-a860-4078-9387-15d3956c2a24"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Raises $85M Series C led by Bullhound; launches Content Operating System",
+      "url": "http://bullhoundcapital.com/articles/bullhound-capital-leads-sanitys-85m-series-c"
+    }
+  ],
+  "competitors": [
+    "Contentful",
+    "Storyblok",
+    "Adobe Experience Manager",
+    "Payload",
+    "framer"
+  ]
+}

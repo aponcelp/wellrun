@@ -1,0 +1,54 @@
+{
+  "slug": "beautiful-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jason Lapp",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.beautiful.ai/blog/leadership-in-focus-the-story-of-our-ceo-jason-lapp"
+    },
+    {
+      "name": "Mitch Grasso",
+      "title": "Founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.caplight.com/company/beautiful"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2018-02",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "First Round Capital and Shasta Ventures (investors)",
+      "source": "https://www.owler.com/company/beautifulai/funding"
+    },
+    {
+      "round": "Series B",
+      "date": "2018-05",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": "Trinity Ventures",
+      "source": "https://www.beautiful.ai/blog/series-b-announcement"
+    },
+    {
+      "round": "Non-dilutive growth financing",
+      "date": "2026-03",
+      "amount": "$45M",
+      "valuation": null,
+      "lead": "General Catalyst (Customer Value Fund)",
+      "source": "https://www.axios.com/pro/enterprise-software-deals/2026/03/18/beautifulai-45m-general-catalyst-cvf"
+    }
+  ],
+  "total_raised": "~$61M incl. $45M non-dilutive",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

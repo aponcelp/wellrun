@@ -1,0 +1,44 @@
+{
+  "slug": "wonderly",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Harry Qi",
+      "title": "Co-founder & CEO (also CEO of Motion)",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/harryqi",
+      "source": "https://builtin.com/job/vp-growth/10224036"
+    },
+    {
+      "name": "Ethan Yu",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/wonderlyhq"
+    },
+    {
+      "name": "Chander Ramesh",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/wonderlyhq"
+    },
+    {
+      "name": "Omid Rooholfada",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/wonderlyhq"
+    }
+  ],
+  "funding_history": [],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": [],
+  "note": "Wholly owned by Motion (usemotion.com) and funded from Motion's cash flow; company job posts say 'raised over $50M' (Motion-level), no Wonderly-specific round verified (https://app.welcometothejungle.com/jobs/bVsrMUVZ)."
+}

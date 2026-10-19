@@ -1,0 +1,46 @@
+{
+  "slug": "augment",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Harish Abbott",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/09/04/ai-logistics-startup-augment-from-deliverrs-founder-raises-massive-85m-series-a/"
+    },
+    {
+      "name": "Art Rivilis",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.8vc.com/resources/announcing-the-augment-8vc-partnership"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-03",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "8VC",
+      "source": "https://www.8vc.com/resources/announcing-the-augment-8vc-partnership"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-09",
+      "amount": "$85M",
+      "valuation": null,
+      "lead": "Redpoint Ventures",
+      "source": "https://www.businesswire.com/news/home/20250904472410/en/Augment-Raises-$85M-Series-A-to-Supercharge-Augie-The-AI-Teammate-for-Logistics"
+    }
+  ],
+  "total_raised": "$110M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "ghost",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Los Angeles, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Josh Kaplan",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.finsmes.com/2024/10/ghost-raises-40m-in-series-c-funding.html"
+    },
+    {
+      "name": "Dee Murthy",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.finsmes.com/2024/10/ghost-raises-40m-in-series-c-funding.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A (combined)",
+      "date": "2022",
+      "amount": "~$38M (implied: $68M total after Series B minus $30M)",
+      "valuation": null,
+      "lead": "Union Square Ventures (Series A investor)",
+      "source": "https://www.prnewswire.com/news-releases/ghost-raises-30-million-to-help-brands-and-retailers-move-surplus-inventory-301904298.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-08",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Cathay Innovation",
+      "source": "https://www.prnewswire.com/news-releases/ghost-raises-30-million-to-help-brands-and-retailers-move-surplus-inventory-301904298.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2024-10",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "L Catterton",
+      "source": "https://www.prnewswire.com/news-releases/ghost-trusted-partner-for-the-worlds-best-brands-and-retailers-raises-40-million-series-c-led-by-l-catterton-302276328.html"
+    }
+  ],
+  "total_raised": "~$108M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

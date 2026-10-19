@@ -1,0 +1,46 @@
+{
+  "slug": "jack-and-jill",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "London, UK",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Matthew Wilson",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://jackandjill.ai/about"
+    },
+    {
+      "name": "Saaras Mehan",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.jackandjill.ai/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-10",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Creandum",
+      "source": "https://techcrunch.com/2025/10/16/jack-jill-raises-50-million-to-bring-conversational-ai-to-job-hunting"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "Air Street Capital",
+      "source": "https://www.jackandjill.ai/blog/series-a"
+    }
+  ],
+  "total_raised": "$60M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

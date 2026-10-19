@@ -1,0 +1,29 @@
+{
+  "slug": "epia-neuro",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": "Alameda, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Michel Maharbiz",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260402282679/en/Epia-Neuro-Launches-to-Develop-Intent-Driven-Neural-Technology-to-Restore-Function-After-Stroke-and-Address-Cognitive-Decline"
+    },
+    {
+      "name": "Gil Mandelbaum",
+      "title": "Co-founder & Chief Technology and Science Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260402282679/en/Epia-Neuro-Launches-to-Develop-Intent-Driven-Neural-Technology-to-Restore-Function-After-Stroke-and-Address-Cognitive-Decline"
+    }
+  ],
+  "funding_history": [],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

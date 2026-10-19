@@ -1,0 +1,54 @@
+{
+  "slug": "point-me",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Adam Morvitz",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.point.me/about/adam-morvitz/"
+    },
+    {
+      "name": "Tiffany Funk",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.citi.com/ventures/perspectives/pressrelease/investing-in-point-me.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-02",
+      "amount": "$2M",
+      "valuation": null,
+      "lead": "PAR Capital Ventures",
+      "source": "https://techcrunch.com/2022/02/23/real-time-flight-rewards-search-engine-point-me-raises-2m-to-scale-its-travel-tool/"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-09",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Thayer Ventures",
+      "source": "http://techcrunch.com/2023/09/05/real-time-flight-rewards-search-engine-point-me-raises-10m"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-09",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Nyca Partners and Citi Ventures",
+      "source": "https://www.point.me/insights/fundraise/"
+    }
+  ],
+  "total_raised": "~$27M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

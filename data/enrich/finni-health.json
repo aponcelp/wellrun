@@ -1,0 +1,46 @@
+{
+  "slug": "finni-health",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": null,
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Bukhtar (Bucky) Khan",
+      "title": "Co-founder (CEO per Tracxn)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/finni-health"
+    },
+    {
+      "name": "Yilun Chen",
+      "title": "Co-founder, President & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/finni-health"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-06",
+      "amount": "$3.2M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://www.finnihealth.com/finni-health-raises-3m-to-build-the-provider-centric-future-of-autism-care"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-03",
+      "amount": "undisclosed",
+      "valuation": null,
+      "lead": "General Catalyst, Forum Ventures, Antenna Ventures (per Crunchbase)",
+      "source": "https://www.crunchbase.com/funding_round/journey-health-7bab-series-a--bea49ea0"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

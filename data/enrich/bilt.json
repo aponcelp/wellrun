@@ -1,0 +1,55 @@
+{
+  "slug": "bilt",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ankur Jain",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/ankurjainkairos",
+      "source": "http://newsroom.biltrewards.com/bilt-raises-250-million-at-over-10-billion-valuation"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Growth",
+      "date": "2022-10",
+      "amount": "$150M",
+      "valuation": "$1.5B",
+      "lead": "Left Lane Capital",
+      "source": "https://en.wikipedia.org/wiki/Bilt_Rewards"
+    },
+    {
+      "round": "Growth",
+      "date": "2024-01",
+      "amount": "$200M",
+      "valuation": "$3.1B",
+      "lead": "General Catalyst",
+      "source": "https://techcrunch.com/2024/01/24/bilt-rewards-brings-in-200m-led-by-general-catalyst-doubles-valuation-to-3-1b/"
+    },
+    {
+      "round": "Growth",
+      "date": "2024-08",
+      "amount": "$150M",
+      "valuation": "$3.25B",
+      "lead": "Ontario Teachers' (Teachers' Venture Growth)",
+      "source": "http://newsroom.biltrewards.com/bilt-rewards-secures-150-million-in-additional-funding-led-by-ontario-teacher-s-pension-plan"
+    },
+    {
+      "round": "Growth",
+      "date": "2025-07",
+      "amount": "$250M",
+      "valuation": "$10.75B",
+      "lead": "General Catalyst, GID",
+      "source": "https://www.reuters.com/markets/us/bilt-valued-around-108-billion-latest-funding-round-2025-07-10/"
+    }
+  ],
+  "total_raised": "~$850M (Forbes)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

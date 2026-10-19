@@ -1,0 +1,46 @@
+{
+  "slug": "reeco",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Henrik Shimony",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.aleph.vc/companies/reeco"
+    },
+    {
+      "name": "Omri Shalev",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.aleph.vc/companies/reeco"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-03",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Net Capital Ventures and Joule Ventures",
+      "source": "https://www.calcalistech.com/ctechnews/article/r1s9npebh"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-01",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Aleph",
+      "source": "https://www.prnewswire.com/news-releases/reeco-raises-15m-series-a-round-to-modernize-hotel-procurement-with-ai-driven-procure-to-pay-platform-302351873.html"
+    }
+  ],
+  "total_raised": "$25M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

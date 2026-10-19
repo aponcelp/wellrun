@@ -1,0 +1,70 @@
+{
+  "slug": "tilt",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Warren Hogarth",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/empower-finance-rebrands-to-tilt-and-launches-tilt-credit-cards-to-accelerate-reliable-access-to-fair-credit-302522406.html"
+    },
+    {
+      "name": "Justin Ammerlaan",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://research.contrary.com/company/tilt"
+    },
+    {
+      "name": "Mac Muir",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/empower-2"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": null,
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "https://techcrunch.com/2020/03/05/mobile-banking-app-empower-finance-just-closed-a-20-million-series-a-round"
+    },
+    {
+      "round": "Seed",
+      "date": "2018",
+      "amount": "$4.5M",
+      "valuation": null,
+      "lead": "Initialized Capital",
+      "source": "https://techcrunch.com/2020/03/05/mobile-banking-app-empower-finance-just-closed-a-20-million-series-a-round"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-03",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Icon Ventures, Defy",
+      "source": "https://techcrunch.com/2020/03/05/mobile-banking-app-empower-finance-just-closed-a-20-million-series-a-round"
+    },
+    {
+      "round": "Equity + debt",
+      "date": "2022-09",
+      "amount": "$150M (equity and debt)",
+      "valuation": null,
+      "lead": "Blisce",
+      "source": "https://www.businessinsider.com/sequoia-vc-warren-hogarth-raises-funding-for-fintech-startup-empower-2022-8"
+    }
+  ],
+  "total_raised": "~$175M (per Contrary Research)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": [],
+  "note": "Formerly Empower Finance; rebranded Tilt Aug 2025."
+}

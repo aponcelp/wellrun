@@ -1,0 +1,90 @@
+{
+  "slug": "greptile",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~41 (LinkedIn)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/greptile"
+  },
+  "leadership": [
+    {
+      "name": "Daksh Gupta",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://ycombinator.com/companies/greptile"
+    },
+    {
+      "name": "Soohoon Choi",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://news.gatech.edu/news/2026/01/05/y-combinator-backing-and-30m-investment-take-startup-greptile-next-level"
+    },
+    {
+      "name": "Vaishant Kameswaran",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://ycombinator.com/companies/greptile"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-06",
+      "amount": "$4.1M",
+      "valuation": null,
+      "lead": "Initialized Capital",
+      "source": "https://greptile.com/blog/seed"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-09",
+      "amount": "$25M",
+      "valuation": "$180M (reported)",
+      "lead": "Benchmark",
+      "source": "http://greptile.com/blog/series-a"
+    },
+    {
+      "round": "Series B (not formally announced)",
+      "date": "2026-08",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.cbinsights.com/company/onboard-ai"
+    }
+  ],
+  "total_raised": "~$69.5M (CB Insights)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launches Plus and Apex review tiers that spend more time per PR",
+      "url": "https://www.greptile.com/blog/introducing-plus-and-apex"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Raises ~$40M Series B (per CB Insights; not formally announced)",
+      "url": "https://www.cbinsights.com/company/onboard-ai"
+    },
+    {
+      "date": "2026-01",
+      "headline": "CEO publishes 'There is an AI Code Review Bubble'",
+      "url": "https://www.greptile.com/blog/ai-code-review-bubble"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Raises $25M Series A led by Benchmark; launches Greptile v3",
+      "url": "http://greptile.com/blog/series-a"
+    }
+  ],
+  "competitors": [
+    "graphite",
+    "CodeRabbit",
+    "Cursor (Bugbot)",
+    "Sourcegraph"
+  ]
+}

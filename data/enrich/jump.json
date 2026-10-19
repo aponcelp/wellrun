@@ -1,0 +1,82 @@
+{
+  "slug": "jump",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Remote (US)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jordy Leiser",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.sportsbusinessjournal.com/Articles/2025/11/17/jump-ball-on-the-ground-with-jump-and-the-timberwolves/"
+    },
+    {
+      "name": "Marc Lore",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/sites/justinbirnbaum/2025/08/12/alex-rodriguezs-startup-jump-raises-23-million-in-quest-to-be-shopify-for-sports-teams"
+    },
+    {
+      "name": "Alex Rodriguez",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/sites/justinbirnbaum/2025/08/12/alex-rodriguezs-startup-jump-raises-23-million-in-quest-to-be-shopify-for-sports-teams"
+    },
+    {
+      "name": "David Blanke",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.sportsbusinessjournal.com/Articles/2025/11/17/jump-ball-on-the-ground-with-jump-and-the-timberwolves/"
+    },
+    {
+      "name": "Edward Khoury",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.sportsbusinessjournal.com/Articles/2025/11/17/jump-ball-on-the-ground-with-jump-and-the-timberwolves/"
+    },
+    {
+      "name": "Joel E. Resnicow",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.sportsbusinessjournal.com/Articles/2025/11/17/jump-ball-on-the-ground-with-jump-and-the-timberwolves/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Undisclosed round (reported $20-30M)",
+      "date": "2023-03",
+      "amount": null,
+      "valuation": null,
+      "lead": "Forerunner Ventures",
+      "source": "https://fortune.com/2023/03/01/a-rod-alex-rodriguez-ticketing-startup-jump-raises-30-million-ticketmaster-taylor-swift-fiasco"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-08",
+      "amount": "$23M",
+      "valuation": ">$100M",
+      "lead": "Seven Seven Six",
+      "source": "https://www.forbes.com/sites/justinbirnbaum/2025/08/12/alex-rodriguezs-startup-jump-raises-23-million-in-quest-to-be-shopify-for-sports-teams"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2025-09",
+      "amount": "$2M (to $25M total)",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.jump.com/articles/jump-series-a-expansion-ryan-tedder-25-million"
+    }
+  ],
+  "total_raised": "~$60M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

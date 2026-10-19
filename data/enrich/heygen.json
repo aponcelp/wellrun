@@ -1,0 +1,46 @@
+{
+  "slug": "heygen",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "Los Angeles, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Joshua Xu",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.heygen.com/about"
+    },
+    {
+      "name": "Wayne Liang",
+      "title": "Co-founder & Chief Innovation Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.bloomberg.com/news/articles/2024-06-20/ai-video-startup-heygen-valued-at-500-million-in-funding-round"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Venture",
+      "date": "2023-11",
+      "amount": "$5.6M",
+      "valuation": null,
+      "lead": "Conviction",
+      "source": "https://en.wikipedia.org/wiki/HeyGen"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-06",
+      "amount": "$60M",
+      "valuation": "$500M",
+      "lead": "Benchmark",
+      "source": "https://www.bloomberg.com/news/articles/2024-06-20/ai-video-startup-heygen-valued-at-500-million-in-funding-round"
+    }
+  ],
+  "total_raised": "$74M (Bloomberg, as of Jun 2024)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

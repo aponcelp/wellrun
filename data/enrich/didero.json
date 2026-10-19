@@ -1,0 +1,53 @@
+{
+  "slug": "didero",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Tim Spencer",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/"
+    },
+    {
+      "name": "Lorenz Pallhuber",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/"
+    },
+    {
+      "name": "Tom Petit",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-07",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.didero.ai/blog/introducing-didero-ai-procurement"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-02",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Chemistry, Headline",
+      "source": "https://www.prnewswire.com/news-releases/didero-raises-30m-series-a-to-bring-ai-agents-to-global-supply-chains-302686927.html"
+    }
+  ],
+  "total_raised": "~$37M ($7M seed + $30M Series A)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

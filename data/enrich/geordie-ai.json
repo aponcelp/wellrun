@@ -1,0 +1,60 @@
+{
+  "slug": "geordie-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "London, UK",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Henry Comfort",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.geordie.ai/about/"
+    },
+    {
+      "name": "Hanah-Marie Darley",
+      "title": "Co-founder & Chief AI Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.geordie.ai/about/"
+    },
+    {
+      "name": "Benji Weber",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.geordie.ai/about/"
+    },
+    {
+      "name": "Josh Kriss",
+      "title": "Chief Operating Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.geordie.ai/about/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-09",
+      "amount": "$6.5M",
+      "valuation": null,
+      "lead": "Ten Eleven Ventures, General Catalyst",
+      "source": "https://www.businesswire.com/news/home/20250909556381/en/Geordie-Exits-Stealth-with-$6.5M-in-Seed-Funding-to-Give-Enterprises-Control-Over-Agentic-AI"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-05",
+      "amount": "$30M",
+      "valuation": "~$180M post (Fortune estimate)",
+      "lead": "Balderton Capital",
+      "source": "https://fortune.com/2026/05/28/geordie-security-governance-ai-agents/"
+    }
+  ],
+  "total_raised": "$36.5M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

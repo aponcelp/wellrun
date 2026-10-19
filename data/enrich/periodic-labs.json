@@ -1,0 +1,74 @@
+{
+  "slug": "periodic-labs",
+  "checked": "Oct 19, 2026",
+  "founded": 2025,
+  "hq": "Menlo Park, CA",
+  "headcount_est": {
+    "value": "~95 LinkedIn profiles",
+    "as_of": "Oct 2026",
+    "source": "https://siliconvalleyinvestclub.com/companies/periodic/"
+  },
+  "leadership": [
+    {
+      "name": "Liam Fedus",
+      "title": "Co-founder (ex-OpenAI VP of Research)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://a16z.com/announcement/investing-in-periodic-labs/"
+    },
+    {
+      "name": "Ekin Dogus Cubuk",
+      "title": "Co-founder (ex-Google DeepMind materials lead)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://a16z.com/announcement/investing-in-periodic-labs/"
+    },
+    {
+      "name": "Kate Lauterbach",
+      "title": "Head of Operations (founding team)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/58ba85e0e4b0b138a445773c/periodic%20labs"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-09",
+      "amount": "$300M",
+      "valuation": "$1.3B (Bloomberg)",
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.wsgr.com/print/v2/content/49056668/Wilson-Sonsini-Advises-Periodic-Labs-on-%24300-Million-Seed-Round.pdf"
+    }
+  ],
+  "total_raised": "$300M (confirmed; a reported $500M+ round at ~$7.5B led by AMP was in talks as of May 2026, close not confirmed)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Releases Periodic Neon, a 1T-parameter model trained on its own lab data",
+      "url": "https://periodic.com/news/building-labs-that-learn"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Forbes: in advanced talks to raise $500M+ at $7.5B led by AMP",
+      "url": "https://www.forbes.com/sites/iainmartin/2026/05/07/former-openai-researcher-to-raise-500-million-for-ai-science-startup/"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Bloomberg: in talks to raise at about $7B valuation",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/ai-science-startup-periodic-labs-is-in-deal-talks-at-about-7-billion-valuation"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Launches with $300M seed led by a16z",
+      "url": "https://a16z.com/announcement/investing-in-periodic-labs/"
+    }
+  ],
+  "competitors": [
+    "lila-sciences",
+    "prometheus",
+    "Radical AI",
+    "CuspAI"
+  ]
+}

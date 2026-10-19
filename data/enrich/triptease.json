@@ -1,0 +1,69 @@
+{
+  "slug": "triptease",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2013,
+  "hq": "London, UK",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "James Osmond",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://app.welcometothejungle.com/companies/Triptease"
+    },
+    {
+      "name": "Charlie Osmond",
+      "title": "Co-founder & Chief Growth Officer",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/charlieo",
+      "source": "https://www.triptease.com/about-us"
+    },
+    {
+      "name": "Alasdair Snow",
+      "title": "Co-founder & Chief Product Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.triptease.com/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2015-02",
+      "amount": "$2M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.phocuswire.com/Triptease-adds-$4-milllion-in-funding-looks-to-Asia"
+    },
+    {
+      "round": "Series A",
+      "date": "2016-02",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": "Notion Capital and Episode 1 (investors)",
+      "source": "https://techcrunch.com/2016/02/18/triptease-series-a/"
+    },
+    {
+      "round": "Series B",
+      "date": "2017-04",
+      "amount": "$9M",
+      "valuation": null,
+      "lead": "BGF Ventures",
+      "source": "https://techcrunch.com/2017/04/05/triptease-a-london-startup-that-helps-hotels-increase-direct-sales-closes-9m-series-b/"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2018-06",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": "BGF and Notion Capital",
+      "source": "https://tech.eu/2018/06/26/triptease-raises-funds/"
+    }
+  ],
+  "total_raised": "~$22M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

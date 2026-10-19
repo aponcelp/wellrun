@@ -1,0 +1,38 @@
+{
+  "slug": "streamline-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "Burlingame, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Kathy Zhu",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/kathymzhu88",
+      "source": "https://streamline.ai/blog/series-a-funding-announcement"
+    },
+    {
+      "name": "Julian Wimbush",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.lawnext.com/2025/07/streamline-ai-founded-by-former-doordash-lawyer-closes-new-funding-round-to-automate-in-house-workflows.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-07",
+      "amount": "$8.6M",
+      "valuation": null,
+      "lead": "Blumberg Capital",
+      "source": "https://streamline.ai/blog/series-a-funding-announcement"
+    }
+  ],
+  "total_raised": "$14M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

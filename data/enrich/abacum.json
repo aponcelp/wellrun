@@ -1,0 +1,54 @@
+{
+  "slug": "abacum",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Julio Martínez",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.abacum.ai/newsroom/series-b-announcement"
+    },
+    {
+      "name": "Jorge Lluch",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://venturebeat.com/business/collaborative-financial-planning-and-analysis-platform-abacum-raises-25m"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-04",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.abacum.ai/blog/how-we-raised-25m-to-supercharge-finance-teams"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-11",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Atomico",
+      "source": "https://venturebeat.com/business/collaborative-financial-planning-and-analysis-platform-abacum-raises-25m"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-06",
+      "amount": "$60M",
+      "valuation": null,
+      "lead": "Scale Venture Partners",
+      "source": "https://www.abacum.ai/newsroom/series-b-announcement"
+    }
+  ],
+  "total_raised": "~$92M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

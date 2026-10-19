@@ -1,0 +1,46 @@
+{
+  "slug": "mate",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Harry Dixon",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/harryjdixon1",
+      "source": "https://www.einpresswire.com/article/933984816/mate-comes-out-of-b2b-stealth-with-700-top-brands-and-a-15m-run-rate-the-ai-growth-teammate-for-marketing-teams"
+    },
+    {
+      "name": "Rory Garton-Smith",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.heraldtribune.com/press-release/story/214566/mate-comes-out-of-b2b-stealth-with-700-top-brands-and-a-15m-run-rate-the-ai-growth-teammate-for-marketing-teams"
+    },
+    {
+      "name": "Elliot Rampono",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://bduckcapital.beehiiv.com/p/the-agent-is-the-new-storefront"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2023-05",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "GV",
+      "source": "https://www.gv.com/news/checkmate-a-breakthrough-in-digital-shopping"
+    }
+  ],
+  "total_raised": "$20M (company-stated, Aug 2026)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": [],
+  "note": "Legal entity Checkmate Intelligence Inc.; total per https://www.einpresswire.com/article/933984816/mate-comes-out-of-b2b-stealth-with-700-top-brands-and-a-15m-run-rate-the-ai-growth-teammate-for-marketing-teams"
+}

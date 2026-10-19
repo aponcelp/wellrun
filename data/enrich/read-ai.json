@@ -1,0 +1,61 @@
+{
+  "slug": "read-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Seattle, WA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "David Shim",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.read.ai/about"
+    },
+    {
+      "name": "Rob Williams",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.read.ai/about"
+    },
+    {
+      "name": "Elliott Waldron",
+      "title": "Co-founder & VP of Data Science",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.read.ai/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-09",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Madrona Venture Group",
+      "source": "https://techcrunch.com/2021/09/29/read-ai-raises-10m-creates-virtual-meeting-dashboard-to-show-you-when-you-talk-too-much/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-04",
+      "amount": "$21M",
+      "valuation": null,
+      "lead": "Goodwater Capital",
+      "source": "https://www.businessinsider.com/pitch-deck-gen-ai-startup-read-ai-raise-21-million-2024-4"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-10",
+      "amount": "$50M",
+      "valuation": "$450M",
+      "lead": "Smash Capital",
+      "source": "https://www.reuters.com/technology/artificial-intelligence/ai-startup-read-announces-new-funding-450-mln-valuation-2024-10-28/"
+    }
+  ],
+  "total_raised": "$81M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

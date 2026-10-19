@@ -1,0 +1,46 @@
+{
+  "slug": "pointone",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Katon Luaces",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://pointone.com/authors/katon-luaces"
+    },
+    {
+      "name": "Jeremy Ben-Meir",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://8vc.com/resources/fixing-the-missing-layer-in-legal-ai-introducing-pointone"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-07",
+      "amount": "$3.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://pointone.com/news/seed-round"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-03",
+      "amount": "$16M",
+      "valuation": null,
+      "lead": "8VC",
+      "source": "http://pointone.com/news/pointone-raises-16-million-series-a"
+    }
+  ],
+  "total_raised": "$20M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

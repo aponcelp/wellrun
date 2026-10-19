@@ -1,0 +1,53 @@
+{
+  "slug": "notch",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Rafael Broshi",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.notch.cx/llm-information"
+    },
+    {
+      "name": "Yuval Peled",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.notch.cx/llm-information"
+    },
+    {
+      "name": "Elool Jacoby",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.notch.cx/llm-information"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "pre-2026",
+      "amount": "$7M (per Well Run board note; implied by $45M total)",
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://www.globenewswire.com/news-release/2026/03/25/3262061/0/en/notch-raises-30-million-to-bring-production-ready-ai-agents-to-regulated-industries.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-03",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Headline",
+      "source": "https://www.globenewswire.com/news-release/2026/03/25/3262061/0/en/notch-raises-30-million-to-bring-production-ready-ai-agents-to-regulated-industries.html"
+    }
+  ],
+  "total_raised": "$45M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

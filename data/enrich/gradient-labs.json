@@ -1,0 +1,53 @@
+{
+  "slug": "gradient-labs",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "London, UK",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Dimitri Masin",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/dimitrimasin",
+      "source": "https://gradient-labs.ai/about"
+    },
+    {
+      "name": "Neal Lathia",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://gradient-labs.ai/about"
+    },
+    {
+      "name": "Danai Antoniou",
+      "title": "Co-founder & Chief Scientist",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://gradient-labs.ai/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-04",
+      "amount": "$13M",
+      "valuation": null,
+      "lead": "Redpoint Ventures",
+      "source": "https://gradient-labs.ai/blog/series-a-announcement"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2026-06",
+      "amount": "$13M",
+      "valuation": null,
+      "lead": "Octopus Ventures, CommerzVentures",
+      "source": "https://gradient-labs.ai/blog/weve-raised-26m-to-bring-autonomous-customer-operations-to-financial-services"
+    }
+  ],
+  "total_raised": "~$30M (per Tech.eu)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

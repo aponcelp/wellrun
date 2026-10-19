@@ -1,0 +1,46 @@
+{
+  "slug": "eventual",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Sammy Sidhu",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.gunder.com/en/news-insights/client-news/eventual-announces-series-a-led-by-felicis-and-seed-led-by-crv"
+    },
+    {
+      "name": "Jay Chia",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://felicis.com/blog/investing-in-eventual"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024",
+      "amount": "$7.5M",
+      "valuation": null,
+      "lead": "CRV",
+      "source": "https://techcrunch.com/2025/06/24/how-a-data-processing-problem-at-lyft-became-the-basis-for-eventual/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-06",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Felicis",
+      "source": "https://www.eventual.ai/blog/eventual-raises-30m-to-build-the-future-of-data"
+    }
+  ],
+  "total_raised": "$30M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

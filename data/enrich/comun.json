@@ -1,0 +1,54 @@
+{
+  "slug": "comun",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Andrés Santos",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.comun.app/en/about-us"
+    },
+    {
+      "name": "Abiel Gutierrez",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.costanoa.vc/portfolio/comun"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-02",
+      "amount": "$4.5M",
+      "valuation": null,
+      "lead": "Costanoa Ventures",
+      "source": "https://www.businesswire.com/news/home/20230214005030/en/Comun-Raises-$4.5M-to-Promote-Financial-Inclusion-with-Latino-First-Approach-to-Banking"
+    },
+    {
+      "round": "Seed extension",
+      "date": "2023-12",
+      "amount": "$4.5M",
+      "valuation": null,
+      "lead": "Costanoa Ventures",
+      "source": "https://techcrunch.com/2023/12/12/comun-local-banking-latino-immigrants-fintech/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-08",
+      "amount": "$21.5M",
+      "valuation": null,
+      "lead": "Redpoint Ventures",
+      "source": "https://techcrunch.com/2024/08/28/fast-growing-neobank-comun-raised-21-5m-just-months-after-its-last-raise/"
+    }
+  ],
+  "total_raised": "$30.5M through 2024 (Crain's); company LinkedIn now says $40M (later round not verified)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

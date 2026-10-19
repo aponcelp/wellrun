@@ -1,0 +1,80 @@
+{
+  "slug": "go-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "Chicago, IL",
+  "headcount_est": {
+    "value": "50+ (company-stated)",
+    "as_of": "Sep 2026",
+    "source": "https://www.businesswire.com/news/home/20260922352774/en/Go.AI-Raises-%2485-Million-Series-A-to-Accelerate-On-Prem-AI-Infrastructure-for-Regulated-Industries"
+  },
+  "leadership": [
+    {
+      "name": "David Moscatelli",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://go.ai/company/about"
+    },
+    {
+      "name": "Lisa Gillespie",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://go.ai/company/press/series-a-funding"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-11",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "GFT Ventures",
+      "source": "https://go.ai/company/press/seed-round-announcement"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$85M",
+      "valuation": null,
+      "lead": "Updata Partners",
+      "source": "https://go.ai/company/press/series-a-funding"
+    }
+  ],
+  "total_raised": "$90M (company-stated)",
+  "revenue_est": {
+    "value": "~$7M ARR (up from $1M during 2025)",
+    "as_of": "Dec 2025",
+    "basis": "company-stated",
+    "source": "https://www.linkedin.com/posts/goabacus_in-2025-abacus-went-from-1m-to-7m-activity-7407068424851451904-P9pS"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raises $85M Series A led by Updata Partners",
+      "url": "https://go.ai/company/press/series-a-funding"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Go Abacus rebrands as Go.AI alongside Go1 on-prem AI appliance",
+      "url": "https://www.businesswire.com/news/home/20260901283829/en/Go-Abacus-Corporation-is-Now-Go.AI"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Opens new Chicago headquarters at 111 South Wacker",
+      "url": "https://www.businesswire.com/news/home/20260728471951/en/Go-Abacus-Opens-New-Chicago-Headquarters-to-Support-Continued-Growth"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Raises $5M seed led by GFT Ventures",
+      "url": "https://go.ai/company/press/seed-round-announcement"
+    }
+  ],
+  "competitors": [
+    "cohere",
+    "Dell AI Factory",
+    "IBM watsonx",
+    "Microsoft Copilot"
+  ]
+}

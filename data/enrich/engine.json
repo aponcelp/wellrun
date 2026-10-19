@@ -1,0 +1,54 @@
+{
+  "slug": "engine",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2015,
+  "hq": "Denver, CO",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Elia Wallen",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://engine.com/ai-information"
+    },
+    {
+      "name": "Florent Silve",
+      "title": "EVP, Supply & Strategy",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.engine.com/press"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2019-09",
+      "amount": "$16M",
+      "valuation": "~$150M",
+      "lead": "Telescope Partners",
+      "source": "https://engine.com/blog/hotel-engine-raises-16-million-in-series-a-funding-after-4-years-of-bootstrapped-growth"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-12",
+      "amount": "$65M",
+      "valuation": "$1.3B",
+      "lead": "Telescope Partners",
+      "source": "https://engine.com/blog/hotel-engine-series-b"
+    },
+    {
+      "round": "Series C",
+      "date": "2024-09",
+      "amount": "$140M",
+      "valuation": "$2.1B",
+      "lead": "Permira Growth Opportunities II",
+      "source": "https://www.permira.com/news-and-insights/announcements/hotel-engine-achieves-21b-valuation-with-140m-permira-investment"
+    }
+  ],
+  "total_raised": "$200M+ (per CEO's Forbes Councils bio)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

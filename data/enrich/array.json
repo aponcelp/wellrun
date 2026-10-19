@@ -1,0 +1,40 @@
+{
+  "slug": "array",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Martin Toha",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/martintoha",
+      "source": "http://array.com/company/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.businessinsider.com/fintech-unicorn-array-misled-investors-former-exec-says-2022-4"
+    },
+    {
+      "round": "Series B",
+      "date": "2021",
+      "amount": null,
+      "valuation": "$1.5B (per lawsuit filing)",
+      "lead": null,
+      "source": "https://www.businessinsider.com/fintech-unicorn-array-misled-investors-former-exec-says-2022-4"
+    }
+  ],
+  "total_raised": "$67M (per Finovate, Apr 2023)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": [],
+  "note": "Array has not publicly announced its rounds; amounts in aggregators conflict ($67M-$190M)."
+}

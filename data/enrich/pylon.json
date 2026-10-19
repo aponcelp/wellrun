@@ -1,0 +1,61 @@
+{
+  "slug": "pylon",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Marty Kausas",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2024/08/28/pylon-lands-17m-investment-to-build-a-full-service-b2b-customer-service-platform"
+    },
+    {
+      "name": "Robert Eng",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://a16z.com/announcement/investing-in-pylon/"
+    },
+    {
+      "name": "Advith Chelikani",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://a16z.com/announcement/investing-in-pylon/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-07",
+      "amount": "$3.2M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://techcrunch.com/2023/07/11/pylon-wants-to-make-it-easier-to-manage-b2b-conversations-in-slack/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-08",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.usepylon.com/blog/pylon-raises-17m-series-a-led-by-andreessen-horowitz"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-08",
+      "amount": "$31M",
+      "valuation": null,
+      "lead": "a16z, Bain Capital Ventures",
+      "source": "https://www.usepylon.com/blog/announcing-our-31m-series-b"
+    }
+  ],
+  "total_raised": "$51M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

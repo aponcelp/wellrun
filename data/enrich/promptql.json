@@ -1,0 +1,62 @@
+{
+  "slug": "promptql",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Tanmai Gopal",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2022/02/22/graphql-developer-platform-hasura-raises-100m-series-c/"
+    },
+    {
+      "name": "Rajoshi Ghosh",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2022/02/22/graphql-developer-platform-hasura-raises-100m-series-c/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (as Hasura)",
+      "date": "2019-01",
+      "amount": "$1.6M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://pitchbook.com/profiles/company/174523-69"
+    },
+    {
+      "round": "Series A (as Hasura)",
+      "date": "2020-02",
+      "amount": "$9.9M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://pitchbook.com/profiles/company/174523-69"
+    },
+    {
+      "round": "Series B (as Hasura)",
+      "date": "2020-09",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "http://hasura.io/blog/announcing-our-series-b-25m-financing"
+    },
+    {
+      "round": "Series C (as Hasura)",
+      "date": "2022-02",
+      "amount": "$100M",
+      "valuation": "$1B",
+      "lead": "Greenoaks",
+      "source": "https://techcrunch.com/2022/02/22/graphql-developer-platform-hasura-raises-100m-series-c/"
+    }
+  ],
+  "total_raised": "$136.5M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "outset",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Aaron Cannon",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://outset.ai/official-outset-company-information"
+    },
+    {
+      "name": "Michael Hess",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://outset.ai/official-outset-company-information"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-06",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "8VC",
+      "source": "https://www.globenewswire.com/news-release/2025/06/11/3097668/0/en/startup-outset-raises-17m-series-a-to-help-enterprises-scale-accelerate-customer-research-with-ai-agent-led-interviews.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-12",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Radical Ventures",
+      "source": "https://www.globenewswire.com/news-release/2025/12/10/3203401/0/en/outset-secures-30-million-series-b-to-launch-the-world-s-first-ai-native-customer-experience-management-platform.html"
+    }
+  ],
+  "total_raised": "$51M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

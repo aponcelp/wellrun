@@ -1,0 +1,75 @@
+{
+  "slug": "attention",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Anis Bennaceur",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/06/23/3315763/0/en/Attention-Raises-30-Million-Series-B.html"
+    },
+    {
+      "name": "Matthias Wickenburg",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/06/23/3315763/0/en/Attention-Raises-30-Million-Series-B.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-01",
+      "amount": "$3.1M",
+      "valuation": null,
+      "lead": "Eniac Ventures",
+      "source": "https://techcrunch.com/2023/01/09/attention"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-10",
+      "amount": "$14M",
+      "valuation": null,
+      "lead": "Alven",
+      "source": "https://www.businessinsider.com/attention-series-a-analyze-sales-calls-ai-2024-10"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-06",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "RTP Global",
+      "source": "https://www.globenewswire.com/news-release/2026/06/23/3315763/0/en/Attention-Raises-30-Million-Series-B.html"
+    }
+  ],
+  "total_raised": "~$47M (sum of disclosed rounds)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Ranked #1 AI-first GTM vendor by adoption on Ramp's spend data (34%)",
+      "url": "https://ramp.com/vendors/categories/ai-first-gtm-agentic-systems"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Raises $30M Series B led by RTP Global; 500+ customers, ARR up 4x",
+      "url": "https://www.globenewswire.com/news-release/2026/06/23/3315763/0/en/Attention-Raises-30-Million-Series-B.html"
+    },
+    {
+      "date": "2026-06",
+      "headline": "CEO open-sources a stripped-down version of the product, draws 500+ requests",
+      "url": "https://www.globenewswire.com/news-release/2026/06/23/3315763/0/en/Attention-Raises-30-Million-Series-B.html"
+    }
+  ],
+  "competitors": [
+    "Gong",
+    "Clari",
+    "Avoma",
+    "Momentum",
+    "Sybill"
+  ]
+}

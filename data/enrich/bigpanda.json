@@ -1,0 +1,79 @@
+{
+  "slug": "bigpanda",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2012,
+  "hq": "Mountain View, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Assaf Resnick",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/assafresnick",
+      "source": "https://www.bigpanda.io/leadership/assaf-resnick"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2014-10",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": "Sequoia and Mayfield (investors)",
+      "source": "https://app.dealroom.co/companies/bigpanda"
+    },
+    {
+      "round": "Series B",
+      "date": "2015-12",
+      "amount": "$16M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://tracxn.com/d/companies/bigpanda/__WUzKLUpTSEm6x1hshS09GQQtQFLEKvqmbaWcUgB_4nA/funding-and-investors"
+    },
+    {
+      "round": "Series B ext.",
+      "date": "2016-05",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "Pelion Venture Partners",
+      "source": "https://tracxn.com/d/companies/bigpanda/__WUzKLUpTSEm6x1hshS09GQQtQFLEKvqmbaWcUgB_4nA/funding-and-investors"
+    },
+    {
+      "round": "Series B ext.",
+      "date": "2017-11",
+      "amount": "$23M",
+      "valuation": null,
+      "lead": "Greenfield Partners",
+      "source": "https://tracxn.com/d/companies/bigpanda/__WUzKLUpTSEm6x1hshS09GQQtQFLEKvqmbaWcUgB_4nA/funding-and-investors"
+    },
+    {
+      "round": "Series C",
+      "date": "2019-11",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://tracxn.com/d/companies/bigpanda/__WUzKLUpTSEm6x1hshS09GQQtQFLEKvqmbaWcUgB_4nA/funding-and-investors"
+    },
+    {
+      "round": "Series D",
+      "date": "2022-01",
+      "amount": "$190M",
+      "valuation": "$1.2B",
+      "lead": "Advent International and Insight Partners",
+      "source": "https://techcrunch.com/2022/01/12/bigpandas-gets-its-horn-after-securing-190m-in-fresh-capital"
+    },
+    {
+      "round": "Series E (extension)",
+      "date": "2022-08",
+      "amount": "$20M",
+      "valuation": "$1.2B",
+      "lead": "UBS Next and Wells Fargo Strategic Capital",
+      "source": "https://techcrunch.com/2022/08/17/aiops-startup-bigpanda-raises-series-e-extension-bringing-its-total-capital-to-340m/"
+    }
+  ],
+  "total_raised": "$340M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "arcana",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~361 (LinkedIn); 254 (PitchBook)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/arcanaanalytics"
+  },
+  "leadership": [
+    {
+      "name": "Rich Falk-Wallace",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/rich-falk-wallace",
+      "source": "https://www.businesswire.com/news/home/20260921054484/en/Arcana-Appoints-Former-Goldman-Sachs-Executive-Rhys-Williams-as-Head-of-EMEA"
+    },
+    {
+      "name": "Siva Sooriyan",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/58dc0d79e4b0e8400e2e370c/arcana"
+    },
+    {
+      "name": "Rhys Williams",
+      "title": "Head of EMEA",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260921054484/en/Arcana-Appoints-Former-Goldman-Sachs-Executive-Rhys-Williams-as-Head-of-EMEA"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": "~$5.3M",
+      "valuation": null,
+      "lead": "D1 Capital Partners, Abstract",
+      "source": "https://www.crunchbase.com/funding_round/arcanaanalytics-undisclosed--0d4528f6"
+    },
+    {
+      "round": "Series A-4",
+      "date": "2025-10",
+      "amount": "$3.04M",
+      "valuation": "$340.6M",
+      "lead": null,
+      "source": "https://forgeglobal.com/arcana_ipo/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-04",
+      "amount": "$17.27M",
+      "valuation": "$505.5M",
+      "lead": null,
+      "source": "https://forgeglobal.com/arcana_ipo/"
+    }
+  ],
+  "total_raised": "~$36M (Forge)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches Arcana inside Anthropic's Claude",
+      "url": "https://finance.yahoo.com/technology/ai/articles/arcana-brings-institutional-portfolio-intelligence-133000158.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Hires ex-Goldman Sachs exec Rhys Williams as Head of EMEA",
+      "url": "https://www.businesswire.com/news/home/20260921054484/en/Arcana-Appoints-Former-Goldman-Sachs-Executive-Rhys-Williams-as-Head-of-EMEA"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Partners with Hurricane Capital to power portfolio intelligence",
+      "url": "https://www.businesswire.com/news/home/20260917742284/en/Arcana-Partners-with-Hurricane-Capital-to-Power-Portfolio-Intelligence-Across-Its-Investment-Platform"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launches iOS app; says 300+ institutions with $20T+ AUM use Arcana",
+      "url": "https://ffspotlight.com/news/arcana-launches-ios-app-bringing-portfolio-intelligence-to-hedge-funds-and-asset-6ffe8561"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Raises ~$17M Series B at ~$505M post-money (Forge)",
+      "url": "https://forgeglobal.com/arcana_ipo/"
+    }
+  ],
+  "competitors": [
+    "MSCI (Barra)",
+    "SimCorp Axioma",
+    "Bloomberg PORT",
+    "FactSet"
+  ]
+}

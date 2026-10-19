@@ -1,0 +1,39 @@
+{
+  "slug": "ando",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Sara Du",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/09/24/3368344/0/en/ando-launches-agent-native-messaging-platform-announces-20-million-seed.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": null,
+      "amount": null,
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://www.accel.com/news/our-investment-in-ando-modern-messaging-for-teams-and-agents"
+    },
+    {
+      "round": "Seed",
+      "date": "2026-09",
+      "amount": null,
+      "valuation": null,
+      "lead": "Index Ventures, Emergence Capital",
+      "source": "https://www.accel.com/news/our-investment-in-ando-modern-messaging-for-teams-and-agents"
+    }
+  ],
+  "total_raised": "$20M (pre-seed + seed combined)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

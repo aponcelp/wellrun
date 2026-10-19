@@ -1,0 +1,87 @@
+{
+  "slug": "cogent-security",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~107 (Tracxn)",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/59040075e4b0a9f300ee4f09/cogent"
+  },
+  "leadership": [
+    {
+      "name": "Vineet Edupuganti",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://cogent.com/about-us"
+    },
+    {
+      "name": "Geng Sng",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://cogent.com/about-us"
+    },
+    {
+      "name": "Thanos Baskous",
+      "title": "Co-founder & VP Engineering",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://cogent.com/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-07",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": "Greylock Partners",
+      "source": "https://www.cogent.com/blog/introducing-cogent-security"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-02",
+      "amount": "$42M",
+      "valuation": "$320M (Forbes, Jul 2026)",
+      "lead": "Bain Capital Ventures",
+      "source": "https://www.prnewswire.com/news-releases/cogent-security-raises-42m-series-a-to-arm-security-teams-with-autonomous-ai-agents-302691566.html"
+    }
+  ],
+  "total_raised": "$53M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches Attack Path Analysis; report on AI-agent-only attack paths",
+      "url": "https://www.prnewswire.com/news-releases/cogent-launches-attack-path-analysis-to-counter-rogue-ai-agent-swarms-302902533.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Unveils VR-1, a frontier model trained for cybersecurity tasks",
+      "url": "https://www.prnewswire.com/news-releases/cogent-unveils-vr-1-the-first-mythos-class-frontier-ai-model-trained-specifically-to-excel-at-cybersecurity-tasks-302835231.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Named to Forbes Next Billion-Dollar Startups list ($320M valuation)",
+      "url": "https://www.forbes.com/sites/richardnieva/2026/07/28/next-billion-dollar-startups-2026/"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Launches Zero Day Response and Autonomous Remediation",
+      "url": "https://www.prnewswire.com/news-releases/cogent-launches-zero-day-response-and-autonomous-remediation-closing-the-gap-between-vulnerability-disclosure-and-confirmed-fix-302783112.html"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Raises $42M Series A led by Bain Capital Ventures, six months after launch",
+      "url": "https://fortune.com/2026/02/18/exclusive-bain-and-greylock-bet-42-million-that-ai-agents-can-finally-fix-cybersecuritys-messiest-bottleneck/"
+    }
+  ],
+  "competitors": [
+    "Vulcan Cyber (Tenable)",
+    "Nucleus Security",
+    "Zafran",
+    "Seemplicity"
+  ]
+}

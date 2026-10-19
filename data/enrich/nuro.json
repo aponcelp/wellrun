@@ -1,0 +1,54 @@
+{
+  "slug": "nuro",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "Mountain View, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jiajun Zhu",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/04/09/nuros-106m-raise-backs-its-shift-from-delivery-robots-to-licensing-autonomy-tech"
+    },
+    {
+      "name": "Dave Ferguson",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20250821665495/en/Nuro-Closes-$203-Million-Series-E-Financing-to-Advance-Its-AI-First-Self-Driving-Technology-and-Commercial-Partnerships"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series D",
+      "date": "2021",
+      "amount": null,
+      "valuation": "$8.6B (PitchBook via Reuters)",
+      "lead": null,
+      "source": "https://www.reuters.com/business/autos-transportation/self-driving-vehicle-startup-nuro-valued-6-billion-late-stage-funding-round-2025-08-21/"
+    },
+    {
+      "round": "Series E (tranche 1)",
+      "date": "2025-04",
+      "amount": "$106M",
+      "valuation": "$6B",
+      "lead": "T. Rowe Price, Fidelity, Tiger Global (participants)",
+      "source": "https://techcrunch.com/2025/04/09/nuros-106m-raise-backs-its-shift-from-delivery-robots-to-licensing-autonomy-tech"
+    },
+    {
+      "round": "Series E (close)",
+      "date": "2025-08",
+      "amount": "$97M (total E $203M)",
+      "valuation": "$6B",
+      "lead": "Uber, NVIDIA (new strategic)",
+      "source": "https://www.businesswire.com/news/home/20250821665495/en/Nuro-Closes-$203-Million-Series-E-Financing-to-Advance-Its-AI-First-Self-Driving-Technology-and-Commercial-Partnerships"
+    }
+  ],
+  "total_raised": "$2.3B+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "fleet-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Nicolai Ouporov",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/nicolas-ouporov",
+      "source": "https://www.fleetai.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-2025",
+      "amount": "~$15M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.paraform.com/share/fleet-ai/cmddwo45k0007jm04f9rne79f"
+    },
+    {
+      "round": "Series A (reported, unannounced)",
+      "date": "2026-04",
+      "amount": "$45M",
+      "valuation": "$725M (reported)",
+      "lead": "Insiders: Sequoia, Bain Capital Ventures, Menlo, SV Angel",
+      "source": "https://runtimewire.com/article/fleet-raises-45m-series-a-725m"
+    }
+  ],
+  "total_raised": "~$60M (reported; seed ~$15M + $45M A)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

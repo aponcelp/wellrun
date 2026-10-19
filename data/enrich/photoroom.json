@@ -1,0 +1,46 @@
+{
+  "slug": "photoroom",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "Paris, France",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Matthieu Rouif",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2024/02/27/confirmed-photoroom-the-ai-image-editor-raised-43m-at-a-500m-valuation"
+    },
+    {
+      "name": "Eliot Andres",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2024/02/27/confirmed-photoroom-the-ai-image-editor-raised-43m-at-a-500m-valuation"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2022-11",
+      "amount": "$19M",
+      "valuation": null,
+      "lead": "Balderton Capital",
+      "source": "https://www.balderton.com/news/photoroom-secures-43m-in-series-b-funding-launches-next-generation-ai-photo-editing-features-for-businesses/"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-02",
+      "amount": "$43M",
+      "valuation": "$500M",
+      "lead": "Balderton Capital, Aglaé",
+      "source": "https://techcrunch.com/2024/02/27/confirmed-photoroom-the-ai-image-editor-raised-43m-at-a-500m-valuation"
+    }
+  ],
+  "total_raised": "$64M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

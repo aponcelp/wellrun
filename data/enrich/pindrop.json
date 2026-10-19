@@ -1,0 +1,77 @@
+{
+  "slug": "pindrop",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2011,
+  "hq": "Atlanta, GA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Vijay Balasubramaniyan",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/vijayab",
+      "source": "https://www.pindrop.com/company/"
+    },
+    {
+      "name": "Paul Judge",
+      "title": "Co-founder & Executive Chairman",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.pindrop.com/company/"
+    },
+    {
+      "name": "Mustaque Ahamad",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.pindrop.com/company/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2012-05",
+      "amount": "$1M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.vcnewsdaily.com/Pindrop%20Security/venture-funding.php"
+    },
+    {
+      "round": "Series B",
+      "date": "2015-02",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.vcnewsdaily.com/Pindrop%20Security/venture-funding.php"
+    },
+    {
+      "round": "Series C",
+      "date": "2016-01",
+      "amount": "$75M",
+      "valuation": null,
+      "lead": "Google Capital",
+      "source": "https://www.eweek.com/security/pindrop-raises-75m-to-advance-tech-to-fight-phone-fraud/"
+    },
+    {
+      "round": "Series D",
+      "date": "2018-12",
+      "amount": "$90M",
+      "valuation": null,
+      "lead": "Vitruvian Partners",
+      "source": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/pindrop-raises-90-million-series-d-to-fuel-global-expansion"
+    },
+    {
+      "round": "Debt",
+      "date": "2024-07",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": "Hercules Capital",
+      "source": "https://techcrunch.com/2024/07/17/deepfake-detecting-firm-pindrop-lands-100m-loan-to-grow-its-offerings/"
+    }
+  ],
+  "total_raised": "~$235M equity (TechCrunch, Jul 2024) + $100M debt",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

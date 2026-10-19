@@ -1,0 +1,39 @@
+{
+  "slug": "commas",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Yash Daftary",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/ydaftary",
+      "source": "https://www.prnewswire.com/news-releases/commas-the-platform-quietly-powering-billions-in-online-sales-opens-to-everyone-as-ai-pushes-millions-to-earn-online-302824601.html"
+    },
+    {
+      "name": "Alisha Mody",
+      "title": "Co-founder & Chief Product Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/left-lane-capital_commas-the-platform-quietly-powering-billions-activity-7482863994417000448-9mmx"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-05",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Left Lane Capital",
+      "source": "https://www.linkedin.com/posts/ydaftary_inside-the-rise-of-the-creator-ceo-movement-activity-7330674524071342084-HtcA"
+    }
+  ],
+  "total_raised": "~$20M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": [],
+  "note": "Formerly FanBasis; rebranded Commas Jul 2026."
+}

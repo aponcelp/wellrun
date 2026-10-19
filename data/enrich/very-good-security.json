@@ -1,0 +1,62 @@
+{
+  "slug": "very-good-security",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Chuck Yu",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.verygoodsecurity.com/about-us"
+    },
+    {
+      "name": "Marshall Jones",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.verygoodsecurity.com/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2016",
+      "amount": null,
+      "valuation": null,
+      "lead": "Vertex Ventures US",
+      "source": "https://medium.com/vertexventures/extending-our-relationship-with-vgs-4730324530b5"
+    },
+    {
+      "round": "Series A",
+      "date": "2018-08",
+      "amount": "$8.5M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.verygoodsecurity.com/press-releases/andreessen-horowitz-leads-usd8-5-million-investment-in-very-good-security"
+    },
+    {
+      "round": "Series B",
+      "date": "2019-10",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Goldman Sachs",
+      "source": "https://www.crn.com/news/security/data-security-startup-very-good-security-raises-35-million-to-grow"
+    },
+    {
+      "round": "Series C",
+      "date": "2020-12",
+      "amount": "$60M",
+      "valuation": null,
+      "lead": "Vertex Ventures US",
+      "source": "https://www.verygoodsecurity.com/press-releases/series-c-funding-announcement"
+    }
+  ],
+  "total_raised": "~$105M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

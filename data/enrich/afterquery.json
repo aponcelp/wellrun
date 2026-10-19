@@ -1,0 +1,102 @@
+{
+  "slug": "afterquery",
+  "checked": "Oct 19, 2026",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~90 full-time employees",
+    "as_of": "Sep 2026",
+    "source": "https://wrangle.ai/blogs/how-afterquery-doubled-its-internal-team-with-wrangle"
+  },
+  "leadership": [
+    {
+      "name": "Spencer Mateega",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.afterquery.com/about"
+    },
+    {
+      "name": "Carlos Georgescu",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.afterquery.com/about"
+    },
+    {
+      "name": "Danny Tang",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.afterquery.com/about"
+    },
+    {
+      "name": "Jake Seaton",
+      "title": "Head of Revenue (Column founder)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/jake-seaton-a80654a7_i-am-leading-revenue-at-afterquery-to-help-activity-7452135738063872000-nnci"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed (Y Combinator W25)",
+      "date": "2025-03",
+      "amount": "$500K",
+      "valuation": null,
+      "lead": "Y Combinator, BoxGroup",
+      "source": "https://genaidaily.com/afterquery-reaches-3-2b-valuation-as-y-combinators-fastest-unicorn/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-04",
+      "amount": "$30M",
+      "valuation": "$300M",
+      "lead": "Altos Ventures",
+      "source": "https://www.businesswire.com/news/home/20260409469482/en/AfterQuery-Raises-%2430-Million-Series-A-Round-at-%24300-Million-Valuation"
+    },
+    {
+      "round": "Unannounced round (reported)",
+      "date": "2026-09",
+      "amount": null,
+      "valuation": "$3.2B",
+      "lead": null,
+      "source": "https://www.forbes.com/sites/annatong/2026/09/01/afterquery-becomes-ycs-fastest-unicorn-at-32-billion"
+    }
+  ],
+  "total_raised": "~$30.5M disclosed (Sep 2026 round amount undisclosed)",
+  "revenue_est": {
+    "value": "'Hundreds of millions' in recurring revenue; profitable (from $100M+ run rate in Apr 2026)",
+    "as_of": "Jul 2026",
+    "basis": "company-stated (CEO post, via Forbes)",
+    "source": "https://www.forbes.com/sites/annatong/2026/09/01/afterquery-becomes-ycs-fastest-unicorn-at-32-billion"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Publishes study: 500 expert tasks lifted Qwen coding benchmark scores",
+      "url": "https://streamlinefeed.co.ke/news/afterquery-expert-data-ai-coding-benchmark"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Reportedly valued at $3.2B, YC's fastest-ever unicorn",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "CEO says revenue has grown 'multiples past' $100M run rate",
+      "url": "https://www.linkedin.com/posts/spencermateega_afterquery-is-quickly-closing-the-gap-on-activity-7482091043329384448-L219"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Raises $30M Series A at $300M led by Altos; passes $100M run rate",
+      "url": "https://www.businesswire.com/news/home/20260409469482/en/AfterQuery-Raises-%2430-Million-Series-A-Round-at-%24300-Million-Valuation"
+    }
+  ],
+  "competitors": [
+    "mercor",
+    "surge-ai",
+    "scale-ai",
+    "Turing"
+  ]
+}

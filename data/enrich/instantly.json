@@ -1,0 +1,37 @@
+{
+  "slug": "instantly",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Sheridan, WY (registered)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Nils Schneider",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/nils-schneider",
+      "source": "https://instantly.ai/llms.txt"
+    },
+    {
+      "name": "Raul Kaevand",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://instantly.ai/llms.txt"
+    },
+    {
+      "name": "Reio Suun",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://instantly.ai/llms.txt"
+    }
+  ],
+  "funding_history": [],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": [],
+  "note": "Bootstrapped; no institutional rounds (https://instantly.ai/llms.txt)"
+}

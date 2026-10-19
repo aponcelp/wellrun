@@ -1,0 +1,46 @@
+{
+  "slug": "hyperbound",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Sriharsha Guduguntla",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.hyperbound.ai/blog/series-a"
+    },
+    {
+      "name": "Atul Raghunathan",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/hyperbound-fc9e"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (YC + angels)",
+      "date": "2023",
+      "amount": null,
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://www.ycombinator.com/companies/hyperbound"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-09",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Peak XV Partners",
+      "source": "https://www.hyperbound.ai/blog/series-a"
+    }
+  ],
+  "total_raised": "$18.3M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

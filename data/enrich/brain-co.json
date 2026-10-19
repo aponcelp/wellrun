@@ -1,0 +1,66 @@
+{
+  "slug": "brain-co",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Dan Ashton",
+      "title": "Co-founder & CEO (per Crunchbase)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/brain-co"
+    },
+    {
+      "name": "Eric Wu",
+      "title": "Co-founder & Chairman",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://brain.co/blog/introducing-brain-co-9gk9a"
+    },
+    {
+      "name": "Elad Gil",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/brain-co"
+    },
+    {
+      "name": "Jared Kushner",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/sites/giacomotognini/2025/09/10/jared-kushners-new-startup-helps-businesses-figure-out-how-to-use-ai/"
+    },
+    {
+      "name": "Mircea Pasoi",
+      "title": "Co-founder, Head of Engineering",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://brain.co/blog/introducing-brain-co-9gk9a"
+    },
+    {
+      "name": "Revant Kapoor",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://brain.co/blog/introducing-brain-co-9gk9a"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-09",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Gil Capital, Affinity Partners",
+      "source": "https://www.prnewswire.com/news-releases/brain-co-launches-from-stealth-with-30-million-series-a-302554423.html"
+    }
+  ],
+  "total_raised": "$30M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

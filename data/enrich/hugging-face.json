@@ -1,0 +1,85 @@
+{
+  "slug": "hugging-face",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Clément Delangue",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+    },
+    {
+      "name": "Julien Chaumond",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/hugging-face"
+    },
+    {
+      "name": "Thomas Wolf",
+      "title": "Co-founder & Chief Science Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Hugging_Face"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2018",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.maddyness.com/uk/2026/09/04/hugging-face-three-french-founders-become-billionaires-but-no-french-vc-fund-on-the-cap-table/"
+    },
+    {
+      "round": "Series A",
+      "date": "2019-12",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.maddyness.com/uk/2026/09/04/hugging-face-three-french-founders-become-billionaires-but-no-french-vc-fund-on-the-cap-table/"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-03",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "Addition (Lee Fixel)",
+      "source": "https://tracxn.com/d/companies/hugging-face/___89yhA9z0-ZrLstW87xWDVe15Bkl70IZOkQf38SXzmQ/funding-and-investors"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-04",
+      "amount": "$100M",
+      "valuation": "$2B",
+      "lead": "Lux Capital",
+      "source": "https://www.maddyness.com/uk/2026/09/04/hugging-face-three-french-founders-become-billionaires-but-no-french-vc-fund-on-the-cap-table/"
+    },
+    {
+      "round": "Series D",
+      "date": "2023-08",
+      "amount": "$235M",
+      "valuation": "$4.5B",
+      "lead": "Salesforce Ventures",
+      "source": "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia"
+    },
+    {
+      "round": "Acquisition agreement (Nvidia; close expected H1 2027)",
+      "date": "2026-09",
+      "amount": "$12.93B deal value",
+      "valuation": null,
+      "lead": "NVIDIA",
+      "source": "http://sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm"
+    }
+  ],
+  "total_raised": "~$395M (Crunchbase via TechCrunch)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

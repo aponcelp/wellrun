@@ -1,0 +1,78 @@
+{
+  "slug": "current",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2015,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Stuart Sopp",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.americanbanker.com/news/neobank-current-raises-80-million-reports-growth"
+    },
+    {
+      "name": "Trevor Marshall",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/current-6"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2017-03",
+      "amount": "$3.6M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/current"
+    },
+    {
+      "round": "Series A",
+      "date": "2017-10",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "QED Investors",
+      "source": "https://app.dealroom.co/companies/current"
+    },
+    {
+      "round": "Series B",
+      "date": "2019-10",
+      "amount": "$32M",
+      "valuation": null,
+      "lead": "Wellington Management",
+      "source": "https://app.dealroom.co/companies/current"
+    },
+    {
+      "round": "Series C",
+      "date": "2020-11",
+      "amount": "$131M",
+      "valuation": "$750M",
+      "lead": "Tiger Global Management",
+      "source": "https://current.com/blog/current-announces-131-million-in-series-c-funding-surpasses-2-million-members/"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-04",
+      "amount": "$220M",
+      "valuation": "$2.2B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://current.com/blog/current-triples-valuation-to-2-2-billion-raises-220-million-series-d-round/"
+    },
+    {
+      "round": "Series E",
+      "date": "2026-06",
+      "amount": "$80M",
+      "valuation": "$1.5B",
+      "lead": "Springcoast Partners",
+      "source": "https://www.prnewswire.com/news-releases/current-secures-80-million-series-e-at-1-5-billion-valuation-following-third-consecutive-year-of-70-growth-302797260.html"
+    }
+  ],
+  "total_raised": "$480M+ (>$400M through Series D + $80M Series E)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

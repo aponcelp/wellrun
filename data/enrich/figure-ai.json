@@ -1,0 +1,47 @@
+{
+  "slug": "figure-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "San Jose, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Brett Adcock",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://finance.yahoo.com/news/figure-exceeds-1b-series-c-130000696.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2023",
+      "amount": "$70M",
+      "valuation": null,
+      "lead": "Parkway Venture Capital",
+      "source": "https://www.parkway.vc/portfolio/figure"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-02",
+      "amount": "$675M",
+      "valuation": "$2.6B",
+      "lead": null,
+      "source": "https://techcrunch.com/2024/02/29/figure-rides-the-humanoid-robot-hype-wave-to-2-6b-valuation-and-openai-collab/"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-09",
+      "amount": "$1B+",
+      "valuation": "$39B post",
+      "lead": "Parkway Venture Capital",
+      "source": "https://www.figure.ai/news/series-c"
+    }
+  ],
+  "total_raised": "~$2B (TechCrunch, Sep 2025)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

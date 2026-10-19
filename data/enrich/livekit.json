@@ -1,0 +1,70 @@
+{
+  "slug": "livekit",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Russ d'Sa",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://livekit.com/blog/livekit-series-c"
+    },
+    {
+      "name": "David Zhao",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/livekit"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-12",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": "Redpoint Ventures",
+      "source": "https://en.wikipedia.org/wiki/LiveKit"
+    },
+    {
+      "round": "Seed extension",
+      "date": "2022-08",
+      "amount": "~$7.3M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://tracxn.com/d/companies/livekit/__EYmABvsm3Z-XhlzDGi00jrnR0h5G9Qhw5sl14nsb-f4/funding-and-investors"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-06",
+      "amount": "$22.5M",
+      "valuation": null,
+      "lead": "Altimeter",
+      "source": "https://livekit.com/blog/livekit-series-a"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-04",
+      "amount": "$45M",
+      "valuation": "$345M (Tracxn)",
+      "lead": "Altimeter",
+      "source": "https://techcrunch.com/2025/04/10/livekits-tools-help-power-real-time-communications/"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-01",
+      "amount": "$100M",
+      "valuation": "$1B",
+      "lead": "Index Ventures",
+      "source": "https://livekit.com/blog/livekit-series-c"
+    }
+  ],
+  "total_raised": "~$181M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

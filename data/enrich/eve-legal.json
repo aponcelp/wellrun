@@ -1,0 +1,99 @@
+{
+  "slug": "eve-legal",
+  "checked": "Oct 19, 2026",
+  "founded": 2020,
+  "hq": "San Francisco, CA (Dealroom lists San Mateo)",
+  "headcount_est": {
+    "value": "275 employees",
+    "as_of": "Sep 2026",
+    "source": "https://www.linkedin.com/posts/eve-legal_q3-by-the-numbers-we-added-a-law-firm-activity-7511135792581275648-_xqJ"
+  },
+  "leadership": [
+    {
+      "name": "Jay Madheswaran",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.eve.legal/company"
+    },
+    {
+      "name": "Matt Noe",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.eve.legal/company"
+    },
+    {
+      "name": "David Zeng",
+      "title": "Co-founder & Chief Architect",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.eve.legal/company"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-10",
+      "amount": "$14M",
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://lsvp.com/stories/eves-series-b-another-milestone-as-eve-rapidly-transforms-legal-firms-with-ai/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-01",
+      "amount": "$47M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://fortune.com/2025/01/16/exclusive-eve-ai-legal-platform-raises-47-million-series-a-led-by-andreessen-horowitz/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-09",
+      "amount": "$103M",
+      "valuation": "$1B+",
+      "lead": "Spark Capital",
+      "source": "https://www.prnewswire.com/news-releases/eve-raises-103-million-at-1-billion-valuation-to-help-plaintiff-firms-deliver-justice-through-ai-transformation-302570807.html"
+    }
+  ],
+  "total_raised": "~$164M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Q3: added 500+ firms in 90 days; revenue up 6x YoY; team at 275",
+      "url": "https://www.linkedin.com/posts/eve-legal_q3-by-the-numbers-we-added-a-law-firm-activity-7511135792581275648-_xqJ"
+    },
+    {
+      "date": "2026-08",
+      "headline": "EveOS reaches general availability with Analyst and Atlas",
+      "url": "https://finance.yahoo.com/technology/ai/articles/eve-answers-every-plaintiff-firm-123000149.html"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Launches EveOS; 1,400+ plaintiff firms, 200,000+ active matters",
+      "url": "https://www.businesswire.com/news/home/20260611528924/en/Eve-Launches-EveOS-the-AI-Native-Operating-System-Transforming-Plaintiff-Law-Firms"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Surpasses 1,000 plaintiff law firm customers",
+      "url": "https://www.prnewswire.com/news-releases/eve-surpasses-1-000-plaintiff-law-firm-customers-powers-over-200-000-cases-302735833.html"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Eve 2.0 AI workforce platform reaches general availability",
+      "url": "https://www.prnewswire.com/news-releases/eve-expands-plaintiff-ai-workforce-platform-to-general-availability-following-adoption-by-900-plaintiff-law-firms-302709683.html"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Raises $103M Series B at $1B+ led by Spark Capital",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-30/eve-nabs-1-billion-valuation-to-bring-ai-to-lawyers"
+    }
+  ],
+  "competitors": [
+    "EvenUp",
+    "Supio",
+    "Filevine"
+  ]
+}

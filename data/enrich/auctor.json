@@ -1,0 +1,52 @@
+{
+  "slug": "auctor",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "William Sun",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://www.globenewswire.com/news-release/2026/04/15/3274475/0/en/auctor-raises-20m-led-by-sequoia-capital-to-build-the-ai-system-of-action-for-the-enterprise-software-implementation-market.html"
+    },
+    {
+      "name": "Matthew Blackburn",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://www.globenewswire.com/news-release/2026/04/15/3274475/0/en/auctor-raises-20m-led-by-sequoia-capital-to-build-the-ai-system-of-action-for-the-enterprise-software-implementation-market.html"
+    },
+    {
+      "name": "Sky Ng-Thow-Hing",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://www.globenewswire.com/news-release/2026/04/15/3274475/0/en/auctor-raises-20m-led-by-sequoia-capital-to-build-the-ai-system-of-action-for-the-enterprise-software-implementation-market.html"
+    },
+    {
+      "name": "Xinan Rahman",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techfundingnews.com/auctor-sequoia-series-a-enterprise-software/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A (combined)",
+      "date": "2026-04",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "https://getauctor.com/series-a-announcement"
+    }
+  ],
+  "total_raised": "$20M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

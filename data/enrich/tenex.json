@@ -1,0 +1,29 @@
+{
+  "slug": "tenex",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Arman Hezarkhani",
+      "title": "Co-founder & Managing Partner",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.tenex.co/about-us"
+    },
+    {
+      "name": "Alex Lieberman",
+      "title": "Co-founder & Managing Partner",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.tenex.co/about-us"
+    }
+  ],
+  "funding_history": [],
+  "total_raised": "None raised (bootstrapped per co-founder, Apr 2026)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

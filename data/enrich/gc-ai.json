@@ -1,0 +1,46 @@
+{
+  "slug": "gc-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Cecilia Ziniti",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/ceciliaziniti",
+      "source": "https://gc.ai/company/cecilia-ziniti"
+    },
+    {
+      "name": "Bardia Pourvakil",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://gc.ai/blog/gc-ai-raises-60m-series-b"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-05",
+      "amount": null,
+      "valuation": null,
+      "lead": "Sound Ventures",
+      "source": "https://gc.ai/blog/gc-ai-announces-series-a-round"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-11",
+      "amount": "$60M",
+      "valuation": "$555M",
+      "lead": "Scale Venture Partners, Northzone",
+      "source": "https://gc.ai/blog/gc-ai-raises-60m-series-b"
+    }
+  ],
+  "total_raised": "$73M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "loop",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "San Francisco, CA (founded in Chicago, IL)",
+  "headcount_est": {
+    "value": "~160-220 (Tracxn 162 May 2026; PitchBook 220)",
+    "as_of": "Jul 2026",
+    "source": "https://www.teardown.ai/companies/loop"
+  },
+  "leadership": [
+    {
+      "name": "Matt McKinney",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/mattlmckinney",
+      "source": "https://www.businesswire.com/news/home/20260417578056/en/Loop-Raises-$95M-Series-C-to-Scale-Its-AI-Platform-Across-the-Supply-Chain"
+    },
+    {
+      "name": "Shaosu Liu",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/shaosu",
+      "source": "https://www.crunchbase.com/organization/loop-9293"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "Susa Ventures, 8VC (co-leads)",
+      "source": "https://techcrunch.com/2022/11/03/meet-loop-a-payments-startup-founded-by-uber-alums-and-backed-by-founders-fund-and-two-of-ubers-co-founders/"
+    },
+    {
+      "round": "Series A",
+      "date": "2022",
+      "amount": "$24M",
+      "valuation": null,
+      "lead": "Founders Fund",
+      "source": "https://techcrunch.com/2022/11/03/meet-loop-a-payments-startup-founded-by-uber-alums-and-backed-by-founders-fund-and-two-of-ubers-co-founders/"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-10",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "J.P. Morgan Growth Equity Partners, Index Ventures",
+      "source": "https://www.businesswire.com/news/home/20231003388240/en/Breakthrough-Transportation-Logistics-Startup-Loop-Announces-35-Million-Series-B"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-04",
+      "amount": "$95M",
+      "valuation": null,
+      "lead": "Valor Equity Partners, Valor Atreides AI Fund",
+      "source": "https://www.businesswire.com/news/home/20260417578056/en/Loop-Raises-$95M-Series-C-to-Scale-Its-AI-Platform-Across-the-Supply-Chain"
+    }
+  ],
+  "total_raised": "~$160M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Ranks No. 10 on the 2026 Inc. 5000; manages $25B+ in freight spend",
+      "url": "https://www.loop.com/article/loop-named-no-10-on-the-2026-inc-5000-list"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Raises $95M Series C led by Valor to expand AI platform across supply chain",
+      "url": "https://www.businesswire.com/news/home/20260417578056/en/Loop-Raises-$95M-Series-C-to-Scale-Its-AI-Platform-Across-the-Supply-Chain"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Says Chicago remains home as it expands after Series C",
+      "url": "https://www.bizjournals.com/chicago/news/2026/04/30/loop-raises-95-million-chicago-logistics.html"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Recognized in Gartner Market Guide for freight audit and payment",
+      "url": "https://www.loop.com/article/loop-recognized-in-the-2026-gartner-r-market-guide-for-freight-audit-and-payment-providers"
+    }
+  ],
+  "competitors": [
+    "Cass Information Systems",
+    "nVision Global",
+    "Trax Technologies",
+    "CTSI-Global",
+    "Intelligent Audit"
+  ]
+}

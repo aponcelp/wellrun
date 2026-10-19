@@ -1,0 +1,55 @@
+{
+  "slug": "jane",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2012,
+  "hq": "North Vancouver, BC, Canada",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Alison (Ali) Taylor",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://www.penderventures.com/portfolio/jane"
+    },
+    {
+      "name": "Trevor Johnston",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://www.penderventures.com/portfolio/jane"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Growth (primary)",
+      "date": "2019",
+      "amount": null,
+      "valuation": null,
+      "lead": "Frontier Growth",
+      "source": "https://www.theglobeandmail.com/business/article-bc-tech-startup-jane-software/"
+    },
+    {
+      "round": "Secondary",
+      "date": "2021",
+      "amount": "US$100M+",
+      "valuation": ">$600M",
+      "lead": "JMI Equity",
+      "source": "https://app.dealroom.co/companies/jane_4"
+    },
+    {
+      "round": "Secondary",
+      "date": "2025-05",
+      "amount": "C$500M+",
+      "valuation": "~C$1.8B",
+      "lead": "TCV",
+      "source": "https://www.theglobeandmail.com/business/article-jane-software-hits-18-billion-valuation-as-tcv-leads-500-million/"
+    }
+  ],
+  "total_raised": "<$10M primary equity (rest secondary)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": [],
+  "note": "Mostly self-funded; later rounds were secondary share purchases, not capital to the company (Globe and Mail)."
+}

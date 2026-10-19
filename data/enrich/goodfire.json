@@ -1,0 +1,61 @@
+{
+  "slug": "goodfire",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Eric Ho",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.goodfire.com/blog/our-series-b"
+    },
+    {
+      "name": "Daniel Balsam",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://salesforceventures.com/perspectives/welcome-goodfire"
+    },
+    {
+      "name": "Tom McGrath",
+      "title": "Co-founder & Chief Scientist",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://salesforceventures.com/perspectives/welcome-goodfire"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-08",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://venturebeat.com/technology/goodfire-raises-7m-for-its-brain-surgery-like-ai-observability-platform"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-04",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Menlo Ventures",
+      "source": "https://www.goodfire.com/blog/announcing-our-50m-series-a"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-02",
+      "amount": "$150M",
+      "valuation": "$1.25B",
+      "lead": "B Capital",
+      "source": "https://www.goodfire.com/blog/our-series-b"
+    }
+  ],
+  "total_raised": "$207M (sum of disclosed rounds)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

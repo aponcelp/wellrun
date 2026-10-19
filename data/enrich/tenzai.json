@@ -1,0 +1,59 @@
+{
+  "slug": "tenzai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "Tel Aviv, Israel",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Pavel Gurvich",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://greylock.com/portfolio/tenzai/"
+    },
+    {
+      "name": "Ariel Zeitlin",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://greylock.com/portfolio/tenzai/"
+    },
+    {
+      "name": "Ofri Ziv",
+      "title": "Co-founder & VP Research",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://greylock.com/portfolio/tenzai/"
+    },
+    {
+      "name": "Itamar Tal",
+      "title": "Co-founder & VP R&D",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://greylock.com/portfolio/tenzai/"
+    },
+    {
+      "name": "Aner Mazur",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://greylock.com/portfolio/tenzai/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-11",
+      "amount": "$75M",
+      "valuation": null,
+      "lead": "Greylock, Battery Ventures, Lux Capital",
+      "source": "https://www.tenzai.com/press-releases/tenzai-raises-75-million-in-record-seed-round-to-build-an-ai-hacker-that-secures-code-written-by-ai"
+    }
+  ],
+  "total_raised": "$75M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

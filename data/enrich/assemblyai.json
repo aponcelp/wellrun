@@ -1,0 +1,54 @@
+{
+  "slug": "assemblyai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Dylan Fox",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2023/12/04/assemblyai-nabs-50m-to-build-and-serve-ai-speech-models/"
+    },
+    {
+      "name": "Jessi Waters",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/assemblyai"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2022-03",
+      "amount": "$28M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://research.contrary.com/company/assemblyai"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-07",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://www.yahoo.com/news/flush-cash-assemblyai-looks-grow-140059616.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2023-12",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://www.assemblyai.com/blog/announcing-our-50m-series-c-to-build-superhuman-speech-ai-models"
+    }
+  ],
+  "total_raised": "$115M (as of Dec 2023)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

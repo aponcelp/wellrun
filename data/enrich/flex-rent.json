@@ -1,0 +1,119 @@
+{
+  "slug": "flex-rent",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~890 employees",
+    "as_of": "2026 (LinkedIn, date not shown)",
+    "source": "https://linkedin.com/company/getflex"
+  },
+  "leadership": [
+    {
+      "name": "Shragie Lichtenstein",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://getflex.com/resources/flex-bank-charter-application"
+    },
+    {
+      "name": "YeTong Shao",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/getflex/tear-sheet.pdf"
+    },
+    {
+      "name": "Jeff Berkson",
+      "title": "Chief Banking Officer (proposed Flex Bank CEO)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://getflex.com/resources/flex-bank-charter-application"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2019-07",
+      "amount": "$0.3M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.employbl.com/companies/Flex"
+    },
+    {
+      "round": "Seed",
+      "date": "2019-10",
+      "amount": "$5.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.employbl.com/companies/Flex"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-09",
+      "amount": "~$12.7-14M",
+      "valuation": "~$58M post",
+      "lead": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/getflex/"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-04",
+      "amount": "~$46.6-50M",
+      "valuation": "~$252M post",
+      "lead": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/getflex/"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-04",
+      "amount": "$160M",
+      "valuation": "~$960M post",
+      "lead": "Camber Creek",
+      "source": "https://siliconvalleyinvestclub.com/companies/getflex/"
+    },
+    {
+      "round": "Series D",
+      "date": "2024-11",
+      "amount": "$200M",
+      "valuation": "$1.75B",
+      "lead": null,
+      "source": "https://stockanalysis.com/private/flex/valuation/"
+    }
+  ],
+  "total_raised": "~$424M (StockAnalysis/Hiive)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Apartment List embeds Flex rent payments in every listing",
+      "url": "https://www.businesswire.com/news/home/20260813201484/en/Apartment-List-Announces-Partnership-with-Flex-to-Become-the-First-Rental-Platform-to-Bring-Flexible-Rent-Payments-Into-the-Search-Experience"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Applies to FDIC and Utah regulators to charter Flex Bank (industrial bank)",
+      "url": "https://www.bankingdive.com/news/flex-rent-fintech-fdic-utah-charter-industrial-loan-company-ilc-application/826375"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Launches Yardi RentCafe integration",
+      "url": "https://www.linkedin.com/posts/getflex_rentcafe-simplifies-how-you-pay-rent-with-activity-7461128299042222080-fXS5"
+    },
+    {
+      "date": "2026-02",
+      "headline": "AP scrutinizes fees of 'rent now, pay later' services including Flex",
+      "url": "https://apnews.com/article/rent-now-pay-later-paycheck-1180a8e30f1bf516bdc46508a1792096"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Partners with AppFolio to offer split rent in tenant portals",
+      "url": "https://www.globenewswire.com/news-release/2025/10/08/3163382/0/en/flex-partners-with-appfolio-to-transform-the-rental-payment-experience.html"
+    }
+  ],
+  "competitors": [
+    "Bilt",
+    "Affirm",
+    "Klarna",
+    "Livble"
+  ]
+}

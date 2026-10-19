@@ -1,0 +1,62 @@
+{
+  "slug": "arcee-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Mark McQuade",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/mark-mcquade",
+      "source": "https://www.globenewswire.com/news-release/2026/09/16/3363293/0/en/arcee-ai-reaches-1b-valuation-with-series-b-funding-to-advance-frontier-open-weight-ai.html"
+    },
+    {
+      "name": "Lucas Atkins",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/arcee-ai"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-01",
+      "amount": "$5.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2024/01/24/arcee-is-a-secure-enterprise-focused-platform-for-building-genai/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-07",
+      "amount": "$24M",
+      "valuation": null,
+      "lead": "Emergence Capital",
+      "source": "https://venturebeat.com/technology/small-language-models-rising-as-arcee-ai-lands-24m-series-a"
+    },
+    {
+      "round": "Strategic",
+      "date": "2025-07",
+      "amount": null,
+      "valuation": null,
+      "lead": "Prosperity7 Ventures and M12",
+      "source": "https://arcee.ai/blog/arcee-ai-announces-new-strategic-funding-round"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-09",
+      "amount": "$150M+ (reported by Fortune)",
+      "valuation": ">$1B",
+      "lead": "Vista Equity Partners, Cambium Capital, Emergence Capital",
+      "source": "https://www.globenewswire.com/news-release/2026/09/16/3363293/0/en/arcee-ai-reaches-1b-valuation-with-series-b-funding-to-advance-frontier-open-weight-ai.html"
+    }
+  ],
+  "total_raised": "~$180M+ disclosed (2025 strategic round undisclosed)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

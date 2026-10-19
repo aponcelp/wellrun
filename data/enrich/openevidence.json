@@ -1,0 +1,62 @@
+{
+  "slug": "openevidence",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Daniel Nadler",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/2026/01/21/openevidence-chatgpt-for-doctors-doubles-valuation-to-12-billion.html"
+    },
+    {
+      "name": "Zachary Ziegler",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/2026/05/19/openevidence-cnbc-disruptor-50-ranking.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-02",
+      "amount": "$75M",
+      "valuation": "$1B",
+      "lead": "Sequoia",
+      "source": "https://www.cnbc.com/2026/01/21/openevidence-chatgpt-for-doctors-doubles-valuation-to-12-billion.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-07",
+      "amount": "$210M",
+      "valuation": "$3.5B",
+      "lead": "GV, Kleiner Perkins",
+      "source": "https://www.openevidence.com/announcements/openevidence-the-fastest-growing-application-for-physicians-in-history-announces-dollar210-million-round-at-dollar35-billion-valuation"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-10",
+      "amount": "$200M",
+      "valuation": "$6B",
+      "lead": "GV",
+      "source": "https://techcrunch.com/2026/01/21/openevidence-hits-12b-valuation-with-new-round-led-by-thrive-dst/"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-01",
+      "amount": "$250M",
+      "valuation": "$12B",
+      "lead": "Thrive Capital, DST Global",
+      "source": "https://techcrunch.com/2026/01/21/openevidence-hits-12b-valuation-with-new-round-led-by-thrive-dst/"
+    }
+  ],
+  "total_raised": "~$700M (company-stated, Jan 2026)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "kindred",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Justine Palefsky",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://prnewswire.com/news-releases/kindred-announces-125m-in-funding-as-modern-home-swapping-breaks-into-the-travel-mainstream-302676973.html"
+    },
+    {
+      "name": "Tasneem (Tas) Amina",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://livekindred.com/blog/the-future-belongs-to-those-who-give-why-we-raised-125m-to-scale-kindred"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-04",
+      "amount": "$7.75M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://techcrunch.com/2022/04/21/opendoor-alums-raise-7-75m-for-kindred-a-home-swapping-network-it-says-makes-travel-dramatically-more-affordable/"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-04",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.businesswire.com/news/home/20230419005067/en/Kindred-Members-Only-Home-Swapping-Network-Announces-5000-Nights-Swapped-and-Series-A-Funding-to-Revolutionize-the-Sharing-Economy"
+    },
+    {
+      "round": "Series B",
+      "date": "announced 2026-02",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "NEA, Dylan Field",
+      "source": "http://prnewswire.com/news-releases/kindred-announces-125m-in-funding-as-modern-home-swapping-breaks-into-the-travel-mainstream-302676973.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-02",
+      "amount": "$85M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "http://prnewswire.com/news-releases/kindred-announces-125m-in-funding-as-modern-home-swapping-breaks-into-the-travel-mainstream-302676973.html"
+    }
+  ],
+  "total_raised": "~$148M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

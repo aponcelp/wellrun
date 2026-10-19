@@ -1,0 +1,67 @@
+{
+  "slug": "ernesta",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "John Foley",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://finance.yahoo.com/news/ernesta-raises-20-million-series-130000045.html"
+    },
+    {
+      "name": "Hisao Kushi",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/ernesta-a-new-direct-to-consumer-custom-rug-company-raises-25-million-in-a-series-a-funding-round-301669843.html"
+    },
+    {
+      "name": "Yony Feng",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/ernesta-a-new-direct-to-consumer-custom-rug-company-raises-25-million-in-a-series-a-funding-round-301669843.html"
+    },
+    {
+      "name": "Alan Smith",
+      "title": "President (and CMO)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.retaildive.com/news/ernesta-secures-twenty-million-funding-store-expansion/814778/"
+    },
+    {
+      "name": "Alexandria Norton",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.retaildive.com/news/ernesta-secures-twenty-million-funding-store-expansion/814778/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2022-11",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Addition",
+      "source": "https://www.prnewswire.com/news-releases/ernesta-a-new-direct-to-consumer-custom-rug-company-raises-25-million-in-a-series-a-funding-round-301669843.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-03",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Addition",
+      "source": "https://www.prnewswire.com/news-releases/ernesta-raises-20-million-series-b-to-expand-retail-footprint-and-technology-platforms-for-custom-rugs-302709973.html"
+    }
+  ],
+  "total_raised": "$57.5M (per AlleyWatch; other reports say $45M)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

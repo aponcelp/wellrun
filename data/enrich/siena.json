@@ -1,0 +1,46 @@
+{
+  "slug": "siena",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Andrei Negrau",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.siena.cx/blog/siena-raises-17m-series-a"
+    },
+    {
+      "name": "Lisa Popovici",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/siena-ai"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-11",
+      "amount": "$4.7M",
+      "valuation": null,
+      "lead": "Sierra Ventures",
+      "source": "https://www.sierraventures.com/content/siena-ai"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "York IE",
+      "source": "https://www.siena.cx/blog/siena-raises-17m-series-a"
+    }
+  ],
+  "total_raised": "$29.7M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

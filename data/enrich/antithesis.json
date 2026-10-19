@@ -1,0 +1,54 @@
+{
+  "slug": "antithesis",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "Tysons Corner, VA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Will Wilson",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/will-wilson-330276112/",
+      "source": "https://antithesis.com/company/about"
+    },
+    {
+      "name": "Dave Scherer",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://antithesis.com/company/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-02",
+      "amount": "$47M",
+      "valuation": "$215M",
+      "lead": "Amplify Partners, Tamarack Global, First In Ventures",
+      "source": "https://techcrunch.com/2024/02/13/antithesis-raises-47m-to-launch-an-automated-testing-platform-for-software"
+    },
+    {
+      "round": "Venture",
+      "date": "2025-02",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Amplify Partners",
+      "source": "https://fortune.com/2026/03/23/antithesis-janestreet-ethereum-will-wilson-foundationdb-software/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-12",
+      "amount": "$105M",
+      "valuation": null,
+      "lead": "Jane Street",
+      "source": "https://www.prnewswire.com/news-releases/jane-street-leads-antithesiss-105m-series-a-to-make-deterministic-simulation-testing-the-new-standard-302631076.html"
+    }
+  ],
+  "total_raised": "~$182M (sum of disclosed rounds)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

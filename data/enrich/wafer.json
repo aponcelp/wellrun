@@ -1,0 +1,46 @@
+{
+  "slug": "wafer",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Emilio Andere",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.wafer.ai/team"
+    },
+    {
+      "name": "Steven Arellano",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.wafer.ai/team"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-04",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": "Fifty Years",
+      "source": "https://www.wafer.ai/ai-info"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$40M",
+      "valuation": "$220M post",
+      "lead": "Marathon, Chemistry",
+      "source": "https://www.wafer.ai/blog/series-a"
+    }
+  ],
+  "total_raised": "~$44M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

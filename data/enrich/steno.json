@@ -1,0 +1,76 @@
+{
+  "slug": "steno",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "Los Angeles, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Prabhdeep Singh",
+      "title": "Chief Executive Officer (since Jun 2026)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.morningstar.com/news/pr-newswire/20260609la76601/steno-names-current-coo-and-seasoned-tech-executive-prabhdeep-singh-as-new-ceo-to-lead-next-phase-of-growth"
+    },
+    {
+      "name": "Greg Hong",
+      "title": "Co-founder & Executive Chair",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/steno-inc_steno-legaltech-courtreporting-activity-7470108769470029824-CWdx"
+    },
+    {
+      "name": "Dylan Ruga",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/steno-secures-15m-series-b-funding-led-by-left-lane-capital-to-expand-national-presence-301829096.html"
+    },
+    {
+      "name": "Dan Anderson",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/steno-secures-15m-series-b-funding-led-by-left-lane-capital-to-expand-national-presence-301829096.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2020",
+      "amount": null,
+      "valuation": null,
+      "lead": "Trust Ventures",
+      "source": "https://www.prnewswire.com/news-releases/steno-secures-15m-series-b-funding-led-by-left-lane-capital-to-expand-national-presence-301829096.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-05",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Left Lane Capital",
+      "source": "https://www.prnewswire.com/news-releases/steno-secures-15m-series-b-funding-led-by-left-lane-capital-to-expand-national-presence-301829096.html"
+    },
+    {
+      "round": "Financing (equity + debt)",
+      "date": "2024",
+      "amount": "$46M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.artificiallawyer.com/2026/03/26/steno-raises-49m-hits-150m-total-funding"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-03",
+      "amount": "$49M",
+      "valuation": null,
+      "lead": "Savano Capital Partners",
+      "source": "https://www.prnewswire.com/news-releases/steno-secures-49m-series-c-to-fuel-rapid-expansion-and-the-next-evolution-of-transcript-genius-302724939.html"
+    }
+  ],
+  "total_raised": "~$150M incl. debt (per Artificial Lawyer)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

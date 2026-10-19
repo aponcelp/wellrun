@@ -1,0 +1,52 @@
+{
+  "slug": "corridor",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2026,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Nikhil Aggarwal",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://corridoradvisors.com/newsroom/corridor-launches-with-25m-seed-round-led-by-bain-capital-ventures"
+    },
+    {
+      "name": "Jason Dong",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://corridoradvisors.com/newsroom/corridor-launches-with-25m-seed-round-led-by-bain-capital-ventures"
+    },
+    {
+      "name": "Jackson Wagner",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://corridoradvisors.com/newsroom/corridor-launches-with-25m-seed-round-led-by-bain-capital-ventures"
+    },
+    {
+      "name": "Eric Qian",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://corridoradvisors.com/newsroom/corridor-launches-with-25m-seed-round-led-by-bain-capital-ventures"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed + Seed (combined; $16M new seed)",
+      "date": "2026-09",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Bain Capital Ventures",
+      "source": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/"
+    }
+  ],
+  "total_raised": "$25M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

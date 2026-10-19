@@ -1,0 +1,47 @@
+{
+  "slug": "homeward",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "Austin, TX",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Tim Heyl",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/homeward-secures-120-million-series-d-equity-and-330-million-in-debt-to-expand-cash-offer-and-bridge-financing-solutions-for-real-estate-agents-and-their-clients-302895128.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series C",
+      "date": "2021",
+      "amount": "$136M",
+      "valuation": "~$800M",
+      "lead": null,
+      "source": "https://news.crunchbase.com/real-estate-property-tech/startup-homeward-raises-120m-buy-sell-homes-ai-financing/"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-10",
+      "amount": "$120M",
+      "valuation": "similar to 2021",
+      "lead": null,
+      "source": "https://www.prnewswire.com/news-releases/homeward-secures-120-million-series-d-equity-and-330-million-in-debt-to-expand-cash-offer-and-bridge-financing-solutions-for-real-estate-agents-and-their-clients-302895128.html"
+    },
+    {
+      "round": "Debt",
+      "date": "2026-10",
+      "amount": "$330M asset-backed facilities",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.prnewswire.com/news-releases/homeward-secures-120-million-series-d-equity-and-330-million-in-debt-to-expand-cash-offer-and-bridge-financing-solutions-for-real-estate-agents-and-their-clients-302895128.html"
+    }
+  ],
+  "total_raised": "$360M equity",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

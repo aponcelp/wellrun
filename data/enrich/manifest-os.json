@@ -1,0 +1,31 @@
+{
+  "slug": "manifest-os",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Dan Mishin",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260427884891/en/Manifest-OS-Raises-$60M-to-Scale-the-Worlds-First-AI-Native-Law-Firm-Model"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-04",
+      "amount": "$60M",
+      "valuation": "$750M",
+      "lead": "Menlo Ventures",
+      "source": "https://www.businesswire.com/news/home/20260427884891/en/Manifest-OS-Raises-$60M-to-Scale-the-Worlds-First-AI-Native-Law-Firm-Model"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

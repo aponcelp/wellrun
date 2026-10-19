@@ -1,0 +1,53 @@
+{
+  "slug": "oneleet",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "Amsterdam / San Francisco",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Bryan Onel",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://oneleet.com/blog/announcing-our-s-33m-series-a"
+    },
+    {
+      "name": "Ora Onel",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://tech.eu/2025/10/02/oneleet-lands-33m-series-a-from-dawn-capital"
+    },
+    {
+      "name": "Erik Vogelzang",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://tech.eu/2025/10/02/oneleet-lands-33m-series-a-from-dawn-capital"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (YC)",
+      "date": "2022",
+      "amount": null,
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://www.ycombinator.com/companies/oneleet"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-10",
+      "amount": "$33M",
+      "valuation": null,
+      "lead": "Dawn Capital",
+      "source": "https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance"
+    }
+  ],
+  "total_raised": "$35M (SecurityWeek)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

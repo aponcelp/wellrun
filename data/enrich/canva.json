@@ -1,0 +1,123 @@
+{
+  "slug": "canva",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2012,
+  "hq": "Sydney, Australia",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Melanie Perkins",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/canva/tear-sheet.pdf"
+    },
+    {
+      "name": "Cliff Obrecht",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/sites/yessarrosendar/2025/08/21/australian-billionaire-couples-canva-valued-at-42-billion-in-employee-share-sale/"
+    },
+    {
+      "name": "Cameron Adams",
+      "title": "Co-founder & Chief Product Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/canva/tear-sheet.pdf"
+    },
+    {
+      "name": "Kelly Steckelberg",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/canva/tear-sheet.pdf"
+    },
+    {
+      "name": "Brendan Humphreys",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/canva/tear-sheet.pdf"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2015-10",
+      "amount": "$15M",
+      "valuation": "$165M",
+      "lead": "Blackbird Ventures and Matrix Partners (investors)",
+      "source": "http://canva.com/newsroom/news/canva-10-year-timeline"
+    },
+    {
+      "round": "Series B",
+      "date": "2016-09",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://stockanalysis.com/private/canva/valuation/"
+    },
+    {
+      "round": "Series C",
+      "date": "2018-01",
+      "amount": "$40M",
+      "valuation": "$1B",
+      "lead": "Sequoia China, Blackbird, Felicis",
+      "source": "https://www.canva.com/newsroom/news/canva-raises-40m-round-earn-unicorn-title"
+    },
+    {
+      "round": "Series D",
+      "date": "2019-05",
+      "amount": "$70M",
+      "valuation": "$2.5B",
+      "lead": "Bond",
+      "source": "https://www.businessinsider.com/mary-meeker-bond-canva-funding-2019-5"
+    },
+    {
+      "round": "Series D ext. / E",
+      "date": "2019-10",
+      "amount": "$85M",
+      "valuation": "$3.2B",
+      "lead": null,
+      "source": "https://www.businessinsider.com/canva-series-e-bond-capital-led-series-d-2019-10"
+    },
+    {
+      "round": "Growth round",
+      "date": "2020-06",
+      "amount": "$60M",
+      "valuation": "$6B",
+      "lead": "Blackbird and Sequoia Capital China",
+      "source": "https://www.zdnet.com/article/canva-valuation-hits-new-6-billion-high-after-closing-60-million-funding-round"
+    },
+    {
+      "round": "Growth round",
+      "date": "2021-04",
+      "amount": "$71M",
+      "valuation": "$15B",
+      "lead": "T. Rowe Price and Dragoneer",
+      "source": "http://canva.com/newsroom/news/canva-10-year-timeline"
+    },
+    {
+      "round": "Growth round",
+      "date": "2021-09",
+      "amount": "$200M",
+      "valuation": "$40B",
+      "lead": "T. Rowe Price",
+      "source": "https://canva.com/newsroom/news/canva-announces-usd-40-billion-valuation-fueled-global-demand-visual-communication"
+    },
+    {
+      "round": "Employee share sale (secondary)",
+      "date": "2025-08",
+      "amount": null,
+      "valuation": "$42B",
+      "lead": "Fidelity",
+      "source": "https://www.reuters.com/world/asia-pacific/australias-canva-begins-share-sale-42-billion-valuation-2025-08-20/"
+    }
+  ],
+  "total_raised": "~$580M primary",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

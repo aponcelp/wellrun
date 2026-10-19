@@ -1,0 +1,47 @@
+{
+  "slug": "hebbia",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "George Sivulka",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/sivulka",
+      "source": "http://www.hebbia.com/blog/hebbia-raises-usd130m-series-b"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-10",
+      "amount": "$1.1M",
+      "valuation": null,
+      "lead": "Floodgate, Peter Thiel",
+      "source": "https://app.dealroom.co/companies/hebbia"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-09",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-07",
+      "amount": "$130M",
+      "valuation": "~$700M",
+      "lead": "Andreessen Horowitz",
+      "source": "https://techcrunch.com/2024/07/09/ai-startup-hebbia-rased-130m-at-a-700m-valuation-on-13-million-of-profitable-revenue"
+    }
+  ],
+  "total_raised": "$160M+ (Bloomberg via Wikipedia)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

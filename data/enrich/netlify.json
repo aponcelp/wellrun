@@ -1,0 +1,70 @@
+{
+  "slug": "netlify",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2014,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Matt Biilmann",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.netlify.com/press/netlify-raises-usd105-million-to-transform-development-for-the-modern-web"
+    },
+    {
+      "name": "Chris Bach",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.bvp.com/news/why-netlify-is-the-architecture-for-the-next-generation-of-web-development"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2016-08",
+      "amount": "$2.1M",
+      "valuation": null,
+      "lead": "Tank Hill Ventures",
+      "source": "https://www.netlify.com/blog/2016/08/16/netlify-raises-2.1m-from-the-founders-of-github-heroku-and-rackspace-cloud/"
+    },
+    {
+      "round": "Series A",
+      "date": "2017-08",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.businessinsider.com/netlify-raises-12-million-from-andreessen-horowitz-2017-8?r=nordic"
+    },
+    {
+      "round": "Series B",
+      "date": "2018-10",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Kleiner Perkins",
+      "source": "https://techcrunch.com/2018/10/09/netlify-just-got-30-million-to-change-the-way-developers-build-websites/"
+    },
+    {
+      "round": "Series C",
+      "date": "2020-03",
+      "amount": "$53M",
+      "valuation": null,
+      "lead": "EQT Ventures",
+      "source": "http://netlify.com/press/after-onboarding-800000-developers-netlify-raises-53m-in-series-c-funding-to-fuel-enterprise-growth"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-11",
+      "amount": "$105M",
+      "valuation": "$2B",
+      "lead": "Bessemer Venture Partners",
+      "source": "https://www.netlify.com/press/netlify-raises-usd105-million-to-transform-development-for-the-modern-web"
+    }
+  ],
+  "total_raised": "$212M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

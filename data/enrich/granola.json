@@ -1,0 +1,92 @@
+{
+  "slug": "granola",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "London, UK",
+  "headcount_est": {
+    "value": "116 (Tracxn official count)",
+    "as_of": "Oct 2026",
+    "source": "https://platform.tracxn.com/a/d/company/66ff5b4b5a20de6df5ac3342/granola"
+  },
+  "leadership": [
+    {
+      "name": "Chris Pedregal",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.granola.ai/blog/series-c"
+    },
+    {
+      "name": "Sam Stephenson",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://venturebeat.com/business/granola-launches-ai-workspace-for-teams-and-raises-43m-series-b"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-05",
+      "amount": "$4.25M",
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "http://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-10",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Spark Capital",
+      "source": "https://www.granola.ai/blog/series-a"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-05",
+      "amount": "$43M",
+      "valuation": "$250M",
+      "lead": "NFDG (Nat Friedman & Daniel Gross)",
+      "source": "http://techcrunch.com/2025/05/14/ai-note-taking-app-granola-raises-43m-at-250m-valuation-launches-collaborative-features"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-03",
+      "amount": "$125M",
+      "valuation": "$1.5B",
+      "lead": "Index Ventures",
+      "source": "https://www.granola.ai/blog/series-c"
+    }
+  ],
+  "total_raised": "~$192M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches team folders and Snapshots that capture screen shares",
+      "url": "https://www.granola.ai/blog/ai-meeting-notepad-for-teams-building-a-shared-meeting-library-with-team-folders"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Google releases a local-first note-taking app seen as a Granola rival",
+      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Raises $125M Series C at $1.5B led by Index; launches Spaces and APIs",
+      "url": "https://www.granola.ai/blog/series-c"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Raises $43M Series B at $250M led by NFDG; launches Granola 2.0 for teams",
+      "url": "http://techcrunch.com/2025/05/14/ai-note-taking-app-granola-raises-43m-at-250m-valuation-launches-collaborative-features"
+    }
+  ],
+  "competitors": [
+    "otter-ai",
+    "fireflies",
+    "read-ai",
+    "Fathom",
+    "Google (Gemini notes)"
+  ]
+}

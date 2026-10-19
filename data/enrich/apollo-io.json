@@ -1,0 +1,77 @@
+{
+  "slug": "apollo-io",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2015,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Tim Zheng",
+      "title": "Co-founder (CEO per Aug 2023 release)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/apolloio-secures-100-million-series-d-at-1-6b-valuation-to-make-world-class-go-to-market-accessible-to-all-301912032.html"
+    },
+    {
+      "name": "Ray Li",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/zenprospect"
+    },
+    {
+      "name": "Roy Chung",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/zenprospect"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2016-03",
+      "amount": "$120K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://tracxn.com/d/companies/apollo/__y17wVZpUBuNiFd6z-uERp8Yu6VExrzunaXCB6i8EBpc/funding-and-investors"
+    },
+    {
+      "round": "Series A",
+      "date": "2018-06",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": "Nexus Venture Partners",
+      "source": "https://tracxn.com/d/companies/apollo/__y17wVZpUBuNiFd6z-uERp8Yu6VExrzunaXCB6i8EBpc/funding-and-investors"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-11",
+      "amount": "$32M",
+      "valuation": null,
+      "lead": "Tribe Capital",
+      "source": "https://sacra.com/c/apollo/"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-03",
+      "amount": "$110M",
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "https://www.vccircle.com/nexusbacked-apollo-io-amasses-100-mn-to-enter-unicorn-club"
+    },
+    {
+      "round": "Series D",
+      "date": "2023-08",
+      "amount": "$100M",
+      "valuation": "$1.6B",
+      "lead": "Bain Capital Ventures",
+      "source": "https://www.prnewswire.com/news-releases/apolloio-secures-100-million-series-d-at-1-6b-valuation-to-make-world-class-go-to-market-accessible-to-all-301912032.html"
+    }
+  ],
+  "total_raised": "~$250M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

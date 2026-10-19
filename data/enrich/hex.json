@@ -1,0 +1,77 @@
+{
+  "slug": "hex",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Barry McCardel",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20250528505112/en/Hex-Lands-$70M-to-Transform-Data-Science-and-Analytics-With-AI"
+    },
+    {
+      "name": "Caitlin Colgrove",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20250528505112/en/Hex-Lands-$70M-to-Transform-Data-Science-and-Analytics-With-AI"
+    },
+    {
+      "name": "Glen Takahashi",
+      "title": "Co-founder & Chief Architect",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20250528505112/en/Hex-Lands-$70M-to-Transform-Data-Science-and-Analytics-With-AI"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020",
+      "amount": "$5.5M",
+      "valuation": null,
+      "lead": "Amplify Partners",
+      "source": "https://techcrunch.com/2021/10/20/hex-snags-16m-series-a-to-keep-building-collaborative-data-workspace/"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-10",
+      "amount": "$16M",
+      "valuation": null,
+      "lead": "Redpoint Ventures",
+      "source": "https://techcrunch.com/2021/10/20/hex-snags-16m-series-a-to-keep-building-collaborative-data-workspace/"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-03",
+      "amount": "$52M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://techcrunch.com/2022/03/22/hex-scores-52m-series-b-to-grow-data-science-collaboration-platform/"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2023-03",
+      "amount": "$28M",
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "http://techcrunch.com/2023/03/23/hex-lands-another-28m-as-data-collaboration-platform-continues-to-gain-traction"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-05",
+      "amount": "$70M",
+      "valuation": null,
+      "lead": "Avra",
+      "source": "https://hex.tech/blog/series-c/"
+    }
+  ],
+  "total_raised": "~$171.5M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

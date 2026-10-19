@@ -1,0 +1,105 @@
+{
+  "slug": "encord",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "London, UK (offices in San Francisco and New York)",
+  "headcount_est": {
+    "value": "194 (Dealroom)",
+    "as_of": "Oct 2026",
+    "source": "https://dealroom.co/companies/encord/"
+  },
+  "leadership": [
+    {
+      "name": "Eric Landau",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://encord.com/blog/encord-announces-60-million-series-c/"
+    },
+    {
+      "name": "Ulrik Stig Hansen",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/ulrik-stig-hansen-2658273b",
+      "source": "https://encord.com/blog/encord-announces-60-million-series-c/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (Y Combinator W21)",
+      "date": "2021-03",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/encord"
+    },
+    {
+      "round": "Seed",
+      "date": "2021-06",
+      "amount": "$4.5M",
+      "valuation": null,
+      "lead": "CRV",
+      "source": "https://app.dealroom.co/companies/encord"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-10",
+      "amount": "$12.5M",
+      "valuation": null,
+      "lead": "CRV",
+      "source": "https://app.dealroom.co/companies/encord"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-08",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Next47",
+      "source": "https://techcrunch.com/2024/08/13/encord-lands-new-cash-to-grow-its-data-labeling-tools-for-ai/"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-02",
+      "amount": "$60M",
+      "valuation": null,
+      "lead": "Wellington Management",
+      "source": "https://encord.com/blog/encord-announces-60-million-series-c/"
+    }
+  ],
+  "total_raised": "$110M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-06",
+      "headline": "Launches Merlin, an agentic layer for Encord via MCP, in beta",
+      "url": "http://encord.com/blog/merlin-encord-mcp-agentic-intelligence"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Natively hosts NVIDIA Cosmos Reason 2 and Embed models on its platform",
+      "url": "https://www.linkedin.com/posts/encord-team_encord-is-excited-to-announce-the-next-step-activity-7467968624855621632-ndAp"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Raises $60M Series C led by Wellington; physical-AI revenue up 10x",
+      "url": "https://encord.com/blog/encord-announces-60-million-series-c/"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Releases largest open-source multimodal dataset and EBind method",
+      "url": "https://www.prnewswire.com/news-releases/encord-launches-worlds-largest-open-source-multimodal-dataset-to-accelerate-multimodal-ai-development-302586944.html"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Launches Physical AI suite for robotics, AV and drone data",
+      "url": "https://www.businesswire.com/news/home/20250612297482/en/Encord-Launches-Unified-Platform-to-Accelerate-Physical-AI-Development-Across-Robotics-Autonomous-Vehicles-and-Drones"
+    }
+  ],
+  "competitors": [
+    "scale-ai",
+    "Labelbox",
+    "V7",
+    "Voxel51",
+    "SuperAnnotate"
+  ]
+}

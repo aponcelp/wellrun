@@ -1,0 +1,62 @@
+{
+  "slug": "persona",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Rick Song",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://withpersona.com/blog/series-d/"
+    },
+    {
+      "name": "Charles Yeh",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Persona_(age_verification_service)"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2020-01",
+      "amount": "$17.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2021/05/04/persona-lands-50m-for-identity-verification-after-seeing-10x-yoy-revenue-growth/"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-05",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://techcrunch.com/2021/05/04/persona-lands-50m-for-identity-verification-after-seeing-10x-yoy-revenue-growth/"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-09",
+      "amount": "$150M",
+      "valuation": "$1.5B",
+      "lead": "Founders Fund",
+      "source": "http://web.archive.org/web/20260401151144/https://www.prnewswire.com/news-releases/persona-closes-150-million-round-led-by-founders-fund-to-scale-the-worlds-first-trusted-identity-infrastructure-301377506.html"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-04",
+      "amount": "$200M",
+      "valuation": "$2B",
+      "lead": "Founders Fund, Ribbit Capital",
+      "source": "https://www.prnewswire.com/news-releases/persona-raises-200m-at-2b-valuation-to-build-the-verified-identity-layer-for-an-agentic-ai-world-302442649.html"
+    }
+  ],
+  "total_raised": "$417M (Forbes)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

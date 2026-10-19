@@ -1,0 +1,45 @@
+{
+  "slug": "eagle",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Mayank Mardia",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lsvp.com/company/eagle"
+    },
+    {
+      "name": "Sohum Daftary",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lsvp.com/company/eagle"
+    },
+    {
+      "name": "Thomas Shouler",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lsvp.com/company/eagle"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-06",
+      "amount": null,
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://www.saasrise.com/deals/lightspeed-venture-partners-invests-in-eagle-in-a-seed-round-d8ea0576-c252-4774-b19a-1df6c2b2a96d"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

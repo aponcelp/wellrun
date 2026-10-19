@@ -1,0 +1,80 @@
+{
+  "slug": "ridgeline",
+  "checked": "Oct 19, 2026",
+  "founded": 2017,
+  "hq": "Incline Village, NV",
+  "headcount_est": {
+    "value": "400+ (company-stated)",
+    "as_of": "Oct 2026",
+    "source": "https://ridgeline.ai/company/about"
+  },
+  "leadership": [
+    {
+      "name": "Dave Duffield",
+      "title": "Founder & Chairman",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/09/16/3363158/0/en/ridgeline-raises-250m-series-e-valuing-ai-native-fintech-at-1-425-billion.html"
+    },
+    {
+      "name": "Dave Blair",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/dave-blair-032265/",
+      "source": "https://www.globenewswire.com/news-release/2026/09/16/3363158/0/en/ridgeline-raises-250m-series-e-valuing-ai-native-fintech-at-1-425-billion.html"
+    },
+    {
+      "name": "Lisa Faucher",
+      "title": "SVP of People",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.prweb.com/releases/ridgeline-expands-leadership-team-with-appointments-of-daniel-eriksson-and-lisa-faucher-302551012.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series E",
+      "date": "2026-09",
+      "amount": "$250M",
+      "valuation": "$1.425B",
+      "lead": "Dave Duffield (founder)",
+      "source": "https://www.globenewswire.com/news-release/2026/09/16/3363158/0/en/ridgeline-raises-250m-series-e-valuing-ai-native-fintech-at-1-425-billion.html"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Base Camp: agentic workflows, UX redesign; $760B+ committed AUM",
+      "url": "https://www.globenewswire.com/news-release/2026/10/12/3379123/0/en/ridgeline-showcases-ai-native-innovation-at-fifth-annual-base-camp-conference.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Raises $250M Series E at $1.425B led by founder Dave Duffield",
+      "url": "https://www.globenewswire.com/news-release/2026/09/16/3363158/0/en/ridgeline-raises-250m-series-e-valuing-ai-native-fintech-at-1-425-billion.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Cabot Wealth becomes first customer on Intelligent Outcomes managed service",
+      "url": "https://ridgeline.ai/"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Surpasses $650B in committed AUM; launches Ridgeline Assistant",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251616/0/en/ridgeline-surpasses-650b-in-committed-aum-as-investment-managers-embrace-the-ai-native-platform.html"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Launches Intelligent Outcomes, AI workflows plus human oversight",
+      "url": "https://ridgeline.ai/company/news/ridgeline-introduces-intelligent-operations"
+    }
+  ],
+  "competitors": [
+    "SS&C Advent",
+    "Clearwater Analytics (incl. Enfusion)",
+    "BlackRock Aladdin",
+    "Orion",
+    "FIS"
+  ]
+}

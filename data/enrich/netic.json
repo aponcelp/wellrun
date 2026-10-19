@@ -1,0 +1,70 @@
+{
+  "slug": "netic",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "22 (PitchBook; likely stale given reported 4x team growth)",
+    "as_of": "Oct 2026",
+    "source": "https://pitchbook.com/profiles/company/769998-43"
+  },
+  "leadership": [
+    {
+      "name": "Melisa Tokmak",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/mtokmak",
+      "source": "https://www.insurancejournal.com/news/national/2025/11/13/847406.htm"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-02",
+      "amount": null,
+      "valuation": null,
+      "lead": "Greylock Partners",
+      "source": "http://greylock.com/portfolio-news/introducing-netic-the-ai-revenue-engine-for-americas-essential-services"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-06",
+      "amount": "$20M (announced total incl. seed)",
+      "valuation": null,
+      "lead": "Founders Fund",
+      "source": "https://www.insurancejournal.com/news/national/2025/11/13/847406.htm"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-11",
+      "amount": "$23M",
+      "valuation": "$450M",
+      "lead": "Founders Fund",
+      "source": "https://www.insurancejournal.com/news/national/2025/11/13/847406.htm"
+    }
+  ],
+  "total_raised": "$43M (Sacra / CB Insights)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "American Residential Services rolls out Netic across its national network",
+      "url": "https://www.prnewswire.com/news-releases/netic-partners-with-american-residential-services-to-bring-frontier-ai-to-one-of-americas-largest-home-services-providers-302847149.html"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Raises $23M Series B led by Founders Fund at $450M valuation",
+      "url": "https://www.insurancejournal.com/news/national/2025/11/13/847406.htm"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Launches with $20M from Founders Fund and Greylock; Nexstar Network partnership",
+      "url": "http://greylock.com/portfolio-news/introducing-netic-the-ai-revenue-engine-for-americas-essential-services"
+    }
+  ],
+  "competitors": [
+    "probook",
+    "avoca",
+    "ServiceTitan (Atlas)"
+  ]
+}

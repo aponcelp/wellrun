@@ -1,0 +1,76 @@
+{
+  "slug": "superhuman",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2009,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Shishir Mehrotra",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/shishirmehrotra",
+      "source": "https://superhuman.com/media-resources/shishir-bio"
+    },
+    {
+      "name": "Max Lytvyn",
+      "title": "Co-founder (Grammarly) & Board Member",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/superhuman-1"
+    },
+    {
+      "name": "Alex Shevchenko",
+      "title": "Co-founder (Grammarly)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/superhuman-1"
+    },
+    {
+      "name": "Noam Lovinsky",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/superhuman-1"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A (as Grammarly)",
+      "date": "2017-05",
+      "amount": "$110M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://techcrunch.com/2019/10/10/grammarly-raises-90m-at-over-1b-valuation-for-its-ai-based-grammar-and-writing-tools/"
+    },
+    {
+      "round": "Series B (as Grammarly)",
+      "date": "2019-10",
+      "amount": "$90M",
+      "valuation": "$1B+",
+      "lead": "General Catalyst",
+      "source": "https://techcrunch.com/2019/10/10/grammarly-raises-90m-at-over-1b-valuation-for-its-ai-based-grammar-and-writing-tools/"
+    },
+    {
+      "round": "Series C (as Grammarly)",
+      "date": "2021-11",
+      "amount": "$200M+",
+      "valuation": "$13B",
+      "lead": "Baillie Gifford, BlackRock",
+      "source": "http://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai"
+    },
+    {
+      "round": "Non-dilutive financing (General Catalyst CVF)",
+      "date": "2025-05",
+      "amount": "$1B",
+      "valuation": null,
+      "lead": "General Catalyst Customer Value Fund",
+      "source": "https://techcrunch.com/2025/05/29/grammarly-secures-1b-in-non-dilutive-funding-from-general-catalyst/"
+    }
+  ],
+  "total_raised": "~$400M equity (PitchBook, 2021) + $1B non-dilutive (2025)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

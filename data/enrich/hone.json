@@ -1,0 +1,45 @@
+{
+  "slug": "hone",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2026,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Moritz Stephan",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.indexventures.com/perspectives/ai-that-owns-business-outcomes-our-investment-in-hone/"
+    },
+    {
+      "name": "Oliver Brady",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/carlokobe_five-months-ago-i-founded-hone-with-moritz-activity-7514019402665799680-y3Go"
+    },
+    {
+      "name": "Carlo Kobe",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/carlokobe_five-months-ago-i-founded-hone-with-moritz-activity-7514019402665799680-y3Go"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-10",
+      "amount": "$60M",
+      "valuation": "$285M (reported)",
+      "lead": "Benchmark, Index Ventures",
+      "source": "https://hone.com/blog/introducing-engines/"
+    }
+  ],
+  "total_raised": "$60M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

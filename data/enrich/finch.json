@@ -1,0 +1,54 @@
+{
+  "slug": "finch",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jeremy Zhang",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/jeremyziyuzhang/",
+      "source": "http://ycombinator.com/companies/finch"
+    },
+    {
+      "name": "Ansel Parikh",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/ansel-parikh/",
+      "source": "http://ycombinator.com/companies/finch"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2022-06",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Menlo Ventures",
+      "source": "https://techcrunch.com/2022/06/08/finch-raises-15m-to-build-an-api-for-hr-systems/"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-02",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "General Catalyst, Menlo Ventures",
+      "source": "https://www.globenewswire.com/news-release/2023/02/22/2613077/0/en/employment-api-leader-finch-closes-40-million-series-b-round.html"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2023-06",
+      "amount": null,
+      "valuation": null,
+      "lead": "Intuit Ventures",
+      "source": "https://www.tryfinch.com/blog/intuit-ventures-invests-in-finch"
+    }
+  ],
+  "total_raised": "$58.6M+ (as of Feb 2023, before Intuit extension)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

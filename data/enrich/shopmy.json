@@ -1,0 +1,69 @@
+{
+  "slug": "shopmy",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Harry Rein",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/shopmy-raises-70m-at-1-5-billion-valuation-to-scale-the-curated-commerce-infrastructure-for-premium-brands-tastemakers-and-shoppers-302590802.html"
+    },
+    {
+      "name": "Tiffany Lopinsky",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/shopmy-raises-70m-at-1-5-billion-valuation-to-scale-the-curated-commerce-infrastructure-for-premium-brands-tastemakers-and-shoppers-302590802.html"
+    },
+    {
+      "name": "Chris Tinsley",
+      "title": "Co-founder & Chief Business Development Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/shopmy-raises-70m-at-1-5-billion-valuation-to-scale-the-curated-commerce-infrastructure-for-premium-brands-tastemakers-and-shoppers-302590802.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2022-11",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "Rand Currier",
+      "source": "https://www.prnewswire.com/news-releases/shopmy-shelf-closes-8m-in-series-a-funding-and-rebrands-to-shopmy-301677466.html"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2024-03",
+      "amount": "$18.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2024/03/14/shopmy-influencer-marketing-platform-lands-18-5-million-funding-round/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-01",
+      "amount": "$77.5M",
+      "valuation": null,
+      "lead": "Bessemer Venture Partners, Bain Capital Ventures",
+      "source": "https://shopmy.us/blog/post/shopmy-raises-$77.5m-to-pioneer-performance-first-approach"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-10",
+      "amount": "$70M",
+      "valuation": "$1.5B",
+      "lead": "Avenir",
+      "source": "https://www.prnewswire.com/news-releases/shopmy-raises-70m-at-1-5-billion-valuation-to-scale-the-curated-commerce-infrastructure-for-premium-brands-tastemakers-and-shoppers-302590802.html"
+    }
+  ],
+  "total_raised": "~$174M (sum of disclosed rounds)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "sphere",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Nicholas Rudder",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/sphere"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-08",
+      "amount": "$4.3M",
+      "valuation": null,
+      "lead": "Felicis",
+      "source": "https://svpost.com/articles/sphere-21m-series-a-a16z/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-11",
+      "amount": "$21M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://getsphere.com/blog/sphere-raises-21m-series-a"
+    }
+  ],
+  "total_raised": "$25.3M (sum of disclosed rounds)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

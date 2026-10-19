@@ -1,0 +1,56 @@
+{
+  "slug": "descript",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Laura Burkhauser",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/burkhauser",
+      "source": "https://app.welcometothejungle.com/companies/Descript"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2017-12",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.wsj.com/articles/andrew-masons-new-startup-grabs-5-million-for-audio-editing-service-1513081800"
+    },
+    {
+      "round": "Series A",
+      "date": "2019",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://fundbat.com/company/descript/"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-01",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Spark Capital",
+      "source": "https://www.vcnewsdaily.com/Descript/venture-funding.php"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-11",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "OpenAI Startup Fund",
+      "source": "https://techcrunch.com/2022/11/15/ai-powered-media-editing-app-descript-lands-fresh-cash-from-openai/"
+    }
+  ],
+  "total_raised": "$100M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": [],
+  "note": "Founder Andrew Mason stepped aside as CEO in 2025; Laura Burkhauser (ex-VP Product) became CEO Aug 2025."
+}

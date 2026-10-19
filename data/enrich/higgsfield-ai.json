@@ -1,0 +1,109 @@
+{
+  "slug": "higgsfield-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~600 (LinkedIn); 555 (Tracxn)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/higgsfield"
+  },
+  "leadership": [
+    {
+      "name": "Alex Mashrabov",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/amashrabov",
+      "source": "https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html"
+    },
+    {
+      "name": "Yerzat Dulat",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/higgsfield"
+    },
+    {
+      "name": "Mahi de Silva",
+      "title": "Co-founder & Chief Strategy Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/higgsfield"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-01",
+      "amount": "$8.16M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://tracxn.com/d/companies/higgsfield/__HOGu4TInAP4ifiKkUkJ2LqOJJnDsgiF12TQdX5qsv9Q/funding-and-investors"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-09",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "GFT Ventures",
+      "source": "https://tracxn.com/d/companies/higgsfield/__HOGu4TInAP4ifiKkUkJ2LqOJJnDsgiF12TQdX5qsv9Q/funding-and-investors"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2026-01",
+      "amount": "$80M",
+      "valuation": "$1.3B",
+      "lead": null,
+      "source": "https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-08",
+      "amount": "$400M",
+      "valuation": "$5.4B",
+      "lead": "DST Global",
+      "source": "https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html"
+    }
+  ],
+  "total_raised": "~$538M (Tracxn)",
+  "revenue_est": {
+    "value": "$1B+ annualized revenue run rate",
+    "as_of": "Sep 2026",
+    "basis": "company-stated",
+    "source": "https://higgsfield.ai/blog/higgsfield-1b-annualized-revenue-run-rate"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Says annualized revenue run rate topped $1B",
+      "url": "https://higgsfield.ai/blog/higgsfield-1b-annualized-revenue-run-rate"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Raises $400M Series B led by DST Global at $5.4B; $700M annualized revenue",
+      "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Forbes reports misleading marketing, shock-content ads and delayed creator payments",
+      "url": "https://www.forbes.com/sites/rashishrivastava/2026/02/11/racist-videos-and-payment-problems-the-dark-side-of-this-ai-startups-super-fast-growth"
+    },
+    {
+      "date": "2026-01",
+      "headline": "$80M Series A extension values company at $1.3B; $200M run rate",
+      "url": "https://www.reuters.com/business/media-telecom/ai-video-startup-higgsfield-hits-13-billion-valuation-with-latest-funding-2026-01-15/"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Closes $50M Series A led by GFT Ventures",
+      "url": "https://tracxn.com/d/companies/higgsfield/__HOGu4TInAP4ifiKkUkJ2LqOJJnDsgiF12TQdX5qsv9Q/funding-and-investors"
+    }
+  ],
+  "competitors": [
+    "runway",
+    "synthesia",
+    "invideo",
+    "pika",
+    "krea"
+  ]
+}

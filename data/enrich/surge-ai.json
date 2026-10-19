@@ -1,0 +1,23 @@
+{
+  "slug": "surge-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Edwin Chen",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/edwinzchen",
+      "source": "https://en.wikipedia.org/wiki/Surge_AI"
+    }
+  ],
+  "funding_history": [],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": [],
+  "note": "Bootstrapped, no outside funding (https://edwinchen.ai/index.html); Reuters reported Jul 2025 it was seeking up to $1B in its first raise - not confirmed closed."
+}

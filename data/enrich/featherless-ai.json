@@ -1,0 +1,53 @@
+{
+  "slug": "featherless-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Eugene Cheah",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://featherless.ai/about"
+    },
+    {
+      "name": "Harrison Vanderbyl",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconangle.com/2026/04/30/featherless-ai-pulls-20m-scale-serverless-hosting-open-source-ai-models/"
+    },
+    {
+      "name": "Wesley George",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconangle.com/2026/04/30/featherless-ai-pulls-20m-scale-serverless-hosting-open-source-ai-models/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-03",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "Airbus Ventures (named first)",
+      "source": "https://featherless.ai/blog/featherless-ai-raises-usd5m-in-seed-funding-to-democratize-access-to-open-source-ai-models"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-04",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "AMD Ventures, Airbus Ventures",
+      "source": "https://featherless.ai/blog/series-a"
+    }
+  ],
+  "total_raised": "$25M (sum of disclosed rounds)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

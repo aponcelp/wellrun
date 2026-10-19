@@ -1,0 +1,104 @@
+{
+  "slug": "chainguard",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "Kirkland, WA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Dan Lorenc",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.chainguard.dev/unchained/announcing-chainguards-series-d-building-the-safe-source-for-all-open-source"
+    },
+    {
+      "name": "Matt Moore",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/60ee46d178291e1e763b6308/chainguard"
+    },
+    {
+      "name": "Ville Aikas",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/60ee46d178291e1e763b6308/chainguard"
+    },
+    {
+      "name": "Quincy Castro",
+      "title": "CISO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/60ee46d178291e1e763b6308/chainguard"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series C",
+      "date": "2024-07",
+      "amount": "$140M",
+      "valuation": "$1.12B",
+      "lead": "Redpoint, Lightspeed, IVP",
+      "source": "https://www.chainguard.dev/unchained/chainguard-raises-140-million-in-series-c-funding-to-secure-the-next-frontier-of-ai-workloads"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-04",
+      "amount": "$356M",
+      "valuation": "$3.5B",
+      "lead": "Kleiner Perkins, IVP",
+      "source": "https://www.prnewswire.com/news-releases/chainguard-raises-356-million-in-series-d-funding-to-be-the-safe-source-for-all-open-source-302435220.html"
+    },
+    {
+      "round": "Growth financing (non-dilutive)",
+      "date": "2025-10",
+      "amount": "$280M",
+      "valuation": null,
+      "lead": "General Catalyst Customer Value Fund",
+      "source": "https://www.reuters.com/business/security-startup-chainguard-lands-280-million-general-catalyst-boost-sales-2025-10-23"
+    }
+  ],
+  "total_raised": "$612M equity (company, Apr 2025) + $280M non-dilutive growth financing",
+  "revenue_est": {
+    "value": "~$100M ARR (up from $40M FY2025 company-stated)",
+    "as_of": "Jun 2026",
+    "basis": "estimate",
+    "source": "https://sacra.com/c/chainguard/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches Chainguard Checks and Harness at Assemble London",
+      "url": "https://www.prnewswire.com/news-releases/introducing-chainguard-checks-reinventing-continuous-integration-for-the-agentic-era-302907718.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Passes 1B container build manifests and 3,000 images",
+      "url": "https://www.prnewswire.com/news-releases/chainguard-surpasses-1-billion-container-build-manifests-doubling-growth-in-six-months-302868581.html"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Named a Leader in inaugural Gartner MQ for Software Supply Chain Security",
+      "url": "https://www.prnewswire.com/news-releases/chainguard-named-a-leader-in-inaugural-gartner-magic-quadrant-for-software-supply-chain-security-302806535.html"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Introduces the Guardener AI agent for Dockerfile migration",
+      "url": "https://www.prnewswire.com/news-releases/chainguard-introduces-the-guardener-intelligent-continuous-maintenance-for-secure-software-artifacts-302715322.html"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Lands $280M non-dilutive growth financing from General Catalyst",
+      "url": "https://www.reuters.com/business/security-startup-chainguard-lands-280-million-general-catalyst-boost-sales-2025-10-23"
+    }
+  ],
+  "competitors": [
+    "Docker Hardened Images",
+    "Echo",
+    "Minimus",
+    "Root.io",
+    "Snyk"
+  ]
+}

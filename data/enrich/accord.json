@@ -1,0 +1,61 @@
+{
+  "slug": "accord",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ross Rich",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://inaccord.com/company/about"
+    },
+    {
+      "name": "Ryan Rich",
+      "title": "Co-founder & CCO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://inaccord.com/company/about"
+    },
+    {
+      "name": "Wayne Pan",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://inaccord.com/company/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-02",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "Stripe, Y Combinator",
+      "source": "http://inaccord.com/blog-posts/raised-6m-from-stripe-to-transform-sales-from-vendorship-partnership"
+    },
+    {
+      "round": "Seed extension",
+      "date": "2021-08",
+      "amount": "$1M+",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2021/08/18/b2b-sales-platform-accord-adds-1m-to-seed-round/"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-01",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Matrix Partners",
+      "source": "https://techcrunch.com/2023/01/24/accord-which-offers-a-platform-to-manage-sales-processes-secures-10m/"
+    }
+  ],
+  "total_raised": "$17M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

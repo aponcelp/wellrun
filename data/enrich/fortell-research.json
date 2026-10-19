@@ -1,0 +1,52 @@
+{
+  "slug": "fortell-research",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Matthew de Jonge",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/sites/innovationrx/2026/07/29/the-startup-using-ai-to-make-hearing-aids-better/"
+    },
+    {
+      "name": "Andrew Casper",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://fortell.com/blog/a-letter-from-the-founders-of-fortell"
+    },
+    {
+      "name": "Cole Morris",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://fortell.com/blog/a-letter-from-the-founders-of-fortell"
+    },
+    {
+      "name": "Igor Lovchinsky",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://fortell.com/blog/a-letter-from-the-founders-of-fortell"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Venture round",
+      "date": "2026-09",
+      "amount": "$163M",
+      "valuation": "$740M",
+      "lead": "Founders Fund, Thrive Capital, Valor Equity Partners (co-leads)",
+      "source": "https://dealroom.co/news/149734-fortell-raises-163m-for-ai-hearing-aids-at-a-740m-valuation"
+    }
+  ],
+  "total_raised": "$163M+ (seed amount undisclosed)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

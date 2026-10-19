@@ -1,0 +1,76 @@
+{
+  "slug": "unit",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "New York, NY (and Tel Aviv)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Itai Damti",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://unit.co/about"
+    },
+    {
+      "name": "Elroie Roash",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://unit.co/about"
+    },
+    {
+      "name": "Vignesh Nathan",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://unit.co/about"
+    },
+    {
+      "name": "Alex Acree",
+      "title": "Chief Legal Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://unit.co/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020",
+      "amount": "$3.6M",
+      "valuation": null,
+      "lead": "TLV Partners",
+      "source": "https://tracxn.com/d/companies/unit/__qRWVF4NgThVRx3EHZtjdpvYkD2A9JYpPiB6AboEbgBo/funding-and-investors"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-12",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Aleph",
+      "source": "https://tracxn.com/d/companies/unit/__qRWVF4NgThVRx3EHZtjdpvYkD2A9JYpPiB6AboEbgBo/funding-and-investors"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-06",
+      "amount": "$51M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "http://techcrunch.com/2021/06/17/unit-raises-51m-in-accel-led-series-b-to-grow-its-banking-as-a-service-platform"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-05",
+      "amount": "$100M",
+      "valuation": "$1.2B",
+      "lead": "Insight Partners",
+      "source": "https://www.prnewswire.com/news-releases/banking-as-a-service-platform-unit-announces-100-million-series-c-led-by-insight-partners-valuing-the-company-at-1-2-billion-301549060.html"
+    }
+  ],
+  "total_raised": "$169.6M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

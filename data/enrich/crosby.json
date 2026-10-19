@@ -1,0 +1,54 @@
+{
+  "slug": "crosby",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ryan Daniels",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/sites/rashishrivastava/2026/03/31/why-this-ai-law-firm-is-ditching-the-billable-hour/"
+    },
+    {
+      "name": "John Sarihan",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/06/17/sequoia-backed-crosby-launches-a-new-kind-of-ai-powered-law-firm/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-06",
+      "amount": "$5.8M",
+      "valuation": null,
+      "lead": "Sequoia",
+      "source": "https://techcrunch.com/2025/06/17/sequoia-backed-crosby-launches-a-new-kind-of-ai-powered-law-firm/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-10",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Index Ventures, Bain Capital Ventures, Elad Gil",
+      "source": "https://www.upstartsmedia.com/p/crosby-ai-law-firm-raises-20-million"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-03",
+      "amount": "$60M",
+      "valuation": null,
+      "lead": "Lux Capital, Index Ventures",
+      "source": "https://crosby.ai/blog/series-b-planting-our-flag"
+    }
+  ],
+  "total_raised": "~$86M (per Law360)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

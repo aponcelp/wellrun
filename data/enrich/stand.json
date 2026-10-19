@@ -1,0 +1,107 @@
+{
+  "slug": "stand",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Dan Preston",
+      "title": "Co-founder & CEO (ex-Metromile CEO)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fintech.global/2026/10/16/stand-hits-1bn-valuation-with-70m-series-c-raise/"
+    },
+    {
+      "name": "Jason Mueller",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.caplight.com/company/standinsurance"
+    },
+    {
+      "name": "Sam Shank",
+      "title": "Co-founder (HotelTonight founder)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.convectivecapital.com/stand"
+    },
+    {
+      "name": "Bill Clerico",
+      "title": "Co-founder (WePay founder)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.convectivecapital.com/stand"
+    },
+    {
+      "name": "Drew Saad",
+      "title": "President, Property & Casualty (ex-PURE CUO)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://traded.co/vc/deal/stand-raises-70-million-in-series-c-funding-from-saga-ventures-at-1-billion-valuation/"
+    },
+    {
+      "name": "Tony Landi",
+      "title": "CFO (ex-Nephila)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://traded.co/vc/deal/stand-raises-70-million-in-series-c-funding-from-saga-ventures-at-1-billion-valuation/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed/Series A (pre-launch)",
+      "date": "2024-12",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Inspired Capital, Lowercarbon, Equal Ventures, Convective Capital (no lead named)",
+      "source": "https://www.prnewswire.com/news-releases/team-of-silicon-valley-veterans-launch-stand-insurance-using-physics-driven-ai-to-insure-the-worlds-climate-impacted-properties-302333108.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-10",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Eclipse",
+      "source": "https://www.prnewswire.com/news-releases/stand-raises-35-million-series-b-expands-into-florida-to-insure-the-nations-most-at-risk-homes-302585483.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-10",
+      "amount": "$70M",
+      "valuation": "$1B",
+      "lead": "Saga Ventures",
+      "source": "https://www.prnewswire.com/news-releases/stand-raises-70-million-series-c-at-1-billion-valuation-to-make-the-worlds-homes-resilient-against-natural-disasters-302910105.html"
+    }
+  ],
+  "total_raised": "$130M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $70M Series C at $1B led by Saga Ventures; insured value hits $10B+",
+      "url": "https://www.prnewswire.com/news-releases/stand-raises-70-million-series-c-at-1-billion-valuation-to-make-the-worlds-homes-resilient-against-natural-disasters-302910105.html"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Names ex-PURE CUO Drew Saad President of P&C and Tony Landi CFO",
+      "url": "https://traded.co/vc/deal/stand-raises-70-million-in-series-c-funding-from-saga-ventures-at-1-billion-valuation/"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Raises $35M Series B led by Eclipse; expands into Florida",
+      "url": "https://www.prnewswire.com/news-releases/stand-raises-35-million-series-b-expands-into-florida-to-insure-the-nations-most-at-risk-homes-302585483.html"
+    },
+    {
+      "date": "2024-12",
+      "headline": "Emerges from stealth with $30M and California wildfire homeowners product",
+      "url": "https://www.prnewswire.com/news-releases/team-of-silicon-valley-veterans-launch-stand-insurance-using-physics-driven-ai-to-insure-the-worlds-climate-impacted-properties-302333108.html"
+    }
+  ],
+  "competitors": [
+    "Kin Insurance",
+    "Hippo",
+    "Openly",
+    "PURE Insurance"
+  ]
+}

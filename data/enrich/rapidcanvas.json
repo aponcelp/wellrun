@@ -1,0 +1,46 @@
+{
+  "slug": "rapidcanvas",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Austin, TX",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Rahul Pangam",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.rapidcanvas.ai/newsroom/rapidcanvas-raises-29m-series-b-to-bring-fortune-100-grade-ai-to-every-enterprise"
+    },
+    {
+      "name": "Uttam Phalnikar",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/10/16/3382607/0/en/rapidcanvas-raises-29m-series-b-to-bring-fortune-100-grade-ai-to-every-enterprise.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2024-12",
+      "amount": "$16M",
+      "valuation": null,
+      "lead": "Peak XV Partners",
+      "source": "https://www.forbes.com/sites/davidprosser/2024/12/11/turning-ai-theory-into-enterprise-practice-with-rapidcanvas/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-10",
+      "amount": "$29M",
+      "valuation": null,
+      "lead": "Vertex Ventures SEA & India",
+      "source": "https://www.rapidcanvas.ai/newsroom/rapidcanvas-raises-29m-series-b-to-bring-fortune-100-grade-ai-to-every-enterprise"
+    }
+  ],
+  "total_raised": "$52.5M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

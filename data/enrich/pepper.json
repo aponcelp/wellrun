@@ -1,0 +1,69 @@
+{
+  "slug": "pepper",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Bowie Cheung",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.usepepper.com/post/peppers-50m-series-c-building-the-next-generation-of-technology-for-food-distribution"
+    },
+    {
+      "name": "Chetan Narain",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2021/11/30/pepper-ordering-food-distributors/"
+    },
+    {
+      "name": "Ivana Tesanovic",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2021/11/30/pepper-ordering-food-distributors/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-09",
+      "amount": null,
+      "valuation": null,
+      "lead": "Greylock",
+      "source": "https://app.dealroom.co/companies/pepper_pantry"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-11",
+      "amount": "$16M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://www.businesswire.com/news/home/20211130005793/en/eCommerce-Platform-Pepper-Raises-%2416M-in-Series-A-Funding-to-Enhance-Ordering-Experience-for-Food-Distributors"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-05",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "ICONIQ Growth",
+      "source": "https://techcrunch.com/2024/05/13/pepper-iconiq-startup-foodservice-ecommerce-30m/"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-02",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Lead Edge Capital",
+      "source": "https://www.businesswire.com/news/home/20260220742173/en/Pepper-Secures-%2450-Million-Series-C-to-Expand-End-to-End-Technology-Platform-for-Independent-Food-Distributors"
+    }
+  ],
+  "total_raised": "~$96M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "paraform",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "100 employees",
+    "as_of": "Jun 2026",
+    "source": "https://www.linkedin.com/posts/johnkim5480931a8_2026-h1-was-huge-for-paraform-we-moved-activity-7480297134517379072-U_Gw"
+  },
+  "leadership": [
+    {
+      "name": "John Kim",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.axios.com/pro/all-deals/2026/03/18/paraform-ai-recruiting-series-b"
+    },
+    {
+      "name": "Jeffrey Li",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.nasdaqprivatemarket.com/company/paraform"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2023-03",
+      "amount": "$1.4M",
+      "valuation": null,
+      "lead": "Primer Sazze Partners",
+      "source": "https://techcrunch.com/2023/03/27/paraform/"
+    },
+    {
+      "round": "Seed",
+      "date": "2024-04",
+      "amount": "$3.6M",
+      "valuation": null,
+      "lead": "A*",
+      "source": "https://techcrunch.com/2024/04/15/paraform-a-recruiting-platform-that-connects-recruiters-and-startups-raises-funding/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-06",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Felicis",
+      "source": "https://www.businesswire.com/news/home/20250624395231/en/In-a-Sea-of-AI-Tools-Paraform-Bets-on-People-with-$20M-Series-A-from-Felicis"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-03",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "Scale Venture Partners",
+      "source": "https://paraform.com/blog/series-b"
+    }
+  ],
+  "total_raised": "$65M",
+  "revenue_est": {
+    "value": "$100M annualized revenue (doubled in prior 6 months)",
+    "as_of": "Jul 2026",
+    "basis": "company-stated",
+    "source": "https://www.paraform.com/blog/100m-annualized-revenue"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Launches Paraform Agents: a custom AI matching agent on every role",
+      "url": "https://www.linkedin.com/posts/paraformxyz_introducing-paraform-agents-powered-by-our-activity-7498776358219730944-V11W"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Introduces Paraform Hiring Intelligence layer",
+      "url": "https://www.paraform.com/blog/hiring-intelligence"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Crosses $100M in annualized revenue, two years after first dollar",
+      "url": "https://www.paraform.com/blog/100m-annualized-revenue"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Raises $40M Series B led by Scale Venture Partners",
+      "url": "https://www.axios.com/pro/all-deals/2026/03/18/paraform-ai-recruiting-series-b"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Raises $20M Series A led by Felicis after 40x revenue growth",
+      "url": "https://www.businesswire.com/news/home/20250624395231/en/In-a-Sea-of-AI-Tools-Paraform-Bets-on-People-with-$20M-Series-A-from-Felicis"
+    }
+  ],
+  "competitors": [
+    "mercor",
+    "juicebox",
+    "Hunt Club",
+    "Gem"
+  ]
+}

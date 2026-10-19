@@ -1,0 +1,38 @@
+{
+  "slug": "aurasell",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Mateo, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jason Eubanks",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.aurasell.ai/resources/aurasell-launches"
+    },
+    {
+      "name": "Srinivas Bandi",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.aurasell.ai/resources/aurasell-launches"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-08 (announced; closed Jun 2024)",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "N47 (Next47)",
+      "source": "http://businessinsider.com/ai-sales-startup-aurasell-raised-30-million-salesforce-2025-8"
+    }
+  ],
+  "total_raised": "$30M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

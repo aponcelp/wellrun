@@ -1,0 +1,47 @@
+{
+  "slug": "lindy",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Flo Crivello",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/florentcrivello",
+      "source": "http://flocrivello.com/home"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (as Teamflow)",
+      "date": "2021-01",
+      "amount": "$3.9M",
+      "valuation": null,
+      "lead": "Menlo Ventures",
+      "source": "https://techcrunch.com/2021/01/06/teamflow-lands-3-9-million-for-a-productive-virtual-hq-platform"
+    },
+    {
+      "round": "Series A (as Teamflow)",
+      "date": "2021-03",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": "Battery Ventures",
+      "source": "https://assets.website-files.com/5f09ed4399101722511c55e7/6104404360b12171dba5969b_Final_Teamflow%20Series%20A%20Press%20Release_March%2015,%202021%20.pdf"
+    },
+    {
+      "round": "Series B (as Teamflow)",
+      "date": "2021-07",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Coatue",
+      "source": "https://www.teamflowhq.com/blog/teamflow-raises-35m-series-b"
+    }
+  ],
+  "total_raised": "~$50M (raised as Teamflow; carried into Lindy pivot in 2023)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

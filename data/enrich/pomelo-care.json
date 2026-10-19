@@ -1,0 +1,95 @@
+{
+  "slug": "pomelo-care",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Marta Bralic Kerns",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/martabralic",
+      "source": "https://www.pomelocare.com/news/press-release-pomelo-care-raises-92-million-series-c-reaches-1-7-billion-valuation-to-expand-its-proven-model-beyond-maternity-set-a-new-national-standard-for-womens-and-childrens-healthcare"
+    },
+    {
+      "name": "Isabelle Von Kohorn",
+      "title": "Chief Medical Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.pomelocare.com/about-us"
+    },
+    {
+      "name": "Shyamali Choudhury",
+      "title": "Chief Commercial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/58dd06b1e4b0d836de382d72/pomelo%20care"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021",
+      "amount": null,
+      "valuation": null,
+      "lead": "Andreessen Horowitz, First Round Capital (co-leads)",
+      "source": "https://www.pomelocare.com/news/pomelo-care-secures-33m-to-deliver-value-based-care-and-improve-maternal-and-newborn-health"
+    },
+    {
+      "round": "Series A (announced with seed; $33M combined)",
+      "date": "2023-06",
+      "amount": "$33M (seed + Series A)",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.pomelocare.com/news/pomelo-care-secures-33m-to-deliver-value-based-care-and-improve-maternal-and-newborn-health"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-06",
+      "amount": "$46M",
+      "valuation": "~$500M (PitchBook via Forbes)",
+      "lead": "First Round Capital, Andreessen Horowitz",
+      "source": "https://www.prnewswire.com/news-releases/pomelo-care-raises-46-million-covers-over-3-million-lives-and-publishes-data-proving-its-virtual-care-model-improves-outcomes-302177519.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-01",
+      "amount": "$92M",
+      "valuation": "$1.7B",
+      "lead": "Stripes",
+      "source": "https://www.pomelocare.com/news/press-release-pomelo-care-raises-92-million-series-c-reaches-1-7-billion-valuation-to-expand-its-proven-model-beyond-maternity-set-a-new-national-standard-for-womens-and-childrens-healthcare"
+    }
+  ],
+  "total_raised": "~$171M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Publishes claims data showing shorter NICU stays and lower infant costs",
+      "url": "https://www.prnewswire.com/news-releases/pomelo-care-shares-new-data-demonstrating-reduced-nicu-utilization-lower-infant-healthcare-costs-and-improved-quality-of-care-through-its-virtual-maternity-care-model-302885345.html"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Releases Koch case study showing fewer NICU admissions",
+      "url": "https://www.pomelocare.com/news/pomelo-care-and-koch-release-case-study-showing-reduced-nicu-admissions-and-improved-maternal-and-infant-outcomes"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raises $92M Series C at $1.7B led by Stripes; expands beyond maternity",
+      "url": "https://www.pomelocare.com/news/press-release-pomelo-care-raises-92-million-series-c-reaches-1-7-billion-valuation-to-expand-its-proven-model-beyond-maternity-set-a-new-national-standard-for-womens-and-childrens-healthcare"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Launches perimenopause and menopause midlife care program",
+      "url": "https://www.fiercehealthcare.com/health-tech/pomelo-care-banks-92m-expand-virtual-womens-health-pediatric-care-services"
+    }
+  ],
+  "competitors": [
+    "Maven Clinic",
+    "Progyny",
+    "midi-health",
+    "Wildflower Health",
+    "Ovia Health (Labcorp)"
+  ]
+}

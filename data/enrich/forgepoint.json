@@ -1,0 +1,38 @@
+{
+  "slug": "forgepoint",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jack Strauss",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://jobs.ashbyhq.com/forgepoint/ef00069d-d882-4a97-97bb-876931a8ea44"
+    },
+    {
+      "name": "Alex Pareto",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://www.globenewswire.com/news-release/2026/10/14/3380766/0/en/forgepoint-raises-9-8m-to-help-manufacturers-quote-faster-and-win-more-business.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-10",
+      "amount": "$9.8M",
+      "valuation": null,
+      "lead": "Primary Venture Partners, a16z speedrun",
+      "source": "http://www.globenewswire.com/news-release/2026/10/14/3380766/0/en/forgepoint-raises-9-8m-to-help-manufacturers-quote-faster-and-win-more-business.html"
+    }
+  ],
+  "total_raised": "$9.8M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

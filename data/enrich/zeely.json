@@ -1,0 +1,61 @@
+{
+  "slug": "zeely",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "Ukraine (Zeely, Inc., Delaware)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Dima Samoiliuk",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://zeely.ai/leadership/"
+    },
+    {
+      "name": "Yaroslav Samoiliuk",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://zeely.ai/leadership/"
+    },
+    {
+      "name": "Alina Bondarenko",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://zeely.ai/leadership/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-04",
+      "amount": "$1M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2023/04/12/ukrainian-startup-zeely-raises-1m-for-smb-growth-app-aimed-at-us-uk-brazil-mexico/"
+    },
+    {
+      "round": "Strategic (competition prize)",
+      "date": "2026-05",
+      "amount": "$1M",
+      "valuation": null,
+      "lead": "Deel",
+      "source": "https://dealroom.co/news/129995-zeely-raises-1m-from-deel-after-winning-startup-competition"
+    },
+    {
+      "round": "Unannounced equity (SEC Form D)",
+      "date": "2026-09",
+      "amount": "$8.84M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://runtimewire.com/article/zeely-files-8-84m-equity-offering"
+    }
+  ],
+  "total_raised": "~$10M+ (PitchBook: $10.2M)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "overstory",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "Somerville, MA / Amsterdam (founded in Lisbon)",
+  "headcount_est": {
+    "value": "98 employees across 12 countries",
+    "as_of": "Jan 2026",
+    "source": "https://www.overstory.com/blog/a-year-of-action"
+  },
+  "leadership": [
+    {
+      "name": "Fiona Spruill",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://overstory.com/about-us"
+    },
+    {
+      "name": "Doug Perrygo",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://overstory.com/about-us"
+    },
+    {
+      "name": "Tamara Mendelsohn",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://overstory.com/about-us"
+    },
+    {
+      "name": "Brian Lafayette",
+      "title": "VP of Product & Strategy",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://overstory.com/about-us"
+    },
+    {
+      "name": "Peternille Dekker",
+      "title": "Head of People",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://overstory.com/about-us"
+    },
+    {
+      "name": "Indra den Bakker",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://overstory.com/about-us"
+    },
+    {
+      "name": "Anniek Schouten",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://overstory.com/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed extension",
+      "date": "2022-11",
+      "amount": "$5.2M",
+      "valuation": null,
+      "lead": "Convective Capital",
+      "source": "https://www.overstory.com/blog/announcing-new-investment-and-customer-growth"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-10",
+      "amount": "$14M",
+      "valuation": null,
+      "lead": "B Capital",
+      "source": "https://techcrunch.com/2023/10/19/overstory-series-a-14m/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-11",
+      "amount": "$43M",
+      "valuation": null,
+      "lead": "Blume Equity",
+      "source": "https://www.prnewswire.com/news-releases/overstory-closes-43m-series-b-to-scale-ai-driven-wildfire-prevention-and-grid-resilience-302625561.html"
+    }
+  ],
+  "total_raised": "$69M (Blume Equity)",
+  "revenue_est": {
+    "value": "Eight-figure revenue",
+    "as_of": "Aug 2026",
+    "basis": "press report (Inc.)",
+    "source": "https://inc-1-smart-business-story.beehiiv.com/p/power-lines-keep-starting-deadly-wildfires-this-ai-startup-turned-its-solution-into-an-8-figure-busi"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Partners with Fulcrum to link risk models to verified field work",
+      "url": "https://www.prnewswire.com/news-releases/overstory-and-fulcrum-partner-to-deliver-closed-loop-risk-reduction-for-utilities-302892935.html"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Ranks No. 151 on the 2026 Inc. 5000; ~50 utility customers",
+      "url": "https://inc-1-smart-business-story.beehiiv.com/p/power-lines-keep-starting-deadly-wildfires-this-ai-startup-turned-its-solution-into-an-8-figure-busi"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Unveils AI Outage and Ignition models plus Overstory Scenarios",
+      "url": "https://www.prnewswire.com/news-releases/overstory-unveils-first-ai-models-to-predict-power-outages-and-wildfires-with-tree-level-precision-302749206.html"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Raises $43M Series B led by Blume Equity; names Tamara Mendelsohn COO",
+      "url": "https://www.prnewswire.com/news-releases/overstory-closes-43m-series-b-to-scale-ai-driven-wildfire-prevention-and-grid-resilience-302625561.html"
+    }
+  ],
+  "competitors": [
+    "AiDash",
+    "Neara",
+    "LiveEO",
+    "Sharper Shape"
+  ]
+}

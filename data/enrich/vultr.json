@@ -1,0 +1,54 @@
+{
+  "slug": "vultr",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2014,
+  "hq": "West Palm Beach, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "David Aninowsky",
+      "title": "Founder & Executive Chairman",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20241218657527/en/Vultr-Completes-Financing-With-LuminArx-and-AMD-Ventures-at-$3.5-Billion-Valuation-Accelerating-Growth-in-AI-Infrastructure"
+    },
+    {
+      "name": "J.J. Kardwell",
+      "title": "Chief Executive Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20241218657527/en/Vultr-Completes-Financing-With-LuminArx-and-AMD-Ventures-at-$3.5-Billion-Valuation-Accelerating-Growth-in-AI-Infrastructure"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Credit facility (debt)",
+      "date": "2021-04",
+      "amount": "$150M",
+      "valuation": null,
+      "lead": "J.P. Morgan, Bank of America",
+      "source": "https://blogs.vultr.com/Accelerating-Vultrs-Vision-Independent-Infrastructure-Cloud"
+    },
+    {
+      "round": "Growth equity (first outside equity)",
+      "date": "2024-12",
+      "amount": "$333M",
+      "valuation": "$3.5B",
+      "lead": "LuminArx Capital Management, AMD Ventures",
+      "source": "https://www.cnbc.com/2024/12/18/amd-invests-in-gpu-cloud-provider-vultr-at-3point5-billion-valuation.html"
+    },
+    {
+      "round": "Credit financing (debt)",
+      "date": "2025-06",
+      "amount": "$329M",
+      "valuation": null,
+      "lead": "J.P. Morgan, Bank of America, Wells Fargo",
+      "source": "https://capacityglobal.com/news/vultr-329m/"
+    }
+  ],
+  "total_raised": "$333M equity (plus ~$479M in disclosed debt facilities)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

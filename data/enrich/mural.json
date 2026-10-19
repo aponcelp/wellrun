@@ -1,0 +1,54 @@
+{
+  "slug": "mural",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2011,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Leigh-Margaret Stull",
+      "title": "Chief Executive Officer",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/leighmargaretstull",
+      "source": "https://linkedin.com/in/leighmargaretstull"
+    },
+    {
+      "name": "Mariano Suarez-Battan",
+      "title": "Co-founder; Executive Chairman of the Board (per LinkedIn)",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/batmelon",
+      "source": "https://linkedin.com/in/batmelon"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2020-01",
+      "amount": "$23M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2021/07/20/mural-raises-50m-series-c-after-tripling-its-arr-in-the-last-year"
+    },
+    {
+      "round": "Series B",
+      "date": "2020-08",
+      "amount": "$118M",
+      "valuation": "~$500M (reported)",
+      "lead": "Insight Partners",
+      "source": "https://news.crunchbase.com/venture/mural-closes-118m-for-visual-collaboration-tool"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-07",
+      "amount": "$50M",
+      "valuation": ">$2B",
+      "lead": "Insight Partners and Tiger Global",
+      "source": "http://www.mural.co/press-releases/series-c"
+    }
+  ],
+  "total_raised": "~$200M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "triple-whale",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Columbus, OH",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "AJ Orbach",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/avrahamorbach",
+      "source": "https://techcrunch.com/2023/02/02/triple-whale-raises-25m-for-its-shopify-data-platform"
+    },
+    {
+      "name": "Maxx Blank",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.triplewhale.com/about"
+    },
+    {
+      "name": "Ivan Chernykh",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.triplewhale.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021",
+      "amount": "$2.7M",
+      "valuation": null,
+      "lead": "NFX",
+      "source": "https://www.prnewswire.com/news-releases/triple-whale-raises-27-7m-to-develop-default-ecommerce-operating-system-for-shopify-brands-301510122.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-03",
+      "amount": "$24M",
+      "valuation": null,
+      "lead": "Elephant VC",
+      "source": "https://www.prnewswire.com/news-releases/triple-whale-raises-27-7m-to-develop-default-ecommerce-operating-system-for-shopify-brands-301510122.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-02",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "NFX, Elephant",
+      "source": "https://techcrunch.com/2023/02/02/triple-whale-raises-25m-for-its-shopify-data-platform"
+    }
+  ],
+  "total_raised": "$52.7M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

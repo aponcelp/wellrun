@@ -1,0 +1,91 @@
+{
+  "slug": "stuut",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Tarek Alaruri",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/10/07/3376511/0/en/ai-order-to-cash-platform-stuut-raises-52-5m-series-b-after-unlocking-40-more-cash-for-enterprises.html"
+    },
+    {
+      "name": "Ben Winter",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/stuut"
+    },
+    {
+      "name": "Adam Chaarwari",
+      "title": "Co-founder (pictured as founder in Series B release)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/10/07/3376511/0/en/ai-order-to-cash-platform-stuut-raises-52-5m-series-b-after-unlocking-40-more-cash-for-enterprises.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A (combined, incl. seed)",
+      "date": "2025-11",
+      "amount": "$29.5M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.prnewswire.com/news-releases/stuut-technologies-raises-29-5-million-series-a-led-by-andreessen-horowitz-to-automate-accounts-receivable-work-302621866.html"
+    },
+    {
+      "round": "Strategic",
+      "date": "2026-09",
+      "amount": "undisclosed",
+      "valuation": null,
+      "lead": "M12 (Microsoft)",
+      "source": "https://www.stuut.ai/blog/stuut-deepens-microsoft-relationship-to-bring-autonomous-order-to-cash-to-enterprise-customers"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-10",
+      "amount": "$52.5M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://www.globenewswire.com/news-release/2026/10/07/3376511/0/en/ai-order-to-cash-platform-stuut-raises-52-5m-series-b-after-unlocking-40-more-cash-for-enterprises.html"
+    }
+  ],
+  "total_raised": "$93M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $52.5M Series B led by Insight Partners, 10 months after Series A",
+      "url": "https://www.globenewswire.com/news-release/2026/10/07/3376511/0/en/ai-order-to-cash-platform-stuut-raises-52-5m-series-b-after-unlocking-40-more-cash-for-enterprises.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "M12 invests; Stuut joins Microsoft Marketplace and Pegasus program",
+      "url": "https://www.stuut.ai/blog/stuut-deepens-microsoft-relationship-to-bring-autonomous-order-to-cash-to-enterprise-customers"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Partners with Fiserv to embed agentic AR in Commerce Hub and SnapPay",
+      "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-and-stuut-partner-bring-agentic-ai-enterprise-receivables"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Expands from collections to full order-to-cash after $1B collected",
+      "url": "https://www.stuut.ai/blog/stuut-2-launch"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Raises $29.5M Series A led by Andreessen Horowitz",
+      "url": "https://fortune.com/2025/11/20/stuut-raises-29-5-million-series-a-led-by-andreessen-horowitz-to-automate-accounts-receivable"
+    }
+  ],
+  "competitors": [
+    "HighRadius",
+    "monk",
+    "Tesorio",
+    "Billtrust"
+  ]
+}

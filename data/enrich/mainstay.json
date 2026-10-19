@@ -1,0 +1,53 @@
+{
+  "slug": "mainstay",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Dod Fraser",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.mainstay.io/about"
+    },
+    {
+      "name": "J.D. Rasmussen",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.mainstay.io/about"
+    },
+    {
+      "name": "Michael Dulfer",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.mainstay.io/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A (spinout from Opendoor)",
+      "date": "2024-08",
+      "amount": null,
+      "valuation": null,
+      "lead": "Khosla Ventures",
+      "source": "https://www.globenewswire.com/news-release/2024/08/01/2923148/0/en/Mainstay-Launches-as-an-Independent-Company-from-Opendoor.html"
+    },
+    {
+      "round": "Growth round",
+      "date": "2026-09",
+      "amount": "$18M+",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.globenewswire.com/news-release/2026/09/16/3363326/0/en/mainstay-raises-18m-and-acquires-truelist-to-expand-ai-infrastructure-across-residential-real-estate.html"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

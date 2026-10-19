@@ -1,0 +1,61 @@
+{
+  "slug": "anomalo",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Elliot Shmukler",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.anomalo.com/about/"
+    },
+    {
+      "name": "Jeremy Stanley",
+      "title": "Co-founder & Chief Scientist",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.anomalo.com/about/"
+    },
+    {
+      "name": "Richard Hoyland",
+      "title": "President, Global Field Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.anomalo.com/about/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-12",
+      "amount": "~$6M (implied: $38.95M total after Series A minus $33M)",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.anomalo.com/blog/anomalo-raises-a-33-million-series-a-led-by-norwest-venture-partners"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-10",
+      "amount": "$33M",
+      "valuation": null,
+      "lead": "Norwest Venture Partners",
+      "source": "https://www.anomalo.com/blog/anomalo-raises-a-33-million-series-a-led-by-norwest-venture-partners"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-01",
+      "amount": "$33M",
+      "valuation": null,
+      "lead": "SignalFire",
+      "source": "https://techcrunch.com/2024/01/24/anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters"
+    }
+  ],
+  "total_raised": "$72M (as of Series B; later extensions not verified)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

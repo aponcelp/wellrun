@@ -1,0 +1,76 @@
+{
+  "slug": "campfire",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "101-250 (Crunchbase range)",
+    "as_of": "Oct 2026",
+    "source": "https://www.crunchbase.com/organization/campfire-cd2d"
+  },
+  "leadership": [
+    {
+      "name": "John Glasgow",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://campfire.ai/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-02",
+      "amount": "$3.5M",
+      "valuation": null,
+      "lead": "Foundation Capital",
+      "source": "https://campfire.ai/blog/were-coming-out-of-stealth-with-usd3-5m-in-funding-and-announcing-our-modern"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-06",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://techcrunch.com/2025/06/30/tiny-ai-erp-startup-campfire-is-winning-so-many-startups-from-netsuite-accel-led-a-35m-series-a/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-10",
+      "amount": "$65M",
+      "valuation": "$375M post (sources, per This Week in Fintech)",
+      "lead": "Accel, Ribbit Capital",
+      "source": "https://www.thisweekinfintech.com/p/campfire-raises-65m-in-series-b-co-led-by-accel-ribbit-just-months-after-last-raise"
+    }
+  ],
+  "total_raised": "$103.5M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Partners with Tabs to sync billing and ERP",
+      "url": "https://campfire.ai/blog/tabs-campfire-billing-and-the-erp-in-sync"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Opens London office",
+      "url": "https://campfire.ai/blog/campfire-london-office"
+    },
+    {
+      "date": "2026-02",
+      "headline": "CEO says revenue more than doubled six straight quarters",
+      "url": "https://aircfo.com/resources/funded-how-campfire-raised-100m-while-doubling-revenue-for-6-straight-quarters-john-glasgow"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Raises $65M Series B co-led by Accel and Ribbit, 12 weeks after Series A",
+      "url": "https://www.prnewswire.com/news-releases/campfire-raises-65-million-series-b-to-redefine-how-finance-works-in-the-ai-era-302585077.html"
+    }
+  ],
+  "competitors": [
+    "rillet",
+    "dualentry",
+    "NetSuite",
+    "Digits"
+  ]
+}

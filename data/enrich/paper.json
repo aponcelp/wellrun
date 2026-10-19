@@ -1,0 +1,39 @@
+{
+  "slug": "paper",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Stephen Haney",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260723608438/en/Paper-Raises-$34-Million-Series-A-with-Accel-and-ICONIQ-to-Build-the-Design-Platform-for-the-Agentic-Era"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-02",
+      "amount": "$4.2M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://paper.design/blog/seed"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-07",
+      "amount": "$34M",
+      "valuation": null,
+      "lead": "Accel, ICONIQ",
+      "source": "https://paper.design/blog/series-a"
+    }
+  ],
+  "total_raised": "$38.5M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

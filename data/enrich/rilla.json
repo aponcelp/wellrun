@@ -1,0 +1,100 @@
+{
+  "slug": "rilla",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~120 employees",
+    "as_of": "2026",
+    "source": "https://pitchbook.com/profiles/company/399529-99"
+  },
+  "leadership": [
+    {
+      "name": "Sebastian Jimenez",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.rilla.com/company/about"
+    },
+    {
+      "name": "Chris Martin",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.rilla.com/company/about"
+    },
+    {
+      "name": "Michael Castellanos",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://crew.vc/perspectives-insights/investinginrillavoice/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed / Series A",
+      "date": "2022-12",
+      "amount": "$3.7M",
+      "valuation": "~$45M post (Sacra)",
+      "lead": "Crew Capital",
+      "source": "https://crew.vc/perspectives-insights/investinginrillavoice/"
+    },
+    {
+      "round": "Series A1",
+      "date": "2023-12",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://sacra.com/c/rilla/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-06",
+      "amount": "$68.5M",
+      "valuation": "~$757M post (Sacra)",
+      "lead": "GV",
+      "source": "https://sacra.com/c/rilla/"
+    }
+  ],
+  "total_raised": "~$72-79M (Sacra/PitchBook)",
+  "revenue_est": {
+    "value": "~$70M ARR (up from $51M in 2025)",
+    "as_of": "Apr 2026",
+    "basis": "estimate (Sacra)",
+    "source": "https://sacra.com/research/70m-year-ride-along-gong/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Relaunches Rilla Intelligence ('100x more powerful') and launches Rilla Phone",
+      "url": "https://www.rilla.com/learn/rilla-labs/blogs/introducing-the-all-new-rilla-intelligence"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Launches Rilla Lessons, daily micro-lessons for field reps",
+      "url": "https://www.linkedin.com/posts/sebastian-jimenez-690149149_we-just-launched-whats-on-track-to-be-our-activity-7513987240587350016-g9Y1"
+    },
+    {
+      "date": "2026-01",
+      "headline": "The Home Depot adopts Rilla's AI coaching for service and sales pros",
+      "url": "https://www.prnewswire.com/news-releases/the-home-depot-to-advance-customer-experience-using-rillas-ai-powered-coaching-302660394.html"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Rolls out across 500+ Neighborly franchise locations",
+      "url": "https://www.businesswire.com/news/home/20251013361011/en/Rilla-and-Neighborly-Combine-Forces-to-Empower-Plumbers-HVAC-Technicians-with-AI"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Raises $68.5M Series B led by GV",
+      "url": "https://sacra.com/c/rilla/"
+    }
+  ],
+  "competitors": [
+    "Gong",
+    "Siro",
+    "SalesAsk",
+    "ServiceTitan"
+  ]
+}

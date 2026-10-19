@@ -1,0 +1,61 @@
+{
+  "slug": "nooks",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Dan Lee",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/dan9lee/",
+      "source": "https://www.nooks.ai/author/dan-lee"
+    },
+    {
+      "name": "Nikhil Cheerla",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/nooks-f66c"
+    },
+    {
+      "name": "Rohan Suri",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/sites/rashishrivastava/2024/10/24/this-ai-startup-wants-to-free-sales-reps-from-the-pains-of-cold-calling/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-07",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "Floodgate",
+      "source": "https://app.dealroom.co/companies/nooks1"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-04",
+      "amount": "$22M",
+      "valuation": null,
+      "lead": "Lachy Groom",
+      "source": "https://www.nooks.ai/blog-posts/nooks-raises-22m-series-a"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-10",
+      "amount": "$43M",
+      "valuation": "$285M",
+      "lead": "Kleiner Perkins",
+      "source": "https://www.forbes.com/sites/rashishrivastava/2024/10/24/this-ai-startup-wants-to-free-sales-reps-from-the-pains-of-cold-calling/"
+    }
+  ],
+  "total_raised": "$70M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

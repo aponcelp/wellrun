@@ -1,0 +1,62 @@
+{
+  "slug": "emerald-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "Washington, DC",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Varun Sivaram",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.emeraldai.co/blog/emerald-ai-raises-150-million-series-a"
+    },
+    {
+      "name": "Ayse Coskun",
+      "title": "Chief Scientist",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://salesforceventures.com/perspectives/welcome-emerald-ai/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-07",
+      "amount": "$24.5M",
+      "valuation": null,
+      "lead": "Radical Ventures",
+      "source": "https://www.prnewswire.com/news-releases/emerald-ai-launches-with-24-5m-seed-round-to-transform-ai-data-centers-into-grid-allies-302495064.html"
+    },
+    {
+      "round": "Seed extension",
+      "date": "2025-10",
+      "amount": "$18M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://emeraldai.co/blog/sharing-our-seed-extension-emerald-ais-total-funding-reaches-42-5-million-to-scale-power-flexible-ai-infrastructure"
+    },
+    {
+      "round": "Seed extension",
+      "date": "2026-02",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.datacenterdynamics.com/en/news/emerald-ai-raises-150m-in-series-a-funding-to-scale-commercial-deployments/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-08",
+      "amount": "$150M",
+      "valuation": "$1.05B",
+      "lead": "Energize Capital, DCVC",
+      "source": "https://www.emeraldai.co/blog/emerald-ai-raises-150-million-series-a"
+    }
+  ],
+  "total_raised": "$220M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

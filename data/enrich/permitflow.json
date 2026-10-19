@@ -1,0 +1,117 @@
+{
+  "slug": "permitflow",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "New York, NY (office in Milpitas, CA)",
+  "headcount_est": {
+    "value": "162 (Tracxn official count)",
+    "as_of": "Sep 2026",
+    "source": "https://platform.tracxn.com/a/d/company/58bf0dfbe4b068359c360d04/permitflow"
+  },
+  "leadership": [
+    {
+      "name": "Francis Thumpasery",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.permitflow.com/blog/permitflow-series-b"
+    },
+    {
+      "name": "Samuel Lam",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/samuelklam",
+      "source": "https://www.permitflow.com/blog/permitflow-series-b"
+    },
+    {
+      "name": "Brett Silverman",
+      "title": "VP of Engineering",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/samuelklam_excited-to-welcome-brett-silverman-as-permitflow-activity-7430315643142311936-u4vN"
+    },
+    {
+      "name": "Fiorella Bariani",
+      "title": "Head of People",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/permitflow_were-excited-to-welcome-fiorella-bariani-activity-7459950905166163969-OYad"
+    },
+    {
+      "name": "James Baillie",
+      "title": "Head of Product",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/jfbaillie13_im-excited-to-share-that-ive-joined-permitflow-activity-7500198998306263041-5_wb"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed / Y Combinator",
+      "date": "2022-03",
+      "amount": "$500K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://pitchbook.com/profiles/company/484089-76"
+    },
+    {
+      "round": "Seed",
+      "date": "2023-05",
+      "amount": "$5.5M",
+      "valuation": null,
+      "lead": "Initialized Capital",
+      "source": "https://techcrunch.com/2023/05/08/permitflow-construction-permit-automation"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-02",
+      "amount": "$31M",
+      "valuation": null,
+      "lead": "Kleiner Perkins",
+      "source": "https://techcrunch.com/2024/02/21/this-yc-alum-just-raised-31m-to-build-the-turbotax-for-construction-permitting"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-12",
+      "amount": "$54M",
+      "valuation": "$500M+ (reported)",
+      "lead": "Accel",
+      "source": "https://www.bizjournals.com/newyork/news/2025/12/03/permitflow-platform-construction-series-b-round.html"
+    }
+  ],
+  "total_raised": "$90.5M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Rolls out national permitting dashboard after White House CEQ expo demo",
+      "url": "https://www.permitflow.com/blog/permitting-reform-federal-priority"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Adds Head of People and new leaders to exec team",
+      "url": "https://www.linkedin.com/posts/permitflow_were-excited-to-welcome-fiorella-bariani-activity-7459950905166163969-OYad"
+    },
+    {
+      "date": "2026-03",
+      "headline": "CEO says White House housing executive order reflects PermitFlow input",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7438340487800999936"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Launches PermitFlow integration with Procore",
+      "url": "https://www.permitflow.com/blog/permitflow-procore-integration"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Raises $54M Series B led by Accel; revenue up 10x since Series A",
+      "url": "https://www.businesswire.com/news/home/20251202551013/en/PermitFlow-Raises-%2454-Million-to-Solve-Constructions-Biggest-Bottlenecks-With-AI"
+    }
+  ],
+  "competitors": [
+    "Symbium",
+    "GreenLite",
+    "Shovels",
+    "Permit expediting firms"
+  ]
+}

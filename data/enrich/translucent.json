@@ -1,0 +1,46 @@
+{
+  "slug": "translucent",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jack O'Hara",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260311059455/en/Translucent-Announces-%2427M-Series-A-Led-by-GV-to-Tackle-Healthcares-Existential-Financial-Crisis"
+    },
+    {
+      "name": "Max Jones",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.virtuevc.com/writings/why-we-invested-in-translucent"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-08",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": "Virtue",
+      "source": "https://www.businesswire.com/news/home/20250807405755/en/Translucent-AI-Raises-$7M-to-Launch-an-AI-Financial-Analyst-built-for-Healthcare-Operators"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-03",
+      "amount": "$27M",
+      "valuation": null,
+      "lead": "GV",
+      "source": "https://fortune.com/2026/03/11/exclusive-translucent-ai-native-healthcare-finance-startup-raises-27-million-series-a"
+    }
+  ],
+  "total_raised": "$34M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

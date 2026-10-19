@@ -1,0 +1,75 @@
+{
+  "slug": "prometheus",
+  "checked": "Oct 19, 2026",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~202 (LinkedIn)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/prometheus"
+  },
+  "leadership": [
+    {
+      "name": "Jeff Bezos",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/2026/06/11/cnbc-exclusive-transcript-prometheus-co-founders-and-co-ceos-jeff-bezos-and-vik-bajaj-speak-with-cnbcs-david-faber-on-squawk-on-the-street-today.html"
+    },
+    {
+      "name": "Vik Bajaj",
+      "title": "Co-founder & Co-CEO (Verily co-founder)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/2026/06/11/cnbc-exclusive-transcript-prometheus-co-founders-and-co-ceos-jeff-bezos-and-vik-bajaj-speak-with-cnbcs-david-faber-on-squawk-on-the-street-today.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-11",
+      "amount": "$6.2B (reported)",
+      "valuation": null,
+      "lead": "Jeff Bezos (largest backer)",
+      "source": "https://www.geekwire.com/2026/bezos-ai-startup-prometheus-raises-12b-at-41b-valuation-and-the-ceos-explain-what-theyre-doing/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-06",
+      "amount": "$12B",
+      "valuation": "~$41B",
+      "lead": "no lead (JPMorgan, BlackRock, Goldman Sachs, DST Global, ARCH, Bezos)",
+      "source": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
+    }
+  ],
+  "total_raised": "~$18.2B",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Leases ~100,000 sq ft former American Steel site in West Oakland",
+      "url": "https://www.bizjournals.com/sanfrancisco/news/2026/08/10/oakland-project-prometheus-bezos-ai-manufacturing.html"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Raises $12B Series B at ~$41B; Bezos and Bajaj speak publicly for first time",
+      "url": "https://www.axios.com/2026/06/11/prometheus-bezos-industrial-ai"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Bloomberg: closes ~$10B round at ~$38B with no lead investor",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/bezos-s-physical-ai-lab-has-closed-round-at-38-billion-value"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Launches with $6.2B; Bezos returns to an operating role as co-CEO",
+      "url": "https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html"
+    }
+  ],
+  "competitors": [
+    "periodic-labs",
+    "lila-sciences",
+    "PhysicsX",
+    "Hadrian"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "skydio",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2014,
+  "hq": "San Mateo, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Adam Bry",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://skydio.com/about"
+    },
+    {
+      "name": "Abe Bachrach",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://skydio.com/about"
+    },
+    {
+      "name": "Matt Donahoe",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://research.contrary.com/company/skydio"
+    },
+    {
+      "name": "James LaCamp",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://skydio.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2014",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://intelligence.mts.now/atlas/skydio"
+    },
+    {
+      "round": "Series A",
+      "date": "2016",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://intelligence.mts.now/atlas/skydio"
+    },
+    {
+      "round": "Series B",
+      "date": "2018",
+      "amount": "$42M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://intelligence.mts.now/atlas/skydio"
+    },
+    {
+      "round": "Series C",
+      "date": "2020-07",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": "Next47",
+      "source": "https://tracxn.com/d/companies/skydio/__z1KXfwRL66HqbZoc40bpJPf2L7G4_LkQYdVL0_-9lj8/funding-and-investors"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-02",
+      "amount": "$170M",
+      "valuation": "$1B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://tracxn.com/d/companies/skydio/__z1KXfwRL66HqbZoc40bpJPf2L7G4_LkQYdVL0_-9lj8/funding-and-investors"
+    },
+    {
+      "round": "Series E",
+      "date": "2023-02",
+      "amount": "$230M",
+      "valuation": "$2.2B+",
+      "lead": "Linse Capital",
+      "source": "https://www.skydio.com/blog/skydio-raises-230-million-series-e-funding-round"
+    },
+    {
+      "round": "Series E extension",
+      "date": "2024-11",
+      "amount": "$170M",
+      "valuation": null,
+      "lead": "KDDI",
+      "source": "https://intelligence.mts.now/atlas/skydio"
+    },
+    {
+      "round": "Series F",
+      "date": "2026-04",
+      "amount": "$110M",
+      "valuation": "$4.4B",
+      "lead": "Existing investors (undisclosed)",
+      "source": "https://www.skydio.com/blog/skydio-series-f"
+    }
+  ],
+  "total_raised": "~$840M (computed: $562M through Series E per company + $170M + $110M; Dealroom cites ~$672M)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

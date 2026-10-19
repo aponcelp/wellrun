@@ -1,0 +1,53 @@
+{
+  "slug": "curri",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "Ventura, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Matt Lafferty",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2023/06/06/curri-nabs-42m-for-its-construction-focused-last-mile-logistics-platform"
+    },
+    {
+      "name": "Brian Gonzalez",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2023/06/06/curri-nabs-42m-for-its-construction-focused-last-mile-logistics-platform"
+    },
+    {
+      "name": "Michael Sene",
+      "title": "VP, Growth",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://curri.com/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021-04",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "Brick & Mortar Ventures",
+      "source": "https://www.freightwaves.com/news/last-mile-construction-materials-provider-curri-lands-6m-funding-round"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-06",
+      "amount": "$42M",
+      "valuation": null,
+      "lead": "Bessemer Venture Partners",
+      "source": "https://techcrunch.com/2023/06/06/curri-nabs-42m-for-its-construction-focused-last-mile-logistics-platform"
+    }
+  ],
+  "total_raised": "$48.2M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

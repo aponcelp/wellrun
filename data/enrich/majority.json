@@ -1,0 +1,63 @@
+{
+  "slug": "majority",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Magnus Larsson",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2022/09/14/majority-a-mobile-bank-for-migrants-closes-third-venture-round-in-just-over-a-year"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021",
+      "amount": "$19M",
+      "valuation": null,
+      "lead": "Valar Ventures",
+      "source": "https://www.americanbanker.com/news/challenger-bank-for-immigrants-majority-raises-its-series-b"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-12",
+      "amount": "$27M",
+      "valuation": null,
+      "lead": "Valar Ventures",
+      "source": "https://www.americanbanker.com/news/challenger-bank-for-immigrants-majority-raises-its-series-b"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-09",
+      "amount": "$30M equity + $7.5M debt",
+      "valuation": null,
+      "lead": "Valar Ventures",
+      "source": "https://techcrunch.com/2022/09/14/majority-a-mobile-bank-for-migrants-closes-third-venture-round-in-just-over-a-year"
+    },
+    {
+      "round": "Series B tranche",
+      "date": "2023",
+      "amount": "$9.75M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2024/05/22/majority-immigrant-banking-20m/"
+    },
+    {
+      "round": "Series B tranche + debt",
+      "date": "2024-05",
+      "amount": "$12.5M equity + $7.5M debt",
+      "valuation": null,
+      "lead": "Victor Jacobsson, Hjalmar Winbladh (fintech founders)",
+      "source": "https://techcrunch.com/2024/05/22/majority-immigrant-banking-20m/"
+    }
+  ],
+  "total_raised": "$90M+ equity (Refresh Miami, May 2024) + $15M debt",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

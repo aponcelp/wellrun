@@ -1,0 +1,103 @@
+{
+  "slug": "pelico",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "Paris, France and Miami, FL (dual HQ)",
+  "headcount_est": {
+    "value": "208 (Tracxn official count)",
+    "as_of": "Oct 2026",
+    "source": "https://platform.tracxn.com/a/d/company/60412a19fc74561ebd81c39d/pelico"
+  },
+  "leadership": [
+    {
+      "name": "Tarik Benabdallah",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.pelico.ai/about-pelico"
+    },
+    {
+      "name": "Mamoun Alaoui",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.pelico.ai/about-pelico"
+    },
+    {
+      "name": "Jonathan Hickson",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.aol.ca/articles/pelico-secures-strategic-investment-ae-195700000.html"
+    },
+    {
+      "name": "Hamza Charrouf",
+      "title": "Chief Customer Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.pelico.ai/about-pelico"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2022-11",
+      "amount": "$18.5M",
+      "valuation": null,
+      "lead": "83North, Serena",
+      "source": "https://www.businesswire.com/news/home/20221115005990/en/Pelico-Raises-%2418.5M-to-Help-Manufacturers-Manage-Factory-Operations-in-an-Increasingly-Complex-Volatile-Context"
+    },
+    {
+      "round": "Series B (strategic)",
+      "date": "2025-06",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://www.pelico.ai/resources/our-articles/pelico-announces-40m-strategic-financing-round-manufacturing-orchestration-platform"
+    },
+    {
+      "round": "Strategic",
+      "date": "2026-07",
+      "amount": null,
+      "valuation": null,
+      "lead": "AE Ventures (AE Industrial Partners)",
+      "source": "https://www.prnewswire.com/news-releases/pelico-secures-strategic-investment-from-ae-ventures-to-accelerate-ai-powered-manufacturing-orchestration-across-aerospace-and-defense-302833683.html"
+    }
+  ],
+  "total_raised": "$72M through Jun 2025 (company-stated) plus undisclosed 2026 strategic round",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-07",
+      "headline": "AE Ventures makes strategic investment, announced at Farnborough",
+      "url": "https://www.prnewswire.com/news-releases/pelico-secures-strategic-investment-from-ae-ventures-to-accelerate-ai-powered-manufacturing-orchestration-across-aerospace-and-defense-302833683.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Signs agreement with Boeing to modernize C-17 heavy maintenance planning",
+      "url": "https://www.prnewswire.com/news-releases/pelico-signs-agreement-with-boeing-to-support-c-17-globemaster-iii-readiness-302832448.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Signs MoU with Microsoft on AI for aerospace and industrial manufacturing",
+      "url": "https://www.linkedin.com/posts/pelico-io_fia2026-farnboroughairshow-aerospace-activity-7488262120137183232-3BYd"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Becomes Microsoft-certified solutions partner for Manufacturing AI",
+      "url": "https://www.pelico.ai/resources/our-articles/pelico-is-now-microsoft-certified-for-manufacturing-ai"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Raises $40M led by General Catalyst to expand in North America",
+      "url": "https://www.pelico.ai/resources/our-articles/pelico-announces-40m-strategic-financing-round-manufacturing-orchestration-platform"
+    }
+  ],
+  "competitors": [
+    "Kinaxis",
+    "o9 Solutions",
+    "SAP (IBP)",
+    "Blue Yonder",
+    "Celonis"
+  ]
+}

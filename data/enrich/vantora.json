@@ -1,0 +1,52 @@
+{
+  "slug": "vantora",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "Santa Monica, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "John Kuolt",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.vantora.us/team"
+    },
+    {
+      "name": "Sid Shah",
+      "title": "President",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.vantora.us/team"
+    },
+    {
+      "name": "Patrick Pettay",
+      "title": "CFO & Head of Services",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.vantora.us/team"
+    },
+    {
+      "name": "Rob Patrick",
+      "title": "CTO & Head of AI Studio",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.vantora.us/team"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Growth equity (majority stake)",
+      "date": "2026-09",
+      "amount": "$100M+",
+      "valuation": "~$200M (WSJ, person familiar)",
+      "lead": "Silversmith Capital Partners",
+      "source": "https://www.silversmith.com/news/vantora-secures-more-than-100-million-from-silversmith-capital-partners"
+    }
+  ],
+  "total_raised": "$100M+ (first outside capital)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

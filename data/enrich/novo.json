@@ -1,0 +1,62 @@
+{
+  "slug": "novo",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Michael Rangel",
+      "title": "Co-founder & Board Member (CEO until Apr 2025)",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/michael-rangel",
+      "source": "https://linkedin.com/in/michael-rangel"
+    },
+    {
+      "name": "Tyler McIntyre",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.stripes.co/investments/novo"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-03",
+      "amount": "$4.8M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://linkedin.com/company/novo-hq"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-06",
+      "amount": "$40.7M",
+      "valuation": null,
+      "lead": "Valar Ventures",
+      "source": "https://www.businesswire.com/news/home/20210616005066/en/Novo-Raises-%2440.7M-Series-A-to-Scale-Digital-Banking-Platform-for-Small-Businesses"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-01",
+      "amount": "$90M",
+      "valuation": "$700M",
+      "lead": "Stripes",
+      "source": "https://www.businesswire.com/news/home/20220111005057/en/Novo-Raises-$90M-to-Reimagine-Small-Businesses-Checking-Accounts"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2022-11",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "GGV Capital (investor)",
+      "source": "https://www.forbes.com/companies/novo/"
+    }
+  ],
+  "total_raised": "$171M equity (Forbes)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

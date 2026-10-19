@@ -1,0 +1,55 @@
+{
+  "slug": "counterpart",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "Los Angeles, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Tanner Hackett",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://blog.yourcounterpart.com/blog/counterpart-raises-50m-series-c/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021-03",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Valor Equity Partners",
+      "source": "https://techcrunch.com/2021/03/23/insuretech-startup-counterpart-raises-10m-in-funding-round-led-by-valor-equity-partners/"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-03",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Vy Capital",
+      "source": "https://www.businesswire.com/news/home/20220301005340/en/Counterpart-Raises-$30-Million-to-Expand-its-Small-Business-Management-Liability-Insurance-Platform"
+    },
+    {
+      "round": "Late VC",
+      "date": "2023-05",
+      "amount": "$16M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://dealroom.co/companies/counterpart-insurance"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-04",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Valor Equity Partners",
+      "source": "https://www.businesswire.com/news/home/20260428376223/en/AI-Layoffs-and-a-New-Wave-of-Employee-Lawsuits-Expose-Small-Businesses-to-Litigation-Risks-Counterparts-Agentic-Insurance-Platform-Protects-Them"
+    }
+  ],
+  "total_raised": "$106M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

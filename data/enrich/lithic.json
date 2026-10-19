@@ -1,0 +1,53 @@
+{
+  "slug": "lithic",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2014,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Bo Jiang",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.lithic.com/about"
+    },
+    {
+      "name": "Jason Kruse",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.lithic.com/about"
+    },
+    {
+      "name": "David Nichols",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.lithic.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2021-05",
+      "amount": "$43M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.fintechfutures.com/paytech/card-issuing-platform-lithic-secures-60m-series-c-funding"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-07",
+      "amount": "$60M",
+      "valuation": "$800M (reported)",
+      "lead": "Stripes",
+      "source": "http://bloomberg.com/news/articles/2021-07-28/payments-startup-lithic-valued-at-800-million-with-stripes-bet"
+    }
+  ],
+  "total_raised": "$110M (as of Jul 2021)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "plaud",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Nathan Xu",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.wsj.com/business/entrepreneurship/ai-startup-plaud-plans-to-file-for-u-s-ipo-in-2028-3c5ebf88"
+    },
+    {
+      "name": "Charles (Ye) Liu",
+      "title": "Co-founder (CTO per Caplight)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.straitstimes.com/tech/plaud-to-invest-10-million-in-singapore-as-it-expands-asia-pacific-operations"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Crowdfunding (Kickstarter pre-orders)",
+      "date": "2023-06",
+      "amount": "$1M+",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.straitstimes.com/tech/plaud-to-invest-10-million-in-singapore-as-it-expands-asia-pacific-operations"
+    },
+    {
+      "round": "SAFE",
+      "date": "2025-04",
+      "amount": "$4.75M",
+      "valuation": null,
+      "lead": "Carbide Ventures",
+      "source": "https://www.nikkei.com/article/DGXZQOUC246X80U5A420C2000000/"
+    },
+    {
+      "round": "Investment (undisclosed; Vertex Holdings now largest investor)",
+      "date": null,
+      "amount": null,
+      "valuation": null,
+      "lead": "Vertex Holdings",
+      "source": "https://www.wsj.com/business/entrepreneurship/ai-startup-plaud-plans-to-file-for-u-s-ipo-in-2028-3c5ebf88"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

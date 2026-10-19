@@ -1,0 +1,39 @@
+{
+  "slug": "medra",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Michelle Lee",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.medra.ai/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed/Seed",
+      "date": "2025-09",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": "Human Capital",
+      "source": "https://endpoints.news/exclusive-robotics-startup-medra-raises-11m-to-automate-labs/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-12",
+      "amount": "$52M",
+      "valuation": null,
+      "lead": "Human Capital",
+      "source": "https://www.businesswire.com/news/home/20251211748411/en/Medra-Raises-%2452-Million-Series-A-to-Build-Physical-AI-Scientists"
+    }
+  ],
+  "total_raised": "$63M (per Bloomberg)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

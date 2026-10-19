@@ -1,0 +1,62 @@
+{
+  "slug": "monte-carlo",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Barr Moses",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20220524005417/en/Monte-Carlo-Raises-135M-Series-D-to-Accelerate-the-Rapid-Growth-of-the-Data-Observability-Category"
+    },
+    {
+      "name": "Lior Gavish",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.techtarget.com/data-technologies/news/252520623/Monte-Carlo-set-to-boost-data-observability-with-135M-raise"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2020-09",
+      "amount": "$16M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://news.crunchbase.com/business/monte-carlo-joins-unicorn-list-135m-ivp/"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-02",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "GGV Capital and Redpoint",
+      "source": "https://techcrunch.com/2021/08/17/monte-carlo-closes-60m-series-c-on-the-back-of-rapid-arr-growth/"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-08",
+      "amount": "$60M",
+      "valuation": null,
+      "lead": "ICONIQ Growth",
+      "source": "https://techcrunch.com/2021/08/17/monte-carlo-closes-60m-series-c-on-the-back-of-rapid-arr-growth/"
+    },
+    {
+      "round": "Series D",
+      "date": "2022-05",
+      "amount": "$135M",
+      "valuation": "$1.6B",
+      "lead": "IVP",
+      "source": "https://www.businesswire.com/news/home/20220524005417/en/Monte-Carlo-Raises-135M-Series-D-to-Accelerate-the-Rapid-Growth-of-the-Data-Observability-Category"
+    }
+  ],
+  "total_raised": "$236M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

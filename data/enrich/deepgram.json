@@ -1,0 +1,146 @@
+{
+  "slug": "deepgram",
+  "checked": "Oct 19, 2026",
+  "founded": 2015,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~359 (Crustdata)",
+    "as_of": "Oct 2026",
+    "source": "https://research.crustdata.com/company/deepgram"
+  },
+  "leadership": [
+    {
+      "name": "Scott Stephenson",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://deepgram.com/company/leadership"
+    },
+    {
+      "name": "Shadi Baqleh",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://deepgram.com/company/leadership"
+    },
+    {
+      "name": "Adam Sypniewski",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/deepgram"
+    },
+    {
+      "name": "Ed Anuff",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://deepgram.com/learn/deepgram-chief-product-officer-ed-anuff"
+    },
+    {
+      "name": "Jason Rubinstein",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://research.crustdata.com/company/deepgram"
+    },
+    {
+      "name": "Myra El-Bayoumi",
+      "title": "CMO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://research.crustdata.com/company/deepgram"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2016",
+      "amount": "~$2M",
+      "valuation": null,
+      "lead": "Y Combinator (accelerator)",
+      "source": "https://deepgram.com/company/history"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-03",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://deepgram.com/company/history"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-02",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://deepgram.com/company/history"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2022-11",
+      "amount": "$47M (Series B total $72M)",
+      "valuation": null,
+      "lead": "Madrona",
+      "source": "https://deepgram.com/learn/deepgram-72-million-series-b-defines-future-of-AI-speech-understanding"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-01",
+      "amount": "$130M",
+      "valuation": "$1.3B",
+      "lead": "AVP",
+      "source": "https://deepgram.com/learn/press-release-deepgram-raises-series-c"
+    },
+    {
+      "round": "Series C extension",
+      "date": "2026-08",
+      "amount": "undisclosed",
+      "valuation": null,
+      "lead": "EDBI (Singapore)",
+      "source": "https://deepgram.com/learn/voice-ai-infrastructure-leader-deepgram-to-establish-apac-headquarters-in-singapore-following-strategic-investment-from-edbi"
+    }
+  ],
+  "total_raised": "$215M+ (TechCrunch, Jan 2026)",
+  "revenue_est": {
+    "value": "$100M+ ARR",
+    "as_of": "Aug 2026",
+    "basis": "company-stated",
+    "source": "https://www.morningstar.com/news/business-wire/20260812602613/text-to-speech-comes-of-age-deepgram-launches-conversation-native-speech"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Hires Ed Anuff (ex-DataStax, Apigee) as Chief Product Officer",
+      "url": "https://deepgram.com/learn/deepgram-chief-product-officer-ed-anuff"
+    },
+    {
+      "date": "2026-08",
+      "headline": "EDBI invests in Series C extension; Deepgram opens APAC HQ in Singapore",
+      "url": "https://deepgram.com/learn/voice-ai-infrastructure-leader-deepgram-to-establish-apac-headquarters-in-singapore-following-strategic-investment-from-edbi"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Launches Flux TTS and says it has surpassed $100M ARR",
+      "url": "https://www.morningstar.com/news/business-wire/20260812602613/text-to-speech-comes-of-age-deepgram-launches-conversation-native-speech"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Brings real-time voice AI to the edge on Qualcomm Snapdragon",
+      "url": "https://www.businesswire.com/news/home/20260721383818/en/Deepgram-Delivers-Real-Time-Voice-AI-at-the-Edge-for-Use-with-Snapdragon"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raises $130M Series C at $1.3B led by AVP; acquires a YC startup",
+      "url": "http://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup"
+    }
+  ],
+  "competitors": [
+    "assemblyai",
+    "elevenlabs",
+    "cartesia",
+    "speechmatics",
+    "Google Cloud Speech"
+  ]
+}

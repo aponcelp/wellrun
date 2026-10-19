@@ -1,0 +1,39 @@
+{
+  "slug": "metabase",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2014,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Sameer Al-Sakran",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://metabase.com/blog/authors/sameer-al-sakran"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2019-04",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "NEA",
+      "source": "https://www.businessinsider.com/metabase-an-open-source-business-analytics-startup-closes-8-million-2019-4"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-08",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "http://techcrunch.com/2021/08/19/insight-partners-leads-30m-round-into-metabase-developing-enterprise-business-intelligence-tools"
+    }
+  ],
+  "total_raised": "$42.5M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

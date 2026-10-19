@@ -1,0 +1,69 @@
+{
+  "slug": "atob",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Vignan Velivela",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20240919045000/en/AtoB-Announces-New-Funding-and-Growth-Milestones"
+    },
+    {
+      "name": "Tushar Misra",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.atob.com/about-us"
+    },
+    {
+      "name": "Ryan McGurk",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/58dbe281e4b0f9109084bc21/atob"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021-07",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://www.teardown.ai/companies/atob"
+    },
+    {
+      "round": "Series B (equity + debt)",
+      "date": "2022-08",
+      "amount": "$155M ($75M equity + $80M debt)",
+      "valuation": "$800M",
+      "lead": "Elad Gil, General Catalyst",
+      "source": "https://www.businesswire.com/news/home/20220815005724/en/AtoB-the-First-Fintech-Payments-Platform-to-Modernize-Americas-Trucking-Industry-Announces-%24155M-Series-B-Fundraise-Round"
+    },
+    {
+      "round": "Series C (equity + debt)",
+      "date": "2024-09",
+      "amount": "$130M",
+      "valuation": null,
+      "lead": "General Catalyst, Bloomberg Beta",
+      "source": "https://www.businesswire.com/news/home/20240919045000/en/AtoB-Announces-New-Funding-and-Growth-Milestones"
+    },
+    {
+      "round": "Series C2",
+      "date": "2026-02",
+      "amount": "$82M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://pitchbook.com/profiles/company/411241-69"
+    }
+  ],
+  "total_raised": "~$205M equity (Tracxn); ~$346M incl. debt (PitchBook via Teardown)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

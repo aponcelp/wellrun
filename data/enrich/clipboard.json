@@ -1,0 +1,62 @@
+{
+  "slug": "clipboard",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "San Francisco, CA (remote-first)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Wei Deng",
+      "title": "Founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.clipboard.com/resources/blog/clipboard-health-announces-80-million"
+    },
+    {
+      "name": "Bo Lu",
+      "title": "Co-CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/5880b5e1e4b0e69a9c6108a8/clipboard%20health"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2017-03",
+      "amount": "$2.1M",
+      "valuation": null,
+      "lead": "Initialized Capital",
+      "source": "https://app.dealroom.co/companies/clipboardhealth"
+    },
+    {
+      "round": "Series A",
+      "date": "2019-09",
+      "amount": "$11.9M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/clipboardhealth"
+    },
+    {
+      "round": "Series B",
+      "date": "2021",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "IVP",
+      "source": "https://techcrunch.com/2022/04/18/clipboard-health-which-matches-health-workers-with-facilities-raises-80m"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-02",
+      "amount": "$30M",
+      "valuation": "$1.3B post",
+      "lead": "Sequoia Capital",
+      "source": "https://techcrunch.com/2022/04/18/clipboard-health-which-matches-health-workers-with-facilities-raises-80m"
+    }
+  ],
+  "total_raised": "~$94M (Fierce Healthcare)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

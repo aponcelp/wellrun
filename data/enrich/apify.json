@@ -1,0 +1,67 @@
+{
+  "slug": "apify",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2015,
+  "hq": "Prague, Czech Republic",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jan Čurn",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/jancurn",
+      "source": "https://apify.com/about"
+    },
+    {
+      "name": "Jakub Balada",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://apify.com/about"
+    },
+    {
+      "name": "Marek Trunkat",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://apify.com/about"
+    },
+    {
+      "name": "Ondra Urban",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://apify.com/about"
+    },
+    {
+      "name": "Dusan Antos",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://apify.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (bridge)",
+      "date": "2018-06",
+      "amount": null,
+      "valuation": "$5.5M",
+      "lead": "Reflex Capital",
+      "source": "https://blog.apify.com/announcing-another-investment-from-reflex-capital/"
+    },
+    {
+      "round": "Seed",
+      "date": "2024-04",
+      "amount": "€2.8M (~$3M)",
+      "valuation": null,
+      "lead": "J&T Ventures",
+      "source": "https://tech.eu/2024/04/15/prague-startup-apify-raises-eur28m-for-ai-data-mining/"
+    }
+  ],
+  "total_raised": "~$3.5M (company: ~$0.5M seed through 2019 + ~$3M in 2024)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

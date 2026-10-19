@@ -1,0 +1,77 @@
+{
+  "slug": "monk",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~31 (LinkedIn)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/monk-finance"
+  },
+  "leadership": [
+    {
+      "name": "George Kurdin",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/monk-raises-25m-series-a-to-automate-accounts-receivable-with-ai-302748872.html"
+    },
+    {
+      "name": "Joe Zhou",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/monk-raises-25m-series-a-to-automate-accounts-receivable-with-ai-302748872.html"
+    },
+    {
+      "name": "Amanda Cira",
+      "title": "Head of Sales",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/monk-finance"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": "Better Tomorrow Ventures (BTV)",
+      "source": "https://www.prnewswire.com/news-releases/monk-raises-25m-series-a-to-automate-accounts-receivable-with-ai-302748872.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-04",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Footwork, Acrew Capital",
+      "source": "https://www.prnewswire.com/news-releases/monk-raises-25m-series-a-to-automate-accounts-receivable-with-ai-302748872.html"
+    }
+  ],
+  "total_raised": "$29M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Passes $2B in receivables managed; launches Payment Hub",
+      "url": "https://www.prnewswire.com/news-releases/monk-surpasses-2-billion-in-receivables-as-customers-consolidate-their-ar-302856681.html"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Bloomberg: offers a year's rent to recruit engineers",
+      "url": "https://monk.com/press"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Raises $25M Series A co-led by Footwork and Acrew; $1B+ receivables managed",
+      "url": "https://www.prnewswire.com/news-releases/monk-raises-25m-series-a-to-automate-accounts-receivable-with-ai-302748872.html"
+    }
+  ],
+  "competitors": [
+    "Tabs",
+    "Upflow",
+    "HighRadius",
+    "Versapay"
+  ]
+}

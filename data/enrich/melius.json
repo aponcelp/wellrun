@@ -1,0 +1,53 @@
+{
+  "slug": "melius",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Joowon Kim",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/jookimmy",
+      "source": "https://www.globenewswire.com/news-release/2026/10/06/3375572/0/en/melius-raises-25-million-for-the-first-agents-lab-for-creative-work.html"
+    },
+    {
+      "name": "Young Kim",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/10/06/3375572/0/en/melius-raises-25-million-for-the-first-agents-lab-for-creative-work.html"
+    },
+    {
+      "name": "Arnav Ramu",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/10/06/3375572/0/en/melius-raises-25-million-for-the-first-agents-lab-for-creative-work.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "CRV",
+      "source": "https://www.globenewswire.com/news-release/2026/10/06/3375572/0/en/melius-raises-25-million-for-the-first-agents-lab-for-creative-work.html"
+    }
+  ],
+  "total_raised": "$25M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

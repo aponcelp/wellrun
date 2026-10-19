@@ -1,0 +1,46 @@
+{
+  "slug": "carbonai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jeff Saul",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://carboncre.ai/about"
+    },
+    {
+      "name": "Josh Kaufman",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://carboncre.ai/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": null,
+      "valuation": null,
+      "lead": "Bling Capital",
+      "source": "https://www.axios.com/pro/fintech-deals/2026/10/15/carbonai-12-million-cowboy-cre-lending-ai"
+    },
+    {
+      "round": "Seed",
+      "date": "2026-10",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "Cowboy Ventures",
+      "source": "https://www.axios.com/pro/fintech-deals/2026/10/15/carbonai-12-million-cowboy-cre-lending-ai"
+    }
+  ],
+  "total_raised": "$12M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

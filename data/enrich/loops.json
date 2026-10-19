@@ -1,0 +1,38 @@
+{
+  "slug": "loops",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": null,
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Chris Frantz",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/loops-4232"
+    },
+    {
+      "name": "Adam Kaczmarek",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/loops-4232"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-04",
+      "amount": "$3.2M",
+      "valuation": null,
+      "lead": "Craft Ventures",
+      "source": "https://technical.ly/startups/email-tech-startup-loops-raised-3-2m-in-early-stage-funding/"
+    }
+  ],
+  "total_raised": "~$3.3M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

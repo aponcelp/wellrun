@@ -1,0 +1,119 @@
+{
+  "slug": "afresh",
+  "checked": "Oct 19, 2026",
+  "founded": 2017,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "202 (Tracxn official count)",
+    "as_of": "Oct 2026",
+    "source": "https://platform.tracxn.com/a/d/company/58b98e8de4b041de9c67f46e/afresh"
+  },
+  "leadership": [
+    {
+      "name": "Matt Schwartz",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.afresh.com/resources/press-release/afresh-raises-34m"
+    },
+    {
+      "name": "Nathan Fenner",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.supermarketnews.com/grocery-technology/how-afresh-is-revolutionizing-grocery-perimeters-with-ai"
+    },
+    {
+      "name": "Volodymyr Kuleshov",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.supermarketnews.com/grocery-technology/how-afresh-is-revolutionizing-grocery-perimeters-with-ai"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2018-03",
+      "amount": "$1.7M",
+      "valuation": null,
+      "lead": "Baseline Ventures, Innovation Endeavors",
+      "source": "https://app.dealroom.co/companies/afresh_technologies"
+    },
+    {
+      "round": "Series A",
+      "date": "2019-04",
+      "amount": "$6.1M",
+      "valuation": null,
+      "lead": "Baseline Ventures, Innovation Endeavors",
+      "source": "https://app.dealroom.co/companies/afresh_technologies"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2020-07",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/afresh_technologies"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2020-11",
+      "amount": "$13M",
+      "valuation": "$100M",
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/afresh_technologies"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-08",
+      "amount": "$115M",
+      "valuation": null,
+      "lead": "Spark Capital",
+      "source": "https://www.afresh.com/resources/press-release/afresh-secures-115-million-in-series-b-funding-and-rolls-out-its-fresh-food-technology-to-thousands-of-stores-across-the-us"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2026-04",
+      "amount": "$34M",
+      "valuation": null,
+      "lead": "Just Climate (Generation IM), High Sage Ventures",
+      "source": "https://www.afresh.com/resources/press-release/afresh-raises-34m"
+    }
+  ],
+  "total_raised": "~$182M ($148M through 2022 Series B plus $34M in 2026)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-06",
+      "headline": "Grocery Outlet picks Afresh for full-store ordering across 500+ stores",
+      "url": "https://www.afresh.com/resources/press-release/grocery-outlet-selects-afresh-for-full-store-ordering"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Raises $34M co-led by Just Climate and High Sage; 70% revenue growth in 2025",
+      "url": "https://www.afresh.com/resources/press-release/afresh-raises-34m"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Expands platform beyond fresh to center store, frozen and general merchandise",
+      "url": "https://www.afresh.com/resources/press-release/afresh-expands-ai-platform-to-cover-every-item-in-stores"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Launches AI-powered Fresh Buying for distribution centers with Wakefern",
+      "url": "https://www.afresh.com/resources/press-release/afresh-launches-industrys-first-ai-powered-fresh-buying-solution-with-wakefern"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Completes fresh replenishment rollout across all Albertsons fresh departments",
+      "url": "https://www.afresh.com/resources/press-release"
+    }
+  ],
+  "competitors": [
+    "RELEX Solutions",
+    "Blue Yonder",
+    "Shelf Engine",
+    "Crisp"
+  ]
+}

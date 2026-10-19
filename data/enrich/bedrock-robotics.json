@@ -1,0 +1,99 @@
+{
+  "slug": "bedrock-robotics",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Boris Sofman",
+      "title": "Co-founder & CEO (ex-Waymo trucking lead, Anki co-founder)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://bedrockrobotics.com/about/team/boris-sofman"
+    },
+    {
+      "name": "Kevin Peterson",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://bedrockrobotics.com/about/team/boris-sofman"
+    },
+    {
+      "name": "Tom Eliaz",
+      "title": "Co-founder & VP Engineering",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://bedrockrobotics.com/about/team/boris-sofman"
+    },
+    {
+      "name": "Ajay Gummalla",
+      "title": "Co-founder & VP Engineering",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://bedrockrobotics.com/about/team/boris-sofman"
+    },
+    {
+      "name": "Laurent Hautefeuille",
+      "title": "COO (ex-Uber Freight)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://bedrockrobotics.com/about/team/boris-sofman"
+    },
+    {
+      "name": "John Chu",
+      "title": "Head of People",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://bedrockrobotics.com/about/team/boris-sofman"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A",
+      "date": "2025-07",
+      "amount": "$80M",
+      "valuation": null,
+      "lead": "Eclipse, 8VC",
+      "source": "https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-02",
+      "amount": "$270M",
+      "valuation": "$1.75B",
+      "lead": "CapitalG, Valor Atreides AI Fund",
+      "source": "https://www.prnewswire.com/news-releases/bedrock-robotics-raises-270-million-in-series-b-funding-to-accelerate-the-future-of-autonomous-construction-302679014.html"
+    }
+  ],
+  "total_raised": "$350M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "First fully autonomous (operator-out) excavator deployments on US infrastructure",
+      "url": "https://www.globenewswire.com/news-release/2026/08/17/3346247/0/en/bedrock-robotics-launches-first-fully-autonomous-excavator-deployments-on-critical-u-s-infrastructure-projects.html"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Raises $270M Series B at $1.75B co-led by CapitalG and Valor Atreides",
+      "url": "https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Completes large supervised-autonomy mass excavation with Sundt on 130-acre site",
+      "url": "https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Emerges from stealth with $80M from Eclipse and 8VC",
+      "url": "https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/"
+    }
+  ],
+  "competitors": [
+    "Built Robotics",
+    "SafeAI",
+    "FieldAI",
+    "Caterpillar (Cat Command)"
+  ]
+}

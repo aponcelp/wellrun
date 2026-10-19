@@ -1,0 +1,53 @@
+{
+  "slug": "causa-prima",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2026,
+  "hq": "Madrid & Munich (Delaware-incorporated)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Maex Ament",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://tech.eu/2026/10/13/causa-prima-lands-20m-seed-just-three-months-after-pre-seed/"
+    },
+    {
+      "name": "Henrik Gebbing",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://tech.eu/2026/10/13/causa-prima-lands-20m-seed-just-three-months-after-pre-seed/"
+    },
+    {
+      "name": "Philip Stanislaus",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://valueaddvc.com/pulse/causa-prima-20m-seed-ai-billing-disputes-2026"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2026-07",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://tech.eu/2026/10/13/causa-prima-lands-20m-seed-just-three-months-after-pre-seed/"
+    },
+    {
+      "round": "Seed",
+      "date": "2026-10",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Base10 Partners",
+      "source": "https://fortune.com/2026/10/13/startup-causa-prima-20-million-billing-disputes-ai-agents/"
+    }
+  ],
+  "total_raised": "$30M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

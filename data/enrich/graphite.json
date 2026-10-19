@@ -1,0 +1,69 @@
+{
+  "slug": "graphite",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Merrill Lutsky",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.fortune.com/2025/12/19/cursor-ai-coding-startup-graphite-competition-heats-up/"
+    },
+    {
+      "name": "Tomas Reimers",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/graphite-020e"
+    },
+    {
+      "name": "Greg Foster",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/graphite-020e"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-04",
+      "amount": "$2.3M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/graphite_1_5"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-05",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://app.dealroom.co/companies/graphite_1_5"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-03",
+      "amount": "$52M",
+      "valuation": "$290M",
+      "lead": "Accel",
+      "source": "https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash"
+    },
+    {
+      "round": "Acquisition by Cursor (Anysphere)",
+      "date": "2025-12",
+      "amount": null,
+      "valuation": "undisclosed (reported well above $290M)",
+      "lead": "Cursor",
+      "source": "https://techcrunch.com/2025/12/19/cursor-continues-acquisition-spree-with-graphite-deal"
+    }
+  ],
+  "total_raised": "~$72M+ before acquisition",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

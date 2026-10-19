@@ -1,0 +1,53 @@
+{
+  "slug": "appfire",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2005,
+  "hq": "Burlington, MA (Boston area)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Randall Ward",
+      "title": "Co-founder, CEO Emeritus & board member",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/randallward",
+      "source": "http://appfire.com/newsroom/appfire-founder-randall-ward-and-board-of-directors-appoint-matt-dircks-as-ceo-to-lead-the-company-into-its-next-growth-chapter"
+    },
+    {
+      "name": "Matt Dircks",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://appfire.com/team"
+    },
+    {
+      "name": "Christine Alpers",
+      "title": "Chief Legal & Compliance Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://appfire.com/team"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Growth equity",
+      "date": "2020-05",
+      "amount": "$49M",
+      "valuation": null,
+      "lead": "Silversmith Capital Partners",
+      "source": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/appfire-secures-49m-in-first-institutional-funding-led-by-silversmith-capital-partners"
+    },
+    {
+      "round": "Growth equity",
+      "date": "2021-03",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": "TA Associates",
+      "source": "https://ta.com/news/ta-associates-makes-a-100-million-strategic-investment-in-appfire-to-partner-with-silversmith-capital-partners-to-accelerate-companys-growth"
+    }
+  ],
+  "total_raised": "$149M (disclosed PE investments)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "vesta",
+  "checked": "Oct 19, 2026",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Mike Yu",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.vesta.com/press/vesta-raises-30-million-series-b"
+    },
+    {
+      "name": "Devon Yang",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.vesta.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-11",
+      "amount": "~$5M",
+      "valuation": null,
+      "lead": "Conversion Capital",
+      "source": "https://conversioncapital.com/portfolio/vesta/"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-01",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.businesswire.com/news/home/20220127005009/en/Vesta-Raises-$30-Million-Series-A-Led-by-Andreessen-Horowitz-to-Build-the-Next-Generation-Mortgage-Infrastructure"
+    },
+    {
+      "round": "Strategic",
+      "date": "2025-03",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "undisclosed strategics",
+      "source": "https://fortune.com/2025/03/04/vesta-mortgage-infrastructure-startup-reports-growth-at-high-pressure-time-in-housing/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-10",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Conversion Capital",
+      "source": "https://www.vesta.com/press/vesta-raises-30-million-series-b"
+    }
+  ],
+  "total_raised": "$85M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $30M Series B led by Conversion Capital; revenue up 12x YoY",
+      "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Pennymac takes minority stake, moves consumer-direct channel onto Vesta",
+      "url": "https://www.inman.com/2025/09/08/pennymac-takes-a-stake-in-vesta-launches-non-qm-mortgages/"
+    },
+    {
+      "date": "2025-03",
+      "headline": "Discloses $20M strategic raise; loan volume on platform tripled",
+      "url": "https://fortune.com/2025/03/04/vesta-mortgage-infrastructure-startup-reports-growth-at-high-pressure-time-in-housing/"
+    }
+  ],
+  "competitors": [
+    "ICE Mortgage Technology (Encompass)",
+    "Xpanse",
+    "Dark Matter Technologies",
+    "MeridianLink"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "serval",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "146 employees, targeting 250-300 by year-end",
+    "as_of": "Sep 2026",
+    "source": "https://wrangle.ai/blogs/how-serval-tripled-in-size"
+  },
+  "leadership": [
+    {
+      "name": "Jake Stauch",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://reuters.com/technology/ai-startup-serval-valued-1-billion-after-sequoia-led-round-expand-it-automation-2025-12-11"
+    },
+    {
+      "name": "Alex McLeod",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://finance.yahoo.com/technology/ai/articles/serval-appoints-sam-stewart-head-130000934.html"
+    },
+    {
+      "name": "Sam Stewart",
+      "title": "Head of Security (Ensignia founder)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20261006987061/en/Serval-Appoints-Sam-Stewart-as-Head-of-Security-Acquires-Ensignia"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-10",
+      "amount": "$47M",
+      "valuation": "~$232M (PitchBook, Aug 2025)",
+      "lead": "Redpoint Ventures",
+      "source": "https://techcrunch.com/2025/10/21/serval-raises-47-million-to-bring-ai-agent-to-it-service-management/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-12",
+      "amount": "$75M",
+      "valuation": "$1B",
+      "lead": "Sequoia Capital",
+      "source": "http://reuters.com/technology/ai-startup-serval-valued-1-billion-after-sequoia-led-round-expand-it-automation-2025-12-11"
+    }
+  ],
+  "total_raised": "$127M (Reuters)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches Journeys to automate onboarding, offboarding and job changes",
+      "url": "https://www.businesswire.com/news/home/20261013338773/en/Serval-Launches-Journeys-Taking-Tedious-Work-Out-of-Onboarding-and-Offboarding"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Acquires supply-chain security startup Ensignia; founder becomes Head of Security",
+      "url": "https://www.businesswire.com/news/home/20261006987061/en/Serval-Appoints-Sam-Stewart-as-Head-of-Security-Acquires-Ensignia"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Launches Catalyst, an agent that builds IT automations from ticket history",
+      "url": "https://www.forbes.com/sites/victordey/2026/08/20/serval-wants-to-replace-servicenow-with-ai-that-builds-enterprise-automation/"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Starts Serval Start program hiring aspiring founders as forward-deployed engineers",
+      "url": "https://www.upstartsmedia.com/p/serval-start-future-founders-fde"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Raises $75M Series B at $1B led by Sequoia; revenue up 500% in 90 days",
+      "url": "http://reuters.com/technology/ai-startup-serval-valued-1-billion-after-sequoia-led-round-expand-it-automation-2025-12-11"
+    }
+  ],
+  "competitors": [
+    "ServiceNow",
+    "Moveworks",
+    "Atomicwork",
+    "Freshservice"
+  ]
+}

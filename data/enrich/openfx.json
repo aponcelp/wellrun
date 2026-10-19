@@ -1,0 +1,69 @@
+{
+  "slug": "openfx",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "Distributed (hubs in Miami, London, Dubai, Bangalore; press datelined New York)",
+  "headcount_est": {
+    "value": "105 (per Reuters via EPI)",
+    "as_of": "Mar 2026",
+    "source": "https://www.electronicpaymentsinternational.com/news/openfx-raises-94m-stablecoin-payments/"
+  },
+  "leadership": [
+    {
+      "name": "Prabhakar Reddy",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://openfx.com/blog/announcing-openfx-s-94m-series-a"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-05",
+      "amount": "$23M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://www.businesswire.com/news/home/20250522683658/en/OpenFX-Raises-$23M-in-Initial-Funding-to-Revolutionize-Cross-Border-Payments-with-Real-Time-FX-Settlement-Capabilities"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-03",
+      "amount": "$94M",
+      "valuation": "~$500M (Reuters, unnamed source)",
+      "lead": "Accel, Atomico, Lightspeed Faction, M13, Northzone, Pantera",
+      "source": "https://www.electronicpaymentsinternational.com/news/openfx-raises-94m-stablecoin-payments/"
+    }
+  ],
+  "total_raised": "$117M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches OpenFX Ventures to back early cross-border payments founders",
+      "url": "https://markets.businessinsider.com/news/stocks/openfx-launches-openfx-ventures-to-partner-with-the-next-generation-of-cross-border-payments-companies-1036608390"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Raises $94M Series A at ~$500M; annual volume reached $45B in 2025",
+      "url": "https://openfx.com/blog/announcing-openfx-s-94m-series-a"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Hires ex-Rappi exec to lead Latin America business from Miami",
+      "url": "https://refreshmiami.com/news/global-startup-openfx-growing-from-miami-using-stablecoin-to-speed-money-transfers/"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Emerges from stealth with $23M seed led by Accel",
+      "url": "https://fortune.com/2025/05/22/openfx-accel-stablecoins-crypto-venture-foreign-exchange-blockchain/"
+    }
+  ],
+  "competitors": [
+    "conduit",
+    "BVNK",
+    "Bridge (Stripe)",
+    "zerohash",
+    "Wise Platform"
+  ]
+}

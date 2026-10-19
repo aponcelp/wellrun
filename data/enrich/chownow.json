@@ -1,0 +1,62 @@
+{
+  "slug": "chownow",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2011,
+  "hq": "Los Angeles, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Kanika Soni",
+      "title": "Chief Executive Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20241210796886/en/ChowNow-Announces-Kanika-Soni-as-New-Chief-Executive-Officer"
+    },
+    {
+      "name": "Chris Webb",
+      "title": "Founder & Chairman of the Board",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://get.chownow.com/about/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2013",
+      "amount": "~$1M",
+      "valuation": null,
+      "lead": "GRP Partners",
+      "source": "https://en.wikipedia.org/wiki/ChowNow"
+    },
+    {
+      "round": "Series A",
+      "date": "2015-03",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Upfront Ventures",
+      "source": "https://en.wikipedia.org/wiki/ChowNow"
+    },
+    {
+      "round": "Series B",
+      "date": "2017-10",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Catalyst Investors",
+      "source": "https://www.globenewswire.com/news-release/2017/10/24/1202851/0/en/ChowNow-Raises-20-Million-Series-B-to-Help-Restaurants-Regain-Their-Customers-From-Online-Ordering-Middlemen.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2019-05",
+      "amount": "$21M",
+      "valuation": "$115M (PitchBook via LABJ)",
+      "lead": "3L Capital and Catalyst Investors",
+      "source": "https://labusinessjournal.com/news/weekly-news/chownow-grabs-21m-series-c"
+    }
+  ],
+  "total_raised": "~$64M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

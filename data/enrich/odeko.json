@@ -1,0 +1,85 @@
+{
+  "slug": "odeko",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Dane Atkinson",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20250304733369/en"
+    },
+    {
+      "name": "Gautam Grover",
+      "title": "President",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.refreshmentmag.com/news/odeko-secures-126m-in-series-e-funding-to-empower-local-coffee-shops-and-food-businesses"
+    },
+    {
+      "name": "Ken Banas",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.refreshmentmag.com/news/odeko-secures-126m-in-series-e-funding-to-empower-local-coffee-shops-and-food-businesses"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-03",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "First Round Capital",
+      "source": "https://app.dealroom.co/companies/odeko"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-08",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "GGV Capital",
+      "source": "https://fundbat.com/company/odeko/"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-08",
+      "amount": "$70M",
+      "valuation": null,
+      "lead": "B Capital",
+      "source": "https://fundbat.com/company/odeko/"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-01",
+      "amount": "$77M",
+      "valuation": null,
+      "lead": "Tiger Global",
+      "source": "https://techcrunch.com/2023/04/18/b-capital-odeko-restaurant-tech/"
+    },
+    {
+      "round": "Series D",
+      "date": "2023-04",
+      "amount": "$53M",
+      "valuation": null,
+      "lead": "B Capital",
+      "source": "https://www.prnewswire.com/news-releases/smart-operations-platform-odeko-secures-53m-series-d-investment-301799325.html"
+    },
+    {
+      "round": "Series E",
+      "date": "2025-03",
+      "amount": "$96M equity + $30M credit facility",
+      "valuation": null,
+      "lead": "B Capital (equity); Banc of California (credit)",
+      "source": "https://www.businesswire.com/news/home/20250304733369/en"
+    }
+  ],
+  "total_raised": "$280M+ equity (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

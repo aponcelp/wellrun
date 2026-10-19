@@ -1,0 +1,55 @@
+{
+  "slug": "octave",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Sandeep Acharya",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://findoctave.com/blog/octave-updates/octave-raises-52m-in-series-c-funding-to-expand-in-network-mental-health"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2018-04",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": "Felicis Ventures",
+      "source": "https://news.crunchbase.com/startups/octave-raises-11m-series-a-to-make-mental-health-care-more-accessible/"
+    },
+    {
+      "round": "Series A",
+      "date": "2019-10",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": "Greycroft",
+      "source": "https://news.crunchbase.com/startups/octave-raises-11m-series-a-to-make-mental-health-care-more-accessible/"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-05",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Health Velocity Capital",
+      "source": "http://findoctave.com/blog/octave-updates/octave-secures-20-million-in-series-b-funding-to-expand-mental-healthcare-access"
+    },
+    {
+      "round": "Series C",
+      "date": "2023-06",
+      "amount": "$52M",
+      "valuation": null,
+      "lead": "Cigna Ventures, Novo Holdings, Avidity Partners",
+      "source": "https://www.prnewswire.com/news-releases/octave-raises-52m-in-series-c-funding-to-expand-in-network-mental-health-301851235.html"
+    }
+  ],
+  "total_raised": "$86M (as of Jun 2023)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

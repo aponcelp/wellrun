@@ -1,0 +1,101 @@
+{
+  "slug": "rain",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "184 employees",
+    "as_of": "2026 (Tracxn, date not shown)",
+    "source": "https://platform.tracxn.com/a/d/company/58519acbe4b09ba844f11dcb/rain"
+  },
+  "leadership": [
+    {
+      "name": "Farooq Malik",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.rain.xyz/resources/rain-raises-250m-series-c-to-scale-stablecoin-powered-payments-infrastructure-for-global-enterprises"
+    },
+    {
+      "name": "Charles Yoo-Naut",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.rain.xyz/resources/why-we-raised-scale-globally-with-rain"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022",
+      "amount": null,
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://en.wikipedia.org/wiki/Rain_(platform)"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-03",
+      "amount": "$24.5M",
+      "valuation": null,
+      "lead": "Norwest",
+      "source": "https://news.crunchbase.com/fintech-ecommerce/rain-series-c-funding-valuation-crypto-stablecoin/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-08",
+      "amount": "$58M",
+      "valuation": null,
+      "lead": "Sapphire Ventures",
+      "source": "https://www.prnewswire.com/news-releases/rain-raises-58m-series-b-led-by-sapphire-ventures-to-become-the-enterprise-stablecoin-platform-of-record-302540587.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-01",
+      "amount": "$250M",
+      "valuation": "$1.95B",
+      "lead": "ICONIQ",
+      "source": "https://www.reuters.com/technology/stablecoin-firm-rain-valued-195-billion-latest-fundraise-2026-01-09/"
+    }
+  ],
+  "total_raised": "$338M+",
+  "revenue_est": {
+    "value": "'Hundreds of millions' in revenue, up from low single-digit millions 18 months earlier",
+    "as_of": "Aug 2026",
+    "basis": "company-stated (co-founder on podcast)",
+    "source": "https://therollup.co/podcast/rain-co-founder-the-neobank-bull-cycle-is-only-just-getting-started-trillions-are-coming"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches embedded stablecoin wallets for partners",
+      "url": "https://www.prnewswire.com/news-releases/rain-introduces-wallets-putting-the-account-at-the-center-of-its-stablecoin-payments-platform-302906704.html"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Files with the OCC to establish Rain National Trust Bank",
+      "url": "https://www.prnewswire.com/news-releases/rain-files-application-with-the-occ-to-establish-rain-national-trust-bank-302898950.html"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Acquires Ansa for branded stored-value payments",
+      "url": "https://www.rain.xyz/resources/rain-acquires-ansa-for-stored-value-solution"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Western Union launches Stablecard in partnership with Rain",
+      "url": "https://ir.westernunion.com/news/archived-press-releases/press-release-details/2026/Western-Union-Launches-Stablecard-in-Partnership-with-Rain/default.aspx"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raises $250M Series C at $1.95B led by ICONIQ",
+      "url": "https://www.reuters.com/technology/stablecoin-firm-rain-valued-195-billion-latest-fundraise-2026-01-09/"
+    }
+  ],
+  "competitors": [
+    "Bridge (Stripe)",
+    "Baanx",
+    "Reap",
+    "lithic"
+  ]
+}

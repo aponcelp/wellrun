@@ -1,0 +1,77 @@
+{
+  "slug": "roadrunner",
+  "checked": "Oct 19, 2026",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~44 (LinkedIn)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/roadrunner-ai-inc"
+  },
+  "leadership": [
+    {
+      "name": "Joubin Mirzadegan",
+      "title": "Co-founder & CEO (also Kleiner Perkins partner)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://roadrunner.ai/team"
+    },
+    {
+      "name": "Ajay Natarajan",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://roadrunner.ai/team"
+    },
+    {
+      "name": "Eugene Shao",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://roadrunner.ai/team"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025",
+      "amount": "$5.2M",
+      "valuation": null,
+      "lead": "Kleiner Perkins",
+      "source": "https://www.goodwinlaw.com/en/news-and-events/news/2026/05/announcements-technology-goodwin-advises-roadrunner-27-million-seed-and-financing"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-05",
+      "amount": "$22M",
+      "valuation": null,
+      "lead": "Founders Fund",
+      "source": "https://roadrunner.ai/blog/roadrunner-raises-22m-series-a"
+    }
+  ],
+  "total_raised": "$27M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Says ARR tripled and customers 6x in first quarter after Series A",
+      "url": "https://www.arr.club/signal/roadrunner-arr-grows-3x-with-6x-growth-customer-count-in-3-months"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raises $27M (Kleiner seed, Founders Fund Series A); platform goes GA",
+      "url": "https://www.globenewswire.com/news-release/2026/05/12/3293309/0/en/Roadrunner-Raises-27M-to-Rebuild-Quote-to-Cash-from-the-Ground-Up.html"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Fortune: Kleiner's first incubation since Glean; closed 7-figure deal in 3 months",
+      "url": "https://fortune.com/2026/05/12/exclusive-roadrunner-kleiner-founders/"
+    }
+  ],
+  "competitors": [
+    "Salesforce Revenue Cloud (CPQ)",
+    "DealHub",
+    "Conga",
+    "Zuora"
+  ]
+}

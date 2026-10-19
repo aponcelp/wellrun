@@ -1,0 +1,68 @@
+{
+  "slug": "guidde",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "Tel Aviv, Israel (office in New York)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Yoav Einav",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.guidde.com/about"
+    },
+    {
+      "name": "Dan Sahar",
+      "title": "Co-founder & CPO/CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.guidde.com/about"
+    },
+    {
+      "name": "Graham Rowe",
+      "title": "VP Sales",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.guidde.com/about"
+    },
+    {
+      "name": "Peleg Samson",
+      "title": "VP of Customer Success",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.guidde.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2023-10",
+      "amount": "$15.6M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.prnewswire.com/news/guidde/"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2025-02",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Qualcomm Ventures",
+      "source": "https://www.calcalistech.com/ctechnews/article/skufisq9jg"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-02",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "PSG Equity",
+      "source": "https://www.prnewswire.com/news-releases/guidde-raises-50m-to-train-humans-on-ai-and-ai-on-humans-302697065.html"
+    }
+  ],
+  "total_raised": "$80M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

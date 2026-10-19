@@ -1,0 +1,38 @@
+{
+  "slug": "vast-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "Los Angeles, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jake Cannell",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://vast.ai/about"
+    },
+    {
+      "name": "Travis Cannell",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://vast.ai/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-07",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://pitchbook.com/profiles/company/531153-01"
+    }
+  ],
+  "total_raised": "~$4M (PitchBook)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

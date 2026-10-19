@@ -1,0 +1,84 @@
+{
+  "slug": "brightwheel",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2014,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Dave Vasen",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://mybrightwheel.com/about/"
+    },
+    {
+      "name": "Waqas Ahmed",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.caplight.com/company/mybrightwheel"
+    },
+    {
+      "name": "Josh Gartland",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.caplight.com/company/mybrightwheel"
+    },
+    {
+      "name": "Qasim Saifee",
+      "title": "Chief Operating Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.caplight.com/company/mybrightwheel"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2015-06",
+      "amount": "$2.2M",
+      "valuation": null,
+      "lead": "RRE Ventures and Eniac Ventures",
+      "source": "https://techcrunch.com/2015/06/17/brightwheel-preschool-funding"
+    },
+    {
+      "round": "Series A",
+      "date": "2017-02",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "GGV Capital",
+      "source": "https://www.prnewswire.com/news-releases/brightwheel-raises-10m-to-grow-groundbreaking-early-education-platform-300408671.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2018-10",
+      "amount": "$21M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://medium.com/eniacvc/brightwheel-graduates-with-21m-series-b-as-the-leading-software-provider-in-early-education-9d307d6a7a20"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-02",
+      "amount": "$55M",
+      "valuation": null,
+      "lead": "Addition",
+      "source": "https://www.prweb.com/releases/brightwheel-raises-55m-to-scale-the-leading-platform-for-early-education-874728802.html"
+    },
+    {
+      "round": "Series C3",
+      "date": "2022-10",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://pitchbook.com:8443/profiles/company/115530-40"
+    }
+  ],
+  "total_raised": "$88.8M disclosed (PitchBook lists $141M incl. undisclosed rounds)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

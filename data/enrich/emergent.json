@@ -1,0 +1,70 @@
+{
+  "slug": "emergent",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA / Bengaluru, India",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Mukund Jha",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
+    },
+    {
+      "name": "Madhav Jha",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/emergent"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": "Y Combinator, Together Fund",
+      "source": "https://emergent.sh/news/emergent-now-a-unicorn-at-1-5-billion-valuation"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-09",
+      "amount": "$23M",
+      "valuation": "$100M post (TechCrunch sources)",
+      "lead": "Lightspeed",
+      "source": "http://techcrunch.com/2025/09/24/emergent-raises-23m-from-lightspeed-to-let-consumers-build-apps"
+    },
+    {
+      "round": "Strategic (Google AI Futures Fund)",
+      "date": "2025-12",
+      "amount": null,
+      "valuation": null,
+      "lead": "Google",
+      "source": "https://emergent.sh/news/emergent-now-a-unicorn-at-1-5-billion-valuation"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-01",
+      "amount": "$70M",
+      "valuation": "$300M post",
+      "lead": "SoftBank Vision Fund 2, Khosla Ventures",
+      "source": "https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-07",
+      "amount": "$130M",
+      "valuation": "$1.5B post",
+      "lead": "Creaegis",
+      "source": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
+    }
+  ],
+  "total_raised": "$230M (per TechCrunch, Jul 2026)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

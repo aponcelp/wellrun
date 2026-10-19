@@ -1,0 +1,46 @@
+{
+  "slug": "sante",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Darren Fike",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.santehq.com/about"
+    },
+    {
+      "name": "Antoine Balaresque",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/sant%C3%A9"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-02",
+      "amount": "$7.6M",
+      "valuation": null,
+      "lead": "Bonfire Ventures, Operator Collective, Veridical Ventures, TipTop",
+      "source": "https://www.santehq.com/blog/sante-liquor-pos-raises-seed-round-bonfire"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "FINTOP",
+      "source": "https://www.prnewswire.com/news-releases/sante-raises-15m-series-a-to-expand-the-first-ai-operating-system-for-wine--spirits-retail-302900251.html"
+    }
+  ],
+  "total_raised": "$22.6M (per AlleyWatch)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "xdof",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "San Mateo, CA (per TechFundingNews; LinkedIn lists Emeryville)",
+  "headcount_est": {
+    "value": "~66 (LinkedIn)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/xdofai"
+  },
+  "leadership": [
+    {
+      "name": "Philipp Wu",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/wuphilipp",
+      "source": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/"
+    },
+    {
+      "name": "Fred (Yide) Shentu",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/"
+    },
+    {
+      "name": "Nemo Jin",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-06",
+      "amount": "$70M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/"
+    }
+  ],
+  "total_raised": "$70M (disclosed; Series B at ~$1.2B reported in talks, Sep 2026)",
+  "revenue_est": {
+    "value": "Annualized revenue approaching $50M",
+    "as_of": "Sep 2026",
+    "basis": "press report",
+    "source": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "In late-stage talks for Series B at ~$1.2B led by 8VC (TechCrunch)",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Emerges from stealth with $70M from Thrive, a16z, Spark, Lux, WndrCo",
+      "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Open-sources ABC-130K teleoperation dataset with UC Berkeley, CMU, MIT",
+      "url": "https://www.linkedin.com/posts/wuphilipp_im-excited-to-announce-that-xdof-is-coming-activity-7473042135693348864-6LTx"
+    }
+  ],
+  "competitors": [
+    "scale-ai",
+    "encord",
+    "Labelbox"
+  ]
+}

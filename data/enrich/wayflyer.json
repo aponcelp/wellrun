@@ -1,0 +1,85 @@
+{
+  "slug": "wayflyer",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "Dublin, Ireland",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Aidan Corbett",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://wayflyer.com/about-us"
+    },
+    {
+      "name": "John McAdoo",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://wayflyer.com/about-us"
+    },
+    {
+      "name": "Deirdre MacCarthy",
+      "title": "Chief Legal & People Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://wayflyer.com/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-10",
+      "amount": "$10.2M",
+      "valuation": null,
+      "lead": "QED Investors",
+      "source": "https://www.globenewswire.com/news-release/2020/10/19/2110447/0/en/wayflyer-secures-10-2-million-in-seed-round.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-05",
+      "amount": "$76M",
+      "valuation": null,
+      "lead": "Left Lane Capital",
+      "source": "https://www.irishtimes.com/business/technology/irish-start-up-wayflyer-raises-76m-and-secures-100m-debt-facility-1.4576809"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-02",
+      "amount": "$150M",
+      "valuation": "$1.6B",
+      "lead": "DST Global, QED Investors",
+      "source": "https://techcrunch.com/2022/02/01/wayflyer-raises-150m-on-a-1-6b-valuation-for-a-new-spin-on-providing-finance-to-e-commerce-merchants/"
+    },
+    {
+      "round": "Debt",
+      "date": "2022-05",
+      "amount": "$300M",
+      "valuation": null,
+      "lead": "J.P. Morgan",
+      "source": "https://wayflyer.com/press-releases/j-p-morgan"
+    },
+    {
+      "round": "Debt",
+      "date": "2023-09",
+      "amount": "$1B",
+      "valuation": null,
+      "lead": "Neuberger Berman",
+      "source": "https://techcrunch.com/2023/09/05/e-commerce-loan-startup-wayflyer-secures-1b-deal-from-neuberger-berman/"
+    },
+    {
+      "round": "Debt",
+      "date": "2026-02",
+      "amount": "$250M",
+      "valuation": null,
+      "lead": "ATLAS SP Partners",
+      "source": "https://tracxn.com/d/companies/wayflyer/__bvr09pID9UMonDuD0r90ISv7yzEhSRh4-Gb2LKCF3bU/funding-and-investors"
+    }
+  ],
+  "total_raised": "~$236M equity (seed through Series B) plus debt facilities",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

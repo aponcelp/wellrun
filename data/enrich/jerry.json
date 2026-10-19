@@ -1,0 +1,69 @@
+{
+  "slug": "jerry",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "Palo Alto, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Art Agrawal",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/artagrawal",
+      "source": "https://getjerry.com/newsroom/jerry-series-c-funding"
+    },
+    {
+      "name": "Musawir Shah",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://multiples.vc/private-comps/jerry"
+    },
+    {
+      "name": "Lina Zhang",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://multiples.vc/private-comps/jerry"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2018-10",
+      "amount": "$9M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/jerry_insurance"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-05",
+      "amount": "$28M",
+      "valuation": null,
+      "lead": "Goodwater Capital",
+      "source": "https://getjerry.com/newsroom/jerry-debuts"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-08",
+      "amount": "$75M",
+      "valuation": "$450M",
+      "lead": "Goodwater Capital",
+      "source": "https://techcrunch.com/2021/08/10/jerry-raises-75m-at-a-450m-valuation/"
+    },
+    {
+      "round": "Series C2 (equity + debt)",
+      "date": "2023-08",
+      "amount": "$110M",
+      "valuation": null,
+      "lead": "Park West Asset Management (equity); TriplePoint Capital (debt)",
+      "source": "http://fintech.global/2023/08/03/jerrys-ai-powered-revolution-in-car-insurance-accelerates-with-110m-raise"
+    }
+  ],
+  "total_raised": "$242M (Wikipedia)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "basic-capital",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Abdul Al-Asaad",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20250818929913/en/Basic-Capital-Closes-%2425-Million-Series-A-Funding-Round-Led-by-Forerunner-and-Lux-Capital"
+    },
+    {
+      "name": "Anjan Karanam",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.alleywatch.com/2025/08/the-alleywatch-startup-daily-funding-report-8-19-2025/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": null,
+      "valuation": null,
+      "lead": "Lux Capital",
+      "source": "https://www.linkedin.com/posts/lux-capital_news-were-thrilled-to-announce-that-weve-activity-7363290922295431170-O_mO"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-08",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Forerunner, Lux Capital",
+      "source": "http://basiccapital.com/learn/basic-capital-closes-25m-series-a"
+    }
+  ],
+  "total_raised": "$25M+ (seed amount undisclosed)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "ashby",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "San Francisco, CA (remote)",
+  "headcount_est": {
+    "value": "251-500 (range)",
+    "as_of": "2026",
+    "source": "https://www.crunchbase.com/organization/ashby"
+  },
+  "leadership": [
+    {
+      "name": "Benjamin Encz",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ashbyhq.com/blog/culture/series-d"
+    },
+    {
+      "name": "Abhik Pramanik",
+      "title": "Co-founder (VP of Engineering)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/ashby"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Accelerator (Y Combinator)",
+      "date": "2019-01",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://pitchbook.com/profiles/company/438877-63"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-08",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://pitchbook.com/profiles/company/438877-63"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-09",
+      "amount": "$21.5M",
+      "valuation": null,
+      "lead": "F-Prime Capital",
+      "source": "http://techcrunch.com/2022/09/13/ashby-21-5-million-recruiting-platform-startup-raises"
+    },
+    {
+      "round": "Series C",
+      "date": "2024-06",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Lachy Groom",
+      "source": "https://techcrunch.com/2024/06/03/ashby-injects-recruiting-with-a-dose-of-ai/"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-07",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Alkeon (co-lead Lachy Groom)",
+      "source": "https://www.ashbyhq.com/blog/culture/series-d"
+    }
+  ],
+  "total_raised": "~$120-131M (~$70M through Series C + $50M; CB Insights $130.6M)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launches WhatsApp candidate messaging at Ashby One London",
+      "url": "https://www.prnewswire.com/news/ashby,-inc./"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Passes 4,800 customers",
+      "url": "https://www.linkedin.com/posts/ashbyhq_were-proud-to-share-that-more-than-4800-activity-7480659055049605120-3rNA"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Ashby One: launches Assistant, Custom Agents and MCP server",
+      "url": "https://www.prnewswire.com/news-releases/ashby-expands-its-ai-native-ats-with-agents-assistant-and-mcp-support-302765986.html"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Acquires Talent Llama to launch an AI Interviewer",
+      "url": "https://www.prnewswire.com/news-releases/ashby-expands-into-ai-interviewing-with-talent-llama-acquisition-302765977.html"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Raises $50M Series D led by Alkeon; revenue up 135% YoY",
+      "url": "https://www.ashbyhq.com/blog/culture/series-d"
+    }
+  ],
+  "competitors": [
+    "Greenhouse",
+    "Lever",
+    "Gem",
+    "Workday Recruiting"
+  ]
+}

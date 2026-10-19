@@ -1,0 +1,46 @@
+{
+  "slug": "ketch",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Tom Chavez",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ketch.com/about"
+    },
+    {
+      "name": "Vivek Vaidya",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2021/03/24/ketch-series-a"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021-03",
+      "amount": "$23M",
+      "valuation": null,
+      "lead": "CRV, super{set}",
+      "source": "http://techcrunch.com/2021/03/24/ketch-series-a"
+    },
+    {
+      "round": "Series A1",
+      "date": "2021-09",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Acrew Capital",
+      "source": "https://techcrunch.com/2021/09/17/ketch-raises-another-20m-as-demand-grows-for-its-privacy-data-control-platform/"
+    }
+  ],
+  "total_raised": "$43M disclosed through Series A1",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

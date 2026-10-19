@@ -1,0 +1,62 @@
+{
+  "slug": "allara",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Rachel Blank",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.allarahealth.com/blog/allara-raises-30m-to-transform-the-womens-healthcare-experience-with-ai"
+    },
+    {
+      "name": "Dr. Heather Huddleston",
+      "title": "Chief Medical Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.indexventures.com/perspectives/how-allara-is-bridging-the-gap-in-womens-hormonal-healthcare/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-06",
+      "amount": "$2.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2021/06/09/allara-pcos-ro-rachel-blank/"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-10",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "GV",
+      "source": "https://www.prnewswire.com/news-releases/allara-raises-10m-in-series-a-funding-led-by-gv-google-ventures-to-bridge-the-care-gap-for-women-with-chronic-hormonal-conditions-301960484.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-01",
+      "amount": "$26M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://www.prnewswire.com/news-releases/allara-health-raises-26-million-in-series-b-funding-to-revolutionize-womens-hormonal-healthcare-302359719.html"
+    },
+    {
+      "round": "Growth round (series undisclosed)",
+      "date": "2026-10",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Index Ventures, GV",
+      "source": "https://www.fiercehealthcare.com/finance/allara-raises-30m-expand-virtual-womens-healthcare-across-continuum"
+    }
+  ],
+  "total_raised": "$75M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

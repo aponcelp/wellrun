@@ -1,0 +1,52 @@
+{
+  "slug": "american-terawatt",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Anton Troynikov",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/companies/american-terawatt"
+    },
+    {
+      "name": "Robert Parker",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/american-terawatt"
+    },
+    {
+      "name": "Ricky Moezinia",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/companies/american-terawatt"
+    },
+    {
+      "name": "Ron Bhattacharyay",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/companies/american-terawatt"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Equity offering (Form D; investors incl. Altimeter, Founders Fund, Bessemer)",
+      "date": "2026-05",
+      "amount": "$52.6M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.formds.com/issuers/american-terawatt-inc"
+    }
+  ],
+  "total_raised": "$52.6M (per SEC Form D)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

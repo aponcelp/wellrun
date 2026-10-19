@@ -1,0 +1,99 @@
+{
+  "slug": "openart",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "San Francisco, CA (Tracxn lists Redwood City)",
+  "headcount_est": {
+    "value": "60 full-time employees",
+    "as_of": "Jul 2026",
+    "source": "https://hrtoday.in/openart-announces-sultan-khan-as-head-of-talent-acquisition-and-hr/"
+  },
+  "leadership": [
+    {
+      "name": "Coco Mao",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.canaan.com/news/why-we-led-openart-s-30m-series-a"
+    },
+    {
+      "name": "John Qiao",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/6001b26428a00f1e2cf20071/openart"
+    },
+    {
+      "name": "Amy He",
+      "title": "VP of Product & Design",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/6001b26428a00f1e2cf20071/openart"
+    },
+    {
+      "name": "Sultan Khan",
+      "title": "Head of Talent Acquisition & HR",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://hrtoday.in/openart-announces-sultan-khan-as-head-of-talent-acquisition-and-hr/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": null,
+      "source": "http://sacra.com/c/openart"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-01",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Canaan Partners",
+      "source": "https://www.canaan.com/news/why-we-led-openart-s-30m-series-a"
+    }
+  ],
+  "total_raised": "$35M",
+  "revenue_est": {
+    "value": "$100M+ ARR, profitable",
+    "as_of": "Sep 2026",
+    "basis": "company-stated",
+    "source": "https://openart.ai/blog/ai-model-benchmark"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Ranks #12 on a16z's top consumer AI apps by revenue",
+      "url": "https://www.linkedin.com/posts/kechunmao_openart-is-now-12-on-a16zs-ranking-of-the-activity-7513629539143475200-BxjM"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launches OpenArt Arena creative model benchmark; ARR passes $100M",
+      "url": "https://finance.yahoo.com/technology/ai/articles/openart-introduces-openart-arena-ai-150000116.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Runs 'vibe directing' cinema ad campaign; joins 2026 Disney Accelerator",
+      "url": "https://www.newsanyway.com/2026/07/29/openart-ai-bets-on-vibe-directing-with-bold-cinema-ad-push/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Launches Director, conversational tool for five-minute AI films",
+      "url": "https://openart.ai/blog/openart-director-press-release/"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raises $30M Series A led by Canaan; $70M+ ARR, 8M MAU",
+      "url": "https://www.canaan.com/news/why-we-led-openart-s-30m-series-a"
+    }
+  ],
+  "competitors": [
+    "higgsfield-ai",
+    "krea",
+    "runway",
+    "pika"
+  ]
+}

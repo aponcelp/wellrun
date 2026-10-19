@@ -1,0 +1,102 @@
+{
+  "slug": "range",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "McLean, VA",
+  "headcount_est": {
+    "value": "~238 (LinkedIn)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/rangefinanceinc"
+  },
+  "leadership": [
+    {
+      "name": "Fahad Hassan",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.range.com/blog/ai-wealthtech-company-range-raises-28-million"
+    },
+    {
+      "name": "David Cusatis",
+      "title": "Co-founder & Chief AI Architect",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.investmentnews.com/ria-news/ria-startup-range-plans-to-eliminate-its-advisor-workforce-as-ai-takes-over/265586"
+    },
+    {
+      "name": "Taresh Batra",
+      "title": "Chief Investment Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/fahadrange_a-year-ago-our-cio-taresh-batra-and-i-met-activity-7510397129245507585-vsex"
+    },
+    {
+      "name": "Gareth Barendse",
+      "title": "Chief of Staff",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/rangefinanceinc_welcome-gareth-barendse-as-our-new-chief-activity-7415365322696032256-8y_z"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2023-05",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "Gradient Ventures",
+      "source": "https://www.prnewswire.com/news-releases/range-raises-12mm-series-a-led-by-gradient-googles-ai-fund-to-revolutionize-wealth-management-301814467.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-11",
+      "amount": "$28M",
+      "valuation": null,
+      "lead": "Cathay Innovation",
+      "source": "https://www.wealthmanagement.com/financial-technology/range-raises-another-28m-in-effort-to-replace-financial-advisors"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-11",
+      "amount": "$60M",
+      "valuation": null,
+      "lead": "Scale Venture Partners",
+      "source": "https://www.range.com/blog/range-raises-60m"
+    }
+  ],
+  "total_raised": "$100M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Adds Apex Fintech (AscendOS) as second custodian; groundwork for broker-dealer",
+      "url": "https://apexfintechsolutions.com/press-releases/range-adds-apex-fintech-solutions-to-power-next-phase-of-growth"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Crosses $1B in assets under management, ~30 months after launch",
+      "url": "https://www.linkedin.com/posts/fahadrange_earlier-this-year-range-crossed-1-billion-activity-7508570203333545984-RlcA"
+    },
+    {
+      "date": "2026-03",
+      "headline": "CEO says Range plans to phase out its ~25 human advisors as AI takes over",
+      "url": "https://www.investmentnews.com/ria-news/ria-startup-range-plans-to-eliminate-its-advisor-workforce-as-ai-takes-over/265586"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Hires ex-ID.me ops leader Gareth Barendse as Chief of Staff",
+      "url": "https://www.linkedin.com/posts/rangefinanceinc_welcome-gareth-barendse-as-our-new-chief-activity-7415365322696032256-8y_z"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Raises $60M Series C led by Scale Venture Partners; reports 300% YoY revenue growth",
+      "url": "https://www.range.com/blog/range-raises-60m"
+    }
+  ],
+  "competitors": [
+    "Wealthfront",
+    "Betterment",
+    "Facet",
+    "Origin"
+  ]
+}

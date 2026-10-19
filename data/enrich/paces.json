@@ -1,0 +1,46 @@
+{
+  "slug": "paces",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "Brooklyn, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "James McWalter",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/jamesmcwalter",
+      "source": "https://www.paces.com/about"
+    },
+    {
+      "name": "Charles Bai",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.paces.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2022-06",
+      "amount": "$1.9M",
+      "valuation": null,
+      "lead": "Resolute Ventures",
+      "source": "https://www.paces.com/post/green-infrastructure-data-platform-paces-raises-1-9m-pre-seed-led-by-resolute-ventures"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-07",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": "Navitas Capital",
+      "source": "https://pv-magazine-usa.com/2024/07/31/gis-and-data-platform-raises-11-million-to-accelerate-clean-energy-development/"
+    }
+  ],
+  "total_raised": "~$13M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

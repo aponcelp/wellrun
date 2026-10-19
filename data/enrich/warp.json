@@ -1,0 +1,47 @@
+{
+  "slug": "warp",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Zach Lloyd",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/zachlloyd",
+      "source": "https://en.wikipedia.org/wiki/Warp_(terminal)"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "GV",
+      "source": "https://techcrunch.com/2022/04/05/warp-raises-23m-to-build-a-better-terminal/"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-04",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "Dylan Field",
+      "source": "https://techcrunch.com/2022/04/05/warp-raises-23m-to-build-a-better-terminal/"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-06",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "https://www.warp.dev/blog/warp-drive-series-b"
+    }
+  ],
+  "total_raised": "$73M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

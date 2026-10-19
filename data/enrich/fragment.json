@@ -1,0 +1,53 @@
+{
+  "slug": "fragment",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Thomas Neckel",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://www.businesswire.com/news/home/20261014039312/en/Fragment-Raises-%2412-Million-Series-A-to-Turn-Agents-into-Financial-Operators"
+    },
+    {
+      "name": "Omi Chowdhury",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets"
+    },
+    {
+      "name": "Varun Mohan",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://fortune.com/2026/10/14/fragment-raises-12-million-to-help-keep-ai-agents-from-going-rogue-with-company-money/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (incl. earlier tranches)",
+      "date": "2024-07",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": "Stripe",
+      "source": "https://fortune.com/2026/10/14/fragment-raises-12-million-to-help-keep-ai-agents-from-going-rogue-with-company-money/"
+    },
+    {
+      "round": "Series A (closed mid-2025, announced Oct 2026)",
+      "date": "2025",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "FirstMark",
+      "source": "http://www.businesswire.com/news/home/20261014039312/en/Fragment-Raises-%2412-Million-Series-A-to-Turn-Agents-into-Financial-Operators"
+    }
+  ],
+  "total_raised": "$23M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

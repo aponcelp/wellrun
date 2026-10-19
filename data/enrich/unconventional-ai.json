@@ -1,0 +1,52 @@
+{
+  "slug": "unconventional-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": null,
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Naveen Rao",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://a16z.com/announcement/investing-in-unconventional/"
+    },
+    {
+      "name": "Michael Carbin",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.hpcwire.com/aiwire/2025/12/10/unconventional-ai-wants-to-solve-ai-scaling-crunch-with-analog-chips-will-it-work/"
+    },
+    {
+      "name": "Sara Achour",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.hpcwire.com/aiwire/2025/12/10/unconventional-ai-wants-to-solve-ai-scaling-crunch-with-analog-chips-will-it-work/"
+    },
+    {
+      "name": "MeeLan Lee",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.hpcwire.com/aiwire/2025/12/10/unconventional-ai-wants-to-solve-ai-scaling-crunch-with-analog-chips-will-it-work/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-12",
+      "amount": "$475M",
+      "valuation": "$4.5B",
+      "lead": "Andreessen Horowitz, Lightspeed",
+      "source": "https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round"
+    }
+  ],
+  "total_raised": "$475M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

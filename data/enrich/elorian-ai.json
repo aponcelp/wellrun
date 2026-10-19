@@ -1,0 +1,45 @@
+{
+  "slug": "elorian-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": "Palo Alto, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Andrew Dai",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/"
+    },
+    {
+      "name": "Yinfei Yang",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/strikervp_ai-mastered-language-the-harder-problem-activity-7448038369676206080-Z_el"
+    },
+    {
+      "name": "Seth Neel",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://app.dealroom.co/news/feed/ex-google-deepmind-researchers-startup-elorian-raises-55m-for-visual-ai-reasoning"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (two tranches)",
+      "date": "2026-04",
+      "amount": "$55M",
+      "valuation": "$300M post",
+      "lead": "Striker Venture Partners, Menlo Ventures, Altimeter",
+      "source": "https://www.wsgr.com/en/insights/wilson-sonsini-advises-elorian-on-dollar55-million-seed-financing-as-company-emerges-from-stealth.html"
+    }
+  ],
+  "total_raised": "$55M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

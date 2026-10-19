@@ -1,0 +1,61 @@
+{
+  "slug": "breezeway",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "Boston, MA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jeremiah (Jeremy) Gall",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260303549997/en/Breezeway-Announces-Strategic-Growth-Investment-from-Resurgens-to-Accelerate-AI-Innovation-and-Global-Expansion"
+    },
+    {
+      "name": "Nathaniel Oaks",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/breezeway"
+    },
+    {
+      "name": "Emily Schendel",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.caplight.com/company/breezeway"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2020-08",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "Schooner Capital",
+      "source": "https://news.crunchbase.com/startups/exclusive-breezeway-brings-in-8m-series-a-for-property-management-platform/"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-10",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Catalyst Investors",
+      "source": "https://hospitalitytech.com/breezeway-raises-15-million-series-b-invest-advanced-property-care-and-hospitality-service-platform"
+    },
+    {
+      "round": "Growth (private equity)",
+      "date": "2026-03",
+      "amount": null,
+      "valuation": null,
+      "lead": "Resurgens Technology Partners",
+      "source": "https://www.businesswire.com/news/home/20260303549997/en/Breezeway-Announces-Strategic-Growth-Investment-from-Resurgens-to-Accelerate-AI-Innovation-and-Global-Expansion"
+    }
+  ],
+  "total_raised": "~$36M through 2022 (Crunchbase via Built In); 2026 Resurgens amount undisclosed",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

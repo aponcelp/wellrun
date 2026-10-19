@@ -1,0 +1,39 @@
+{
+  "slug": "plug",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "Santa Monica, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jimmy Douglas",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/plug-raises-20-million-series-a-to-scale-ev-first-marketplace-as-used-ev-market-expands-302676099.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-04",
+      "amount": "$6.7M",
+      "valuation": null,
+      "lead": "Floodgate, Autotech Ventures, A*",
+      "source": "https://www.prnewswire.com/news-releases/plug-secures-6-7-million-in-seed-funding-and-launches-plug-trade-desktm-the-industrys-first-ev-exclusive-trade-in-solution-302422604.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-02",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Lightspeed",
+      "source": "https://plugmotors.com/resources/plug-raises-20m-series-a-used-ev-marketplace"
+    }
+  ],
+  "total_raised": "~$26.7M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

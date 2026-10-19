@@ -1,0 +1,47 @@
+{
+  "slug": "pitch",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "Berlin, Germany",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Adam Renklint",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://foundingjourney.com/pitch"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Early round",
+      "date": "2018",
+      "amount": "$19M",
+      "valuation": null,
+      "lead": "Index Ventures (investor)",
+      "source": "https://techcrunch.com/2019/10/01/pitch-a-presentation-startup-from-wunderlists-founders-raises-30m-more-to-take-on-powerpoint/"
+    },
+    {
+      "round": "Series A",
+      "date": "2019-10",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Thrive Capital",
+      "source": "https://techcrunch.com/2019/10/01/pitch-a-presentation-startup-from-wunderlists-founders-raises-30m-more-to-take-on-powerpoint/"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-05",
+      "amount": "$85M",
+      "valuation": "$600M (reported)",
+      "lead": "Lakestar and Tiger Global",
+      "source": "https://www.pitch.com/blog/pitch-series-b-funding"
+    }
+  ],
+  "total_raised": "~$135M (unspent cash returned to investors in Jan 2024 recap)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

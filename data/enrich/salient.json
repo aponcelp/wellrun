@@ -1,0 +1,46 @@
+{
+  "slug": "salient",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ari (Arijit) Malik",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.trysalient.com/company"
+    },
+    {
+      "name": "Mukund Tibrewala",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/salient"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023",
+      "amount": null,
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://www.ycombinator.com/companies/salient"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-07",
+      "amount": "$60M",
+      "valuation": "$350M",
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.techinasia.com/news/a16z-leads-60m-series-a-for-us-lender-platform-salient"
+    }
+  ],
+  "total_raised": "$75M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

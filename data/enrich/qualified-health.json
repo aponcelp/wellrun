@@ -1,0 +1,103 @@
+{
+  "slug": "qualified-health",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "Palo Alto, CA",
+  "headcount_est": {
+    "value": "~169 (Tracxn)",
+    "as_of": "Oct 2026",
+    "source": "https://platform.tracxn.com/a/d/company/6528449b898c606698565b7d/qualified%20health"
+  },
+  "leadership": [
+    {
+      "name": "Justin Norden",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/justin-norden",
+      "source": "https://qualifiedhealthai.com/about-us"
+    },
+    {
+      "name": "Kedar Mate",
+      "title": "Co-founder & Chief Medical Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://qualifiedhealthai.com/about-us"
+    },
+    {
+      "name": "Shantanu Phatakwala",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.flarecapital.com/company/qualified-health/"
+    },
+    {
+      "name": "Beau Norgeot",
+      "title": "Co-founder & Chief AI Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.flarecapital.com/company/qualified-health/"
+    },
+    {
+      "name": "Nirav R. Shah",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/qualified-health-launches-with-30m-seed-funding-to-develop-the-infrastructure-for-generative-ai-in-healthcare-302345625.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-01",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.prnewswire.com/news-releases/qualified-health-launches-with-30m-seed-funding-to-develop-the-infrastructure-for-generative-ai-in-healthcare-302345625.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-03",
+      "amount": "$125M",
+      "valuation": null,
+      "lead": "NEA",
+      "source": "https://www.prnewswire.com/news-releases/qualified-health-raises-125m-series-b-to-meet-growing-demand-for-enterprise-ai-transformation-across-health-systems-302723600.html"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2026-07",
+      "amount": "~$10M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://platform.tracxn.com/a/d/company/6528449b898c606698565b7d/qualified%20health"
+    }
+  ],
+  "total_raised": "$155M (STAT, Mar 2026); ~$165M incl. Jul 2026 extension (Tracxn)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "LCMC Health signs system-wide generative AI partnership",
+      "url": "https://www.prnewswire.com/news-releases/lcmc-health-announces-strategic-ai-partnership-with-qualified-health-to-enhance-patient-care-and-safety-302848687.html"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Raises $125M Series B led by NEA; Anthropic-Menlo Anthology fund joins",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/qualified-health-locks-125m-fresh-funding-scale-ai-health-systems"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Jefferson Health announces generative AI collaboration",
+      "url": "https://www.prnewswire.com/news-releases/jefferson-health-deepens-ai-capabilities-through-collaboration-with-qualified-health-302671524.html"
+    },
+    {
+      "date": "2025-01",
+      "headline": "Launches with $30M seed",
+      "url": "https://www.prnewswire.com/news-releases/qualified-health-launches-with-30m-seed-funding-to-develop-the-infrastructure-for-generative-ai-in-healthcare-302345625.html"
+    }
+  ],
+  "competitors": [
+    "Innovaccer",
+    "Epic (native AI)",
+    "Microsoft (Dragon Copilot)"
+  ]
+}

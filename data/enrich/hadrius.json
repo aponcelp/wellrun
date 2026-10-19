@@ -1,0 +1,53 @@
+{
+  "slug": "hadrius",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Thomas Stewart",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.hadrius.com/insights/series-a"
+    },
+    {
+      "name": "Allen Calderwood",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/hadrius"
+    },
+    {
+      "name": "Som Mohapatra",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/hadrius"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-09",
+      "amount": "$2M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.prnewswire.com/news-releases/yc-backed-hadrius-raises-2m-seed-round-to-power-sec-compliance-using-ai-301918190.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-07",
+      "amount": "$22M",
+      "valuation": null,
+      "lead": "CRV",
+      "source": "https://www.prnewswire.com/news-releases/hadrius-raises-27-million-to-build-agentic-compliance-infrastructure-302824196.html"
+    }
+  ],
+  "total_raised": "$27M (seed + Series A, company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "shinkei",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "El Segundo, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Saif Khawaja",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://agfundernews.com/shinkei-systems-will-expand-its-robotic-fishing-operation-thanks-to-a-fresh-catch-of-funding"
+    },
+    {
+      "name": "Reed Ginsberg",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.foodnavigator.com/Article/2025/09/26/shinkei-systems-launched-in-2021-is-expanding-rapidly-with-new-headquarters/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (YC)",
+      "date": "2022",
+      "amount": null,
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://platform.tracxn.com/a/d/company/6009c371f881a21f01819a60/shinkei%20systems"
+    },
+    {
+      "round": "Seed",
+      "date": "2024-04",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "Cantos",
+      "source": "https://www.prnewswire.com/news-releases/shinkei-announces-6-million-in-seed-funding-for-sustainable-robotic-fish-harvesting-302129539.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-06",
+      "amount": "$22M",
+      "valuation": null,
+      "lead": "Founders Fund, Interlagos",
+      "source": "https://www.agnavigator.com/Article/2025/06/13/seafood-automation-start-up-raises-22-million-in-series-a-funding/"
+    }
+  ],
+  "total_raised": "$30M (AgFunderNews / LA Times)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

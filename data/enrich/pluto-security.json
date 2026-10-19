@@ -1,0 +1,53 @@
+{
+  "slug": "pluto-security",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "Tel Aviv, Israel / US",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Shahar Bahat",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://jumpcap.com/insights/why-we-invested-in-pluto-security/"
+    },
+    {
+      "name": "Gil Maman",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://jumpcap.com/insights/why-we-invested-in-pluto-security/"
+    },
+    {
+      "name": "Tal Ofer Regev",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://jumpcap.com/insights/why-we-invested-in-pluto-security/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025",
+      "amount": "$8.5M",
+      "valuation": null,
+      "lead": "TLV Partners",
+      "source": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$34M",
+      "valuation": null,
+      "lead": "Jump Capital",
+      "source": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+    }
+  ],
+  "total_raised": "$42M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

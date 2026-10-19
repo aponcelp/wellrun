@@ -1,0 +1,46 @@
+{
+  "slug": "straiker",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "Mountain View, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ankur Shah",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.straiker.ai/about"
+    },
+    {
+      "name": "Sreenath Kurupati",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/straiker-raises-64m-series-a-to-secure-the-agentic-workforce-302812638.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-03",
+      "amount": "$21M",
+      "valuation": null,
+      "lead": "Lightspeed, Bain Capital Ventures",
+      "source": "https://www.prnewswire.com/news-releases/straiker-launches-with-21-million-to-safeguard-ai-302412224.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-06",
+      "amount": "$64M",
+      "valuation": null,
+      "lead": "Marathon Management Partners, Citi Ventures, Illuminate Financial, Workday Ventures",
+      "source": "https://www.prnewswire.com/news-releases/straiker-raises-64m-series-a-to-secure-the-agentic-workforce-302812638.html"
+    }
+  ],
+  "total_raised": "$85M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

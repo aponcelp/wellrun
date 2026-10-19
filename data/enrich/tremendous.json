@@ -1,0 +1,39 @@
+{
+  "slug": "tremendous",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2010,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Nick Baum",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.tremendous.com/about"
+    },
+    {
+      "name": "Kapil Kale",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.tremendous.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (as GiftRocket)",
+      "date": "2011",
+      "amount": "$500K",
+      "valuation": null,
+      "lead": "Y Combinator + angels",
+      "source": "https://www.tremendous.com/fundraising-history/"
+    }
+  ],
+  "total_raised": "$500K (investors bought out 2013; no outside investors)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": [],
+  "note": "Company states it is profitable and wholly owned by founders and employees (https://www.tremendous.com/fundraising-history/)."
+}

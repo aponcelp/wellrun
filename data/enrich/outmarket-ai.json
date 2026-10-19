@@ -1,0 +1,82 @@
+{
+  "slug": "outmarket-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "15 (company-stated)",
+    "as_of": "Oct 2025",
+    "source": "https://www.dig-in.com/news/meet-the-insurtech-outmarket-ai"
+  },
+  "leadership": [
+    {
+      "name": "Vishal Sankhla",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://outmarket.ai/about"
+    },
+    {
+      "name": "Anshu Jain",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://outmarket.ai/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-03",
+      "amount": "$4.7M",
+      "valuation": null,
+      "lead": "Fika Ventures",
+      "source": "https://outmarket.ai/blog/introducing-outmarket"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-05",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "Permanent Capital Ventures",
+      "source": "https://outmarket.ai/blog/why-we-bet-on-insurance-and-why-the-industry-bet-on-us"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-09",
+      "amount": "$34.5M",
+      "valuation": "$335M (reported)",
+      "lead": "SignalFire",
+      "source": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
+    }
+  ],
+  "total_raised": "$56.5M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Joins Big \"I\" Agents Council for Technology (ACT)",
+      "url": "https://www.independentagent.com/news/outmarket-ai-joins-act/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Raises $34.5M Series B led by SignalFire at $335M, four months after Series A",
+      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raises $17M Series A led by Permanent Capital Ventures",
+      "url": "https://outmarket.ai/blog/why-we-bet-on-insurance-and-why-the-industry-bet-on-us"
+    },
+    {
+      "date": "2025-03",
+      "headline": "Launches with $4.7M seed led by Fika Ventures",
+      "url": "https://outmarket.ai/blog/introducing-outmarket"
+    }
+  ],
+  "competitors": [
+    "fulcrum",
+    "furtherai",
+    "Applied Systems"
+  ]
+}

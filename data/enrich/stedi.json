@@ -1,0 +1,55 @@
+{
+  "slug": "stedi",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": null,
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Zack Kanter",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.stedi.com/blog/series-c"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2019-11",
+      "amount": "$21.3M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://linkedin.com/company/stedi-inc"
+    },
+    {
+      "round": "Series B",
+      "date": "2020-08",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Addition",
+      "source": "https://www.stedi.com/blog/series-b"
+    },
+    {
+      "round": "Series B (announced)",
+      "date": "2025-08",
+      "amount": "$70M (incl. $50M previously unannounced + $20M new)",
+      "valuation": null,
+      "lead": "Stripe, Addition",
+      "source": "https://www.stedi.com/blog/series-b"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-03",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Addition",
+      "source": "https://www.stedi.com/blog/series-c"
+    }
+  ],
+  "total_raised": "$142M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "bastion",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": null,
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Nassim Eddequiouaq",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/nassedd",
+      "source": "https://www.bastion.com/blog/bastion-secures-financing-to-expand-regulated-stablecoins-enterprises"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-09",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "a16z crypto",
+      "source": "https://techcrunch.com/2023/09/21/former-a16z-execs-launch-bastion-crypto/"
+    },
+    {
+      "round": "Strategic round",
+      "date": "2025-09",
+      "amount": "$14.6M",
+      "valuation": null,
+      "lead": "Coinbase Ventures",
+      "source": "https://www.globenewswire.com/news-release/2025/09/24/3155522/0/en/bastion-surpasses-40-million-in-funding-amid-explosive-growth-in-the-stablecoin-market.html"
+    }
+  ],
+  "total_raised": "$40M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

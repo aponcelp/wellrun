@@ -1,0 +1,144 @@
+{
+  "slug": "midi-health",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "Palo Alto, CA",
+  "headcount_est": {
+    "value": "~793 (Tracxn)",
+    "as_of": "2026",
+    "source": "https://platform.tracxn.com/a/d/company/61987e1983de811926930f65/join%20midi"
+  },
+  "leadership": [
+    {
+      "name": "Joanna Strober",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.joinmidi.com/leadership"
+    },
+    {
+      "name": "Sharon Meers",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.joinmidi.com/leadership"
+    },
+    {
+      "name": "Kathleen Jordan, MD",
+      "title": "Co-founder & Chief Medical Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.joinmidi.com/leadership"
+    },
+    {
+      "name": "Jason Wheeler",
+      "title": "CFO (ex-Tesla CFO)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.joinmidi.com/team/jason-wheeler-cfo"
+    },
+    {
+      "name": "Mindy Goldman, MD",
+      "title": "Chief Clinical Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.joinmidi.com/leadership"
+    },
+    {
+      "name": "Melissa Waters",
+      "title": "Chief Marketing Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.joinmidi.com/press-release/series-d-announcement"
+    },
+    {
+      "name": "Matt Cook",
+      "title": "Chief Commercial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.joinmidi.com/press-release/series-d-announcement"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-10",
+      "amount": "$14M",
+      "valuation": null,
+      "lead": "Felicis, SemperVirens",
+      "source": "https://hlth.com/insights/news/women-s-virtual-care-clinic-midi-health-raises-60m-2024-04-25"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-09",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "GV",
+      "source": "https://sacra.com/research/midi-health/"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-04",
+      "amount": "$60M",
+      "valuation": null,
+      "lead": "Emerson Collective",
+      "source": "https://www.prnewswire.com/news-releases/midi-health-the-fastest-growing-virtual-clinic-for-perimenopause-and-menopause-raises-an-additional-60m-in-series-b-round--100m-total-funding-to-date--to-transform-womens-healthcare-302125839.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2025 (closed spring; disclosed Oct)",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Advance Venture Partners",
+      "source": "https://www.businessinsider.com/womens-health-startup-midi-health-50-million-longevity-ai-2025-10"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-02",
+      "amount": "$100M",
+      "valuation": "$1B+",
+      "lead": "Goodwater Capital",
+      "source": "https://www.businesswire.com/news/home/20260203432254/en/Midi-Health-Surpasses-%241B-Valuation-Igniting-a-New-Era-for-Womens-Health"
+    }
+  ],
+  "total_raised": "$250M+ (Fierce Healthcare)",
+  "revenue_est": {
+    "value": "$150M revenue run-rate",
+    "as_of": "Oct 2025",
+    "basis": "company-stated",
+    "source": "https://www.businessinsider.com/womens-health-startup-midi-health-50-million-longevity-ai-2025-10"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Partners with Hackensack Meridian Health; expands into UTI and BV care",
+      "url": "https://www.hackensackmeridianhealth.org/en/news/2026/10/14/convenient-compassionate-care-for-women-the-goal-of-new-hackensack-meridian-health-midi-health"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Retail debut: supplements launch at Ulta Beauty nationwide",
+      "url": "https://www.prnewswire.com/news-releases/midi-health-makes-retail-debut-with-ulta-beauty-bringing-its-supplements-to-stores-nationwide-302876730.html"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Rebrands as it expands beyond menopause to women's care at all life stages",
+      "url": "https://finance.yahoo.com/healthcare/articles/midi-health-unveils-bold-brand-130000790.html"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Launches national ad campaign starring Amy Schumer",
+      "url": "https://www.prnewswire.com/news-releases/amy-schumer-stars-in-midi-healths-midlife-back-in-session-national-ad-campaign-302734125.html"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Raises $100M Series D at $1B+ led by Goodwater; adds CFO, CMO and CCO",
+      "url": "https://www.businesswire.com/news/home/20260203432254/en/Midi-Health-Surpasses-%241B-Valuation-Igniting-a-New-Era-for-Womens-Health"
+    }
+  ],
+  "competitors": [
+    "Alloy Women's Health",
+    "Evernow",
+    "Hims & Hers (Hers)",
+    "allara"
+  ]
+}

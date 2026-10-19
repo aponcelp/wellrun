@@ -1,0 +1,54 @@
+{
+  "slug": "leland",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Stanford, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "John Koelliker",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.joinleland.com/library/a/announcing-our-12m-series-a-led-by-forerunner-ventures"
+    },
+    {
+      "name": "Zando Ward",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://app.welcometothejungle.com/companies/Leland"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2021-10",
+      "amount": "$1.1M",
+      "valuation": null,
+      "lead": "Contrary, Peterson Ventures",
+      "source": "https://www.joinleland.com/library/a/announcing-lelands-1-1m-pre-seed-round"
+    },
+    {
+      "round": "Seed",
+      "date": "2022-05",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": "Contrary",
+      "source": "https://www.joinleland.com/library/a/seed-round-announcement"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-11",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "Forerunner Ventures",
+      "source": "https://techcrunch.com/2024/11/13/leland-lands-12-million-to-grow-its-coaching-platform/"
+    }
+  ],
+  "total_raised": "~$20M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

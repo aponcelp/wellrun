@@ -1,0 +1,85 @@
+{
+  "slug": "dutchie",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "Bend, OR",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Tim Barash",
+      "title": "Chairman & CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://research.crustdata.com/company/dutchie"
+    },
+    {
+      "name": "Spencer Scott",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://research.crustdata.com/company/dutchie"
+    },
+    {
+      "name": "Chris Ostrowski",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://research.crustdata.com/company/dutchie"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2018",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://investingintheweb.com/blog/dutchie-ipo/"
+    },
+    {
+      "round": "Series A",
+      "date": "2019",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://investingintheweb.com/blog/dutchie-ipo/"
+    },
+    {
+      "round": "Series B",
+      "date": "2020",
+      "amount": "$35M",
+      "valuation": "$200M",
+      "lead": null,
+      "source": "https://investingintheweb.com/blog/dutchie-ipo/"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-03",
+      "amount": "$200M",
+      "valuation": "$1.7B",
+      "lead": null,
+      "source": "http://widgets.economictimes.com/tech/funding/cannabis-e-commerce-platform-dutchie-raises-350-million-valued-at-3-75-billion/articleshow/87022142.cms"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-10",
+      "amount": "$350M",
+      "valuation": "$3.75B",
+      "lead": "D1 Capital Partners",
+      "source": "https://www.prnewswire.com/news-releases/dutchie-announces-350-million-financing-round-to-power-cannabis-commerce-now-valued-at-3-75-billion-301399983.html"
+    },
+    {
+      "round": "Series D-2 (down round)",
+      "date": "2024-01",
+      "amount": "$100M",
+      "valuation": "$400M",
+      "lead": "Thrive Capital",
+      "source": "https://sacra.com/c/dutchie/"
+    }
+  ],
+  "total_raised": "~$700M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

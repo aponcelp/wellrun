@@ -1,0 +1,61 @@
+{
+  "slug": "phantom",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Brandon Millman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://phantom.com/about"
+    },
+    {
+      "name": "Francesco Agosti",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://phantom.com/about"
+    },
+    {
+      "name": "Chris Kalani",
+      "title": "Co-founder (Head of Growth per company site)",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://phantom.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021-07",
+      "amount": "$9M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://app.dealroom.co/companies/phantom_1_4"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-01",
+      "amount": "$109M",
+      "valuation": "$1.2B",
+      "lead": "Paradigm",
+      "source": "https://app.dealroom.co/companies/phantom_1_4"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-01",
+      "amount": "$150M",
+      "valuation": "$3B",
+      "lead": "Sequoia Capital, Paradigm",
+      "source": "https://phantom.com/learn/blog/phantom-series-c"
+    }
+  ],
+  "total_raised": "~$268M (per Forbes)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

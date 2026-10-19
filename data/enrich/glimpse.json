@@ -1,0 +1,53 @@
+{
+  "slug": "glimpse",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Akash Raju",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.tryglimpse.com/post/seriesa"
+    },
+    {
+      "name": "Anuj Mehta",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/"
+    },
+    {
+      "name": "Kushal Negi",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (post-pivot; first announced as Series A)",
+      "date": "2025-04",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "8VC",
+      "source": "https://www.tryglimpse.com/post/announcing-our-10m-seed-to-bring-ai-powered-deduction-management-to-cpg-brands"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-03",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/"
+    }
+  ],
+  "total_raised": "$52M (company-stated, incl. pre-pivot funding)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

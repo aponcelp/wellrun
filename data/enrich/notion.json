@@ -1,0 +1,68 @@
+{
+  "slug": "notion",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2013,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ivan Zhao",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/2026/05/19/notion-cnbc-disruptor-50-ranking.html"
+    },
+    {
+      "name": "Simon Last",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/2026/05/19/notion-cnbc-disruptor-50-ranking.html"
+    },
+    {
+      "name": "Akshay Kothari",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/notion/"
+    },
+    {
+      "name": "Rama Katkar",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.notion.com/blog/gic-sequoia-index-purchase-notion-shares"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Venture round",
+      "date": "2020-04",
+      "amount": "$50M",
+      "valuation": "$2B",
+      "lead": null,
+      "source": "https://sacra.com/c/notion"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-10",
+      "amount": "$275M",
+      "valuation": "$10B",
+      "lead": "Coatue, Sequoia",
+      "source": "https://www.forbes.com/sites/alexkonrad/2021/10/08/notion-raises-at-10-billion-valuation-boosted-by-remote-work-tiktok"
+    },
+    {
+      "round": "Employee tender offer (secondary)",
+      "date": "2026-01",
+      "amount": "~$270M",
+      "valuation": "$11B",
+      "lead": "GIC, Sequoia, Index Ventures",
+      "source": "https://www.notion.com/blog/gic-sequoia-index-purchase-notion-shares"
+    }
+  ],
+  "total_raised": "~$343M primary (per Contrary/Sacra)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

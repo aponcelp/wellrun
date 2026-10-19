@@ -1,0 +1,53 @@
+{
+  "slug": "depthfirst",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Qasim Mithani",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/amp"
+    },
+    {
+      "name": "Daniele Perito",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.accel.com/news/accel-leads-depthfirsts-series-a-securing-the-worlds-software"
+    },
+    {
+      "name": "Andrea Michi",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.accel.com/news/accel-leads-depthfirsts-series-a-securing-the-worlds-software"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-01",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-03",
+      "amount": "$80M",
+      "valuation": "~$580M (per Forbes)",
+      "lead": "Meritech Capital",
+      "source": "https://www.depthfirst.com/post/series-b-announcement"
+    }
+  ],
+  "total_raised": "$120M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

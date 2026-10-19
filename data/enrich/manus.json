@@ -1,0 +1,47 @@
+{
+  "slug": "manus",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "Singapore",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Xiao Hong",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Manus_(AI_agent)"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2024-11",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://en.wikipedia.org/wiki/Manus_(AI_agent)"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-04",
+      "amount": "$75M",
+      "valuation": "~$500M",
+      "lead": "Benchmark",
+      "source": "https://www.bloomberg.com/news/articles/2025-04-25/chinese-ai-startup-manus-scores-funding-at-500-million-value"
+    },
+    {
+      "round": "Growth",
+      "date": "2026-10",
+      "amount": "$500M+",
+      "valuation": "~$4B (reported, Bloomberg Sep 2026; undisclosed by company)",
+      "lead": "Boyu Capital, IDG Capital",
+      "source": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+    }
+  ],
+  "total_raised": "~$585M+ (≥$10M early rounds + $75M + $500M+)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

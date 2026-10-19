@@ -1,0 +1,99 @@
+{
+  "slug": "gigs",
+  "checked": "Oct 19, 2026",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "under 140 people",
+    "as_of": "Jan 2026",
+    "source": "https://www.linkedin.com/posts/woodruth_new-year-new-role-gigs-is-hiring-in-activity-7415055958583853056-iAB2"
+  },
+  "leadership": [
+    {
+      "name": "Hermann Frank",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://gigs.com/press"
+    },
+    {
+      "name": "Dennis Bauer",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://gigs.com/press"
+    },
+    {
+      "name": "Edgar Verschuur",
+      "title": "Head of Connectivity (ex-Adyen)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.finextra.com/company-news/10034/gigs"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (Y Combinator W21)",
+      "date": "2021",
+      "amount": null,
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://www.ycombinator.com/companies/gigs"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-09",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Gradient Ventures (Google)",
+      "source": "https://gigs.com/press/gigs-raises-20m-series-a-from-google-and-yc-to-build-stripe-for-phone-plans"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-12",
+      "amount": "$73M",
+      "valuation": null,
+      "lead": "Ribbit Capital",
+      "source": "http://techcrunch.com/2024/12/12/gigs-mvno-73m-mobile-network-services"
+    }
+  ],
+  "total_raised": "$93M+ (Series A + B; seed undisclosed)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Santander signs global deal to launch Gigs-powered eSIM in its app",
+      "url": "https://www.santander.com/en/press-room/press-releases/2026/08/santander-partners-with-gigs-to-enable-customers-to-stay-connected-in-more-than-160-countries-directly-from-the-banks-app"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Tide launches business mobile plans powered by Gigs",
+      "url": "https://gigs.com/press/tide-becomes-first-business-banking-provider-to-launch-mobile-plans-globally-powered-by-gigs"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Hires former Adyen payments head Edgar Verschuur as Head of Connectivity",
+      "url": "https://www.finextra.com/company-news/10034/gigs"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Sezzle Mobile launches on Gigs and AT&T",
+      "url": "https://www.marketscreener.com/news/sezzle-mobile-launches-with-unlimited-5g-plans-starting-at-29-99-ce7e5ddedf8cf526"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Revolut Mobile rolls out in the UK, powered by Gigs",
+      "url": "http://gigs.com/press/revolut-mobile-starts-rolling-out-in-the-uk-unlimited-5g-data-calls-texts-for-an-introductory-offer-of-pound12-50-a-month"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Strategic alliance with AT&T; Klarna first brand on it",
+      "url": "https://www.businesswire.com/news/home/20250910075012/en/Gigs-and-ATT-to-Power-the-Convergence-of-Tech-and-Telecom"
+    }
+  ],
+  "competitors": [
+    "1GLOBAL",
+    "Airalo",
+    "Telna"
+  ]
+}

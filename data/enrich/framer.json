@@ -1,0 +1,54 @@
+{
+  "slug": "framer",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2015,
+  "hq": "Amsterdam, Netherlands",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Koen Bok",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/08/28/no-code-website-builder-framer-reaches-2b-valuation"
+    },
+    {
+      "name": "Jorn van Dijk",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.reuters.com/technology/framer-hits-2-billion-valuation-latest-funding-round-2025-08-28/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2017",
+      "amount": "$7.7M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://sacra.com/c/framer/"
+    },
+    {
+      "round": "Series C",
+      "date": "2023-09",
+      "amount": "$27M",
+      "valuation": null,
+      "lead": "Meritech",
+      "source": "https://techcrunch.com/2025/08/28/no-code-website-builder-framer-reaches-2b-valuation"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-08",
+      "amount": "$100M",
+      "valuation": "$2B",
+      "lead": "Meritech, Atomico",
+      "source": "https://www.businesswire.com/news/home/20250828901842/en/Framer-Raises-%24100-Million-Series-D-at-a-%242-Billion-Valuation-to-Redefine-How-Businesses-Build-Websites"
+    }
+  ],
+  "total_raised": "~$161M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

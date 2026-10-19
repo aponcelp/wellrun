@@ -1,0 +1,61 @@
+{
+  "slug": "planetscale",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Sam Lambert",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/isamlambert",
+      "source": "https://techcrunch.com/2021/11/16/planetscale-raises-50m-series-c-as-its-enterprise-database-service-hits-general-availability"
+    },
+    {
+      "name": "Sugu Sougoumarane",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.kleinerperkins.com/perspectives/planetscale-series-c/"
+    },
+    {
+      "name": "Kevan Zadeh",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/planetscale"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2019",
+      "amount": null,
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://sacra.com/c/planetscale/"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-06",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://techcrunch.com/2021/06/23/planetscale-raises-30m-series-b-for-its-database-service"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-11",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Kleiner Perkins",
+      "source": "https://www.businesswire.com/news/home/20211116005566/en/PlanetScale-Announces-$50M-in-Series-C-Funding-to-Accelerate-Development-and-Adoption-of-Infinitely-Scalable-Serverless-MySQL-Database"
+    }
+  ],
+  "total_raised": "$105M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

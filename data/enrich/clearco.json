@@ -1,0 +1,69 @@
+{
+  "slug": "clearco",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2015,
+  "hq": "Toronto, ON, Canada",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Andrew Curtis",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://clear.co/about-us"
+    },
+    {
+      "name": "Andrew D'Souza",
+      "title": "Co-founder, Director",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://clear.co/about-us"
+    },
+    {
+      "name": "Michele Romanow",
+      "title": "Co-founder, Board Observer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://clear.co/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2018",
+      "amount": null,
+      "valuation": null,
+      "lead": "Emergence and Social Capital",
+      "source": "https://clear.co/about-us"
+    },
+    {
+      "round": "Series B",
+      "date": "2019",
+      "amount": null,
+      "valuation": null,
+      "lead": "Highland Capital",
+      "source": "https://clear.co/about-us"
+    },
+    {
+      "round": "Series C + growth (two 2021 rounds)",
+      "date": "2021",
+      "amount": "$315M equity",
+      "valuation": null,
+      "lead": "Oak HC/FT (Series C); SoftBank Vision Fund",
+      "source": "https://www.theglobeandmail.com/business/article-after-romantic-split-michele-romanow-now-ceo-of-clearco-as-ex-partner"
+    },
+    {
+      "round": "Series D (recapitalization)",
+      "date": "2023-10",
+      "amount": "$60M",
+      "valuation": null,
+      "lead": "Inovia Capital and Founders Circle Capital",
+      "source": "https://techcrunch.com/2023/10/04/clearco-60m-e-commerce-financier"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

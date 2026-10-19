@@ -1,0 +1,52 @@
+{
+  "slug": "sunbound",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": "Washington, DC",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Manny Cominsky",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.sunbound.ai/company/leadership"
+    },
+    {
+      "name": "Stuart Mason",
+      "title": "Co-founder & CIO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.sunbound.ai/company/leadership"
+    },
+    {
+      "name": "Jiashu Wang",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.sunbound.ai/company/leadership"
+    },
+    {
+      "name": "Amy Raymond",
+      "title": "Chief Operating Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.sunbound.ai/company/leadership"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$24M",
+      "valuation": null,
+      "lead": "TTV Capital",
+      "source": "https://www.finsmes.com/2026/10/sunbound-raises-24m-in-series-a-funding-acquires-richter-healthcare-consultants.html"
+    }
+  ],
+  "total_raised": "$36M (per FinSMEs)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

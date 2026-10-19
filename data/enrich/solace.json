@@ -1,0 +1,87 @@
+{
+  "slug": "solace",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "Redwood City, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jeremy Gurewitz",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.solace.health/press/bloomberg-series-c"
+    },
+    {
+      "name": "Sara Sargent",
+      "title": "Co-founder & Chief Product Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businessinsider.com/healthcare-startup-solace-raised-series-b-funding-menlo-ventures-2025-3"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.businesswire.com/news/home/20240822742962/en/Solace-Raises-%2414M-to-Empower-Patients-through-Healthcare-Advocates"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-08",
+      "amount": "$14M",
+      "valuation": null,
+      "lead": "Inspired Capital",
+      "source": "https://www.businesswire.com/news/home/20240822742962/en/Solace-Raises-%2414M-to-Empower-Patients-through-Healthcare-Advocates"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-04",
+      "amount": "$60M",
+      "valuation": "$300M+ (Business Insider, pre-close)",
+      "lead": "Menlo Ventures",
+      "source": "https://hlth.com/insights/news/solace-health-raises-130m-in-series-c-led-by-ivp-surpasses-1b-valuation-2026-02-11"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-02",
+      "amount": "$130M",
+      "valuation": "$1B+",
+      "lead": "IVP",
+      "source": "https://www.businesswire.com/news/home/20260205824369/en/Solace-Raises-$130-Million-Series-C-to-Make-Healthcare-Advocacy-a-Standard-of-Care-in-the-U.S."
+    }
+  ],
+  "total_raised": "~$207M (company job post)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Becomes available on Walmart's Better Care Services platform",
+      "url": "https://www.businesswire.com/news/home/20260901412765/en/Solace-Health-Expands-Access-to-Healthcare-Advocacy-Through-Walmarts-Better-Care-Services-Platform"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Joins the National Health Council as an associate member",
+      "url": "https://www.businesswire.com/news/home/20260616562416/en/Solace-Joins-the-National-Health-Council-to-Advance-Patient-Centered-Care-and-Navigation"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Expands coverage to commercial plans incl. UnitedHealthcare and Anthem",
+      "url": "https://www.fiercehealthcare.com/payers/solace-health-expands-care-navigation-services-commercially-insured-patients"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Raises $130M Series C at $1B+ led by IVP; CEO targets 2028 IPO",
+      "url": "https://www.axios.com/pro/health-tech-deals/2026/02/10/solace-health-130m-series-c-ipo"
+    }
+  ],
+  "competitors": [
+    "Included Health",
+    "Transcarent (Accolade)",
+    "Citizen Health",
+    "Quantum Health"
+  ]
+}

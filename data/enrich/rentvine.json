@@ -1,0 +1,45 @@
+{
+  "slug": "rentvine",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "Estero, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Dave Borden",
+      "title": "Founder & board member (former CEO)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.rentvine.com/blog/rentvines-next-chapter-nat-kunes-as-ceo-dave-borden-as-founder-and-board-member"
+    },
+    {
+      "name": "Jonathan Ewen",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://preqin.com/data/profile/asset/rentvine-llc/701089"
+    },
+    {
+      "name": "Nat Kunes",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.rentvine.com/blog/rentvines-next-chapter-nat-kunes-as-ceo-dave-borden-as-founder-and-board-member"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Growth equity",
+      "date": "2024-08",
+      "amount": "$74M",
+      "valuation": null,
+      "lead": "Mainsail Partners",
+      "source": "http://rentvine.com/blog/rentvine-raises-74m-growth-capital-from-mainsail-partners"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

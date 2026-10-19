@@ -1,0 +1,60 @@
+{
+  "slug": "commure",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "Mountain View, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Tanay Tandon",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://commure.com/press-releases/commure-raises-70m-at-7b-valuation-to-transform-healthcare-operations-using-ai"
+    },
+    {
+      "name": "Hemant Taneja",
+      "title": "Co-founder & Executive Chair",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://sacra.com/c/commure/"
+    },
+    {
+      "name": "Deepika Bodapati",
+      "title": "Co-founder (Athelas) & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/588ddbace4b0b5a51f3a1f34/commure"
+    },
+    {
+      "name": "Dhruv Parthasarathy",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/588ddbace4b0b5a51f3a1f34/commure"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Growth financing (General Catalyst CVF)",
+      "date": "2025-06",
+      "amount": "$200M",
+      "valuation": null,
+      "lead": "General Catalyst Customer Value Fund",
+      "source": "https://www.globenewswire.com/news-release/2025/06/19/3102223/0/en/Commure-Raises-200-Million-in-Growth-Financing-from-General-Catalyst-s-CVF-to-Accelerate-AI-Powered-RCM-Platform.html"
+    },
+    {
+      "round": "Series E extension",
+      "date": "2026-05",
+      "amount": "$70M",
+      "valuation": "$7B post",
+      "lead": "General Catalyst",
+      "source": "https://www.reuters.com/business/healthcare-pharmaceuticals/healthcare-ai-firm-commure-valued-7-billion-raises-70-million-2026-05-19/"
+    }
+  ],
+  "total_raised": "~$750M (HLTH / Sourcery, May 2026; Sacra says ~$823M)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

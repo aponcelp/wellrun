@@ -1,0 +1,53 @@
+{
+  "slug": "slice",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY / Tel Aviv, Israel",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Maor Levran",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/slice-global-equity-raises-25m-series-a-led-by-insight-partners-to-advance-ai-native-compliance-first-infrastructure-for-global-equity-302671009.html"
+    },
+    {
+      "name": "Yoel Amir",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.calcalistech.com/ctechnews/article/byacafpiwg"
+    },
+    {
+      "name": "Aviram Berg",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.sliceglobal.com/blog/slice-launches-out-of-stealth"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-02",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": "TLV Partners",
+      "source": "https://www.sliceglobal.com/blog/slice-launches-out-of-stealth"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-01",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://www.prnewswire.com/news-releases/slice-global-equity-raises-25m-series-a-led-by-insight-partners-to-advance-ai-native-compliance-first-infrastructure-for-global-equity-302671009.html"
+    }
+  ],
+  "total_raised": "$32M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

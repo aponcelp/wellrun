@@ -1,0 +1,54 @@
+{
+  "slug": "fireflies",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "San Francisco Bay Area, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Krish Ramineni",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/krishramineni",
+      "source": "https://fireflies.ai/about-us"
+    },
+    {
+      "name": "Sam Udotong",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fireflies.ai/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-10",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "Canaan Partners",
+      "source": "https://venturebeat.com/business/fireflies-raises-5-million-for-its-ai-assistant-for-meetings"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-05",
+      "amount": "$14M",
+      "valuation": null,
+      "lead": "Khosla Ventures",
+      "source": "https://techcrunch.com/2021/05/24/fireflies-ai-raises-14m-for-its-meeting-transcription-and-automation-service"
+    },
+    {
+      "round": "Tender offer (secondary)",
+      "date": "2025-06",
+      "amount": null,
+      "valuation": "$1B+",
+      "lead": null,
+      "source": "https://fireflies.ai/blog/fireflies-1-billion-valuation"
+    }
+  ],
+  "total_raised": "~$19M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

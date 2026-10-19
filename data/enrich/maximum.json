@@ -1,0 +1,31 @@
+{
+  "slug": "maximum",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Randy Fernando",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/08/03/3337824/0/en/maximum-raises-30-million-to-build-the-ai-native-operating-system-for-banks.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-08",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "CRV",
+      "source": "https://www.globenewswire.com/news-release/2026/08/03/3337824/0/en/maximum-raises-30-million-to-build-the-ai-native-operating-system-for-banks.html"
+    }
+  ],
+  "total_raised": "$30M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

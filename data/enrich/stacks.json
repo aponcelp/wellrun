@@ -1,0 +1,39 @@
+{
+  "slug": "stacks",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "London, UK (founded in Amsterdam)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Albert Malikov",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://stacks.ai/resources/stacks-raises-23-million-to-reinvent-finance-operations-with-agentic-ai"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed + Seed (consecutive rounds)",
+      "date": "2025-02",
+      "amount": "~$10M-$12M (sources differ)",
+      "valuation": null,
+      "lead": "EQT Ventures, General Catalyst",
+      "source": "https://stacks.ai/resources/stacks-raises-10m-in-consecutive-rounds-led-by-eqt-ventures-and-general-catalyst-to-simplify-financial-close-to-a-one-click"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-02",
+      "amount": "$23M",
+      "valuation": null,
+      "lead": "Lightspeed",
+      "source": "https://tech.eu/2026/02/19/lightspeed-leads-23m-investment-in-ai-startup-for-accounting-departments-stacks"
+    }
+  ],
+  "total_raised": "~$33M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

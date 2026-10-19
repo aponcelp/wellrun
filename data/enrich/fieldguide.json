@@ -1,0 +1,135 @@
+{
+  "slug": "fieldguide",
+  "checked": "Oct 19, 2026",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "201-500 (Dealroom band)",
+    "as_of": "Oct 2026",
+    "source": "https://app.dealroom.co/companies/fieldguide"
+  },
+  "leadership": [
+    {
+      "name": "Jin Chang",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.fieldguide.com/about"
+    },
+    {
+      "name": "Chris Szymansky",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/chrisszymansky",
+      "source": "https://www.fieldguide.com/about"
+    },
+    {
+      "name": "Brent Kasper",
+      "title": "VP of Sales",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.fieldguide.com/about"
+    },
+    {
+      "name": "Kevin Lake",
+      "title": "VP of Customer Success",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.fieldguide.com/about"
+    },
+    {
+      "name": "Dhruv Dhingra",
+      "title": "VP of Product",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.fieldguide.com/about"
+    },
+    {
+      "name": "Ryan Dillon",
+      "title": "VP of Finance",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.fieldguide.com/about"
+    },
+    {
+      "name": "John-Michael Diveris",
+      "title": "Head of Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.fieldguide.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-08",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": "Floodgate",
+      "source": "https://app.dealroom.co/companies/fieldguide"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-03",
+      "amount": "$17M",
+      "valuation": "$100M",
+      "lead": "8VC",
+      "source": "https://www.prnewswire.com/news-releases/fieldguide-announces-17-million-8vc-led-series-a-to-establish-new-industry-standard-for-audit-and-advisorys-most-complex-issues-like-cybersecurity-and-esg-301493465.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-03",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Bessemer Venture Partners",
+      "source": "https://www.globenewswire.com/news-release/2024/03/26/2852473/0/en/Fieldguide-Raises-30M-Series-B-Launches-AI-Platform-to-Solve-CPA-Talent-Shortage.html"
+    },
+    {
+      "round": "Strategic (minority)",
+      "date": "2025-10",
+      "amount": null,
+      "valuation": null,
+      "lead": "KPMG LLP",
+      "source": "https://kpmg.com/us/en/media/news/kpmg-fieldguide-reimagine-ai-enabled-assurance.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-02",
+      "amount": "$75M",
+      "valuation": "$700M",
+      "lead": "Growth Equity at Goldman Sachs Alternatives",
+      "source": "https://www.globenewswire.com/news-release/2026/02/02/3230326/0/en/fieldguide-raises-75m-series-c-from-goldman-sachs-to-help-audit-and-advisory-firms-grow-with-agentic-ai.html"
+    }
+  ],
+  "total_raised": "$125M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Varney & Associates picks Fieldguide as AI partner across its practice",
+      "url": "https://www.globenewswire.com/news-release/2026/10/08/3377301/0/en/varney-associates-selects-fieldguide-as-strategic-ai-partner-across-its-entire-audit-and-advisory-practice.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Agreement with CPA Canada to embed Canadian engagement forms",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370970/0/en/fieldguide-reaches-agreement-with-cpa-canada-to-embed-trusted-canadian-engagement-forms-within-industry-leading-agentic-ai.html"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Raises $75M Series C at $700M led by Goldman Sachs Alternatives",
+      "url": "https://www.globenewswire.com/news-release/2026/02/02/3230326/0/en/fieldguide-raises-75m-series-c-from-goldman-sachs-to-help-audit-and-advisory-firms-grow-with-agentic-ai.html"
+    },
+    {
+      "date": "2025-10",
+      "headline": "KPMG makes minority investment and builds agentic assurance apps with it",
+      "url": "https://kpmg.com/us/en/media/news/kpmg-fieldguide-reimagine-ai-enabled-assurance.html"
+    }
+  ],
+  "competitors": [
+    "Caseware",
+    "AuditBoard",
+    "DataSnipper",
+    "Thomson Reuters (Cloud Audit Suite)",
+    "Wolters Kluwer (CCH/TeamMate)"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "vitalize",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Veeraj Shah",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.fiercehealthcare.com/health-tech/vitalize-secures-31m-scale-ai-powered-operating-system-hospital-staffing-and-scheduling"
+    },
+    {
+      "name": "Sanketh Andhavarapu",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.oakhcft.com/blog-post/air-traffic-control-for-healthcares-workforce-why-were-backing-vitalize"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$31M",
+      "valuation": null,
+      "lead": "Oak HC/FT",
+      "source": "https://www.businesswire.com/news/home/20261006976869/en/Vitalize-Raises-%2431M-Series-A-to-Bring-Air-Traffic-Control-to-Healthcare"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

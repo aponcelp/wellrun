@@ -1,0 +1,120 @@
+{
+  "slug": "rox",
+  "checked": "Oct 19, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~176 (LinkedIn)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/rox-data-corp"
+  },
+  "leadership": [
+    {
+      "name": "Ishan Mukherjee",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/ishanm",
+      "source": "https://www.rox.com/company"
+    },
+    {
+      "name": "Shriram Sridharan",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.rox.com/company"
+    },
+    {
+      "name": "Diogo Ribeiro",
+      "title": "Co-founder & Chief Growth Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.rox.com/company"
+    },
+    {
+      "name": "Christopher Ré",
+      "title": "Co-founder (Research)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.rox.com/company"
+    },
+    {
+      "name": "Avanika Narayan",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.generalcatalyst.com/stories/our-investment-in-rox"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-02",
+      "amount": null,
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "https://www.sequoiacap.com/article/partnering-with-rox-every-seller-needs-an-agent-swarm"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-11",
+      "amount": "$50M total across seed + Series A",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/"
+    },
+    {
+      "round": "Undisclosed round (closed 2025, reported Mar 2026)",
+      "date": "2026-03",
+      "amount": null,
+      "valuation": "$1.2B",
+      "lead": "General Catalyst",
+      "source": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/"
+    }
+  ],
+  "total_raised": "$50M disclosed (seed + Series A); 2025-26 round undisclosed",
+  "revenue_est": {
+    "value": "$10M+ ARR",
+    "as_of": "Aug 2026",
+    "basis": "press report",
+    "source": "https://www.arr.club/rox/rox-arr-surpasses-10m-in-under-a-year-challenging-salesforce-in-crm-innovation"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Launches self-serve Rox Teams, opening the platform to any team",
+      "url": "https://www.thesignal.club/p/rox"
+    },
+    {
+      "date": "2026-08",
+      "headline": "ARR reported to pass $10M",
+      "url": "https://www.arr.club/rox/rox-arr-surpasses-10m-in-under-a-year-challenging-salesforce-in-crm-innovation"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Launches Rox Autopilot; Persana AI team joins",
+      "url": "https://www.linkedin.com/posts/ishanm_agents-now-run-revenue-end-to-end-launching-activity-7444783313325572096-XJXD"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Launches Rox Agent in Microsoft 365 Copilot; Databricks partnership",
+      "url": "https://www.rox.com/articles/rox-microsoft-copilot"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Valued at $1.2B in General Catalyst-led round (TechCrunch sources)",
+      "url": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Becomes generally available; acquires Quilt",
+      "url": "https://www.rox.com/category/company-news"
+    }
+  ],
+  "competitors": [
+    "Gong",
+    "Clari",
+    "Salesforce Agentforce",
+    "actively",
+    "monaco"
+  ]
+}

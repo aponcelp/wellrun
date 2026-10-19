@@ -1,0 +1,111 @@
+{
+  "slug": "nominal",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "Los Angeles, CA",
+  "headcount_est": {
+    "value": "150+ (company-stated)",
+    "as_of": "Apr 2026",
+    "source": "https://www.globenewswire.com/news-release/2026/04/30/3284606/0/en/nominal-acquires-fid-labs-to-bring-ai-to-the-full-hardware-engineering-lifecycle.html"
+  },
+  "leadership": [
+    {
+      "name": "Cameron McCord",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/03/05/3250350/0/en/nominal-valued-at-1b-as-founders-fund-leads-80m-acceleration-round.html"
+    },
+    {
+      "name": "Bryce Strauss",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://sequoiacap.com/article/partnering-with-nominal-powering-the-next-era-of-hardware-engineering"
+    },
+    {
+      "name": "Jason Hoch",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://sequoiacap.com/article/partnering-with-nominal-powering-the-next-era-of-hardware-engineering"
+    },
+    {
+      "name": "Craig Schwartz",
+      "title": "General Counsel & Head of InfoSec",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/nominal-inc"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-04 (announced)",
+      "amount": "$7.5M",
+      "valuation": null,
+      "lead": "Lux Capital",
+      "source": "https://www.businesswire.com/news/home/20240418799842/en/Nominal-Emerges-From-Stealth-With-Backing-From-General-Catalyst-Lux-Capital-Founders-Fund-for-Navigating-Mission-Critical-Data-Analytics"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-04",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://www.businesswire.com/news/home/20240418799842/en/Nominal-Emerges-From-Stealth-With-Backing-From-General-Catalyst-Lux-Capital-Founders-Fund-for-Navigating-Mission-Critical-Data-Analytics"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-06",
+      "amount": "$75M",
+      "valuation": null,
+      "lead": "Sequoia Capital",
+      "source": "https://www.prnewswire.com/news-releases/nominal-raises-75-million-led-by-sequoia-capital-to-modernize-hardware-testing-302479991.html"
+    },
+    {
+      "round": "Series B-2",
+      "date": "2026-03",
+      "amount": "$80M",
+      "valuation": "$1B",
+      "lead": "Founders Fund",
+      "source": "https://www.globenewswire.com/news-release/2026/03/05/3250350/0/en/nominal-valued-at-1b-as-founders-fund-leads-80m-acceleration-round.html"
+    }
+  ],
+  "total_raised": "~$182.5M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches Analyst, its first purpose-built AI agent, in public preview",
+      "url": "https://nominal.io/blog/analyst"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Partners with AeroVironment on test and production data",
+      "url": "https://nominal.io/blog/aerovironment-announcement"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Acquires Fid Labs, its first acquisition; ARR grew 7x in 2025",
+      "url": "https://www.globenewswire.com/news-release/2026/04/30/3284606/0/en/nominal-acquires-fid-labs-to-bring-ai-to-the-full-hardware-engineering-lifecycle.html"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Wins $53M-ceiling Air Force Test Center IDIQ contract",
+      "url": "https://www.globenewswire.com/news-release/2026/04/14/3273124/0/en/nominal-awarded-53-million-idiq-contract-to-support-modernization-of-air-force-test-center-data-infrastructure.html"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Raises $80M Series B-2 at $1B led by Founders Fund",
+      "url": "https://www.globenewswire.com/news-release/2026/03/05/3250350/0/en/nominal-valued-at-1b-as-founders-fund-leads-80m-acceleration-round.html"
+    }
+  ],
+  "competitors": [
+    "Sift (Sift Stack)",
+    "Palantir",
+    "NI (Emerson) / DIAdem",
+    "MathWorks",
+    "Epsilon3"
+  ]
+}

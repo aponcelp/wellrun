@@ -1,0 +1,53 @@
+{
+  "slug": "raindrop",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Zubin Koticha",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://svpost.com/articles/raindrop-15m-seed"
+    },
+    {
+      "name": "Ben Hylak",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/raindrop"
+    },
+    {
+      "name": "Alexis Gauba",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://svpost.com/articles/raindrop-15m-seed"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-12",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://www.prnewswire.com/news-releases/raindrop-raises-15-million-to-detect-critical-ai-agent-failures-302628853.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "CRV",
+      "source": "https://www.raindrop.ai/blog/series-a/"
+    }
+  ],
+  "total_raised": "$50M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

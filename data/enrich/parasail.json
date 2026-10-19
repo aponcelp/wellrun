@@ -1,0 +1,46 @@
+{
+  "slug": "parasail",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Mike Henry",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.parasail.io/about"
+    },
+    {
+      "name": "Tim Harris",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.parasail.io/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-04",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Basis Set Ventures",
+      "source": "https://www.businesswire.com/news/home/20250402852180/en/AI-Veterans-Mike-Henry-and-Tim-Harris-Launch-Parasail-the-First-AI-Deployment-Network-With-Access-to-the-Largest-Supply-of-On-Demand-GPUs"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-04",
+      "amount": "$32M",
+      "valuation": null,
+      "lead": "Touring Capital, Kindred Ventures",
+      "source": "https://www.prnewswire.com/news-releases/parasail-raises-32m-series-a-to-build-the-supercloud-that-puts-developers-in-control-of-their-ai-302742856.html"
+    }
+  ],
+  "total_raised": "$42M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

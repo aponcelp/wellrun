@@ -1,0 +1,39 @@
+{
+  "slug": "nebulock",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "Boston, MA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Damien Lewke",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.nebulock.io/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (incl. earlier pre-seed; $8.5M total)",
+      "date": "2025-07",
+      "amount": "$6M seed ($8.5M total to date)",
+      "valuation": null,
+      "lead": "Bain Capital Ventures",
+      "source": "http://businesswire.com/news/home/20250729870137/en/Nebulock-Launches-to-Redefine-Threat-Hunting-with-AI-Powered-Detection-Capabilities"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-06",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "FirstMark",
+      "source": "https://www.businesswire.com/news/home/20260625381441/en/Nebulock-Raises-%2425-Million-Series-A-to-Bring-a-Hunt-First-Context-to-the-Enterprise"
+    }
+  ],
+  "total_raised": "~$33.5M (per SiliconANGLE)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "comfrt",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Hudson Leogrande",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/hudson-leogrande-112891231",
+      "source": "https://www.prnewswire.com/news-releases/hudson-leogrande-founder--ceo-of-comfrt-named-ey-us-entrepreneur-of-the-year-2026-florida-award-winner-302801716.html"
+    }
+  ],
+  "funding_history": [],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": [],
+  "note": "Bootstrapped; no outside capital per company/EY release (https://www.prnewswire.com/news-releases/hudson-leogrande-founder--ceo-of-comfrt-named-ey-us-entrepreneur-of-the-year-2026-florida-award-winner-302801716.html)"
+}

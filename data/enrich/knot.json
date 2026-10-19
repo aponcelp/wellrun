@@ -1,0 +1,46 @@
+{
+  "slug": "knot",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Rory O'Reilly",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.knotapi.com/about-us/"
+    },
+    {
+      "name": "Kieran O'Reilly",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.knotapi.com/about-us/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-02",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://linkedin.com/company/knotapi"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-08",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Nava Ventures",
+      "source": "https://www.prnewswire.com/news-releases/knot-closes-10m-series-a-led-by-nava-ventures-to-transform-card-on-file-management-301892260.html"
+    }
+  ],
+  "total_raised": "~$13M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

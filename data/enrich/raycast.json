@@ -1,0 +1,54 @@
+{
+  "slug": "raycast",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "London, UK",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Thomas Paul Mann",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2024/09/25/raycast-raises-30m-to-bring-its-mac-productivity-app-to-windows-and-ios"
+    },
+    {
+      "name": "Petr Nikolaev",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2024/09/25/raycast-raises-30m-to-bring-its-mac-productivity-app-to-windows-and-ios"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-10",
+      "amount": "$2.7M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://techcrunch.com/2021/11/30/developer-productivity-tools-startup-raycast-raises-15m-from-accel-and-coatue/"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-11",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Accel and Coatue",
+      "source": "https://techcrunch.com/2021/11/30/developer-productivity-tools-startup-raycast-raises-15m-from-accel-and-coatue/"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-09",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Atomico",
+      "source": "https://www.raycast.com/blog/series-b"
+    }
+  ],
+  "total_raised": "~$47.7M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

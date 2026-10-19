@@ -1,0 +1,55 @@
+{
+  "slug": "veriff",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2015,
+  "hq": "Tallinn, Estonia (US office New York)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Kaarel Kotkas",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://veriff.com/our-story"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2018-06",
+      "amount": "$7.7M",
+      "valuation": null,
+      "lead": "Mosaic Ventures",
+      "source": "https://en.wikipedia.org/wiki/Veriff"
+    },
+    {
+      "round": "Bridge",
+      "date": "2020-07",
+      "amount": "$15.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://news.cision.com/veriff-inc/r/veriff-closes-15-5-million-usd-financing-round%2Cc3146499"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-04",
+      "amount": "$69M",
+      "valuation": null,
+      "lead": "IVP and Accel",
+      "source": "https://www.veriff.com/blog/veriff-secures-69m-in-series-b-funding"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-01",
+      "amount": "$100M",
+      "valuation": "$1.5B",
+      "lead": "Tiger Global and Alkeon",
+      "source": "https://www.veriff.com/blog/veriff-funding-announcement"
+    }
+  ],
+  "total_raised": "$200M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

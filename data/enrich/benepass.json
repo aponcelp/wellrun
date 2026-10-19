@@ -1,0 +1,69 @@
+{
+  "slug": "benepass",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jaclyn Chen",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://getbenepass.com/blog/series-a-fundraise"
+    },
+    {
+      "name": "Kabir Soorya",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/benepass"
+    },
+    {
+      "name": "Mark Fischer",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/benepass"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-05",
+      "amount": "$2.4M",
+      "valuation": null,
+      "lead": "Gradient Ventures",
+      "source": "https://techcrunch.com/2020/05/26/benepass-gets-2-4-million-to-help-employees-get-the-most-out-of-their-tax-advantaged-benefits/"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-01",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "Threshold Ventures",
+      "source": "https://getbenepass.com/blog/series-a-fundraise"
+    },
+    {
+      "round": "Growth round",
+      "date": "2024-01",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Portage, Clocktower Technology Ventures",
+      "source": "https://www.prnewswire.com/news-releases/modern-benefits-leader-benepass-secures-20m-in-funding-302049177.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-01",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "Centana Growth Partners",
+      "source": "https://www.prnewswire.com/news-releases/benepass-raises-40m-series-b-to-help-employers-redesign-benefits-for-rising-healthcare-costs-302666704.html"
+    }
+  ],
+  "total_raised": "~$75M (sum of disclosed rounds)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

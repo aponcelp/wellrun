@@ -1,0 +1,68 @@
+{
+  "slug": "nous-research",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jeffrey Quesnelle",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.theblock.co/news/deals/2025-04-25-paradigm-leads-50-million-usd-round-decentralized-ai-project-nous-research-352000"
+    },
+    {
+      "name": "Karan Malhotra",
+      "title": "Co-founder, Head of Behavior",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.finsmes.com/2025/04/nous-research-raises-65m-in-funding.html"
+    },
+    {
+      "name": "Teknium (Ryan Teknium)",
+      "title": "Co-founder, Head of Post Training",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.finsmes.com/2025/04/nous-research-raises-65m-in-funding.html"
+    },
+    {
+      "name": "Shivani Mitra",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.finsmes.com/2025/04/nous-research-raises-65m-in-funding.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (rounds)",
+      "date": "pre-2025",
+      "amount": "~$15-20M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.finsmes.com/2025/04/nous-research-raises-65m-in-funding.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-04",
+      "amount": "$50M",
+      "valuation": "$1B (token valuation)",
+      "lead": "Paradigm",
+      "source": "https://www.theblock.co/news/deals/2025-04-25-paradigm-leads-50-million-usd-round-decentralized-ai-project-nous-research-352000"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-10",
+      "amount": "$90M",
+      "valuation": "$1.5B",
+      "lead": "Robot Ventures",
+      "source": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+    }
+  ],
+  "total_raised": "$158M (per TechCrunch, Oct 2026)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

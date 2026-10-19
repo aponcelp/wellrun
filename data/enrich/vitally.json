@@ -1,0 +1,67 @@
+{
+  "slug": "vitally",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jamie Davidson",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/davidsonjamie",
+      "source": "https://www.vitally.io/company"
+    },
+    {
+      "name": "Patrick Vatterott",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.vitally.io/company"
+    },
+    {
+      "name": "Jason Richman",
+      "title": "SVP of Revenue",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.vitally.io/company"
+    },
+    {
+      "name": "Peggy Wang",
+      "title": "Head of Finance",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.vitally.io/company"
+    },
+    {
+      "name": "Nicole Kimball",
+      "title": "Head of Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.vitally.io/company"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021",
+      "amount": "$9M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.builtinnyc.com/articles/vitally-raises-30m-hiring"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-02",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Next47",
+      "source": "https://www.globenewswire.com/news-release/2023/02/22/2613330/0/en/vitally-closes-30-million-series-b-round-led-by-next47-to-redefine-customer-success-productivity.html"
+    }
+  ],
+  "total_raised": "$40.6M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

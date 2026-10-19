@@ -1,0 +1,52 @@
+{
+  "slug": "lemlist",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "Paris, France",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Guillaume Moubeche",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.lemlist.com/fr/ai-info"
+    },
+    {
+      "name": "Charles Tenot",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.lemlist.com/fr/ai-info"
+    },
+    {
+      "name": "François Lecroart",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.2cfinance.net/en/lemlist-completes-30-million-secondary-transaction/"
+    },
+    {
+      "name": "Vianney Lecroart",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.2cfinance.net/en/lemlist-completes-30-million-secondary-transaction/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Secondary (no new capital)",
+      "date": "2021-10",
+      "amount": "$30M",
+      "valuation": "$150M",
+      "lead": "Expedition Growth Capital",
+      "source": "https://capitalfinance.lesechos.fr/deals/capital-risque/expedition-growth-capital-investit-30-m-dans-lemlist-1358174"
+    }
+  ],
+  "total_raised": "$0 primary (bootstrapped; company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "erebor",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "Columbus, OH",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Owen Rapaport",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://businessinsider.com/palmer-luckey-erebor-bank-executives-list-2025-7"
+    },
+    {
+      "name": "Jacob Hirshman",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://businessinsider.com/palmer-luckey-erebor-bank-executives-list-2025-7"
+    },
+    {
+      "name": "Palmer Luckey",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.haun.co/writing/erebor"
+    },
+    {
+      "name": "Aaron Pelz",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.haun.co/writing/erebor"
+    },
+    {
+      "name": "Trevor Capozza",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.haun.co/writing/erebor"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-12",
+      "amount": "$350M",
+      "valuation": "$4.35B post",
+      "lead": "Lux Capital",
+      "source": "https://www.axios.com/2025/12/22/palmer-luckey-digital-bank"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": [],
+  "note": "Earlier 2025 raise reported at $2B valuation (BI); Aug 2026 reports say nearing $1.5B round at $8B - not confirmed closed."
+}

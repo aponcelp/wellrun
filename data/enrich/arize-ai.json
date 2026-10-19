@@ -1,0 +1,70 @@
+{
+  "slug": "arize-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "Berkeley, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jason Lopatecki",
+      "title": "Co-founder & CEO (now leads Arize within Dynatrace)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.dynatrace.com/news/press-release/dynatrace-to-acquire-arize/"
+    },
+    {
+      "name": "Aparna Dhinakaran",
+      "title": "Co-founder & Chief Product Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://arize.com/blog/arize-ai-raises-70m-series-c-to-build-the-gold-standard-for-ai-evaluation-observability"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-02",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": "Foundation Capital",
+      "source": "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-09",
+      "amount": "$19M",
+      "valuation": null,
+      "lead": "Battery Ventures",
+      "source": "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-09",
+      "amount": "$38M",
+      "valuation": null,
+      "lead": "TCV",
+      "source": "https://techcrunch.com/2022/09/08/arize-lands-38m-to-grow-its-mlops-platform-for-the-enterprise/"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-02",
+      "amount": "$70M",
+      "valuation": null,
+      "lead": "Adams Street Partners",
+      "source": "https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/"
+    },
+    {
+      "round": "Acquisition (Dynatrace, closed Oct 1, 2026)",
+      "date": "2026-10",
+      "amount": "$915M deal value",
+      "valuation": null,
+      "lead": "Dynatrace",
+      "source": "https://www.dynatrace.com/news/press-release/dynatrace-completes-acquisition-of-arize/"
+    }
+  ],
+  "total_raised": "~$131M before acquisition",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

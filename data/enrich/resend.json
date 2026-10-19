@@ -1,0 +1,53 @@
+{
+  "slug": "resend",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Zeno Rocha",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.resend.com/about"
+    },
+    {
+      "name": "Bu Kinoshita",
+      "title": "Co-founder (CTO)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.resend.com/about"
+    },
+    {
+      "name": "Jonni Lundy",
+      "title": "Co-founder (COO)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.resend.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-07",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2023/07/18/developer-focused-email-platform-resend-raises-3m/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-12",
+      "amount": "$18M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "http://resend.com/blog/series-a"
+    }
+  ],
+  "total_raised": "~$21.5M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

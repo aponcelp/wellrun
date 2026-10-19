@@ -1,0 +1,71 @@
+{
+  "slug": "forage",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ofek Lavian",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.wsj.com/pro/venture-capital/snap-payments-are-complicated-for-grocers-and-consumers-a-startup-wants-to-help-38d80bc9"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (Y Combinator)",
+      "date": "2021-12",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://linkedin.com/company/forage-payments"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-08",
+      "amount": "$22M",
+      "valuation": "~$100M",
+      "lead": "Nyca Partners",
+      "source": "https://www.joinforage.com/newsroom/food-stamp-focused-fintech-raises-usd22-million"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-06",
+      "amount": "$40M",
+      "valuation": "$225M",
+      "lead": "Mouro Capital",
+      "source": "https://www.wsj.com/pro/venture-capital/snap-payments-are-complicated-for-grocers-and-consumers-a-startup-wants-to-help-38d80bc9"
+    }
+  ],
+  "total_raised": "$75M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "SNAP EBT goes live at 2,000+ Ahold Delhaize USA stores on Uber Eats",
+      "url": "https://www.joinforage.com/newsroom/forage-and-ahold-delhaize-usa-launch-snap-ebt-payments-on-uber-eats"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Raises $40M Series B led by Mouro Capital at $225M valuation",
+      "url": "https://www.prnewswire.com/news-releases/forage-raises-additional-40m-to-help-low-income-families-save-on-groceries-302789551.html"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Partners with Adyen to enable SNAP EBT for Adyen merchants",
+      "url": "https://www.prnewswire.com/news-releases/forage-and-adyen-partner-to-enable-snap-ebt-for-adyen-retailers-302664760.html"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Launches SNAP EBT on Uber Eats at 325+ Save A Lot stores",
+      "url": "https://www.prnewswire.com/news-releases/save-a-lot-and-forage-launch-snap-ebt-payments-on-uber-eats-302622365.html"
+    }
+  ],
+  "competitors": [
+    "Fiserv (EBT processing)",
+    "FIS / Worldpay",
+    "Propel"
+  ]
+}

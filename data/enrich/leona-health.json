@@ -1,0 +1,53 @@
+{
+  "slug": "leona-health",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": "Mexico City, Mexico (engineering in San Francisco)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Caroline Merin",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/12/16/uber-eats-alum-lands-14m-seed-from-a16z-to-fix-whatsapp-chaos-for-latams-doctors/"
+    },
+    {
+      "name": "Tom Chokel",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.leona.health/en/blog/introducing-leona-scaling-human-connection-in-healthcare"
+    },
+    {
+      "name": "Arela Solis",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/a16z_in-many-parts-of-the-world-whatsapp-is-the-activity-7406783137718116354-FYz7"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": null,
+      "amount": null,
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://www.prnewswire.com/news-releases/leona-health-launches-the-worlds-first-ai-copilot-for-doctors-through-whatsapp-302642992.html"
+    },
+    {
+      "round": "Seed",
+      "date": "2025-12",
+      "amount": "$14M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.prnewswire.com/news-releases/leona-health-launches-the-worlds-first-ai-copilot-for-doctors-through-whatsapp-302642992.html"
+    }
+  ],
+  "total_raised": "$14M+ (pre-seed amount undisclosed)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

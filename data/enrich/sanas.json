@@ -1,0 +1,61 @@
+{
+  "slug": "sanas",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "Palo Alto, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Maxim Serebryakov",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2025/02/19/3029019/0/en/sanas-raises-65-million-series-b-accelerating-global-adoption-of-its-real-time-speech-understanding-technology.html"
+    },
+    {
+      "name": "Shawn Zhang",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2025/02/19/3029019/0/en/sanas-raises-65-million-series-b-accelerating-global-adoption-of-its-real-time-speech-understanding-technology.html"
+    },
+    {
+      "name": "Sharath Keshava Narayana",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2025/02/19/3029019/0/en/sanas-raises-65-million-series-b-accelerating-global-adoption-of-its-real-time-speech-understanding-technology.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "General Catalyst, DN Capital, Human Capital, Quiet Capital",
+      "source": "https://www.sanas.ai/about-us"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-06",
+      "amount": "$32M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.businessinsider.com/pitch-deck-startup-sanas-funding-accent-translation-google-ventures-2022-6"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-02",
+      "amount": "$65M",
+      "valuation": ">$500M",
+      "lead": "Quadrille Capital",
+      "source": "https://techcrunch.com/2025/02/19/sanas-taps-ai-to-change-call-center-workers-accents-in-real-time/"
+    }
+  ],
+  "total_raised": "$100M+",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

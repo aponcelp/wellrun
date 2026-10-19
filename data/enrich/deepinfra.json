@@ -1,0 +1,61 @@
+{
+  "slug": "deepinfra",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "Palo Alto, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Nikola Borisov",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://deepinfra.com/about"
+    },
+    {
+      "name": "Yessenzhar Kanapin",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://deepinfra.com/about"
+    },
+    {
+      "name": "Georgios Papoutsis",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://deepinfra.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-11",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "A.Capital, Felicis",
+      "source": "https://deepinfra.com/media-center"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-04",
+      "amount": "$18M",
+      "valuation": null,
+      "lead": "Felicis, Georges Harik",
+      "source": "https://deepinfra.com/blog/18m-milestone"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-05",
+      "amount": "$107M ($67M equity + $40M debt)",
+      "valuation": null,
+      "lead": "500 Global, Georges Harik",
+      "source": "https://deepinfra.com/media-center/DeepInfra%20Series%20B%20Media%20FAQ.pdf"
+    }
+  ],
+  "total_raised": "~$133M ($8M seed + $18M A + $107M B incl. $40M debt)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

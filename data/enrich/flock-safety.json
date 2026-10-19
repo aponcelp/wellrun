@@ -1,0 +1,93 @@
+{
+  "slug": "flock-safety",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "Atlanta, GA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Garrett Langley",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2025/03/13/3042227/0/en/Flock-Safety-Raises-275-Million.html"
+    },
+    {
+      "name": "Matt Feury",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fortune.com/2026/08/24/flock-safety-has-been-a-venture-darling-will-data-privacy-controversies-halt-its-rise/"
+    },
+    {
+      "name": "Paige Todd",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fortune.com/2026/08/24/flock-safety-has-been-a-venture-darling-will-data-privacy-controversies-halt-its-rise/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A-1",
+      "date": "2018",
+      "amount": "$10M",
+      "valuation": "~$60M",
+      "lead": "Bedrock Capital",
+      "source": "https://techcrunch.com/2025/03/13/y-combinators-police-surveillance-darling-flock-safety-raises-275m-at-7-5b-valuation/"
+    },
+    {
+      "round": "Series C",
+      "date": "2020-11",
+      "amount": "$47M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.vcnewsdaily.com/Flock%20Safety/venture-funding.php"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-07",
+      "amount": "$150M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://stockanalysis.com/private/flock-safety/valuation/"
+    },
+    {
+      "round": "Series E",
+      "date": "2022-02",
+      "amount": "$150M",
+      "valuation": "$3.5B",
+      "lead": null,
+      "source": "https://stockanalysis.com/private/flock-safety/valuation/"
+    },
+    {
+      "round": "Growth",
+      "date": "2023-07",
+      "amount": "$100M",
+      "valuation": "$4B",
+      "lead": null,
+      "source": "https://stockanalysis.com/private/flock-safety/valuation/"
+    },
+    {
+      "round": "Series F",
+      "date": "2025-03",
+      "amount": "$275M",
+      "valuation": "$7.5B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.globenewswire.com/news-release/2025/03/13/3042227/0/en/Flock-Safety-Raises-275-Million.html"
+    },
+    {
+      "round": "Series H",
+      "date": "2026-04",
+      "amount": "$500M",
+      "valuation": "$8.3B",
+      "lead": "Andreessen Horowitz, Tiger Global",
+      "source": "https://fortune.com/2026/08/24/flock-safety-has-been-a-venture-darling-will-data-privacy-controversies-halt-its-rise/"
+    }
+  ],
+  "total_raised": "$950M+ through Mar 2025 (PitchBook via Reuters), plus $500M in Apr 2026",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

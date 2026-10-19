@@ -1,0 +1,54 @@
+{
+  "slug": "model-ml",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "New York, NY / London",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Chaz Englander",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.fintechfutures.com/venture-capital-funding/ai-start-up-model-ml-closes-75m-series-a-led-by-ft-partners"
+    },
+    {
+      "name": "Arnie Englander",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.fintechfutures.com/venture-capital-funding/ai-start-up-model-ml-closes-75m-series-a-led-by-ft-partners"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-02",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "LocalGlobe, Y Combinator",
+      "source": "https://siliconangle.com/2025/11/24/financial-ai-startup-model-ml-nabs-75m-investment/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-11",
+      "amount": "$75M",
+      "valuation": null,
+      "lead": "FT Partners",
+      "source": "https://www.prnewswire.com/news-releases/model-ml-raises-75m-in-one-of-the-largest-fintech-series-a-rounds-in-history-to-transform-financial-services-with-ai-workflow-automation-302624414.html"
+    },
+    {
+      "round": "Strategic",
+      "date": "2026-08",
+      "amount": null,
+      "valuation": null,
+      "lead": "HSBC Asset Management",
+      "source": "https://www.ftpartners.com/transactions/model-ml-hsbc"
+    }
+  ],
+  "total_raised": "$100M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

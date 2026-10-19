@@ -1,0 +1,53 @@
+{
+  "slug": "speechify",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Cliff Weitzman",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/cliffweitzman",
+      "source": "https://speechify.com/author/cliff"
+    },
+    {
+      "name": "Tyler Weitzman",
+      "title": "Co-founder, President & Head of AI",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://thebench.jobs/companies/speechify"
+    },
+    {
+      "name": "Pankaj Agarwal",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://thebench.jobs/companies/speechify"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2017-02",
+      "amount": null,
+      "valuation": null,
+      "lead": "Streamlined Ventures",
+      "source": "https://seedtable.com/companies/speechify/funding-rounds/seed-2017-02"
+    },
+    {
+      "round": "Funding round",
+      "date": "2024-01",
+      "amount": "$10M",
+      "valuation": "$100M",
+      "lead": null,
+      "source": "https://speechify.com/news/speechify-raises-10M-100M-valuation"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

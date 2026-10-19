@@ -1,0 +1,143 @@
+{
+  "slug": "human-interest",
+  "checked": "Oct 19, 2026",
+  "founded": 2015,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~852 (Tracxn)",
+    "as_of": "Jun 2026",
+    "source": "https://tracxn.com/d/companies/human-interest/__nr_vl6KIMAF74NJOC3A_-qUGVWglyB86CKnVJhekQKU"
+  },
+  "leadership": [
+    {
+      "name": "Jeff Schneble",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://humaninterest.com/learn/contributors/jeff-schneble"
+    },
+    {
+      "name": "Tripp Faix",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/id/companies/humaninterest/tear-sheet.pdf"
+    },
+    {
+      "name": "Abhi Mishra",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/id/companies/humaninterest/tear-sheet.pdf"
+    },
+    {
+      "name": "Rakesh Mahajan",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/id/companies/humaninterest/tear-sheet.pdf"
+    },
+    {
+      "name": "Klinton Miyao",
+      "title": "Chief Legal & People Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/id/companies/humaninterest/tear-sheet.pdf"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2019-08",
+      "amount": "$15.4M",
+      "valuation": "~$34M (PitchBook)",
+      "lead": null,
+      "source": "https://humaninterest.com/pressroom/articles/seriesb-to-improve-americas-access-401k-plans"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-02",
+      "amount": "$105M (incl. $55M Feb 2021 close)",
+      "valuation": null,
+      "lead": "Glynn Capital",
+      "source": "https://www.globenewswire.com/news-release/2021/02/11/2174214/0/en/human-interest-completes-105m-series-c-following-breakout-year-in-2020.html"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-08",
+      "amount": "$200M",
+      "valuation": "$1B",
+      "lead": "The Rise Fund (TPG)",
+      "source": "https://techcrunch.com/2021/08/04/human-interest-raises-200m-at-a-1b-valuation-plans-for-an-ipo/"
+    },
+    {
+      "round": "Series E + debt",
+      "date": "2024-07",
+      "amount": "$267M (incl. $25M debt, primary + secondary)",
+      "valuation": "$1.33B (Sacra)",
+      "lead": "Marshall Wace, Baillie Gifford",
+      "source": "https://www.globenewswire.com/news-release/2024/07/17/2914848/0/en/human-interest-lays-public-ready-foundation-with-267m-in-financings-new-key-hires-and-new-board-members.html"
+    },
+    {
+      "round": "Series E (Morgan Stanley tranche)",
+      "date": "2025-08",
+      "amount": "up to $50M",
+      "valuation": null,
+      "lead": "Morgan Stanley Tactical Value",
+      "source": "https://humaninterest.com/pressroom/articles/morgan-stanley-tactical-value-invest-in-human-interest"
+    },
+    {
+      "round": "Growth",
+      "date": "2025-10",
+      "amount": "$100M+",
+      "valuation": "$3B post",
+      "lead": "not named (Axios)",
+      "source": "https://www.axios.com/2025/10/31/401k-human-interest"
+    }
+  ],
+  "total_raised": "~$800M+ (Sacra est.; >$700M primary+secondary as of Aug 2025 per company, plus $100M+ Oct 2025)",
+  "revenue_est": {
+    "value": "~$200M ARR (end-2025), +38% YoY",
+    "as_of": "Dec 2025",
+    "basis": "estimate",
+    "source": "https://sacra.com/c/human-interest"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "BambooHR launches embedded 401(k) powered by Human Interest",
+      "url": "https://www.bamboohr.com/about-bamboohr/press-release/bamboohr-expands-partnership-with-human-interest"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Deel launches Deel Retirement with Human Interest and Basic Capital",
+      "url": "https://401kspecialistmag.com/global-hr-platform-deel-launches-integrated-us-401k-offering-with-human-interest-basic-capital/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Launches Compliance Guarantee with AI predictive compliance monitoring",
+      "url": "https://humaninterest.com/pressroom/articles/human-interest-announces-new-compliance-guarantee/"
+    },
+    {
+      "date": "2026-03",
+      "headline": "UBS adds Human Interest as a 401(k) recordkeeper for its advisors",
+      "url": "https://humaninterest.com/pressroom/articles/human-interest-announces-401k-solutions-for-ubs-financial-advisors"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Launches Price Match Guarantee against competing 401(k) providers",
+      "url": "https://humaninterest.com/pressroom/articles/human-interest-announces-price-match-guarantee/"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Raises $100M+ at $3B valuation; CEO eyes IPO in ~24 months",
+      "url": "https://www.axios.com/2025/10/31/401k-human-interest"
+    }
+  ],
+  "competitors": [
+    "Guideline",
+    "basic-capital",
+    "Vestwell",
+    "ADP Retirement Services"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "ssi",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "Palo Alto, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ilya Sutskever",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://ssi.inc/updates"
+    },
+    {
+      "name": "Daniel Levy",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://ssi.inc/updates"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Initial round",
+      "date": "2024-09",
+      "amount": "$1B",
+      "valuation": "$5B (reported)",
+      "lead": "NFDG, a16z, Sequoia, DST Global, SV Angel (investors)",
+      "source": "https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/"
+    },
+    {
+      "round": "Growth round",
+      "date": "2025-04",
+      "amount": "$2B (reported)",
+      "valuation": "$32B (reported)",
+      "lead": "Greenoaks",
+      "source": "https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/"
+    },
+    {
+      "round": "Strategic (Nvidia)",
+      "date": "2026-07",
+      "amount": "~$5B (reported, CB Insights)",
+      "valuation": null,
+      "lead": "Nvidia",
+      "source": "https://www.cbinsights.com/company/safe-superintelligence/financials"
+    }
+  ],
+  "total_raised": "~$3B confirmed; ~$8B incl. reported Nvidia investment",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

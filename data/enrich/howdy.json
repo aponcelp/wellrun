@@ -1,0 +1,46 @@
+{
+  "slug": "howdy",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "Austin, TX",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jacqueline Samira",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/howdy-com"
+    },
+    {
+      "name": "Frank Licea",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.finsmes.com/2023/01/howdy-extends-series-a-by-5m-total-to-18m.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2022-08",
+      "amount": "$13M",
+      "valuation": null,
+      "lead": "Greycroft",
+      "source": "https://www.bloomberglinea.com/2022/11/23/howdy-cierra-serie-a-de-us13-millones-y-planea-contratar-500-ingenieros-latinos/"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2023-01",
+      "amount": "$5M",
+      "valuation": "$105M",
+      "lead": "Obvious Ventures",
+      "source": "https://www.prnewswire.com/news-releases/howdy-extends-series-a-by-5-million-bringing-total-to-18-million-following-a-full-rebrand-301717111.html"
+    }
+  ],
+  "total_raised": "$21M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "brex",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Pedro Franceschi",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://brex.com/journal/capital-one-completes-acquisition-of-brex"
+    },
+    {
+      "name": "Henrique Dubugras",
+      "title": "Co-founder (Chairman pre-acquisition)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/01/22/capital-one-acquires-brex-for-steep-discount-to-its-peak-valuation-but-early-believers-are-laughing-all-the-way-to-the-bank/"
+    },
+    {
+      "name": "Ben Gammell",
+      "title": "President & CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/brex"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2017",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": "Ribbit Capital",
+      "source": "https://news.crunchbase.com/ma/capital-one-acquisition-fintech-startup-brex/"
+    },
+    {
+      "round": "Series B",
+      "date": "2018",
+      "amount": "$100M",
+      "valuation": "$1.1B",
+      "lead": "Kleiner Perkins",
+      "source": "https://sacra.com/c/brex/"
+    },
+    {
+      "round": "Series C",
+      "date": null,
+      "amount": "$150M",
+      "valuation": "$2.6B",
+      "lead": "DST Global",
+      "source": "https://sacra.com/c/brex/"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-04",
+      "amount": "$425M",
+      "valuation": "$7.4B",
+      "lead": "Tiger Global",
+      "source": "https://tracxn.com/d/companies/brex/__-oiJJpMhnesRrjUodVwvvRzhj-Eqv7xqlocB18hjkkQ/funding-and-investors"
+    },
+    {
+      "round": "Series D-2",
+      "date": "2022-01",
+      "amount": "$300M",
+      "valuation": "$12.3B",
+      "lead": "Greenoaks Capital, TCV",
+      "source": "https://www.wsgr.com/print/v2/content/225533/Wilson-Sonsini-Advises-Brex-on-$300-Million-Series-D-2-Financing.pdf"
+    },
+    {
+      "round": "Acquisition by Capital One",
+      "date": "2026-04",
+      "amount": "$5.15B (cash + stock)",
+      "valuation": null,
+      "lead": "Capital One",
+      "source": "https://investor.capitalone.com/news-releases/news-release-details/capital-one-acquire-brex"
+    }
+  ],
+  "total_raised": "~$1.2B venture equity; ~$1.7B incl. debt (per Crunchbase News)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "aaru",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Cameron Fink",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://vivatech.com/speakers/cameron-fink-aaru-d9ce3d20-e4f8-4e14-bf4b-e913b8ceaea6"
+    },
+    {
+      "name": "Ned Koh",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fortune.com/2026/06/17/aaru-cofounder-ned-koh-ai-startup-sales-pitch-do-not-trust-us/"
+    },
+    {
+      "name": "John Kessler",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://aaru.com/about?open=true"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": "$7.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.vanityfair.com/news/story/aaru-founders-ai-simulation"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-12",
+      "amount": "$80M",
+      "valuation": "$1B headline (blended lower)",
+      "lead": "Redpoint Ventures",
+      "source": "https://redpoint.com/content-hub/written/a-step-towards-predicting-the-future-our-investment-in-aaru-"
+    }
+  ],
+  "total_raised": "~$88M (per PitchBook via Fortune)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "juna-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "Berlin, Germany",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Matthias Auf der Mauer",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconangle.com/2024/11/18/industrial-ai-startup-juna-ai-raises-7-5m-seed-funding/"
+    },
+    {
+      "name": "Christian von Hardenberg",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconangle.com/2024/11/18/industrial-ai-startup-juna-ai-raises-7-5m-seed-funding/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-11",
+      "amount": "$7.5M",
+      "valuation": null,
+      "lead": "Kleiner Perkins",
+      "source": "https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/"
+    }
+  ],
+  "total_raised": "$7.5M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

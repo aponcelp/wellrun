@@ -1,0 +1,46 @@
+{
+  "slug": "lightfield",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Keith Peiris",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lightfield.app/blog/our-series-a"
+    },
+    {
+      "name": "Henri Liriani",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://a16z.com/announcement/investing-in-lightfield/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Prior funding as Tome (pre-pivot)",
+      "date": null,
+      "amount": "~$80M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://dealroom.co/news/149823-ai-crm-startup-lightfield-raises-47m-series-a-led-by-a16z"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$47M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.prnewswire.com/news-releases/lightfield-raises-47-million-series-a-to-build-the-crm-for-companies-that-run-on-agents-302874024.html"
+    }
+  ],
+  "total_raised": "~$127M incl. ~$80M raised as Tome (computed)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

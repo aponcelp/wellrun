@@ -1,0 +1,38 @@
+{
+  "slug": "keenable",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": null,
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Andrey Styskin",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://keenable.ai/"
+    },
+    {
+      "name": "Matthias Petri",
+      "title": "Co-founder & Chief Scientist",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://keenable.ai/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-08",
+      "amount": "$26M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents"
+    }
+  ],
+  "total_raised": "$26M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

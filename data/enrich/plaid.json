@@ -1,0 +1,93 @@
+{
+  "slug": "plaid",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2013,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Zach Perret",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Plaid_(company)"
+    },
+    {
+      "name": "William Hockey",
+      "title": "Co-founder & Board Director",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/plaid"
+    },
+    {
+      "name": "Jean-Denis Greze",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Plaid_(company)"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2013-09",
+      "amount": "$2.8M",
+      "valuation": null,
+      "lead": "Spark Capital",
+      "source": "https://seedtable.com/companies/plaid/funding-rounds"
+    },
+    {
+      "round": "Series A",
+      "date": "2014-11",
+      "amount": "$12.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://sacra.com/c/plaid/"
+    },
+    {
+      "round": "Series B",
+      "date": "2016-06",
+      "amount": "$44M",
+      "valuation": null,
+      "lead": "Goldman Sachs Investment Partners",
+      "source": "https://sacra.com/c/plaid/"
+    },
+    {
+      "round": "Series C",
+      "date": "2018-12",
+      "amount": "$250M",
+      "valuation": "$2.65B",
+      "lead": null,
+      "source": "https://techcrunch.com/2018/12/11/fintech-startup-plaid-raises-250m-at-a-2-65b-valuation/"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-04",
+      "amount": "$425M",
+      "valuation": "$13.4B",
+      "lead": "Altimeter Capital",
+      "source": "https://www.cnn.com/2021/04/07/tech/plaid-funding-425-million/index.html"
+    },
+    {
+      "round": "Series D extension",
+      "date": "2021-08",
+      "amount": "~$100M",
+      "valuation": null,
+      "lead": "J.P. Morgan Growth Equity Partners, Amex Ventures",
+      "source": "https://plaid.com/blog/plaid-announces-additional-series-d-funding/"
+    },
+    {
+      "round": "Common stock (partly employee liquidity)",
+      "date": "2025-04",
+      "amount": "~$575M",
+      "valuation": "$6.1B post",
+      "lead": "Franklin Templeton",
+      "source": "https://techcrunch.com/2025/04/03/fintech-plaid-raises-575m-at-6-1b-valuation-says-it-will-not-go-public-in-2025/"
+    }
+  ],
+  "total_raised": "~$1.31B (Sacra)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

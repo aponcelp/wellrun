@@ -1,0 +1,53 @@
+{
+  "slug": "cyclops",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": "Miami, FL",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Alex Wilson",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cyclops.io/post/meet-the-founders"
+    },
+    {
+      "name": "Pat Duffy",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/cyclops-announces-20m-series-a-led-by-nava-ventures-to-bring-stablecoin-rails-to-payments-industry-302825666.html"
+    },
+    {
+      "name": "David Johnson",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/cyclops-announces-20m-series-a-led-by-nava-ventures-to-bring-stablecoin-rails-to-payments-industry-302825666.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed / strategic",
+      "date": "2026-03",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.fintechfutures.com/venture-capital-funding/cyclops-secures-20m-series-a"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-07",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Nava Ventures",
+      "source": "https://www.prnewswire.com/news-releases/cyclops-announces-20m-series-a-led-by-nava-ventures-to-bring-stablecoin-rails-to-payments-industry-302825666.html"
+    }
+  ],
+  "total_raised": "$28M (sum of disclosed rounds)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

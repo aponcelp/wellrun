@@ -1,0 +1,116 @@
+{
+  "slug": "linear",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "San Francisco, CA (remote-first)",
+  "headcount_est": {
+    "value": "271 employees",
+    "as_of": "Jun 2026",
+    "source": "https://tracxn.com/d/companies/linear/__xC97n-jdX7VZjDBpNyRfVH-H_Elzu354nD5Yz5FaUVI"
+  },
+  "leadership": [
+    {
+      "name": "Karri Saarinen",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.reuters.com/business/atlassian-competitor-linear-raises-funding-125-billion-valuation-2025-06-10/"
+    },
+    {
+      "name": "Jori Lallo",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.accel.com/companies/linear"
+    },
+    {
+      "name": "Tuomas Artman",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.accel.com/companies/linear"
+    },
+    {
+      "name": "Cristina Cordova",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theproductpodcast.buzzsprout.com/90361/episodes/19325762-linear-coo-on-rebuilding-the-product-development-lifecycle-for-teams-and-agents-from-issue-tracker-to-shared-operating-system-cristina-cordova-e299"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2020-12",
+      "amount": "$13M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://linkedin.com/company/linearapp"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-09",
+      "amount": "$35M",
+      "valuation": "~$400M",
+      "lead": "Accel",
+      "source": "https://www.forbes.com/sites/alexkonrad/2023/09/14/linear-developer-tools-raises-35-million-series-b/"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-06",
+      "amount": "$82M (primary + secondary)",
+      "valuation": "$1.25B",
+      "lead": "Accel",
+      "source": "https://linear.app/now/building-our-way"
+    },
+    {
+      "round": "Secondary (employee tender)",
+      "date": "2026-08",
+      "amount": "$99M",
+      "valuation": "$2.5B",
+      "lead": "Accel",
+      "source": "https://linear.app/now/sharing-growth-with-the-people-building-linear"
+    }
+  ],
+  "total_raised": "$134.2M primary (Crunchbase, via TechCrunch)",
+  "revenue_est": {
+    "value": "$100M+ ARR; 40,000+ paying customers; cash-flow positive",
+    "as_of": "Aug 2026 (passed earlier in 2026)",
+    "basis": "company-stated",
+    "source": "https://linear.app/now/sharing-growth-with-the-people-building-linear"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Completes $99M employee tender at $2.5B; says ARR passed $100M",
+      "url": "https://www.businessinsider.com/saas-is-dead-startup-linear-just-doubled-its-valuation-2026-8"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Linear Agent gains Coding Sessions to take bugs from triage to reviewed fix",
+      "url": "https://linear.app/now/coding-sessions-for-linear-agent"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Launches Diffs, bringing code review inside Linear",
+      "url": "https://linear.app/now/code-review-should-be-fast"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Introduces Linear Agent built into the product",
+      "url": "https://linear.app/changelog/2026-03-24-introducing-linear-agent"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Raises $82M Series C at $1.25B led by Accel",
+      "url": "https://techcrunch.com/2025/06/10/atlassian-rival-linear-raises-82m-at-1-25b-valuation/"
+    }
+  ],
+  "competitors": [
+    "Atlassian Jira",
+    "clickup",
+    "notion",
+    "Asana",
+    "GitHub Projects"
+  ]
+}

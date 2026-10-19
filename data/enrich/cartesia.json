@@ -1,0 +1,75 @@
+{
+  "slug": "cartesia",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Karan Goel",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cartesia.ai/authors/karan-goel"
+    },
+    {
+      "name": "Albert Gu",
+      "title": "Co-founder & Chief Scientist",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/cartesia"
+    },
+    {
+      "name": "Arjun Desai",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.kleinerperkins.com/perspectives/cartesia-pioneering-real-time-voice-ai/"
+    },
+    {
+      "name": "Brandon Yang",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.kleinerperkins.com/perspectives/cartesia-pioneering-real-time-voice-ai/"
+    },
+    {
+      "name": "Christopher Ré",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://research.contrary.com/company/cartesia"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-12",
+      "amount": "$27M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://www.cartesia.ai/blog/seed"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-03",
+      "amount": "$64M",
+      "valuation": null,
+      "lead": "Kleiner Perkins",
+      "source": "https://www.cartesia.ai/blog/series-a"
+    },
+    {
+      "round": "Series A-2",
+      "date": "2025-10",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": "Kleiner Perkins, Index Ventures, Lightspeed, NVIDIA (investors named)",
+      "source": "https://traded.co/vc/deal/cartesia-secures-100-million-investment-from-kleiner-perkins-index-ventures-lightspeed-and-nvidia/"
+    }
+  ],
+  "total_raised": "$191M (per Contrary/CB Insights)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

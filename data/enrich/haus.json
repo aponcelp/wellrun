@@ -1,0 +1,60 @@
+{
+  "slug": "haus",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Mountain View, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Zach Epstein",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://haus.io/about"
+    },
+    {
+      "name": "Gillian Heltai",
+      "title": "Chief Operating Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://haus.io/about"
+    },
+    {
+      "name": "Josh Brown",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://haus.io/about"
+    },
+    {
+      "name": "Olivia Kory",
+      "title": "Chief Marketing & Strategy Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://haus.io/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2023-08",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://techcrunch.com/2023/08/03/haus-which-helps-companies-measure-marketing-roi-raises-17m"
+    },
+    {
+      "round": "Growth (Series B)",
+      "date": "2024-07",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "01 Advisors",
+      "source": "https://www.prnewswire.com/news-releases/haus-announces-20m-in-additional-financing-from-01-advisors-and-unveils-breakthrough-causal-attribution-measurement-offering-302207917.html"
+    }
+  ],
+  "total_raised": "~$61.6M (Forge Global; includes an unannounced 2025 extension)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

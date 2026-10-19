@@ -1,0 +1,39 @@
+{
+  "slug": "coast",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Daniel Simon",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://coastpay.com/blog/announcing-coast-series-b-funding"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A + debt",
+      "date": "2024-03",
+      "amount": "$25M equity + $67M debt",
+      "valuation": null,
+      "lead": "Existing investors (BoxGroup, Avid, Accel, Insight, Better Tomorrow); debt from SVB, TriplePoint",
+      "source": "https://coastpay.com/blog/coast-announces-new-funding/"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-07",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "ICONIQ Growth",
+      "source": "https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/"
+    }
+  ],
+  "total_raised": "~$100M equity (company-stated, Jul 2024) + $67M debt",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

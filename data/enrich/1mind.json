@@ -1,0 +1,46 @@
+{
+  "slug": "1mind",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Amanda Kahlow",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/amandakahlow",
+      "source": "https://www.prnewswire.com/news-releases/1mind-publicly-launches-with-40-million-to-usher-in-new-era-of-ai-led-sales-with-highly-skilled-persuasive-and-emotionally-intelligent-superhumans-302609156.html"
+    },
+    {
+      "name": "Sachin Bhat",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.battery.com/blog/our-investment-in-1mind-the-future-of-gtm-superhumans/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024",
+      "amount": "~$10M (sources differ: $7.5M-$10M)",
+      "valuation": null,
+      "lead": "Primary Venture Partners",
+      "source": "https://www.linkedin.com/posts/amandakahlow_superhumans-ailedgrowth-b2bsales-activity-7393678874020233216-H2vD"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-11",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Battery Ventures",
+      "source": "https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind"
+    }
+  ],
+  "total_raised": "$40M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

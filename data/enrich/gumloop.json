@@ -1,0 +1,54 @@
+{
+  "slug": "gumloop",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Max Brodeur-Urbas",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/"
+    },
+    {
+      "name": "Rahul Behal",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/gumloop"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-07",
+      "amount": "$3.1M",
+      "valuation": null,
+      "lead": "First Round Capital",
+      "source": "https://gumloop.com/blog/seed-round"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-01",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "Nexus Venture Partners",
+      "source": "https://www.techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-03",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Benchmark",
+      "source": "https://gumloop.com/blog/series-b"
+    }
+  ],
+  "total_raised": "$70M (per SiliconANGLE)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

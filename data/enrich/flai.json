@@ -1,0 +1,93 @@
+{
+  "slug": "flai",
+  "checked": "Oct 19, 2026",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "11-50 (Dealroom range)",
+    "as_of": "Oct 2026",
+    "source": "https://app.dealroom.co/companies/flai_4"
+  },
+  "leadership": [
+    {
+      "name": "Ari Polakof",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.useflai.com/about"
+    },
+    {
+      "name": "Alen Polakof",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.useflai.com/about"
+    },
+    {
+      "name": "Juan Alzugaray",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.useflai.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed (Y Combinator)",
+      "date": "2025-06",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/flai_4"
+    },
+    {
+      "round": "Seed",
+      "date": "2025-10",
+      "amount": "$4.5M",
+      "valuation": null,
+      "lead": "First Round Capital",
+      "source": "http://techcrunch.com/2025/10/03/flai-is-the-latest-startup-bringing-ai-to-car-dealerships"
+    },
+    {
+      "round": "Seed extension",
+      "date": "2026-01",
+      "amount": "Seed extended to $6M total",
+      "valuation": null,
+      "lead": "Toyota Ventures",
+      "source": "https://medium.com/toyota-ventures/the-ai-native-dealership-our-investment-in-flai-dc8e9929a153"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$27M",
+      "valuation": null,
+      "lead": "Base10 Partners",
+      "source": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/"
+    }
+  ],
+  "total_raised": "~$33M (seed $6M + Series A $27M)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $27M Series A led by Base10; books 50,000 appointments a month",
+      "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Toyota Ventures joins extended $6M seed",
+      "url": "https://medium.com/toyota-ventures/the-ai-native-dealership-our-investment-in-flai-dc8e9929a153"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Raises $4.5M seed led by First Round Capital",
+      "url": "http://techcrunch.com/2025/10/03/flai-is-the-latest-startup-bringing-ai-to-car-dealerships"
+    }
+  ],
+  "competitors": [
+    "Impel",
+    "Numa",
+    "Toma",
+    "CDK Global"
+  ]
+}

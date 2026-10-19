@@ -1,0 +1,39 @@
+{
+  "slug": "instinct",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Noah Shinn",
+      "title": "Founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.reuters.com/technology/ai-agent-firm-instinct-raises-1-billion-latest-funding-round-2026-09-28/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2026-08",
+      "amount": "$250M",
+      "valuation": "$2.5B",
+      "lead": "Index Ventures, Benchmark (co-leads)",
+      "source": "https://techfundingnews.com/ai-agent-instinct-jumps-to-10b-valuation-with-1b-led-by-sequoia-benchmark-and-coatue/"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-09",
+      "amount": "$1B",
+      "valuation": "$10B",
+      "lead": "Sequoia, Benchmark, Coatue (no single lead named)",
+      "source": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation"
+    }
+  ],
+  "total_raised": "~$1.35B (per Tech Funding News tally)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

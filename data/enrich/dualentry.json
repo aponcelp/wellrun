@@ -1,0 +1,46 @@
+{
+  "slug": "dualentry",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Santiago Nestares",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lsvp.com/company/dualentry/"
+    },
+    {
+      "name": "Benedict Dohmen",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://lsvp.com/company/dualentry/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024",
+      "amount": null,
+      "valuation": null,
+      "lead": "Contrary",
+      "source": "https://contrary.com/blog/investing-in-dualentry"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-10",
+      "amount": "$90M",
+      "valuation": "$415M",
+      "lead": "Lightspeed Venture Partners, Khosla Ventures",
+      "source": "https://www.reuters.com/technology/company-valued-415-million-2025-10-02/"
+    }
+  ],
+  "total_raised": "$100M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

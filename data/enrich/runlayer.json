@@ -1,0 +1,53 @@
+{
+  "slug": "runlayer",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Andrew (Andy) Berman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/runlayer-raises-30m-series-a-to-help-enterprises-go-all-in-on-ai-302809271.html"
+    },
+    {
+      "name": "Tal Peretz",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis"
+    },
+    {
+      "name": "Vitor Balocco",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-11",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": "Khosla Ventures (Keith Rabois), Felicis",
+      "source": "http://runlayer.com/blog/runlayer-raises-11m-to-scale-enterprise-mcp-infrastructure"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-06",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Felicis",
+      "source": "https://www.runlayer.com/blog/series-A-30m-fundraise-felicis-khosla"
+    }
+  ],
+  "total_raised": "$42M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

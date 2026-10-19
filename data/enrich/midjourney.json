@@ -1,0 +1,23 @@
+{
+  "slug": "midjourney",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "David Holz",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://midjourney.com/"
+    }
+  ],
+  "funding_history": [],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": [],
+  "note": "Self-funded; no outside investors (http://midjourney.com/, https://www.theinformation.com/articles/he-doesnt-need-vc-in-his-life-how-midjourneys-founder-built-an-ai-winner-while-rejecting-venture-capital)."
+}

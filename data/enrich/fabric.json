@@ -1,0 +1,39 @@
+{
+  "slug": "fabric",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Aniq Rahman",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.fabrichealth.com/press/fabric-secures-60m-series"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-03",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Thrive Capital, GV, Salesforce Ventures",
+      "source": "https://www.fabrichealth.com/press/fabric-launches-with-20m"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-02",
+      "amount": "$60M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://www.fabrichealth.com/press/fabric-secures-60m-series"
+    }
+  ],
+  "total_raised": "$80M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

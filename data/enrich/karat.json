@@ -1,0 +1,46 @@
+{
+  "slug": "karat",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2014,
+  "hq": "Seattle, WA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Mohit (Mo) Bhende",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://karat.com/about/"
+    },
+    {
+      "name": "Jeffrey Spector",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://karat.com/about/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2019-05",
+      "amount": "$28M",
+      "valuation": null,
+      "lead": "Tiger Global Management",
+      "source": "https://www.prnewswire.com/news-releases/karat-raises-28-million-in-financing-led-by-tiger-global-300850260.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-10",
+      "amount": "$110M",
+      "valuation": "$1.1B",
+      "lead": "Tiger Global",
+      "source": "https://www.businesswire.com/news/home/20211013005399/en/Karat-Pioneers-the-Interviewing-Cloud-to-Transform-Technical-Hiring-Secures-%24110M-in-Series-C-Funding"
+    }
+  ],
+  "total_raised": "~$170M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "aquaria",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Austin, TX",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Brian Sheng",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://commercialobserver.com/2025/05/proptech-aquaria-water-from-air"
+    },
+    {
+      "name": "Eric Sheng",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://commercialobserver.com/2025/05/proptech-aquaria-water-from-air"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Early VC (equity)",
+      "date": "2024-11",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "Soma Capital, Ciri Ventures, Umami Capital",
+      "source": "https://www.aquaria.world/blog-posts/forbes-spotlights-aquarias-112-million-raise-to-accelerate-air-to-water-infrastructure"
+    },
+    {
+      "round": "Project finance facility",
+      "date": "2024-11",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": "Upwell Water",
+      "source": "https://www.prnewswire.com/news-releases/aquaria-raises-112m-to-bring-sustainable-water-from-the-sky-to-communities-and-cities-around-the-world-302310821.html"
+    }
+  ],
+  "total_raised": "$112M incl. $100M project-finance facility (plus ~$5M earlier, per company)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

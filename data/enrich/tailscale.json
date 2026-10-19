@@ -1,0 +1,118 @@
+{
+  "slug": "tailscale",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "Toronto, Canada (remote-first)",
+  "headcount_est": {
+    "value": "~300 (company-stated to BetaKit)",
+    "as_of": "Jul 2026",
+    "source": "https://betakit.com/tailscale-catches-ai-tailwinds-as-it-nears-40000-paid-business-customers/"
+  },
+  "leadership": [
+    {
+      "name": "Avery Pennarun",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/apenwarr",
+      "source": "https://tailscale.com/blog/series-c"
+    },
+    {
+      "name": "David Carney",
+      "title": "Co-founder & Chief Strategy Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://tailscale.com/blog/border0-joins-tailscale"
+    },
+    {
+      "name": "David Crawshaw",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/58dbe4f7e4b0e8400e2790cf/tailscale"
+    },
+    {
+      "name": "Kevin Kotecki",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://platform.tracxn.com/a/d/company/58dbe4f7e4b0e8400e2790cf/tailscale"
+    },
+    {
+      "name": "Mike Shaver",
+      "title": "VP of Engineering",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://betakit.com/tailscale-catches-ai-tailwinds-as-it-nears-40000-paid-business-customers/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-04",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": "Uncork Capital, Heavybit",
+      "source": "https://app.dealroom.co/companies/tailscale"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-11",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://www.businesswire.com/news/home/20201110005357/en/Tailscale-Raises-$12M-Led-by-Accel-to-Build-Distributed-Networks-for-Distributed-Teams"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-05",
+      "amount": "$100M",
+      "valuation": "$1B",
+      "lead": "CRV, Insight Partners",
+      "source": "https://www.theglobeandmail.com/business/article-toronto-startup-tailscale-hopes-to-disrupt-vpn-market-with-100-million/"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-04",
+      "amount": "$160M",
+      "valuation": "$1.45B",
+      "lead": "Accel",
+      "source": "https://betakit.com/corporate-vpn-startup-tailscale-secures-230-million-cad-series-c-on-back-of-surprising-growth/"
+    }
+  ],
+  "total_raised": "~$275M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Commits multi-million-dollar investment to sovereign AI; hires GM",
+      "url": "https://tailscale.com/blog/sovereign-ai-patricia-prewitt"
+    },
+    {
+      "date": "2026-08",
+      "headline": "TailscaleUp: launches Tailscale PAM, DNS filtering and Aperture AI gateway updates",
+      "url": "https://www.networkworld.com/article/4215616/tailscale-expands-from-vpn-into-a-full-connectivity-platform.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Nears 40,000 paid business customers; hires Mike Shaver as VP Engineering",
+      "url": "https://betakit.com/tailscale-catches-ai-tailwinds-as-it-nears-40000-paid-business-customers/"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Makes first acquisition, buying privileged-access startup Border0",
+      "url": "https://betakit.com/tailscale-makes-first-acquisition-with-border0-purchase"
+    },
+    {
+      "date": "2025-04",
+      "headline": "Raises $160M Series C led by Accel at $1.45B valuation",
+      "url": "https://tailscale.com/blog/series-c"
+    }
+  ],
+  "competitors": [
+    "Cloudflare (Zero Trust)",
+    "Zscaler",
+    "Twingate",
+    "NetBird",
+    "ZeroTier"
+  ]
+}

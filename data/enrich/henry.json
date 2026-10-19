@@ -1,0 +1,46 @@
+{
+  "slug": "henry",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Sammy Greenwall",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/henry-ai-raises-16-5m-series-a-and-launches-henry-deal-302837784.html"
+    },
+    {
+      "name": "Adam Pratt",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://firstmark.com/portfolio/henry-ai/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-02",
+      "amount": "$4.3M",
+      "valuation": null,
+      "lead": "Susa Ventures, 1Sharpe Ventures",
+      "source": "https://www.prnewswire.com/news-releases/henry-ai-raises-4-million-in-seed-funding-to-automate-commercial-real-estate-transactions-302380986.html"
+    },
+    {
+      "round": "Series A (announced Jul 2026; closed earlier)",
+      "date": "2026-07",
+      "amount": "$16.5M",
+      "valuation": null,
+      "lead": "FirstMark Capital",
+      "source": "https://www.prnewswire.com/news-releases/henry-ai-raises-16-5m-series-a-and-launches-henry-deal-302837784.html"
+    }
+  ],
+  "total_raised": "~$21M ($4.3M seed + $16.5M Series A, plus YC)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

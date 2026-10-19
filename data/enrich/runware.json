@@ -1,0 +1,54 @@
+{
+  "slug": "runware",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA (also London)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Flaviu Rădulescu",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://runware.ai/about"
+    },
+    {
+      "name": "Ioana Hreninciuc",
+      "title": "Co-founder (operations & GTM)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://runware.ai/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2024-10",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": "a16z speedrun, Lakestar, Lunar Ventures",
+      "source": "https://techcrunch.com/2024/10/01/runware-uses-custom-hardware-and-advanced-orchestration-for-fast-ai-inference/"
+    },
+    {
+      "round": "Seed",
+      "date": "2025-09",
+      "amount": "$13M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://www.prnewswire.com/news-releases/runware-raises-13m-seed-to-help-customers-achieve-up-to-10x-cost-savings-on-ai-media-generation-302549889.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-12",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Dawn Capital",
+      "source": "https://techcrunch.com/2025/12/11/runware-raises-50m-series-a-from-dawn-capital-comcast-ventures-to-become-the-api-for-all-ai"
+    }
+  ],
+  "total_raised": "$66M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

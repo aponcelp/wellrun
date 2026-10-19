@@ -1,0 +1,45 @@
+{
+  "slug": "titan-banking",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Arjun Sirrah",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.titanbanking.ai/about"
+    },
+    {
+      "name": "Matt Creatore",
+      "title": "Chief Customer & Growth Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://finovate.com/videos/finovatefall-2026-titan-ai/"
+    },
+    {
+      "name": "Kaitlin Walsh-Epstein",
+      "title": "CMO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://finovate.com/videos/finovatefall-2026-titan-ai/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-06",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": "Entropy Ventures",
+      "source": "https://www.businesswire.com/news/home/20260609605347/en/Titan-Secures-%243M-in-New-Funding-to-Further-Scale-Its-Banking-Native-AI-Platform-for-Financial-Services"
+    }
+  ],
+  "total_raised": "$3M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

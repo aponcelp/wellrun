@@ -1,0 +1,81 @@
+{
+  "slug": "actively",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~81 (LinkedIn)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/actively-ai"
+  },
+  "leadership": [
+    {
+      "name": "Mihir Garimella",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://debriefing.io/intel/actively-ai-45m-series-b-per-account-agents"
+    },
+    {
+      "name": "Anshul Gupta",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.actively.ai/team/anshul-gupta"
+    },
+    {
+      "name": "Tyler John",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://research.crustdata.com/company/actively"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "First Round Capital",
+      "source": "https://www.actively.ai/blog/series-a-launch"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-04",
+      "amount": "$17.5M",
+      "valuation": null,
+      "lead": "Bain Capital Ventures",
+      "source": "https://techcrunch.com/2025/04/02/actively-ai-raises-22-5m-to-offer-sales-superintelligence-says-ai-sdrs-failed/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-04",
+      "amount": "$45M",
+      "valuation": "$250M",
+      "lead": "TCV, First Harmonic",
+      "source": "https://www.forbes.com/sites/sofiachierchio/2026/04/28/meet-the-250-million-startup-challenging-salesforce-with-ai-agents/"
+    }
+  ],
+  "total_raised": "$68M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-04",
+      "headline": "Raises $45M Series B co-led by TCV and First Harmonic at $250M; opening SF office",
+      "url": "https://www.businesswire.com/news/home/20260428810008/en/Actively-Raises-%2445M-Series-B-to-Scale-Intelligence-Led-Revenue-Platform"
+    },
+    {
+      "date": "2025-04",
+      "headline": "Raises $17.5M Series A led by Bain Capital Ventures ($22.5M incl. seed)",
+      "url": "https://techcrunch.com/2025/04/02/actively-ai-raises-22-5m-to-offer-sales-superintelligence-says-ai-sdrs-failed/"
+    }
+  ],
+  "competitors": [
+    "rox",
+    "monaco",
+    "11x",
+    "Clari",
+    "Salesforce Agentforce"
+  ]
+}

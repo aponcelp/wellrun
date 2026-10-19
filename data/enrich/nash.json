@@ -1,0 +1,54 @@
+{
+  "slug": "nash",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Mahmoud Ghulman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2022/07/26/nash-raises-cash-to-help-merchants-manage-local-deliveries/"
+    },
+    {
+      "name": "Aziz Alghunaim",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/nash"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2021-08",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://news.crunchbase.com/transportation/transportation-logistics-venture-funding-nash/"
+    },
+    {
+      "round": "Seed",
+      "date": "2021-12",
+      "amount": "$7.8M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://nash.ai/blog/nash-raises-20m-series-a-to-make-local-delivery-fast-reliable-and-efficient-for-businesses"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-07",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://techcrunch.com/2022/07/26/nash-raises-cash-to-help-merchants-manage-local-deliveries/"
+    }
+  ],
+  "total_raised": "$27.8M (company-stated, Jul 2022)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

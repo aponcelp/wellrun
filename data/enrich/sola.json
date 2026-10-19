@@ -1,0 +1,46 @@
+{
+  "slug": "sola",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jessica Wu",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://sola.ai/about-us"
+    },
+    {
+      "name": "Neil Deshmukh",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://sola.ai/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": "$3.5M",
+      "valuation": null,
+      "lead": "Conviction",
+      "source": "https://www.sola.ai/series-a-announcement"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-08",
+      "amount": "$17.5M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://fortune.com/2025/08/14/sola-solutions-ai-startup-raised-21-million-andreessen-sarah-guo/"
+    }
+  ],
+  "total_raised": "$21M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

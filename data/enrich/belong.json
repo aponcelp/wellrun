@@ -1,0 +1,76 @@
+{
+  "slug": "belong",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "San Mateo, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ale Resnik",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://belonghome.com/about-us"
+    },
+    {
+      "name": "Owen Savir",
+      "title": "Co-founder, CFO & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://belonghome.com/about-us"
+    },
+    {
+      "name": "Tyler Infelise",
+      "title": "Co-founder & VP of Product",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://belonghome.com/about-us"
+    },
+    {
+      "name": "Tami Epelbaum",
+      "title": "Head of Operations & Service Delivery",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://belonghome.com/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-01",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://belonghome.com/blog/series-seed-a-and-b-now-hiring"
+    },
+    {
+      "round": "Series A",
+      "date": "2019-08",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "GGV Capital",
+      "source": "https://belonghome.com/blog/series-seed-a-and-b-now-hiring"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-03",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "Battery Ventures",
+      "source": "https://belonghome.com/blog/series-seed-a-and-b-now-hiring"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-05",
+      "amount": "$80M (equity + debt)",
+      "valuation": null,
+      "lead": "Fifth Wall",
+      "source": "https://www.prnewswire.com/news-releases/belong-announces-80m-series-c-capital-expansion-301552583.html"
+    }
+  ],
+  "total_raised": "~$135M incl. debt (almost $100M equity per FinLedger)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

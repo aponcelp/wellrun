@@ -1,0 +1,46 @@
+{
+  "slug": "artisan",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jaspar Carmichael-Jack",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://artisan.co/about"
+    },
+    {
+      "name": "Sam Stallings",
+      "title": "Co-founder & CPTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/artisan-ai"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-09",
+      "amount": "$11.5M",
+      "valuation": null,
+      "lead": "Oliver Jung",
+      "source": "https://b17news.com/heres-an-exclusive-look-at-the-pitch-deck-startup-artisan-used-to-raise-25-million-to-replace-some-human-employees-with-ai-agents/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-04",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Glade Brook Capital",
+      "source": "https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/"
+    }
+  ],
+  "total_raised": "~$36.5M+",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

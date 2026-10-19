@@ -1,0 +1,60 @@
+{
+  "slug": "avarra",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Mateo, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "David Knight",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://avarra.ai/about"
+    },
+    {
+      "name": "Matt Huang",
+      "title": "Co-founder, Head of Product",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://avarra.ai/about"
+    },
+    {
+      "name": "Scot McIntosh",
+      "title": "Co-founder, Head of Engineering",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://avarra.ai/about"
+    },
+    {
+      "name": "Chris Iezzoni",
+      "title": "Co-founder, Head of AI",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://avarra.ai/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-10",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://www.prnewswire.com/news-releases/avarra-exits-stealth-announces-8m-seed-funding-and-general-availability-of-industrys-first-ai-avatar-based-enterprise-application-302266650.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "Duration Ventures",
+      "source": "https://www.prnewswire.com/news-releases/avarra-raises-17-million-on-a-contrarian-bet-ai-that-rapidly-upskills-gtm-teams-rather-than-simply-automating-routine-work-302899838.html"
+    }
+  ],
+  "total_raised": "$25M (sum of disclosed rounds)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

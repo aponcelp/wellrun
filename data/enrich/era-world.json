@@ -1,0 +1,53 @@
+{
+  "slug": "era-world",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Liz Dorman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets"
+    },
+    {
+      "name": "Alex Ollman",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets"
+    },
+    {
+      "name": "Megan Gole",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2025",
+      "amount": "$2M",
+      "valuation": null,
+      "lead": "Topology Ventures, Betaworks",
+      "source": "http://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets"
+    },
+    {
+      "round": "Seed",
+      "date": "2026-04",
+      "amount": "$9M",
+      "valuation": null,
+      "lead": "Abstract Ventures, BoxGroup",
+      "source": "http://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets"
+    }
+  ],
+  "total_raised": "$11M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

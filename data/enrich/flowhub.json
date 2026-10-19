@@ -1,0 +1,47 @@
+{
+  "slug": "flowhub",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2015,
+  "hq": "Denver, CO",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Kyle Sherman",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://flowhub.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed rounds (multiple)",
+      "date": "2015-2017",
+      "amount": "~$8M",
+      "valuation": null,
+      "lead": "Arcadian, Altitude, Phyto Partners, Poseidon (investors)",
+      "source": "https://www.highlyobjective.com/p/-podcast-flowhub-ceo-kyle-sherman"
+    },
+    {
+      "round": "Series A",
+      "date": "2019-10",
+      "amount": "$23M",
+      "valuation": null,
+      "lead": "e.ventures, Evolv Ventures and Poseidon",
+      "source": "https://www.flowhub.com/press-release/flowhub-announces-23-million-series-a-funding-eventures-evolv-ventures-poseidon"
+    },
+    {
+      "round": "Strategic (Series B)",
+      "date": "2021-10",
+      "amount": "$19M",
+      "valuation": ">$200M",
+      "lead": "Headline and Poseidon",
+      "source": "https://www.prnewswire.com/news-releases/flowhub-announces-19-million-strategic-funding-led-by-headline-poseidon-and-shawn-jay-z-carter-301397403.html"
+    }
+  ],
+  "total_raised": "~$50M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

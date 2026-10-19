@@ -1,0 +1,125 @@
+{
+  "slug": "zip",
+  "checked": "Oct 19, 2026",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "1,259 (Tracxn official count)",
+    "as_of": "Oct 2026",
+    "source": "https://platform.tracxn.com/a/d/company/5903c8e9e4b0b286e8a5f679/zip"
+  },
+  "leadership": [
+    {
+      "name": "Rujul Zaparde",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://ziphq.com/about"
+    },
+    {
+      "name": "Lu Cheng",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://ziphq.com/about"
+    },
+    {
+      "name": "Felix Meng",
+      "title": "Co-founder (GTM)",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://ziphq.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (Y Combinator S20)",
+      "date": "2020-03",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/zip_2"
+    },
+    {
+      "round": "Seed",
+      "date": "2020-08",
+      "amount": "$11.1M",
+      "valuation": null,
+      "lead": "CRV",
+      "source": "https://app.dealroom.co/companies/zip_2"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-08",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "CRV",
+      "source": "https://www.businesswire.com/news/home/20220524006182/en/Zip-Secures-%2443-Million-Series-B-at-a-%241.2-Billion-Valuation-to-Solve-the-Procurement-Experience-and-Workflow-Challenge-Every-Company-Faces"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-05",
+      "amount": "$43M",
+      "valuation": "$1.2B",
+      "lead": "YC Continuity",
+      "source": "http://techcrunch.com/2022/05/25/zip-closes-on-43m-at-1-2b-valuation"
+    },
+    {
+      "round": "Series C",
+      "date": "2023-05",
+      "amount": "$100M",
+      "valuation": "$1.5B",
+      "lead": "Y Combinator",
+      "source": "https://www.forbes.com/sites/phoebeliu/2023/05/15/procurement-startup-zip-announces-100-million-in-new-funding-at-a-15-billion-valuation/"
+    },
+    {
+      "round": "Series D",
+      "date": "2024-10",
+      "amount": "$190M",
+      "valuation": "$2.2B",
+      "lead": "BOND",
+      "source": "https://zip.com/blog/series-d"
+    }
+  ],
+  "total_raised": "$371M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Zip Forward 2026: sourcing/PO superagents and AI vendor-risk orchestration",
+      "url": "https://zip.com/blog/zip-forward-2026-announcements"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Opens New York City hub, plans to double local team",
+      "url": "https://investor.wedbush.com/wedbush/news/publisher/zip"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Launches AI Superagents and procurement-native MCP",
+      "url": "https://markets.financialcontent.com/stocks/news/publisher/zip"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Launches AI agents for accounting close",
+      "url": "https://markets.financialcontent.com/stocks/news/publisher/zip"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Named a Visionary in Gartner Magic Quadrant for Source-to-Pay",
+      "url": "https://ziphq.com/blog/2026-gartner-magic-quadrant-source-to-pay"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Says customers surpassed $6B in savings; $355B spend processed in 2025",
+      "url": "https://www.businesswire.com/news/home/20251202204445/en/Zip-Surpasses-$6-Billion-in-Customer-Savings-as-Agentic-Procurement-Orchestration-Transforms-Enterprise-Purchasing"
+    }
+  ],
+  "competitors": [
+    "Coupa",
+    "SAP Ariba",
+    "omnea",
+    "Tonkean",
+    "Ivalua"
+  ]
+}

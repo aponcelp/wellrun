@@ -1,0 +1,73 @@
+{
+  "slug": "picogrid",
+  "checked": "Oct 19, 2026",
+  "founded": 2020,
+  "hq": "El Segundo, CA",
+  "headcount_est": {
+    "value": "51-200 (Dealroom range)",
+    "as_of": "Oct 2026",
+    "source": "https://app.dealroom.co/companies/picogrid"
+  },
+  "leadership": [
+    {
+      "name": "Zane Mountcastle",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://picogrid.com/newsroom/picogrid-raises-usd45m-series-a-to-build-the-open-integration-layer-for-modern-defense"
+    },
+    {
+      "name": "Martin Slosarik",
+      "title": "Co-founder & Head of Growth",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://robottoday.com/suppliers-discovery/picogrid"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-03",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "Initialized Capital",
+      "source": "https://techcrunch.com/2024/03/26/picogrid-scores-new-funding-to-connect-the-militarys-stovepipe-systems/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-05",
+      "amount": "$45M",
+      "valuation": null,
+      "lead": "Bessemer Venture Partners",
+      "source": "https://www.globenewswire.com/news-release/2026/05/29/3303615/0/en/Picogrid-Raises-45M-Series-A-to-Build-the-Open-Integration-Layer-for-Modern-Defense.html"
+    }
+  ],
+  "total_raised": "~$57M equity (seed + Series A), plus ~$2.4M in grants (LinkedIn data)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Connects 20+ defense systems for XVIII Airborne Corps counter-drone exercise",
+      "url": "https://picogrid.com/newsroom/picogrid-rapidly-connects-20-defense-systems-for-army-counter-drone-operations"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raises $45M Series A led by Bessemer; cash-flow positive",
+      "url": "https://www.tectonicdefense.com/exclusive-picogrid-raises-45m-series-a"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Awarded XVIII Airborne Corps contract to integrate battlefield systems",
+      "url": "https://picogrid.com/newsroom"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Legion becomes first systems integration platform granted FedRAMP High",
+      "url": "https://picogrid.com/newsroom/legion-granted-fedramp-high-authorization"
+    }
+  ],
+  "competitors": [
+    "anduril",
+    "Palantir"
+  ]
+}

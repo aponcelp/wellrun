@@ -1,0 +1,91 @@
+{
+  "slug": "modern-health",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Alyson Watson",
+      "title": "Founder & Executive Chair",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.modernhealth.com/about-us"
+    },
+    {
+      "name": "Matt Levin",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.modernhealth.com/about-us"
+    },
+    {
+      "name": "Adam Brown",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.modernhealth.com/about-us"
+    },
+    {
+      "name": "Chen Cheng",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.modernhealth.com/about-us"
+    },
+    {
+      "name": "Alison Borland",
+      "title": "Chief People & Strategy Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.modernhealth.com/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2018-06",
+      "amount": "$2.3M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/modern_health"
+    },
+    {
+      "round": "Series A",
+      "date": "2019-05",
+      "amount": "$9M",
+      "valuation": null,
+      "lead": "Kleiner Perkins",
+      "source": "https://app.dealroom.co/companies/modern_health"
+    },
+    {
+      "round": "Series B",
+      "date": "2020-01",
+      "amount": "$31M",
+      "valuation": null,
+      "lead": "Founders Fund, John Doerr",
+      "source": "https://www.forbes.com/sites/alexandrawilson1/2020/01/15/exclusive-on-the-heels-of-cofounder-lawsuit-modern-health-raises-31-million-in-fresh-funding/"
+    },
+    {
+      "round": "Series C",
+      "date": "2020-12",
+      "amount": "$51M",
+      "valuation": "$500M-$1B",
+      "lead": "Battery Ventures",
+      "source": "https://www.modernhealth.com/press-media-news/modern-health-raises-51-million-at-valuation-north-of-half-a-billion-dollars"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-02",
+      "amount": "$74M",
+      "valuation": "$1.17B",
+      "lead": "Founders Fund",
+      "source": "https://www.globenewswire.com/news-release/2021/02/11/2174026/0/en/Modern-Health-Gains-Unicorn-Status-After-74-Million-Series-D-at-1-17-Billion-Valuation.html"
+    }
+  ],
+  "total_raised": "$172M+",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

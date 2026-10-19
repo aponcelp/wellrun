@@ -1,0 +1,79 @@
+{
+  "slug": "metaview",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "San Francisco, CA & London, UK",
+  "headcount_est": {
+    "value": "~80, plans 250 by end of 2027",
+    "as_of": "Sep 2026",
+    "source": "https://vertexholdings.com/news/recruiting-is-next-metaview-raises-us-60-million-series-c-to-put-ai-agents-at-the-centre-of-hiring/"
+  },
+  "leadership": [
+    {
+      "name": "Siadhal Magos",
+      "title": "Co-founder & CEO (ex-Uber product)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.insightpartners.com/ideas/behind-the-investment-metaview/"
+    },
+    {
+      "name": "Shahriar Tajbakhsh",
+      "title": "Co-founder & CTO (ex-Palantir)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://thenextweb.com/news/metaview-60m-series-c-insight-partners-ai-recruiting"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2024-03",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://finance.yahoo.com/news/exclusive-uber-palantir-alums-raise-094547092.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-06",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "GV",
+      "source": "https://www.metaview.ai/resources/blog/series-b"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-09",
+      "amount": "$60M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://www.metaview.ai/resources/blog/metaview-raised-an-additional-60m-to-lead-the-shift-to-agentic-recruiting"
+    }
+  ],
+  "total_raised": "$110M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raises $60M Series C led by Insight; fillmore recruiting agent goes GA",
+      "url": "https://www.metaview.ai/resources/blog/metaview-raised-an-additional-60m-to-lead-the-shift-to-agentic-recruiting"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Plans to grow from 80 to 250 staff and open a New York office",
+      "url": "https://vertexholdings.com/news/recruiting-is-next-metaview-raises-us-60-million-series-c-to-put-ai-agents-at-the-centre-of-hiring/"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Raises $35M Series B led by GV; 3,000+ customers",
+      "url": "https://www.metaview.ai/resources/blog/series-b"
+    }
+  ],
+  "competitors": [
+    "BrightHire",
+    "juicebox",
+    "paraform",
+    "Gem",
+    "ashby"
+  ]
+}

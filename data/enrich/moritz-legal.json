@@ -1,0 +1,38 @@
+{
+  "slug": "moritz-legal",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "San Francisco, CA (also Oslo, Norway)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Pamir Ehsas",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/moritz"
+    },
+    {
+      "name": "Stefan Mandaric",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/arcline"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (via MSO Parlai)",
+      "date": "2026-05",
+      "amount": "$9M",
+      "valuation": null,
+      "lead": "Y Combinator, 20VC",
+      "source": "https://www.moritzlegal.com/blog/moritz-raises-9m"
+    }
+  ],
+  "total_raised": "$9M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}
