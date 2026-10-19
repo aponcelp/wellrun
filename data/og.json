@@ -1325,6 +1325,12 @@
   "type": "image/webp",
   "checked": "2026-10-19"
  },
+ "halluminate": {
+  "url": "https://halluminate.ai/static/images/og-image.png?v=2",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-19"
+ },
  "happyrobot": {
   "url": "https://happyrobot.b-cdn.net/HappyRobot_HeroLoop_v01%20(00184)%201-1200x630.png",
   "kind": "og",

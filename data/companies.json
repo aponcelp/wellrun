@@ -33678,5 +33678,53 @@
   "hiring_locations": [
    "Remote"
   ]
+ },
+ {
+  "name": "Halluminate",
+  "slug": "halluminate",
+  "site": "https://halluminate.ai",
+  "careers_url": "https://jobs.ashbyhq.com/halluminate",
+  "what_they_do": "RL training environments and benchmarks that teach AI agents finance knowledge work",
+  "problem": "AI labs lack realistic, expert-built simulations to train agents on long, high-value banking and PE tasks",
+  "industry": "AI training data / RL environments",
+  "stage": "Series A",
+  "last_round": "$30M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Oak HC/FT",
+  "total_open_roles": "10",
+  "ops_roles": "Chief of Staff; Strategic Project Lead; People Platform Lead",
+  "hiring_trend": "LinkedIn ~48 incl. finance experts (+213% YoY); core team ~9 (Fortune)",
+  "headcount": "~9 core (~48 on LinkedIn)",
+  "latest_news": "Raised $30M Series A led by Oak HC/FT; total raised $38.5M",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://fortune.com/2026/10/01/halluminate-raises-30-million-series-a-oakhc-ft/",
+  "traction": "$0 to mid-eight-figure run rate in ~10 months, profitable; 4 of 5 top US labs",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "2",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Halluminate-Reviews-E10914978.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Fast, profitable start with four of five top US labs, but a newer, finance-focused entrant behind Mercor, Surge and Scale in lab data, with revenue concentrated in a handful of labs.",
+  "distance_sources": [
+   {
+    "label": "Oak HC/FT: Why we led Halluminate's $30M Series A (Oct 2026)",
+    "url": "https://www.oakhcft.com/blog-post/the-internet-has-run-out-of-things-to-teach-why-we-led-halluminates-30-million-series-a"
+   },
+   {
+    "label": "Halluminate: Series A announcement (Oct 2026)",
+    "url": "https://www.halluminate.ai/blog/series-a"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
  }
 ]
