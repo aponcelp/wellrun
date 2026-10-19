@@ -33630,5 +33630,53 @@
   "hiring_locations": [
    "San Francisco"
   ]
+ },
+ {
+  "name": "Vetcove",
+  "slug": "vetcove",
+  "site": "https://www.vetcove.com",
+  "careers_url": "https://jobs.ashbyhq.com/vetcove",
+  "what_they_do": "Purchasing marketplace, home-delivery pharmacy and practice software for veterinary clinics",
+  "problem": "Vet clinics waste hours comparing prices and stock across many suppliers and juggling legacy practice systems",
+  "industry": "Veterinary procurement / vertical SaaS",
+  "stage": "Series A",
+  "last_round": "$50M",
+  "last_round_date": "Dec 2021",
+  "lead_investors": "Thrive Capital",
+  "total_open_roles": "28",
+  "ops_roles": "Senior Operations Manager; Manager, Client Onboarding and Implementation; Customer Support Manager; Veterinary Project Manager",
+  "hiring_trend": "Headcount ~170 → ~343 2023 to Q1 2026 (Revelio), +7% YoY; postings 53 (2025) → 35 (2026)",
+  "headcount": "~343-366",
+  "latest_news": "NVA rolled out Vetcove's new practice management system (PIMS) at 7 Texas hospitals",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/melissaderner_veterinarymedicine-vetmed-veterinaryleadership-activity-7489666135366438912-mTOs",
+  "traction": "23,000+ vet hospitals use it; ~$27M revenue est. (GetLatka); headcount doubled since 2023",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.9",
+  "glassdoor_reviews": "34",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Vetcove-Reviews-E4456059.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Free marketplace used by 23,000+ clinics, now adding practice software; incumbents Covetrus and IDEXX loom.",
+  "distance_sources": [
+   {
+    "label": "Vetcove: 23,000+ hospitals, AVMA Direct Connect (Oct 2026)",
+    "url": "https://www.vetcove.com/home"
+   },
+   {
+    "label": "NVA rolls out Vetcove PIMS at 7 hospitals (LinkedIn, Aug 2026)",
+    "url": "https://www.linkedin.com/posts/melissaderner_veterinarymedicine-vetmed-veterinaryleadership-activity-7489666135366438912-mTOs"
+   }
+  ],
+  "hiring_locations": [
+   "Remote"
+  ]
  }
 ]

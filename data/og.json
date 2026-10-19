@@ -3233,6 +3233,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "vetcove": {
+  "url": "https://s3.amazonaws.com/vetcove-system/facebook_share2.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-19"
+ },
  "viktor": {
   "url": "https://viktor.com/assets/og/home-ai-employee.png",
   "kind": "og",
