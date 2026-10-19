@@ -1,0 +1,36 @@
+{
+  "slug": "doorloop",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "Miami, FL",
+  "headcount_est": {
+    "value": "250+ (company site)",
+    "as_of": "Oct 2026",
+    "source": "https://www.doorloop.com/about"
+  },
+  "leadership": [
+    {"name": "Ori Tamuz", "title": "Co-founder & CEO", "founder": true, "linkedin": "https://www.linkedin.com/in/oritamuz/", "source": "https://www.doorloop.com/about"},
+    {"name": "Nate Causey", "title": "COO", "founder": false, "linkedin": "https://www.linkedin.com/in/natecausey/", "source": "https://www.doorloop.com/about"},
+    {"name": "Katie Wilson", "title": "Chief Customer Officer", "founder": false, "linkedin": "https://www.linkedin.com/in/katie-louise-wilson-/", "source": "https://www.doorloop.com/about"},
+    {"name": "Aggie Asch", "title": "CMO", "founder": false, "linkedin": "https://www.linkedin.com/in/agathaasch/", "source": "https://www.prnewswire.com/news-releases/doorloop-expands-presence-announces-opening-of-new-york-office-302425596.html"},
+    {"name": "Noam Grebel", "title": "CPO", "founder": false, "linkedin": "https://www.linkedin.com/in/noamgrebel/", "source": "https://www.doorloop.com/about"},
+    {"name": "Adam Goldbruch", "title": "CFO", "founder": false, "linkedin": "https://www.linkedin.com/in/adam-goldbruch-2b074477/", "source": "https://www.doorloop.com/about"},
+    {"name": "Anat Keidar", "title": "Chief People Officer", "founder": false, "linkedin": "https://www.linkedin.com/in/anat-keidar-4158146b/", "source": "https://www.doorloop.com/about"},
+    {"name": "Kevin Dazkevich", "title": "CRO", "founder": false, "linkedin": "https://linkedin.com/in/kevin-dazkevich-37659113b", "source": "https://www.doorloop.com/about"}
+  ],
+  "funding_history": [
+    {"round": "Seed", "date": "2021-09", "amount": "$10M", "valuation": null, "lead": "Founders and private investors", "source": "https://www.doorloop.com/blog/doorloop-raises-10m"},
+    {"round": "Series A", "date": "2022-09", "amount": "$20M", "valuation": null, "lead": "Alpine Software Group (Alpine Investors)", "source": "https://refreshmiami.com/news/proptech-startup-doorloop-raises-20m-series-a-round/"},
+    {"round": "Series B", "date": "2024-10", "amount": "$100M", "valuation": "~$500M (press report, unconfirmed)", "lead": "JMI Equity", "source": "https://www.calcalistech.com/ctechnews/article/b1sszfagkl"}
+  ],
+  "total_raised": "$130M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-10", "headline": "Launches DoorLoop 2.0, a ground-up platform rebuild with built-in AI agents", "url": "https://www.prweb.com/releases/doorloop-launches-doorloop-2-0--rebuilding-property-management-software-for-what-comes-next-302903245.html"},
+    {"date": "2026-08", "headline": "Clio President & COO Ronnie Gurion joins board of directors", "url": "https://www.prweb.com/releases/doorloop-appoints-clio-president-ronnie-gurion-to-its-board-of-directors-302846786.html"},
+    {"date": "2026-02", "headline": "Launches AI Inspections for property condition reports", "url": "https://www.prnewswire.com/news-releases/doorloop-launches-ai-inspections-to-help-property-managers-work-smarter-and-faster-302682012.html"},
+    {"date": "2025-10", "headline": "Releases AI Assistant to all customers", "url": "https://www.doorloop.com/blog/ai-assistant-press-release"},
+    {"date": "2025-04", "headline": "Opens first New York office, names Aggie Asch CMO, plans 150+ hires", "url": "https://www.prnewswire.com/news-releases/doorloop-expands-presence-announces-opening-of-new-york-office-302425596.html"}
+  ],
+  "competitors": ["rentvine", "AppFolio", "Buildium (RealPage)", "TurboTenant"]
+}
