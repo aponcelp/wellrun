@@ -33726,5 +33726,58 @@
   "hiring_locations": [
    "San Francisco"
   ]
+ },
+ {
+  "name": "Sabi",
+  "slug": "sabi",
+  "site": "https://www.sabi.com",
+  "careers_url": "https://jobs.ashbyhq.com/sabi",
+  "what_they_do": "Baseball cap with hidden EEG sensors that turns imagined speech into AI commands",
+  "problem": "People still direct AI by typing or talking; implanted brain interfaces need surgery and never go mainstream",
+  "industry": "Consumer neurotech / brain-computer interface",
+  "stage": "Seed",
+  "last_round": "$50M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Khosla Ventures",
+  "total_open_roles": "9",
+  "ops_roles": "",
+  "hiring_trend": "Out of stealth Apr 2026; ~16 staff (Tracxn, Apr 2026); 9 open roles, mostly SF hardware leads",
+  "headcount": "~16-25 (est.)",
+  "latest_news": "Raised $50M seed led by Khosla at reported $600M valuation; CES 2027 demo planned",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/10/09/3378310/0/en/sabi-raises-50-million-seed-round-led-by-khosla-ventures-to-put-a-brain-ai-interface-inside-a-baseball-cap.html",
+  "traction": "Pre-product, no revenue: prototype only, early-access waitlist; 100K+ hours of labeled neural data",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Bets on a custom EEG chip plus the largest disclosed labeled neural dataset; no peer-reviewed accuracy data yet, experts are openly skeptical, and the promised end-2026 beanie slipped to a CES 2027 cap prototype.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: Sabi raises $50M seed led by Khosla Ventures (Oct 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/09/3378310/0/en/sabi-raises-50-million-seed-round-led-by-khosla-ventures-to-put-a-brain-ai-interface-inside-a-baseball-cap.html"
+   },
+   {
+    "label": "Inside BCI: $600M reported valuation, no peer-reviewed accuracy data (Oct 2026)",
+    "url": "https://insidebci.com/market/2026-10-11-sabi-50-million-seed-khosla-ventures-eeg-baseball-cap-brain-ai-interface/"
+   },
+   {
+    "label": "WIRED: This beanie is designed to read your thoughts (Apr 2026)",
+    "url": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
  }
 ]

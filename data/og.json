@@ -2669,6 +2669,12 @@
   "type": "image/webp",
   "checked": "2026-10-19"
  },
+ "sabi": {
+  "url": "https://sabi.com/website-banner.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-19"
+ },
  "salient": {
   "url": "https://www.trysalient.com/favicon.ico?favicon.0x3dzn~oxb6tn.ico?dpl=dpl_Abwfh599TMnyKSzhQo7PXp9oqXei",
   "kind": "icon",
