@@ -147,17 +147,18 @@ export function toRows(paced: Company[]): Row[] {
   }));
 }
 
-export type SortKey = "fastest" | "distance" | "hiring";
+export type SortKey = "fastest" | "distance";
+export const SORT_KEYS: SortKey[] = ["fastest", "distance"];
+/** Anything that is not a current sort (e.g. the retired "hiring") falls back to Pace. */
+export const toSortKey = (v: unknown): SortKey => (SORT_KEYS as unknown[]).includes(v) ? (v as SortKey) : "fastest";
 const tie = (a: Row, b: Row) => (b.score - a.score) || (a.distI - b.distI) || (b.rev - a.rev) || byName(a, b);
 export const SORTS: Record<SortKey, (a: Row, b: Row) => number> = {
   fastest: (a, b) => (zoneIndex(a.zone) - zoneIndex(b.zone)) || tie(a, b),
   distance: (a, b) => (a.distI - b.distI) || (zoneIndex(a.zone) - zoneIndex(b.zone)) || (b.score - a.score) || (b.rev - a.rev) || byName(a, b),
-  hiring: (a, b) => (Number(b.ops > 0) - Number(a.ops > 0)) || (zoneIndex(a.zone) - zoneIndex(b.zone)) || byName(a, b),
 };
 export const SORT_NOTE: Record<SortKey, string> = {
   fastest: "fastest first, ties a–z",
   distance: "longest distance first, then fastest",
-  hiring: "hiring ops first, then fastest",
 };
 
 // "Last checked" date: the per-company field when present, else the board-wide date the original site showed.

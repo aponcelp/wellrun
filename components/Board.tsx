@@ -1,8 +1,9 @@
 "use client";
 import Link from "next/link";
+import type React from "react";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { Company, Row } from "@/lib/types";
-import { BUCKET_ORDER, DISTS, SORTS, SORT_NOTE, STAGES, ZONES, fmtScore, hostOf, type SortKey } from "@/lib/rank";
+import { BUCKET_ORDER, DISTS, SORTS, SORT_KEYS, SORT_NOTE, STAGES, toSortKey, ZONES, fmtScore, hostOf, type SortKey } from "@/lib/rank";
 import { cap } from "@/lib/track";
 import { reportError } from "@/lib/monitoring";
 import Detail from "./Detail";
@@ -16,7 +17,7 @@ const INITIAL: State = { hiring: false, chart: "All", industry: "All", stage: "A
 // Group ids match the original site's chip containers, so filter_changed{group} stays comparable.
 const GROUP_ID: Record<FilterKey, string> = { chart: "charts", industry: "industries", stage: "stages", zone: "zones", dist: "dists" };
 const ZONE_LABEL: Record<string, string> = Object.fromEntries(ZONES.map((z) => [z.key, z.name]));
-const SORT_LABEL: Record<SortKey, string> = { fastest: "Pace", distance: "Distance", hiring: "Hiring" };
+const SORT_LABEL: Record<SortKey, string> = { fastest: "Pace", distance: "Distance" };
 
 type Detail = Company | "loading" | "error";
 
@@ -71,7 +72,7 @@ export default function Board({ rows }: { rows: Row[] }) {
     if (from === "column") cap("sort_changed", { group: "column", value: v });
     // The original column buttons forwarded a click to the matching sort chip, which logged it again.
     cap("sort_changed", { group: "sorts", value: v });
-    update({ sort: v });
+    update({ sort: toSortKey(v) });
   };
   const toggleHiring = () => {
     const next = !s.hiring;
@@ -107,6 +108,12 @@ export default function Board({ rows }: { rows: Row[] }) {
         setDetails((d) => ({ ...d, [slug]: "error" }));
       });
   }, []);
+
+  /** Logo/name links: let the browser follow the link (no preventDefault), just keep the row from toggling. */
+  const siteClick = (r: Row) => (e: React.MouseEvent<HTMLAnchorElement>) => {
+    e.stopPropagation();
+    cap("company_site_clicked", { company: r.name });
+  };
 
   const toggle = (r: Row) => {
     const now = !open.has(r.slug);
@@ -157,7 +164,7 @@ export default function Board({ rows }: { rows: Row[] }) {
   );
 
   const sortButtons = (from: "sorts" | "column", cls: string) =>
-    (["fastest", "distance", "hiring"] as SortKey[]).map((k) => (
+    SORT_KEYS.map((k) => (
       <button
         key={k}
         type="button"
@@ -296,6 +303,7 @@ export default function Board({ rows }: { rows: Row[] }) {
         <span>Pos</span>
         <span>Company</span>
         {sortButtons("column", "cols__b")}
+        <span className="cols__h">Hiring</span>
         <span className="sr-only">Details</span>
       </div>
 
@@ -316,18 +324,24 @@ export default function Board({ rows }: { rows: Row[] }) {
               style={i < 30 ? { animationDelay: `${Math.min(i, 12) * 18}ms` } : undefined}
             >
               <div className="row__bar">
-                <button
-                  type="button"
+                {/* A div with button semantics (not a <button>) so the logo and name can be real links:
+                    anchors nested in a <button> are invalid and iOS Safari routes the tap to the button. */}
+                <div
+                  role="button"
+                  tabIndex={0}
                   className="row__main"
                   aria-expanded={isOpen}
                   aria-controls={pid}
                   onClick={(e) => {
-                    if ((e.target as HTMLElement).closest(".logo") && r.site) {
-                      cap("company_site_clicked", { company: r.name });
-                      window.open(r.site, "_blank", "noopener");
-                      return;
-                    }
+                    if ((e.target as HTMLElement).closest("a")) return;
                     toggle(r);
+                  }}
+                  onKeyDown={(e) => {
+                    if (e.target !== e.currentTarget) return;
+                    if (e.key === "Enter" || e.key === " ") {
+                      e.preventDefault();
+                      toggle(r);
+                    }
                   }}
                 >
                   <span className="row__pos">
@@ -337,9 +351,22 @@ export default function Board({ rows }: { rows: Row[] }) {
                     {r.ops > 0 && <span className="sr-only">, hiring ops</span>}
                   </span>
                   <span className="row__who">
-                    <Logo name={r.name} host={r.host} />
+                    {r.site ? (
+                      <a className="row__site row__site--logo" href={r.site} target="_blank" rel="noopener noreferrer" tabIndex={-1} aria-hidden="true" onClick={siteClick(r)}>
+                        <Logo name={r.name} host={r.host} />
+                      </a>
+                    ) : (
+                      <Logo name={r.name} host={r.host} />
+                    )}
                     <span className="row__txt">
-                      <span className="row__name">{r.name}</span>
+                      {r.site ? (
+                        <a className="row__name row__site" href={r.site} target="_blank" rel="noopener noreferrer" onClick={siteClick(r)}>
+                          {r.name}
+                          <span className="sr-only"> (website, opens in a new tab)</span>
+                        </a>
+                      ) : (
+                        <span className="row__name">{r.name}</span>
+                      )}
                       <span className="row__what">{r.what}</span>
                       <span className="row__meta">
                         <DistMark distance={r.distance} compact />
@@ -377,7 +404,7 @@ export default function Board({ rows }: { rows: Row[] }) {
                     <span className="row__more-t">{isOpen ? "Close" : "Details"}</span>
                     <i className="row__chev" />
                   </span>
-                </button>
+                </div>
               </div>
               <div className="sheet" id={pid} hidden={!isOpen}>
                 {isOpen && (
