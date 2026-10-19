@@ -1,0 +1,36 @@
+{
+  "slug": "sona",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "London, UK (US office in New York)",
+  "headcount_est": {
+    "value": "~244 (Tracxn); ~250 on LinkedIn",
+    "as_of": "Aug 2026",
+    "source": "https://tracxn.com/d/companies/sona/__xj4Oq7TqIaOw-BXYMTpdNdft_GdVdXFIsnmTGTLKlpM"
+  },
+  "leadership": [
+    {"name": "Steffen Wulff Petersen", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://www.sona.ai/blog/sona-raises-45m-series-b-to-bring-ai-to-the-frontline-economy"},
+    {"name": "Ben Dixon", "title": "Co-founder & CTO", "founder": true, "linkedin": null, "source": "https://www.sona.ai/blog/sona-raises-45m-series-b-to-bring-ai-to-the-frontline-economy"},
+    {"name": "Oli Johnson", "title": "Co-founder & CFO", "founder": true, "linkedin": null, "source": "https://www.sona.ai/blog/sona-raises-45m-series-b-to-bring-ai-to-the-frontline-economy"},
+    {"name": "Anne Crawford", "title": "Chief Operating Officer", "founder": false, "linkedin": "https://linkedin.com/in/annecrawford03", "source": "https://retailtechinnovationhub.com/home/2024/7/15/secret-glue-workforce-management-solution-specialist-sona-appoints-anne-crawford-as-chief-operating-officer"}
+  ],
+  "funding_history": [
+    {"round": "Seed", "date": "2022-03", "amount": "~$7M", "valuation": null, "lead": "Gradient Ventures", "source": "https://techcrunch.com/2024/05/14/sona-a-frontline-workforce-management-platform-raises-27-5m-with-eyes-on-us-expansion/"},
+    {"round": "Series A", "date": "2024-05", "amount": "$27.5M", "valuation": null, "lead": "Felicis", "source": "https://techcrunch.com/2024/05/14/sona-a-frontline-workforce-management-platform-raises-27-5m-with-eyes-on-us-expansion/"},
+    {"round": "Series B", "date": "2026-04", "amount": "$45M", "valuation": null, "lead": "N47", "source": "https://www.prnewswire.com/news-releases/sona-raises-45m-series-b-to-bring-ai-to-the-frontline-economy-302730478.html"}
+  ],
+  "total_raised": "$100M+ (company-stated, incl. non-equity)",
+  "revenue_est": {
+    "value": "$20M ARR",
+    "as_of": "2026 (page undated; written after the Apr 2026 Series B)",
+    "basis": "press report",
+    "source": "https://www.antler.co/portfolio/founder-stories/sona"
+  },
+  "news_timeline": [
+    {"date": "2026-10", "headline": "Hires Becky Speight as director of health and social care", "url": "https://www.laingbuissonnews.com/care-markets-content/inpost/sona-appoints-becky-speight-as-director-of-health-and-social-care"},
+    {"date": "2026-09", "headline": "Jollyes Pets rolls out Sona across 125+ UK stores and 1,000+ staff", "url": "https://retailtechinnovationhub.com/home/2026/9/9/big-step-for-sona-as-jollyes-pets-taps-uk-companys-ai-powered-workforce-management-solution"},
+    {"date": "2026-05", "headline": "Goes live in the US with Tao Group Hospitality", "url": "https://www.linkedin.com/posts/getsona_were-officially-live-in-the-us-tao-activity-7460996522009333760-l8rx"},
+    {"date": "2026-04", "headline": "Raises $45M Series B led by N47; launches Forge enterprise app builder", "url": "https://www.sona.ai/blog/sona-raises-45m-series-b-to-bring-ai-to-the-frontline-economy"}
+  ],
+  "competitors": ["UKG", "Fourth", "Deputy", "Quinyx", "Legion"]
+}

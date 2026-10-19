@@ -2789,6 +2789,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "sona": {
+  "url": "https://www.sona.ai/hubfs/sona-thumbnail.webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-10-19"
+ },
  "speechify": {
   "url": "https://website.cdn.speechify.com/speechify-og-image.jpg?quality=95",
   "kind": "og",

@@ -32926,5 +32926,65 @@
    "Tel Aviv",
    "Remote"
   ]
+ },
+ {
+  "name": "Sona",
+  "slug": "sona",
+  "site": "https://www.sona.ai",
+  "careers_url": "https://jobs.ashbyhq.com/sona",
+  "what_they_do": "AI workforce management: forecasting, scheduling, HR and payroll for frontline businesses",
+  "problem": "Multi-site restaurants, retailers and care providers overspend on labour and drown in rota, HR and payroll admin",
+  "industry": "Workforce management / HR & payroll",
+  "stage": "Series B",
+  "last_round": "$45M",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "N47, Felicis, Northzone",
+  "total_open_roles": "13",
+  "ops_roles": "Director of Support and Services; Payroll Implementation Manager; Project Manager; Solutions Engineer",
+  "hiring_trend": "Headcount ~187 (Mar 2026) → ~244 (Aug 2026) per Tracxn; ~250 on LinkedIn (+55% YoY); Revelio shows flat YoY to Mar 2026",
+  "headcount": "~245",
+  "latest_news": "Jollyes Pets rolls out Sona across 125+ UK stores; US go-live with Tao Group in May",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://retailtechinnovationhub.com/home/2026/9/9/big-step-for-sona-as-jollyes-pets-taps-uk-companys-ai-powered-workforce-management-solution",
+  "traction": "$20M ARR, 100+ enterprise customers (Popeyes, Tao Group, Hawksmoor); 400%+ revenue growth in 2023",
+  "red_flags": "Minor, not scored: several 2026 Glassdoor reviews say culture slipped after the Series B (flat pay rises, cancelled meetups, heavy AI-output pressure); no layoffs, lawsuits or down round found",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor: 'It has gone incredibly downhill in the past year' (Sep 2026)",
+    "url": "https://www.glassdoor.co.uk/Reviews/Employee-Review-Sona-UK-E5901353-RVW105577690.htm"
+   },
+   {
+    "label": "Glassdoor: Sona (UK) reviews, 4.3 from 35",
+    "url": "https://www.glassdoor.co.uk/Reviews/Sona-UK-Reviews-E5901353.htm"
+   }
+  ],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.3",
+  "glassdoor_reviews": "35",
+  "glassdoor_url": "https://www.glassdoor.co.uk/Reviews/Sona-UK-Reviews-E5901353.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in + Data",
+  "distance": "Half",
+  "distance_why": "Payroll and HR system of record is hard to rip out; UKG, Fourth and Deputy are entrenched rivals.",
+  "distance_sources": [
+   {
+    "label": "Sona: Popeyes cut labor cost 3.8% across 120+ locations",
+    "url": "https://www.sona.ai/us/product"
+   },
+   {
+    "label": "Antler: Sona at $20M ARR, 100+ enterprise customers",
+    "url": "https://www.antler.co/portfolio/founder-stories/sona"
+   }
+  ],
+  "hiring_locations": [
+   "London",
+   "New York",
+   "San Francisco",
+   "Remote (UK)"
+  ]
  }
 ]
