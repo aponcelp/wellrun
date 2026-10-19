@@ -33829,5 +33829,55 @@
    "Washington, DC",
    "Remote (Mexico)"
   ]
+ },
+ {
+  "name": "Proximal",
+  "slug": "proximal",
+  "site": "https://www.proximal.ai",
+  "careers_url": "https://www.proximal.ai/careers/",
+  "what_they_do": "Post-training data and RL environments that make frontier labs' coding agents better",
+  "problem": "AI labs run out of hard, verifiable training tasks to find and fix their coding agents' weaknesses",
+  "industry": "AI training data / RL environments",
+  "stage": "Seed",
+  "last_round": "$15M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "General Catalyst",
+  "total_open_roles": "5",
+  "ops_roles": "",
+  "hiring_trend": "~40 staff on LinkedIn (+2.6%/mo); Bangalore team 0 to 15 by Mar 2026",
+  "headcount": "~40",
+  "latest_news": "Out of stealth with $15M General Catalyst seed at $300M valuation, $200M annualized revenue",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://dealroom.co/news/157682-proximal-exits-stealth-with-15m-seed-as-revenue-tops-200m/",
+  "traction": "$200M annualized revenue in ~10 months (company-stated, quarter-to-date x4); says profitable",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Reported $200M run rate with ~40 people and software-like margins, but the figure is company-stated (quarter-to-date x4), revenue sits with a handful of frontier labs, and Scale, Surge, Mercor and newer RL-environment shops compete for the same budgets.",
+  "distance_sources": [
+   {
+    "label": "Proximal: New Frontiers, seed and revenue announcement (Sep 2026)",
+    "url": "https://www.proximal.ai/blog/new-frontiers/"
+   },
+   {
+    "label": "Dealroom: Proximal exits stealth with $15M seed as revenue tops $200M (Sep 2026)",
+    "url": "https://dealroom.co/news/157682-proximal-exits-stealth-with-15m-seed-as-revenue-tops-200m/"
+   },
+   {
+    "label": "Wilson Sonsini: advises Proximal on $15M seed (Sep 2026)",
+    "url": "https://www.wsgr.com/en/insights/wilson-sonsini-advises-proximal-on-dollar15-million-seed-round-as-it-emerges-from-stealth.html"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

@@ -2429,6 +2429,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "proximal": {
+  "url": "https://www.proximal.ai/preview/",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-19"
+ },
  "pylon": {
   "url": "https://cdn.prod.website-files.com/6a2c6d7ab6674379553c0824/6ac6a7c25f73a94a812c0d67_pylon%20open%20graph%20image.png",
   "kind": "og",
