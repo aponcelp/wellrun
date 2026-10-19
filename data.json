@@ -32482,5 +32482,103 @@
   "hiring_locations": [
    "New York"
   ]
+ },
+ {
+  "name": "Finch",
+  "slug": "finch",
+  "site": "https://www.tryfinch.com",
+  "careers_url": "https://jobs.lever.co/finch",
+  "what_they_do": "One API to read and write payroll, HR and benefits data across 275 systems",
+  "problem": "Benefits, 401(k) and HR apps can't get or update employer payroll data without costly one-off integrations or file feeds",
+  "industry": "Employment data infrastructure / HR & payroll API",
+  "stage": "Series B",
+  "last_round": "$3.5M",
+  "last_round_date": "Jun 2023",
+  "lead_investors": "Intuit Ventures (Series B extension); $40M Series B (Feb 2023) co-led by General Catalyst, Menlo Ventures",
+  "total_open_roles": "12",
+  "ops_roles": "Developer Success Engineer; Senior Developer Success Engineer",
+  "hiring_trend": "Headcount est. ~110 (Dec 2023) → ~123 (Dec 2024) → ~140-160 in 2026 (Getlatka/PitchBook/Tracxn); 12 open roles",
+  "headcount": "~140-160",
+  "latest_news": "Launched Finch Benefits API (early access) for carriers, TPAs and benefits platforms",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.tryfinch.com/blog/introducing-finch-benefits-api",
+  "traction": "120K employers connected; connections more than doubled in 2025; ~$24M revenue est. (2024)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "24",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Finch-CA-Reviews-E5736237.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A leading specialist in payroll/HR connectivity (275 providers, 120K employers, Fortune 100 customers) whose write-back integrations are hard to rip out; still shares the unified-API market with Merge and depends on payroll providers keeping their systems open.",
+  "distance_sources": [
+   {
+    "label": "Finch: 2025 recap, 120K employers and 275 providers (Feb 2026)",
+    "url": "https://tryfinch.com/blog/finchs-2025-recap-connecting-the-employment-ecosystem-at-scale"
+   },
+   {
+    "label": "Business Wire via Yahoo Finance: Finch launches Benefits API (Sep 2026)",
+    "url": "https://finance.yahoo.com/technology/articles/finch-launches-benefits-api-unifying-150000149.html"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York"
+  ]
+ },
+ {
+  "name": "Cloaked",
+  "slug": "cloaked",
+  "site": "https://www.cloaked.com",
+  "careers_url": "https://jobs.ashbyhq.com/cloaked",
+  "what_they_do": "Consumer privacy app: masked emails/phones, data-broker removal, AI scam-call screening, ID insurance",
+  "problem": "People's personal data is sold by brokers and leaked in breaches, fueling spam, scams and identity theft",
+  "industry": "Consumer privacy / identity protection",
+  "stage": "Series B",
+  "last_round": "$375M",
+  "last_round_date": "Mar 2026",
+  "lead_investors": "General Catalyst, Liberty City Ventures",
+  "total_open_roles": "14",
+  "ops_roles": "Technical Chief of Staff; Executive Client Services & Founding Operations Lead; Support Engineer",
+  "hiring_trend": "Headcount ~51 (2024) → ~70 (Mar 2026) → ~120 on LinkedIn (Oct 2026), est.",
+  "headcount": "~120",
+  "latest_news": "Raised $375M Series B plus growth financing; expanding into enterprise employee protection",
+  "latest_news_date": "Mar 2026",
+  "latest_news_url": "https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/",
+  "traction": "350,000+ paying customers; 10x growth in 2025 (company); ~$38M revenue est. (Tracxn)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "16",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Cloaked-EI_IE7798010.11,18.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 18, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast-growing bundle with sticky masked identities, but a follower to Aura and others in a crowded consumer privacy market, and Apple/Google ship email masking and call screening free on the phone.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Cloaked raises $375M, 350K paying customers, competes with 1Password, Guardio, Proton (Mar 2026)",
+    "url": "https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/"
+   },
+   {
+    "label": "Business Wire: Cloaked raises $375M led by General Catalyst and Liberty City Ventures (Mar 2026)",
+    "url": "https://www.businesswire.com/news/home/20260319361833/en/Cloaked-Raises-$375-Million-to-Fight-for-Privacy-in-the-Age-of-AI"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote (US)"
+  ]
  }
 ]
