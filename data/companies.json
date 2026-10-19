@@ -33488,5 +33488,53 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Every",
+  "slug": "every-io",
+  "site": "https://www.every.io",
+  "careers_url": "https://jobs.ashbyhq.com/every-io",
+  "what_they_do": "All-in-one back office for startups: incorporation, banking, payroll, benefits, bookkeeping, taxes",
+  "problem": "Founders juggle separate vendors for banking, payroll, HR, books and taxes and risk costly compliance mistakes",
+  "industry": "Fintech / startup back office (banking, payroll & HR)",
+  "stage": "Series A",
+  "last_round": "$22.5M",
+  "last_round_date": "Sep 2024",
+  "lead_investors": "Redpoint Ventures (Series A); Base10 Partners (seed)",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~99 Mar 2026 (Revelio, +22% YoY; company page says 61+); only 2 open roles (sales)",
+  "headcount": "~60-100",
+  "latest_news": "Launched Every Benefits, an HRA-paired health plan model to cut startup benefits costs",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://americanentrepreneurship.com/everys-new-health-benefits-model-helps-startups-lower-employer-costs/",
+  "traction": "$6.4M revenue in 2024 (company-stated, 2x YoY); 3,000+ active customers claimed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Bundling banking, payroll, benefits and books creates real switching costs for its tiny-startup customers, but it is a small follower against Rippling, Gusto, Mercury and Brex in a crowded category, and its banking runs on a partner bank (Thread Bank).",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Every raises $22.5M Series A; crowded field of Gusto, Rippling, Deel, Mercury, Brex (Sep 2024)",
+    "url": "https://techcrunch.com/2024/09/12/why-y-combinator-companies-are-flocking-to-new-banking-hr-startup-every/"
+   },
+   {
+    "label": "Every: About page (revenue, customers, team)",
+    "url": "https://www.every.io/about"
+   }
+  ],
+  "hiring_locations": [
+   "Remote"
+  ]
  }
 ]
