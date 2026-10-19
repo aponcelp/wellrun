@@ -1,6 +1,6 @@
 {
   "slug": "town",
-  "checked": "Oct 19, 2026",
+  "checked": "2026-10-19",
   "depth": "light",
   "founded": 2024,
   "hq": "San Francisco, CA",
@@ -37,9 +37,17 @@
       "valuation": null,
       "lead": "Andreessen Horowitz",
       "source": "https://www.globenewswire.com/news-release/2026/06/03/3306172/0/en/Town-Raises-55M-Series-A-From-a16z-and-Forerunner-to-Build-the-AI-Assistant-That-Learns-How-You-Work.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-10",
+      "amount": "$108M",
+      "valuation": "$1B",
+      "lead": "Forerunner Ventures, Menlo Ventures",
+      "source": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/"
     }
   ],
-  "total_raised": "$73M (per a16z)",
+  "total_raised": "~$160M",
   "revenue_est": null,
   "news_timeline": [],
   "competitors": []
