@@ -33879,5 +33879,55 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Slash",
+  "slug": "slash",
+  "site": "https://www.slash.com",
+  "careers_url": "https://jobs.ashbyhq.com/slash-financial",
+  "what_they_do": "Business banking, corporate cards, stablecoin payments and treasury in one platform",
+  "problem": "Fast-moving and global businesses get rigid, one-size-fits-all banks that freeze accounts and lack tools for their workflows",
+  "industry": "Business banking / spend management (fintech)",
+  "stage": "Series C",
+  "last_round": "$100M",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "Ribbit Capital (lead); Khosla Ventures, Goodwater Capital (co-leads)",
+  "total_open_roles": "16",
+  "ops_roles": "Head of Servicing; Tax & Compliance Ops; Customer Success Agent",
+  "hiring_trend": "Headcount 38 → 67 (Revelio, Mar 2026); ~95 on LinkedIn (+126% YoY)",
+  "headcount": "~70-95",
+  "latest_news": "Launched Slash Payment Processing for card and invoice payments",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.slash.com/blog/now-live-slash-payment-processing",
+  "traction": "$10M to $250M+ annualized revenue in 24 months; 5,000+ businesses, ~70 staff",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "7",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Slash-Reviews-E7809426.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Banking plus cards, treasury and stablecoins is sticky, but Ramp and Mercury are much bigger, and it depends on one sponsor bank.",
+  "distance_sources": [
+   {
+    "label": "Slash: $100M Series C at $1.4B (Apr 2026)",
+    "url": "https://www.slash.com/blog/series-c"
+   },
+   {
+    "label": "Sacra: Slash revenue, competition and risks",
+    "url": "https://sacra.com/c/slash/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote"
+  ]
  }
 ]

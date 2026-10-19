@@ -2837,6 +2837,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "slash": {
+  "url": "https://www.slash.com/images/social-previews/index.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-19"
+ },
  "slice": {
   "url": "https://cdn.prod.website-files.com/6597df88eb07a4bb88df9119/6ad42e01d131b1b7d7a6031a_image%20(1).png",
   "kind": "og",

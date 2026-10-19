@@ -1,0 +1,107 @@
+{
+ "slug": "slash",
+ "checked": "Oct 19, 2026",
+ "founded": 2021,
+ "hq": "San Francisco, CA",
+ "headcount_est": {
+  "value": "~70",
+  "as_of": "Apr 2026",
+  "source": "https://www.prismnews.com/news/slash-financial-hits-300-million-annualized-revenue-raises"
+ },
+ "leadership": [
+  {
+   "name": "Victor Cardenas",
+   "title": "Co-founder & CEO",
+   "founder": true,
+   "linkedin": null,
+   "source": "https://www.slash.com/blog/series-c"
+  },
+  {
+   "name": "Kevin Bai",
+   "title": "Co-founder & CTO",
+   "founder": true,
+   "linkedin": null,
+   "source": "https://www.slash.com/engineering/blog/winning-and-culture"
+  },
+  {
+   "name": "Mohit Gourisaria",
+   "title": "General Counsel & Chief Compliance Officer",
+   "founder": false,
+   "linkedin": null,
+   "source": "https://www.slash.com/blog/category/company-updates"
+  },
+  {
+   "name": "Brenden Truong",
+   "title": "Head of Customer Success",
+   "founder": false,
+   "linkedin": null,
+   "source": "https://www.slash.com/blog/series-c"
+  }
+ ],
+ "funding_history": [
+  {
+   "round": "Seed + Series A",
+   "date": "2023-05",
+   "amount": "$19M",
+   "valuation": null,
+   "lead": "NEA",
+   "source": "https://www.slash.com/blog/announcing-slashs-dollar19m-seed-and-series-a"
+  },
+  {
+   "round": "Series B",
+   "date": "2025-05",
+   "amount": "$41.6M",
+   "valuation": "$370M",
+   "lead": "Goodwater Capital",
+   "source": "https://www.slash.com/blog/slash-raises-series-b"
+  },
+  {
+   "round": "Series C",
+   "date": "2026-04",
+   "amount": "$100M",
+   "valuation": "$1.4B",
+   "lead": "Ribbit Capital (co-leads Khosla Ventures, Goodwater Capital)",
+   "source": "https://www.slash.com/blog/series-c"
+  }
+ ],
+ "total_raised": "$160M+",
+ "revenue_est": {
+  "value": "$250M+ annualized revenue",
+  "as_of": "Apr 2026",
+  "basis": "company-stated",
+  "source": "https://www.slash.com/blog/series-c-fundraise-release"
+ },
+ "news_timeline": [
+  {
+   "date": "2026-09",
+   "headline": "Launches Slash Payment Processing",
+   "url": "https://www.slash.com/blog/now-live-slash-payment-processing"
+  },
+  {
+   "date": "2026-04",
+   "headline": "Raises $100M Series C at $1.4B led by Ribbit; launches AI agent Twin",
+   "url": "https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/"
+  },
+  {
+   "date": "2025-11",
+   "headline": "Crosses $150M annualized revenue with ~45 people",
+   "url": "https://www.slash.com/engineering/blog/winning-and-culture"
+  },
+  {
+   "date": "2025-08",
+   "headline": "Launches Global USD accounts for non-US businesses, with stablecoin rails",
+   "url": "https://neobanque.ch/blog/introducing-slash-global-usd-banking-without-llc/"
+  },
+  {
+   "date": "2025-05",
+   "headline": "Raises $41.6M Series B led by Goodwater at $370M valuation",
+   "url": "https://www.slash.com/blog/slash-raises-series-b"
+  }
+ ],
+ "competitors": [
+  "ramp",
+  "mercury",
+  "brex",
+  "meow"
+ ]
+}
