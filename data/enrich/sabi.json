@@ -1,0 +1,69 @@
+{
+ "slug": "sabi",
+ "checked": "Oct 19, 2026",
+ "founded": 2024,
+ "hq": "Palo Alto / San Francisco, CA",
+ "headcount_est": {
+  "value": "~16",
+  "as_of": "Apr 2026",
+  "source": "https://tracxn.com/d/companies/sabi/__HqkSDcLM2QDkYRB4fK693pmohWMAMUCIMURr7CNnDmI"
+ },
+ "leadership": [
+  {
+   "name": "Rahul Chhabra",
+   "title": "Co-founder & CEO",
+   "founder": true,
+   "linkedin": "https://www.linkedin.com/in/rahulchhabra07",
+   "source": "https://www.globenewswire.com/news-release/2026/10/09/3378310/0/en/sabi-raises-50-million-seed-round-led-by-khosla-ventures-to-put-a-brain-ai-interface-inside-a-baseball-cap.html"
+  },
+  {
+   "name": "Atmadeep Banerjee",
+   "title": "Co-founder & CTO",
+   "founder": true,
+   "linkedin": null,
+   "source": "https://www.globenewswire.com/news-release/2026/10/09/3378310/0/en/sabi-raises-50-million-seed-round-led-by-khosla-ventures-to-put-a-brain-ai-interface-inside-a-baseball-cap.html"
+  },
+  {
+   "name": "Ryan Field",
+   "title": "Joined Sabi Sep 2026 (ex-Kernel CEO/CTO; title not stated)",
+   "founder": false,
+   "linkedin": null,
+   "source": "https://x.com/rohanpaul_ai/status/2099524312881586508"
+  }
+ ],
+ "funding_history": [
+  {
+   "round": "Seed",
+   "date": "2026-10",
+   "amount": "$50M",
+   "valuation": "~$600M post (reported by Forbes; unconfirmed by Sabi)",
+   "lead": "Khosla Ventures",
+   "source": "https://www.globenewswire.com/news-release/2026/10/09/3378310/0/en/sabi-raises-50-million-seed-round-led-by-khosla-ventures-to-put-a-brain-ai-interface-inside-a-baseball-cap.html"
+  }
+ ],
+ "total_raised": "$50M (earlier undisclosed Khosla-led check, Apr 2026, may be separate)",
+ "revenue_est": null,
+ "news_timeline": [
+  {
+   "date": "2026-10",
+   "headline": "Raised $50M seed led by Khosla; reported $600M valuation; CES 2027 cap demo planned",
+   "url": "https://www.globenewswire.com/news-release/2026/10/09/3378310/0/en/sabi-raises-50-million-seed-round-led-by-khosla-ventures-to-put-a-brain-ai-interface-inside-a-baseball-cap.html"
+  },
+  {
+   "date": "2026-09",
+   "headline": "Former Kernel CEO Ryan Field joins Sabi",
+   "url": "https://x.com/rohanpaul_ai/status/2099524312881586508"
+  },
+  {
+   "date": "2026-04",
+   "headline": "Emerged from stealth with thought-to-text EEG beanie, Khosla backing",
+   "url": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/"
+  }
+ ],
+ "competitors": [
+  "Neuralink",
+  "Synchron",
+  "Kernel",
+  "Neurable"
+ ]
+}

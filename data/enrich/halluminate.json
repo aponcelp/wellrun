@@ -1,0 +1,75 @@
+{
+ "slug": "halluminate",
+ "checked": "Oct 19, 2026",
+ "founded": 2024,
+ "hq": "San Francisco, CA",
+ "headcount_est": {
+  "value": "~9 core staff",
+  "as_of": "Oct 2026",
+  "source": "https://fortune.com/2026/10/01/halluminate-raises-30-million-series-a-oakhc-ft/"
+ },
+ "leadership": [
+  {
+   "name": "Jerry Wu",
+   "title": "Co-founder & CEO",
+   "founder": true,
+   "linkedin": null,
+   "source": "https://halluminate.ai"
+  },
+  {
+   "name": "Wyatt Marshall",
+   "title": "Co-founder & CTO",
+   "founder": true,
+   "linkedin": null,
+   "source": "https://halluminate.ai"
+  }
+ ],
+ "funding_history": [
+  {
+   "round": "Seed (YC S25)",
+   "date": "2025-08",
+   "amount": "$125K",
+   "valuation": null,
+   "lead": "Y Combinator",
+   "source": "https://app.dealroom.co/companies/halluminate"
+  },
+  {
+   "round": "Series A",
+   "date": "2026-10",
+   "amount": "$30M",
+   "valuation": null,
+   "lead": "Oak HC/FT",
+   "source": "https://www.oakhcft.com/blog-post/the-internet-has-run-out-of-things-to-teach-why-we-led-halluminates-30-million-series-a"
+  }
+ ],
+ "total_raised": "$38.5M",
+ "revenue_est": {
+  "value": "Mid-eight-figure run rate (contracted), profitable",
+  "as_of": "Oct 2026",
+  "basis": "company-stated",
+  "source": "https://www.halluminate.ai/blog/series-a"
+ },
+ "news_timeline": [
+  {
+   "date": "2026-10",
+   "headline": "Raises $30M Series A led by Oak HC/FT; total $38.5M",
+   "url": "https://fortune.com/2026/10/01/halluminate-raises-30-million-series-a-oakhc-ft/"
+  },
+  {
+   "date": "2026-08",
+   "headline": "Releases Westworld Finance Diligence Bench (88 PE due-diligence tasks)",
+   "url": "https://www.halluminate.ai/"
+  },
+  {
+   "date": "2025-08",
+   "headline": "Launch HN (YC S25): Westworld simulated internet for computer-use agents",
+   "url": "https://news.ycombinator.com/item?id=44865290"
+  }
+ ],
+ "competitors": [
+  "mercor",
+  "surge-ai",
+  "scale-ai",
+  "afterquery"
+ ]
+}

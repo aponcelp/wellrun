@@ -1,0 +1,80 @@
+{
+ "slug": "proximal",
+ "checked": "Oct 19, 2026",
+ "founded": 2025,
+ "hq": "San Francisco, CA",
+ "headcount_est": {
+  "value": "~40",
+  "as_of": "Sep 2026",
+  "source": "https://dealroom.co/news/157682-proximal-exits-stealth-with-15m-seed-as-revenue-tops-200m/"
+ },
+ "leadership": [
+  {
+   "name": "Calvin Chen",
+   "title": "Co-founder & CEO",
+   "founder": true,
+   "linkedin": "https://linkedin.com/in/calvinjaychen",
+   "source": "https://dealroom.co/news/157682-proximal-exits-stealth-with-15m-seed-as-revenue-tops-200m/"
+  },
+  {
+   "name": "Justus Mattern",
+   "title": "Co-founder",
+   "founder": true,
+   "linkedin": "https://linkedin.com/in/justus-mattern-a04230184",
+   "source": "https://dealroom.co/news/157682-proximal-exits-stealth-with-15m-seed-as-revenue-tops-200m/"
+  },
+  {
+   "name": "Navid Pour",
+   "title": "Co-founder",
+   "founder": true,
+   "linkedin": null,
+   "source": "https://startupfortune.com/proximal-reveals-200-million-revenue-run-rate-and-15-million-seed-round"
+  }
+ ],
+ "funding_history": [
+  {
+   "round": "Seed",
+   "date": "2025-12",
+   "amount": "$15M",
+   "valuation": "$300M",
+   "lead": "General Catalyst",
+   "source": "https://dealroom.co/news/157682-proximal-exits-stealth-with-15m-seed-as-revenue-tops-200m/"
+  }
+ ],
+ "total_raised": "$15M",
+ "revenue_est": {
+  "value": "$200M+ annualized revenue (quarter-to-date x4)",
+  "as_of": "Sep 2026",
+  "basis": "company-stated",
+  "source": "https://www.proximal.ai/blog/new-frontiers/"
+ },
+ "news_timeline": [
+  {
+   "date": "2026-10",
+   "headline": "Publishes post-training infrastructure write-up on its stack",
+   "url": "https://theconsensus.dev/company/proximal.html"
+  },
+  {
+   "date": "2026-09",
+   "headline": "Exits stealth: $15M seed led by General Catalyst at $300M, $200M run rate",
+   "url": "https://dealroom.co/news/157682-proximal-exits-stealth-with-15m-seed-as-revenue-tops-200m/"
+  },
+  {
+   "date": "2026-09",
+   "headline": "Wilson Sonsini advises Proximal on $15M seed",
+   "url": "https://www.wsgr.com/en/insights/wilson-sonsini-advises-proximal-on-dollar15-million-seed-round-as-it-emerges-from-stealth.html"
+  },
+  {
+   "date": "2026-03",
+   "headline": "Bangalore research and engineering team reaches 15 people",
+   "url": "https://www.linkedin.com/posts/justus-mattern-a04230184_proximal-is-hiring-in-bangalore-since-opening-activity-7444564187038773248-Jy-N"
+  }
+ ],
+ "competitors": [
+  "Scale AI",
+  "Surge AI",
+  "Mercor",
+  "halluminate",
+  "Micro1"
+ ]
+}
