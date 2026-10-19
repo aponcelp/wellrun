@@ -6,13 +6,15 @@ const nextConfig: NextConfig = {
   poweredByHeader: false,
 };
 
-// Error capture only: no source-map upload (no SENTRY_AUTH_TOKEN yet) and no build telemetry,
-// so the build never needs network access to Sentry.
+// Source maps upload to Sentry only when SENTRY_AUTH_TOKEN is set (Vercel, via the Sentry integration).
+// Local/sandbox builds without the token skip the upload and never need network access to Sentry.
+const hasToken = !!process.env.SENTRY_AUTH_TOKEN;
 export default withSentryConfig(nextConfig, {
   org: "alfredo-ponce-de-leon",
   project: "wellrun",
   silent: true,
   telemetry: false,
-  sourcemaps: { disable: true },
-  widenClientFileUpload: false,
+  authToken: process.env.SENTRY_AUTH_TOKEN,
+  sourcemaps: { disable: !hasToken, deleteSourcemapsAfterUpload: true },
+  widenClientFileUpload: hasToken,
 });
