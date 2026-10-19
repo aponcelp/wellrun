@@ -33929,5 +33929,51 @@
    "New York",
    "Remote"
   ]
+ },
+ {
+  "name": "Context.dev",
+  "slug": "context-dev",
+  "site": "https://www.context.dev",
+  "careers_url": "https://www.ycombinator.com/companies/contextdev/jobs",
+  "what_they_do": "One API for AI agents to scrape, crawl, search and monitor the live web",
+  "problem": "AI teams waste time building and babysitting scrapers, proxies and crawlers just to get fresh web data",
+  "industry": "Web data infrastructure for AI agents",
+  "stage": "Seed",
+  "last_round": "$9M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "General Catalyst",
+  "total_open_roles": "0",
+  "ops_roles": "",
+  "hiring_trend": "Tiny team: ~7 on LinkedIn (+4 YoY, +200%); 4 at Aug 2026 YC launch",
+  "headcount": "~7",
+  "latest_news": "Raised $9M seed led by General Catalyst (Orange Collective, Robinhood Ventures)",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.context.dev/blog/context-dev-raises-9m-seed-led-by-general-catalyst",
+  "traction": "800+ customers claimed (400+ in Aug); 120% NRR per investor memo",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Fast customer growth from a self-serve, inbound base, but a seven-person seed company in a crowded field against Firecrawl, Exa, Parallel and Bright Data, with no revenue disclosed.",
+  "distance_sources": [
+   {
+    "label": "Orange Collective: Context.dev investment memo (Aug 2026)",
+    "url": "https://www.orangecollective.vc/memos/contextdev"
+   },
+   {
+    "label": "Runtimewire: Context.dev raises $9M (Oct 2026)",
+    "url": "https://runtimewire.com/article/context-dev-raises-9m-web-data-api"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

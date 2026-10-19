@@ -1,0 +1,74 @@
+{
+ "slug": "context-dev",
+ "checked": "Oct 19, 2026",
+ "founded": 2025,
+ "hq": "San Francisco, CA",
+ "headcount_est": {
+  "value": "~7",
+  "as_of": "Oct 2026",
+  "source": "https://linkedin.com/company/contextdev"
+ },
+ "leadership": [
+  {
+   "name": "Yahia Bakour",
+   "title": "Founder & CEO",
+   "founder": true,
+   "linkedin": "https://www.linkedin.com/in/yahia-bakour/",
+   "source": "https://www.ycombinator.com/companies/contextdev"
+  }
+ ],
+ "funding_history": [
+  {
+   "round": "Seed (YC S26)",
+   "date": "2026-05",
+   "amount": "$500K",
+   "valuation": null,
+   "lead": "Y Combinator",
+   "source": "https://www.context.dev/blog/were-now-backed-by-ycombinator"
+  },
+  {
+   "round": "Seed",
+   "date": "2026-10",
+   "amount": "$9M",
+   "valuation": null,
+   "lead": "General Catalyst",
+   "source": "https://www.context.dev/blog/context-dev-raises-9m-seed-led-by-general-catalyst"
+  }
+ ],
+ "total_raised": null,
+ "revenue_est": null,
+ "news_timeline": [
+  {
+   "date": "2026-10",
+   "headline": "Raises $9M seed led by General Catalyst; claims 800+ customers",
+   "url": "https://runtimewire.com/article/context-dev-raises-9m-web-data-api"
+  },
+  {
+   "date": "2026-09",
+   "headline": "Launches Answers API and Context Highlights for agents",
+   "url": "https://www.context.dev/blog/introducing-context-highlights"
+  },
+  {
+   "date": "2026-08",
+   "headline": "Launch YC (S26): live web data API, 400+ customers, team of 4",
+   "url": "https://www.ycombinator.com/launches/SPy-context-dev-live-web-data-api-for-ai-agents"
+  },
+  {
+   "date": "2026-05",
+   "headline": "Backed by Y Combinator (Summer 2026 batch)",
+   "url": "https://www.context.dev/blog/were-now-backed-by-ycombinator"
+  },
+  {
+   "date": "2026-03",
+   "headline": "Brand.dev rebrands to Context.dev, expands beyond brand data",
+   "url": "https://www.context.dev/blog/brand-dev-is-now-context-dev"
+  }
+ ],
+ "competitors": [
+  "firecrawl",
+  "exa",
+  "Parallel",
+  "Bright Data",
+  "Tavily"
+ ]
+}
