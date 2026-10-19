@@ -1,0 +1,129 @@
+{
+  "slug": "ping-identity",
+  "checked": "Oct 19, 2026",
+  "founded": 2002,
+  "hq": "Denver, CO",
+  "headcount_est": {
+    "value": "~2,526",
+    "as_of": "Mar 2026",
+    "source": "https://www.reveliolabs.com/companies/ping-identity-holding/employees"
+  },
+  "leadership": [
+    {
+      "name": "Andre Durand",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.pingidentity.com/en/company/leadership.html"
+    },
+    {
+      "name": "Raj Dani",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.pingidentity.com/en/company/leadership.html"
+    },
+    {
+      "name": "Peter Barker",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.pingidentity.com/en/company/leadership.html"
+    },
+    {
+      "name": "Adnan Chaudhry",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.pingidentity.com/en/company/leadership.html"
+    },
+    {
+      "name": "Nanhi Singh",
+      "title": "Chief Customer Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.pingidentity.com/en/company/leadership.html"
+    },
+    {
+      "name": "Aaron LaPoint",
+      "title": "Chief Administrative Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.pingidentity.com/en/company/leadership.html"
+    },
+    {
+      "name": "Rakesh Thaker",
+      "title": "Chief Development Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.pingidentity.com/en/company/leadership.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "IPO (NYSE: PING)",
+      "date": "2019-09",
+      "amount": "~$187M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.techtarget.com/cybersecurity/news/252523468/Thoma-Bravo-to-acquire-Ping-Identity-for-28B"
+    },
+    {
+      "round": "PE take-private",
+      "date": "2022-10",
+      "amount": "$2.8B (acquisition)",
+      "valuation": "$2.8B",
+      "lead": "Thoma Bravo",
+      "source": "https://www.thomabravo.com/press-releases/thoma-bravo-completes-acquisition-of-ping-identity"
+    },
+    {
+      "round": "Debt",
+      "date": "2025-10",
+      "amount": "$1.8B syndicated loan (refinancing + $1.12B dividend)",
+      "valuation": null,
+      "lead": "JPMorgan Chase (arranger)",
+      "source": "https://www.bloomberg.com/news/articles/2025-10-30/thoma-bravo-eyes-1-billion-payout-from-ping-identity-debt-deal"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": {
+    "value": "approaching ~$1B ARR",
+    "as_of": "Nov 2025",
+    "basis": "press report",
+    "source": "https://climbdeals.beehiiv.com/p/climb-s-m-a-weekly-vista-thoma-bravo-and-francisco-partners-all-feature"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launches Identity Agents on Google Cloud Marketplace",
+      "url": "https://press.pingidentity.com/2026-09-29-Ping-Identity-Launches-Identity-Agents-on-Google-Cloud-Marketplace"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Renews Denver HQ lease, cutting footprint ~39%",
+      "url": "https://businessden.com/tech-company-cuts-downtown-hq-footprint-in-renewal/"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Closes Keyless biometrics acquisition; names Adnan Chaudhry CRO",
+      "url": "https://www.biometricupdate.com/202601/ping-identity-closes-keyless-acquisition-names-new-chief-revenue-officer"
+    },
+    {
+      "date": "2025-10",
+      "headline": "$1.8B loan refinancing funds $1.12B dividend to Thoma Bravo",
+      "url": "https://www.biometricupdate.com/202510/ping-identity-to-save-millions-in-interest-from-thoma-bravo-refinancing-debt"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Restructuring layoffs hit customer success and partner teams",
+      "url": "https://www.linkedin.com/posts/stephen-c-lowe_ive-had-an-incredible-7-year-run-at-ping-activity-7376255035040698368-XG1p"
+    }
+  ],
+  "competitors": [
+    "Okta",
+    "Microsoft Entra ID",
+    "CyberArk",
+    "SailPoint",
+    "Transmit Security"
+  ]
+}

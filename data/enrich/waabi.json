@@ -1,0 +1,89 @@
+{
+  "slug": "waabi",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "Toronto, ON (US hubs: San Francisco; Lancaster, TX)",
+  "headcount_est": {
+    "value": "~311",
+    "as_of": "Mar 2026",
+    "source": "https://www.reveliolabs.com/companies/waabi-innovation/employees"
+  },
+  "leadership": [
+    {
+      "name": "Raquel Urtasun",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://waabi.ai/insights/waabi-secures-1-billion-in-new-funding-to-lead-physical-ai-revolution"
+    },
+    {
+      "name": "Lior Ron",
+      "title": "Chief Operating Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/08/12/uber-freight-ceo-lior-ron-joins-self-driving-startup-waabi-as-chief-operating-officer/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2021-06",
+      "amount": "$83.5M",
+      "valuation": null,
+      "lead": "Khosla Ventures",
+      "source": "https://www.globenewswire.com/news-release/2021/06/08/2243365/0/en/waabi-launches-to-build-a-pathway-to-commercially-viable-scalable-autonomous-driving.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-06",
+      "amount": "$200M",
+      "valuation": null,
+      "lead": "Uber, Khosla Ventures",
+      "source": "https://www.reuters.com/technology/artificial-intelligence/autonomous-trucking-startup-waabi-raises-200-mln-2024-06-18"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-01",
+      "amount": "$750M (+ up to $250M milestone-based from Uber)",
+      "valuation": null,
+      "lead": "Khosla Ventures, G2 Venture Partners",
+      "source": "https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/"
+    }
+  ],
+  "total_raised": "~$1.03B (plus up to $250M Uber milestone capital)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Commercial autonomous freight partnership with Warrior Logistics in Texas",
+      "url": "https://waabi.ai/insights/waabi-and-warrior-logistics-partner-on-autonomous-trucking-operations-in-texas"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Volvo and Waabi start customer operations in Texas with Warp",
+      "url": "https://waabi.ai/insights/volvo-and-waabi-kick-off-customer-operations-in-texas-starting-with-warp"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Named #27 on CNBC Disruptor 50",
+      "url": "https://www.cnbc.com/2026/05/19/waabi-cnbc-disruptor-50-ranking.html"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raises $750M Series C plus Uber robotaxi deal; driverless launch delayed",
+      "url": "https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Uber Freight CEO Lior Ron joins as COO",
+      "url": "https://techcrunch.com/2025/08/12/uber-freight-ceo-lior-ron-joins-self-driving-startup-waabi-as-chief-operating-officer/"
+    }
+  ],
+  "competitors": [
+    "Aurora Innovation",
+    "Kodiak Robotics",
+    "Plus",
+    "Bot Auto",
+    "Waymo"
+  ]
+}

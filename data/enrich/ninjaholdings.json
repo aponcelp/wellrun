@@ -1,0 +1,82 @@
+{
+  "slug": "ninjaholdings",
+  "checked": "Oct 19, 2026",
+  "founded": 2017,
+  "hq": "Chicago, IL (office in Miami)",
+  "headcount_est": {
+    "value": "~143 (+9% YoY)",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/ninjaholdings"
+  },
+  "leadership": [
+    {
+      "name": "Mark Friedgan",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/hubrix/",
+      "source": "https://www.ninjaholdings.com/about"
+    },
+    {
+      "name": "Kenneth Schultz",
+      "title": "Co-founder & CFO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/kenneth-schultz/",
+      "source": "https://www.ninjaholdings.com/about"
+    },
+    {
+      "name": "David Shorr",
+      "title": "Executive Chairman",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/david-shorr-64961b14/",
+      "source": "https://www.ninjaholdings.com/about"
+    },
+    {
+      "name": "Jack Snitkovsky",
+      "title": "Chief Operating Officer",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/jsnitkov/",
+      "source": "https://www.ninjaholdings.com/about"
+    },
+    {
+      "name": "Ozgul Baysar",
+      "title": "Chief Analytics Officer",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/ozgul-baysar-832a172/",
+      "source": "https://www.ninjaholdings.com/about"
+    },
+    {
+      "name": "Brian Reshefsky",
+      "title": "CEO, Edge",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/brian-reshefsky-650a5b/",
+      "source": "https://www.ninjaholdings.com/about"
+    }
+  ],
+  "funding_history": [],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2025-11",
+      "headline": "Settles California DFPI enforcement action against CreditNinja",
+      "url": "https://dfpi.ca.gov/enforcement_action/creditninja-lending-llc/"
+    },
+    {
+      "date": "2025-03",
+      "headline": "California DFPI seeks to revoke CreditNinja lender licenses",
+      "url": "https://dfpi.ca.gov/wp-content/uploads/2025/03/Admin.-Action-CreditNinja-Lending_-LLC-Accusation.pdf"
+    },
+    {
+      "date": "2024-10",
+      "headline": "Class action alleges CreditNinja loans break Indiana 36% rate cap",
+      "url": "https://www.classaction.org/news/class-action-lawsuit-claims-creditninja-charges-excessive-interest-rates-on-loans-in-indiana"
+    }
+  ],
+  "competitors": [
+    "OppLoans",
+    "LendingPoint",
+    "Oportun",
+    "Upgrade",
+    "Prosper"
+  ]
+}

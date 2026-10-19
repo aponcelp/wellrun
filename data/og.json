@@ -29,6 +29,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "abnormal-ai": {
+  "url": "https://www.abnormal.ai/api/og-default",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-19"
+ },
  "abridge": {
   "url": "https://cdn.prod.website-files.com/6279c9d10eb860662e5ec006/665f41408181f8fdda5f1e7e_abridge-opengraph-home.webp",
   "kind": "og",
@@ -1937,6 +1943,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "ninjaholdings": {
+  "url": "https://www.ninjaholdings.com/wp-content/uploads/2021/07/cropped-FaviconNinja-02-01-180x180.png",
+  "kind": "icon",
+  "type": "image/png",
+  "checked": "2026-10-19"
+ },
  "nooks": {
   "url": "https://cdn.prod.website-files.com/697107c16c913fd77cf0aacd/6aa823230f9441ce33e42e21_2ca1b2d801530249b4257af9d0c29fb4_nooks-open-graph.webp",
   "kind": "og",
@@ -2257,6 +2269,12 @@
  },
  "pinecone": {
   "url": "https://www.pinecone.io/api/og/?title=Trusted+knowledge+for&highlight=AI+in+production&alignment=center",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-19"
+ },
+ "ping-identity": {
+  "url": "https://www.pingidentity.com/content/dam/picr/og/sp/Img-OG-HomePage-1200x630.png",
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
@@ -3193,6 +3211,12 @@
  },
  "vitally": {
   "url": "https://cdn.prod.website-files.com/63d3e5f547ca0a274b2e07e1/69b2fdf4da6635b3560dcfbb_Vitally-Social-Share-Img.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-19"
+ },
+ "waabi": {
+  "url": "https://www.datocms-assets.com/163962/1756426717-waabi_road2_04965.jpg?auto=format&fit=max&w=1200",
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"

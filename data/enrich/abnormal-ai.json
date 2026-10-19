@@ -1,0 +1,142 @@
+{
+  "slug": "abnormal-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2018,
+  "hq": "Las Vegas, NV (office in San Francisco)",
+  "headcount_est": {
+    "value": "~1,611",
+    "as_of": "Mar 2026",
+    "source": "https://www.reveliolabs.com/companies/abnormal-ai/employees"
+  },
+  "leadership": [
+    {
+      "name": "Evan Reiser",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://abnormal.ai/about/team"
+    },
+    {
+      "name": "Sanjay Jeyakumar",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://abnormal.ai/about/team"
+    },
+    {
+      "name": "Abhi Bagri",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://abnormal.ai/about/team"
+    },
+    {
+      "name": "Lisa Banks",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://abnormal.ai/about/team/lisa-banks"
+    },
+    {
+      "name": "Kevin Moore",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://abnormal.ai/about/team/kevin-moore"
+    },
+    {
+      "name": "Lisa Wallace",
+      "title": "Chief People & Transformation Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://abnormal.ai/about/team/category/leadership-team"
+    },
+    {
+      "name": "John Slavitt",
+      "title": "Chief Legal Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://businesswire.com/news/home/20260429315439/en/Abnormal-AI-Expands-Leadership-Team-to-Advance-Behavioral-AI-Platform"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2019-11",
+      "amount": "$24M",
+      "valuation": null,
+      "lead": "Greylock Partners",
+      "source": "https://linkedin.com/company/abnormal-ai"
+    },
+    {
+      "round": "Series B",
+      "date": "2020-11",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Menlo Ventures",
+      "source": "https://linkedin.com/company/abnormal-ai"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-05",
+      "amount": "$210M",
+      "valuation": "$4B",
+      "lead": "Insight Partners",
+      "source": "https://siliconvalleyinvestclub.com/companies/abnormalsecurity"
+    },
+    {
+      "round": "Series D",
+      "date": "2024-08",
+      "amount": "$250M",
+      "valuation": "$5.1B",
+      "lead": "Wellington Management",
+      "source": "https://abnormal.ai/newsroom/press-releases/series-d-5b-valuation"
+    }
+  ],
+  "total_raised": "$546M",
+  "revenue_est": {
+    "value": "~$380M ARR (~50% YoY)",
+    "as_of": "FY26 close (stated Oct 2026)",
+    "basis": "company-stated",
+    "source": "https://abnormal.ai/careers/jobs/8036053003?gh_jid=8036053003"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Expands AI Security suite; AI Governance generally available",
+      "url": "https://abnormal.ai/de/newsroom/press-releases/abnormal-ai-expands-its-ai-security-suite"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Partners with OpenAI; joins Daybreak Cyber Partner Program",
+      "url": "https://www.linkedin.com/posts/abnormal-ai_were-proud-to-announce-our-partnership-with-activity-7495830042736807936-5vOw"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Anthropic sues Abnormal over its rebrand logo (trademark)",
+      "url": "https://www.axios.com/2026/07/21/anthropic-abnormal-ai-logos-lawsuit"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Launches Identity Threat Protection, AI Governance, Infiltration Prevention",
+      "url": "https://www.linkedin.com/posts/abnormal-ai_a-new-era-of-behavioral-security-identity-activity-7490778454196576256-3KPz"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Hires ex-MGM CISO and new Chief Legal Officer",
+      "url": "http://businesswire.com/news/home/20260429315439/en/Abnormal-AI-Expands-Leadership-Team-to-Advance-Behavioral-AI-Platform"
+    },
+    {
+      "date": "2025-01",
+      "headline": "Hires ex-ServiceNow exec Lisa Banks as CFO ahead of IPO prep",
+      "url": "https://www.cnbc.com/2025/01/22/abnormal-security-hires-former-servicenow-executive-to-be-cfo.html"
+    }
+  ],
+  "competitors": [
+    "Proofpoint",
+    "Microsoft Defender for Office 365",
+    "Mimecast",
+    "Sublime Security",
+    "Check Point Harmony Email"
+  ]
+}

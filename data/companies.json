@@ -33061,5 +33061,245 @@
    "Washington, DC",
    "London"
   ]
+ },
+ {
+  "name": "Abnormal AI",
+  "slug": "abnormal-ai",
+  "site": "https://abnormal.ai",
+  "careers_url": "https://job-boards.greenhouse.io/abnormalsecurity",
+  "what_they_do": "Behavioral AI that stops email attacks, account takeover and insider threats",
+  "problem": "Phishing and business email compromise slip past rule-based filters, and security teams drown in reported emails",
+  "industry": "Cybersecurity / email & identity security",
+  "stage": "Series D",
+  "last_round": "$250M",
+  "last_round_date": "Aug 2024",
+  "lead_investors": "Wellington Management",
+  "total_open_roles": "85",
+  "ops_roles": "Principal, Strategy & Transformation; Transformation Strategy Manager; Director, Deal Strategy Operations; People Program Manager",
+  "hiring_trend": "Headcount ~1,620, +21% YoY (LinkedIn); ~630 → ~1,611 2023–2026 (Revelio); postings flat vs 2025; small RIF Jan 2026",
+  "headcount": "~1,600",
+  "latest_news": "Expanded AI Security suite (AI Governance GA; agent and cloud tools in preview)",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://abnormal.ai/de/newsroom/press-releases/abnormal-ai-expands-its-ai-security-suite",
+  "traction": "~$380M ARR at FY26 close, ~50% YoY; 5,000+ customers incl. 30% of Fortune 500",
+  "red_flags": "Jul 2026: Anthropic sued Abnormal for trademark infringement over its 2025 rebrand logo, seeking disgorgement of profits (N.D. Cal., pending).",
+  "red_flags_sources": [
+   {
+    "label": "Axios: Anthropic sues AI security firm Abnormal over logo (Jul 2026)",
+    "url": "https://www.axios.com/2026/07/21/anthropic-abnormal-ai-logos-lawsuit"
+   },
+   {
+    "label": "CourtListener: Anthropic v. Abnormal AI complaint (N.D. Cal.)",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.473631/gov.uscourts.cand.473631.1.0.pdf"
+   },
+   {
+    "label": "Abnormal: CEO response to the Anthropic lawsuit (Jul 2026)",
+    "url": "https://abnormal.ai/blog/abnormal-response-to-anthropic-lawsuit"
+   }
+  ],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "305",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Abnormal-AI-Reviews-E3146005.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Leader of API-based behavioral email security with 5,000+ customers and 30% of the Fortune 500, now adding identity and AI-security lines; still competes with Microsoft, Proofpoint and cheaper rivals, and Anthropic is moving into security.",
+  "distance_sources": [
+   {
+    "label": "Abnormal job post: ~$380M ARR at FY26 close, ~50% YoY, 5,000+ customers (Oct 2026)",
+    "url": "https://abnormal.ai/careers/jobs/8036053003?gh_jid=8036053003"
+   },
+   {
+    "label": "CNBC: Abnormal $250M Series D at $5.1B (Aug 2024)",
+    "url": "https://www.cnbc.com/2024/08/06/new-funding-values-email-security-firm-abnormal-at-more-than-5-billion.html"
+   }
+  ],
+  "hiring_locations": [
+   "Bengaluru",
+   "San Francisco",
+   "Remote (US)",
+   "Remote (UK)"
+  ]
+ },
+ {
+  "name": "Waabi",
+  "slug": "waabi",
+  "site": "https://waabi.ai",
+  "careers_url": "https://jobs.lever.co/waabi",
+  "what_they_do": "AI driver software for autonomous trucks, and soon robotaxis on Uber",
+  "problem": "Freight carriers face driver shortages and hours-of-service limits that cap how far and how cheaply loads move",
+  "industry": "Autonomous vehicles / physical AI",
+  "stage": "Series C",
+  "last_round": "$750M",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "Khosla Ventures, G2 Venture Partners",
+  "total_open_roles": "94",
+  "ops_roles": "Senior Program Manager, Trucking; Lead Technical Program Manager, Robotaxi; Staff Vehicle Program Manager",
+  "hiring_trend": "Headcount 145 → 311 2023–2026 (Revelio), +81% in 12 mo (Welcome to the Jungle); 94 open roles",
+  "headcount": "~310",
+  "latest_news": "Commercial partnership with Warrior Logistics for autonomous freight on Dallas–Houston",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://waabi.ai/insights/waabi-and-warrior-logistics-partner-on-autonomous-trucking-operations-in-texas",
+  "traction": "Customer ops live in Texas (Volvo/Warp, Warrior, Uber Freight); headcount ~2x since 2023",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "18",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Waabi-Reviews-E7332014.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Well funded with Volvo and Uber as partners, but a follower in driverless trucking behind Aurora, which already runs without drivers; Waabi's own driver-out launch slipped from 2025 and revenue is undisclosed.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Waabi raises $1B, expands into robotaxis with Uber; driverless launch delayed (Jan 2026)",
+    "url": "https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/"
+   },
+   {
+    "label": "Waabi: Volvo and Waabi kick off customer operations in Texas (Oct 2026)",
+    "url": "https://waabi.ai/insights/volvo-and-waabi-kick-off-customer-operations-in-texas-starting-with-warp"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Pittsburgh",
+   "Toronto",
+   "Remote (US)",
+   "Remote (Canada)"
+  ]
+ },
+ {
+  "name": "NinjaHoldings",
+  "slug": "ninjaholdings",
+  "site": "https://www.ninjaholdings.com",
+  "careers_url": "https://ninjaholdings.breezy.hr",
+  "what_they_do": "Online personal loans (CreditNinja), digital banking (NinjaCard) and cash-flow underwriting (Edge)",
+  "problem": "People with thin or poor credit get turned down by banks when an emergency expense hits",
+  "industry": "Consumer lending fintech",
+  "stage": "Bootstrapped (no VC)",
+  "last_round": "none (no outside equity)",
+  "last_round_date": "",
+  "lead_investors": "",
+  "total_open_roles": "19",
+  "ops_roles": "Strategy & Operations Manager; Strategy & Operations Analyst",
+  "hiring_trend": "Headcount ~143, +9% YoY (LinkedIn); 19 open roles, 10 of them interns",
+  "headcount": "~140",
+  "latest_news": "Settled California DFPI enforcement action over CreditNinja lending practices",
+  "latest_news_date": "Nov 2025",
+  "latest_news_url": "https://dfpi.ca.gov/enforcement_action/creditninja-lending-llc/",
+  "traction": "~300,000 loans to ~200,000 borrowers since 2018; Edge built on 3M+ credit applications",
+  "red_flags": "Mar 2025: California DFPI filed an accusation seeking to revoke CreditNinja's lender licenses; settled Nov 2025. Also faces usury class actions (Indiana, California) filed Oct 2024 over ~225% APR loans.",
+  "red_flags_sources": [
+   {
+    "label": "California DFPI: Creditninja Lending enforcement action (accusation Mar 2025, settlement Nov 2025)",
+    "url": "https://dfpi.ca.gov/enforcement_action/creditninja-lending-llc/"
+   },
+   {
+    "label": "ClassAction.org: Class action claims CreditNinja charges excessive interest in Indiana (Oct 2024)",
+    "url": "https://www.classaction.org/news/class-action-lawsuit-claims-creditninja-charges-excessive-interest-rates-on-loans-in-indiana"
+   },
+   {
+    "label": "CourtListener: Silva v. CreditNinja Lending (S.D. Cal.)",
+    "url": "https://www.courtlistener.com/docket/69267252/silva-v-creditninja-lending-llc/"
+   }
+  ],
+  "score": "1.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "19",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/NinjaHoldings-Reviews-E2118517.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Small, self-funded player in a crowded subprime online-lending field (OppLoans, LendingPoint, Oportun, Upgrade); its cash-flow underwriting data is a real asset, but state rate caps and regulators are a standing exposure.",
+  "distance_sources": [
+   {
+    "label": "NinjaHoldings: Edge cash-flow bureau",
+    "url": "https://www.ninjaholdings.com/edge/"
+   },
+   {
+    "label": "Tracxn: NinjaHoldings profile, unfunded, top competitors (Jun 2026)",
+    "url": "https://tracxn.com/d/companies/ninjaholdings/__U58HGXovPRU3SE-euh6SUBsizE-ZYEuh4S6EXvFPGKE"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Ping Identity",
+  "slug": "ping-identity",
+  "site": "https://www.pingidentity.com",
+  "careers_url": "https://job-boards.greenhouse.io/pingidentity",
+  "what_they_do": "Enterprise identity security: single sign-on, access management, MFA and identity verification",
+  "problem": "Large enterprises must let employees, customers and now AI agents sign in securely without friction or fraud",
+  "industry": "Cybersecurity / identity & access management",
+  "stage": "PE-owned (Thoma Bravo take-private)",
+  "last_round": "$2.8B take-private (PE; no VC credit)",
+  "last_round_date": "Oct 2022",
+  "lead_investors": "Thoma Bravo",
+  "total_open_roles": "58",
+  "ops_roles": "Chief of Staff, CCO; Director, Partner Operations; Director, Partner Programs, Enablement, and Operations; Customer Success Manager",
+  "hiring_trend": "Flat: ~2,526 staff, +1.4% YoY (Revelio); repeated restructuring layoffs 2023–2025; postings +60% in 2026",
+  "headcount": "~2,500",
+  "latest_news": "Launched Identity Agents on Google Cloud Marketplace",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://press.pingidentity.com/2026-09-29-Ping-Identity-Launches-Identity-Agents-on-Google-Cloud-Marketplace",
+  "traction": "ARR approaching ~$1B (2025 reports); over half the Fortune 100 as customers",
+  "red_flags": "Sep–Oct 2025: another restructuring round cut customer success, partner and other roles (employees describe it as the third since the Thoma Bravo buyout); Denver HQ footprint cut ~39% in May 2026.",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn: ex-employee on Ping restructuring, 'third round of layoffs since Thoma Bravo' (Sep 2025)",
+    "url": "https://www.linkedin.com/posts/hiredunlap_im-only-on-this-website-when-i-need-to-be-activity-7370417732799877120-rmWT"
+   },
+   {
+    "label": "LinkedIn: role and team eliminated in Ping restructuring (Sep 2025)",
+    "url": "https://www.linkedin.com/posts/stephen-c-lowe_ive-had-an-incredible-7-year-run-at-ping-activity-7376255035040698368-XG1p"
+   },
+   {
+    "label": "BusinessDen: Ping cuts downtown Denver HQ footprint in renewal (May 2026)",
+    "url": "https://businessden.com/tech-company-cuts-downtown-hq-footprint-in-renewal/"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.7",
+  "glassdoor_reviews": "684",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Ping-Identity-Reviews-E380907.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A top-three enterprise access-management vendor after absorbing ForgeRock, deeply embedded at large enterprises; trails Okta and Microsoft, and a $1.8B debt load after the 2025 dividend recap limits room to invest.",
+  "distance_sources": [
+   {
+    "label": "Thoma Bravo: how Ping became the access-management leader after ForgeRock (Jun 2025)",
+    "url": "https://www.thomabravo.com/behind-the-deal/how-ping-identity-mastered-identity-security-for-global-enterprises"
+   },
+   {
+    "label": "Biometric Update: Thoma Bravo refinancing and $1.12B dividend (Oct 2025)",
+    "url": "https://www.biometricupdate.com/202510/ping-identity-to-save-millions-in-interest-from-thoma-bravo-refinancing-debt"
+   }
+  ],
+  "hiring_locations": [
+   "USA - Austin",
+   "USA - Denver",
+   "Sydney",
+   "Remote (US)",
+   "Remote (UK)"
+  ]
  }
 ]
