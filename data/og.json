@@ -923,6 +923,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "endear": {
+  "url": "https://endearhq.com/astro-img/og-default.jpg?v=b4u0z92fls77",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-19"
+ },
  "engine": {
   "url": "https://engine.com/_astro/engine-og-default.BAjJjAAC.png",
   "kind": "og",
