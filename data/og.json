@@ -875,6 +875,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "different": {
+  "url": "https://cdn.prod.website-files.com/6aa399e5899bf4175edf7a7c/6ad5b73d3c588967f7a15671_different-og-home.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-20"
+ },
  "doorloop": {
   "url": "https://cdn.doorloop.com/opengraph.png",
   "kind": "og",
@@ -3064,6 +3070,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "sunlight-ai": {
+  "url": "https://sunlightai.com/images/social-share.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-20"
  },
  "suno": {
   "url": "https://cdn-o.suno.com/meta-preview.jpg",

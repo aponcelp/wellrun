@@ -1,0 +1,61 @@
+{
+  "slug": "different",
+  "checked": "Oct 20, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ajeet Singh",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/ajeetsinghmann/",
+      "source": "https://www.different.ai/company"
+    },
+    {
+      "name": "Abhishek Pani",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/abhishekpani/",
+      "source": "https://www.different.ai/company"
+    },
+    {
+      "name": "Abhinav Yajurvedi",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/abhinavyajurvedi/",
+      "source": "https://www.different.ai/company"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-10",
+      "amount": "$48M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://www.prnewswire.com/news-releases/different-emerges-from-stealth-with-48m-for-ai-that-runs-demand-generation-for-lean-b2b-marketing-teams-302913497.html"
+    }
+  ],
+  "total_raised": "$48M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Emerges from stealth with $48M seed led by General Catalyst; Lightspeed participates",
+      "url": "https://www.prnewswire.com/news-releases/different-emerges-from-stealth-with-48m-for-ai-that-runs-demand-generation-for-lean-b2b-marketing-teams-302913497.html"
+    },
+    {
+      "date": "2026-10",
+      "headline": "CEO Ajeet Singh discusses launch and seed round on CNBC",
+      "url": "https://www.cnbc.com/video/2026/10/20/ajeet-singh-we-are-announcing-a-48-million-seed-round.html"
+    }
+  ],
+  "competitors": [
+    "HubSpot",
+    "6sense",
+    "Demandbase",
+    "Jasper",
+    "Mutiny"
+  ]
+}

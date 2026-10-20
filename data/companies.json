@@ -34914,5 +34914,93 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Different",
+  "slug": "different",
+  "site": "https://www.different.ai",
+  "careers_url": "https://ats.rippling.com/differentai/jobs",
+  "what_they_do": "AI system that plans, launches and optimizes B2B demand-gen campaigns across ads, email, landing pages",
+  "problem": "Lean B2B marketing teams juggle too many tools and channels and can't tell which spend is working",
+  "industry": "Marketing tech / AI demand generation (B2B)",
+  "stage": "Seed",
+  "last_round": "$48M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "General Catalyst (lead), Lightspeed Venture Partners",
+  "total_open_roles": "10",
+  "ops_roles": "Founder's Office BizOps; Growth strategist",
+  "hiring_trend": "Just out of stealth; 10 open roles (SF on-site and Bengaluru), first public board; staff count not public (LinkedIn lists 3, clearly undercounted)",
+  "headcount": "n.a. (small; est. under 50)",
+  "latest_news": "Emerged from stealth with $48M seed led by General Catalyst",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/different-emerges-from-stealth-with-48m-for-ai-that-runs-demand-generation-for-lean-b2b-marketing-teams-302913497.html",
+  "traction": "Early: named customers (Descope, Motif, Straiker, Rox, Lensing); no revenue or customer count disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Launched from stealth Oct 2026 with a handful of named customers; too early to judge against HubSpot, 6sense and other AI marketing tools.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Different emerges from stealth with $48M (Oct 2026)",
+    "url": "https://www.prnewswire.com/news-releases/different-emerges-from-stealth-with-48m-for-ai-that-runs-demand-generation-for-lean-b2b-marketing-teams-302913497.html"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Sunlight AI",
+  "slug": "sunlight-ai",
+  "site": "https://sunlightai.com",
+  "careers_url": "",
+  "what_they_do": "Outsourced billing, HR, payroll, tax and finance for independent medical practices, AI-assisted",
+  "problem": "Independent doctors juggle 5-6 admin vendors and shrinking reimbursements, pushing them to sell to hospitals",
+  "industry": "Healthcare RCM / practice operations",
+  "stage": "Seed",
+  "last_round": "$17.4M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Basis Set Ventures (Lan Xuezhao)",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "Just out of stealth; ~2-10 on LinkedIn, no public job board",
+  "headcount": "~10 (est.)",
+  "latest_news": "Launched with $17.4M seed and acquired Massachusetts billing firm Bradford Medical Associates",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/sunlight-ai-launches-with-17-4m-to-help-physicians-thrive-independently-302913153.html",
+  "traction": "No metrics disclosed; first 2026 arbitration clients; bought 25-year-old billing firm",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Launched Oct 2026 with one acquired billing firm and an early arbitration cohort; no disclosed revenue or practice count, and it faces funded rivals (Procode, Third Way, Tebra) in a crowded RCM market.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Sunlight AI launches with $17.4M (Oct 2026)",
+    "url": "https://www.prnewswire.com/news-releases/sunlight-ai-launches-with-17-4m-to-help-physicians-thrive-independently-302913153.html"
+   },
+   {
+    "label": "Axios Pro: Sunlight AI raises $10M seed, Series A planned next year (Oct 2026)",
+    "url": "https://www.axios.com/pro/health-tech-deals/2026/10/19/sunlight-ai-seed-medical-practice-administration"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

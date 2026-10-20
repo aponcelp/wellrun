@@ -1,0 +1,63 @@
+{
+ "slug": "sunlight-ai",
+ "checked": "Oct 20, 2026",
+ "founded": null,
+ "hq": "New York, NY and Miami, FL",
+ "headcount_est": {
+  "value": "2-10",
+  "as_of": "Oct 2026",
+  "source": "https://linkedin.com/company/sunlight-ai-tech"
+ },
+ "leadership": [
+  {
+   "name": "Sina Chehrazi",
+   "title": "Founder & CEO",
+   "founder": true,
+   "linkedin": null,
+   "source": "https://sunlightai.com"
+  },
+  {
+   "name": "Catherine Spence",
+   "title": "Head of Growth",
+   "founder": false,
+   "linkedin": null,
+   "source": "https://www.prnewswire.com/news-releases/sunlight-ai-launches-with-17-4m-to-help-physicians-thrive-independently-302913153.html"
+  }
+ ],
+ "funding_history": [
+  {
+   "round": "Seed",
+   "date": "2026-10",
+   "amount": "$17.4M (total; Axios reports $10M new seed)",
+   "valuation": null,
+   "lead": "Basis Set Ventures",
+   "source": "https://www.axios.com/pro/health-tech-deals/2026/10/19/sunlight-ai-seed-medical-practice-administration"
+  }
+ ],
+ "total_raised": "$17.4M",
+ "revenue_est": null,
+ "news_timeline": [
+  {
+   "date": "2026-10",
+   "headline": "Launches with $17.4M seed led by Basis Set; plans Series A in 2027",
+   "url": "https://www.prnewswire.com/news-releases/sunlight-ai-launches-with-17-4m-to-help-physicians-thrive-independently-302913153.html"
+  },
+  {
+   "date": "2026-10",
+   "headline": "Acquires Bradford Medical Associates, a Massachusetts medical billing firm",
+   "url": "https://www.axios.com/pro/health-tech-deals/2026/10/19/sunlight-ai-seed-medical-practice-administration"
+  },
+  {
+   "date": "2026-10",
+   "headline": "Focus on neurosurgery, plastic surgery and orthopedics; 2+ more tuck-ins planned",
+   "url": "https://www.axios.com/pro/health-tech-deals/2026/10/19/sunlight-ai-seed-medical-practice-administration"
+  }
+ ],
+ "competitors": [
+  "Procode AI",
+  "Third Way Health",
+  "Tebra",
+  "candid-health",
+  "commure"
+ ]
+}
