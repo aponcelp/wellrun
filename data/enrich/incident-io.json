@@ -1,0 +1,120 @@
+{
+  "slug": "incident-io",
+  "checked": "Oct 20, 2026",
+  "founded": 2021,
+  "hq": "London, UK and San Francisco, CA",
+  "headcount_est": {
+    "value": "~220",
+    "as_of": "Sep 2026",
+    "source": "https://linkedin.com/company/incident-io"
+  },
+  "leadership": [
+    {
+      "name": "Stephen Whitworth",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/stephenwhitworth",
+      "source": "https://techcrunch.com/2025/04/10/incident-io-raises-62m-at-a-400m-valuation-to-help-it-teams-move-fast-when-things-break/"
+    },
+    {
+      "name": "Pete Hamilton",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/04/10/incident-io-raises-62m-at-a-400m-valuation-to-help-it-teams-move-fast-when-things-break/"
+    },
+    {
+      "name": "Chris Evans",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/04/10/incident-io-raises-62m-at-a-400m-valuation-to-help-it-teams-move-fast-when-things-break/"
+    },
+    {
+      "name": "Mohit Bijlani",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/luke-owens-15906b174_at-incidentio-were-looking-for-a-strategic-activity-7381305848549093376-AZlD"
+    },
+    {
+      "name": "Alex Spink",
+      "title": "VP of Finance",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/riya-grover-a22a4822_very-excited-to-share-this-one-sequence-activity-7341053789413515264-ph5c"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-09",
+      "amount": "$4.7M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://app.dealroom.co/companies/incident_io"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-07",
+      "amount": "$28.7M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://techcrunch.com/2025/04/10/incident-io-raises-62m-at-a-400m-valuation-to-help-it-teams-move-fast-when-things-break/"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-04",
+      "amount": "$62M",
+      "valuation": "~$400M (sources, per TechCrunch)",
+      "lead": "Insight Partners",
+      "source": "https://techcrunch.com/2025/04/10/incident-io-raises-62m-at-a-400m-valuation-to-help-it-teams-move-fast-when-things-break/"
+    }
+  ],
+  "total_raised": "$96M+ (company: over $100M)",
+  "revenue_est": {
+    "value": "10M+ ARR, doubled in 2025",
+    "as_of": "Nov 2025",
+    "basis": "company-stated",
+    "source": "https://www.linkedin.com/posts/pentikainen_i-spoke-with-stephen-whitworth-co-founder-activity-7396909500546367489-VSHR"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Hires ex-Databricks Dina Elsokari to lead EMEA enterprise sales",
+      "url": "https://www.linkedin.com/posts/stephenwhitworth_excited-that-weve-hired-dina-elsokari-to-activity-7489940918851047424-6GWc"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Investigations (AI root-cause analysis, powered by Nexus) goes GA",
+      "url": "https://incident.io/changelog"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Launches PagerDuty Rescue Program with contract buyouts and AI migration",
+      "url": "https://www.prnewswire.com/news-releases/incidentio-launches-pagerduty-rescue-program-302770810.html"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Leases ~20,000 sq ft London office at The Bower; passes 200 employees",
+      "url": "https://www.helical.co.uk/news/helical-agrees-c-20-000-sq-ft-letting-at-the-bower-with-fast-growing-global-ai-platform/"
+    },
+    {
+      "date": "2025-11",
+      "headline": "CEO: now adding more ARR in absolute dollars than the category leader",
+      "url": "https://www.linkedin.com/posts/stephenwhitworth_small-but-meaningful-milestone-for-the-first-activity-7400809127926501376-xtoy"
+    },
+    {
+      "date": "2025-04",
+      "headline": "Raises $62M Series B led by Insight Partners at ~$400M valuation",
+      "url": "https://techcrunch.com/2025/04/10/incident-io-raises-62m-at-a-400m-valuation-to-help-it-teams-move-fast-when-things-break/"
+    }
+  ],
+  "competitors": [
+    "rootly",
+    "PagerDuty",
+    "FireHydrant",
+    "resolve-ai",
+    "Atlassian Opsgenie"
+  ]
+}

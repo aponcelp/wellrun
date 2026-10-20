@@ -1529,6 +1529,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "incident-io": {
+  "url": "https://incident.io/opengraph-image.png?opengraph-image.2xjszfuhrig11.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-20"
+ },
  "instantly": {
   "url": "https://cdn.prod.website-files.com/63860c8c65e7bef4a1eeebeb/69bbbe355f4fdb68458b987d_Banner%20(1)%20(1).webp",
   "kind": "og",
@@ -2734,6 +2740,18 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "roofr": {
+  "url": "https://cdn.prod.website-files.com/6493173e3cea69ef8852e657/673bc86d65da704c16740fb1_home.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-20"
+ },
+ "rootly": {
+  "url": "https://rootly.com/og/home.webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-10-20"
  },
  "rosebud": {
   "url": "https://www.rosebud.app/og-image.png",

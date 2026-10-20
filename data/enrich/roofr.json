@@ -1,0 +1,121 @@
+{
+  "slug": "roofr",
+  "checked": "Oct 20, 2026",
+  "founded": 2016,
+  "hq": "San Francisco, CA (most staff remote in Canada)",
+  "headcount_est": {
+    "value": "~308",
+    "as_of": "Mar 2026",
+    "source": "https://www.reveliolabs.com/companies/roofr/employees"
+  },
+  "leadership": [
+    {
+      "name": "Richy Nelson",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/roofr-recognized-as-a-2026-inc-power-partner-award-winner-302913073.html"
+    },
+    {
+      "name": "Kevin Redman",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://tracxn.com/d/companies/roofr/__6mi_m9GfIUPXCI-ZdXnRXBKO7UO2jT1N6_nNfFyFWhY"
+    },
+    {
+      "name": "Kathy Arcano",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/roofr-names-kathy-arcano-as-first-chief-financial-officer-to-accelerate-next-phase-of-growth-302670669.html"
+    },
+    {
+      "name": "Dave Zinman",
+      "title": "Chief Operating Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/roofr-accelerates-growth-strategy-with-appointment-of-tech-veteran-dave-zinman-as-chief-operating-officer-302729550.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-05",
+      "amount": "$4.25M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2021/05/18/roofr-just-nailed-down-a-second-seed-round-to-make-new-roofing-sales-a-cinch-to-close"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-09",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techfundingnews.com/roofr-raises-12m-to-build-a-new-saas-platform/"
+    },
+    {
+      "round": "Series A+",
+      "date": "2023-10",
+      "amount": "$23.5M",
+      "valuation": null,
+      "lead": "Vertical Venture Partners",
+      "source": "http://prnewswire.com/news-releases/roofr-raises-23-5m-in-funding-to-build-out-the-end-to-end-roofing-software-301959933.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-01",
+      "amount": "Undisclosed",
+      "valuation": null,
+      "lead": "TCV, ABC Supply",
+      "source": "https://www.prnewswire.com/news-releases/roofr-raises-series-b-funding-from-tcv-and-abc-supply-to-expand-roofing-crm-302362118.html"
+    }
+  ],
+  "total_raised": "$43.9M+ disclosed (excl. Series B)",
+  "revenue_est": {
+    "value": "~$35M (est.)",
+    "as_of": "2023",
+    "basis": "estimate",
+    "source": "https://getlatka.com/companies/roofr.com"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Named a 2026 Inc. Power Partner Award winner",
+      "url": "https://www.prnewswire.com/news-releases/roofr-recognized-as-a-2026-inc-power-partner-award-winner-302913073.html"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Federal Circuit affirms invalidation of two EagleView patents asserted against Roofr",
+      "url": "https://news.bloomberglaw.com/ip-law/roofr-wipes-out-patents-underlying-delaware-infringement-suit"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Verisk Xactimate integration for insurance estimates",
+      "url": "https://www.prnewswire.com/news-releases/roofr-verisk-team-up-to-help-contractors-submit-faster-more-accurate-insurance-estimates-302743334.html"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Appoints Dave Zinman as Chief Operating Officer",
+      "url": "https://www.prnewswire.com/news-releases/roofr-accelerates-growth-strategy-with-appointment-of-tech-veteran-dave-zinman-as-chief-operating-officer-302729550.html"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Names Kathy Arcano (ex-Amazon, Flock Safety) first CFO",
+      "url": "https://www.prnewswire.com/news-releases/roofr-names-kathy-arcano-as-first-chief-financial-officer-to-accelerate-next-phase-of-growth-302670669.html"
+    },
+    {
+      "date": "2025-01",
+      "headline": "Raises Series B led by TCV and ABC Supply",
+      "url": "https://www.prnewswire.com/news-releases/roofr-raises-series-b-funding-from-tcv-and-abc-supply-to-expand-roofing-crm-302362118.html"
+    }
+  ],
+  "competitors": [
+    "AccuLynx",
+    "JobNimbus",
+    "EagleView",
+    "Hover",
+    "companycam"
+  ]
+}

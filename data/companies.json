@@ -35437,5 +35437,151 @@
    "New York",
    "Remote"
   ]
+ },
+ {
+  "name": "incident.io",
+  "slug": "incident-io",
+  "site": "https://incident.io",
+  "careers_url": "https://jobs.ashbyhq.com/incident",
+  "what_they_do": "On-call, incident response, status pages and AI root-cause investigation for engineering teams",
+  "problem": "When software breaks, engineers scramble across alerts, Slack and tools to find the cause and keep customers updated",
+  "industry": "Incident management / reliability software",
+  "stage": "Series B",
+  "last_round": "$62M",
+  "last_round_date": "Apr 2025",
+  "lead_investors": "Insight Partners",
+  "total_open_roles": "34",
+  "ops_roles": "VP of Customer Success; Manager, Customer Success Team (AMER); Enterprise Customer Success Manager; Commercial Customer Success Manager",
+  "hiring_trend": "Headcount ~128 → ~220 in 12 mo (+72% YoY, LinkedIn); 200+ by Mar 2026, from ~80 in Apr 2025",
+  "headcount": "~220",
+  "latest_news": "Launched PagerDuty Rescue Program with contract buyouts and automated migration",
+  "latest_news_date": "May 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/incidentio-launches-pagerduty-rescue-program-302770810.html",
+  "traction": "ARR doubled in 2025 (10M+ ARR mid-2025); 2,000+ customers incl. Netflix, Airbnb, Zendesk",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "36",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/incident-io-Reviews-E7069946.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Fast-rising challenger to PagerDuty with 2,000+ customers (Netflix, Airbnb, Zendesk) and an AI investigation layer; CEO says it now adds more ARR in absolute dollars than the category leader, but PagerDuty, Rootly and AI-SRE startups still contest the market.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: incident.io launches PagerDuty Rescue Program (May 2026)",
+    "url": "https://www.prnewswire.com/news-releases/incidentio-launches-pagerduty-rescue-program-302770810.html"
+   },
+   {
+    "label": "TechCrunch: incident.io raises $62M at ~$400M valuation (Apr 2025)",
+    "url": "https://techcrunch.com/2025/04/10/incident-io-raises-62m-at-a-400m-valuation-to-help-it-teams-move-fast-when-things-break/"
+   }
+  ],
+  "hiring_locations": [
+   "London",
+   "San Francisco",
+   "New York",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Rootly",
+  "slug": "rootly",
+  "site": "https://rootly.com",
+  "careers_url": "https://jobs.gem.com/rootly",
+  "what_they_do": "AI-native on-call, incident response, retrospectives and AI SRE agents inside Slack and Teams",
+  "problem": "Engineering teams lose hours coordinating outages by hand and paging the wrong people while customers wait",
+  "industry": "Incident management / reliability software",
+  "stage": "Series A",
+  "last_round": "$12M",
+  "last_round_date": "Aug 2023",
+  "lead_investors": "Renegade Partners",
+  "total_open_roles": "17",
+  "ops_roles": "Forward Deployed Technical Product Manager; Strategic Customer Success Manager (Bay Area); Customer Success Manager",
+  "hiring_trend": "Headcount 56 → 75 (+34%) 2025 to Mar 2026 (Revelio); ~92 on LinkedIn",
+  "headcount": "~75-92",
+  "latest_news": "Acquired ThinkHive, an AI agent reliability and evaluation platform",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://rootly.com/blog/why-rootly-acquired-thinkhive",
+  "traction": "CEO: 2025 revenue exceeded all prior years combined; cash-flow positive; customers incl. NVIDIA, Okta",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "20",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Rootly-Reviews-E6920007.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Capital-efficient (cash-flow positive on $15M raised) with enterprise logos like NVIDIA, Okta and Canva, but smaller than incident.io and PagerDuty, and its growth figures come only from the CEO.",
+  "distance_sources": [
+   {
+    "label": "Rootly: Why Rootly acquired ThinkHive (Jul 2026)",
+    "url": "https://rootly.com/blog/why-rootly-acquired-thinkhive"
+   },
+   {
+    "label": "JJ Tang (CEO) on LinkedIn: 2025 record year, cash-flow positive (Feb 2026)",
+    "url": "https://www.linkedin.com/posts/jjrichardtang_last-week-we-closed-out-another-record-setting-activity-7425645001943961600-9Ui8"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Roofr",
+  "slug": "roofr",
+  "site": "https://roofr.com",
+  "careers_url": "https://job-boards.greenhouse.io/roofr",
+  "what_they_do": "All-in-one CRM for roofing contractors: aerial measurements, proposals, payments, material ordering",
+  "problem": "Roofing contractors juggle measurement tools, spreadsheets and paper proposals, losing jobs and margin to slow quoting",
+  "industry": "Vertical SaaS / roofing contractor software",
+  "stage": "Series B",
+  "last_round": "Undisclosed",
+  "last_round_date": "Jan 2025",
+  "lead_investors": "TCV, ABC Supply",
+  "total_open_roles": "12",
+  "ops_roles": "Onboarding Manager, Bilingual (Spanish); Onboarding Manager, Bilingual (English/Spanish) - Contract; Customer Success Manager",
+  "hiring_trend": "Headcount 231 → 308 (+33%) 2025 to Mar 2026 (Revelio); Dealroom shows +9.5% team growth over past year",
+  "headcount": "~300",
+  "latest_news": "Named a 2026 Inc. Power Partner; added first CFO (Jan) and COO (Mar) in 2026",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/roofr-recognized-as-a-2026-inc-power-partner-award-winner-302913073.html",
+  "traction": "12,000+ roofing companies; $5.27B in proposals and 2.4M jobs created on platform in 2025",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.7",
+  "glassdoor_reviews": "73",
+  "glassdoor_url": "https://www.glassdoor.co.uk/Overview/Working-at-Roofr-EI_IE2379934.11,16.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Large contractor base (12,000+ companies) and supplier integrations with ABC Supply, SRS, QXO and Verisk, but it trails AccuLynx and JobNimbus in review volume, and PE-backed rivals are well funded.",
+  "distance_sources": [
+   {
+    "label": "The Roofing Brief: 2026 roofing CRM software showdown (Jun 2026)",
+    "url": "https://theroofingbrief.com/2026-roofing-crm-software-showdown/"
+   },
+   {
+    "label": "PR Newswire: Roofr, Verisk team up on Xactimate estimates (Apr 2026)",
+    "url": "https://www.prnewswire.com/news-releases/roofr-verisk-team-up-to-help-contractors-submit-faster-more-accurate-insurance-estimates-302743334.html"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (Canada)",
+   "Remote (LatAm)"
+  ]
  }
 ]

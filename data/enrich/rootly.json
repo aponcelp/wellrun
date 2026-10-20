@@ -1,0 +1,80 @@
+{
+  "slug": "rootly",
+  "checked": "Oct 20, 2026",
+  "founded": 2021,
+  "hq": "San Francisco, CA (large team in Toronto)",
+  "headcount_est": {
+    "value": "~75",
+    "as_of": "Mar 2026",
+    "source": "https://www.reveliolabs.com/companies/rootly/employees"
+  },
+  "leadership": [
+    {
+      "name": "JJ Tang",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/jjrichardtang",
+      "source": "https://techcrunch.com/2023/08/10/incident-response-management-platform-rootly-secures-12m/"
+    },
+    {
+      "name": "Quentin Rousseau",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.infoq.com/news/2026/08/rootly-small-pr-agentic-ai/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-07",
+      "amount": "$3.2M",
+      "valuation": null,
+      "lead": "XYZ Venture Capital",
+      "source": "https://techcrunch.com/2021/07/08/rootly-nabs-3-2m-seed-to-build-sre-incident-management-solution-inside-slack/"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-08",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "Renegade Partners",
+      "source": "https://techcrunch.com/2023/08/10/incident-response-management-platform-rootly-secures-12m/"
+    }
+  ],
+  "total_raised": "$15.2M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Rootly Agent ships in the mobile app",
+      "url": "https://x.com/rootlyhq/status/2093005794589524194"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Acquires ThinkHive, an AI agent reliability and evaluation platform",
+      "url": "https://rootly.com/blog/why-rootly-acquired-thinkhive"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Launches @Rootly AI Agent that takes actions inside Slack incident channels",
+      "url": "https://runtimewire.com/article/rootly-ai-agent-slack-incident-response"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Rootly MCP server reaches general availability",
+      "url": "https://rootly.com/blog/rootly-mcp-goes-ga-up-to-95-less-tokens-used-daily-by-enterprises?b9e754a1_page=2"
+    },
+    {
+      "date": "2026-02",
+      "headline": "CEO: 2025 revenue beat all prior years combined; still cash-flow positive",
+      "url": "https://www.linkedin.com/posts/jjrichardtang_last-week-we-closed-out-another-record-setting-activity-7425645001943961600-9Ui8"
+    }
+  ],
+  "competitors": [
+    "incident-io",
+    "PagerDuty",
+    "FireHydrant",
+    "resolve-ai"
+  ]
+}
