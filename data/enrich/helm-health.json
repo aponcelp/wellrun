@@ -1,0 +1,119 @@
+{
+  "slug": "helm-health",
+  "checked": "Oct 19, 2026",
+  "founded": 2019,
+  "hq": "Columbus, OH",
+  "headcount_est": {
+    "value": "~30",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/pay-with-helm"
+  },
+  "leadership": [
+    {
+      "name": "Ross Klosterman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/rossklosterman",
+      "source": "https://www.sec.gov/Archives/edgar/data/1834043/000092963826001080/primary_doc.xml"
+    },
+    {
+      "name": "Olivia Cameron",
+      "title": "Co-founder & Chief Product Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://wellfound.com/company/helm-health-1/people"
+    },
+    {
+      "name": "Brodie Stone",
+      "title": "Co-founder & Chief Commercial Officer",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/brodie-stone-47831163",
+      "source": "https://wellfound.com/company/helm-health-1/people"
+    },
+    {
+      "name": "Michael Grey",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://wellfound.com/company/helm-health-1/people"
+    },
+    {
+      "name": "Justin Reeder",
+      "title": "VP of Finance",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/pay-with-helm"
+    },
+    {
+      "name": "Carrie Stevens",
+      "title": "Head of Client Delivery",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/carrie-stevens-b667433",
+      "source": "https://linkedin.com/company/pay-with-helm"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed (as UnifiHealth; equity + debt)",
+      "date": "2020-11",
+      "amount": "$1.4M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=0001834043&action=getcompany&count=40&owner=include"
+    },
+    {
+      "round": "Series Seed",
+      "date": "2021-08",
+      "amount": "$6.7M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=0001834043&action=getcompany&count=40&owner=include"
+    },
+    {
+      "round": "Seed II",
+      "date": "2024-03",
+      "amount": "$2.6M",
+      "valuation": null,
+      "lead": "SpringTide Ventures",
+      "source": "https://www.formds.com/issuers/unifihealth-corp"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-10",
+      "amount": "$10.5M",
+      "valuation": null,
+      "lead": ".406 Ventures",
+      "source": "https://www.sec.gov/Archives/edgar/data/1834043/000092963826001080/primary_doc.xml"
+    }
+  ],
+  "total_raised": "$21.2M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "CEO Ross Klosterman joins HHS panel on new price-transparency rules",
+      "url": "https://www.linkedin.com/posts/carrie-stevens-b667433_a-proud-moment-for-the-helm-health-team-activity-7514372657249787904-XMt4"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Team nearly tripled in 10 months, per Helm's talent lead",
+      "url": "https://www.linkedin.com/posts/bauyang_snapshots-from-another-energizing-helm-health-activity-7488290573632851968-_2qn"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Form D filed for $10.5M Series A led by .406 Ventures (first close Oct 2025)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1834043/000092963826001080/primary_doc.xml"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Files 'Dynamic Copay' trademark",
+      "url": "https://markinton.com/trademark/dynamic-copay-99188129"
+    }
+  ],
+  "competitors": [
+    "Surest (UnitedHealthcare)",
+    "Centivo",
+    "Curative",
+    "Collective Health"
+  ]
+}

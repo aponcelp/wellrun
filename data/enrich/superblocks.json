@@ -1,0 +1,92 @@
+{
+  "slug": "superblocks",
+  "checked": "Oct 19, 2026",
+  "founded": 2021,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~50",
+    "as_of": "Aug 2026",
+    "source": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
+  },
+  "leadership": [
+    {
+      "name": "Brad Menezes",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/bradmenezes",
+      "source": "https://dealroom.co/companies/superblocks"
+    },
+    {
+      "name": "Ran Ma",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://dealroom.co/companies/superblocks"
+    },
+    {
+      "name": "Ajinkya Joshi",
+      "title": "Head of Finance & Operations",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/ajinkya-joshi-98454a31",
+      "source": "https://www.linkedin.com/posts/cheryl-ng_im-wrapping-up-my-chapter-at-superblocks-activity-7326605646320095232-3eWP"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2022-08",
+      "amount": "$37M",
+      "valuation": null,
+      "lead": "Kleiner Perkins, Greenoaks, Spark Capital, Meritech",
+      "source": "https://www.finsmes.com/2022/08/superblocks-raises-37m-in-funding.html"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2025-05",
+      "amount": "$23M",
+      "valuation": "$185M (Dealroom, unconfirmed)",
+      "lead": "Existing investors: Kleiner Perkins, Spark Capital, Greenoaks, Meritech",
+      "source": "https://www.businesswire.com/news/home/20250520713435/en/Superblocks-Raises-%2423M-to-Securely-Generate-Enterprise-Apps-in-the-Era-of-AI-Vibe-Coding"
+    }
+  ],
+  "total_raised": "$60M",
+  "revenue_est": {
+    "value": "~$5.5M annual revenue",
+    "as_of": "Oct 2026 (third-party profile figure; underlying date not given)",
+    "basis": "estimate",
+    "source": "https://linkedin.com/company/superblockshq"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Multiyear AWS partnership; Superblocks 3.0 runs inside customers' AWS VPCs",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "CEO says company closed $1M in 24 hours after rebuilding the product",
+      "url": "https://www.linkedin.com/posts/bradmenezes_we-just-closed-1m-in-24-hours-thats-activity-7490802322571448320-pmjn"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Launches Superblocks 2.0: governed enterprise vibe coding",
+      "url": "http://superblocks.com/blog/announcing-superblocks-2-0-a-new-era-for-governed-enterprise-vibe-coding"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Strategic partnership with Databricks for secure enterprise vibe coding",
+      "url": "https://www.superblocks.com/blog"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Raises $23M Series A extension ($60M total), launches Clark AI agent",
+      "url": "https://siliconangle.com/2025/05/27/exclusive-superblocks-raises-23m-rein-wild-west-vibe-coding/"
+    }
+  ],
+  "competitors": [
+    "retool",
+    "lovable",
+    "replit",
+    "Microsoft Power Apps"
+  ]
+}

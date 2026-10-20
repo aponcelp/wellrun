@@ -33975,5 +33975,118 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Helm Health",
+  "slug": "helm-health",
+  "site": "https://www.helmhealth.com",
+  "careers_url": "https://jobs.gem.com/helm-health",
+  "what_they_do": "Dynamic Copay health-plan infrastructure that insurers and TPAs use to launch upfront-price plans",
+  "problem": "Members can't see what care costs before they go; deductible plans confuse members and don't save employers money",
+  "industry": "Health insurance infrastructure / health plan tech",
+  "stage": "Series A",
+  "last_round": "$10.5M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": ".406 Ventures",
+  "total_open_roles": "8",
+  "ops_roles": "Chief of Staff; Head of Client Support and Operations; Staff Product Manager: Admin Dashboard & Configuration Engine",
+  "hiring_trend": "Headcount ~14 → ~30 in 12 mo (+114% YoY, LinkedIn); open roles 10 (Mar 2026) → 8 now",
+  "headcount": "~30",
+  "latest_news": "CEO Ross Klosterman spoke on HHS price-transparency panel about Dynamic Copay",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/carrie-stevens-b667433_a-proud-moment-for-the-helm-health-team-activity-7514372657249787904-XMt4",
+  "traction": "Team ~doubled to ~30 in a year; clients from local plans to large national insurers (unnamed); no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Sits inside carriers' and TPAs' claims workflow (sticky once live) and says it is the only independent Dynamic Copay platform, but it is a ~30-person Series A with no named customers or revenue yet, and UnitedHealthcare's Surest already owns the category's best-known plan.",
+  "distance_sources": [
+   {
+    "label": "Helm: Partners page, integrates with any claims platform",
+    "url": "https://helmhealth.com/partners"
+   },
+   {
+    "label": "SEC Form D: $10.5M Series A Preferred (first sale Oct 28, 2025; filed Mar 23, 2026)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1834043/000092963826001080/primary_doc.xml"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Superblocks",
+  "slug": "superblocks",
+  "site": "https://www.superblocks.com",
+  "careers_url": "https://jobs.gem.com/superblocks",
+  "what_they_do": "AI agent (Clark) that builds governed internal enterprise apps under IT control",
+  "problem": "Business teams vibe-code internal apps on company data with no permissions, audits or IT oversight",
+  "industry": "Enterprise AI app building / internal tools",
+  "stage": "Series A",
+  "last_round": "$23M",
+  "last_round_date": "May 2025",
+  "lead_investors": "Kleiner Perkins, Spark Capital, Greenoaks, Meritech (insider-led extension)",
+  "total_open_roles": "7",
+  "ops_roles": "AI Deployment Strategist; Forward Deployed Engineer",
+  "hiring_trend": "Flat to shrinking: ~50 staff May 2025 and Aug 2026 despite plan to double; team -8.9% YoY (Dealroom)",
+  "headcount": "~50-60",
+  "latest_news": "Multiyear AWS partnership and Superblocks 3.0 for private-cloud enterprise vibe coding",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+  "traction": "~$5.5M revenue (third-party est.); customers incl. SoFi, Instacart, LinkedIn; CEO: '$1M closed in 24h' (Aug 2026)",
+  "red_flags": "Shrinking/flat team through a 2025 product reset: Dealroom shows team -8.9% YoY, headcount stuck at ~50 vs a May 2025 plan to double, the CEO says the company threw out its first product and 'lost some team members', and an Oct 2025 Glassdoor review says the company is 'bleeding talent'.",
+  "red_flags_sources": [
+   {
+    "label": "Dealroom: Superblocks team -8.9% over past year",
+    "url": "https://dealroom.co/companies/superblocks"
+   },
+   {
+    "label": "SiliconANGLE: $23M extension, plan to double from 50 employees (May 2025)",
+    "url": "https://siliconangle.com/2025/05/27/exclusive-superblocks-raises-23m-rein-wild-west-vibe-coding/"
+   },
+   {
+    "label": "TechCrunch: Superblocks has 50 employees (Aug 2026)",
+    "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
+   },
+   {
+    "label": "Brad Menezes (CEO) LinkedIn: rebuilt company, 'lost some team members' (Aug 2026)",
+    "url": "https://www.linkedin.com/posts/bradmenezes_we-just-closed-1m-in-24-hours-thats-activity-7490802322571448320-pmjn"
+   },
+   {
+    "label": "Glassdoor review 'Clueless Founders': 'company is bleeding talent' (Oct 2025)",
+    "url": "https://www.glassdoor.sg/Reviews/Employee-Review-Superblocks-E2294157-RVW100658175.htm"
+   }
+  ],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "5",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Superblocks-Reviews-E2294157.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Follower in a crowded category: Retool leads internal tools and Lovable, Replit and Microsoft Power Apps chase the same enterprise buyer; the governance angle and AWS, Snowflake and Databricks partnerships help, but at ~50 staff and ~$5M revenue it hasn't shown scale.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: AWS partnership, 50 employees (Aug 2026)",
+    "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
+   },
+   {
+    "label": "Superblocks: Announcing Superblocks 2.0 (customers SoFi, Airwallex, LinkedIn)",
+    "url": "http://superblocks.com/blog/announcing-superblocks-2-0-a-new-era-for-governed-enterprise-vibe-coding"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
