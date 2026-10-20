@@ -1,0 +1,97 @@
+{
+  "slug": "dili",
+  "checked": "Oct 20, 2026",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~62 on LinkedIn (+244% YoY); company said 'roughly 30' in a Sep 2026 job post",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/dili-ai"
+  },
+  "leadership": [
+    {
+      "name": "Anand Chaturvedi",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/anandchaturvedi1",
+      "source": "https://www.dili.com/about/"
+    },
+    {
+      "name": "Brian Fernandez",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/brianfernandez1",
+      "source": "https://www.dili.com/about/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Accelerator (YC S23)",
+      "date": "2023-06",
+      "amount": "$500K (standard YC deal)",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://www.teardown.ai/companies/dili"
+    },
+    {
+      "round": "Seed",
+      "date": "2024-02",
+      "amount": "$3.6M",
+      "valuation": null,
+      "lead": "Rebel Fund, Allianz (lead not formally stated)",
+      "source": "https://techcrunch.com/2024/02/19/dili-wants-to-automate-due-diligence-with-ai/"
+    },
+    {
+      "round": "Seed (extensions, total)",
+      "date": null,
+      "amount": "$6.7M total seed",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-07",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Khosla Ventures",
+      "source": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/"
+    }
+  ],
+  "total_raised": "$21.7M",
+  "revenue_est": {
+    "value": "~$1.4M ARR (Extruct AI estimate)",
+    "as_of": "Aug 2026",
+    "basis": "estimate",
+    "source": "https://www.teardown.ai/companies/dili"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "CTO outlines library of tested compliance scenarios as Dili adds state frameworks",
+      "url": "https://www.linkedin.com/posts/brianfernandez1_one-thing-weve-been-thinking-about-a-lot-activity-7501307807225528320-qeEH"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Raises $15M Series A led by Khosla Ventures; $21.7M total",
+      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Reports 700+ projects, $1.4B wages processed; customers EDF, Radiance, Heelstone",
+      "url": "https://www.globenewswire.com/news-release/2026/07/30/3336377/0/en/dili-raises-21-7m-from-khosla-ventures-to-bring-ai-powered-assurance-to-america-s-infrastructure-boom.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Khosla: Dili grew 500%+ in 6 months, $4B project spend under management",
+      "url": "https://www.linkedin.com/posts/khosla-ventures_were-thrilled-to-lead-dilis-15m-series-activity-7488635182254587904-EDS2"
+    }
+  ],
+  "competitors": [
+    "LCPtracker",
+    "eBacon",
+    "Elation Systems",
+    "Points North",
+    "Reunion Infrastructure"
+  ]
+}
