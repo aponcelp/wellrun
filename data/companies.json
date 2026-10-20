@@ -34486,5 +34486,53 @@
    "Salt Lake City",
    "Remote"
   ]
+ },
+ {
+  "name": "Convey",
+  "slug": "convey",
+  "site": "https://convey.dev",
+  "careers_url": "https://jobs.ashbyhq.com/conveydev",
+  "what_they_do": "No-code AI 'digital teammates' that run back-office operations work for enterprises",
+  "problem": "Skilled operators lose hours a day to repetitive cross-system work like invoices, reports and order entry",
+  "industry": "Enterprise AI / operations automation",
+  "stage": "Series A",
+  "last_round": "$38M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Andreessen Horowitz (A); Khosla Ventures, Pear VC (Seed)",
+  "total_open_roles": "7",
+  "ops_roles": "Customer Success Manager; Solutions Architect",
+  "hiring_trend": "Headcount ~8 → ~21 in 12 mo (+162% YoY, LinkedIn est.); 7 open roles, 4 posted in Oct",
+  "headcount": "~18-21",
+  "latest_news": "Raised $38M Series A led by a16z; Joe Schmidt joins board",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20260617486214/en/Convey-Raises-%2438-Million-Series-A-Led-by-Andreessen-Horowitz-to-Automate-Enterprise-Operations-with-AI-Teammates",
+  "traction": "1M+ hours automated; dozens of paying customers incl. Netflix, NBCUniversal, Pinterest",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "AI teammates spread inside big customers, but AI labs and RPA vendors crowd in.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Convey raises $38M Series A; ChargePoint 'went viral internally' (Jun 2026)",
+    "url": "https://www.businesswire.com/news/home/20260617486214/en/Convey-Raises-%2438-Million-Series-A-Led-by-Andreessen-Horowitz-to-Automate-Enterprise-Operations-with-AI-Teammates"
+   },
+   {
+    "label": "Business Insider: Convey raises $38M; AI labs pushing into agents named as threat (Jun 2026)",
+    "url": "https://www.businessinsider.com/convey-raises-38-million-a16z-to-automate-repetitive-office-work-2026-6"
+   }
+  ],
+  "hiring_locations": [
+   "Convey"
+  ]
  }
 ]

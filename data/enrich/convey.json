@@ -1,0 +1,109 @@
+{
+ "slug": "convey",
+ "checked": "Oct 19, 2026",
+ "founded": 2024,
+ "hq": "San Francisco, CA",
+ "headcount_est": {
+  "value": "~21 on LinkedIn (+162% YoY); ~18 per Caplight (Aug 2026)",
+  "as_of": "Oct 2026",
+  "source": "https://linkedin.com/company/conveyai"
+ },
+ "leadership": [
+  {
+   "name": "Rohan Chopra",
+   "title": "Co-founder & CEO",
+   "founder": true,
+   "linkedin": "https://www.linkedin.com/in/rohanbchopra",
+   "source": "https://convey.dev/careers"
+  },
+  {
+   "name": "Will Harvey",
+   "title": "Co-founder (ex-CTO, ClearMetal)",
+   "founder": true,
+   "linkedin": "https://www.linkedin.com/in/willeharvey",
+   "source": "https://convey.dev/careers"
+  },
+  {
+   "name": "Diego Canales",
+   "title": "Co-founder (ex-CPO, ClearMetal)",
+   "founder": true,
+   "linkedin": "https://www.linkedin.com/in/diego-canales-2b396238",
+   "source": "https://convey.dev/careers"
+  },
+  {
+   "name": "Penn Daniel",
+   "title": "Head of Growth & Ops",
+   "founder": false,
+   "linkedin": null,
+   "source": "https://linkedin.com/company/conveyai"
+  },
+  {
+   "name": "Sean Duggan",
+   "title": "Head of Strategic Deployments",
+   "founder": false,
+   "linkedin": null,
+   "source": "https://linkedin.com/company/conveyai"
+  },
+  {
+   "name": "Andrew Miller",
+   "title": "Head of Marketing (joined Aug 2026)",
+   "founder": false,
+   "linkedin": "https://www.linkedin.com/in/armiller123",
+   "source": "https://www.linkedin.com/posts/armiller123_convey-meet-your-new-teammate-activity-7497757269175042049-Fxlo"
+  }
+ ],
+ "funding_history": [
+  {
+   "round": "Seed",
+   "date": null,
+   "amount": null,
+   "valuation": null,
+   "lead": "Undisclosed (Khosla Ventures and Pear VC backed the seed; SV Angel, Applico Capital also investors)",
+   "source": "https://www.businesswire.com/news/home/20260617486214/en/Convey-Raises-%2438-Million-Series-A-Led-by-Andreessen-Horowitz-to-Automate-Enterprise-Operations-with-AI-Teammates"
+  },
+  {
+   "round": "Series A",
+   "date": "2026-06",
+   "amount": "$38M",
+   "valuation": null,
+   "lead": "Andreessen Horowitz",
+   "source": "https://www.businesswire.com/news/home/20260617486214/en/Convey-Raises-%2438-Million-Series-A-Led-by-Andreessen-Horowitz-to-Automate-Enterprise-Operations-with-AI-Teammates"
+  }
+ ],
+ "total_raised": "$42.4M (PitchBook; seed implied ~$4.4M)",
+ "revenue_est": null,
+ "news_timeline": [
+  {
+   "date": "2026-08",
+   "headline": "TelevisaUnivision case study: hundreds of thousands of hours reclaimed in 7 months",
+   "url": "https://www.linkedin.com/posts/rohanbchopra_excited-to-share-how-televisaunivision-used-activity-7495509907895484416-NlYY"
+  },
+  {
+   "date": "2026-08",
+   "headline": "Andrew Miller joins as head of marketing",
+   "url": "https://www.linkedin.com/posts/armiller123_convey-meet-your-new-teammate-activity-7497757269175042049-Fxlo"
+  },
+  {
+   "date": "2026-06",
+   "headline": "Raises $38M Series A led by a16z; Khosla and Pear return; Joe Schmidt joins board",
+   "url": "https://www.businesswire.com/news/home/20260617486214/en/Convey-Raises-%2438-Million-Series-A-Led-by-Andreessen-Horowitz-to-Automate-Enterprise-Operations-with-AI-Teammates"
+  },
+  {
+   "date": "2026-06",
+   "headline": "Passes 1M hours of automated work for NBCUniversal, Samsara, Faire, ChargePoint",
+   "url": "https://www.businessinsider.com/convey-raises-38-million-a16z-to-automate-repetitive-office-work-2026-6"
+  },
+  {
+   "date": "2026-04",
+   "headline": "Public launch post: 'The World's Best Companies Are Still Running on A Guy Named Steve'",
+   "url": "https://convey.dev/blog"
+  }
+ ],
+ "competitors": [
+  "sola",
+  "lindy",
+  "UiPath",
+  "Automation Anywhere",
+  "manus"
+ ]
+}

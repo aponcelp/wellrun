@@ -695,6 +695,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "convey": {
+  "url": "https://convey.dev/convey-preview-thumbnail.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-20"
+ },
  "corgi": {
   "url": "https://www.corgi.insure/api/og?title=Startup+Insurance%2C+Quoted+in+Minutes&type=page&v=10",
   "kind": "og",
