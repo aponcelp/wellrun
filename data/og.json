@@ -1091,6 +1091,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "fermat": {
+  "url": "https://www.fermatcommerce.com/assets/marketing/brand/open-graph.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-20"
+ },
  "fieldguide": {
   "url": "https://cdn.sanity.io/images/7nusea7n/production/81e154adbf109a7c0f97a497f5b38e1f8b3ccd37-1200x630.png?w=1200&h=630&fit=crop",
   "kind": "og",

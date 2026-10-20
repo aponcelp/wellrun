@@ -1,0 +1,116 @@
+{
+  "slug": "fermat",
+  "checked": "Oct 20, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~87 (Revelio); company says 60+",
+    "as_of": "Mar 2026 (Revelio); Oct 2026 (company posting)",
+    "source": "https://www.reveliolabs.com/companies/fermat-commerce/employees"
+  },
+  "leadership": [
+    {
+      "name": "Rishabh Jain",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/rishabhmjain",
+      "source": "https://www.fermatcommerce.com/about"
+    },
+    {
+      "name": "Shreyas Kumar",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/shreyaskumar92",
+      "source": "https://www.fermatcommerce.com/about"
+    },
+    {
+      "name": "Saunder Schroeder",
+      "title": "SVP of Growth",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/saunderschroed_same-book-new-chapter-or-something-excited-activity-7392630759141883904-J3AF"
+    },
+    {
+      "name": "Evelyn Xue",
+      "title": "VP of Finance + Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theorg.com/org/fermatcommerce/teams/leadership-team"
+    },
+    {
+      "name": "Gillian Roth",
+      "title": "Head of Enterprise Sales",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theorg.com/org/fermatcommerce/teams/leadership-team"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-09",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "Greylock, QED Investors",
+      "source": "https://www.prnewswire.com/news-releases/distributed-commerce-company-fermat-launches-with-12m-from-greylock-and-qed-investors-to-boost-acquisition-for-brands-and-audience-engagement-for-influencers-301627232.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-03",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "Bain Capital Ventures",
+      "source": "https://www.fermatcommerce.com/news/fermat-raises-17m-series-a-to-accelerate-our-mission"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-06",
+      "amount": "$45M",
+      "valuation": null,
+      "lead": "VMG Partners",
+      "source": "https://www.prnewswire.com/news-releases/fermat-raises-45m-series-b-to-define-the-future-of-ai-powered-commerce-experiences-302478623.html"
+    }
+  ],
+  "total_raised": "$74M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-07",
+      "headline": "Launches august, digital twins of real customers, at getaugust.ai",
+      "url": "https://www.fermatcommerce.com/news/introducing-august"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Public beta of Commerce Graph behavioral intelligence layer",
+      "url": "https://www.fermatcommerce.com/news/introducing-commerce-graph"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Opens FERMÀT data to any AI tool via MCP endpoint; Backcountry first live",
+      "url": "https://www.fermatcommerce.com/news/fermat-mcp"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Glassdoor review describes restructuring that eliminated entire groups",
+      "url": "https://www.glassdoor.com.hk/Reviews/Employee-Review-FERM%C3%80T-Commerce-E9422031-RVW101833429.htm"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Launches AI Search Commerce Engine for ChatGPT/Claude/Gemini traffic",
+      "url": "https://www.prnewswire.com/news/fermat-commerce/"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Raises $45M Series B led by VMG Partners; ARR up 5x since Series A",
+      "url": "https://www.prnewswire.com/news-releases/fermat-raises-45m-series-b-to-define-the-future-of-ai-powered-commerce-experiences-302478623.html"
+    }
+  ],
+  "competitors": [
+    "Replo",
+    "Shogun",
+    "Comet",
+    "Optimizely",
+    "Dynamic Yield"
+  ]
+}

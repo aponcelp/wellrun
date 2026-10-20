@@ -35044,5 +35044,82 @@
    "India",
    "Remote"
   ]
+ },
+ {
+  "name": "FERMÀT",
+  "slug": "fermat",
+  "site": "https://www.fermatcommerce.com",
+  "careers_url": "https://job-boards.greenhouse.io/fermat",
+  "what_they_do": "AI-generated post-click shopping pages, funnels and carts for ecommerce brands' ads and emails",
+  "problem": "Brands pay for clicks then dump shoppers on a generic site; matched, tested shopping paths convert better",
+  "industry": "Ecommerce software / conversion & personalization",
+  "stage": "Series B",
+  "last_round": "$45M",
+  "last_round_date": "Jun 2025",
+  "lead_investors": "VMG Partners (B); Bain Capital Ventures (A); Greylock, QED (seed)",
+  "total_open_roles": "3",
+  "ops_roles": "Head of Forward Deployed Product Management (SF on-site)",
+  "hiring_trend": "Shrinking: LinkedIn 86 staff (-13% YoY); company now says '60+ person team'; 3 open roles vs ~42 posted in 2025",
+  "headcount": "~60-90",
+  "latest_news": "Launched august, digital twins of real customers for instant research",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.fermatcommerce.com/news/introducing-august",
+  "traction": "ARR up 5x Mar 2024-Jun 2025 (company, undisclosed base); 100+ brands incl. GNC, Glossier",
+  "red_flags": "Late-2025 restructuring: a Dec 2025 Glassdoor review says entire groups were eliminated after GTM strategy shifts; headcount down ~13-17% YoY on LinkedIn-based trackers and the company's own Oct 2026 posting now cites a '60+ person team' (vs ~90 in 2025; Revelio shows flat 87). Marketing leadership churn (VP Marketing left Sep 2025, CMO Oct 2025); Storeleads detectable installs down 7.6% YoY.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor review 'Headwinds': restructuring, entire groups eliminated (Dec 2025)",
+    "url": "https://www.glassdoor.com.hk/Reviews/Employee-Review-FERM%C3%80T-Commerce-E9422031-RVW101833429.htm"
+   },
+   {
+    "label": "TrueUp: ~60 employees, -17% past 12 months (2026)",
+    "url": "https://www.trueup.io/co/fermat-commerce"
+   },
+   {
+    "label": "LinkedIn company page: 86 employees, -13.1% YoY (2026)",
+    "url": "https://linkedin.com/company/fermat-commerce"
+   },
+   {
+    "label": "FERMÀT Greenhouse posting: 'a 60+ person team' (Oct 2026)",
+    "url": "https://job-boards.greenhouse.io/fermat/jobs/4444149009"
+   },
+   {
+    "label": "Alexa Kilroy: last day as VP of Marketing at FERMÀT (Sep 2025)",
+    "url": "https://www.linkedin.com/posts/alexakilroy_big-news-today-is-my-last-day-as-vp-of-marketing-activity-7369762920513130497-cDWI"
+   },
+   {
+    "label": "Rabah Rahil (CMO): last day at FERMÀT (Oct 2025)",
+    "url": "https://www.linkedin.com/posts/rabahrahil_tomorrow-is-my-last-day-at-ferm%C3%A0t-feels-activity-7389729478953951234-MZNn"
+   },
+   {
+    "label": "Teardown: Storeleads installs down 7.6% YoY; Glassdoor groups-eliminated accounts (Aug 2026)",
+    "url": "https://www.teardown.ai/companies/fermat"
+   }
+  ],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.3",
+  "glassdoor_reviews": "11",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/FERM%C3%80T-Commerce-Reviews-E9422031.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Claims a cross-brand shopper behavior graph, but lift is unproven publicly; it competes with cheap self-serve builders (Replo, Shogun, Comet) and enterprise testing tools, depends on Shopify, which keeps adding native AI storefront tools, and is shrinking.",
+  "distance_sources": [
+   {
+    "label": "Teardown: FERMÀT business model, competitors and outlook (Aug 2026)",
+    "url": "https://www.teardown.ai/companies/fermat"
+   },
+   {
+    "label": "PR Newswire: FERMÀT raises $45M Series B led by VMG (Jun 2025)",
+    "url": "https://www.prnewswire.com/news-releases/fermat-raises-45m-series-b-to-define-the-future-of-ai-powered-commerce-experiences-302478623.html"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
  }
 ]
