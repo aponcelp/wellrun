@@ -34785,5 +34785,55 @@
    "Remote (Europe)",
    "Remote (UK)"
   ]
+ },
+ {
+  "name": "Ohm",
+  "slug": "ohm",
+  "site": "https://www.ohm.ai",
+  "careers_url": "https://www.ohm.ai/careers",
+  "what_they_do": "AI platform that ingests and analyzes hardware test data for battery and engineering labs",
+  "problem": "Hardware engineers lose days wrangling scattered test data and run tests to completion when outcomes are already predictable",
+  "industry": "Vertical AI / hardware engineering & test analytics",
+  "stage": "Seed",
+  "last_round": "$4M",
+  "last_round_date": "Oct 2023",
+  "lead_investors": "Giant Ventures; Y Combinator (W23)",
+  "total_open_roles": "8",
+  "ops_roles": "Chief of Staff; Forward Deployed Engineer, Test & Validation; Forward Deployed Engineer, Battery Engineering",
+  "hiring_trend": "~16-19 staff (Caplight/LinkedIn est.); 8 open roles, US+UK hiring push since Apr 2026",
+  "headcount": "~16-19",
+  "latest_news": "Publicly launched Ohm platform for hardware test and validation (formerly Byterat)",
+  "latest_news_date": "May 2026",
+  "latest_news_url": "https://www.ohm.ai/blog/introducing-ohm",
+  "traction": "Company-stated: Fortune 10 tech customer, one Fortune 100 migration in 2025; no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Seed-stage with a handful of named customers (BMW pilot, Battery Innovation Center, Li-S Energy, EnPower) and company-stated enterprise wins; competes with legacy battery data tools like Voltaiq and Micantis, too early to judge staying power.",
+  "distance_sources": [
+   {
+    "label": "Ohm: Introducing Ohm, Fortune 10 customer claim (May 2026)",
+    "url": "https://www.ohm.ai/blog/introducing-ohm"
+   },
+   {
+    "label": "Ohm: Battery data platforms vs legacy rivals Voltaiq, Micantis, Batalyse, Astrolabe (May 2026)",
+    "url": "https://www.ohm.ai/blog/battery-data-platforms-whats-changed"
+   },
+   {
+    "label": "TechCrunch: Byterat $4M seed, BMW pilot (Oct 2023)",
+    "url": "https://techcrunch.com/2023/10/27/byterat-seed-round"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

@@ -1,0 +1,81 @@
+{
+  "slug": "ohm",
+  "checked": "Oct 20, 2026",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~19",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/ohm"
+  },
+  "leadership": [
+    {
+      "name": "Penelope Jones",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/penelopekjones",
+      "source": "https://www.ohm.ai/blog/introducing-ohm"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Accelerator (Creative Destruction Lab)",
+      "date": "2021",
+      "amount": null,
+      "valuation": null,
+      "lead": "Creative Destruction Lab",
+      "source": "https://pitchbook.com/profiles/company/516172-24"
+    },
+    {
+      "round": "Accelerator (Y Combinator W23)",
+      "date": "2023-03",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/byterat"
+    },
+    {
+      "round": "Seed (SAFEs)",
+      "date": "2023-10",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": "Giant Ventures",
+      "source": "https://techcrunch.com/2023/10/27/byterat-seed-round"
+    }
+  ],
+  "total_raised": "~$4M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-05",
+      "headline": "Publicly launches Ohm AI platform for hardware development and testing",
+      "url": "https://www.ohm.ai/blog/introducing-ohm"
+    },
+    {
+      "date": "2025-04",
+      "headline": "EnPower case study: cut R&D time with Ohm's battery platform",
+      "url": "https://ohm.ai/news"
+    },
+    {
+      "date": "2025-03",
+      "headline": "Battery Innovation Center (Indiana) picks Ohm to unify battery testing data",
+      "url": "https://ohm.ai/news"
+    },
+    {
+      "date": "2025-03",
+      "headline": "Li-S Energy adopts Ohm for electric-flight battery development",
+      "url": "https://ohm.ai/news"
+    },
+    {
+      "date": "2023-10",
+      "headline": "As Byterat, raises $4M seed led by Giant Ventures; BMW pilot",
+      "url": "https://techcrunch.com/2023/10/27/byterat-seed-round"
+    }
+  ],
+  "competitors": [
+    "Voltaiq",
+    "Micantis",
+    "Batalyse",
+    "Astrolabe"
+  ]
+}
