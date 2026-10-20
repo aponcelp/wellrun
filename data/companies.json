@@ -34435,5 +34435,56 @@
    "East Coast",
    "Remote"
   ]
+ },
+ {
+  "name": "Anrok",
+  "slug": "anrok",
+  "site": "https://www.anrok.com",
+  "careers_url": "https://jobs.ashbyhq.com/anrok",
+  "what_they_do": "Automated US sales tax, VAT and GST compliance for software, AI and ecommerce companies",
+  "problem": "Fast-growing companies selling online rack up tax obligations in dozens of states and countries without a tax team",
+  "industry": "Tax compliance / fintech",
+  "stage": "Series C",
+  "last_round": "$55M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": "Spark Capital (C); Khosla Ventures (B); Sequoia, Index (Seed, A)",
+  "total_open_roles": "16",
+  "ops_roles": "Onboarding Manager; Product Manager, File and Remit",
+  "hiring_trend": "Headcount ~95 → ~165 Q1 2025 to Q1 2026 (Revelio), ~180 on LinkedIn (+43% YoY est.); postings +33% in 2026",
+  "headcount": "~165-180",
+  "latest_news": "Hired Gareth Sudul (ex-Ditto, Groupon) as COO to lead tax ops, support, security",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/anrok_welcome-gareth-sudul-to-anroks-leadership-activity-7495879762968612864-dKP4",
+  "traction": "3,000+ customers incl. Anthropic, Cursor, Notion; ~$26-28M ARR (third-party est.); managed volume 4x YoY (company-stated, 2025)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.2",
+  "glassdoor_reviews": "12",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Anrok-Reviews-E8879312.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Filing infrastructure for 3,000+ companies is hard to rip out; Avalara, Stripe Tax and newer rivals crowd in.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Anrok raises $55M Series C, 3,000+ customers (Oct 2025)",
+    "url": "https://www.businesswire.com/news/home/20251015978298/en/Anrok-Raises-Series-C-to-Bring-Funding-to-Over-%24100-Million"
+   },
+   {
+    "label": "Anrok careers: customers incl. Anthropic, Cursor, Notion",
+    "url": "https://www.anrok.com/careers"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Salt Lake City",
+   "Remote"
+  ]
  }
 ]

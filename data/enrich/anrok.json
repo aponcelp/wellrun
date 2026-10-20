@@ -1,0 +1,135 @@
+{
+  "slug": "anrok",
+  "checked": "Oct 19, 2026",
+  "founded": 2020,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~165 (Revelio, Mar 2026); ~180 on LinkedIn",
+    "as_of": "Mar 2026",
+    "source": "https://www.reveliolabs.com/companies/anrok/employees"
+  },
+  "leadership": [
+    {
+      "name": "Brad Silicani",
+      "title": "CEO (since Jan 2026; previously COO)",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/brad-silicani-214483b",
+      "source": "https://www.linkedin.com/posts/brad-silicani-214483b_im-honored-to-share-that-ill-be-stepping-activity-7420588511906537472-pMPU"
+    },
+    {
+      "name": "Michelle Valentine",
+      "title": "Co-founder & Executive Chair",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/brad-silicani-214483b_im-honored-to-share-that-ill-be-stepping-activity-7420588511906537472-pMPU"
+    },
+    {
+      "name": "Kannan Goundan",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/sites/kenrickcai/2024/04/11/anrok-series-b-funding-250-million-valuation-sales-tax/"
+    },
+    {
+      "name": "Gareth Sudul",
+      "title": "COO",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/garethsudul",
+      "source": "https://www.linkedin.com/posts/anrok_welcome-gareth-sudul-to-anroks-leadership-activity-7495879762968612864-dKP4"
+    },
+    {
+      "name": "Dan Burrill",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/dburrill",
+      "source": "https://www.businesswire.com/news/home/20250527470223/en/Anrok-Names-Dan-Burrill-Companys-First-Chief-Revenue-Officer"
+    },
+    {
+      "name": "Eleanor Henderson",
+      "title": "Head of Tax",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.anrok.com/careers"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-06",
+      "amount": "$4.3M",
+      "valuation": null,
+      "lead": "Sequoia Capital, Index Ventures",
+      "source": "https://techcrunch.com/2021/06/14/anrok-raises-4-3m-to-solve-sales-tax-for-saas-companies/"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-03",
+      "amount": "$20M",
+      "valuation": ">$100M",
+      "lead": "Index Ventures, Sequoia Capital",
+      "source": "https://www.businesswire.com/news/home/20220301005403/en/Anrok-Raises-%2420M-in-New-Funding-to-Help-SaaS-Companies-Manage-Sales-Tax-on-Software"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-04",
+      "amount": "$30M",
+      "valuation": "$250M",
+      "lead": "Khosla Ventures",
+      "source": "https://www.forbes.com/sites/kenrickcai/2024/04/11/anrok-series-b-funding-250-million-valuation-sales-tax/"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-10",
+      "amount": "$55M",
+      "valuation": "$525M",
+      "lead": "Spark Capital",
+      "source": "https://www.bloomberg.com/news/articles/2025-10-21/spark-khosla-sequoia-back-startup-bringing-ai-to-tax-collection"
+    }
+  ],
+  "total_raised": "~$109M",
+  "revenue_est": {
+    "value": "~$27.6M ARR (modeled; range $18-37M)",
+    "as_of": "Jul 2026",
+    "basis": "estimate",
+    "source": "https://www.northmetric.io/estimate/anrok"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Hires Gareth Sudul (ex-Ditto, Groupon) as COO",
+      "url": "https://www.linkedin.com/posts/anrok_welcome-gareth-sudul-to-anroks-leadership-activity-7495879762968612864-dKP4"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Opens Anrok Atlas AI tax assistant to all customers in beta",
+      "url": "https://www.linkedin.com/posts/dburrill_today-were-opening-anrok-atlas-to-all-customers-activity-7480670653130428416-Mipi"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Launches native global compliance plus Zuora and WooCommerce integrations",
+      "url": "https://natlawreview.com/press-releases/anrok-sets-new-standard-global-tax-compliance-native-platform-and-new"
+    },
+    {
+      "date": "2026-01",
+      "headline": "COO Brad Silicani becomes CEO; founder Michelle Valentine moves to Exec Chair",
+      "url": "https://www.linkedin.com/posts/brad-silicani-214483b_im-honored-to-share-that-ill-be-stepping-activity-7420588511906537472-pMPU"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Raises $55M Series C led by Spark Capital at $525M valuation",
+      "url": "https://www.businesswire.com/news/home/20251015978298/en/Anrok-Raises-Series-C-to-Bring-Funding-to-Over-%24100-Million"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Names Dan Burrill its first Chief Revenue Officer",
+      "url": "https://www.businesswire.com/news/home/20250527470223/en/Anrok-Names-Dan-Burrill-Companys-First-Chief-Revenue-Officer"
+    }
+  ],
+  "competitors": [
+    "Avalara",
+    "numeral",
+    "sphere",
+    "taxwire",
+    "Stripe Tax"
+  ]
+}
