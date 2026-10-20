@@ -34154,5 +34154,77 @@
    "San Francisco",
    "Remote"
   ]
+ },
+ {
+  "name": "Vic.ai",
+  "slug": "vic-ai",
+  "site": "https://www.vic.ai",
+  "careers_url": "https://jobs.ashbyhq.com/vic.ai",
+  "what_they_do": "AI that processes invoices, approvals and payments for accounts payable teams",
+  "problem": "Finance teams key in, code, match and approve invoices by hand, slowing the close and inviting errors",
+  "industry": "Accounts payable automation / autonomous finance",
+  "stage": "Series C",
+  "last_round": "$52M",
+  "last_round_date": "Dec 2022",
+  "lead_investors": "GGV Capital (now Notable Capital), ICONIQ Growth",
+  "total_open_roles": "6",
+  "ops_roles": "Senior Implementations Consultant (Miami, hybrid); Technical Outcomes Manager",
+  "hiring_trend": "Shrinking: ~106 staff Dec 2022 → ~93-94 Aug-Sep 2026; LinkedIn-based data -9.6% YoY (Dealroom -3.9%)",
+  "headcount": "~93",
+  "latest_news": "Partnered with Increase and Core Bank to power VicPay payments",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.vic.ai/news/vic-ai-partners-with-increase-to-power-vicpay",
+  "traction": "Contracted ARR tripled to ~$15M in 2022 (last stated); 60 enterprise customers then; no newer figures",
+  "red_flags": "Shrinking headcount (~106 in Dec 2022 to ~93 by Sep 2026; -4% to -10% YoY by source) with no new funding since the Dec 2022 Series C (~46 months), and role eliminations in May 2026 as priorities shifted.",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn company data: 94 employees, -9.6% YoY",
+    "url": "https://linkedin.com/company/vic.ai"
+   },
+   {
+    "label": "Dealroom: team declined 3.9% over the past year",
+    "url": "https://dealroom.co/companies/vic-ai"
+   },
+   {
+    "label": "Tracxn: 94 employees (Aug 2026), last round Series C Dec 2022",
+    "url": "https://tracxn.com/d/companies/vicai/__TvrM4z3LsBW0Aus4xXt5KVYhKts_DG1a0GjnQoP1Gy4"
+   },
+   {
+    "label": "FinTech Global: 106 employees at Series C (Dec 2022)",
+    "url": "https://fintech.global/2022/12/15/vic-ai-scores-52m-in-series-c-raise/"
+   },
+   {
+    "label": "LinkedIn post: Vic.ai Director of Content role eliminated, priorities shifted (May 2026)",
+    "url": "https://www.linkedin.com/posts/karen-palmer-95793a3_if-youre-looking-for-a-talented-content-activity-7496025293191622656-N-R4"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.1",
+  "glassdoor_reviews": "40",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Vic-ai-Reviews-E2906255.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Early AI-first AP brand with ERP-embedded workflows that are sticky, but a follower in a crowded category behind Bill.com, Tipalti, AvidXchange and Coupa, with spend platforms like Ramp moving into AP; shrinking team and no raise since 2022 add exposure.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Vic.ai raises $52M Series C, ~$15M contracted ARR (Dec 2022)",
+    "url": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/"
+   },
+   {
+    "label": "Vic.ai: partners with Increase to power VicPay (Aug 2026)",
+    "url": "https://www.vic.ai/news/vic-ai-partners-with-increase-to-power-vicpay"
+   }
+  ],
+  "hiring_locations": [
+   "Madrid",
+   "Miami",
+   "Raleigh",
+   "Remote"
+  ]
  }
 ]

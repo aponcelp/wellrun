@@ -1,0 +1,123 @@
+{
+  "slug": "vic-ai",
+  "checked": "Oct 19, 2026",
+  "founded": 2016,
+  "hq": "New York, NY (jointly with Oslo, Norway)",
+  "headcount_est": {
+    "value": "~94",
+    "as_of": "Aug 2026",
+    "source": "https://tracxn.com/d/companies/vicai/__TvrM4z3LsBW0Aus4xXt5KVYhKts_DG1a0GjnQoP1Gy4"
+  },
+  "leadership": [
+    {
+      "name": "Alexander Hagerup",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/alexanderhagerup",
+      "source": "https://www.vic.ai/about-us"
+    },
+    {
+      "name": "Kristoffer Roil",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.vic.ai/about-us"
+    },
+    {
+      "name": "Ben Baldyga",
+      "title": "SVP, Sales",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.vic.ai/about-us"
+    },
+    {
+      "name": "Mark Fisher",
+      "title": "SVP, Marketing",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.vic.ai/about-us"
+    },
+    {
+      "name": "Anna Klombies",
+      "title": "SVP, People",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.vic.ai/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2017-08",
+      "amount": "$1.5M",
+      "valuation": null,
+      "lead": "Cowboy Ventures",
+      "source": "https://app.dealroom.co/companies/vic_ai"
+    },
+    {
+      "round": "Series A",
+      "date": "2019-09",
+      "amount": "$11.2M",
+      "valuation": null,
+      "lead": "GGV Capital",
+      "source": "https://www.vic.ai/about-us"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-09",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "ICONIQ Growth",
+      "source": "https://techcrunch.com/2021/09/01/autonomous-accounting-platform-vic-ai-raises-50m-round-led-by-iconiq-growth/"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-12",
+      "amount": "$52M",
+      "valuation": null,
+      "lead": "GGV Capital, ICONIQ Growth",
+      "source": "https://www.vic.ai/news/vic-ai-secures-52m-in-series-c-funding-to-expand-suite-of-ai-enterprise-fintech-offerings"
+    }
+  ],
+  "total_raised": "~$115M",
+  "revenue_est": {
+    "value": "~$15M contracted ARR",
+    "as_of": "Dec 2022",
+    "basis": "company-stated",
+    "source": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "September 2026 product updates: PO approver lookup, PDF splitting, vendor chat",
+      "url": "https://www.vic.ai/blog/september-2026-product-updates"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Partners with Increase and Core Bank to power VicPay payments",
+      "url": "https://www.vic.ai/news/vic-ai-partners-with-increase-to-power-vicpay"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Announces momentum with private equity-backed companies",
+      "url": "https://www.globenewswire.com/news-release/2026/03/24/3261027/0/en/Vic-ai-Emerges-as-the-Platform-of-Choice-for-Private-Equity-Backed-Companies-Focused-on-Cash-Flow-Efficiency-and-Scalable-Growth.html"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Ranked #229 on Forbes America's Best Startup Employers 2026",
+      "url": "https://www.vic.ai/blog/vic-ai-named-one-of-forbes-best-startup-employers"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Launches VicPay, Vendor Portal and VicAgents agentic AI",
+      "url": "https://www.vic.ai/blog/q2-product-launch-from-automation-to-agentic-ai"
+    }
+  ],
+  "competitors": [
+    "Bill.com",
+    "Tipalti",
+    "Stampli",
+    "AvidXchange",
+    "ramp"
+  ]
+}
