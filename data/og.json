@@ -1619,6 +1619,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "ledgebrook": {
+  "url": "https://cdn.prod.website-files.com/63ebe9ba92c291dd8792fe4c/67ea881e9ab2f5f219dbe42a_ledgebrook-og.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-20"
+ },
  "leena-ai": {
   "url": "https://assets.leena.ai/images/og/homepage_OG_image.webp",
   "kind": "og",

@@ -34226,5 +34226,55 @@
    "Raleigh",
    "Remote"
   ]
+ },
+ {
+  "name": "Ledgebrook",
+  "slug": "ledgebrook",
+  "site": "https://www.ledgebrook.com",
+  "careers_url": "https://www.ledgebrook.com/careers",
+  "what_they_do": "AI-native specialty (E&S) insurer for mid-sized businesses, sold through wholesale brokers",
+  "problem": "Brokers wait weeks for quotes on complex, hard-to-place commercial liability risks and lose deals meanwhile",
+  "industry": "Insurtech / specialty E&S insurance",
+  "stage": "Series D",
+  "last_round": "$200M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Allianz X, Rockefeller Capital Management",
+  "total_open_roles": "37",
+  "ops_roles": "Stonehaven - Director of Program Operations; Product Manager - Underwriting Operations; Reinsurance Operations Specialist; Underwriting Assistant",
+  "hiring_trend": "Headcount ~126 → ~274 Q1 2025 to Q1 2026 (Revelio, +117%); ~300 per company Oct 2026; postings +118% in 2026",
+  "headcount": "~300",
+  "latest_news": "Raised $200M primary-equity Series D at ~$2.6B; Allianz Re adds multi-year reinsurance deal",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.ledgebrook.com/press-release/ledgebrook-raises-usd-200-million",
+  "traction": "On track for $1B cumulative premium since 2023; $100M premium run rate hit in 19 months",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.5",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "6",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Ledgebrook-Insurance-Reviews-E10725860.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Fast-growing tech-led E&S writer with its own A- rated carriers and Allianz capacity, but a small follower behind Kinsale, Markel and W.R. Berkley, and its long-tail casualty book has no published loss ratios yet.",
+  "distance_sources": [
+   {
+    "label": "Fortune: Ledgebrook $200M Series D, ~$2.6B valuation, ~300 staff (Oct 2026)",
+    "url": "https://fortune.com/2026/10/07/exclusive-ledgebrook-38-year-old-founder-allianz-200-million-funding-unicorn/"
+   },
+   {
+    "label": "Teardown: Ledgebrook competitive set and skeptic case, no public loss ratios (Jul 2026)",
+    "url": "https://www.teardown.ai/companies/ledgebrook"
+   },
+   {
+    "label": "Ledgebrook: $200M raise, AM Best A- carrier, ~$1B cumulative premium (Oct 2026)",
+    "url": "https://www.ledgebrook.com/press-release/ledgebrook-raises-usd-200-million"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

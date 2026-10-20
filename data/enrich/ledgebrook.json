@@ -1,0 +1,158 @@
+{
+  "slug": "ledgebrook",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "Boston, MA",
+  "headcount_est": {
+    "value": "~300",
+    "as_of": "Oct 2026",
+    "source": "https://www.ledgebrook.com/press-release/ledgebrook-raises-usd-200-million"
+  },
+  "leadership": [
+    {
+      "name": "Gage Caligaris",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/gagecaligaris/",
+      "source": "https://www.ledgebrook.com/about"
+    },
+    {
+      "name": "John Mullen",
+      "title": "President, E&S",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.ledgebrook.com/about"
+    },
+    {
+      "name": "Adrian Copland",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.ledgebrook.com/about"
+    },
+    {
+      "name": "Anthony Segal-Knowles",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.ledgebrook.com/about"
+    },
+    {
+      "name": "Nathan Hall",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.ledgebrook.com/about"
+    },
+    {
+      "name": "Ruiqi Li",
+      "title": "Chief Product & Data Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.ledgebrook.com/about"
+    },
+    {
+      "name": "Erik Soria",
+      "title": "Chief Reinsurance Officer, Head of Strategy",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.ledgebrook.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-08",
+      "amount": "$4.2M",
+      "valuation": null,
+      "lead": "Brand Foundry Ventures",
+      "source": "https://www.teardown.ai/companies/ledgebrook"
+    },
+    {
+      "round": "SAFE",
+      "date": "2023-04",
+      "amount": "$4.6M",
+      "valuation": null,
+      "lead": "Markd",
+      "source": "https://www.prnewswire.com/news-releases/insurtech-ledgebrook-raises-4-6m-safe-to-scale-flagship-gl--supported-xs-offering-and-develop-additional-products-301804865.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-03",
+      "amount": "$24M",
+      "valuation": null,
+      "lead": "American Family Ventures",
+      "source": "https://www.teardown.ai/companies/ledgebrook"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-09",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "Duquesne Family Office, The Stephens Group",
+      "source": "https://www.prnewswire.com/news-releases/ledgebrook-announces-17m-series-b-funding-and-appoints-cfo-anthony-segal-knowles-302247140.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-06",
+      "amount": "$65M",
+      "valuation": null,
+      "lead": "The Stephens Group",
+      "source": "https://www.prnewswire.com/news-releases/ledgebrook-announces-close-of-oversubscribed-series-c-funding-round-led-by-existing-investor-stephens-group-302486969.html"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-10",
+      "amount": "$200M",
+      "valuation": "~$2.6B post-money (Fortune, source close to company)",
+      "lead": "Allianz X, Rockefeller Capital Management",
+      "source": "https://fortune.com/2026/10/07/exclusive-ledgebrook-38-year-old-founder-allianz-200-million-funding-unicorn/"
+    }
+  ],
+  "total_raised": "~$315M",
+  "revenue_est": {
+    "value": "$100M+ annualized premium run rate (premium, not revenue)",
+    "as_of": "Feb 2025",
+    "basis": "company-stated",
+    "source": "https://www.teardown.ai/companies/ledgebrook"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $200M Series D co-led by Allianz X and Rockefeller; ~$2.6B valuation",
+      "url": "https://fortune.com/2026/10/07/exclusive-ledgebrook-38-year-old-founder-allianz-200-million-funding-unicorn/"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Allianz Re agrees multi-year reinsurance deal; on track for $1B cumulative premium",
+      "url": "https://www.ledgebrook.com/press-release/ledgebrook-raises-usd-200-million"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Named to CB Insights' 2026 list of 50 most promising insurtech startups",
+      "url": "https://www.ledgebrook.com/press-release/ledgebrook-named-cb-insights-50-most-promising-insurtech-startups"
+    },
+    {
+      "date": "2026-08",
+      "headline": "AM Best rates its carriers A- (Excellent), completing move to full-stack insurer",
+      "url": "https://news.ambest.com/pr/PressContent.aspx?altsrc=2&refnum=37638"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Launches Ledgebrook Re, a reinsurance brokerage and advisory arm",
+      "url": "https://www.reinsurancene.ws/ledgebrook-re-launches-under-the-leadership-of-market-veterans/"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Closes oversubscribed $65M Series C led by The Stephens Group",
+      "url": "https://www.prnewswire.com/news-releases/ledgebrook-announces-close-of-oversubscribed-series-c-funding-round-led-by-existing-investor-stephens-group-302486969.html"
+    }
+  ],
+  "competitors": [
+    "Kinsale Capital",
+    "Markel",
+    "Bishop Street Underwriters",
+    "counterpart",
+    "RSUI"
+  ]
+}
