@@ -905,6 +905,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "echo-ai": {
+  "url": "https://cdn.prod.website-files.com/6802658e9743d47bf5d7ef2d/6a1ea8f2efb4b3dd1b78aa27_og_image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-20"
+ },
  "elevenlabs": {
   "url": "https://elevenlabs.io/cover.png",
   "kind": "og",

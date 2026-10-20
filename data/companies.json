@@ -34388,5 +34388,52 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Echo",
+  "slug": "echo-ai",
+  "site": "https://www.echo.ai",
+  "careers_url": "https://jobs.ashbyhq.com/echo.ai",
+  "what_they_do": "Vulnerability-free container images, libraries, OS packages and VMs, kept patched by AI agents",
+  "problem": "Open-source base images ship with thousands of known CVEs that security and engineering teams must endlessly triage and patch",
+  "industry": "Software supply chain security",
+  "stage": "Series A",
+  "last_round": "$35M",
+  "last_round_date": "Dec 2025",
+  "lead_investors": "N47 (Series A); Notable Capital, Hyperwise Ventures (seed)",
+  "total_open_roles": "16",
+  "ops_roles": "Technical Account Manager (East, remote US); Technical Account Manager (West, remote US)",
+  "hiring_trend": "Headcount ~30 → ~82 YoY (+173%, LinkedIn est.); was 25 in Jul 2025, 37 in Dec 2025; 16 open roles",
+  "headcount": "~80",
+  "latest_news": "Launched Echo Frontier, patching AI-found zero-days before public disclosure",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/new-echo-frontier-protects-enterprises-from-mythos-era-zero-days-302908685.html",
+  "traction": "100 customers in first year of selling (CEO-stated); headcount ~3x in 12 mo; customers incl. UiPath, Varonis",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes (note: security/dev-infra, deeper engineering than his usual taste; echo.ai domain formerly belonged to Echo AI/Pathlight, acquired by Calabrio Dec 2024 — unrelated)",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "Fast-growing hardened-image specialist, but Docker and Red Hat now give similar images away free.",
+  "distance_sources": [
+   {
+    "label": "TechTarget: Echo buys Minimus as hardened-image market consolidates (Aug 2026)",
+    "url": "https://www.techtarget.com/it-infrastructure/news/366649818/Rival-buyout-aids-customers-after-DevSecOps-firm-shutters"
+   }
+  ],
+  "hiring_locations": [
+   "Tel Aviv",
+   "West Coast",
+   "East Coast",
+   "Remote"
+  ]
  }
 ]

@@ -1,0 +1,95 @@
+{
+  "slug": "echo-ai",
+  "checked": "Oct 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "New York, NY / Tel Aviv",
+  "headcount_est": {
+    "value": "~82",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/echo-hq"
+  },
+  "leadership": [
+    {
+      "name": "Eilon Elhadad",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/eilon-elhadad",
+      "source": "https://www.prnewswire.com/news-releases/new-echo-frontier-protects-enterprises-from-mythos-era-zero-days-302908685.html"
+    },
+    {
+      "name": "Eylam Milner",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/eylamm",
+      "source": "https://www.prnewswire.com/news-releases/new-echo-frontier-protects-enterprises-from-mythos-era-zero-days-302908685.html"
+    },
+    {
+      "name": "Guy Ben-Bassat",
+      "title": "Head of Finance and Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theorg.com/org/echo-3"
+    },
+    {
+      "name": "Dotan Zamen",
+      "title": "Head of Revenue Operations",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/dotanzamen",
+      "source": "https://www.linkedin.com/posts/dotanzamen_im-thrilled-to-share-that-ive-joined-echo-activity-7478486050881937408-cvPE"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-07",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Notable Capital, Hyperwise Ventures",
+      "source": "https://www.calcalistech.com/ctechnews/article/rjzyzyfvgx"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-12",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "N47",
+      "source": "https://www.prnewswire.com/news-releases/echo-raises-50m-in-10-months-to-build-a-secure-ai-native-os-for-cloud-applications-302643415.html"
+    }
+  ],
+  "total_raised": "$50M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches Echo Frontier to patch AI-found zero-days before disclosure",
+      "url": "https://www.prnewswire.com/news-releases/new-echo-frontier-protects-enterprises-from-mythos-era-zero-days-302908685.html"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Buys assets and customers of shuttered rival Minimus in small all-cash deal",
+      "url": "https://www.calcalistech.com/ctechnews/article/ojvj42cjc"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Hires Head of RevOps to scale go-to-market",
+      "url": "https://www.linkedin.com/posts/dotanzamen_im-thrilled-to-share-that-ive-joined-echo-activity-7478486050881937408-cvPE"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Releases first-party Helm charts for its CVE-free images",
+      "url": "https://natlawreview.com/press-releases/echo-expands-its-vulnerability-free-container-images-also-include-first"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Raises $35M Series A led by N47, $50M total in 10 months",
+      "url": "https://www.prnewswire.com/news-releases/echo-raises-50m-in-10-months-to-build-a-secure-ai-native-os-for-cloud-applications-302643415.html"
+    }
+  ],
+  "competitors": [
+    "chainguard",
+    "Docker Hardened Images",
+    "Red Hat Hardened Images",
+    "RapidFort"
+  ]
+}
