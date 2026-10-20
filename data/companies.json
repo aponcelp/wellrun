@@ -34835,5 +34835,84 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Devoted Health",
+  "slug": "devoted-health",
+  "site": "https://www.devoted.com",
+  "careers_url": "https://devoted.wd1.myworkdayjobs.com/Devoted",
+  "what_they_do": "Medicare Advantage health plans with in-house virtual and in-home care and member guides",
+  "problem": "Seniors struggle to navigate a confusing, impersonal Medicare system and get coordinated care they can trust",
+  "industry": "Health insurance / Medicare Advantage (tech-enabled payer + care delivery)",
+  "stage": "Series G",
+  "last_round": "$555M primary ($1.18B incl. $622M tender)",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Advent (lead), Temasek (co-lead); with GIC, Franklin Templeton, Andreessen Horowitz",
+  "total_open_roles": "76",
+  "ops_roles": "Sr. Manager, AI Performance & Operations; Director, Provider Escalations & Education (Strategy & Operations); Sr. Manager Provider Operations; Director Guide Training and Readiness",
+  "hiring_trend": "Headcount ~2,330 (Q3 2025 trough after May 2025 layoff) to ~2,560 Q1 2026 (Revelio); 76 open roles, new postings ~61/mo in 2026 vs ~35/mo in 2025",
+  "headcount": "~2,400-2,600",
+  "latest_news": "Closed $555M Series G at ~$25B valuation; expanding to 34 states for 2027",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.devoted.com/resources/new-funding-growth-oct-2026/",
+  "traction": "Members 212K (Dec 2025) to 538K (Sep 2026), +154%; profitable at parent level (reported)",
+  "red_flags": "May 2025 layoff of ~120 staff (~5% of 2,460); 2025 revenue and membership fell for the first time (reversed in 2026). Minor: CMS civil money penalty ($18,668, May 2026) for charging members above out-of-pocket limits; Kettering Health (Ohio) dropped Devoted's network contract over denials/payments (Sep 2025). Named in the 2021 Shea broker-kickback qui tam, but DOJ did not intervene against Devoted and the relator's amended complaint dropped it.",
+  "red_flags_sources": [
+   {
+    "label": "Endpoints News: Devoted Health cuts 5% of workers (May 2025)",
+    "url": "https://endpoints.news/insurance-startup-devoted-health-cuts-5-of-workers-in-small-layoff"
+   },
+   {
+    "label": "Becker's Payer: Devoted Health lays off 120",
+    "url": "https://www.beckerspayer.com/workforce/devoted-health-lays-off-120"
+   },
+   {
+    "label": "Endpoints News: Devoted's 2025 revenue slips (Apr 2026)",
+    "url": "https://endpoints.news/devoted-healths-2025-revenue-slips-in-turbulent-medicare-advantage-market/"
+   },
+   {
+    "label": "Revelio Labs: Devoted Health headcount history",
+    "url": "https://www.reveliolabs.com/companies/devoted-health/employees"
+   },
+   {
+    "label": "CMS: Devoted Health civil money penalty notice (May 2026)",
+    "url": "https://www.cms.gov/files/document/devotedhealthcmp05012026.pdf"
+   },
+   {
+    "label": "WHIO: Kettering Health ends contracts with Humana and Devoted (Sep 2025)",
+    "url": "https://www.whio.com/news/local/kettering-health-ends-contracts-with-humana-inc-devoted-health-inc/GVPWRRTJJBCQTNB5XNK6CFMZGE/"
+   },
+   {
+    "label": "US ex rel. Shea: motion noting relator's amended complaint excludes Devoted (Jul 2025)",
+    "url": "https://litigationtracker.law.georgetown.edu/wp-content/uploads/2025/05/United-States-et-al_2025.07.30_UNOPPOSED-MOT.-TO-STAY-ALL-PROCEEDINGS-CONCERNING-RELATORS-QUI-TAM-CLAIMS.pdf"
+   }
+  ],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "546",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Devoted-Health-Reviews-E2183017.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "Fastest-growing MA carrier (8th largest by enrollment) with the highest share of 4+ star contracts among big insurers and an AI-driven admin cost edge; still far smaller than UnitedHealth and Humana and exposed to CMS rate and Star Ratings swings.",
+  "distance_sources": [
+   {
+    "label": "HFMA: 2027 Star Ratings, Devoted top share of 4+ star contracts (Oct 2026)",
+    "url": "https://www.hfma.org/payment-reimbursement-and-managed-care/2027-medicare-advantage-star-ratings/"
+   },
+   {
+    "label": "KFF: Medicare Advantage 2026 enrollment update (Jun 2026)",
+    "url": "https://www.kff.org/medicare/medicare-advantage-in-2026-enrollment-update-and-key-trends/"
+   },
+   {
+    "label": "Devoted: Series G and 2027 expansion (Oct 2026)",
+    "url": "https://www.devoted.com/resources/new-funding-growth-oct-2026/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

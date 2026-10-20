@@ -1,0 +1,174 @@
+{
+ "slug": "devoted-health",
+ "checked": "Oct 20, 2026",
+ "founded": 2017,
+ "hq": "Waltham, MA",
+ "headcount_est": {
+  "value": "~2,560",
+  "as_of": "Mar 2026",
+  "source": "https://www.reveliolabs.com/companies/devoted-health/employees"
+ },
+ "leadership": [
+  {
+   "name": "Ed Park",
+   "title": "Co-founder & CEO",
+   "founder": true,
+   "linkedin": null,
+   "source": "https://www.devoted.com/about-us/"
+  },
+  {
+   "name": "Todd Park",
+   "title": "Co-founder & Executive Chairman",
+   "founder": true,
+   "linkedin": "https://linkedin.com/in/todd-park-3232573",
+   "source": "https://www.devoted.com/resources/new-funding-growth-oct-2026/"
+  },
+  {
+   "name": "Monna Nanavati",
+   "title": "Chief Operating Officer",
+   "founder": false,
+   "linkedin": null,
+   "source": "https://theorg.com/org/devoted-health"
+  },
+  {
+   "name": "W. Bradley Yale",
+   "title": "Chief Financial Officer",
+   "founder": false,
+   "linkedin": null,
+   "source": "https://theorg.com/org/devoted-health"
+  },
+  {
+   "name": "Jack Nye",
+   "title": "Chief Technology Officer",
+   "founder": false,
+   "linkedin": null,
+   "source": "https://theorg.com/org/devoted-health"
+  },
+  {
+   "name": "Neil Wagle",
+   "title": "Chief Medical Officer",
+   "founder": false,
+   "linkedin": null,
+   "source": "https://theorg.com/org/devoted-health"
+  },
+  {
+   "name": "Leslie Brunner",
+   "title": "Chief People Officer",
+   "founder": false,
+   "linkedin": null,
+   "source": "https://theorg.com/org/devoted-health"
+  }
+ ],
+ "funding_history": [
+  {
+   "round": "Seed",
+   "date": "2017-06",
+   "amount": "$7.4M",
+   "valuation": null,
+   "lead": "Venrock",
+   "source": "https://www.prnewswire.com/news-releases/devoted-health-a-next-generation-medicare-advantage-plan-launches-and-begins-enrolling-members-in-florida-300732196.html"
+  },
+  {
+   "round": "Series A",
+   "date": "2017-10",
+   "amount": "$61.95M",
+   "valuation": null,
+   "lead": "Oak HC/FT",
+   "source": "https://www.prnewswire.com/news-releases/devoted-health-a-next-generation-medicare-advantage-plan-launches-and-begins-enrolling-members-in-florida-300732196.html"
+  },
+  {
+   "round": "Series B",
+   "date": "2018-10",
+   "amount": "$300M",
+   "valuation": "$1.8B",
+   "lead": "Andreessen Horowitz",
+   "source": "https://www.cnbc.com/2018/10/17/devoted-health-is-valued-at-1point8-billion-in-funding-led-by-andreessen.html"
+  },
+  {
+   "round": "Series D",
+   "date": "2021-10",
+   "amount": "$1.15B (+$80M later)",
+   "valuation": "$12.6B",
+   "lead": "Uprising, SoftBank Vision Fund 2",
+   "source": "https://medcitynews.com/2021/10/devoted-health-raises-1-1b-sending-valuation-soaring-past-12b/"
+  },
+  {
+   "round": "Series E (two tranches)",
+   "date": "2024-08",
+   "amount": "$287M",
+   "valuation": "$12.9B",
+   "lead": "General Catalyst, Andreessen Horowitz",
+   "source": "https://sacra.com/c/devoted-health"
+  },
+  {
+   "round": "Series F",
+   "date": "2025-11",
+   "amount": "$48M",
+   "valuation": null,
+   "lead": "The Space Between (with Centricus)",
+   "source": "https://www.devoted.com/resources/2026-growth/"
+  },
+  {
+   "round": "Series F-Prime",
+   "date": "2026-01",
+   "amount": "$317M",
+   "valuation": "$16B (reported)",
+   "lead": "The Space Between (with Centricus)",
+   "source": "https://www.devoted.com/resources/2026-growth/"
+  },
+  {
+   "round": "Series G",
+   "date": "2026-10",
+   "amount": "$555M primary (+$622M tender)",
+   "valuation": "~$25B (reported)",
+   "lead": "Advent; co-lead Temasek",
+   "source": "https://www.devoted.com/resources/new-funding-growth-oct-2026/"
+  }
+ ],
+ "total_raised": "~$3.2B primary (est.: ~$2.64B through Jan 2026 per Sacra + $555M Series G)",
+ "revenue_est": {
+  "value": "~$3.3B (2024); 2025 revenue declined, figure not public",
+  "as_of": "Dec 2024",
+  "basis": "estimate",
+  "source": "https://sacra.com/c/devoted-health"
+ },
+ "news_timeline": [
+  {
+   "date": "2026-10",
+   "headline": "Raises $555M Series G in $1.18B financing at ~$25B; expands to 34 states for 2027",
+   "url": "https://www.devoted.com/resources/new-funding-growth-oct-2026/"
+  },
+  {
+   "date": "2026-10",
+   "headline": "2027 Star Ratings: 18 of 29 Devoted contracts at 4+ stars, best among large insurers",
+   "url": "https://www.hfma.org/payment-reimbursement-and-managed-care/2027-medicare-advantage-star-ratings/"
+  },
+  {
+   "date": "2026-05",
+   "headline": "CMS fines Devoted $18,668 over out-of-pocket maximum tracking failures",
+   "url": "https://www.cms.gov/files/document/devotedhealthcmp05012026.pdf"
+  },
+  {
+   "date": "2026-04",
+   "headline": "2025 revenue and membership declined for the first time, state filings show",
+   "url": "https://endpoints.news/devoted-healths-2025-revenue-slips-in-turbulent-medicare-advantage-market/"
+  },
+  {
+   "date": "2026-01",
+   "headline": "Closes $366M Series F/F-Prime; membership hits 466K, up 121% YoY",
+   "url": "https://www.devoted.com/resources/2026-growth/"
+  },
+  {
+   "date": "2025-05",
+   "headline": "Lays off ~120 employees, about 5% of staff",
+   "url": "https://endpoints.news/insurance-startup-devoted-health-cuts-5-of-workers-in-small-layoff"
+  }
+ ],
+ "competitors": [
+  "Alignment Health",
+  "Humana",
+  "UnitedHealthcare",
+  "SCAN Health Plan",
+  "Clover Health"
+ ]
+}
