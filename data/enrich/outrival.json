@@ -1,0 +1,110 @@
+{
+  "slug": "outrival",
+  "checked": "Oct 20, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "Miami, FL",
+  "headcount_est": {
+    "value": "~28",
+    "as_of": "Sep 2026",
+    "source": "https://tracxn.com/d/companies/outrival/__rso1xnUtnSIbNitRHCjFpo7SF5bVuKFbv1mFdX-kcWg"
+  },
+  "leadership": [
+    {
+      "name": "Ruben Harris",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/rubenharris/",
+      "source": "https://outrival.com/company"
+    },
+    {
+      "name": "Timur Meyster",
+      "title": "Co-founder & President (previously CPO)",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/timurmeyster/",
+      "source": "https://www.prnewswire.com/news-releases/outrival-launches-travel-vertical-appoints-jeff-herzfeld-to-lead-industry-growth-302841726.html"
+    },
+    {
+      "name": "Artur Meyster",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.kaporcapital.com/portfolio/outrival/"
+    },
+    {
+      "name": "Shaun Sjolin",
+      "title": "Chief Customer Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/outrival-appoints-former-nice-executive-shaun-sjolin-as-chief-customer-officer-302895072.html"
+    },
+    {
+      "name": "Jeff Herzfeld",
+      "title": "Head of Travel",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/outrival-launches-travel-vertical-appoints-jeff-herzfeld-to-lead-industry-growth-302841726.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-07",
+      "amount": "$1.5M",
+      "valuation": null,
+      "lead": "Kapor Capital",
+      "source": "https://seedtable.com/companies/outrival-inc/funding-rounds"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-12",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Initialized Capital",
+      "source": "https://careerkarma.com/blog/career-karma-raised-10-million-series-a/"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-01",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "Top Tier Capital Partners",
+      "source": "http://techcrunch.com/2022/01/10/career-karma-lands-40-million-to-evolve-into-a-edtech-employee-benefit"
+    }
+  ],
+  "total_raised": "~$52M (raised as Career Karma; company says '$50M+')",
+  "revenue_est": {
+    "value": "~$4.2M revenue",
+    "as_of": "Dec 2024",
+    "basis": "estimate",
+    "source": "https://getlatka.com/companies/outrival.com"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Hires ex-NICE VP Shaun Sjolin as Chief Customer Officer",
+      "url": "https://www.prnewswire.com/news-releases/outrival-appoints-former-nice-executive-shaun-sjolin-as-chief-customer-officer-302895072.html"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Launches travel vertical; hires Jeff Herzfeld as Head of Travel",
+      "url": "https://www.prnewswire.com/news-releases/outrival-launches-travel-vertical-appoints-jeff-herzfeld-to-lead-industry-growth-302841726.html"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Launches insurance vertical (FNOL, renewals, billing voice agents)",
+      "url": "https://www.prnewswire.com/news-releases/outrival-launches-dedicated-insurance-vertical-bringing-ai-voice-agents-to-carriers-mgas-and-tpas-302738437.html"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Sells Career Karma to Climb Credit to focus on OutRival",
+      "url": "https://www.careerkarma.com/about"
+    },
+    {
+      "date": "2024-10",
+      "headline": "Career Karma founders launch OutRival, an AI agent platform",
+      "url": "https://techcrunch.com/2024/10/15/career-karma-founders-launch-outrival-to-help-companies-build-ai-agents/"
+    }
+  ],
+  "competitors": []
+}

@@ -35315,5 +35315,78 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "OutRival",
+  "slug": "outrival",
+  "site": "https://www.outrival.com",
+  "careers_url": "https://jobs.ashbyhq.com/outrival",
+  "what_they_do": "AI voice and text agents that run warm outbound outreach for enterprise CX and sales teams",
+  "problem": "High-volume businesses can't follow up with every inquiry, renewal or aged lead fast enough, so revenue goes cold",
+  "industry": "Conversational AI / AI agents for customer engagement",
+  "stage": "Series B",
+  "last_round": "$40M",
+  "last_round_date": "Jan 2022",
+  "lead_investors": "Top Tier Capital Partners (Series B); Initialized Capital (Series A)",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "Flat, ~28 staff (Dec 2024 LinkedIn via Getlatka → Sep 2026 Tracxn); only 2 listings, both posted Dec 2025–Jan 2026",
+  "headcount": "~26-29",
+  "latest_news": "Hired former NICE VP Shaun Sjolin as Chief Customer Officer to build forward-deployed customer team",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/outrival-appoints-former-nice-executive-shaun-sjolin-as-chief-customer-officer-302895072.html",
+  "traction": "11M+ outbound conversations handled; ~$4.2M revenue est. (Dec 2024, Getlatka); ~20 university customers (Aug 2025)",
+  "red_flags": "Watch (not scored): 2024 pivot from Career Karma (sold to Climb Credit Sep 2025); no announced round since the Jan 2022 $40M Series B, which it says it is running on; headcount flat ~28 since Dec 2024; job board thin and stale (2 GTM roles from Dec 2025–Jan 2026). Career Karma's 2022–23 layoffs predate the 24-month window. No lawsuits, layoffs or down round found for OutRival.",
+  "red_flags_sources": [
+   {
+    "label": "TechCrunch: OutRival runs on leftover capital from Career Karma's 2022 $40M Series B (Oct 2024)",
+    "url": "https://techcrunch.com/2024/10/15/career-karma-founders-launch-outrival-to-help-companies-build-ai-agents/"
+   },
+   {
+    "label": "Career Karma: acquired by Climb Credit in 2025",
+    "url": "https://www.careerkarma.com/about"
+   },
+   {
+    "label": "Getlatka: OutRival 28 employees, Dec 2024",
+    "url": "https://getlatka.com/companies/outrival.com"
+   },
+   {
+    "label": "Tracxn: OutRival 28 employees as of Sep 30, 2026",
+    "url": "https://tracxn.com/d/companies/outrival/__rso1xnUtnSIbNitRHCjFpo7SF5bVuKFbv1mFdX-kcWg"
+   },
+   {
+    "label": "OutRival job board (Ashby): 2 roles, posted Dec 2025 and Jan 2026",
+    "url": "https://jobs.ashbyhq.com/outrival"
+   },
+   {
+    "label": "Layoffs.fyi: Career Karma layoffs Jul 2022 and Jan 2023",
+    "url": "https://layoffs.fyi/company/career-karma/"
+   }
+  ],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Vertical playbooks (higher ed, insurance, travel) and an outbound-first angle set it apart, but AI voice agents are a crowded field with far better-funded rivals and no clear data or lock-in moat yet.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: OutRival launches travel vertical, 11M+ outbound conversations (Aug 2026)",
+    "url": "https://www.prnewswire.com/news-releases/outrival-launches-travel-vertical-appoints-jeff-herzfeld-to-lead-industry-growth-302841726.html"
+   },
+   {
+    "label": "PR Newswire: OutRival launches insurance vertical (Apr 2026)",
+    "url": "https://www.prnewswire.com/news-releases/outrival-launches-dedicated-insurance-vertical-bringing-ai-voice-agents-to-carriers-mgas-and-tpas-302738437.html"
+   }
+  ],
+  "hiring_locations": [
+   "Miami"
+  ]
  }
 ]
