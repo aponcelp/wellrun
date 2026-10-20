@@ -1,0 +1,101 @@
+{
+  "slug": "basis",
+  "checked": "Oct 19, 2026",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~200",
+    "as_of": "Oct 2026",
+    "source": "https://www.linkedin.com/company/get-basis-ai"
+  },
+  "leadership": [
+    {
+      "name": "Matt Harpe",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/matt-harpe/",
+      "source": "https://www.accountingtoday.com/news/basis-offers-ai-agents-love-letters-and-an-ode-to-accounting"
+    },
+    {
+      "name": "Mitchell Troyanovsky",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/mitchelltroyanovsky/",
+      "source": "https://www.getbasis.ai/blogs/basis-raises-100m-series-b-led-by-accel-and-google-ventures"
+    },
+    {
+      "name": "Neville Jos",
+      "title": "Head of Engineering",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theorg.com/org/basis-2/offices/hq"
+    },
+    {
+      "name": "Kenji Kuramoto",
+      "title": "Managing Partner-in-Residence",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://cpatrendlines.com/2026/04/10/basis-ai-makes-its-move-taps-kenji-kuramoto-to-close-ais-biggest-gap"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-10",
+      "amount": "$3.6M",
+      "valuation": null,
+      "lead": "Better Tomorrow Ventures",
+      "source": "https://www.getbasis.ai/blogs/basis-raises-3-6m-with-an-ai-platform-for-accounting-firms"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-12",
+      "amount": "$34M",
+      "valuation": null,
+      "lead": "Khosla Ventures",
+      "source": "https://www.reuters.com/technology/artificial-intelligence/ai-startup-basis-raises-34-million-accounting-automation-agent-2024-12-17"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-02",
+      "amount": "$100M",
+      "valuation": "$1.15B",
+      "lead": "Accel",
+      "source": "https://www.businesswire.com/news/home/20260224020999/en/Basis-Raises-%24100M-at-a-%241.15B-Valuation-as-Accounting-Firms-Adopt-End-to-End-Agents-Across-Accounting-Tax-and-Audit"
+    }
+  ],
+  "total_raised": "$137.6M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Launches End-to-End Tax Platform covering the full tax return",
+      "url": "https://www.getbasis.ai/blogs/the-future-of-tax-is-end-to-end-intelligence"
+    },
+    {
+      "date": "2026-07",
+      "headline": "CEO says Basis is deployed at ~40% of top 25 US accounting firms",
+      "url": "https://www.accountingtoday.com/news/basis-offers-ai-agents-love-letters-and-an-ode-to-accounting"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Top 50 firm Sikich partners with Basis for close and reconciliation",
+      "url": "https://www.sikich.com/insight/sikich-partners-with-basis-to-advance-ai-enabled-accounting-services/"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Acuity founder Kenji Kuramoto joins as managing partner-in-residence",
+      "url": "https://cpatrendlines.com/2026/04/10/basis-ai-makes-its-move-taps-kenji-kuramoto-to-close-ais-biggest-gap"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Raises $100M Series B at $1.15B valuation led by Accel",
+      "url": "https://www.reuters.com/business/ai-accounting-startup-basis-raises-100-million-115-billion-valuation-2026-02-24"
+    }
+  ],
+  "competitors": [
+    "fieldguide",
+    "accrual",
+    "numeric"
+  ]
+}

@@ -371,6 +371,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "basis": {
+  "url": "https://cdn.prod.website-files.com/6758b94c1f0dc8ffe7f503a7/699d0438c8316b39f5c51aa5_og-image.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-20"
+ },
  "bastion": {
   "url": "https://framerusercontent.com/images/pTrMs5MJstsls9S7X45qlr99Pc.png",
   "kind": "og",

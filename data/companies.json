@@ -34276,5 +34276,58 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Basis",
+  "slug": "basis",
+  "site": "https://www.getbasis.ai",
+  "careers_url": "https://jobs.ashbyhq.com/basis-ai",
+  "what_they_do": "AI agents that do accounting, tax and audit work end to end for accounting firms",
+  "problem": "Accounting firms can't hire enough accountants to keep up with manual close, tax prep and audit work",
+  "industry": "AI for accounting firms (CAS, tax, audit)",
+  "stage": "Series B",
+  "last_round": "$100M",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "Accel (with GV, Khosla Ventures)",
+  "total_open_roles": "44",
+  "ops_roles": "Deployed Intelligence - Strategist; Customer Experience Associate; Customer Success Manager; Revenue Operations Analyst",
+  "hiring_trend": "Headcount ~76 (Sep 2025) → ~200 (Oct 2026), +149% YoY on LinkedIn; 44 open roles",
+  "headcount": "~120-200",
+  "latest_news": "Launched End-to-End Tax Platform: agents run the whole tax return from intake to review",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.getbasis.ai/blogs/the-future-of-tax-is-end-to-end-intelligence",
+  "traction": "In ~7 of top 25 US firms (Feb 2026), ~40% by Jul 2026 (CEO est.); headcount ~2.5x YoY",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Claims to be the most-deployed AI platform in accounting firms (about 40% of the top 25, 25%+ of the top 150) with a Deployed Intelligence team embedding agents across whole practice areas; a young category with Fieldguide, Accrual and tax-software incumbents chasing the same firms.",
+  "distance_sources": [
+   {
+    "label": "Accounting Today: Basis deployed at ~40% of top 25 firms, 120 staff (Jul 2026)",
+    "url": "https://www.accountingtoday.com/news/basis-offers-ai-agents-love-letters-and-an-ode-to-accounting"
+   },
+   {
+    "label": "Sikich partners with Basis (Jul 2026)",
+    "url": "https://www.sikich.com/insight/sikich-partners-with-basis-to-advance-ai-enabled-accounting-services/"
+   },
+   {
+    "label": "Reuters via Yahoo: Basis raises $100M at $1.15B, ~7 of top 25 firms (Feb 2026)",
+    "url": "https://finance.yahoo.com/news/ai-accounting-startup-basis-raises-184711527.html"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote"
+  ]
  }
 ]
