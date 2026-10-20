@@ -3329,6 +3329,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "vectorshift": {
+  "url": "https://vectorshift.ai/VS_logo.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-20"
+ },
  "venn": {
   "url": "https://venn.city/media/og.jpg",
   "kind": "og",

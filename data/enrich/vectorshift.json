@@ -1,0 +1,50 @@
+{
+  "slug": "vectorshift",
+  "checked": "Oct 20, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~48",
+    "as_of": "Mar 2026",
+    "source": "https://www.reveliolabs.com/companies/vectorshift/employees"
+  },
+  "leadership": [
+    {
+      "name": "Alex Leonardi",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/alexanderleonardi",
+      "source": "https://www.ycombinator.com/companies/vectorshift"
+    },
+    {
+      "name": "Albert Mao",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/albert-mao-8b263aa2",
+      "source": "https://www.ycombinator.com/companies/vectorshift"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Accelerator (YC S23)",
+      "date": "2023",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/vectorshift"
+    },
+    {
+      "round": "Seed",
+      "date": "2024-02",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": "1984 Ventures, Defy.vc, Formus Capital, Y Combinator (syndicate; no single lead named)",
+      "source": "https://venturebeat.com/ai/exclusive-vectorshift-raises-3m-to-modularize-llm-application-development"
+    }
+  ],
+  "total_raised": "~$3.5M (CB Insights)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

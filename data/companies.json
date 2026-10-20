@@ -35244,5 +35244,76 @@
    "Remote (APAC)",
    "Remote (Europe)"
   ]
+ },
+ {
+  "name": "VectorShift",
+  "slug": "vectorshift",
+  "site": "https://vectorshift.ai",
+  "careers_url": "https://www.ycombinator.com/companies/vectorshift/jobs",
+  "what_they_do": "AI platform for private equity firms: data room analysis, IC memos, portfolio monitoring, LP reporting",
+  "problem": "Deal teams lose institutional knowledge between deals and rebuild diligence, memos and DDQ answers from scratch",
+  "industry": "AI for private markets / investment workflow software",
+  "stage": "Seed",
+  "last_round": "$3M",
+  "last_round_date": "Feb 2024",
+  "lead_investors": "1984 Ventures, Defy.vc, Formus Capital, Y Combinator",
+  "total_open_roles": "4",
+  "ops_roles": "Business Operations Manager; Chief of Staff",
+  "hiring_trend": "Headcount ~36 → ~48 Q1 2025 to Q1 2026 (Revelio, est.); postings 5 → 10 in 2026",
+  "headcount": "~30-48",
+  "latest_news": "Repositioned from general no-code AI workflows to an AI operating system for private equity",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/vectorshift_how-we-built-vectorshift-for-private-equity-activity-7499209411878572033-ll0s",
+  "traction": "Company claims $60B+ AUM on platform and 10,000+ daily queries; revenue ~ $0.8M (est.)",
+  "red_flags": "Watch (not scored): 2026 pivot from horizontal no-code AI builder to private-equity vertical, with no new round since the $3M seed (Feb 2024). Glassdoor 3.6 from only 5 reviews, with 1.0 for culture and senior management and an Oct 2025 'Worst management ever' review; co-founder posted in Jul 2025 that he had fired 10+ engineers in a year; repeated candidate complaints of unpaid take-homes and ghosting. No layoffs, lawsuits or down round found.",
+  "red_flags_sources": [
+   {
+    "label": "YC profile: now 'AI Operating System for Private Market Investors' (last news: $3M seed, Feb 2024)",
+    "url": "https://www.ycombinator.com/companies/vectorshift"
+   },
+   {
+    "label": "VectorShift on LinkedIn: How We Built VectorShift for Private Equity (Aug 2026)",
+    "url": "https://www.linkedin.com/posts/vectorshift_how-we-built-vectorshift-for-private-equity-activity-7499209411878572033-ll0s"
+   },
+   {
+    "label": "Glassdoor: VectorShift reviews (3.6, 5 reviews; culture and senior management 1.0)",
+    "url": "https://www.glassdoor.com/Reviews/VectorShift-Reviews-E10063092.htm"
+   },
+   {
+    "label": "Glassdoor review: 'Worst management ever' (Oct 2025)",
+    "url": "https://www.glassdoor.sg/Reviews/Employee-Review-VectorShift-E10063092-RVW100881941.htm"
+   },
+   {
+    "label": "Albert Mao (COO) on LinkedIn: fired 10+ engineers in the past year (Jul 2025)",
+    "url": "https://www.linkedin.com/posts/albert-mao_ive-had-to-fire-10-engineers-in-the-past-activity-7346160738756947968-g4c2"
+   },
+   {
+    "label": "Glassdoor interview reviews: take-home then no response (2026)",
+    "url": "https://www.glassdoor.co.in/Interview/VectorShift-Frontend-Engineer-Interview-Questions-EI_IE10063092.0,11_KO12,29.htm"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "5",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/VectorShift-Reviews-E10063092.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Seed-stage and freshly repositioned into PE software, a crowded field (Hebbia, Rogo, Blueflame, Keye) with larger, better-funded rivals; the pitch of firm knowledge that compounds across deals is a data edge it has yet to prove.",
+  "distance_sources": [
+   {
+    "label": "VectorShift homepage: AI operating system for private market investors",
+    "url": "https://vectorshift.ai"
+   },
+   {
+    "label": "YC company profile",
+    "url": "https://www.ycombinator.com/companies/vectorshift"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
