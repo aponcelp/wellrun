@@ -35126,57 +35126,57 @@
   "name": "Kit",
   "slug": "kit",
   "site": "https://kit.com",
-  "careers_url": "https://kit.com/careers",
-  "what_they_do": "Email marketing, automations and commerce for creators and newsletters (formerly ConvertKit)",
-  "problem": "Creators need to own their audience and earn from it without stitching many tools",
+  "careers_url": "https://jobs.ashbyhq.com/kit",
+  "what_they_do": "Email marketing, newsletters, automations and digital-product sales for creators",
+  "problem": "Creators need to own their audience and earn from it without depending on social algorithms or stitching tools together",
   "industry": "Creator economy / email marketing",
-  "stage": "Bootstrapped",
-  "last_round": "Secondary ($200M valuation)",
-  "last_round_date": "2021",
-  "lead_investors": "None (self-funded; 2021 secondary to individual investors)",
-  "total_open_roles": "2",
+  "stage": "Bootstrapped (profitable)",
+  "last_round": "None (bootstrapped)",
+  "last_round_date": "",
+  "lead_investors": "None; 2021 employee-share secondary to 48 angels at $200M valuation (no new money to company)",
+  "total_open_roles": "10",
   "ops_roles": "",
-  "hiring_trend": "Lean: 2 open roles; team 114 (company page, Oct 2026) vs ~149 in 2024",
-  "headcount": "114",
-  "latest_news": "Opened Kit Studios in NYC, free recording space for creators",
-  "latest_news_date": "Jun 2026",
-  "latest_news_url": "https://www.axios.com/2026/06/11/kit-studios-nyc-creator-community",
-  "traction": "Passed $50M ARR in 2025 (CEO); Sacra $52M, +20% YoY; 550K creators",
-  "red_flags": "Mid-2025 restructuring/RIF eliminated several roles; team down to 114 from ~149; Sep 2025 price hike drew creator backlash.",
+  "hiring_trend": "Team ~104 → ~115 on company page (est.); open roles ~7 (Feb 2026) → 10 now",
+  "headcount": "~115",
+  "latest_news": "Partnered with Acast to bring podcasters onto newsletters and vice versa",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://kit.com/news/acast-and-kit-partner-to-fuel-creator-expansion-across-podcasts-and-newsletters",
+  "traction": "Passed $50M ARR in 2025 (founder); Sacra est. $52M, +20% YoY; profitable",
+  "red_flags": "Minor, not scored: Jun–Jul 2025 restructuring (RIF) eliminated several roles incl. a 9-year content lead and a social/YouTube strategist; team has since grown to ~115 and hiring continues",
   "red_flags_sources": [
    {
-    "label": "Thom Gibson: role cut in Kit restructuring (Jul 2025)",
+    "label": "Thom Gibson (LinkedIn, Jul 2025): role cut in Kit restructuring",
     "url": "https://www.linkedin.com/posts/thomgibson_i-lost-my-job-last-week-came-as-a-bit-of-activity-7345783262310502400-0t8b"
    },
    {
-    "label": "Dani Leigh Stewart: RIF after 9 years at Kit (Jul 2025)",
+    "label": "Dani Leigh Stewart (LinkedIn, Jul 2025): left Kit after 9 years in an RIF",
     "url": "https://www.linkedin.com/posts/danileighstewart_im-no-longer-at-kit-after-9-years-building-activity-7351265051732844544-8tlF"
    },
    {
-    "label": "Kit careers page: 114 team members (Oct 2026)",
-    "url": "https://kit.com/careers"
-   },
-   {
-    "label": "GetLatka: team size 149 (2024)",
-    "url": "https://getlatka.com/companies/convertkit"
+    "label": "Kit team page: 114 team members (Oct 2026)",
+    "url": "https://kit.com/about"
    }
   ],
-  "score": "0.25",
-  "zone": "Cool-down",
+  "score": "2.25",
+  "zone": "Steady",
   "status": "new",
-  "glassdoor_rating": "",
-  "glassdoor_reviews": "",
-  "glassdoor_url": "",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "20",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Kit-Reviews-E1018963.htm",
   "keep": "yes",
   "is_new": true,
   "last_checked": "Oct 20, 2026",
-  "engine": "Network",
+  "engine": "Lock-in",
   "distance": "Half",
-  "distance_why": "Deep creator base and recommendations network, but email tools are easy to copy and Beehiiv/Substack compete hard.",
+  "distance_why": "Long-time leader in creator email (550k+ creators, $50M+ ARR, profitable for years) with automations, commerce and a recommendations network built on top; but lists are portable and beehiiv, Substack and Mailchimp compete hard, with growth only ~15–20% a year.",
   "distance_sources": [
    {
-    "label": "Axios: Kit vs Substack, Beehiiv, Patreon (Jun 2026)",
-    "url": "https://www.axios.com/2026/06/11/kit-studios-nyc-creator-community"
+    "label": "Kit press: Acast partnership, 550k+ creators (Aug 2026)",
+    "url": "https://kit.com/news/acast-and-kit-partner-to-fuel-creator-expansion-across-podcasts-and-newsletters"
+   },
+   {
+    "label": "Sacra: Kit ~$52M ARR in 2025, +20% YoY",
+    "url": "https://sacra.com/c/convertkit/"
    }
   ],
   "hiring_locations": []
