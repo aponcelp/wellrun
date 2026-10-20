@@ -1,0 +1,137 @@
+{
+  "slug": "rec",
+  "checked": "Oct 20, 2026",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~40",
+    "as_of": "Aug 2026",
+    "source": "https://www.sportsbusinessjournal.com/Articles/2026/08/06/usta-ventures-invests-in-recreational-sports-platform-rec"
+  },
+  "leadership": [
+    {
+      "name": "Birju Kadakia",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/birjukadakia",
+      "source": "https://www.sportsbusinessjournal.com/Articles/2026/08/06/usta-ventures-invests-in-recreational-sports-platform-rec"
+    },
+    {
+      "name": "Rachel Williams",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/williamsrachelj",
+      "source": "https://www.sportsbusinessjournal.com/Articles/2026/08/06/usta-ventures-invests-in-recreational-sports-platform-rec"
+    },
+    {
+      "name": "Rob Cocks",
+      "title": "Head of Revenue",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://partner.rec.us/blog/welcome-rob-cocks"
+    },
+    {
+      "name": "Kevin Liu",
+      "title": "Head of Engineering",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://partner.rec.us/blog/55-tools-one-teammate"
+    },
+    {
+      "name": "Elise Hudson",
+      "title": "Head of Product",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://partner.rec.us/blog/better-than-busywork"
+    },
+    {
+      "name": "Michael Kehoe",
+      "title": "Head of Partner Success and Business Operations",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/michael-kehoe-b6855530",
+      "source": "https://www.linkedin.com/in/michael-kehoe-b6855530"
+    },
+    {
+      "name": "Courtney Sung",
+      "title": "Head of GTM",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/courtneysung",
+      "source": "https://www.linkedin.com/in/courtneysung"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2022-12",
+      "amount": "$2.2M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2024/03/01/rec-emerges-from-stealth-to-modernize-parks-rec-management-and-booking/"
+    },
+    {
+      "round": "Seed",
+      "date": "2023-12",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": "NFX",
+      "source": "https://techcrunch.com/2024/03/01/rec-emerges-from-stealth-to-modernize-parks-rec-management-and-booking/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-09",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": "Crosslink Capital",
+      "source": "https://www.prnewswire.com/news-releases/rec-accelerates-growth-with-pro-athlete-backed-series-a-to-power-local-recreation-302559192.html"
+    },
+    {
+      "round": "Strategic (USTA Ventures)",
+      "date": "2026-08",
+      "amount": null,
+      "valuation": null,
+      "lead": "USTA Ventures",
+      "source": "https://www.usta.com/en/home/stay-current/national/usta-ventures-and-rec-bring-modern-technology-to-the-millions-wh.html"
+    }
+  ],
+  "total_raised": "$20M+",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launches Seb, an AI teammate that runs recreation admin tasks inside Rec",
+      "url": "https://partner.rec.us/blog/meet-seb"
+    },
+    {
+      "date": "2026-08",
+      "headline": "USTA Ventures makes undisclosed strategic investment; Rec live in 30+ states",
+      "url": "https://www.sportsbusinessjournal.com/Articles/2026/08/06/usta-ventures-invests-in-recreational-sports-platform-rec"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Hires ex-Google, Vimeo exec Rob Cocks as Head of Revenue",
+      "url": "https://partner.rec.us/blog/welcome-rob-cocks"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Apex Park and Recreation District (Colo.) goes live on Rec for camp registration",
+      "url": "https://www.govtech.com/biz/how-rec-technologies-tries-to-ease-summer-camp-stress"
+    },
+    {
+      "date": "2026-01",
+      "headline": "City of Stanwood, WA ends Rec contract over missing ACH and recurring booking",
+      "url": "https://stanwoodwa.org/DocumentCenter/View/9111/2025-114--Rec-Technologies"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Raises $11M Series A led by Crosslink Capital, with Durant and Montana funds",
+      "url": "https://www.prnewswire.com/news-releases/rec-accelerates-growth-with-pro-athlete-backed-series-a-to-power-local-recreation-302559192.html"
+    }
+  ],
+  "competitors": [
+    "ActiveNet (Active Network)",
+    "CivicRec (CivicPlus)",
+    "RecTrac / nextRec (Vermont Systems, Xplor)",
+    "RecDesk (Clubessential)",
+    "PerfectMind (Xplor)"
+  ]
+}

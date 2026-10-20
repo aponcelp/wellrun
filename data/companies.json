@@ -34631,5 +34631,58 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Rec",
+  "slug": "rec",
+  "site": "https://www.rec.us",
+  "careers_url": "https://jobs.ashbyhq.com/rec",
+  "what_they_do": "Registration, court booking, memberships and AI admin software for parks and rec departments",
+  "problem": "Residents fight clunky 2000s-era portals to book courts and camps; city rec staff drown in manual busywork",
+  "industry": "GovTech / recreation management software",
+  "stage": "Series A",
+  "last_round": "$11M",
+  "last_round_date": "Sep 2025",
+  "lead_investors": "Crosslink Capital (A); NFX (seed)",
+  "total_open_roles": "10",
+  "ops_roles": "Deployment Strategist; Customer Success",
+  "hiring_trend": "LinkedIn headcount ~79, +36% YoY; 10 open roles (Ashby), Head of Revenue hired Jun 2026",
+  "headcount": "~40 (company, Aug 2026); ~79 on LinkedIn",
+  "latest_news": "Launched Seb, an AI teammate that runs rec admin tasks inside Rec",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://partner.rec.us/blog/meet-seb",
+  "traction": "100+ cities in 30+ states (company), up from 50 communities in 12 states Sep 2025",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "1.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Rec-Technologies-EI_IE10045604.11,27.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Modern challenger with real municipal adoption (100+ cities, multi-year city contracts) but small next to incumbents ActiveNet, CivicRec and RecTrac/nextRec; product gaps still cost deals, as one Washington city's early termination over missing ACH and recurring booking shows.",
+  "distance_sources": [
+   {
+    "label": "SBJ: USTA Ventures invests in Rec; ~40 staff, 30+ states, $20M+ raised (Aug 2026)",
+    "url": "https://www.sportsbusinessjournal.com/Articles/2026/08/06/usta-ventures-invests-in-recreational-sports-platform-rec"
+   },
+   {
+    "label": "TechCrunch: Rec emerges from stealth, names ActiveNet, RecDesk and others as rivals (Mar 2024)",
+    "url": "https://techcrunch.com/2024/03/01/rec-emerges-from-stealth-to-modernize-parks-rec-management-and-booking/"
+   },
+   {
+    "label": "City of Stanwood, WA: termination notice to Rec over missing ACH and recurring booking (Jan 2026)",
+    "url": "https://stanwoodwa.org/DocumentCenter/View/9111/2025-114--Rec-Technologies"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
  }
 ]
