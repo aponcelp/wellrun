@@ -35121,5 +35121,128 @@
   "hiring_locations": [
    "San Francisco"
   ]
+ },
+ {
+  "name": "Kit",
+  "slug": "kit",
+  "site": "https://kit.com",
+  "careers_url": "https://kit.com/careers",
+  "what_they_do": "Email marketing, automations and commerce for creators and newsletters (formerly ConvertKit)",
+  "problem": "Creators need to own their audience and earn from it without stitching many tools",
+  "industry": "Creator economy / email marketing",
+  "stage": "Bootstrapped",
+  "last_round": "Secondary ($200M valuation)",
+  "last_round_date": "2021",
+  "lead_investors": "None (self-funded; 2021 secondary to individual investors)",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "Lean: 2 open roles; team 114 (company page, Oct 2026) vs ~149 in 2024",
+  "headcount": "114",
+  "latest_news": "Opened Kit Studios in NYC, free recording space for creators",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.axios.com/2026/06/11/kit-studios-nyc-creator-community",
+  "traction": "Passed $50M ARR in 2025 (CEO); Sacra $52M, +20% YoY; 550K creators",
+  "red_flags": "Mid-2025 restructuring/RIF eliminated several roles; team down to 114 from ~149; Sep 2025 price hike drew creator backlash.",
+  "red_flags_sources": [
+   {
+    "label": "Thom Gibson: role cut in Kit restructuring (Jul 2025)",
+    "url": "https://www.linkedin.com/posts/thomgibson_i-lost-my-job-last-week-came-as-a-bit-of-activity-7345783262310502400-0t8b"
+   },
+   {
+    "label": "Dani Leigh Stewart: RIF after 9 years at Kit (Jul 2025)",
+    "url": "https://www.linkedin.com/posts/danileighstewart_im-no-longer-at-kit-after-9-years-building-activity-7351265051732844544-8tlF"
+   },
+   {
+    "label": "Kit careers page: 114 team members (Oct 2026)",
+    "url": "https://kit.com/careers"
+   },
+   {
+    "label": "GetLatka: team size 149 (2024)",
+    "url": "https://getlatka.com/companies/convertkit"
+   }
+  ],
+  "score": "0.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Deep creator base and recommendations network, but email tools are easy to copy and Beehiiv/Substack compete hard.",
+  "distance_sources": [
+   {
+    "label": "Axios: Kit vs Substack, Beehiiv, Patreon (Jun 2026)",
+    "url": "https://www.axios.com/2026/06/11/kit-studios-nyc-creator-community"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Zapier",
+  "slug": "zapier",
+  "site": "https://zapier.com",
+  "careers_url": "https://jobs.ashbyhq.com/zapier",
+  "what_they_do": "No-code automation and AI agents linking 9,000+ business apps",
+  "problem": "Teams waste time moving data between apps by hand",
+  "industry": "Automation / AI orchestration",
+  "stage": "Bootstrapped",
+  "last_round": "Secondary ($5B valuation)",
+  "last_round_date": "Jan 2021",
+  "lead_investors": "Sequoia, Steadfast (secondary); YC seed 2012",
+  "total_open_roles": "12",
+  "ops_roles": "Automation Strategist, Customer Success (remote); Manager, GTM Analytics (remote NAMER)",
+  "hiring_trend": "Shrinking: ~800 staff (CEO, Apr 2026) vs ~1,000; repeated role eliminations in 2026; 12 open roles",
+  "headcount": "~800",
+  "latest_news": "Zapier Agents generally available",
+  "latest_news_date": "Apr 2026",
+  "latest_news_url": "https://gravity.fast/blog/zapier-statistics-2026/",
+  "traction": "Profitable; ~$310M ARR 2023 (Sacra), CEO says several hundred million now",
+  "red_flags": "First-ever layoff in 2025 after AI 'Code Red', then repeated role eliminations Feb, Jun and Sep 2026; headcount down from ~1,000 to ~800.",
+  "red_flags_sources": [
+   {
+    "label": "Lead with AI: Zapier ran its first-ever layoff (Aug 2025)",
+    "url": "https://www.leadwithai.co/article/sammut-zapier-ai-transformation"
+   },
+   {
+    "label": "LinkedIn: role eliminated in restructuring (Aug 2026)",
+    "url": "https://www.linkedin.com/posts/hoonpark_farewell-activity-7499296940845801472-2tPx"
+   },
+   {
+    "label": "LinkedIn: role eliminated (Oct 2026)",
+    "url": "https://www.linkedin.com/posts/christinaromein_after-95-years-my-time-at-zapier-has-come-activity-7511544095803224064-Msko"
+   },
+   {
+    "label": "Madrona: Wade Foster, 800 employees (Apr 2026)",
+    "url": "https://www.madrona.com/zapier-has-more-ai-agents-than-employees-heres-how-that-happened/"
+   }
+  ],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Largest app-integration catalog and brand, but AI agents and Make, n8n, and native AI tools erode the moat.",
+  "distance_sources": [
+   {
+    "label": "Madrona interview with Wade Foster (Apr 2026)",
+    "url": "https://www.madrona.com/zapier-has-more-ai-agents-than-employees-heres-how-that-happened/"
+   }
+  ],
+  "hiring_locations": [
+   "NAMER",
+   "South America",
+   "Remote (APAC)",
+   "Remote (Europe)"
+  ]
  }
 ]

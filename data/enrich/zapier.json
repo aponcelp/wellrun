@@ -1,0 +1,82 @@
+{
+  "slug": "zapier",
+  "checked": "Oct 20, 2026",
+  "depth": "light",
+  "founded": 2011,
+  "hq": "San Francisco, CA (fully remote)",
+  "headcount_est": {
+    "value": "~800",
+    "as_of": "Apr 2026",
+    "source": "https://www.madrona.com/zapier-has-more-ai-agents-than-employees-heres-how-that-happened/"
+  },
+  "leadership": [
+    {
+      "name": "Wade Foster",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Zapier"
+    },
+    {
+      "name": "Bryan Helmig",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://en.wikipedia.org/wiki/Zapier"
+    },
+    {
+      "name": "Brandon Sammut",
+      "title": "Chief People Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.leadwithai.co/article/sammut-zapier-ai-transformation"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2012-11",
+      "amount": "$1.3M",
+      "valuation": null,
+      "lead": "Bessemer, YC",
+      "source": "https://en.wikipedia.org/wiki/Zapier"
+    },
+    {
+      "round": "Secondary",
+      "date": "2021-01",
+      "amount": null,
+      "valuation": "$5B",
+      "lead": "Sequoia, Steadfast",
+      "source": "https://gravity.fast/blog/zapier-statistics-2026/"
+    }
+  ],
+  "total_raised": "~$1.4M",
+  "revenue_est": {
+    "value": "~$310M ARR",
+    "as_of": "2023 (Sacra est.)",
+    "source": "https://getlatka.com/companies/zapier"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-04",
+      "headline": "Zapier Agents reach general availability",
+      "url": "https://gravity.fast/blog/zapier-statistics-2026/"
+    },
+    {
+      "date": "2026-04",
+      "headline": "CEO: several hundred million ARR, 800 staff, more agents than people",
+      "url": "https://www.madrona.com/zapier-has-more-ai-agents-than-employees-heres-how-that-happened/"
+    },
+    {
+      "date": "2025-08",
+      "headline": "First-ever layoff after internal AI 'Code Red'",
+      "url": "https://www.leadwithai.co/article/sammut-zapier-ai-transformation"
+    }
+  ],
+  "competitors": [
+    "Make",
+    "n8n",
+    "Workato",
+    "Microsoft Power Automate"
+  ]
+}

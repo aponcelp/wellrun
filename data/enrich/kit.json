@@ -1,0 +1,66 @@
+{
+  "slug": "kit",
+  "checked": "Oct 20, 2026",
+  "depth": "light",
+  "founded": 2013,
+  "hq": "Boise, ID (fully remote)",
+  "headcount_est": {
+    "value": "114",
+    "as_of": "Oct 2026",
+    "source": "https://kit.com/careers"
+  },
+  "leadership": [
+    {
+      "name": "Nathan Barry",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/nathanbarry",
+      "source": "https://www.founded.org/founders/nathan-barry/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Secondary",
+      "date": "2021",
+      "amount": null,
+      "valuation": "$200M",
+      "lead": "48 individual investors",
+      "source": "https://www.founded.org/companies/kit"
+    }
+  ],
+  "total_raised": "$0 primary (bootstrapped)",
+  "revenue_est": {
+    "value": "$50M+ ARR",
+    "as_of": "Dec 2025",
+    "source": "https://arrfounder.com/news/kit-passes-50m-arr"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-06",
+      "headline": "Opens Kit Studios in New York for creators",
+      "url": "https://www.axios.com/2026/06/11/kit-studios-nyc-creator-community"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Nathan Barry says Kit passed $50M ARR",
+      "url": "https://arrfounder.com/news/kit-passes-50m-arr"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Drops entry plan and raises prices for the first time in 12 years",
+      "url": "https://provenflows.com/what-should-you-do-about-kits-price-hike/"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Restructuring eliminates several roles",
+      "url": "https://www.linkedin.com/posts/danileighstewart_im-no-longer-at-kit-after-9-years-building-activity-7351265051732844544-8tlF"
+    }
+  ],
+  "competitors": [
+    "Beehiiv",
+    "Substack",
+    "Mailchimp",
+    "MailerLite",
+    "Patreon"
+  ]
+}
