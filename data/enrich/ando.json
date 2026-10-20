@@ -1,16 +1,20 @@
 {
   "slug": "ando",
-  "checked": "Oct 19, 2026",
+  "checked": "Oct 20, 2026",
   "depth": "light",
-  "founded": null,
+  "founded": 2025,
   "hq": "San Francisco, CA",
-  "headcount_est": null,
+  "headcount_est": {
+    "value": "~14",
+    "as_of": "Oct 2026",
+    "source": "https://tracxn.com/d/companies/ando/__3K5W7hlfh5kO02RxdjEKJFkynviMPiodLX-kjkNi44U"
+  },
   "leadership": [
     {
       "name": "Sara Du",
       "title": "Founder & CEO",
       "founder": true,
-      "linkedin": null,
+      "linkedin": "https://www.linkedin.com/in/saradu",
       "source": "https://www.globenewswire.com/news-release/2026/09/24/3368344/0/en/ando-launches-agent-native-messaging-platform-announces-20-million-seed.html"
     }
   ],
@@ -26,14 +30,35 @@
     {
       "round": "Seed",
       "date": "2026-09",
-      "amount": null,
+      "amount": "$20M (pre-seed + seed combined)",
       "valuation": null,
       "lead": "Index Ventures, Emergence Capital",
-      "source": "https://www.accel.com/news/our-investment-in-ando-modern-messaging-for-teams-and-agents"
+      "source": "https://www.globenewswire.com/news-release/2026/09/24/3368344/0/en/ando-launches-agent-native-messaging-platform-announces-20-million-seed.html"
     }
   ],
   "total_raised": "$20M (pre-seed + seed combined)",
   "revenue_est": null,
-  "news_timeline": [],
-  "competitors": []
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Emerges from stealth with $20M pre-seed + seed from Accel, Index, Emergence",
+      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Completes SOC 2 Type I; Type II in progress",
+      "url": "https://proofstory.co/research/ando/index.html"
+    },
+    {
+      "date": "2026-04",
+      "headline": "New Ontologies profile: 'Ando: Building Slack from Scratch'",
+      "url": "https://newontologies.substack.com/p/ando-building-slack-from-scratch"
+    }
+  ],
+  "competitors": [
+    "Slack",
+    "Microsoft Teams",
+    "Discord",
+    "Buzz (Jack Dorsey)"
+  ]
 }
