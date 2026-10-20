@@ -35002,5 +35002,47 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Ande",
+  "slug": "ande",
+  "site": "https://ande.ai",
+  "careers_url": "https://jobs.ashbyhq.com/ande",
+  "what_they_do": "AI platform and venue network for booking and managing corporate entertainment spend",
+  "problem": "Client dinners, outings and events are booked ad hoc across cards and inboxes, leaving finance blind to entertainment spend",
+  "industry": "Corporate entertainment / spend management",
+  "stage": "Series A",
+  "last_round": "$52M+ (seed + Series A combined)",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Lightspeed Venture Partners, Redpoint Ventures, Duration Ventures, Sierra Ventures",
+  "total_open_roles": "9",
+  "ops_roles": "",
+  "hiring_trend": "Under 30 staff in late 2025 to ~52 (PitchBook) / 74 on LinkedIn; all 9 roles posted since Sep 22 launch",
+  "headcount": "~52-74",
+  "latest_news": "Licensing deal with SixPlus private-dining marketplace; SixPlus founder and team joined Ande",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/ande-and-sixplus-announce-licensing-agreement-to-give-clients-more-choice-in-private-and-large-group-dining-302906993.html",
+  "traction": "60+ enterprises; $400M/yr spend on network (claimed, not revenue); booking volume up 10x",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "",
+  "distance": "",
+  "distance_why": "",
+  "distance_sources": [],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "India",
+   "Remote"
+  ]
  }
 ]

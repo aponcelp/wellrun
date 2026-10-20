@@ -1,0 +1,97 @@
+{
+  "slug": "ande",
+  "checked": "Oct 20, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~52 (PitchBook); 74 on LinkedIn",
+    "as_of": "Oct 2026",
+    "source": "https://pitchbook.com/profiles/company/1480335-40"
+  },
+  "leadership": [
+    {
+      "name": "Lohit Sarma",
+      "title": "CEO & Co-founder",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/lohit-sarma-61697022",
+      "source": "https://ande.ai/about"
+    },
+    {
+      "name": "Michael McDermott",
+      "title": "Co-founder, Engineering",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://ande.ai/about"
+    },
+    {
+      "name": "Tal Yusov",
+      "title": "Founding Product Lead",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://ande.ai/about"
+    },
+    {
+      "name": "Maurice Hagin",
+      "title": "Enterprise GM",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://ande.ai/about"
+    },
+    {
+      "name": "Brooke Hluza",
+      "title": "Hospitality GM",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://ande.ai/about"
+    },
+    {
+      "name": "Mike Burns",
+      "title": "Finance",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://ande.ai/about"
+    },
+    {
+      "name": "Deana Shoffitt",
+      "title": "Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://ande.ai/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A (combined, announced at stealth exit)",
+      "date": "2026-09",
+      "amount": "$52M+",
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners, Redpoint Ventures, Duration Ventures, Sierra Ventures (Bain Capital Ventures participating)",
+      "source": "https://www.prnewswire.com/news-releases/ande-raises-52m-seed-and-series-a-to-launch-the-first-entertainment-operating-system-for-enterprises-302885220.html"
+    }
+  ],
+  "total_raised": "$52M+",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Licensing deal with SixPlus private-dining marketplace; SixPlus team joins Ande",
+      "url": "https://www.prnewswire.com/news-releases/ande-and-sixplus-announce-licensing-agreement-to-give-clients-more-choice-in-private-and-large-group-dining-302906993.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Emerges from stealth with $52M+ seed and Series A led by Lightspeed and Redpoint",
+      "url": "https://www.prnewswire.com/news-releases/ande-raises-52m-seed-and-series-a-to-launch-the-first-entertainment-operating-system-for-enterprises-302885220.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Claims 60+ enterprises and $400M/yr entertainment spend on its network",
+      "url": "https://ande.ai/about"
+    }
+  ],
+  "competitors": [
+    "Cvent (Supplier Network)",
+    "Nowadays",
+    "SixPlus (now licensing partner)"
+  ]
+}
