@@ -34088,5 +34088,71 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Arceus",
+  "slug": "arceus",
+  "site": "https://arceus.legal",
+  "careers_url": "https://jobs.ashbyhq.com/arceus",
+  "what_they_do": "AI-native law firm reviewing, negotiating and drafting commercial contracts at flat fees",
+  "problem": "Startups wait days on outside counsel for contract redlines and get unpredictable billable-hour invoices",
+  "industry": "Legal services / AI-native law firm",
+  "stage": "Series A",
+  "last_round": "$17M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Greycroft",
+  "total_open_roles": "7",
+  "ops_roles": "Founding Operations",
+  "hiring_trend": "LinkedIn ~19 staff (+58% in a month) vs ~11-12 on PitchBook/Caplight; all 7 postings opened Aug–Sep 2026",
+  "headcount": "~12-19",
+  "latest_news": "Launched publicly with $17M led by Greycroft (Craft Ventures, South Park Commons)",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://arceus.legal/blog/introducing-arceus-a-better-law-firm",
+  "traction": "12,000+ contracts reviewed; customer base quadrupled in Sep 2026 (company-stated)",
+  "red_flags": "Pivot, not a clean start: Arceus runs on Gero Labs, Inc., the same company as Vultron, whose customer base was sold to pWin.ai in Apr 2026; same investors back both, and Business Insider says Liu is recycling Vultron cash, so how much of the $17M is new money is undisclosed.",
+  "red_flags_sources": [
+   {
+    "label": "Arceus privacy policy: Gero Labs, Inc. d/b/a Arceus (MSO) + Arceus P.C. (Sep 2026)",
+    "url": "https://arceus.legal/privacy"
+   },
+   {
+    "label": "Business Wire: pWin.ai acquires Vultron.ai customer portfolio (Apr 2026)",
+    "url": "https://www.businesswire.com/news/home/20260428236506/en/pWin.ai-Acquires-Vultron.ai-Customer-Portfolio-Cementing-Its-AI-Proposal-Platform-Leadership-Across-the-GovCon-Market"
+   },
+   {
+    "label": "Preqin: Gero Labs Inc. d/b/a Vultron, investors Greycroft, Craft, SPC, Conviction",
+    "url": "https://www.preqin.com/data/profile/asset/vultron/708170"
+   },
+   {
+    "label": "Business Insider: Liu kept Vultron cash and is recycling it into Arceus (Oct 2026)",
+    "url": "https://www.businessinsider.com/ai-native-law-firm-arceus-series-a-funding-pitch-deck-2026-9"
+   }
+  ],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Came out of stealth in Oct 2026 with ~12-19 staff; CounselOS client memory could make it hard to leave, but it's one of many new AI-native firms (Crosby, Norm Law, Vector Legal), and the MSO law-firm model is still being tested by regulators.",
+  "distance_sources": [
+   {
+    "label": "Artificial Lawyer: New model law firm Arceus raises $17M (Oct 2026)",
+    "url": "https://www.artificiallawyer.com/2026/10/01/new-model-law-firm-arceus-raises-17m/"
+   },
+   {
+    "label": "Business Insider: Arceus pitch deck and neofirm competition (Oct 2026)",
+    "url": "https://www.businessinsider.com/ai-native-law-firm-arceus-series-a-funding-pitch-deck-2026-9"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
  }
 ]

@@ -1,0 +1,67 @@
+{
+  "slug": "arceus",
+  "checked": "Oct 19, 2026",
+  "founded": 2026,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~19",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/arceuslegal"
+  },
+  "leadership": [
+    {
+      "name": "Mac Liu",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/macliu1",
+      "source": "https://arceus.legal/blog/introducing-arceus-a-better-law-firm"
+    },
+    {
+      "name": "Eugenia Bergantz",
+      "title": "Chief Legal and Strategy Officer",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/eugeniabergantz",
+      "source": "https://arceus.legal/attorneys"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A (announced as launch round; same entity as Vultron, Gero Labs, Inc.)",
+      "date": "2026-10",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "Greycroft",
+      "source": "https://www.artificiallawyer.com/2026/10/01/new-model-law-firm-arceus-raises-17m/"
+    }
+  ],
+  "total_raised": "$17M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches publicly with $17M led by Greycroft; Craft Ventures, SPC participate",
+      "url": "https://arceus.legal/blog/introducing-arceus-a-better-law-firm"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Says customer base quadrupled in Sep; 12,000+ contracts reviewed",
+      "url": "https://arceus.legal/blog/introducing-arceus-a-better-law-firm"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Hires ex-Planful GC Eugenia Bergantz as Chief Legal and Strategy Officer",
+      "url": "https://linkedin.com/in/eugeniabergantz"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Founder's prior startup Vultron sells its customer base to pWin.ai",
+      "url": "https://www.businesswire.com/news/home/20260428236506/en/pWin.ai-Acquires-Vultron.ai-Customer-Portfolio-Cementing-Its-AI-Proposal-Platform-Leadership-Across-the-GovCon-Market"
+    }
+  ],
+  "competitors": [
+    "crosby",
+    "norm-ai",
+    "Vector Legal",
+    "harvey"
+  ]
+}

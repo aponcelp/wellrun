@@ -227,6 +227,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "arceus": {
+  "url": "https://arceus.legal/og/opengraph-arceus.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-20"
+ },
  "archy": {
   "url": "https://cdn.prod.website-files.com/651122b54162cd123e42c9cf/68f97043ef9b5a7b1027cb91_og-graph-25.avif",
   "kind": "og",
