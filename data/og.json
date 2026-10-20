@@ -359,6 +359,12 @@
   "type": "image/webp",
   "checked": "2026-10-19"
  },
+ "baba": {
+  "url": "https://www.callbaba.com/og-image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-20"
+ },
  "backops": {
   "url": "https://framerusercontent.com/images/2zusaKYmU1t1PqZsRHuEQDc5rOs.png",
   "kind": "og",

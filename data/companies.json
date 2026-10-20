@@ -35388,5 +35388,54 @@
   "hiring_locations": [
    "Miami"
   ]
+ },
+ {
+  "name": "Baba",
+  "slug": "baba",
+  "site": "https://www.callbaba.com",
+  "careers_url": "https://jobs.ashbyhq.com/baba",
+  "what_they_do": "Insurance-covered care advocates, clinicians and AI agents for Medicare and Medicaid patients",
+  "problem": "Older adults and family caregivers struggle to coordinate doctors, insurance, paperwork and follow-ups across a fragmented system",
+  "industry": "Healthcare navigation / Medicare care coordination",
+  "stage": "Series A",
+  "last_round": "$40M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "FirstMark Capital",
+  "total_open_roles": "14",
+  "ops_roles": "RCM Lead; Head of Finance & Revenue Operations",
+  "hiring_trend": "Core team ~9 in Mar 2026; ~165-175 on LinkedIn incl. part-time advocates (+10% monthly, est.)",
+  "headcount": "~170 (incl. contract advocates)",
+  "latest_news": "Raised $40M Series A led by FirstMark, with CVS Health Ventures joining",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html",
+  "traction": "10,000+ patients served (6,000 in Feb 2026); plan partners cover 4M+ Medicare members",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.9",
+  "glassdoor_reviews": "8",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Baba-Care-EI_IE11070265.11,20.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "Real early adoption (10,000+ patients, CMS ACCESS in all four tracks, CVS backing) but it trails Solace, a unicorn in reimbursed advocacy, and depends on Medicare billing codes and payer contracts.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: Baba raises $40M Series A (Oct 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html"
+   },
+   {
+    "label": "Baba: Selected for CMS ACCESS Model (Jun 2026)",
+    "url": "https://www.callbaba.com/updates/baba-accepted-into-access/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote"
+  ]
  }
 ]

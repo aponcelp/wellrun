@@ -1,0 +1,88 @@
+{
+  "slug": "baba",
+  "checked": "Oct 20, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~165-175 incl. part-time advocates",
+    "as_of": "Jun 2026",
+    "source": "https://linkedin.com/company/callbaba"
+  },
+  "leadership": [
+    {
+      "name": "Connor Sweeney",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html"
+    },
+    {
+      "name": "Alicia Tennenbaum",
+      "title": "Executive Director of Clinical Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html"
+    },
+    {
+      "name": "Alan Li",
+      "title": "Founding Designer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-02",
+      "amount": "$6.5M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://www.globenewswire.com/news-release/2026/02/25/3244721/0/en/baba-emerges-from-stealth-with-over-6-5-million-in-seed-funding-to-expand-medicare-covered-patient-advocacy-for-older-adults.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "FirstMark Capital",
+      "source": "https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html"
+    }
+  ],
+  "total_raised": "$47M+",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $40M Series A led by FirstMark; CVS Health Ventures and Valtruis join",
+      "url": "https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Partners with the American Breast Cancer Foundation",
+      "url": "https://www.callbaba.com/updates/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Selected for CMS ACCESS Model across all four clinical tracks",
+      "url": "https://www.callbaba.com/updates/baba-accepted-into-access/"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Hires ex-Mount Sinai care transitions leader Alicia Tennenbaum to run clinical ops",
+      "url": "https://www.globenewswire.com/news-release/2026/04/20/3277165/0/en/baba-appoints-former-mount-sinai-executive-director-to-lead-clinical-operations.html"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Emerges from stealth with $6.5M seed led by General Catalyst",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244721/0/en/baba-emerges-from-stealth-with-over-6-5-million-in-seed-funding-to-expand-medicare-covered-patient-advocacy-for-older-adults.html"
+    }
+  ],
+  "competitors": [
+    "solace",
+    "Understood Care",
+    "papa",
+    "devoted-health"
+  ]
+}
