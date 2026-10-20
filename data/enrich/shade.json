@@ -1,0 +1,81 @@
+{
+  "slug": "shade",
+  "checked": "Oct 19, 2026",
+  "founded": 2022,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~49 on LinkedIn (team +133% YoY per Dealroom)",
+    "as_of": "Sep 2026",
+    "source": "https://linkedin.com/company/shadeinc"
+  },
+  "leadership": [
+    {
+      "name": "Brandon Fan",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/brandonfan1256",
+      "source": "https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/"
+    },
+    {
+      "name": "Emerson Dove",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": "~$6M (implied: $20M total less $14M)",
+      "valuation": null,
+      "lead": "General Catalyst, SignalFire, Contrary (lead not stated)",
+      "source": "https://www.alleywatch.com/2026/04/shade-media-asset-management-cloud-file-streaming-creative-team-software-platform-brandon-fan/"
+    },
+    {
+      "round": "Series A (unlabeled)",
+      "date": "2026-03",
+      "amount": "$14M",
+      "valuation": null,
+      "lead": "Khosla Ventures, Construct Capital, Bling Capital",
+      "source": "https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/"
+    }
+  ],
+  "total_raised": "$20M",
+  "revenue_est": {
+    "value": "<$1M (Dealroom, latest FY); ~$2.9M est. (Inven); CEO: up 6x YoY",
+    "as_of": "Oct 2026",
+    "basis": "estimate",
+    "source": "https://dealroom.co/companies/shade"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "CEO: revenue up 6x YoY; logos incl. Motorola, Carnival, Snowflake, Columbia",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7514025425115918339"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Partners with Ortana Media Group to plug into Cubix's 170+ integrations",
+      "url": "https://www.linkedin.com/posts/shadeinc_ortana-partners-with-shade-to-expand-intelligent-activity-7484996817978540032-mKVv"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Launches Custom Objects and Automations (no-code workflows)",
+      "url": "https://www.linkedin.com/posts/shadeinc_we-are-excited-to-announce-that-two-of-our-activity-7477469277793710094-Ne8i"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Raises $14M led by Khosla, Construct, Bling; Keith Rabois joins board",
+      "url": "https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/"
+    }
+  ],
+  "competitors": [
+    "Frame.io (Adobe)",
+    "LucidLink",
+    "Iconik",
+    "Dropbox",
+    "Poly"
+  ]
+}

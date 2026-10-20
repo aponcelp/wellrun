@@ -34534,5 +34534,56 @@
   "hiring_locations": [
    "Convey"
   ]
+ },
+ {
+  "name": "Shade",
+  "slug": "shade",
+  "site": "https://www.shade.inc",
+  "careers_url": "https://jobs.ashbyhq.com/shade-inc",
+  "what_they_do": "Cloud media storage that streams files to editors, with AI search and review built in",
+  "problem": "Creative teams juggle five-plus tools and lose hours downloading, tagging and hunting for footage across drives",
+  "industry": "Media storage / creative workflow software",
+  "stage": "Series A (unlabeled)",
+  "last_round": "$14M",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "Khosla Ventures (Keith Rabois on board), Construct Capital, Bling Capital; General Catalyst, SignalFire, Contrary (seed)",
+  "total_open_roles": "3",
+  "ops_roles": "",
+  "hiring_trend": "~49 on LinkedIn, team +133% YoY (Dealroom); open roles down from ~13 mid-2026 to 3 now",
+  "headcount": "~45-50",
+  "latest_news": "CEO says revenue up 6x YoY; Custom Objects and Automations won NAB Product of the Year",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7514025425115918339",
+  "traction": "Revenue up 6x YoY, 120% NRR (company-stated); 60M+ assets ingested; Salesforce, Webflow, HelloFresh",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Shade-EI_IE8620096.11,16.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Storage-plus-workflow is sticky once media lives there, but Adobe, LucidLink and Dropbox crowd in.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Shade lands $14M; rivals include Poly and Memories.ai (Apr 2026)",
+    "url": "https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/"
+   },
+   {
+    "label": "AlleyWatch: Shade replaces Dropbox, LucidLink, Iconik, Frame.io in one platform (Apr 2026)",
+    "url": "https://www.alleywatch.com/2026/04/shade-media-asset-management-cloud-file-streaming-creative-team-software-platform-brandon-fan/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Los Angeles",
+   "London",
+   "Remote"
+  ]
  }
 ]
