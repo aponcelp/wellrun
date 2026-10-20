@@ -941,6 +941,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "encore-ai": {
+  "url": "https://cdn.prod.website-files.com/6a5b72290d130488f412d2b2/6a5e72aa689b5a3d327dddca_og_image%20(1).jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-20"
+ },
  "endear": {
   "url": "https://endearhq.com/astro-img/og-default.jpg?v=b4u0z92fls77",
   "kind": "og",

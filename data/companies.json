@@ -34329,5 +34329,64 @@
    "New York",
    "Remote"
   ]
+ },
+ {
+  "name": "Encore AI",
+  "slug": "encore-ai",
+  "site": "https://www.encr.ai",
+  "careers_url": "https://www.comeet.com/jobs/gainencore_ai/0B.00C",
+  "what_they_do": "AI voice and chat agents trained on a company's best reps, mainly for banks and insurers",
+  "problem": "Banks and insurers lose leads and sales because only their best reps convert well, and they can't clone them",
+  "industry": "Revenue-focused customer-interaction AI for financial services",
+  "stage": "Series A",
+  "last_round": "$30M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Team8, Planven, The Garage",
+  "total_open_roles": "4",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~40-50 (Sep 2025) → ~54-60 (Oct 2026), est. +15-20% YoY; plans 40 NYC staff by year-end; only 4 live roles, all US sales",
+  "headcount": "~50-60",
+  "latest_news": "Raised $30M Series A, rebranded from Insait IO, moved HQ from Israel to New York",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+  "traction": "40+ enterprise customers, mostly financial institutions; CEO says ARR up 5x+ since May 2025 seed",
+  "red_flags": "Watch (not scored): a May 2026 anonymous Glassdoor review says the company 'recently laid off close to 30% of employees' and cites manager churn; an Aug 2025 Tel Aviv review describes staff worried about who would be let go next. No press report or count, and headcount is up YoY, so no -1 applied. Head of HR left Apr 2025 (replaced).",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor: Insait IO reviews (May 20, 2026 review alleging ~30% layoff), 3.9/12 reviews",
+    "url": "https://www.glassdoor.com/Reviews/Insait-IO-Reviews-E9580807.htm"
+   },
+   {
+    "label": "Glassdoor: Insait IO Tel Aviv review 'Good team, poor management' (Aug 2025)",
+    "url": "https://www.glassdoor.co.uk/Reviews/Insait-IO-Tel-Aviv-Reviews-EI_IE9580807.0,9_IL.10,18_IC2421090.htm"
+   },
+   {
+    "label": "Calcalist: ~50 employees, 35 in Israel, at Series A (Jul 2026)",
+    "url": "https://www.calcalist.co.il/calcalistech/article/rkszxrvbfg"
+   }
+  ],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "12",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Insait-IO-Reviews-E9580807.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 19, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Patented 'interaction mining' trains agents on each client's own call history, and some bank and insurer customers invested after using it; but CRM incumbents and many voice-agent startups can chase the same buyers.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Encore AI raises $30M, 40+ enterprise customers, CRM incumbents a threat (Jul 2026)",
+    "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/"
+   },
+   {
+    "label": "PR Newswire: Insait rebrands as Encore AI, $30M Series A (Jul 2026)",
+    "url": "https://www.prnewswire.com/news-releases/encore-ai-raises-30m-to-deploy-the-only-enterprise-ai-platform-built-to-generate-revenue-from-customer-interactions-302837694.html"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
