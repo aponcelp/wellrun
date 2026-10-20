@@ -34684,5 +34684,106 @@
    "San Francisco",
    "Remote"
   ]
+ },
+ {
+  "name": "AIOS",
+  "slug": "aios",
+  "site": "https://www.aiosmedical.com",
+  "careers_url": "https://jobs.ashbyhq.com/Aios",
+  "what_they_do": "Online GLP-1 weight-loss clinics and pharmacy (Bolt Pharmacy UK, Fella Health) run on its own AI clinical stack",
+  "problem": "People wanting weight-loss medication face slow, costly GP access; AIOS sells branded GLP-1s online at the lowest cash price",
+  "industry": "Consumer telehealth / online pharmacy (GLP-1 obesity care)",
+  "stage": "Bootstrapped (tiny 2021 seed only)",
+  "last_round": "none (bootstrapped; ~$75K-$225K 2021 seed)",
+  "last_round_date": "",
+  "lead_investors": "BrandProject (2021 seed); Y Combinator, Global Founders Capital, AngelList",
+  "total_open_roles": "18",
+  "ops_roles": "Head of Expansion (Europe market-entry ops, remote)",
+  "hiring_trend": "Layoff Jun 2025 (~170 → ~95); rebuilt to ~125 on LinkedIn (+32% YoY); 18 open roles, all posted May-Oct 2026",
+  "headcount": "~100-125",
+  "latest_news": "UK pharmacy regulator GPhC found Bolt Pharmacy failed two standards; improvement plan due Oct 9",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.chemistanddruggist.co.uk/news/regulation/gphc-takes-action-against-two-major-weight-loss-pharmacies-5ROUNJNQ7NANPCT4KUJYMKZSKI",
+  "traction": "~$400M ARR (company-stated, Sep 2026), up from ~$10M a year earlier; Sacra est. $420-450M; profitable, ~20% gross margin",
+  "red_flags": "Jun 2025 layoff of ~75 of ~170 staff (~44%) after US compounded-GLP-1 revenue fell (Sacra: $82M → $54M annualized, Mar-Sep 2025). Eli Lilly (Apr 2025) and Novo Nordisk (Aug 2025) federal lawsuits over compounded GLP-1 marketing; Lilly's suit largely survived dismissal Mar 2026. UK regulators on Bolt Pharmacy: MHRA ad action (Mar 2026), two upheld ASA rulings incl. a fake 'independent' reviews page (Jul 2026), GPhC inspection 'standards not all met' (Jul 2026, published Oct 2026). Also: US Fella Health has paused new sign-ups (Oct 2026).",
+  "red_flags_sources": [
+   {
+    "label": "Richie Cartwright (CEO) on LinkedIn: letting go ~75, team ~170 to ~95 (Jun 2025)",
+    "url": "https://www.linkedin.com/posts/richard-cartwright_today-were-letting-go-75-team-members-activity-7343004450128543744-PUIy"
+   },
+   {
+    "label": "Sacra: AIOS revenue fell $82M to $54M annualized in 2025 before UK pivot (Jul 2026)",
+    "url": "https://sacra.com/research/400m-year-glp1-wrapper/"
+   },
+   {
+    "label": "MobiHealthNews: Eli Lilly sues four telehealth companies incl. Fella Health (Apr 2025)",
+    "url": "https://www.mobihealthnews.com/news/eli-lilly-sues-four-telehealth-companies-selling-copycat-drugs"
+   },
+   {
+    "label": "Reuters: Novo Nordisk expands compounder lawsuits, names Fella Health (Aug 2025)",
+    "url": "https://www.reuters.com/legal/litigation/novo-nordisk-expands-lawsuits-against-weight-loss-drug-compounders-2025-08-05/"
+   },
+   {
+    "label": "VitalLaw: Lilly mostly survives Aios motion to dismiss, N.D. Cal. (Mar 2026)",
+    "url": "https://www.vitallaw.com/news/advertising-food-drug-medical-devices-n-d-cal-eli-lilly-prevails-in-pursuing-most-claims-against-telehealth-company-fella-health-over-compounded-weight-loss-drugs/hld01430cdf32c1204935b052c08fce9cf0fd"
+   },
+   {
+    "label": "GOV.UK MHRA: Bolt Healthcare t/a Bolt Pharmacy and Fella Health amended weight-loss ads (Mar 2026)",
+    "url": "https://www.gov.uk/government/publications/advertising-investigations-march-2026--2/medicinal-treatment-services-for-weight-loss-march-2026"
+   },
+   {
+    "label": "ASA ruling on Bolt Pharmacy: 'UK Weight Loss Reviews' page, upheld (Jul 2026)",
+    "url": "https://www.asa.org.uk/rulings/bolt-healthcare-ltd-a26-1335405-bolt-healthcare-ltd.html"
+   },
+   {
+    "label": "ASA ruling on Bolt Pharmacy: POM promotion, upheld (Jul 2026)",
+    "url": "https://www.asa.org.uk/rulings/bolt-healthcare-ltd-a26-1333536-bolt-healthcare-ltd.html"
+   },
+   {
+    "label": "GPhC inspection: Bolt Pharmacy 'Standards not all met' (Jul 2026)",
+    "url": "https://inspections.pharmacyregulation.org/pharmacy/detail/bolt-pharmacy-9013085"
+   },
+   {
+    "label": "Chemist+Druggist: GPhC takes action against Voy and Bolt (Oct 2026)",
+    "url": "https://www.chemistanddruggist.co.uk/news/regulation/gphc-takes-action-against-two-major-weight-loss-pharmacies-5ROUNJNQ7NANPCT4KUJYMKZSKI"
+   },
+   {
+    "label": "Fella Health site: new sign-ups temporarily paused (Oct 2026)",
+    "url": "https://www.fellahealth.com/offer-review"
+   }
+  ],
+  "score": "0",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "29",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Fella-Health-Reviews-E6472405.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Explosive UK growth, but it resells branded Wegovy/Mounjaro at cost (~20% gross margin) in a crowded online-pharmacy market (Voy, Juniper, Numan, Hims via ZAVA), depends on Lilly/Novo pricing and paid social ads, and faces mounting UK regulatory pressure.",
+  "distance_sources": [
+   {
+    "label": "Sacra: AIOS ~20% gross margins vs 65-80% at Ro/Hims (2026)",
+    "url": "https://sacra.com/chat/h/e6e29eae-f051-4a27-bae6-f3bbe55f74ab/"
+   },
+   {
+    "label": "Sacra: AIOS pivot to UK branded supply; Hims entered UK via ZAVA",
+    "url": "https://sacra.com/chat/h/9692d662-089d-442e-a6fa-8f07002eb636/"
+   },
+   {
+    "label": "Chemist+Druggist: GPhC action against Voy and Bolt (Oct 2026)",
+    "url": "https://www.chemistanddruggist.co.uk/news/regulation/gphc-takes-action-against-two-major-weight-loss-pharmacies-5ROUNJNQ7NANPCT4KUJYMKZSKI"
+   }
+  ],
+  "hiring_locations": [
+   "Berlin",
+   "Blackburn",
+   "European timezones",
+   "Remote (Europe)",
+   "Remote (UK)"
+  ]
  }
 ]

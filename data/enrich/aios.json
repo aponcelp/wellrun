@@ -1,0 +1,85 @@
+{
+  "slug": "aios",
+  "checked": "Oct 20, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~125",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/aios-tech"
+  },
+  "leadership": [
+    {
+      "name": "Richie Cartwright",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/richard-cartwright",
+      "source": "https://www.ycombinator.com/companies/aios"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Accelerator (Y Combinator W20)",
+      "date": "2020-01",
+      "amount": null,
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://www.ycombinator.com/companies/aios"
+    },
+    {
+      "round": "Seed",
+      "date": "2021-10",
+      "amount": "$75K-$130K (sources conflict)",
+      "valuation": null,
+      "lead": "BrandProject",
+      "source": "https://healthcareventurecapitalfund.com/companies/aios/"
+    }
+  ],
+  "total_raised": "~$225K (PitchBook, per HVCF; no Form D)",
+  "revenue_est": {
+    "value": "~$400M ARR",
+    "as_of": "Sep 2026",
+    "basis": "company-stated",
+    "source": "https://jobs.ashbyhq.com/Aios/ed3c3b1d-7d8c-4482-9fc7-246d87a1c19e"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "GPhC finds Bolt Pharmacy failed two inspection standards; improvement plan",
+      "url": "https://www.chemistanddruggist.co.uk/news/regulation/gphc-takes-action-against-two-major-weight-loss-pharmacies-5ROUNJNQ7NANPCT4KUJYMKZSKI"
+    },
+    {
+      "date": "2026-07",
+      "headline": "ASA upholds two rulings against Bolt Pharmacy weight-loss ads",
+      "url": "https://www.pharmacymagazine.co.uk/business-news/asa-online-pharmacy-falsely-implied-its-weight-loss-reviews-page-was-independent"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Sacra estimates AIOS at ~$420M annualized revenue, up from $125M end-2025",
+      "url": "https://sacra.com/research/400m-year-glp1-wrapper/"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Court lets most of Eli Lilly's false-advertising suit vs Aios proceed",
+      "url": "https://www.vitallaw.com/news/advertising-food-drug-medical-devices-n-d-cal-eli-lilly-prevails-in-pursuing-most-claims-against-telehealth-company-fella-health-over-compounded-weight-loss-drugs/hld01430cdf32c1204935b052c08fce9cf0fd"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Novo Nordisk sues Fella Health over compounded semaglutide",
+      "url": "https://www.reuters.com/legal/litigation/novo-nordisk-expands-lawsuits-against-weight-loss-drug-compounders-2025-08-05/"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Lays off ~75 of ~170 staff after US compounding crackdown",
+      "url": "https://www.linkedin.com/posts/richard-cartwright_today-were-letting-go-75-team-members-activity-7343004450128543744-PUIy"
+    }
+  ],
+  "competitors": [
+    "Voy",
+    "Juniper (Eucalyptus)",
+    "Hims & Hers",
+    "Numan",
+    "Ro"
+  ]
+}
