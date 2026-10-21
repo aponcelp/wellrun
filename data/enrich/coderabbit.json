@@ -1,0 +1,135 @@
+{
+  "slug": "coderabbit",
+  "checked": "Oct 21, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~265-330",
+    "as_of": "Oct 2026",
+    "source": "https://research.crustdata.com/company/coderabbit"
+  },
+  "leadership": [
+    {
+      "name": "Harjot Gill",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/harjotsgill",
+      "source": "https://thenextweb.com/news/coderabbit-raised-143m-to-read-the-code-ai-wrote"
+    },
+    {
+      "name": "Gur (Guritfaq) Singh",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/guritfaq-singh-510175280",
+      "source": "https://www.businesswire.com/news/home/20250514311136/en/CodeRabbit-Brings-Free-AI-Code-Reviews-in-Visual-Studio-Code"
+    },
+    {
+      "name": "Matthew Mulqueen",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/mmulqueen",
+      "source": "https://www.coderabbit.ai/newsroom/matthew-mulqueen-chief-revenue-officer"
+    },
+    {
+      "name": "Alex Berkenkamp",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theorg.com/org/coderabbit"
+    },
+    {
+      "name": "Peter Guagenti",
+      "title": "Chief Marketing Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://research.crustdata.com/company/coderabbit"
+    },
+    {
+      "name": "Rohit Khanna",
+      "title": "VP of Engineering & Site Leader",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theorg.com/org/coderabbit"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-03",
+      "amount": "~$3.6M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://pitchbook.com/profiles/company/591083-02"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-08",
+      "amount": "$16M",
+      "valuation": null,
+      "lead": "CRV",
+      "source": "https://techcrunch.com/2024/08/15/coderabbit-raises-16m-to-bring-ai-to-code-reviews"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-09",
+      "amount": "$60M",
+      "valuation": "$550M",
+      "lead": "Scale Venture Partners",
+      "source": "https://techcrunch.com/2025/09/16/coderabbit-raises-60m-valuing-the-2-year-old-ai-code-review-startup-at-550m"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-08",
+      "amount": "$143M",
+      "valuation": "$1.5B",
+      "lead": "Atomico, Smash Capital",
+      "source": "https://www.coderabbit.ai/newsroom/coderabbit-series-c-agentic-change-management"
+    }
+  ],
+  "total_raised": "~$231M",
+  "revenue_est": {
+    "value": "~$50M ARR",
+    "as_of": "Jul 2026",
+    "basis": "estimate",
+    "source": "https://sacra.com/c/coderabbit/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launch partner for Cursor Origin code hosting",
+      "url": "https://www.coderabbit.ai/blog/coderabbit-independent-validation-cursor-origin"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Raised $143M Series C at $1.5B co-led by Atomico and Smash; launched Agentic Change Mgmt",
+      "url": "https://www.coderabbit.ai/newsroom/coderabbit-series-c-agentic-change-management"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Joined the Claude Marketplace",
+      "url": "https://www.businesswire.com/news/home/20260527509061/en/CodeRabbit-Joins-the-Claude"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Named Matthew Mulqueen (ex-LILT, Kong, Datadog) Chief Revenue Officer",
+      "url": "https://www.coderabbit.ai/newsroom/matthew-mulqueen-chief-revenue-officer"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Raised $60M Series B led by Scale VP at $550M; total $88M",
+      "url": "https://techcrunch.com/2025/09/16/coderabbit-raises-60m-valuing-the-2-year-old-ai-code-review-startup-at-550m"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Kudelski disclosed since-patched RCE flaw exposing write access to ~1M repos",
+      "url": "https://kudelskisecurity.com/research/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories"
+    }
+  ],
+  "competitors": [
+    "greptile",
+    "graphite",
+    "GitHub Copilot code review",
+    "Qodo",
+    "Cursor Bugbot"
+  ]
+}

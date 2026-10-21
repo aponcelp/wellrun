@@ -1,0 +1,117 @@
+{
+  "slug": "convex",
+  "checked": "Oct 21, 2026",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~44",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/convex-dev"
+  },
+  "leadership": [
+    {
+      "name": "Jamie Turner",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.convex.dev/about-us"
+    },
+    {
+      "name": "James Cowling",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/jcowling",
+      "source": "https://www.convex.dev/about-us"
+    },
+    {
+      "name": "Bart Volkmer",
+      "title": "General Counsel",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/bart-volkmer-1a656936",
+      "source": "https://linkedin.com/in/bart-volkmer-1a656936"
+    },
+    {
+      "name": "Luke Whiting",
+      "title": "Head of Ops",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theorg.com/org/convex-dev"
+    },
+    {
+      "name": "Christina Erne",
+      "title": "Fractional Head of Finance & People",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theorg.com/org/convex-dev"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-11",
+      "amount": "$3.5M",
+      "valuation": null,
+      "lead": "Neo",
+      "source": "https://news.convex.dev/hello-serverless-world/"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-04",
+      "amount": "$26M",
+      "valuation": "$128M",
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.forbes.com/sites/kenrickcai/2022/04/27/convex-series-a-26-million-developers-dump-databases"
+    },
+    {
+      "round": "Venture (unlabeled; reported as Series A ext.)",
+      "date": "2025-11",
+      "amount": "$24M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz, Spark Capital",
+      "source": "https://news.convex.dev/convex-raises-24m"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-08",
+      "amount": "$57M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://www.prnewswire.com/news-releases/convex-raises-57m-series-b-led-by-insight-partners-to-scale-the-reliable-backend-for-the-ai-era-302841686.html"
+    }
+  ],
+  "total_raised": "$110.5M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launched Convex AI Gateway for calling models without provider keys",
+      "url": "https://news.convex.dev/introducing-convex-ai-gateway/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Hired ex-Dropbox CLO Bart Volkmer as General Counsel",
+      "url": "https://linkedin.com/in/bart-volkmer-1a656936"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Raised $57M Series B led by Insight Partners; total funding $110.5M",
+      "url": "https://www.prnewswire.com/news-releases/convex-raises-57m-series-b-led-by-insight-partners-to-scale-the-reliable-backend-for-the-ai-era-302841686.html"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Launched Convex for Enterprise; nearly 10,000 paying teams",
+      "url": "https://news.convex.dev/enterprise-launch/"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Raised $24M led by a16z, co-led by Spark; revenue and customers up 10x in 9 months",
+      "url": "https://news.convex.dev/convex-raises-24m"
+    }
+  ],
+  "competitors": [
+    "supabase",
+    "Firebase",
+    "planetscale",
+    "Appwrite"
+  ]
+}

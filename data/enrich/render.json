@@ -1,0 +1,146 @@
+{
+  "slug": "render",
+  "checked": "Oct 21, 2026",
+  "founded": 2018,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~230",
+    "as_of": "Sep 2026",
+    "source": "https://linkedin.com/company/renderco"
+  },
+  "leadership": [
+    {
+      "name": "Anurag Goel",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/anuragoel/",
+      "source": "https://www.businesswire.com/news/home/20260217996046/en/Render-Raises-%24100-Million-Series-C-Extension-at-%241.5-Billion-Valuation-to-Build-the-Cloud-for-AI-Native-Software"
+    },
+    {
+      "name": "Shuting Zhang",
+      "title": "VP, Finance & Operations",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/shzhang",
+      "source": "https://linkedin.com/in/shzhang"
+    },
+    {
+      "name": "Sam Taylor",
+      "title": "VP of Revenue",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/renderco_excited-to-welcome-sam-taylor-on-board-as-activity-7434690812031991808-0tuV"
+    },
+    {
+      "name": "Michael Greer",
+      "title": "VP of Engineering",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/michaelggreer/",
+      "source": "https://www.render.com/about"
+    },
+    {
+      "name": "Meagan Gamache",
+      "title": "VP of Product",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/mrgamache",
+      "source": "https://www.render.com/about"
+    },
+    {
+      "name": "Eli Staykova",
+      "title": "VP of Marketing",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/elenitsa-staykova-1a56b02/",
+      "source": "https://www.render.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-04",
+      "amount": "~$2M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://fundbat.com/company/render/"
+    },
+    {
+      "round": "Seed",
+      "date": "2020-10",
+      "amount": "$4.5M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://vcnewsdaily.com/Render/venture-funding.php"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-11",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Addition",
+      "source": "https://vcnewsdaily.com/Render/venture-funding.php"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-06",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Bessemer Venture Partners",
+      "source": "https://render.com/blog/render-series-b"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-01",
+      "amount": "$80M",
+      "valuation": "~$688M (Forge est.)",
+      "lead": "Georgian",
+      "source": "http://render.com/blog/series-c"
+    },
+    {
+      "round": "Series C extension",
+      "date": "2026-02",
+      "amount": "$100M",
+      "valuation": "$1.5B",
+      "lead": "Georgian",
+      "source": "https://www.businesswire.com/news/home/20260217996046/en/Render-Raises-%24100-Million-Series-C-Extension-at-%241.5-Billion-Valuation-to-Build-the-Cloud-for-AI-Native-Software"
+    }
+  ],
+  "total_raised": "$258M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Cut Key Value (Redis-compatible) prices 20-45%, added 3GB and 50GB plans",
+      "url": "https://render.com/blog/lower-prices-for-key-value-services"
+    },
+    {
+      "date": "2026-10",
+      "headline": "All-region build/deploy halt on Oct 14 (status-page incident)",
+      "url": "https://status.render.com/history"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Hired Sam Taylor as VP of Revenue",
+      "url": "https://www.linkedin.com/posts/renderco_excited-to-welcome-sam-taylor-on-board-as-activity-7434690812031991808-0tuV"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Raised $100M Series C extension at $1.5B led by Georgian; total $258M",
+      "url": "https://www.businesswire.com/news/home/20260217996046/en/Render-Raises-%24100-Million-Series-C-Extension-at-%241.5-Billion-Valuation-to-Build-the-Cloud-for-AI-Native-Software"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Launched Render Workflows (durable execution for AI apps) in early access",
+      "url": "https://www.businesswire.com/news/home/20260217996046/en/Render-Raises-%24100-Million-Series-C-Extension-at-%241.5-Billion-Valuation-to-Build-the-Cloud-for-AI-Native-Software"
+    },
+    {
+      "date": "2025-12",
+      "headline": "~35-minute all-region traffic outage on Dec 5",
+      "url": "https://status.render.com/history"
+    }
+  ],
+  "competitors": [
+    "vercel",
+    "railway",
+    "netlify",
+    "Heroku",
+    "Fly.io"
+  ]
+}
