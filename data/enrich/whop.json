@@ -25,5 +25,5 @@
     {"date": "2025-10", "headline": "Acquired Hidden Studios to run its new ads product", "url": "https://whop.com/blog/hidden-studios-ads/"},
     {"date": "2025-09", "headline": "Launched Whop Payments with multi-processor smart routing", "url": "https://newsroom.whop.com/whop-payments/"}
   ],
-  "competitors": ["Stripe", "Shopify", "Skool", "Kajabi", "Stan"]
+  "competitors": ["stripe", "Shopify", "Skool", "Kajabi", "Stan"]
 }
