@@ -1,0 +1,111 @@
+{
+ "slug": "affinity",
+ "checked": "Oct 20, 2026",
+ "founded": 2014,
+ "hq": "San Francisco, CA",
+ "headcount_est": {
+  "value": "~324",
+  "as_of": "2026",
+  "source": "https://pitchbook.com/profiles/company/163727-74"
+ },
+ "leadership": [
+  {
+   "name": "Ken Fine",
+   "title": "CEO",
+   "founder": false,
+   "linkedin": null,
+   "source": "https://www.affinity.co/press-release/affinity-names-ken-fine-chief-executive-officer"
+  },
+  {
+   "name": "Ray Zhou",
+   "title": "Co-founder",
+   "founder": true,
+   "linkedin": null,
+   "source": "https://www.affinity.co/press-release/affinity-names-ken-fine-chief-executive-officer"
+  },
+  {
+   "name": "Shubham Goel",
+   "title": "Co-founder",
+   "founder": true,
+   "linkedin": null,
+   "source": "https://www.affinity.co/press-release/affinity-names-ken-fine-chief-executive-officer"
+  },
+  {
+   "name": "Adam Goldman",
+   "title": "CFO",
+   "founder": false,
+   "linkedin": null,
+   "source": "https://www.affinity.co/blog/introducing-affinitys-new-cfo-adam-goldman"
+  },
+  {
+   "name": "Sean Kearns",
+   "title": "Chief Revenue Officer",
+   "founder": false,
+   "linkedin": null,
+   "source": "https://briefglance.com/articles/affinity-taps-new-execs-to-lead-ai-powered-push-in-private-capital"
+  },
+  {
+   "name": "Pam Holmberg",
+   "title": "Chief People Officer",
+   "founder": false,
+   "linkedin": null,
+   "source": "https://briefglance.com/articles/affinity-taps-new-execs-to-lead-ai-powered-push-in-private-capital"
+  }
+ ],
+ "funding_history": [
+  {
+   "round": "Series A",
+   "date": "2017-05",
+   "amount": "$13.5M",
+   "valuation": null,
+   "lead": "8VC",
+   "source": "https://techcrunch.com/2017/05/18/for-investors-seeking-a-purpose-built-crm-toolkit-affinity-raised-13-5-million-to-get-you-covered/"
+  },
+  {
+   "round": "Series B",
+   "date": "2019-02",
+   "amount": "$26.5M",
+   "valuation": null,
+   "lead": "Advance Venture Partners, Sway Ventures",
+   "source": "https://venturebeat.com/ai/affinity-raises-26-5-million-to-manage-relationships-with-machine-learning"
+  },
+  {
+   "round": "Series C",
+   "date": "2021-09",
+   "amount": "$80M",
+   "valuation": "~$600M",
+   "lead": "Menlo Ventures",
+   "source": "https://www.businessinsider.com/pitch-deck-crm-startup-affinity-80-million-funding-2021-9"
+  }
+ ],
+ "total_raised": "$120M",
+ "revenue_est": null,
+ "news_timeline": [
+  {
+   "date": "2026-07",
+   "headline": "Launches Affinity Ascend agent platform (Meeting Prep, Warm Intros, Data Update)",
+   "url": "https://www.globenewswire.com/news-release/2026/07/22/3331434/0/en/affinity-ascend-the-new-agent-platform-for-private-capital.html"
+  },
+  {
+   "date": "2026-06",
+   "headline": "Adds 71 PE firms in six months, 330+ PE firms on the platform",
+   "url": "https://www.globenewswire.com/news-release/2026/06/23/3316054/0/en/affinity-sees-surge-in-private-equity-adoption-as-firms-embrace-ai-powered-relationship-intelligence.html"
+  },
+  {
+   "date": "2026-04",
+   "headline": "Launches MCP server connecting relationship data to Claude, ChatGPT, Copilot",
+   "url": "https://www.affinity.co/company/newsroom"
+  },
+  {
+   "date": "2026-03",
+   "headline": "Hires Sean Kearns as CRO and Pam Holmberg as Chief People Officer",
+   "url": "https://briefglance.com/articles/affinity-taps-new-execs-to-lead-ai-powered-push-in-private-capital"
+  }
+ ],
+ "competitors": [
+  "attio",
+  "DealCloud (Intapp)",
+  "Carta CRM (ListAlpha)",
+  "4Degrees"
+ ]
+}

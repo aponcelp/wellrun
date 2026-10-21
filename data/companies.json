@@ -35583,5 +35583,56 @@
    "Remote (Canada)",
    "Remote (LatAm)"
   ]
+ },
+ {
+  "name": "Affinity",
+  "slug": "affinity",
+  "site": "https://www.affinity.co",
+  "careers_url": "https://jobs.ashbyhq.com/affinity.co",
+  "what_they_do": "AI-first CRM that auto-captures relationships and deal flow for VC and PE firms",
+  "problem": "Dealmakers lose track of who knows whom and waste hours logging emails, meetings and pipeline updates by hand",
+  "industry": "Vertical CRM / private capital software",
+  "stage": "Series C (PE-backed per PitchBook; later secondary)",
+  "last_round": "$80M",
+  "last_round_date": "Sep 2021",
+  "lead_investors": "Menlo Ventures",
+  "total_open_roles": "8",
+  "ops_roles": "Customer Success Specialist, Scale",
+  "hiring_trend": "Flat: ~321-324 staff, -0.3% YoY on LinkedIn (other trackers +6-9%); 8 open roles",
+  "headcount": "~324",
+  "latest_news": "Launched Affinity Ascend, an AI agent platform for private capital firms",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/07/22/3331434/0/en/affinity-ascend-the-new-agent-platform-for-private-capital.html",
+  "traction": "3,300+ private capital firms; added 71 PE firms in H1 2026 (330+ PE total); ARR undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.2",
+  "glassdoor_reviews": "90",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Affinity-Reviews-E1542701.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "Lock-in + Data",
+  "distance": "Half",
+  "distance_why": "Category leader in VC/PE CRM whose auto-captured relationship graph is hard to rip out; Attio, DealCloud and Carta's CRM push contest it.",
+  "distance_sources": [
+   {
+    "label": "Sacra: Affinity's proprietary relationship graph",
+    "url": "https://sacra.com/chat/h/90f534a8-c49f-4335-8611-e8ba2e9b81eb/"
+   },
+   {
+    "label": "GlobeNewswire: Affinity adds 71 PE firms in six months (Jun 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/06/23/3316054/0/en/affinity-sees-surge-in-private-equity-adoption-as-firms-embrace-ai-powered-relationship-intelligence.html"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Chicago",
+   "Remote (UK)"
+  ]
  }
 ]
