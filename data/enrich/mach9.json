@@ -1,0 +1,105 @@
+{
+  "slug": "mach9",
+  "checked": "Oct 21, 2026",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~40",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/mach9geo"
+  },
+  "leadership": [
+    {
+      "name": "Alex Baikovitz",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://mach9.ai/news/34-million-series-a"
+    },
+    {
+      "name": "Zachary Sussman",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.signalhire.com/companies/mach9-robotics"
+    },
+    {
+      "name": "Haowen Shi",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://mach9.ai/about"
+    },
+    {
+      "name": "Michael Mong",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://mach9.ai/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed (Y Combinator S21)",
+      "date": "2021-09",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/mach9_robotics"
+    },
+    {
+      "round": "Seed",
+      "date": "2021-12",
+      "amount": "$2.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://techcrunch.com/2024/11/14/mach9-is-equipping-infrastructure-operators-with-better-information/"
+    },
+    {
+      "round": "Seed",
+      "date": "2024-11",
+      "amount": "$12M",
+      "valuation": "~$72M (Dealroom est.)",
+      "lead": "Quiet Capital",
+      "source": "https://mach9.ai/news/12-million-seed-funding"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$34M",
+      "valuation": null,
+      "lead": "First Round Capital, Bessemer Venture Partners",
+      "source": "https://mach9.ai/news/34-million-series-a"
+    }
+  ],
+  "total_raised": "$49M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raised $34M Series A co-led by First Round and Bessemer; total funding $49M",
+      "url": "https://mach9.ai/news/34-million-series-a"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Native Leica Geosystems LGSx integration; Olsson and Langan using it",
+      "url": "https://mach9.ai/news/leica-lgsx-integration"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Launched next-generation web CAD platform with AI-assisted extraction",
+      "url": "https://mach9.ai/news/digital-surveyor-2"
+    },
+    {
+      "date": "2024-11",
+      "headline": "Raised $12M seed led by Quiet Capital; moved HQ from Pittsburgh to SF",
+      "url": "https://mach9.ai/news/12-million-seed-funding"
+    }
+  ],
+  "competitors": [
+    "Autodesk (Civil 3D)",
+    "Bentley Systems",
+    "Trimble Business Center",
+    "TopoDOT (Certainty 3D)"
+  ]
+}

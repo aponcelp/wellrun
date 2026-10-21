@@ -1,0 +1,118 @@
+{
+  "slug": "capitalos",
+  "checked": "Oct 21, 2026",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~19",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/capitalos"
+  },
+  "leadership": [
+    {
+      "name": "Nir Dremer",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/dremer",
+      "source": "https://capitalos.com/about"
+    },
+    {
+      "name": "Matan Goldschmidt",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://capitalos.com/about"
+    },
+    {
+      "name": "Samantha Ferdinand-Davis",
+      "title": "Chief Compliance Officer",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/samantha-ferdinand-davis-esq-crcm-4b983917",
+      "source": "https://linkedin.com/in/samantha-ferdinand-davis-esq-crcm-4b983917"
+    },
+    {
+      "name": "Shaun Tipson",
+      "title": "General Counsel",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theorg.com/org/capitalos"
+    },
+    {
+      "name": "Conor McQuaid",
+      "title": "Head of Business Operations",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/conormcquaid",
+      "source": "https://www.signalhire.com/companies/capitalos"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-11",
+      "amount": "$9M",
+      "valuation": null,
+      "lead": "Group 11",
+      "source": "https://blog.capitalos.com/p/capitalos-raises-39m"
+    },
+    {
+      "round": "Debt",
+      "date": "2023-11",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.calcalistech.com/ctechnews/article/s1ngvpxsa"
+    },
+    {
+      "round": "Seed II (undisclosed)",
+      "date": "2025-09",
+      "amount": null,
+      "valuation": null,
+      "lead": "Plow Ventures (reported participant)",
+      "source": "https://www.cbinsights.com/company/capitalos/financials"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$21.9M",
+      "valuation": null,
+      "lead": "LGVP",
+      "source": "https://www.webwire.com/ViewPressRel.asp?aId=363116"
+    }
+  ],
+  "total_raised": "$30.9M equity + $30M debt (disclosed)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $21.9M Series A led by LGVP; volume up 1,000% in 18 months",
+      "url": "https://www.webwire.com/ViewPressRel.asp?aId=363116"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Guesty customer story: embedded spend for property managers",
+      "url": "https://capitalos.com/news"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Integration with Layer pipes card and bill-pay data into accounting",
+      "url": "https://capitalos.com/news"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Hires Samantha Ferdinand-Davis as Chief Compliance Officer",
+      "url": "https://linkedin.com/in/samantha-ferdinand-davis-esq-crcm-4b983917"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Workiz launches CapitalOS-powered spend management for field service",
+      "url": "https://capitalos.com/news"
+    }
+  ],
+  "competitors": [
+    "Stripe Issuing",
+    "Marqeta",
+    "Lithic",
+    "Highnote",
+    "Unit"
+  ]
+}
