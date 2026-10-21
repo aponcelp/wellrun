@@ -35877,5 +35877,73 @@
    "San Francisco",
    "Remote"
   ]
+ },
+ {
+  "name": "Whop",
+  "slug": "whop",
+  "site": "https://whop.com",
+  "careers_url": "https://jobs.ashbyhq.com/whop",
+  "what_they_do": "Payments, storefronts, ads and payouts platform for internet businesses selling digital and physical products",
+  "problem": "Small online operators need checkout, global payouts, distribution and tooling without stitching together Stripe, Shopify and ad tools",
+  "industry": "Commerce & payments platform / creator economy",
+  "stage": "Series D",
+  "last_round": "$200M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Sequoia, Shopify Ventures",
+  "total_open_roles": "42",
+  "ops_roles": "Director of People Operations and Systems; Customer Success Manager, Services (US); Customer Success Manager, Education (US); Country Manager (Mexico)",
+  "hiring_trend": "Headcount ~365 → ~399 (+17% YoY, Revelio, Q1 2026); 42 open roles, ~30 posted since Sep 2026",
+  "headcount": "~400 (LinkedIn est.; Whop calls itself an in-person office of ~100)",
+  "latest_news": "Raised $200M Series D at $5.1B led by Sequoia and Shopify Ventures; Doug Leone joins board",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/whop-announces-funding-round-at-5-1b-valuation-led-by-sequoia-and-shopify-ventures-to-advance-universal-economic-freedom-in-the-wake-of-ai-302915738.html",
+  "traction": "~$500M revenue (Sequoia); ~25,000 operators doing $550M/month; valuation $1.6B → $5.1B in 8 months",
+  "red_flags": "Persistent consumer-protection complaints: buyers report scam sellers (get-rich-quick, trading, betting picks) and denied refunds, sellers report frozen payouts; BBB currently Not Rated pending complaint responses. Glassdoor 3.1 with 2025-26 reviews on grind culture and senior management.",
+  "red_flags_sources": [
+   {
+    "label": "BBB: Whop complaints (Brooklyn, NY)",
+    "url": "https://www.bbb.org/us/ny/brooklyn/profile/online-retailer/whop-0121-87174000/complaints"
+   },
+   {
+    "label": "Teardown: Whop Trustpilot themes, scam courses and payout holds (Jul 2026)",
+    "url": "https://www.teardown.ai/companies/whop"
+   },
+   {
+    "label": "Steven Schwartz on X: account-review backlog after new risk policies (Feb 2025)",
+    "url": "https://x.com/cultured/status/1891890768924573857"
+   },
+   {
+    "label": "Glassdoor: Whop reviews (3.1, 77 reviews)",
+    "url": "https://www.glassdoor.com/Reviews/Whop-Reviews-E6512417.htm"
+   }
+  ],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "3.1",
+  "glassdoor_reviews": "77",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Whop-Reviews-E6512417.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 21, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Leader in selling digital products and paid communities (about $550M a month in sales, ~$500M revenue) with its own payments stack and a two-sided marketplace; faces Stripe, Shopify, Skool and Kajabi, and buyer-trust and payment-risk problems are real exposure.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Whop $200M Series D at $5.1B (Oct 2026)",
+    "url": "https://www.prnewswire.com/news-releases/whop-announces-funding-round-at-5-1b-valuation-led-by-sequoia-and-shopify-ventures-to-advance-universal-economic-freedom-in-the-wake-of-ai-302915738.html"
+   },
+   {
+    "label": "Whop newsroom: Whop Payments smart routing (Sep 2025)",
+    "url": "https://newsroom.whop.com/whop-payments/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Palo Alto",
+   "Remote (Mexico)",
+   "Remote (Brazil)"
+  ]
  }
 ]

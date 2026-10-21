@@ -3503,6 +3503,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "whop": {
+  "url": "https://whop.com/_static/images/discover/og-landing.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-21"
+ },
  "wispr-flow": {
   "url": "https://cdn.prod.website-files.com/682f84b3838c89f8ff7667db/6a724a4fff322698a57a7d97_dictation-og%20(1).jpg",
   "kind": "og",
