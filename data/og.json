@@ -1949,6 +1949,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "moego": {
+  "url": "https://www.moego.pet/og-homepage.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-21"
+ },
  "moises": {
   "url": "https://storage.googleapis.com/moises-cms-site/moises_creative_suite_for_musicians_68382e5fd2/moises_creative_suite_for_musicians_68382e5fd2.png",
   "kind": "og",

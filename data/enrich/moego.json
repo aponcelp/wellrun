@@ -1,0 +1,81 @@
+{
+  "slug": "moego",
+  "checked": "Oct 21, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "Los Angeles, CA",
+  "headcount_est": {
+    "value": "~115",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/moego"
+  },
+  "leadership": [
+    {
+      "name": "Ethan (Yi) Dong",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/moego-secures-24-million-series-a-led-by-base10-to-revolutionize-the-pet-care-economy-302083433.html"
+    },
+    {
+      "name": "Emma Chen",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://tracxn.com/d/companies/moego/__KHSyZaiRnmBVNsN3RhyF0tTjS-VzeHaTbKjHNlzeRWM"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-12",
+      "amount": "~$10M",
+      "valuation": null,
+      "lead": "Conductive Ventures",
+      "source": "https://36kr.jp/189374/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-03",
+      "amount": "$24M",
+      "valuation": null,
+      "lead": "Base10 Partners",
+      "source": "https://www.prnewswire.com/news-releases/moego-secures-24-million-series-a-led-by-base10-to-revolutionize-the-pet-care-economy-302083433.html"
+    }
+  ],
+  "total_raised": "~$30.5M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launched MoeGo Team App pilot for boarding and daycare handlers",
+      "url": "https://www.moego.pet/changelog/moego-team-app"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Central Bark franchise system joins MoeGo's enterprise Premium Partner tier",
+      "url": "https://www.theunderbite.co/news/moego-central-bark-franchise-saas-lock-in"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Red Dog Pet Resort & Spa picks MoeGo for multi-state expansion",
+      "url": "https://www.prnewswire.com/news-releases/red-dog-pet-resort--spa-selects-moego-as-its-enterprise-operating-system-to-power-multi-state-expansion-302650272.html"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Federal jury finds GrooMore liable for stealing MoeGo source code",
+      "url": "https://www.prnewswire.com/news-releases/federal-jury-sides-with-moego-in-groomore-trade-secret-theft-case-affirming-integrity-in-pet-care-tech-302472863.html"
+    },
+    {
+      "date": "2025-03",
+      "headline": "Partnership with EarthWise Pet for multi-location franchises",
+      "url": "https://www.prnewswire.com/news-releases/moego-and-earthwise-pet-partner-to-power-the-future-of-enterprise-pet-care-302398924.html"
+    }
+  ],
+  "competitors": [
+    "Gingr",
+    "DaySmart Pet",
+    "PetExec",
+    "Revelation Pets"
+  ]
+}

@@ -35717,5 +35717,66 @@
    "London",
    "Seattle"
   ]
+ },
+ {
+  "name": "MoeGo",
+  "slug": "moego",
+  "site": "https://www.moego.pet",
+  "careers_url": "https://jobs.ashbyhq.com/moego",
+  "what_they_do": "All-in-one scheduling, payments and CRM software for pet grooming, boarding and daycare businesses",
+  "problem": "Groomers and pet facilities juggle texts, paper vaccine records and separate payment tools to run bookings and staff",
+  "industry": "Vertical SaaS / pet care business software",
+  "stage": "Series A",
+  "last_round": "$24M",
+  "last_round_date": "Mar 2024",
+  "lead_investors": "Base10 Partners",
+  "total_open_roles": "3",
+  "ops_roles": "Head of GTM AI Operations; Revenue Operations Manager",
+  "hiring_trend": "Headcount ~97 → ~115 in 12 mo (+18.6% YoY, LinkedIn); 2 public postings on Ashby, Oct 2026",
+  "headcount": "~110-115",
+  "latest_news": "Launched MoeGo Team App pilot for boarding and daycare handlers",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.moego.pet/changelog/moego-team-app",
+  "traction": "10,000+ pet care businesses, 11M+ pets; enterprise wins Central Bark (Jun 2026), Red Dog (Dec 2025)",
+  "red_flags": "Watch (not scored): Glassdoor 3.0 (48 reviews) with Feb–Oct 2026 reviews citing high leadership turnover, cost-cutting and a toxic culture; no layoffs reported and headcount still up ~19% YoY. No new priced round since the Mar 2024 Series A (~31 months).",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor: MoeGo leadership reviews (Feb–Jun 2026 turnover, cost-cutting)",
+    "url": "https://www.glassdoor.com/Reviews/MoeGo-leadership-Reviews-EI_IE8787228.0,5_KH6,16.htm"
+   },
+   {
+    "label": "Glassdoor: MoeGo reviews (Sep 2026 'High turnover and lack of support')",
+    "url": "https://www.glassdoor.com/Reviews/MoeGo-Reviews-E8787228.htm"
+   },
+   {
+    "label": "PitchBook: MoeGo profile (last deal Series A, Mar 2024)",
+    "url": "https://pitchbook.com/profiles/company/489908-35"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.0",
+  "glassdoor_reviews": "48",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/MoeGo-Reviews-E8787228.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 21, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A leading grooming platform (10,000+ businesses) now winning multi-location chains, where switching means retraining staff and moving data and payments; still shares boarding/daycare with Gingr, DaySmart Pet and PetExec, and has not raised since 2024.",
+  "distance_sources": [
+   {
+    "label": "The Underbite: MoeGo signs Central Bark as chain-tier SaaS consolidates (Jun 2026)",
+    "url": "https://www.theunderbite.co/news/moego-central-bark-franchise-saas-lock-in"
+   },
+   {
+    "label": "PR Newswire: Red Dog Pet Resort selects MoeGo (Dec 2025)",
+    "url": "https://www.prnewswire.com/news-releases/red-dog-pet-resort--spa-selects-moego-as-its-enterprise-operating-system-to-power-multi-state-expansion-302650272.html"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (US)"
+  ]
  }
 ]
