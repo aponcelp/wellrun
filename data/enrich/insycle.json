@@ -1,0 +1,68 @@
+{
+  "slug": "insycle",
+  "checked": "Oct 21, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~8",
+    "as_of": "Aug 2026",
+    "source": "https://tracxn.com/d/companies/insycle/__aJo00YAvzZkrsmwFh89hf7DwRmEvBJLcfAa34upv5FY"
+  },
+  "leadership": [
+    {
+      "name": "Yonatan Lee",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/yonatanlee",
+      "source": "https://www.cbinsights.com/company/insycle/people"
+    },
+    {
+      "name": "Christine Whitaker",
+      "title": "VP, AI Customer Experience",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theorg.com/org/insycle"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-Seed",
+      "date": "2018-09",
+      "amount": "$50K",
+      "valuation": null,
+      "lead": "Forum Ventures, Right Side Capital Management",
+      "source": "https://www.cbinsights.com/company/insycle/financials"
+    }
+  ],
+  "total_raised": "$50K",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Hiring a Head of Business Operations to run sales, marketing and CS",
+      "url": "https://www.comeet.com/jobs/Insycle/D3.002/head-of-business-operations/BA.371"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Launches Data Integrity: coverage and drift monitoring for CRM data",
+      "url": "https://news.insycle.com/153231-see-exactly-where-your-crm-data-strategy-is-holding-and-where-it-s-slipping"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Ships Data Logic and Blueprints for table-driven CRM rules",
+      "url": "https://news.insycle.com/146398-crm-logic-that-updates-as-fast-as-your-business-does"
+    },
+    {
+      "date": "2025-01",
+      "headline": "Names Chris Flores VP of Sales and Marketing",
+      "url": "https://www.prnewswire.com/news-releases/chris-flores-named-vp-of-sales-and-marketing-at-insycle-302343191.html"
+    }
+  ],
+  "competitors": [
+    "Validity DemandTools",
+    "RingLead (ZoomInfo)",
+    "Dedupely",
+    "Openprise"
+  ]
+}

@@ -1553,6 +1553,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "insycle": {
+  "url": "https://res.cloudinary.com/insycle-com/images/f_auto,q_auto/v1788299320/insycle-preview-social/insycle-preview-social.png?_i=AA",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-21"
+ },
  "invideo": {
   "url": "https://pro-static-assets.invideo.io/images/large/Pasted_16_10_2026_at_19_54_50_8d5fd22857.png",
   "kind": "og",

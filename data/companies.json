@@ -35778,5 +35778,68 @@
   "hiring_locations": [
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Insycle",
+  "slug": "insycle",
+  "site": "https://www.insycle.com",
+  "careers_url": "https://www.comeet.com/jobs/Insycle/D3.002",
+  "what_they_do": "CRM data cleanup, deduplication and data-integrity rules for HubSpot and Salesforce",
+  "problem": "RevOps teams' CRMs fill with duplicates and drifting fields, so routing, reports and AI agents act on bad data",
+  "industry": "CRM data quality / RevOps tooling",
+  "stage": "Pre-seed (bootstrapped)",
+  "last_round": "$50K",
+  "last_round_date": "Sep 2018",
+  "lead_investors": "Forum Ventures, Right Side Capital Management",
+  "total_open_roles": "3",
+  "ops_roles": "Head of Business Operations; Customer Success Engineer; Associate Customer Success Engineer",
+  "hiring_trend": "Shrinking: ~13 (Apr 2025) → ~8 staff (Aug 2026), about −38%; 3 open roles",
+  "headcount": "~8-10",
+  "latest_news": "Launched Data Integrity (Blueprints, Data Logic, Observability) for agent-ready CRM data",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://news.insycle.com/153231-see-exactly-where-your-crm-data-strategy-is-holding-and-where-it-s-slipping",
+  "traction": "700+ customers; G2 4.6 from 209 reviews; revenue est. ~$4M (Tracxn), unconfirmed",
+  "red_flags": "Shrinking team: headcount down from ~13 (Apr 2025) to ~8 (Aug 2026), with no outside funding since a $50K 2018 pre-seed; a Feb 2026 Glassdoor review cites 'instability with employment' and a Mar 2025 review cites shifting decisions.",
+  "red_flags_sources": [
+   {
+    "label": "GetLatka: Insycle 13 employees (Apr 2025, LinkedIn)",
+    "url": "https://getlatka.com/companies/insycle"
+   },
+   {
+    "label": "Tracxn: Insycle employee count 8 as of Aug 2026",
+    "url": "https://tracxn.com/d/companies/insycle/__aJo00YAvzZkrsmwFh89hf7DwRmEvBJLcfAa34upv5FY"
+   },
+   {
+    "label": "Glassdoor: Insycle reviews (2.9, Feb 2026 review cites employment instability)",
+    "url": "https://www.glassdoor.com/Reviews/Insycle-Reviews-E8131587.htm"
+   },
+   {
+    "label": "CB Insights: only funding is $50K pre-seed, Sep 2018",
+    "url": "https://www.cbinsights.com/company/insycle/financials"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "2.9",
+  "glassdoor_reviews": "3",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Insycle-Reviews-E8131587.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 21, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Well-reviewed niche tool (700+ customers) but a small follower behind Validity DemandTools, ZoomInfo's RingLead and native HubSpot/Salesforce dedupe, and it depends on those CRM platforms' APIs.",
+  "distance_sources": [
+   {
+    "label": "Insycle homepage: 700+ customers, HubSpot/Salesforce focus",
+    "url": "https://www.insycle.com/"
+   },
+   {
+    "label": "G2: Insycle 4.6/5 from 209 reviews",
+    "url": "https://www.g2.com/products/insycle/reviews"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
