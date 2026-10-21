@@ -35945,5 +35945,189 @@
    "Remote (Mexico)",
    "Remote (Brazil)"
   ]
+ },
+ {
+  "name": "CodeRabbit",
+  "slug": "coderabbit",
+  "site": "https://www.coderabbit.ai",
+  "careers_url": "https://jobs.ashbyhq.com/coderabbit",
+  "what_they_do": "AI code review and change management for human- and agent-written pull requests",
+  "problem": "AI coding agents flood teams with pull requests faster than engineers can review, prioritize and secure them",
+  "industry": "Developer tools / AI code review",
+  "stage": "Series C",
+  "last_round": "$143M",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "Atomico, Smash Capital",
+  "total_open_roles": "46",
+  "ops_roles": "Regional Director of Pooled Customer Success (SF); Director, Enterprise Customer Success Management (SF); Enterprise Field Engineer – Post-sales (SF); Global Benefit Operations Manager (SF, onsite)",
+  "hiring_trend": "Headcount ~210 (Mar 2026, Revelio) → ~265-300 (Tracxn/PitchBook/LinkedIn, Q3 2026); 46 open roles, ~20 posted since Sep 2026",
+  "headcount": "~265-330 (Tracxn 266, PitchBook 281, LinkedIn 329)",
+  "latest_news": "Launch partner for Cursor Origin code hosting; joined OpenAI Marketplace in Sep 2026",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.coderabbit.ai/blog/coderabbit-independent-validation-cursor-origin",
+  "traction": "~$50M ARR Jul 2026, up from $25M end-2025 (Sacra); 8,000+ paying customers (Sep 2025)",
+  "red_flags": "Aug 2025: researchers published a (Jan 2025, since-patched) RCE flaw in CodeRabbit production that exposed secrets and potential write access to ~1M repos; company says no customer data accessed. Glassdoor 3.5 (16 reviews) with a Jul 2026 former-CS review alleging 18-hour days and chaotic COO-led execution.",
+  "red_flags_sources": [
+   {
+    "label": "Kudelski Security: From a simple PR to RCE and write access on 1M repositories (Aug 2025)",
+    "url": "https://kudelskisecurity.com/research/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories"
+   },
+   {
+    "label": "CodeRabbit CEO response to the Kudelski disclosure (Aug 2025)",
+    "url": "https://www.coderabbit.ai/blog/our-response-to-the-january-2025-kudelski-security-vulnerability-disclosure-action-and-continuous-improvement"
+   },
+   {
+    "label": "Glassdoor: 'A cautionary tale' former Scaled Success Manager review (Jul 2026)",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-CodeRabbit-E10747148-RVW104955343.htm"
+   },
+   {
+    "label": "Glassdoor: CodeRabbit reviews (3.5, 16 reviews)",
+    "url": "https://www.glassdoor.com/Reviews/CodeRabbit-Reviews-E10747148.htm"
+   }
+  ],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "3.5",
+  "glassdoor_reviews": "16",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/CodeRabbit-Reviews-E10747148.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 21, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Leading standalone AI code reviewer (top AI app on GitHub Marketplace, ~$50M ARR, 1M+ open-source reviews a month) expanding into triage and security; but GitHub Copilot, Cursor and the model labs ship review directly to the same buyers, and switching is a two-click uninstall.",
+  "distance_sources": [
+   {
+    "label": "Sacra: CodeRabbit $50M ARR Jul 2026; GitHub Copilot as main threat",
+    "url": "https://sacra.com/c/coderabbit/"
+   },
+   {
+    "label": "CodeRabbit: $143M Series C at $1.5B and Agentic Change Management (Aug 2026)",
+    "url": "https://www.coderabbit.ai/newsroom/coderabbit-series-c-agentic-change-management"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Boston",
+   "Bengaluru",
+   "Remote (Australia)"
+  ]
+ },
+ {
+  "name": "Render",
+  "slug": "render",
+  "site": "https://render.com",
+  "careers_url": "https://jobs.ashbyhq.com/render",
+  "what_they_do": "Cloud platform that deploys and scales web apps, databases, workflows and AI agents from code",
+  "problem": "Teams want to ship apps and agents to production without running AWS, Kubernetes or a DevOps team",
+  "industry": "Developer tools / cloud hosting (PaaS)",
+  "stage": "Series C",
+  "last_round": "$100M",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "Georgian (with Addition, Bessemer, General Catalyst, 01A)",
+  "total_open_roles": "38",
+  "ops_roles": "Talent Operations Manager (Remote US); Forward Deployed Engineer (SF or Remote US/Canada); Head of Strategic Partnerships & Ecosystem (Remote US, Finance & Ops)",
+  "hiring_trend": "Headcount ~230 (LinkedIn 234, +71% YoY; Tracxn 228, Sep 2026; CEO aims to double in 2026); 38 open roles, flat vs Sep (-2 in 28 days)",
+  "headcount": "~230",
+  "latest_news": "Cut Key Value (Redis-compatible) prices 20-45% and added 3GB and 50GB plans",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://render.com/blog/lower-prices-for-key-value-services",
+  "traction": "Revenue growth well above 100% YoY; 4.5M+ developers, 250K+ joining monthly (Feb 2026)",
+  "red_flags": "Not scored: frequent platform incidents, 84 status-page incidents in 12 months, including a Dec 5, 2025 all-region traffic outage (~35 min), multi-day deploy degradation in Feb 2026 and an all-region build/deploy halt on Oct 14, 2026; mostly short and deploy-side. No layoffs, down rounds or lawsuits found. Revelio shows 2026 postings down 42% vs 2025, but the live board holds 38 roles.",
+  "red_flags_sources": [
+   {
+    "label": "PulsAPI: Render outage history, 84 incidents in 365 days (Oct 2026)",
+    "url": "https://www.pulsapi.com/services/render/incidents"
+   },
+   {
+    "label": "Render Status: incident history",
+    "url": "https://status.render.com/history"
+   },
+   {
+    "label": "Revelio Labs: Render Services headcount and job postings (Aug 2026)",
+    "url": "https://www.reveliolabs.com/companies/render-services/employees"
+   }
+  ],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.2",
+  "glassdoor_reviews": "12",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Render-Reviews-E2213176.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 21, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A leading Heroku successor with broad adoption (4.5M+ developers, revenue up >100%) and sticky hosted apps and databases, plus new Workflows and Sandboxes lines; Vercel is far bigger, Railway is close behind, and it still runs on AWS and Google Cloud.",
+  "distance_sources": [
+   {
+    "label": "CNBC: Render raises $100M at $1.5B; revenue growth well above 100%, runs on AWS and GCP (Feb 2026)",
+    "url": "https://www.cnbc.com/2026/02/17/render-raises-100-million-at-1point5-billion-valuation.html"
+   },
+   {
+    "label": "Business Wire: Render $100M Series C extension at $1.5B (Feb 2026)",
+    "url": "https://www.businesswire.com/news/home/20260217996046/en/Render-Raises-%24100-Million-Series-C-Extension-at-%241.5-Billion-Valuation-to-Build-the-Cloud-for-AI-Native-Software"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote (US)",
+   "Remote (Canada)"
+  ]
+ },
+ {
+  "name": "Convex",
+  "slug": "convex",
+  "site": "https://www.convex.dev",
+  "careers_url": "https://jobs.ashbyhq.com/convex-dev",
+  "what_they_do": "Reactive backend platform (database, functions, sync, auth) for apps built by developers and AI agents",
+  "problem": "Teams and their coding agents waste time stitching databases, servers and sync together, and AI-written backends quietly break",
+  "industry": "Developer tools / backend-as-a-service",
+  "stage": "Series B",
+  "last_round": "$57M",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "Insight Partners (a16z, Spark Capital, Etna Labs participating)",
+  "total_open_roles": "12",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~20-30 (Nov 2025, LinkedIn, +70% YoY) to ~41-44 (Sep-Oct 2026, est.); open roles up from ~2 to 12, 10 posted since May 2026",
+  "headcount": "~41-44",
+  "latest_news": "Launched Convex AI Gateway for calling AI models without provider keys; hired General Counsel",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://news.convex.dev/introducing-convex-ai-gateway/",
+  "traction": "Nearly 10,000 paying teams (Apr 2026); revenue and customers grew 10x in nine months to Nov 2025",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Convex-EI_IE9019296.11,17.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 21, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Strong #3 behind Supabase and Firebase in backends for app builders, with a hard-to-leave proprietary database, nearly 10,000 paying teams and customers like OpenAI and Zapier; the bigger rivals sell to the same AI-app builders, so it must keep its agent-era edge.",
+  "distance_sources": [
+   {
+    "label": "Convex: Convex for Enterprise, nearly 10,000 paying teams (Apr 2026)",
+    "url": "https://news.convex.dev/enterprise-launch/"
+   },
+   {
+    "label": "PR Newswire: Convex $57M Series B, customers OpenAI, Tripadvisor, Zapier (Aug 2026)",
+    "url": "https://www.prnewswire.com/news-releases/convex-raises-57m-series-b-led-by-insight-partners-to-scale-the-reliable-backend-for-the-ai-era-302841686.html"
+   },
+   {
+    "label": "Value Add VC: crowded category (Supabase, Firebase), real distribution edge (Aug 2026)",
+    "url": "https://valueaddvc.com/pulse/convex-57m-series-b-ai-backend-2026"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
  }
 ]

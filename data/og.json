@@ -641,6 +641,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "coderabbit": {
+  "url": "https://www.coderabbit.ai/content/assets/trust-layer-og.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-21"
+ },
  "coframe": {
   "url": "https://media.cofra.me/u/aHR0cHM6Ly9jZG4uY29mcmFtZS5jb20vYXNzZXRzL2Fzc2V0cy9vZy9hMjQ2MzkyNi0xMTNkLTRjYmMtOWI0Ni1mZTZiYmNlZjE4MTcucG5n?w=1280&f=jpeg",
   "kind": "og",
@@ -718,6 +724,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "convex": {
+  "url": "https://www.convex.dev/og-home.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-21"
  },
  "convey": {
   "url": "https://convey.dev/convey-preview-thumbnail.png",
@@ -2674,6 +2686,12 @@
   "kind": "og",
   "type": "image/webp",
   "checked": "2026-10-19"
+ },
+ "render": {
+  "url": "https://cdn.sanity.io/images/hvk0tap5/production/a3528e77b010804af14908fab79f826d66437620-1600x900.png?fit=max&auto=format",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-21"
  },
  "rentvine": {
   "url": "https://www.rentvine.com/images/open-graph/home-page.png",
