@@ -35634,5 +35634,88 @@
    "Chicago",
    "Remote (UK)"
   ]
+ },
+ {
+  "name": "Carta",
+  "slug": "carta",
+  "site": "https://carta.com",
+  "careers_url": "https://job-boards.greenhouse.io/carta",
+  "what_they_do": "Cap table, equity management, 409A and fund administration software for private capital",
+  "problem": "Startups and funds juggle ownership, valuations, fund books and investor reporting across spreadsheets, lawyers and admins",
+  "industry": "Private capital software / equity management & fund admin",
+  "stage": "Series G",
+  "last_round": "$500M",
+  "last_round_date": "Aug 2021",
+  "lead_investors": "Silver Lake",
+  "total_open_roles": "75",
+  "ops_roles": "Onboarding Lead; Loan Operations Associate; Support Analyst II; Regional Office Manager, AMEA",
+  "hiring_trend": "Flat: ~1,900 staff Oct 2025 (CFO); rolling layoffs Jul and Aug/Sep 2026 (~90 per Blind tracker)",
+  "headcount": "~1,900-2,000",
+  "latest_news": "Authorized by CSSF as fund administrator and transfer agent in Luxembourg",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://carta.com/blog/carta-psf-luxembourg/",
+  "traction": "$500M ARR crossed 2025 (from $373M early 2024); profitable; 50,000+ companies",
+  "red_flags": "Rolling layoffs Jul and Aug/Sep 2026, with 2026 Glassdoor reviews citing 'layoffs every week' and rating down 14% in 12 months. Valuation reset: secondary pricing ~$3.5B (Jan 2025), ~53% below the $7.4B 2021 Series G, after a 2024 Jefferies secondary pitched at $2B. Ex-CTO Jerry Talton's retaliation/defamation counterclaims against Carta and CEO Henry Ward still active in SDNY (filings into 2026). Watch only (outside 24 mo or settled): Jan 2024 scandal over using cap-table data to solicit Linear's shares (exited secondaries); 2023 layoffs (three rounds incl. 10% in Jan); harassment suits settled Jan 2025; COO exit Jul 2024.",
+  "red_flags_sources": [
+   {
+    "label": "Blind layoff tracker: Carta cuts Jul 3 and Aug 31, 2026",
+    "url": "https://www.teamblind.com/layoffs/company/carta"
+   },
+   {
+    "label": "Glassdoor review (Jul 2026): 'layoffs every week, culture of fear'",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Carta-E1880027-RVW104879527.htm"
+   },
+   {
+    "label": "Glassdoor: Carta 3.1 rating, down 14% in 12 months",
+    "url": "https://www.glassdoor.com/Reviews/Carta-Reviews-E1880027.htm"
+   },
+   {
+    "label": "Contrary Research: secondary valuation $3.5B, -53% vs Series G (Jan 2025)",
+    "url": "https://research.contrary.com/report/carta"
+   },
+   {
+    "label": "TechCrunch: Carta valuation to be cut by $6.5B in secondary sale (Jun 2024)",
+    "url": "https://techcrunch.com/2024/06/06/cartas-valuation-to-be-cut-by-billions-in-an-upcoming-secondary-sale/"
+   },
+   {
+    "label": "CourtListener: eShares (Carta) v. Talton docket, active into 2026",
+    "url": "https://www.courtlistener.com/docket/66692959/eshares-inc-v-talton-iii/"
+   },
+   {
+    "label": "TechCrunch: Carta accused of using cap-table data to broker a startup's shares (Jan 2024)",
+    "url": "https://techcrunch.com/2024/01/07/carta-the-cap-table-management-outfit-is-accused-of-unethical-tactics-by-a-customer-after-it-tries-broker-a-deal-for-a-startups-shares-without-consent/"
+   },
+   {
+    "label": "TechCrunch: Carta settles two harassment/discrimination suits (Feb 2025)",
+    "url": "https://techcrunch.com/2025/02/10/carta-settles-two-more-lawsuits-that-alleged-sexual-harassment-and-discrimination"
+   }
+  ],
+  "score": "0.0",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.1",
+  "glassdoor_reviews": "632",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Carta-Reviews-E1880027.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 20, 2026",
+  "engine": "Lock-in + Network",
+  "distance": "Half",
+  "distance_why": "System of record for 85% of US unicorns and 9,000+ funds, profitable at $500M+ ARR; trust lapses and layoffs keep it short of Marathon.",
+  "distance_sources": [
+   {
+    "label": "ION Analytics: Carta CFO on $500M+ ARR, profitability, 9,000+ funds (Oct 2025)",
+    "url": "https://ionanalytics.com/insights/uncategory/carta-looks-to-ma-to-grow-new-businesses-cfo/"
+   },
+   {
+    "label": "Carta: About (85% of US unicorns, $500M ARR crossed 2025)",
+    "url": "https://carta.com/about/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "London",
+   "Seattle"
+  ]
  }
 ]

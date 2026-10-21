@@ -1,0 +1,93 @@
+{
+  "slug": "carta",
+  "checked": "Oct 20, 2026",
+  "depth": "light",
+  "founded": 2012,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~1,900",
+    "as_of": "Oct 2025",
+    "source": "https://ionanalytics.com/insights/uncategory/carta-looks-to-ma-to-grow-new-businesses-cfo/"
+  },
+  "leadership": [
+    {
+      "name": "Henry Ward",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.courtlistener.com/docket/66692959/eshares-inc-v-talton-iii/"
+    },
+    {
+      "name": "Manu Kumar",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://tracxn.com/d/companies/carta/__V1hV7ojDYw3mZRmuhDRwzqzQuRYFIGKhx-hVWrglBhs"
+    },
+    {
+      "name": "Charly Kevers",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://ionanalytics.com/insights/uncategory/carta-looks-to-ma-to-grow-new-businesses-cfo/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series E",
+      "date": "2019-05",
+      "amount": null,
+      "valuation": "$1.7B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://techcrunch.com/2024/06/06/cartas-valuation-to-be-cut-by-billions-in-an-upcoming-secondary-sale/"
+    },
+    {
+      "round": "Series G",
+      "date": "2021-08",
+      "amount": "$500M",
+      "valuation": "$7.4B",
+      "lead": "Silver Lake",
+      "source": "https://ionanalytics.com/insights/uncategory/carta-looks-to-ma-to-grow-new-businesses-cfo/"
+    }
+  ],
+  "total_raised": "~$1.2B (CFO, Oct 2025)",
+  "revenue_est": {
+    "value": ">$500M ARR",
+    "as_of": "Oct 2025",
+    "basis": "company-stated",
+    "source": "https://ionanalytics.com/insights/uncategory/carta-looks-to-ma-to-grow-new-businesses-cfo/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Authorized as fund administrator and transfer agent in Luxembourg (CSSF PSF)",
+      "url": "https://carta.com/blog/carta-psf-luxembourg/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Rival Pulley shuts down; Carta helps transition its customers",
+      "url": "https://www.businessinsider.com/pulley-shuts-down-carta-helps-transition-customers-2026-9"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Second 2026 layoff round (~60, US), after a July cut",
+      "url": "https://www.teamblind.com/layoffs/company/carta"
+    },
+    {
+      "date": "2025-10",
+      "headline": "CFO: profitable, $500M+ ARR, IPO within four years; buys Sirvatus and Accelex",
+      "url": "https://ionanalytics.com/insights/uncategory/carta-looks-to-ma-to-grow-new-businesses-cfo/"
+    },
+    {
+      "date": "2025-02",
+      "headline": "Settles two harassment and discrimination suits from ex-employees",
+      "url": "https://techcrunch.com/2025/02/10/carta-settles-two-more-lawsuits-that-alleged-sexual-harassment-and-discrimination"
+    }
+  ],
+  "competitors": [
+    "AngelList",
+    "Juniper Square",
+    "Ledgy",
+    "standard-metrics"
+  ]
+}
