@@ -1,6 +1,6 @@
 {
   "slug": "coast",
-  "checked": "Oct 19, 2026",
+  "checked": "Oct 22, 2026",
   "depth": "light",
   "founded": 2020,
   "hq": "New York, NY",
@@ -30,10 +30,29 @@
       "valuation": null,
       "lead": "ICONIQ Growth",
       "source": "https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/"
+    },
+    {
+      "round": "Growth equity (Series B-3 per charter)",
+      "date": "2026-10",
+      "amount": "$35M",
+      "valuation": "Undisclosed; ~$366M post-money implied by Jun 2026 charter filing (Forge, unconfirmed)",
+      "lead": "Thomvest Ventures; new: Intuit Ventures, Small World Capital, Alpha Square Group; existing: ICONIQ Growth, Accel, Insight Partners, Better Tomorrow, Avid, Vintage, Colle, Synchrony, RXR, The Fintech Fund",
+      "source": "https://www.prnewswire.com/news-releases/coast-raises-35-million-to-build-the-financial-platform-for-the-physical-economy-302916432.html"
     }
   ],
-  "total_raised": "~$100M equity (company-stated, Jul 2024) + $67M debt",
+  "total_raised": "~$135M equity + $67M debt (est., Oct 2026)",
   "revenue_est": null,
-  "news_timeline": [],
+  "news_timeline": [
+    {
+      "date": "2026-10-22",
+      "headline": "Coast raises $35M growth equity led by Thomvest Ventures; Intuit Ventures joins",
+      "source": "https://fortune.com/2026/10/22/fintech-startup-coast-35-million-track-workers-company-credit-cards/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Launched Bill Pay alongside fleet and corporate cards",
+      "source": "https://coastpay.com/blog/bill-pay-launch/"
+    }
+  ],
   "competitors": []
 }
