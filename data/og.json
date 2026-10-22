@@ -2879,6 +2879,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "sapien": {
+  "url": "https://sapien.ai/opengraph-image",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-22"
+ },
  "sardine": {
   "url": "https://cdn.sanity.io/images/0wqw06cw/production/d1962ee3dc783b1e07f56512de5036c94c0df555-2400x1260.png?rect=0,3,2400,1254&w=1200&h=627&fit=crop&auto=format",
   "kind": "og",

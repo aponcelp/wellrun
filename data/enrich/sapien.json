@@ -1,0 +1,97 @@
+{
+  "slug": "sapien",
+  "checked": "Oct 22, 2026",
+  "founded": 2024,
+  "hq": "New York, NY (Flatiron, 48 W 25th St)",
+  "headcount_est": {
+    "value": "~26",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/getsapien"
+  },
+  "leadership": [
+    {
+      "name": "Ron Nachum",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/ron-nachum",
+      "source": "https://fortune.com/2024/10/29/ai-coworkers-startup-cfo-8-7-million-seed-round-general-catalyst/"
+    },
+    {
+      "name": "Pranav Ravella",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/pranav-ravella-610044206",
+      "source": "https://fortune.com/2024/10/29/ai-coworkers-startup-cfo-8-7-million-seed-round-general-catalyst/"
+    },
+    {
+      "name": "Arya Grayeli",
+      "title": "Co-founder & Chief Scientist",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/aryagrayeli",
+      "source": "https://fortune.com/2024/10/29/ai-coworkers-startup-cfo-8-7-million-seed-round-general-catalyst/"
+    },
+    {
+      "name": "Jake Schulman",
+      "title": "Head of Growth & Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/getsapien"
+    },
+    {
+      "name": "Eli Olcott",
+      "title": "Head of Customer Engineering",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/getsapien"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-10",
+      "amount": "$8.7M",
+      "valuation": null,
+      "lead": "General Catalyst (Neo participated)",
+      "source": "https://sapien.ai/blog/sapien-seed-round-general-catalyst"
+    },
+    {
+      "round": "Series A (reported; stage and amount undisclosed)",
+      "date": "2026-09",
+      "amount": "Undisclosed (total raised now $15M+ per company)",
+      "valuation": "$180M",
+      "lead": "Neo (Ali Partovi)",
+      "source": "https://fortune.com/2026/09/08/exclusive-ai-startup-sapien-raises-180m-valuation-companies-find-really-driving-profit-cfo/"
+    }
+  ],
+  "total_raised": "$15M+ (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raised at $180M valuation led by Neo's Ali Partovi; expanding from FP&A to ops analysis",
+      "url": "https://fortune.com/2026/09/08/exclusive-ai-startup-sapien-raises-180m-valuation-companies-find-really-driving-profit-cfo/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Signed ~10,500 sq ft lease at 48 West 25th St, NYC (Flatiron), relocating from 184 Fifth Ave",
+      "url": "https://commercialobserver.com/2026/08/sapien-ai-lease-kaufman-organization-48-west-25th-street/"
+    },
+    {
+      "date": "2025-11",
+      "headline": "CEO says team more than doubled in a few months; scaling operations and deployment team",
+      "url": "https://www.linkedin.com/posts/ron-nachum_sapien-careers-activity-7399494264696541184-8V2J"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Named to Harmonic Hot 25 (Q2 2025)",
+      "url": "https://harmonic.ai/hot-25-companies/q2-2025"
+    }
+  ],
+  "competitors": [
+    "pigment",
+    "runway",
+    "abacum",
+    "Workday Adaptive Planning",
+    "Anaplan"
+  ]
+}

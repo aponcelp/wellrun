@@ -36205,5 +36205,53 @@
    "New York",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Sapien",
+  "slug": "sapien",
+  "site": "https://sapien.ai",
+  "careers_url": "https://jobs.ashbyhq.com/sapien",
+  "what_they_do": "AI agents that analyze ERP and operational data for finance and ops teams",
+  "problem": "Finance teams spend days in spreadsheets to explain what really moved revenue, margin and cash",
+  "industry": "AI for finance / FP&A and operational analytics",
+  "stage": "Series A (reported; undisclosed)",
+  "last_round": "Undisclosed ($180M valuation)",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Neo (Ali Partovi); General Catalyst participated",
+  "total_open_roles": "11",
+  "ops_roles": "Chief of Staff; Deployment Strategist",
+  "hiring_trend": "Headcount ~5x in 12 mo (company); 14 in May 2026 → ~26 on LinkedIn (+225% YoY)",
+  "headcount": "~26",
+  "latest_news": "Raised at a $180M valuation led by Neo's Ali Partovi; moved beyond FP&A",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://fortune.com/2026/09/08/exclusive-ai-startup-sapien-raises-180m-valuation-companies-find-really-driving-profit-cfo/",
+  "traction": "Enterprise customers incl. Bayer, Cooper Standard, Carlex, Blink Charging; revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 22, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Two years old with ~26 staff and a handful of named enterprise customers; deployment-led setup on customer ERP data could create lock-in, but revenue and renewals are undisclosed and Pigment, Runway and ERP-vendor copilots crowd the space.",
+  "distance_sources": [
+   {
+    "label": "Fortune: Sapien raises at $180M valuation (Sep 2026)",
+    "url": "https://fortune.com/2026/09/08/exclusive-ai-startup-sapien-raises-180m-valuation-companies-find-really-driving-profit-cfo/"
+   },
+   {
+    "label": "Value Add Pulse: no disclosed revenue or retention behind the markup (Sep 2026)",
+    "url": "https://valueaddvc.com/pulse/sapien-180-million-valuation-profit-ai-2026"
+   }
+  ],
+  "hiring_locations": [
+   "Sapien — NYC"
+  ]
  }
 ]
