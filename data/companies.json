@@ -36353,5 +36353,86 @@
   "hiring_locations": [
    "New York"
   ]
+ },
+ {
+  "name": "1Password",
+  "slug": "1password",
+  "site": "https://1password.com",
+  "careers_url": "https://jobs.ashbyhq.com/1password",
+  "what_they_do": "Password, secrets and access management for businesses, developers and AI agents",
+  "problem": "Companies can't see or control who (and which AI agents) hold credentials and standing access to their apps and systems",
+  "industry": "Identity security / password and access management",
+  "stage": "Series C (profitable, late-stage)",
+  "last_round": "$620M",
+  "last_round_date": "Jan 2022",
+  "lead_investors": "ICONIQ Growth (Accel led A and B)",
+  "total_open_roles": "86",
+  "ops_roles": "Senior Manager, Strategic Operations; Staff Program Manager, CX Operations & Programs; Senior Manager Implementation and Onboarding; Director, Global Field Sales Operations",
+  "hiring_trend": "Headcount ~1,400 (Nov 2025) → 1,500+ (Jun 2026, company); LinkedIn ~3,150 (+17% YoY); 111 postings added in 30 days, Sep 2026 spike",
+  "headcount": "~1,500 (company); ~3,150 on LinkedIn",
+  "latest_news": "Passed $500M ARR (Q3 net new ARR ~+90% YoY); launched 1Password for Agents",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.streetinsider.com/Business+Wire/1Password+Surpasses+%24500+Million+in+ARR+as+Developers+and+AI+Builders+Accelerate+Growth/27219985.html",
+  "traction": "$500M+ ARR (from $400M Nov 2025), double-digit FCF margin, 200,000+ business customers",
+  "red_flags": "Watch (not scored): a company-wide layoff in Mar 2025 (employee reports on Glassdoor and RepVue; size never disclosed) after an Oct 2024 restructuring, and C-suite turnover in 2025 (CEO Jeff Shiner to executive chair Jul, CTO and CRO left Sep), since replaced by a new team. Headcount has grown since (~1,400 to 1,500+). Glassdoor 3.4 with Sep-Oct 2026 reviews citing leadership and culture decline and IPO pressure. Sep 2026 customer backlash over a $300K Omarchy (DHH) sponsorship. No primary round since Jan 2022; Oct 2025 $100M founder/employee secondary held the $6.8B valuation flat (no discount). Security: 2023 Okta-related intrusion (no user data accessed, >24 mo) and recurring phishing campaigns aimed at users; no breach of customer vaults found.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor: 1Password 'layoff' reviews (Mar 2025 company-wide layoff)",
+    "url": "https://www.glassdoor.com/Reviews/1Password-layoff-Reviews-EI_IE2984143.0,9_KH10,16.htm"
+   },
+   {
+    "label": "RepVue review: 'affected by a company-wide layoff' (Mar 2025)",
+    "url": "https://www.repvue.com/companies/1password/reviews/1password-review-xg0q5buo"
+   },
+   {
+    "label": "The Logic: 1Password CRO steps down in third recent executive departure (Sep 2025)",
+    "url": "https://thelogic.co/briefing/1password-cro-steps-down-in-third-recent-executive-departure/"
+   },
+   {
+    "label": "BetaKit: $400M ARR, new executive team after shakeup (Nov 2025)",
+    "url": "https://betakit.com/we-could-be-public-today-1password-crosses-400-million-usd-arr-milestone/"
+   },
+   {
+    "label": "Glassdoor: 1Password reviews, 3.4 (378 reviews, Oct 2026)",
+    "url": "https://www.glassdoor.com/Reviews/1Password-Reviews-E2984143.htm"
+   },
+   {
+    "label": "BetaKit: $100M secondary at flat $6.8B valuation (Oct 2025)",
+    "url": "https://betakit.com/1password-holds-100-million-secondary-sale-inks-deal-to-deepen-ai-focus/"
+   },
+   {
+    "label": "1Password: Okta Support System incident, no user data accessed (Oct 2023)",
+    "url": "https://1password.com/blog/okta-incident"
+   }
+  ],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "3.4",
+  "glassdoor_reviews": "378",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/1Password-Reviews-E2984143.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 22, 2026",
+  "engine": "Lock-in",
+  "distance": "Marathon",
+  "distance_why": "A leading business password manager at real scale ($500M+ ARR, 200,000+ businesses, 90%+ gross retention, improving net retention) with a sticky company vault, now adding privileged access, SaaS management and agent credentials; Okta, CyberArk and Microsoft crowd the wider identity market it is moving into.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: 1Password surpasses $500M ARR, 90%+ gross retention (Oct 2026)",
+    "url": "https://www.streetinsider.com/Business+Wire/1Password+Surpasses+%24500+Million+in+ARR+as+Developers+and+AI+Builders+Accelerate+Growth/27219985.html"
+   },
+   {
+    "label": "SecurityWeek: 1Password acquires Apono in reported $250M-$300M deal (Jun 2026)",
+    "url": "https://www.securityweek.com/1password-acquires-apono-in-reported-250m-300m-deal/"
+   }
+  ],
+  "hiring_locations": [
+   "Austin",
+   "New York",
+   "London",
+   "Remote (US)",
+   "Remote (Canada)"
+  ]
  }
 ]
