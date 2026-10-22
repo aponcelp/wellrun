@@ -305,6 +305,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "assured-health": {
+  "url": "https://cdn.prod.website-files.com/69a36525d6ee68c8fc548c9d/6a85fcb309a6e237c1a8ebc2_c7d7693cf2e8eb12c9f4fb40fbaaff72_OpenGraph.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-22"
+ },
  "atlar": {
   "url": "https://cdn.prod.website-files.com/656f3c6489ea21aff4dfcf78/692571712cc755c88534f173_atlar-treasury-meta-comp.png",
   "kind": "og",
@@ -3238,6 +3244,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "tessera-labs": {
+  "url": "https://tesseralabs.ai/apple-touch-icon.png",
+  "kind": "icon",
+  "type": "image/png",
+  "checked": "2026-10-22"
  },
  "thatch": {
   "url": "https://thatch.com/api/og/marketing?headline=Upgrade%20from%20health%20benefits%20to%20health%20budgets",

@@ -36253,5 +36253,105 @@
   "hiring_locations": [
    "Sapien — NYC"
   ]
+ },
+ {
+  "name": "Tessera Labs",
+  "slug": "tessera-labs",
+  "site": "https://tesseralabs.ai",
+  "careers_url": "https://jobs.ashbyhq.com/tessera-labs",
+  "what_they_do": "AI agents that run ERP migrations and modernization (SAP, Oracle) for large enterprises",
+  "problem": "ERP migrations take years and armies of consultants, with costly change orders along the way",
+  "industry": "Enterprise AI / ERP modernization",
+  "stage": "Series A",
+  "last_round": "$60M",
+  "last_round_date": "May 2026",
+  "lead_investors": "Andreessen Horowitz; Foundation Capital, Myriad Venture Partners, Osage University Partners participated",
+  "total_open_roles": "26",
+  "ops_roles": "Deployed Strategist",
+  "hiring_trend": "30+ staff at May 2026 raise → ~87 by Sep 2026 (Crustdata); engineering +457% YoY",
+  "headcount": "~87",
+  "latest_news": "Emerged from stealth with a $60M Series A led by a16z at a reported $320M valuation",
+  "latest_news_date": "May 2026",
+  "latest_news_url": "https://techfundingnews.com/tessera-labs-60m-series-a-a16z-erp-sap-migration-ai/",
+  "traction": "Multimillion-dollar ACV contracts with Fortune 500 CIOs (Merck, Xerox named by Forbes); revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 22, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Strong enterprise wins, but migration work is project-based and must stick after go-live.",
+  "distance_sources": [
+   {
+    "label": "Altis Research: Tessera, project-based wins and retention question (Oct 2026)",
+    "url": "https://www.altis.vc/research/company/tessera"
+   },
+   {
+    "label": "Tech Funding News: a16z leads $60M Series A (May 2026)",
+    "url": "https://techfundingnews.com/tessera-labs-60m-series-a-a16z-erp-sap-migration-ai/"
+   }
+  ],
+  "hiring_locations": [
+   "San Jose",
+   "New York",
+   "San Francisco",
+   "Remote (US)",
+   "Remote (Brazil)"
+  ]
+ },
+ {
+  "name": "Assured Health",
+  "slug": "assured-health",
+  "site": "https://www.withassured.com",
+  "careers_url": "https://jobs.ashbyhq.com/assured-health",
+  "what_they_do": "AI agents that run provider credentialing, payer enrollment and licensing for healthcare organizations",
+  "problem": "Getting a new clinician credentialed and in-network takes months of manual paperwork, delaying care and revenue",
+  "industry": "Healthcare operations / provider credentialing",
+  "stage": "Series A",
+  "last_round": "$19M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Insight Partners; First Round Capital and Kindred Ventures participated",
+  "total_open_roles": "6",
+  "ops_roles": "GTM Operations; Director of Payer Enrollment",
+  "hiring_trend": "Headcount 125 → 162 in a quarter (+30% QoQ, Caplight Sep 2026); all open roles on-site NYC",
+  "headcount": "~162",
+  "latest_news": "Raised $19M Series A led by Insight Partners; $25M raised to date",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.fiercehealthcare.com/finance/startup-assured-banks-19m-series-ai-native-credientialing-provider-enrollment",
+  "traction": "100+ healthcare organizations incl. Houston Methodist; NCQA-certified CVO; revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 22, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Runs credentialing inside customer workflows, but Medallion and Verifiable chase the same buyers.",
+  "distance_sources": [
+   {
+    "label": "Fierce Healthcare: Assured banks $19M Series A (Jul 2026)",
+    "url": "https://www.fiercehealthcare.com/finance/startup-assured-banks-19m-series-ai-native-credientialing-provider-enrollment"
+   },
+   {
+    "label": "Caplight: Assured Health profile, comparables and headcount (Sep 2026)",
+    "url": "https://www.caplight.com/company/withassured"
+   }
+  ],
+  "hiring_locations": [
+   "New York"
+  ]
  }
 ]
