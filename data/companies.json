@@ -36129,5 +36129,81 @@
    "San Francisco",
    "Remote"
   ]
+ },
+ {
+  "name": "Pigment",
+  "slug": "pigment",
+  "site": "https://www.pigment.com",
+  "careers_url": "https://jobs.lever.co/pigment",
+  "what_they_do": "AI business planning platform for finance, sales, workforce and supply chain teams",
+  "problem": "Enterprise planning lives in brittle spreadsheets and legacy EPM tools, so forecasts are slow, siloed and hard to change",
+  "industry": "Enterprise performance management / AI business planning (FP&A)",
+  "stage": "Series E",
+  "last_round": "$250M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Scaleup Europe Fund (managed by EQT), with WIL, Greenoaks, ICONIQ, IVP, Meritech and planned NVIDIA investment",
+  "total_open_roles": "139",
+  "ops_roles": "Head of Delivery - North Americas (United States, hybrid); Senior Customer Success Operations Manager (New York or Paris); AI Deployment Strategist (New York, SF or Austin); Senior Sales Operations Manager, Americas (New York)",
+  "hiring_trend": "Headcount ~488 → ~642 Q1 2025 to Q1 2026 (Revelio, +32%); ~806 on LinkedIn (+35% YoY); 139 open roles vs 115 active postings in 2025",
+  "headcount": "~640-810 (Revelio 642 Mar 2026, Tracxn 777, LinkedIn 806)",
+  "latest_news": "Raised $250M Series E at $2.3B led by EQT-managed Scaleup Europe Fund",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.pigment.com/newsroom/pigment-raises-250m-series-e",
+  "traction": "$100M+ ARR in 2026, doubling YoY; customers include Unilever, Snowflake, Uber, Anthropic, Siemens",
+  "red_flags": "Not scored: a Jun 2025 former-employee Glassdoor review says the company resorts to layoffs when targets are missed, and a Jul 2026 former AE review calls the 2024 US enterprise sales push premature; no layoff reporting in press (TrueUp lists no known layoffs) and headcount is up ~32% YoY. Not a down round: $2.3B vs ~$1B at the Apr 2024 Series D.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor: 'Disappointing culture shift / growing pains' former-employee review mentioning layoffs (Jun 2025)",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Pigment-E5907351-RVW98176277.htm"
+   },
+   {
+    "label": "Glassdoor: Pigment reviews mentioning 'layoff' (2 reviews)",
+    "url": "https://www.glassdoor.com/Reviews/Pigment-layoff-Reviews-EI_IE5907351.0,7_KH8,14.htm"
+   },
+   {
+    "label": "Glassdoor: 'Great tech just not ready for rapid US Enterprise Size Sales' former AE review (Jul 2026)",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Pigment-E5907351-RVW104893055.htm"
+   },
+   {
+    "label": "TrueUp: Pigment profile, no known layoffs",
+    "url": "https://www.trueup.io/co/pigment"
+   },
+   {
+    "label": "Revelio Labs: Pigment headcount and postings (Aug 2026)",
+    "url": "https://www.reveliolabs.com/companies/pigment/employees"
+   }
+  ],
+  "score": "5.5",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "108",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Pigment-Reviews-E5907351.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 21, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "The leading modern challenger in enterprise planning ($100M+ ARR doubling, Unilever, Siemens, L'Oréal) with sticky planning models and adopted second lines (sales, workforce, supply chain, consolidation); still a Gartner Visionary behind Anaplan, Oracle, Workday, SAP and OneStream, and partners run ~90% of implementations.",
+  "distance_sources": [
+   {
+    "label": "Pigment: $250M Series E at $2.3B; ARR passed $100M, doubling YoY (Oct 2026)",
+    "url": "https://www.pigment.com/newsroom/pigment-raises-250m-series-e"
+   },
+   {
+    "label": "Gartner: 2025 Magic Quadrant for Financial Planning Software (Pigment a Visionary; Anaplan, Oracle, Workday Leaders)",
+    "url": "https://www.gartner.com/doc/reprints?&&ct=251204&id=1-2MF48K4T&st=sb"
+   },
+   {
+    "label": "Pigment: partner ecosystem expansion, partners lead ~90% of implementations (Aug 2026)",
+    "url": "https://www.pigment.com/newsroom/pigment-expands-global-partner-ecosystem"
+   }
+  ],
+  "hiring_locations": [
+   "Paris",
+   "London",
+   "New York",
+   "Remote (US)"
+  ]
  }
 ]
