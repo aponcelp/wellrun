@@ -1,0 +1,155 @@
+{
+  "slug": "pigment",
+  "checked": "Oct 21, 2026",
+  "founded": 2019,
+  "hq": "Paris, France (US hub San Francisco/New York)",
+  "headcount_est": {
+    "value": "~640-810",
+    "as_of": "Mar-Oct 2026",
+    "source": "https://www.reveliolabs.com/companies/pigment/employees"
+  },
+  "leadership": [
+    {
+      "name": "Eléonore Crespo",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/eleonorecrespo",
+      "source": "https://www.pigment.com/blog/pigment-announces-250m-series-e-funding"
+    },
+    {
+      "name": "Romain Niccoli",
+      "title": "Co-founder & Co-CEO (ex-Criteo co-founder/CTO)",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/romainniccoli",
+      "source": "https://www.pigment.com/blog/pigment-announces-250m-series-e-funding"
+    },
+    {
+      "name": "Susan Phan",
+      "title": "Chief Financial Officer (joined Sep 2026; ex-CFO & COO Gem)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.planet-fintech.com/Pigment-renforce-sa-direction-financiere-avec-une-ancienne-dirigeante-de-Dropbox_a7653.html"
+    },
+    {
+      "name": "Jay Peir",
+      "title": "Global Head of Strategy (interim CFO Dec 2023-Sep 2026)",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/jay-peir-84b19143",
+      "source": "https://www.cfobrew.com/stories/2026/02/06/what-s-it-like-to-be-the-cfo-to-two-ceos"
+    },
+    {
+      "name": "Stephen Macfarlane",
+      "title": "Global Head of Sales (joined Aug 2025, ex-MongoDB)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/eleonorecrespo_im-thrilled-to-welcome-stephen-macfarlane-activity-7350531499328241664-KOjQ"
+    },
+    {
+      "name": "Katie Ecklund",
+      "title": "Global Head of Partnerships",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.pigment.com/newsroom/pigment-expands-global-partner-ecosystem"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-10",
+      "amount": "€3.5M (~$3.9M)",
+      "valuation": null,
+      "lead": "FirstMark Capital, Frst",
+      "source": "https://www.forbes.com/sites/igorbosilkovski/2020/12/03/french-business-planning-platform-pigment-announces-it-has-raised-26-million"
+    },
+    {
+      "round": "Series A",
+      "date": "2020-12",
+      "amount": "$25.9M",
+      "valuation": "~$112M (Dealroom est.)",
+      "lead": "Blossom Capital",
+      "source": "http://techcrunch.com/2020/12/03/taking-on-the-business-scenario-planning-giants-pigment-raises-a-25-9m-series-a-led-by-blossom-capital"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-11",
+      "amount": "$73M",
+      "valuation": null,
+      "lead": "Greenoaks",
+      "source": "https://www.pigment.com/newsroom/pigment-series-b"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2022-09",
+      "amount": "$65M",
+      "valuation": "~$365M (Dealroom est.)",
+      "lead": "IVP",
+      "source": "https://www.pigment.com/newsroom/pigment-raises-65m-to-expand-into-us-enterprise-market"
+    },
+    {
+      "round": "Series C",
+      "date": "2023-06",
+      "amount": "$88M",
+      "valuation": "~$850M (Dealroom est.)",
+      "lead": "ICONIQ Growth",
+      "source": "https://techcrunch.com/2023/06/08/pigment-secures-88-million-for-its-business-planning-tool-that-will-make-you-forget-about-excel/"
+    },
+    {
+      "round": "Series D",
+      "date": "2024-04",
+      "amount": "$145M",
+      "valuation": "~$1B (unicorn; Tracxn/Dealroom est.)",
+      "lead": "ICONIQ Growth",
+      "source": "https://www.pigment.com/newsroom/pigment-announces-145m-series-d"
+    },
+    {
+      "round": "Series E",
+      "date": "2026-10",
+      "amount": "$250M",
+      "valuation": "$2.3B",
+      "lead": "Scaleup Europe Fund (managed by EQT)",
+      "source": "https://www.pigment.com/newsroom/pigment-raises-250m-series-e"
+    }
+  ],
+  "total_raised": "~$643M",
+  "revenue_est": "$100M+ ARR (2026, doubling YoY; company-stated)",
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raised $250M Series E at $2.3B led by EQT-managed Scaleup Europe Fund; NVIDIA investment planned; ARR passed $100M",
+      "url": "https://www.pigment.com/newsroom/pigment-raises-250m-series-e"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launched Frames, AI-built interfaces for business planning",
+      "url": "https://www.pigment.com/newsroom/pigment-introduces-frames"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Named Susan Phan (ex-Gem CFO & COO) as CFO",
+      "url": "https://www.planet-fintech.com/Pigment-renforce-sa-direction-financiere-avec-une-ancienne-dirigeante-de-Dropbox_a7653.html"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Expanded global partner ecosystem; new heads of partnerships; partners lead ~90% of implementations",
+      "url": "https://www.pigment.com/newsroom/pigment-expands-global-partner-ecosystem"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Launched AI Intent Modeling (Modeler Agent)",
+      "url": "https://www.pigment.com/newsroom/modeler-agent-launch"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Named a Visionary in the 2025 Gartner Magic Quadrant for Financial Planning Software (second year)",
+      "url": "https://www.pigment.com/blog/gartner-mq-2025"
+    }
+  ],
+  "competitors": [
+    "Anaplan",
+    "Workday Adaptive Planning",
+    "Oracle EPM",
+    "SAP",
+    "OneStream",
+    "Planful"
+  ]
+}
