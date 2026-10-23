@@ -1,0 +1,34 @@
+name: Daily publish
+# Board data lands on the "data" branch (Vercel skips building it).
+# Once a day this merges data into main, so the site rebuilds once instead of on every add.
+on:
+  schedule:
+    - cron: "0 1 * * *"   # 9 PM EDT / 8 PM EST
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Merge data into main
+        id: merge
+        run: |
+          git config user.name "Alfredo Ponce de León"
+          git config user.email "aponcelp@gmail.com"
+          git fetch origin data || { echo "no data branch"; echo "changed=false" >> "$GITHUB_OUTPUT"; exit 0; }
+          BEFORE=$(git rev-parse HEAD)
+          echo "before=$BEFORE" >> "$GITHUB_OUTPUT"
+          if git merge-base --is-ancestor origin/data HEAD; then
+            echo "nothing new"; echo "changed=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          git merge --no-edit origin/data -m "Daily publish: board updates"
+          git push origin main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      - name: Board report
+        if: steps.merge.outputs.changed == 'true'
+        run: python3 .github/scripts/board_report.py "${{ steps.merge.outputs.before }}"
