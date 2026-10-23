@@ -1253,6 +1253,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "formic": {
+  "url": "https://formic.co/formic-og.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-23"
+ },
  "fortell-research": {
   "url": "https://cdn.prod.website-files.com/68483ae9b9193f5347f397e0/692f2ddd0b0dd5ff39bf1d11_fortell-homepage-1200x630-OG.jpg",
   "kind": "og",

@@ -1,0 +1,128 @@
+{
+  "slug": "formic",
+  "checked": "Oct 23, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "Bolingbrook, IL (Chicago area)",
+  "headcount_est": {
+    "value": "~93 (Revelio, Mar 2026); ~126 on LinkedIn",
+    "as_of": "Mar 2026",
+    "source": "https://www.reveliolabs.com/companies/formic/employees"
+  },
+  "leadership": [
+    {
+      "name": "Saman Farid",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/samanfarid/",
+      "source": "https://www.businesswire.com/news/home/20261022651853/en/Formic-Raises-%2450-Million-to-Scale-Physical-AI-Across-American-Manufacturing"
+    },
+    {
+      "name": "Misa Ilkhechi",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/misaqh/",
+      "source": "https://www.teardown.ai/companies/formic"
+    },
+    {
+      "name": "Jack Wagler",
+      "title": "Chief Financial Officer",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/jack-wagler-3b08778",
+      "source": "https://www.datocms-assets.com/43704/1765559216-formic-fact-sheet-2025-7.pdf"
+    },
+    {
+      "name": "Mika Saryan",
+      "title": "Chief Technology Officer",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/mika-saryan",
+      "source": "https://linkedin.com/in/mika-saryan"
+    },
+    {
+      "name": "Danijel Lolic",
+      "title": "Chief Operating Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://robotscope.net/companies/formic/"
+    },
+    {
+      "name": "Shawn Fitzgerald",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://robotscope.net/companies/formic/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-03",
+      "amount": "$5.5M",
+      "valuation": null,
+      "lead": "Initialized Capital",
+      "source": "https://www.teardown.ai/companies/formic"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-01",
+      "amount": "$26.5M",
+      "valuation": null,
+      "lead": "Lux Capital",
+      "source": "http://formic.co/resources/press/formic-technologies-raises-265-million-series-a-led-by-lux-capital"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2024-06",
+      "amount": "$27.4M",
+      "valuation": null,
+      "lead": "Blackhorn Ventures",
+      "source": "https://www.businesswire.com/news/home/20240625420772/en/Formic-Raises-%2427.4-Million-to-Bring-Automation-to-More-Manufacturers"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-10",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "Mercato Partners",
+      "source": "https://www.techmeme.com/261022/p43"
+    },
+    {
+      "round": "Debt",
+      "date": "2026-10",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "S2G Investments",
+      "source": "https://www.techmeme.com/261022/p43"
+    }
+  ],
+  "total_raised": "~$99M equity (plus debt and asset financing)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $50M led by Mercato Partners to push into general-purpose robots",
+      "url": "https://www.businesswire.com/news/home/20261022651853/en/Formic-Raises-%2450-Million-to-Scale-Physical-AI-Across-American-Manufacturing"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Opens Oakland, CA facility for humanoid and physical AI work",
+      "url": "https://www.businesswire.com/news/home/20260826975448/en/Formic-Opens-Oakland-Facility-Anchoring-Humanoid-and-Physical-AI-Expansion-in-the-Bay-Area-Alongside-Tesla-and-Amazon"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Opens 53,000 sq ft headquarters in Bolingbrook, IL, five times its old site",
+      "url": "https://www.businesswire.com/news/home/20260617825951/en/Formic-Opens-53000-Square-Foot-Chicagoland-Headquarters-to-Meet-Growing-Demand-for-Its-AI-Powered-Robotic-Automation"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Fleet passes 400,000 production hours; expands product portfolio",
+      "url": "https://www.businesswire.com/news/home/20250925880827/en/Formic-Fleet-Surpasses-400000-Production-Hours-Backed-by-Expanded-Product-Portfolio"
+    }
+  ],
+  "competitors": [
+    "Chef Robotics",
+    "Path Robotics",
+    "Bright Machines",
+    "Fanuc/ABB integrator leasing"
+  ]
+}

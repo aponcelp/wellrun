@@ -36483,5 +36483,55 @@
    "New York",
    "Remote"
   ]
+ },
+ {
+  "name": "Formic",
+  "slug": "formic",
+  "site": "https://formic.co",
+  "careers_url": "https://job-boards.greenhouse.io/formic",
+  "what_they_do": "Robots-as-a-service: installs, runs and maintains factory robots for one monthly fee",
+  "problem": "Mid-market manufacturers can't fill end-of-line jobs and can't afford the upfront cost and risk of automation",
+  "industry": "Industrial robotics / manufacturing automation (RaaS)",
+  "stage": "Series B",
+  "last_round": "$50M (incl. ~$10M debt)",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Mercato Partners",
+  "total_open_roles": "37",
+  "ops_roles": "Robotics Deployment Project Manager (Oakland, CA); Robotics Deployment Project Manager (Bolingbrook, IL); IT & Workplace Operations Lead (Bolingbrook, IL)",
+  "hiring_trend": "Headcount ~74 → ~93 Q1 2025 to Q1 2026 (Revelio, +26%), ~126 on LinkedIn; postings +90% in 2026",
+  "headcount": "~95-126",
+  "latest_news": "Raised $50M led by Mercato Partners ($40M Series B plus debt) to expand into general-purpose robots",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20261022651853/en/Formic-Raises-%2450-Million-to-Scale-Physical-AI-Across-American-Manufacturing",
+  "traction": "Robots in 100+ facilities, 97% renewal; fleet hours ~400K (Sep 2025) to 750K+ (Oct 2026)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.25",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "26",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Formic-Reviews-E4457792.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 23, 2026",
+  "engine": "Lock-in + Data",
+  "distance": "Half",
+  "distance_why": "Largest independent US robot-as-a-service fleet with 97% renewals, but capital-heavy and copyable by integrator leasing.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Formic raises $50M; 100+ facilities, 97% renew (Oct 2026)",
+    "url": "https://www.businesswire.com/news/home/20261022651853/en/Formic-Raises-%2450-Million-to-Scale-Physical-AI-Across-American-Manufacturing"
+   },
+   {
+    "label": "Teardown: Formic deep dive, last standalone US RaaS platform of scale (Sep 2026)",
+    "url": "https://www.teardown.ai/companies/formic"
+   }
+  ],
+  "hiring_locations": [
+   "Chicago",
+   "Bolingbrook",
+   "San Francisco"
+  ]
  }
 ]
