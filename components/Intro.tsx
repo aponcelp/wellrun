@@ -3,6 +3,7 @@ import { useState, type ReactNode } from "react";
 import { DMETA, DISTS, ZONES } from "@/lib/rank";
 import { cap } from "@/lib/track";
 import { Meter } from "./Marks";
+import Signup from "./Signup";
 
 /** "What is Well Run?" body (copy kept verbatim from the original site). */
 function StoryBody() {
@@ -125,6 +126,7 @@ export function Hero({ track }: { track: ReactNode }) {
             <PanelToggle open={open.story} onClick={() => flip("story")} label="What is Well Run?" controls="story" />
             <PanelToggle open={open.legend} onClick={() => flip("legend")} label="How scoring works" controls="legendwrap" id="ltoggle" />
           </div>
+          <Signup compact />
         </div>
         {track}
       </div>

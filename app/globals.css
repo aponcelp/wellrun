@@ -930,3 +930,11 @@ a.row__name:hover { text-decoration: underline; text-decoration-color: var(--cla
 .signup button:disabled { opacity: .6; cursor: default; }
 .signup__err { margin: 6px 0 0; font-size: 13px; color: #b5482a; }
 .signup--done { font-size: 15px; color: var(--ink); }
+
+/* Compact signup in the hero, under the explainer toggles */
+.signup--sm { max-width: 420px; margin: 14px 0 0; padding: 0; }
+.signup--sm .signup__label { font-size: 10px; margin-bottom: 6px; }
+.signup--sm input { font-size: 13px; padding: 7px 10px; border-width: 1.5px; }
+.signup--sm button { font-size: 12px; padding: 7px 12px; border-width: 1.5px; }
+.signup--sm.signup--done, .signup--done.signup--sm { font-size: 13px; }
+@media (max-width: 640px) { .signup--sm { max-width: none; } .signup--sm input { font-size: 16px; } }
