@@ -36533,5 +36533,51 @@
    "Bolingbrook",
    "San Francisco"
   ]
+ },
+ {
+  "name": "Mave",
+  "slug": "mave",
+  "site": "https://www.mave.com",
+  "careers_url": "https://www.mave.com/company/careers",
+  "what_they_do": "AI agents that investigate security alerts across a company's existing security tools",
+  "problem": "Security teams drown in alerts and must piece incidents together across dozens of disconnected tools and SIEMs",
+  "industry": "Cybersecurity / AI security operations (SOC)",
+  "stage": "Series A",
+  "last_round": "$28M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Red Dot Capital Partners (A); Dell Technologies Capital, Emerge Ventures (seed)",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "~20-30 staff, plans to more than double; LinkedIn ~22-23 (+69% YoY); no public job board",
+  "headcount": "~20-30",
+  "latest_news": "Came out of stealth with $34M total, including $28M Series A led by Red Dot",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.mave.com/resources/mave-launches-with-34-million",
+  "traction": "Company says ARR up 400%+, running in 200+ SOCs, closing seven-figure deals",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 23, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Promising early traction, but just out of stealth in a crowded AI SOC field.",
+  "distance_sources": [
+   {
+    "label": "SiliconANGLE: Mave raises $34M, ARR up 400%+ (Oct 2026)",
+    "url": "https://siliconangle.com/2026/10/22/mave-raises-34m-to-pull-existing-security-tools-into-one-agentic-system/"
+   },
+   {
+    "label": "Business Insider: Mave $34M, rivals Dropzone and Prophet Security (Oct 2026)",
+    "url": "https://www.businessinsider.com/mave-startup-cybersecurity-funding-ai-agents-pitch-deck-2026-10"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

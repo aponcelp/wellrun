@@ -1,0 +1,71 @@
+{
+  "slug": "mave",
+  "checked": "Oct 23, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "Tel Aviv, Israel",
+  "headcount_est": {
+    "value": "~30",
+    "as_of": "Oct 2026",
+    "source": "https://www.prnewswire.com/news-releases/mave-raises-34-million-to-build-the-agentic-secops-system-for-the-modern-enterprise-302916859.html"
+  },
+  "leadership": [
+    {
+      "name": "Raziel Oren",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/raziel-oren/",
+      "source": "https://www.mave.com/company/about"
+    },
+    {
+      "name": "Guy Eshel",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/guy-eshel/",
+      "source": "https://www.mave.com/company/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "Dell Technologies Capital, Emerge Ventures",
+      "source": "https://www.calcalistech.com/ctechnews/article/h1sq8ip2mx"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$28M",
+      "valuation": null,
+      "lead": "Red Dot Capital Partners",
+      "source": "https://www.prnewswire.com/news-releases/mave-raises-34-million-to-build-the-agentic-secops-system-for-the-modern-enterprise-302916859.html"
+    }
+  ],
+  "total_raised": "$34M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Emerges from stealth with $34M; $28M Series A led by Red Dot Capital Partners",
+      "url": "https://www.mave.com/resources/mave-launches-with-34-million"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Says ARR grew 400%+ and it is closing seven-figure deals; plans to double 20-30 staff",
+      "url": "https://siliconangle.com/2026/10/22/mave-raises-34m-to-pull-existing-security-tools-into-one-agentic-system/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "CEO recruits leads for GTM, hands-on marketing, and channels & partnerships",
+      "url": "https://www.linkedin.com/posts/raziel-oren_%D7%90%D7%A0%D7%99-%D7%9E%D7%97%D7%A4%D7%A9-%D7%A9%D7%9C%D7%95%D7%A9-%D7%9E%D7%A9%D7%A8%D7%95%D7%AA-%D7%94%D7%95%D7%91%D7%9C%D7%94-%D7%90%D7%A1%D7%98%D7%A8%D7%98%D7%92%D7%99%D7%95%D7%AA-%D7%9C-mave-activity-7500510552671100928-CHr5"
+    }
+  ],
+  "competitors": [
+    "Dropzone AI",
+    "Prophet Security",
+    "Torq",
+    "7ai"
+  ]
+}
