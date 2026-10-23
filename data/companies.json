@@ -532,11 +532,11 @@
   "problem": "Finding an in-network therapist who is available is slow and frustrating",
   "industry": "Mental health provider / marketplace",
   "stage": "Series C",
-  "last_round": "$125M–143M (sources differ)",
-  "last_round_date": "Jul 2024",
+  "last_round": "$6.2M Series C-1 at $2.4B (Forge)",
+  "last_round_date": "Feb 2026",
   "lead_investors": "Hedosophia",
-  "total_open_roles": "37",
-  "ops_roles": "Sr. Business Operations Manager; Strategy & Operations Manager, In-person; Director of Revenue Strategy & Planning",
+  "total_open_roles": "36",
+  "ops_roles": "Strategy & Operations Manager, In-person; Director of Revenue Strategy & Planning; Sr. Revenue Strategy & Planning Manager",
   "hiring_trend": "~329 staff (Tracxn est.); 22,000+ providers in network",
   "headcount": "~330",
   "latest_news": "Promoted Manoj Sivakumar to CTO; launched Rula CARES AI ethics council",
@@ -547,8 +547,8 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Rula-Reviews-E4563452.htm",
   "traction": "Est. $471M annualized gross revenue 2024, +100% YoY (Sacra)",
   "red_flags": "",
-  "score": "2.75",
-  "zone": "Steady",
+  "score": "3.75",
+  "zone": "Tempo",
   "keep": "yes",
   "is_new": true,
   "red_flags_sources": [],
@@ -569,7 +569,7 @@
    "California",
    "Remote (US)"
   ],
-  "last_checked": "Oct 16, 2026"
+  "last_checked": "Oct 23, 2026"
  },
  {
   "name": "Didero",
@@ -36433,6 +36433,55 @@
    "London",
    "Remote (US)",
    "Remote (Canada)"
+  ]
+ },
+ {
+  "name": "Thyme Care",
+  "slug": "thyme-care",
+  "site": "https://www.thymecare.com",
+  "careers_url": "https://jobs.ashbyhq.com/thyme-care",
+  "what_they_do": "Value-based cancer care navigation for health plans, employers and oncology practices",
+  "problem": "Cancer patients fall through the cracks between appointments, and plans pay for avoidable ER visits",
+  "industry": "Healthcare / value-based oncology care",
+  "stage": "Series E",
+  "last_round": "$125M+",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Morgan Health (with Humana, CVS Health Ventures)",
+  "total_open_roles": "52",
+  "ops_roles": "Product Operations Lead; Director, Partnership Operations; Principal Product Manager, Strategic Initiatives",
+  "hiring_trend": "Headcount ~150 (2023) to ~669 (Mar 2026), Revelio est.; 52 open roles, almost all remote",
+  "headcount": "~670",
+  "latest_news": "Raised $125M+ Series E at $2B+ and formed parent Thyme Companies",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.cnbc.com/2026/09/02/thyme-care-raises-125-million-cancer-startups-value-over-2-billion.html",
+  "glassdoor_rating": "3.1",
+  "glassdoor_reviews": "96",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Thyme-Care-Reviews-E7588126.htm",
+  "traction": "2025 revenue $125M+, 5x 2024; profitable; 10K to 135K patients since end of 2024",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.5",
+  "zone": "Sprint",
+  "status": "new",
+  "keep": "yes",
+  "is_new": true,
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Leading value-based oncology navigator: $7B+ oncology spend managed, 10.5M covered lives, valuation doubled to $2B+.",
+  "distance_sources": [
+   {
+    "label": "Tech Funding News: Thyme Care doubles valuation to $2B+ (Sep 2026)",
+    "url": "https://techfundingnews.com/thyme-care-doubles-valuation-to-2b-with-125m-raise-to-tackle-gaps-in-cancer-care/"
+   },
+   {
+    "label": "PR Newswire: Thyme Care closes $125M+ Series E (Sep 2026)",
+    "url": "https://www.prnewswire.com/news-releases/thyme-care-closes-125-million-series-e-establishes-thyme-companies-to-broaden-its-impact-across-the-oncology-ecosystem-302867835.html"
+   }
+  ],
+  "last_checked": "Oct 23, 2026",
+  "hiring_locations": [
+   "New York",
+   "Remote"
   ]
  }
 ]
