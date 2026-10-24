@@ -1,0 +1,102 @@
+{
+  "slug": "venice",
+  "checked": "Oct 24, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "Remote-first; incorporated in Sheridan, WY (president/CTO in Seattle)",
+  "headcount_est": {
+    "value": "~45",
+    "as_of": "Jul 2026",
+    "source": "http://geekwire.com/2026/private-ai-venice-ai-led-by-crypto-vet-erik-voorhees-and-seattles-jesse-proudman-raises-65m"
+  },
+  "leadership": [
+    {
+      "name": "Erik Voorhees",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://geekwire.com/2026/private-ai-venice-ai-led-by-crypto-vet-erik-voorhees-and-seattles-jesse-proudman-raises-65m"
+    },
+    {
+      "name": "Jesse Proudman",
+      "title": "Co-founder, President & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://geekwire.com/2026/private-ai-venice-ai-led-by-crypto-vet-erik-voorhees-and-seattles-jesse-proudman-raises-65m"
+    },
+    {
+      "name": "Jonathan Shapiro",
+      "title": "Head of Strategy",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://geekwire.com/2026/private-ai-venice-ai-led-by-crypto-vet-erik-voorhees-and-seattles-jesse-proudman-raises-65m"
+    },
+    {
+      "name": "Johanna Tseng",
+      "title": "VP of Business Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://geekwire.com/2026/private-ai-venice-ai-led-by-crypto-vet-erik-voorhees-and-seattles-jesse-proudman-raises-65m"
+    },
+    {
+      "name": "Austin Virts",
+      "title": "VP of Marketing",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://geekwire.com/2026/private-ai-venice-ai-led-by-crypto-vet-erik-voorhees-and-seattles-jesse-proudman-raises-65m"
+    },
+    {
+      "name": "Tim Shakarian",
+      "title": "Head of Engineering",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://geekwire.com/2026/private-ai-venice-ai-led-by-crypto-vet-erik-voorhees-and-seattles-jesse-proudman-raises-65m"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-07",
+      "amount": "$65M",
+      "valuation": "$1B",
+      "lead": "Dragonfly",
+      "source": "https://venice.ai/blog/venice-raises-65-million-series-a"
+    }
+  ],
+  "total_raised": "$65M (self-funded before Jul 2026)",
+  "revenue_est": {
+    "value": "$100M annualized revenue",
+    "as_of": "Aug 2026",
+    "basis": "company-stated",
+    "source": "https://cryptobriefing.com/venice-ai-100m-annualized-revenue/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Passes 5 million users",
+      "url": "https://linkedin.com/company/veniceai"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Crosses $100M annualized revenue, up from $70M a month earlier",
+      "url": "https://cryptobriefing.com/venice-ai-100m-annualized-revenue/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Raises $65M Series A led by Dragonfly at $1B valuation, first outside capital",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/"
+    },
+    {
+      "date": "2025-01",
+      "headline": "Launches VVV token; insider-dumping allegations follow",
+      "url": "https://news.bitcoin.com/erik-voorheess-venice-token-faces-pump-and-dump-allegations"
+    }
+  ],
+  "competitors": [
+    "ChatGPT",
+    "Grok",
+    "Perplexity",
+    "OpenRouter",
+    "Janitor AI"
+  ]
+}

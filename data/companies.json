@@ -37233,5 +37233,66 @@
    "USA East",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Venice",
+  "slug": "venice",
+  "site": "https://venice.ai",
+  "careers_url": "https://job-boards.greenhouse.io/veniceai",
+  "what_they_do": "Private, uncensored AI app and API giving access to 200+ text, image and video models",
+  "problem": "People and developers want strong AI without their prompts being logged, stored or filtered",
+  "industry": "Consumer AI / private AI platform & API",
+  "stage": "Series A",
+  "last_round": "$65M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Dragonfly",
+  "total_open_roles": "10",
+  "ops_roles": "Open Application - Business Operations",
+  "hiring_trend": "Headcount ~15 → ~45 in 12 mo (GeekWire, Jul 2026); 10 listings, 5 are general open applications",
+  "headcount": "~36-45",
+  "latest_news": "Crossed $100M annualized revenue run-rate, up from $70M a month earlier",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://cryptobriefing.com/venice-ai-100m-annualized-revenue/",
+  "traction": "$100M annualized revenue (Aug 2026), from ~$14M in 7 months; profitable; 5M users",
+  "red_flags": "Jan-Feb 2025 VVV token launch hit insider-dumping allegations (~$10M sold; token fell ~50%). Also flagged by security researchers as popular with hackers due to no content filters (May 2025).",
+  "red_flags_sources": [
+   {
+    "label": "CoinDesk via Yahoo: VVV drops 50% on insider-trading concerns (Jan 2025)",
+    "url": "https://sg.finance.yahoo.com/news/venice-ai-vvv-drops-50-070116525.html"
+   },
+   {
+    "label": "Bitcoin.com: Venice token faces pump-and-dump allegations (Feb 2025)",
+    "url": "https://news.bitcoin.com/erik-voorheess-venice-token-faces-pump-and-dump-allegations"
+   },
+   {
+    "label": "Resilience Forward: Certo warns Venice.ai used for hacking (May 2025)",
+    "url": "https://resilienceforward.com/warning-issued-about-the-capabilities-of-venice-ai-to-support-hacking/"
+   }
+  ],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 24, 2026",
+  "engine": "None yet",
+  "distance": "10K",
+  "distance_why": "Privacy and no-filter positioning is a brand, not a moat: it resells open and third-party models that rivals can also host, and depends on app stores, payment rails and model suppliers that may restrict uncensored content; GPU build-out could add scale later.",
+  "distance_sources": [
+   {
+    "label": "GeekWire: Venice raises $65M, plans own data centers (Jul 2026)",
+    "url": "http://geekwire.com/2026/private-ai-venice-ai-led-by-crypto-vet-erik-voorhees-and-seattles-jesse-proudman-raises-65m"
+   },
+   {
+    "label": "Sacra: Venice AI deepfake and platform risk",
+    "url": "https://sacra.com/chat/h/cb081929-4ea2-4ebf-9f6f-e4ada5c7c1ae/"
+   }
+  ],
+  "hiring_locations": [
+   "Remote"
+  ]
  }
 ]

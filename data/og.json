@@ -3509,6 +3509,12 @@
   "type": "image/png",
   "checked": "2026-10-20"
  },
+ "venice": {
+  "url": "https://venice.ai/social.webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-10-24"
+ },
  "venn": {
   "url": "https://venn.city/media/og.jpg",
   "kind": "og",
