@@ -1,0 +1,139 @@
+{
+  "slug": "tomorrow-io",
+  "checked": "Oct 24, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "Boston, MA",
+  "headcount_est": {
+    "value": "~220-240",
+    "as_of": "Oct 2026",
+    "source": "https://unifygtm.com/insights/headcount/tomorrow-io"
+  },
+  "leadership": [
+    {
+      "name": "Shimon Elkabetz",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/shimonelkabetz",
+      "source": "https://www.tomorrow.io/company"
+    },
+    {
+      "name": "Rei Goffer",
+      "title": "Co-founder & Chief Strategy Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.tomorrow.io/company"
+    },
+    {
+      "name": "Itai Zlotnik",
+      "title": "Co-founder & Chief Customer Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.tomorrow.io/company"
+    },
+    {
+      "name": "Leigha Kemmett",
+      "title": "CFO & COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.tomorrow.io/company"
+    },
+    {
+      "name": "Osnat Barak",
+      "title": "Chief of People & Culture",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.tomorrow.io/company"
+    },
+    {
+      "name": "Effie Arditi",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theorg.com/org/tomorrow-io/teams/leadership-team"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series F (extension)",
+      "date": "2026-05",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Pitango (with Harel Insurance)",
+      "source": "https://www.prnewswire.com/news-releases/tomorrowio-expands-investment-from-pitango-and-harel-insurance-increasing-series-f-to-210m-302774218.html"
+    },
+    {
+      "round": "Series F",
+      "date": "2026-02",
+      "amount": "$175M",
+      "valuation": "$1B+",
+      "lead": "Stonecourt Capital, HarbourVest Partners",
+      "source": "https://www.tomorrow.io/blog/tomorrow-io-announces-175m-financing-to-deploy-deepsky-the-worlds-first-ai-native-weather-satellite-constellation"
+    },
+    {
+      "round": "Series E (extension)",
+      "date": "2023-09",
+      "amount": "$22M",
+      "valuation": null,
+      "lead": "Lumir, MoreTech Ventures, Shavit Capital, SDF",
+      "source": "https://www.tomorrow.io/blog/tomorrow-io-expands-series-e-funding/"
+    },
+    {
+      "round": "Series E",
+      "date": "2023-06",
+      "amount": "$87M",
+      "valuation": null,
+      "lead": "Activate Capital",
+      "source": "https://en.wikipedia.org/wiki/Tomorrow.io"
+    },
+    {
+      "round": "Series D",
+      "date": "2021-03",
+      "amount": "$77M",
+      "valuation": null,
+      "lead": "Stonecourt Capital",
+      "source": "https://tracxn.com/d/companies/tomorrowio/__-tDrM-RuRP7OvxItXKT8nqt66HCTzMaf_QxoUv6fRPY/funding-and-investors"
+    }
+  ],
+  "total_raised": "~$470-510M",
+  "revenue_est": {
+    "value": "$100M+ ARR",
+    "as_of": "Mar 2026",
+    "basis": "company-stated",
+    "source": "https://www.linkedin.com/posts/shimonelkabetz_glad-to-finally-share-tomorrowio-recently-activity-7444419200816766977-GEik"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Unveils full instrument architecture for DeepSky early-warning satellite constellation",
+      "url": "https://www.prnewswire.com/news/tomorrow.io"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Pitango and Harel add $35M, taking Series F to $210M",
+      "url": "https://www.prnewswire.com/news-releases/tomorrowio-expands-investment-from-pitango-and-harel-insurance-increasing-series-f-to-210m-302774218.html"
+    },
+    {
+      "date": "2026-03",
+      "headline": "CEO says Tomorrow.io crossed $100M ARR, with line of sight to $200M",
+      "url": "https://www.linkedin.com/posts/shimonelkabetz_glad-to-finally-share-tomorrowio-recently-activity-7444419200816766977-GEik"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Launches Altitude aviation platform; Lufthansa Group deploys it network-wide",
+      "url": "https://www.tomorrow.io/all-press-releases"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Raises $175M Series F at $1B+ valuation to deploy DeepSky",
+      "url": "https://www.bizjournals.com/boston/news/2026/02/03/tomorrow-deepsky-satellites.html"
+    }
+  ],
+  "competitors": [
+    "DTN",
+    "The Weather Company",
+    "AccuWeather",
+    "Spire Global",
+    "WindBorne Systems"
+  ]
+}

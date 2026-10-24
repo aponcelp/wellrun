@@ -1,0 +1,113 @@
+{
+  "slug": "starburst",
+  "checked": "Oct 24, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "Boston, MA",
+  "headcount_est": {
+    "value": "~440-530",
+    "as_of": "2026",
+    "source": "https://www.reveliolabs.com/companies/starburst-data/employees"
+  },
+  "leadership": [
+    {
+      "name": "Justin Borgman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.starburst.io/blog/why-the-future-of-ai-relies-on-context-conversation/"
+    },
+    {
+      "name": "Kerman Lau",
+      "title": "Chief Financial Officer (from Oct 2026; ex-Moveworks CFO)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.starburst.io/press-releases/starburst-appoints-kerman-lau-cfo/"
+    },
+    {
+      "name": "Paras Malhotra",
+      "title": "Chief Information Security Officer (from Jun 2026)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260603336815/en/Starburst-Appoints-Paras-Malhotra-as-Chief-Information-Security-Officer"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2019-11",
+      "amount": "$22M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://www.starburst.io/press-releases/enterprise-presto-company-starburst-data-announces-42-million-series-b"
+    },
+    {
+      "round": "Series B",
+      "date": "2020-06",
+      "amount": "$42M",
+      "valuation": null,
+      "lead": "Coatue",
+      "source": "https://www.starburst.io/press-releases/enterprise-presto-company-starburst-data-announces-42-million-series-b"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-01",
+      "amount": "$100M",
+      "valuation": "$1.2B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.starburst.io/press-releases/starburst-secures-100m-series-c-financing-to-turn-data-analytics-on-its-head-led-by-andreessen-horowitz"
+    },
+    {
+      "round": "Series D",
+      "date": "2022-02",
+      "amount": "$250M",
+      "valuation": "$3.35B",
+      "lead": "Alkeon Capital",
+      "source": "https://www.starburst.io/press-releases/starburst-raises-250-million-to-lead-the-market-shift-to-faster-analytics-on-decentralized-data"
+    },
+    {
+      "round": "Strategic investment",
+      "date": "2025-05",
+      "amount": null,
+      "valuation": null,
+      "lead": "Citi (Markets Innovation & Investments)",
+      "source": "https://www.starburst.io/press-releases/starburst-announces-strategic-investment-from-citi/"
+    }
+  ],
+  "total_raised": "$414M (plus undisclosed Citi strategic investment)",
+  "revenue_est": {
+    "value": "$100M+ ARR",
+    "as_of": "Dec 2025",
+    "basis": "company-stated",
+    "source": "https://www.starburst.io/press-releases/starburst-crosses-100m-arr-as-enterprises-move-from-bi-to-ai"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Appoints former Moveworks CFO Kerman Lau as CFO",
+      "url": "https://www.starburst.io/press-releases/starburst-appoints-kerman-lau-cfo/"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Launches Starburst Enterprise Intelligence Platform and Aida AI assistant",
+      "url": "https://www.techtarget.com/data-technologies/news/366643641/New-Starburst-platform-extends-AI-to-distributed-data"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Crosses $100M ARR with ~40% YoY growth and $20M AI run rate; open to acquisitions",
+      "url": "https://www.starburst.io/press-releases/starburst-crosses-100m-arr-as-enterprises-move-from-bi-to-ai"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Strategic investment from Citi",
+      "url": "https://www.starburst.io/press-releases/starburst-announces-strategic-investment-from-citi/"
+    }
+  ],
+  "competitors": [
+    "Databricks",
+    "Snowflake",
+    "Dremio (SAP)",
+    "Google BigQuery",
+    "Amazon Athena"
+  ]
+}

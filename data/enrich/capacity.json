@@ -1,0 +1,138 @@
+{
+  "slug": "capacity",
+  "checked": "Oct 24, 2026",
+  "depth": "light",
+  "founded": 2017,
+  "hq": "St. Louis (University City), MO",
+  "headcount_est": {
+    "value": "~350-700",
+    "as_of": "2026",
+    "source": "https://research.crustdata.com/company/capacity"
+  },
+  "leadership": [
+    {
+      "name": "David Karandish",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/davidkarandish",
+      "source": "https://www.prnewswire.com/news-releases/capacity-crosses-100m-arr-emerging-as-a-leading-agentic-ai-platform-302803718.html"
+    },
+    {
+      "name": "Chris Sims",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://capacity.com/platform"
+    },
+    {
+      "name": "Karaline Venezia",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.bizjournals.com/stlouis/inno/stories/fundings/2024/10/17/capacity-acquires-3-companies-26m-series-d.html"
+    },
+    {
+      "name": "Tim Yeadon",
+      "title": "Chief Operating Officer (as of Oct 2024)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.bizjournals.com/stlouis/inno/stories/fundings/2024/10/17/capacity-acquires-3-companies-26m-series-d.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2018-06",
+      "amount": "$8.4M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.bizjournals.com/stlouis/inno/stories/fundings/2024/10/17/capacity-acquires-3-companies-26m-series-d.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2019-08",
+      "amount": "$13.2M",
+      "valuation": null,
+      "lead": "~70 individual investors",
+      "source": "https://www.businessinsider.com/capacity-employee-pitch-competition-david-karandish-answers-ceo-2019-8"
+    },
+    {
+      "round": "Series C",
+      "date": "2020-10 to 2022-01",
+      "amount": "$38M",
+      "valuation": null,
+      "lead": "Angels, customers, Midwest investors (Rice Park Capital)",
+      "source": "https://www.prnewswire.com/news-releases/capacity-closes-series-c-funding-at-38m-surpassing-more-than-62m-in-total-capital-raised-301463589.html"
+    },
+    {
+      "round": "Series D",
+      "date": "2024-10 to 2025-08",
+      "amount": "$42.6M",
+      "valuation": null,
+      "lead": "TVC Capital, Toloka.vc",
+      "source": "https://www.prnewswire.com/news-releases/capacity-secures-92m-in-investments-to-supercharge-ai-support-platform-for-contact-centers-302523441.html"
+    },
+    {
+      "round": "Credit/investment",
+      "date": "2025-08",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Chicago Atlantic",
+      "source": "https://www.prnewswire.com/news-releases/capacity-secures-92m-in-investments-to-supercharge-ai-support-platform-for-contact-centers-302523441.html"
+    },
+    {
+      "round": "Series E",
+      "date": "2026-09",
+      "amount": "$54M+",
+      "valuation": null,
+      "lead": "Kathy Ireland",
+      "source": "https://capacity.com/press/capacity-raises-over-50m-in-series-e-to-expand-its-unified-ai-native-customer-experience-platform"
+    }
+  ],
+  "total_raised": "$159M+ (company-stated, equity and debt)",
+  "revenue_est": {
+    "value": "$100M+ ARR",
+    "as_of": "Jun 2026",
+    "basis": "company-stated",
+    "source": "https://www.prnewswire.com/news-releases/capacity-crosses-100m-arr-emerging-as-a-leading-agentic-ai-platform-302803718.html"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Raises $54M+ Series E; total raised over $159M",
+      "url": "https://capacity.com/press/capacity-raises-over-50m-in-series-e-to-expand-its-unified-ai-native-customer-experience-platform"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Ranked No. 432 on Inc. 5000 (813% three-year revenue growth)",
+      "url": "https://capacity.com/press/capacity-named-no-432-on-the-2026-inc-5000-list-following-100m-arr-milestone-and-continued-ai-growth"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Crosses $100M ARR, 20,000+ customers",
+      "url": "https://www.prnewswire.com/news-releases/capacity-crosses-100m-arr-emerging-as-a-leading-agentic-ai-platform-302803718.html"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Closes acquisition of Chilean WhatsApp CX startup Chattigo (~$60M est.)",
+      "url": "https://www.enderlinindependent.com/chattigo-sells-us-based-capacity-in-a-us60-million-exit-after-a-decade-automating-customer-service-in-latin-america/"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Acquires Creovai (agent assist / auto-QA), 14th acquisition",
+      "url": "https://www.thedeal.com/private-equity/tvc-backed-capacity-sees-white-space-in-customer-experience-automation"
+    },
+    {
+      "date": "2025-08",
+      "headline": "$92M in new capital; acquires Call Criteria and Verbio; profitable at $60M ARR",
+      "url": "https://capacity.com/blog/capacity-acquires-call-criteria-and-verbio-technologies/"
+    }
+  ],
+  "competitors": [
+    "Sierra",
+    "Decagon",
+    "NICE",
+    "Genesys",
+    "Ada"
+  ]
+}

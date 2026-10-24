@@ -1,0 +1,103 @@
+{
+  "slug": "controlup",
+  "checked": "Oct 24, 2026",
+  "depth": "light",
+  "founded": 2008,
+  "hq": "San Francisco, CA (R&D in Rishon LeZion, Israel; US office in Fort Lauderdale, FL)",
+  "headcount_est": {
+    "value": "~420-500",
+    "as_of": "Mar 2026",
+    "source": "https://www.reveliolabs.com/companies/controlup/employees"
+  },
+  "leadership": [
+    {
+      "name": "Jed Ayres",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.crn.com/news/ai/2026/controlup-hits-100m-in-recurring-revenue-achieves-1b-unicorn-valuation"
+    },
+    {
+      "name": "Asaf Ganot",
+      "title": "Co-founder; CEO of ControlUp Labs",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.controlup.com/press/controlup-named-a-leader-in-the-2025-gartner-magic-quadrant"
+    },
+    {
+      "name": "Yoni Avital",
+      "title": "Co-founder & Chief Evangelist",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://channelvisionmag.com/controlup-names-new-coo/"
+    },
+    {
+      "name": "Mark Schwartz",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://channelvisionmag.com/controlup-names-new-coo/"
+    },
+    {
+      "name": "Gadi Feldman",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://markets.businessinsider.com/news/stocks/controlup-expands-executive-leadership-team-to-power-next-phase-of-global-growth-1035790048"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series D",
+      "date": "2021-11",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": "K1 Investment Management, JVP",
+      "source": "https://www.controlup.com/press/pr-controlup-a-global-leader-in-digital-employee-experience-management-raises-100-million-co-led-by-k1-and-jvp"
+    },
+    {
+      "round": "Undisclosed",
+      "date": "2020-11",
+      "amount": "$27M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://fundediq.co/controlup-controlup-com-funding"
+    }
+  ],
+  "total_raised": "~$140M",
+  "revenue_est": {
+    "value": "$100M+ ARR",
+    "as_of": "Apr 2026",
+    "basis": "company-stated",
+    "source": "https://www.controlup.com/press/controlup-hits-100m-arr"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launches Pulse AI Insights",
+      "url": "https://www.controlup.com/press/controlup-introduces-pulse-ai-insights-to-turn-it-data-into-prioritized-action/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Discloses Klue third-party incident affecting Salesforce business data",
+      "url": "https://www.controlup.com/blog/klue-incident/"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Surpasses $100M ARR; says valuation exceeds $1B (no new round announced)",
+      "url": "https://www.controlup.com/press/controlup-hits-100m-arr"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Acquires Unipath (AI security automation)",
+      "url": "https://www.controlup.com/press/controlup-expands-ai-leadership-with-unipath-acquisition/"
+    }
+  ],
+  "competitors": [
+    "Nexthink",
+    "Tanium",
+    "Omnissa",
+    "Lakeside Software",
+    "TeamViewer (1E)"
+  ]
+}

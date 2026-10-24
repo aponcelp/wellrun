@@ -1,0 +1,139 @@
+{
+  "slug": "horizon3-ai",
+  "checked": "Oct 24, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~550-645",
+    "as_of": "Oct 2026",
+    "source": "https://jobspipe.dev/hiring/horizon3.ai"
+  },
+  "leadership": [
+    {
+      "name": "Snehal Antani",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://horizon3.ai/news/press-release/horizon3-surpasses-100-million-arr"
+    },
+    {
+      "name": "Anthony Pillitiere",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://valueaddvc.com/blog/horizon3-ai-valuation-2026-2-billion-series-e-and-the-ai-vs-ai-cybersecurity-bet"
+    },
+    {
+      "name": "Holly Grey",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://fortune.com/2025/08/19/horizon3-ai-taps-veteran-cfo-cybersecurity-startup-bridging-military-intelligence-silicon-valley-scales-up/"
+    },
+    {
+      "name": "Ellen Sundra",
+      "title": "Chief Customer Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.theofficialboard.com/news/horizon3-ai"
+    },
+    {
+      "name": "Andres Botero",
+      "title": "Chief Marketing Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "http://sechub.in/tag/horizon3.ai/1"
+    },
+    {
+      "name": "Torie Runzel",
+      "title": "Chief People Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.inc.com/netta-jenkins/inside-the-company-where-executives-actually-want-to-stay/91328483"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series E",
+      "date": "2026-08",
+      "amount": "$250M",
+      "valuation": "$2B+",
+      "lead": "NightDragon, NEA",
+      "source": "https://horizon3.ai/news/press-release/horizon3-raises-250m-series-e-at-2b-valuation-to-lead-the-ai-vs-ai-cybersecurity-era"
+    },
+    {
+      "round": "Series D",
+      "date": "2025-06",
+      "amount": "$100M",
+      "valuation": "$650M",
+      "lead": "NEA",
+      "source": "https://www.businesswire.com/news/home/20250610254822/en/Horizon3.ai-Raises-%24100M-to-Cement-Leadership-in-Autonomous-Security"
+    },
+    {
+      "round": "Series C",
+      "date": "2023-08",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "Craft Ventures",
+      "source": "https://techcrunch.com/2023/08/08/horizon3-secures-40m-to-expand-its-pen-testing-platform/"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-10",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "SignalFire",
+      "source": "https://spyvc.com/companies/horizon3"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-06",
+      "amount": "$8.5M",
+      "valuation": null,
+      "lead": "SignalFire",
+      "source": "https://spyvc.com/companies/horizon3"
+    }
+  ],
+  "total_raised": "~$428M",
+  "revenue_est": {
+    "value": "$100M+ ARR",
+    "as_of": "Oct 2026",
+    "basis": "company-stated",
+    "source": "https://horizon3.ai/news/press-release/horizon3-surpasses-100-million-arr"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Surpasses $100M ARR; 120%+ YoY growth, 125% NDR, 95% GDR",
+      "url": "https://horizon3.ai/news/press-release/horizon3-surpasses-100-million-arr"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Promotes Keith Poyser to GM EMEA after 260%+ regional revenue growth; Ellen Sundra named Chief Customer Officer",
+      "url": "https://horizon3.ai/news/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Raises $250M Series E at $2B+ valuation, co-led by NightDragon and NEA",
+      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Reports 102% ARR growth for FY2026 and 5,200+ customers",
+      "url": "https://horizon3.ai/news/press-release/horizon3-arr-growth-nodezero/"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Raises $100M Series D led by NEA at $650M valuation",
+      "url": "https://www.businesswire.com/news/home/20250610254822/en/Horizon3.ai-Raises-%24100M-to-Cement-Leadership-in-Autonomous-Security"
+    }
+  ],
+  "competitors": [
+    "Pentera",
+    "NetSPI",
+    "Cobalt",
+    "XBOW",
+    "Picus Security"
+  ]
+}

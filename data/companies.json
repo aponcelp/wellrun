@@ -36719,5 +36719,519 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Hightouch",
+  "slug": "hightouch",
+  "site": "https://hightouch.com",
+  "careers_url": "https://jobs.ashbyhq.com/hightouch-inc",
+  "what_they_do": "Composable CDP and AI agents that turn warehouse customer data into marketing campaigns and ads",
+  "problem": "Marketers can't use their own customer data or ship personalized campaigns without waiting on data engineers",
+  "industry": "Marketing tech / customer data platform",
+  "stage": "Series D",
+  "last_round": "$150M",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "Goldman Sachs Alternatives, Bain Capital Ventures",
+  "total_open_roles": "88",
+  "ops_roles": "Deployment Architect; Forward Deployed Product Manager; Manager, Strategy Consultants (Agentic CDP); Senior Associate, Strategic Finance",
+  "hiring_trend": "Headcount ~250 (Sep 2025) → ~380 (Apr 2026, TechCrunch) → ~658 on LinkedIn; 88 open roles",
+  "headcount": "~380-660",
+  "latest_news": "Acquired Strata, an AI no-code integration startup; Strata CEO joins to lead revenue programs",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://hightouch.com/blog/hightouch-acquires-strata",
+  "traction": "$100M ARR in Apr 2026, up from $85M end-2025; grew >100% in each of past two years",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.5",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "102",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Hightouch-Reviews-E5939756.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 24, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Gartner MQ and IDC MarketScape CDP Leader with broad enterprise adoption and an AI agent layer on top of customers' warehouses; still competes with Salesforce Data Cloud, Adobe and Twilio Segment, and is not profitable by design through 2027.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Hightouch reaches $100M ARR (Apr 2026)",
+    "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai"
+   },
+   {
+    "label": "Hightouch: Raising $150M at $2.75B (Apr 2026)",
+    "url": "https://hightouch.com/blog/hightouch-funding-series-d"
+   },
+   {
+    "label": "WSJ: Goldman Sachs and Bain lead investment; no profit target this year or next (Apr 2026)",
+    "url": "https://www.wsj.com/cmo-today/goldman-sachs-and-bain-lead-investment-in-ai-marketing-startup-871266b8"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Denver",
+   "Remote (North America)",
+   "Remote (Europe)"
+  ]
+ },
+ {
+  "name": "Tive",
+  "slug": "tive",
+  "site": "https://www.tive.com",
+  "careers_url": "https://ats.rippling.com/tive-careers/jobs",
+  "what_they_do": "Cellular shipment trackers plus cloud platform for real-time location and condition monitoring",
+  "problem": "Shippers can't see where high-value or perishable cargo is, or if it's damaged or stolen, until too late",
+  "industry": "Supply chain visibility / IoT logistics",
+  "stage": "Series C (C1)",
+  "last_round": "$20M",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "Lightsmith Group (PE growth)",
+  "total_open_roles": "24",
+  "ops_roles": "Head of Reverse Logistics; Supply Planning and Logistics Manager; Refurb Operations Associate",
+  "hiring_trend": "Headcount ~243 (Jan 2025) → ~313 on LinkedIn (Oct 2026); WTTJ shows -7% in 12 mo (conflicting); 24 open roles",
+  "headcount": "~260-313",
+  "latest_news": "Reported record H1 2026: $100M ARR, 55% YoY revenue growth, 330+ new customers",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.tive.com/press-release/tive-caps-record-setting-first-half-of-2026-with-100-million-arr-milestone-20-million-funding-round",
+  "traction": "$100M booked ARR (May 2026), revenue +49-55% YoY; 1,400+ customers",
+  "red_flags": "Repeated layoff rounds: Glassdoor reviews (Jan and Jun 2025) describe six rounds of layoffs, including most of the female leadership team and staff on leave; Welcome to the Jungle shows -7% headcount in 12 months (LinkedIn shows growth, so trend is mixed).",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor: Tive layoff reviews (Jan 2025 'Trust no one', Jun 2025)",
+    "url": "https://www.glassdoor.com/Reviews/Tive-layoff-Reviews-EI_IE2391361.0,4_KH5,11.htm"
+   },
+   {
+    "label": "Glassdoor: Tive Boston reviews",
+    "url": "https://www.glassdoor.com/Reviews/Tive-Boston-Reviews-EI_IE2391361.0,4_IL.5,11_IM109.htm"
+   },
+   {
+    "label": "Teardown: Tive deep dive (layoff and leadership-turnover reviews)",
+    "url": "https://www.teardown.ai/companies/tive"
+   },
+   {
+    "label": "Welcome to the Jungle: Tive (-7% employee growth in 12 months)",
+    "url": "https://app.welcometothejungle.com/companies/Tive"
+   }
+  ],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "43",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Tive-Reviews-E2391361.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 24, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "Leading independent real-time tracker vendor at ~$100M ARR with 4.8M trackers shipped and 60% of new ARR from expansion; but trackers risk commoditizing (Roambee, Controlant, Sensitech) and visibility platforms like project44 and FourKites sit above it.",
+  "distance_sources": [
+   {
+    "label": "Tive: H1 2026 record, $100M ARR (Sep 2026)",
+    "url": "https://www.tive.com/press-release/tive-caps-record-setting-first-half-of-2026-with-100-million-arr-milestone-20-million-funding-round"
+   },
+   {
+    "label": "Latka: Tive CEO interview, $100M run rate, 60% of new ARR from expansion",
+    "url": "https://getlatka.com/companies/tive.com/interviews/tive-krenar-komoni-2026"
+   },
+   {
+    "label": "Teardown: Tive commoditization critique",
+    "url": "https://www.teardown.ai/companies/tive"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Luxury Presence",
+  "slug": "luxury-presence",
+  "site": "https://www.luxurypresence.com",
+  "careers_url": "https://jobs.lever.co/luxurypresence",
+  "what_they_do": "Websites, AI CRM, ads and marketing platform for top real estate agents and brokerages",
+  "problem": "Top agents juggle disconnected websites, CRMs and marketing tools and miss deals hidden in their networks",
+  "industry": "Real estate tech / vertical SaaS",
+  "stage": "Series C",
+  "last_round": "$37M ($22M equity + $15M debt)",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "Bessemer Venture Partners",
+  "total_open_roles": "25",
+  "ops_roles": "Manager, Onboarding; Director, Client Success; Senior Financial Analyst, GTM; Staff Product Manager, Search and AI Visibility",
+  "hiring_trend": "Revelio ~737 (Q1 2025) → ~842 (Q1 2026), ~906 on LinkedIn; postings +31% in 2026; 25 open roles",
+  "headcount": "~840-900",
+  "latest_news": "Crossed $100M ARR; serves 100,000+ agents across nearly 20,000 businesses",
+  "latest_news_date": "May 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20260527265173/en/Luxury-Presence-Reaches-%24100-Million-Annual-Recurring-Revenue-as-Top-Producing-Agents-Unify-Their-Businesses-on-One-AI-Growth-Platform",
+  "traction": "$100M ARR (May 2026), from $90M end-2025 (~50% YoY in 2025); ~20,000 customers",
+  "red_flags": "Unannounced 2025 layoff of roughly 40-47 staff, per two Glassdoor reviews (Oct 2025, Aug 2026) describing cuts by email and 'multiple restructures'; not press-reported. COO Phi Vo left Mar 2025.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor: Luxury Presence layoff reviews ('No care for employees', Oct 2025)",
+    "url": "https://www.glassdoor.com/Reviews/Luxury-Presence-layoff-Reviews-EI_IE2364401.0,15_KH16,22.htm"
+   },
+   {
+    "label": "Glassdoor review: 'laid off 47 people by email' (Aug 2026)",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Luxury-Presence-E2364401-RVW105301316.htm"
+   },
+   {
+    "label": "Revelio Labs: headcount -1.2% in Q1 2025",
+    "url": "https://www.reveliolabs.com/companies/luxury-presence/employees"
+   },
+   {
+    "label": "LinkedIn: COO Phi Vo steps away (Mar 2025)",
+    "url": "https://www.linkedin.com/posts/phivo_after-six-incredible-years-im-stepping-activity-7304878706093670400-KXMP"
+   }
+  ],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.5",
+  "glassdoor_reviews": "273",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Luxury-Presence-Reviews-E2364401.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 24, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Leading website-and-marketing platform for luxury and top-producing agents (30% of RealTrends top agents) with a second product line (Presence CRM) and near profitability; crowded proptech field (Lofty, kvCORE, Follow Up Boss) and housing-cycle exposure keep it short of Marathon.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Luxury Presence reaches $100M ARR (May 2026)",
+    "url": "https://www.businesswire.com/news/home/20260527265173/en/Luxury-Presence-Reaches-%24100-Million-Annual-Recurring-Revenue-as-Top-Producing-Agents-Unify-Their-Businesses-on-One-AI-Growth-Platform"
+   },
+   {
+    "label": "Crunchbase News: $22M Series C, nearly profitable (Jan 2026)",
+    "url": "https://news.crunchbase.com/real-estate-property-tech/luxury-presence-real-agent-platform-funding-jade-mills/"
+   }
+  ],
+  "hiring_locations": [
+   "Austin",
+   "Scottsdale",
+   "Phoenix",
+   "Remote (Canada)",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Horizon3.ai",
+  "slug": "horizon3-ai",
+  "site": "https://horizon3.ai",
+  "careers_url": "https://jobs.ashbyhq.com/horizon3ai",
+  "what_they_do": "Autonomous AI pentesting platform (NodeZero) that safely attacks your own production network",
+  "problem": "Security teams can't afford frequent manual pentests, so exploitable attack paths stay hidden between annual audits",
+  "industry": "Cybersecurity / autonomous pentesting & exposure management",
+  "stage": "Series E",
+  "last_round": "$250M",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "NightDragon, NEA",
+  "total_open_roles": "151",
+  "ops_roles": "Senior Revenue Operations Program Manager; Customer Support Programs & Supportability Lead; Senior Field Enablement Manager, Commercial; Senior Customer Onboarding Engineer",
+  "hiring_trend": "Headcount ~376 → ~457 Q4 2025 to Q1 2026 (Revelio), ~645 on LinkedIn (+118% YoY); 151 open roles, postings accelerated Sep 2026",
+  "headcount": "~550-670",
+  "latest_news": "Surpassed $100M ARR with 120%+ YoY growth, 125% NDR",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://horizon3.ai/news/press-release/horizon3-surpasses-100-million-arr",
+  "traction": "$100M+ ARR (Oct 2026), +120% YoY; 125% NDR, 95% GDR; 7,000+ customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.5",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.9",
+  "glassdoor_reviews": "83",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Horizon3-ai-Reviews-E6825976.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 24, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "A category leader in autonomous pentesting with real proof (125% NDR, 7,000+ customers, FedRAMP High) and a data loop from 350,000+ production tests; shares the market with Pentera and a wave of AI-hacker startups, and frontier labs shipping offensive AI is a live clone risk.",
+  "distance_sources": [
+   {
+    "label": "Horizon3: Surpasses $100M ARR, 125% NDR (Oct 2026)",
+    "url": "https://horizon3.ai/news/press-release/horizon3-surpasses-100-million-arr"
+   },
+   {
+    "label": "TechCrunch: Horizon3 $250M Series E at $2B (Aug 2026)",
+    "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate"
+   }
+  ],
+  "hiring_locations": [
+   "Amsterdam",
+   "Washington, DC",
+   "New York",
+   "Remote (US)",
+   "Remote (Singapore)"
+  ]
+ },
+ {
+  "name": "Tomorrow.io",
+  "slug": "tomorrow-io",
+  "site": "https://www.tomorrow.io",
+  "careers_url": "https://boards.greenhouse.io/tomorrow",
+  "what_they_do": "Weather intelligence platform and API fed by its own radar and sounder satellites",
+  "problem": "Airlines, logistics and government ops lose money and safety to weather they can't predict or act on in time",
+  "industry": "Weather intelligence / space-based sensing",
+  "stage": "Series F",
+  "last_round": "$175M",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "Stonecourt Capital, HarbourVest Partners",
+  "total_open_roles": "18",
+  "ops_roles": "Sr. Manager, US Government Programs; Forward Deployed Engineer (Defense); Field Operations Engineer",
+  "hiring_trend": "Flat: ~207 → ~222 staff Dec 2024 to Dec 2025 (GetLatka), ~228 on LinkedIn; open roles 18, down ~10% vs Sep",
+  "headcount": "~220-240",
+  "latest_news": "Unveiled full instrument architecture for DeepSky early-warning satellite constellation",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.prnewswire.com/news/tomorrow.io",
+  "traction": "Crossed $100M ARR (Mar 2026, company-stated), up from $19M sales in 2021",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "138",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Tomorrow-io-Reviews-E1693585.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 24, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Proprietary space radar and sounder data (13-satellite constellation) behind a $100M ARR platform used by Lufthansa, the US Air Force and Palantir is a real edge; but DTN, The Weather Company and AccuWeather are larger, satellites mean heavy capex (burn risk), and free AI forecast models from Google and NVIDIA pressure the software layer.",
+  "distance_sources": [
+   {
+    "label": "Tomorrow.io: $175M Series F to deploy DeepSky (Feb 2026)",
+    "url": "https://www.tomorrow.io/blog/tomorrow-io-announces-175m-financing-to-deploy-deepsky-the-worlds-first-ai-native-weather-satellite-constellation"
+   },
+   {
+    "label": "Shimon Elkabetz (CEO): Tomorrow.io crossed $100M ARR (Mar 2026)",
+    "url": "https://www.linkedin.com/posts/shimonelkabetz_glad-to-finally-share-tomorrowio-recently-activity-7444419200816766977-GEik"
+   }
+  ],
+  "hiring_locations": [
+   "Golden",
+   "Boston",
+   "21 Ha'Arba'a St.",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Starburst",
+  "slug": "starburst",
+  "site": "https://www.starburst.io",
+  "careers_url": "https://job-boards.greenhouse.io/starburst",
+  "what_they_do": "Federated data access, analytics and AI platform built on open-source Trino and Iceberg",
+  "problem": "Enterprises can't query or feed AI with data scattered across clouds and on-prem systems without costly migrations",
+  "industry": "Data analytics / lakehouse platform",
+  "stage": "Series D",
+  "last_round": "$250M",
+  "last_round_date": "Feb 2022",
+  "lead_investors": "Alkeon Capital (Series D); Andreessen Horowitz (Series C)",
+  "total_open_roles": "35",
+  "ops_roles": "Technical Engagement Manager; VP, Professional Services",
+  "hiring_trend": "Flat: ~438 staff Mar 2026 vs ~425 in 2025 (+3% YoY), down from ~552 in 2023 (Revelio); postings -16% vs 2025",
+  "headcount": "~440-530",
+  "latest_news": "Appointed former Moveworks CFO Kerman Lau as CFO",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.starburst.io/press-releases/starburst-appoints-kerman-lau-cfo/",
+  "traction": "$100M+ ARR (2025), ~40% YoY growth, 130% net retention, $20M AI run rate",
+  "red_flags": "Secondary-market valuation ~$1B, about 69% below the $3.35B Series D (Oct 2026 estimate), with no priced round since Feb 2022; 2026 Glassdoor reviews describe repeated hire-then-let-go cycles (rating 3.4, 52% recommend) after 2023-24 layoffs.",
+  "red_flags_sources": [
+   {
+    "label": "TrueUp: Starburst latest secondary valuation $1.0B, down 69% from last round (Oct 2026)",
+    "url": "https://www.trueup.io/co/starburst"
+   },
+   {
+    "label": "Glassdoor: 'Think Twice before joining' review citing frequent let-gos (Aug 2026)",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Starburst-E2000441-RVW105345874.htm"
+   },
+   {
+    "label": "Revelio Labs: Starburst headcount 552 (2023) to 438 (2026)",
+    "url": "https://www.reveliolabs.com/companies/starburst-data/employees"
+   }
+  ],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.4",
+  "glassdoor_reviews": "165",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Starburst-Reviews-E2000441.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 24, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Sticky enterprise data layer with 130% net retention, but Databricks and Snowflake loom large.",
+  "distance_sources": [
+   {
+    "label": "InformatiqueNews: Starburst passes $100M ARR, 130% net retention (Feb 2026)",
+    "url": "https://www.informatiquenews.fr/starburst-franchit-les-100-millions-de-dollars-darr-et-accelere-dans-ia-dentreprise-109619"
+   },
+   {
+    "label": "Starburst: Crosses $100M ARR (Feb 2026)",
+    "url": "https://www.starburst.io/press-releases/starburst-crosses-100m-arr-as-enterprises-move-from-bi-to-ai"
+   }
+  ],
+  "hiring_locations": [
+   "Boston",
+   "Warsaw",
+   "London"
+  ]
+ },
+ {
+  "name": "Capacity",
+  "slug": "capacity",
+  "site": "https://capacity.com",
+  "careers_url": "https://ats.rippling.com/capacity/jobs",
+  "what_they_do": "Unified AI agents, agent assist, auto-QA and outbound campaigns for customer support teams",
+  "problem": "Support teams juggle several disconnected AI tools that give inconsistent answers and pile up costs",
+  "industry": "AI customer support / contact center automation",
+  "stage": "Series E",
+  "last_round": "$54M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Kathy Ireland (Series E); TVC Capital (Series D)",
+  "total_open_roles": "3",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~180 (Oct 2024) -> ~700 on LinkedIn (Sep 2026), largely via 14+ acquisitions; only 3 public openings, all outside US",
+  "headcount": "~350-700",
+  "latest_news": "Raised $54M+ Series E, total raised over $159M",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://capacity.com/press/capacity-raises-over-50m-in-series-e-to-expand-its-unified-ai-native-customer-experience-platform",
+  "traction": "$100M+ ARR (Jun 2026), up from $5M in 3.5 years; 20,000+ customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "74",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Capacity-Reviews-E1598065.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 24, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Broad platform with 20,000 customers, but acquisition-stitched in a crowded AI support market.",
+  "distance_sources": [
+   {
+    "label": "Capacity: Crosses $100M ARR (Jun 2026)",
+    "url": "https://www.prnewswire.com/news-releases/capacity-crosses-100m-arr-emerging-as-a-leading-agentic-ai-platform-302803718.html"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Kahua",
+  "slug": "kahua",
+  "site": "https://kahua.com",
+  "careers_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c68c602471018c6ec39f3516d5",
+  "what_they_do": "Construction program and project management platform for owners running large capital programs",
+  "problem": "Owners run multi-year capital programs across scattered systems, losing control of cost, risk and approvals",
+  "industry": "Construction tech / capital program management",
+  "stage": "PE growth (minority)",
+  "last_round": "~$250M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Bain Capital Tech Opportunities",
+  "total_open_roles": "5",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~200 → ~372 2023 to Mar 2026 (+86%, Revelio); postings +30% in 2026 vs 2025",
+  "headcount": "~372",
+  "latest_news": "Bain Capital minority growth investment at $1B+ valuation after $100M annualized revenue",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://kahua.com/news/kahua-secures-strategic-growth-investment-from-bain-capital-at-a-valuation-above-1-billion",
+  "traction": "$100M annualized revenue (Sep 2026); 2,500+ customers; $400B+ capital programs managed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "14",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Kahua-Reviews-E760478.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 24, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "System of record for owner-side capital programs (2,500+ customers, $400B+ managed, NAVFAC sole-source buyer) with deep configurable workflows that are hard to rip out; still a strong #2-3 behind Procore, Oracle (Unifier/Aconex) and Trimble e-Builder.",
+  "distance_sources": [
+   {
+    "label": "Kahua: Bain Capital growth investment, $100M annualized revenue (Sep 2026)",
+    "url": "https://kahua.com/news/kahua-secures-strategic-growth-investment-from-bain-capital-at-a-valuation-above-1-billion"
+   },
+   {
+    "label": "SAM.gov: NAVFAC sole-source notice for Kahua (Jun 2025)",
+    "url": "https://sam.gov/workspace/contract/opp/7f07a40a567942fe8cf22f7d09af740a/view"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "ControlUp",
+  "slug": "controlup",
+  "site": "https://www.controlup.com",
+  "careers_url": "https://jobs.lever.co/controlup",
+  "what_they_do": "Digital employee experience and AI endpoint management platform for enterprise IT",
+  "problem": "IT teams learn about slow desktops, app crashes and device issues only after employees file tickets",
+  "industry": "IT operations / digital employee experience (DEX)",
+  "stage": "Series D",
+  "last_round": "$100M",
+  "last_round_date": "Nov 2021",
+  "lead_investors": "K1 Investment Management, JVP",
+  "total_open_roles": "12",
+  "ops_roles": "Project Manager - Product & R&D (Israel); Enterprise Customer Success Manager (US)",
+  "hiring_trend": "Flat: headcount ~494 → ~501 (+2% YoY, Revelio, Mar 2026); LinkedIn ~421",
+  "headcount": "~420-500",
+  "latest_news": "Launched Pulse AI Insights, AI that prioritizes IT telemetry issues",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.controlup.com/press/controlup-introduces-pulse-ai-insights-to-turn-it-data-into-prioritized-action/",
+  "traction": "$100M+ ARR (Apr 2026), double-digit growth; 6M endpoints; 5 customers >$1M ARR",
+  "red_flags": "Jun 2026 third-party (Klue) breach exposed some ControlUp Salesforce business data; customers notified. Late-2024 R&D cuts and reorg after US management change (Glassdoor reviews cite ~25 engineers let go and turnover).",
+  "red_flags_sources": [
+   {
+    "label": "ControlUp: Klue third-party cybersecurity incident (Jun 2026)",
+    "url": "https://www.controlup.com/blog/klue-incident/"
+   },
+   {
+    "label": "Glassdoor review: 'fired lot (25) of engineers' (Nov 2024)",
+    "url": "https://www.glassdoor.com.au/Reviews/ControlUp-SW-Developer-Reviews-EI_IE1641939.0,9_KO10,22.htm"
+   },
+   {
+    "label": "Glassdoor review: 'Not a stable place... Re organization' (May 2025)",
+    "url": "https://www.glassdoor.com.au/Reviews/Employee-Review-ControlUp-E1641939-RVW97677097.htm"
+   },
+   {
+    "label": "Revelio Labs: ControlUp headcount, flat YoY (Aug 2026)",
+    "url": "https://www.reveliolabs.com/companies/controlup/employees"
+   }
+  ],
+  "score": "0.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "89",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/ControlUp-Reviews-E1641939.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 24, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Gartner MQ Leader in DEX tools (2025 and 2026) with enterprise depth (half of ARR from 7,000+ seat accounts) and agents embedded on 6M endpoints; shares the category with Nexthink, Tanium and Omnissa, and headcount is flat.",
+  "distance_sources": [
+   {
+    "label": "ControlUp: Hits $100M ARR (Apr 2026)",
+    "url": "https://www.controlup.com/press/controlup-hits-100m-arr"
+   },
+   {
+    "label": "CRN: ControlUp hits $100M ARR, $1B valuation (Apr 2026)",
+    "url": "https://www.crn.com/news/ai/2026/controlup-hits-100m-in-recurring-revenue-achieves-1b-unicorn-valuation"
+   }
+  ],
+  "hiring_locations": [
+   "Rishon Lezion",
+   "Fort Lauderdale",
+   "USA East",
+   "Remote (US)"
+  ]
  }
 ]

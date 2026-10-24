@@ -521,6 +521,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "capacity": {
+  "url": "https://capacity.com/wp-content/uploads/2023/01/2021-Homepage-Header-03-with-Security-Badges-1500x1030-1.webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-10-24"
+ },
  "cape": {
   "url": "https://cdn.sanity.io/images/9u514z6s/development/608e15873d6f442b9a990c5839a4d37940cbd047-1600x900.png",
   "kind": "og",
@@ -742,6 +748,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "controlup": {
+  "url": "https://www.controlup.com/wp-content/uploads/controlup_prev.webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-10-24"
  },
  "convex": {
   "url": "https://www.convex.dev/og-home.png",
@@ -1523,6 +1535,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "hightouch": {
+  "url": "https://hightouch.com/assets/meta.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-24"
+ },
  "hippocratic-ai": {
   "url": "https://hippocraticai.com/wp-content/uploads/2026/07/Hippocratic_Feat_img.png",
   "kind": "og",
@@ -1546,6 +1564,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "horizon3-ai": {
+  "url": "https://horizon3.ai/wp-content/uploads/2026/07/Website-Preview-Image_1200x628.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-24"
  },
  "hostie": {
   "url": "https://cdn.prod.website-files.com/6803352d10c80e32009ee356/6ab97ad6d472a995a4847726_og-webpreview-1200x630.jpg",
@@ -1654,6 +1678,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "kahua": {
+  "url": "https://kahua.com/wp-content/uploads/2026/07/Timelapse-video-thumbnail-1280x720px.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-24"
  },
  "karat": {
   "url": "https://karat.com/wp-content/uploads/2023/11/Screenshot-2023-11-06-at-9.24.04-AM.png",
@@ -3143,6 +3173,12 @@
   "type": "image/webp",
   "checked": "2026-10-19"
  },
+ "starburst": {
+  "url": "https://www.starburst.io/wp-content/uploads/2026/09/brand-starburst-feature-image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-24"
+ },
  "starcloud": {
   "url": "https://cdn.prod.website-files.com/66c1eabc58c4c392a9fba788/6aa7a58945bdcf809877d719_Web%20cover.png",
   "kind": "og",
@@ -3311,6 +3347,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "tive": {
+  "url": "https://cdn.prod.website-files.com/612c8ba675843d7428e67ee9/6336d607362059492cb42fb2_Tive%20-%20Home%20SEO.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-24"
+ },
  "tldraw": {
   "url": "https://cdn.sanity.io/images/ij3ytvrl/production/9bbdab1656512165d2426e787a553be0a8fd60a6-512x256.webp?w=1200&fit=max",
   "kind": "og",
@@ -3328,6 +3370,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "tomorrow-io": {
+  "url": "https://www.tomorrow.io/wp-content/uploads/2024/01/image-11.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-24"
  },
  "tools-for-humanity": {
   "url": "https://www.toolsforhumanity.com/images/meta_general.jpg",

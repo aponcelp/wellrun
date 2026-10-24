@@ -1,0 +1,102 @@
+{
+  "slug": "kahua",
+  "checked": "Oct 24, 2026",
+  "depth": "light",
+  "founded": 2009,
+  "hq": "Alpharetta, GA",
+  "headcount_est": {
+    "value": "~372",
+    "as_of": "Mar 2026",
+    "source": "https://www.reveliolabs.com/companies/kahua/employees"
+  },
+  "leadership": [
+    {
+      "name": "Scott Unger",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://kahua.com/company/leadership/"
+    },
+    {
+      "name": "Brian Moore",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://kahua.com/company/leadership/"
+    },
+    {
+      "name": "Colin Whitlatch",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://kahua.com/company/leadership/"
+    },
+    {
+      "name": "Chris Faklaris",
+      "title": "CRO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://kahua.com/company/leadership/"
+    },
+    {
+      "name": "Tom Barham",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://kahua.com/company/leadership/"
+    },
+    {
+      "name": "Elyssa Steiner",
+      "title": "CMO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://kahua.com/company/leadership/"
+    },
+    {
+      "name": "Russ Simpson",
+      "title": "CHRO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://kahua.com/company/leadership/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "PE growth (minority)",
+      "date": "2026-09",
+      "amount": "~$250M (reported)",
+      "valuation": "$1B+",
+      "lead": "Bain Capital Tech Opportunities",
+      "source": "https://news.bloombergtax.com/litigation/bain-invests-in-construction-tech-firm-kahua-at-1-billion-value"
+    },
+    {
+      "round": "Undisclosed",
+      "date": "2019",
+      "amount": null,
+      "valuation": "~$100M (reported)",
+      "lead": null,
+      "source": "https://news.bloombergtax.com/litigation/bain-invests-in-construction-tech-firm-kahua-at-1-billion-value"
+    }
+  ],
+  "total_raised": "~$299M (est.)",
+  "revenue_est": {
+    "value": "$100M annualized revenue",
+    "as_of": "Sep 2026",
+    "basis": "company-stated",
+    "source": "https://kahua.com/news/kahua-secures-strategic-growth-investment-from-bain-capital-at-a-valuation-above-1-billion"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Bain Capital Tech Opportunities minority growth investment at $1B+ valuation; $100M annualized revenue",
+      "url": "https://kahua.com/news/kahua-secures-strategic-growth-investment-from-bain-capital-at-a-valuation-above-1-billion"
+    }
+  ],
+  "competitors": [
+    "Procore",
+    "Oracle Construction (Unifier/Aconex)",
+    "Trimble e-Builder",
+    "Autodesk Construction Cloud",
+    "InEight"
+  ]
+}

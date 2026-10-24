@@ -1,0 +1,98 @@
+{
+  "slug": "luxury-presence",
+  "checked": "Oct 24, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "Austin, TX",
+  "headcount_est": {
+    "value": "~840-900",
+    "as_of": "2026",
+    "source": "https://www.reveliolabs.com/companies/luxury-presence/employees"
+  },
+  "leadership": [
+    {
+      "name": "Malte Kramer",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260527265173/en/Luxury-Presence-Reaches-%24100-Million-Annual-Recurring-Revenue-as-Top-Producing-Agents-Unify-Their-Businesses-on-One-AI-Growth-Platform"
+    },
+    {
+      "name": "Jesse Pederson",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260527265173/en/Luxury-Presence-Reaches-%24100-Million-Annual-Recurring-Revenue-as-Top-Producing-Agents-Unify-Their-Businesses-on-One-AI-Growth-Platform"
+    },
+    {
+      "name": "Kyle Scott",
+      "title": "SVP, Partnerships, Brand & Community (ex-president SERHANT.)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.luxurypresence.com/blogs/key-executive-hires-and-expanded-ai-product-team/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2021-11",
+      "amount": null,
+      "valuation": null,
+      "lead": "Bessemer Venture Partners",
+      "source": "https://www.cbinsights.com/company/luxury-presence/financials"
+    },
+    {
+      "round": "Series B-1",
+      "date": "2023-08",
+      "amount": null,
+      "valuation": null,
+      "lead": "Bessemer Venture Partners",
+      "source": "https://www.cbinsights.com/company/luxury-presence/financials"
+    },
+    {
+      "round": "Series C + debt",
+      "date": "2026-01",
+      "amount": "$37M ($22M equity + $15M J.P. Morgan debt)",
+      "valuation": null,
+      "lead": "Bessemer Venture Partners",
+      "source": "https://pulse2.com/luxury-presence-37-million-raised-to-advance-presence-crm-an-ai-relationship-engine-for-real-estate-agents/"
+    }
+  ],
+  "total_raised": "$89M",
+  "revenue_est": {
+    "value": "$100M ARR",
+    "as_of": "May 2026",
+    "basis": "company-stated",
+    "source": "https://www.businesswire.com/news/home/20260527265173/en/Luxury-Presence-Reaches-%24100-Million-Annual-Recurring-Revenue-as-Top-Producing-Agents-Unify-Their-Businesses-on-One-AI-Growth-Platform"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Adds 36 hires in one week and expands Austin office to 25,000 sq ft",
+      "url": "https://www.linkedin.com/posts/lalondethomas_lots-of-energy-this-week-at-luxury-presence-activity-7507148089548406784-9P3E"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Surpasses $100M ARR; 100,000+ agents on platform",
+      "url": "https://www.businesswire.com/news/home/20260527265173/en/Luxury-Presence-Reaches-%24100-Million-Annual-Recurring-Revenue-as-Top-Producing-Agents-Unify-Their-Businesses-on-One-AI-Growth-Platform"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Launches unified Presence Platform",
+      "url": "https://www.inman.com/2026/05/06/luxury-presence-launches-unified-ai-platform-for-agents/"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raises $37M ($22M Series C led by Bessemer + $15M debt) to build Presence CRM",
+      "url": "https://www.businesswire.com/news/home/20260108303360/en"
+    }
+  ],
+  "competitors": [
+    "Lofty",
+    "Inside Real Estate (kvCORE)",
+    "Follow Up Boss",
+    "Real Geeks",
+    "Placester",
+    "AgentFire"
+  ]
+}

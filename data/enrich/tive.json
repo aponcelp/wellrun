@@ -1,0 +1,92 @@
+{
+  "slug": "tive",
+  "checked": "Oct 24, 2026",
+  "depth": "light",
+  "founded": 2015,
+  "hq": "Boston, MA",
+  "headcount_est": {
+    "value": "~260-313",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/tiveinc"
+  },
+  "leadership": [
+    {
+      "name": "Krenar Komoni",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.tive.com/press-release/tive-caps-record-setting-first-half-of-2026-with-100-million-arr-milestone-20-million-funding-round"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2020-12",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": "RRE Ventures, Two Sigma Ventures",
+      "source": "https://www.teardown.ai/companies/tive"
+    },
+    {
+      "round": "Series B",
+      "date": "2022-04",
+      "amount": "$54M",
+      "valuation": "~$300M",
+      "lead": "AXA Venture Partners",
+      "source": "https://www.teardown.ai/companies/tive"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-01",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "WiL (World Innovation Lab), Sageview Capital",
+      "source": "https://www.globenewswire.com/news-release/2025/01/23/3014338/0/en/Tive-Secures-40-Million-in-Series-C-Funding-Led-by-WiL-Sageview-Capital.html"
+    },
+    {
+      "round": "Series C1 (PE growth)",
+      "date": "2026-01",
+      "amount": "$20M",
+      "valuation": "~$500-545M",
+      "lead": "Lightsmith Group",
+      "source": "https://www.tive.com/press-release/tive-secures-20-million-in-funding-led-by-lightsmith-group"
+    }
+  ],
+  "total_raised": "~$140M",
+  "revenue_est": {
+    "value": "$100M booked ARR",
+    "as_of": "May 2026",
+    "basis": "company-stated",
+    "source": "https://www.globenewswire.com/news-release/2026/05/14/3295249/0/en/tive-reaches-100-million-in-booked-arr.html"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Releases cargo-theft research: active monitoring recovers 1.5x more stolen cargo",
+      "url": "https://via.ritzau.dk/pressemeddelelse/15239685/tive-inc?lang=en&publisherId=90446"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Record H1 2026: $100M ARR, 55% YoY revenue growth, 1,400+ customers",
+      "url": "https://www.tive.com/press-release/tive-caps-record-setting-first-half-of-2026-with-100-million-arr-milestone-20-million-funding-round"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Surpasses $100M booked ARR",
+      "url": "https://www.globenewswire.com/news-release/2026/05/14/3295249/0/en/tive-reaches-100-million-in-booked-arr.html"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raises $20M led by Lightsmith Group at ~$500M+ valuation",
+      "url": "https://www.wsj.com/articles/lightsmith-group-backs-shipment-tracking-company-tive-a9e5e052"
+    }
+  ],
+  "competitors": [
+    "Roambee",
+    "Controlant",
+    "Sensitech (Carrier)",
+    "project44",
+    "FourKites",
+    "Overhaul"
+  ]
+}

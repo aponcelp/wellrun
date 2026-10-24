@@ -1,0 +1,144 @@
+{
+  "slug": "hightouch",
+  "checked": "Oct 24, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~380-660",
+    "as_of": "Apr-Oct 2026",
+    "source": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai"
+  },
+  "leadership": [
+    {
+      "name": "Tejas Manohar",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://hightouch.com/blog/hightouch-funding-series-d"
+    },
+    {
+      "name": "Kashish Gupta",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://dealroom.co/news/128216-hightouch-raises-150m-at-2-75b-to-make-ai-agents-the-future-of-marketing/"
+    },
+    {
+      "name": "Joshua Curl",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://hightouch.com/blog/hightouch-acquires-strata"
+    },
+    {
+      "name": "Kelsey Mullaney",
+      "title": "Revenue programs & GTM strategy (ex-Strata CEO)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://hightouch.com/blog/hightouch-acquires-strata"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-12",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/hightouch"
+    },
+    {
+      "round": "Seed",
+      "date": "2020-12",
+      "amount": "$2.1M",
+      "valuation": null,
+      "lead": "Afore Capital",
+      "source": "https://app.dealroom.co/companies/hightouch"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-07",
+      "amount": "$12.1M",
+      "valuation": null,
+      "lead": "Amplify Partners",
+      "source": "https://app.dealroom.co/companies/hightouch"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-11",
+      "amount": "$40M",
+      "valuation": "$450M",
+      "lead": "ICONIQ Growth",
+      "source": "https://app.dealroom.co/companies/hightouch"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2023-07",
+      "amount": "$38M",
+      "valuation": "$615M",
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/hightouch"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-02",
+      "amount": "$80M",
+      "valuation": "$1.2B",
+      "lead": "Sapphire Ventures",
+      "source": "https://techcrunch.com/2025/02/18/hightouch-raises-80m-on-a-1-2b-valuation-for-marketing-tools-powered-by-ai/"
+    },
+    {
+      "round": "Strategic",
+      "date": "2025-07",
+      "amount": null,
+      "valuation": null,
+      "lead": "Capital One Ventures, Snowflake",
+      "source": "https://app.dealroom.co/companies/hightouch"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-04",
+      "amount": "$150M",
+      "valuation": "$2.75B",
+      "lead": "Goldman Sachs Alternatives, Bain Capital Ventures",
+      "source": "https://hightouch.com/blog/hightouch-funding-series-d"
+    }
+  ],
+  "total_raised": "$322.4M",
+  "revenue_est": {
+    "value": "$100M ARR",
+    "as_of": "Apr 2026",
+    "basis": "company-stated",
+    "source": "https://sacra.com/research/100m-year-segment-for-marketers/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Acquires Strata, an AI no-code integration startup",
+      "url": "https://hightouch.com/blog/hightouch-acquires-strata"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Raises $150M Series D at $2.75B led by Goldman Sachs Alternatives and Bain Capital Ventures",
+      "url": "https://hightouch.com/blog/hightouch-funding-series-d"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Reaches $100M ARR on AI marketing tools; ~380 employees",
+      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Opens NYC office, adds leadership; 250+ employees",
+      "url": "https://www.businesswire.com/news/home/20250918399894/en/Hightouch-Opens-NYC-Office-and-Adds-New-Leadership-to-Power-Next-Phase-of-Growth"
+    }
+  ],
+  "competitors": [
+    "Twilio Segment",
+    "Salesforce Data Cloud",
+    "Adobe Real-Time CDP",
+    "Braze",
+    "Census (Fivetran)"
+  ]
+}
