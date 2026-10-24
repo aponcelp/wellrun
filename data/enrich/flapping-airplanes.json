@@ -1,0 +1,72 @@
+{
+  "slug": "flapping-airplanes",
+  "checked": "Oct 24, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~24",
+    "as_of": "Oct 2026",
+    "source": "https://www.indexventures.com/perspectives/toward-more-efficient-ai-leading-flapping-airplanes-1b-series-a/"
+  },
+  "leadership": [
+    {
+      "name": "Ben Spector",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/"
+    },
+    {
+      "name": "Asher Spector",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/"
+    },
+    {
+      "name": "Aidan Smith",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$1B",
+      "valuation": "~$6B",
+      "lead": "Index Ventures, Lux Capital",
+      "source": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/"
+    },
+    {
+      "round": "Seed",
+      "date": "2026-01",
+      "amount": "$180M",
+      "valuation": "$1.5B",
+      "lead": "GV, Sequoia, Index Ventures",
+      "source": "https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/"
+    }
+  ],
+  "total_raised": "~$1.18B",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $1B Series A co-led by Index and Lux at a reported ~$6B valuation",
+      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Launches with $180M seed from GV, Sequoia and Index",
+      "url": "https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/"
+    }
+  ],
+  "competitors": [
+    "Safe Superintelligence",
+    "Thinking Machines Lab",
+    "Periodic Labs"
+  ]
+}
