@@ -1,0 +1,80 @@
+{
+  "slug": "bob-ai",
+  "checked": "Oct 23, 2026",
+  "depth": "light",
+  "founded": 2026,
+  "hq": "Miami Beach, FL",
+  "headcount_est": {
+    "value": "~10",
+    "as_of": "Oct 2026",
+    "source": "https://refreshmiami.com/news/miami-startup-bob-raises-5-5m-to-build-ai-powered-finance-employee/"
+  },
+  "leadership": [
+    {
+      "name": "Adam Wininger",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://refreshmiami.com/news/miami-startup-bob-raises-5-5m-to-build-ai-powered-finance-employee/"
+    },
+    {
+      "name": "Jason Brill",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://refreshmiami.com/news/miami-startup-bob-raises-5-5m-to-build-ai-powered-finance-employee/"
+    },
+    {
+      "name": "Kody Greenbaum",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://refreshmiami.com/news/miami-startup-bob-raises-5-5m-to-build-ai-powered-finance-employee/"
+    },
+    {
+      "name": "John Henry",
+      "title": "Head of GTM",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/joinbobai"
+    },
+    {
+      "name": "Thomas Rodberg",
+      "title": "Chief of Staff & Head of Sales",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/joinbobai"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-10",
+      "amount": "$5.5M",
+      "valuation": null,
+      "lead": "Mischief",
+      "source": "https://www.prnewswire.com/news-releases/miami-startup-bob-raises-5-5m-to-build-an-ai-powered-banking-platform-302918254.html"
+    }
+  ],
+  "total_raised": "$5.5M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $5.5M seed led by Mischief; Peter Thiel, Mark Pincus, Codie Sanchez join",
+      "url": "https://www.prnewswire.com/news-releases/miami-startup-bob-raises-5-5m-to-build-an-ai-powered-banking-platform-302918254.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launches free private beta; 500 businesses sign up",
+      "url": "https://refreshmiami.com/news/miami-startup-bob-raises-5-5m-to-build-ai-powered-finance-employee/"
+    }
+  ],
+  "competitors": [
+    "QuickBooks",
+    "BILL",
+    "mercury",
+    "novo",
+    "Digits"
+  ]
+}

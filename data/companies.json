@@ -36579,5 +36579,99 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Othello",
+  "slug": "othello",
+  "site": "https://www.othello.ai",
+  "careers_url": "https://www.othello.ai/careers",
+  "what_they_do": "Real-time AI coaching that prompts sales reps on-screen during live calls",
+  "problem": "Sales tools analyze calls after they end, too late to fix what a rep says in the moment",
+  "industry": "Sales tech / revenue intelligence",
+  "stage": "Seed",
+  "last_round": "$8M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "a16z speedrun, Owl Capital",
+  "total_open_roles": "5",
+  "ops_roles": "",
+  "hiring_trend": "~10 → ~20-26 staff in 2026 (speedrun, LinkedIn); plans 30 within 6 mo, ~80 longer term",
+  "headcount": "~20-26",
+  "latest_news": "Raised $8M seed led by a16z speedrun and Owl Capital; public launch",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.alleywatch.com/2026/10/othello-real-time-sales-coaching-live-sales-call-ai-assistant-enablement-enterprise-jared-zelman/",
+  "traction": "$600K live ARR, $1.2M contracted ARR (speedrun); 50+ enterprise customers incl. Microsoft",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 23, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Seed-stage with about $1.2M contracted ARR; live in-call coaching is a crowded, out-of-favor category where Gong and other conversation-intelligence incumbents could ship the same feature to the same buyers.",
+  "distance_sources": [
+   {
+    "label": "a16z speedrun: Othello profile ($600K live ARR, $1.2M cARR)",
+    "url": "https://speedrun.a16z.com/companies/othello"
+   },
+   {
+    "label": "AlleyWatch: Othello raises $8M seed (Oct 2026)",
+    "url": "https://www.alleywatch.com/2026/10/othello-real-time-sales-coaching-live-sales-call-ai-assistant-enablement-enterprise-jared-zelman/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "BOB",
+  "slug": "bob-ai",
+  "site": "https://joinbob.ai",
+  "careers_url": "https://jobs.ashbyhq.com/bob",
+  "what_they_do": "AI finance employee that does invoicing, bookkeeping and payments for small businesses via chat",
+  "problem": "Main Street owners have no finance team and no time for books, invoices and chasing payments",
+  "industry": "Fintech / SMB banking & AI bookkeeping",
+  "stage": "Seed",
+  "last_round": "$5.5M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Mischief (Zach Perret); Peter Thiel participating",
+  "total_open_roles": "3",
+  "ops_roles": "",
+  "hiring_trend": "Founded 2026; ~10 staff, all Miami (Refresh Miami, Oct 2026); 3 open roles, all eng/design",
+  "headcount": "~10",
+  "latest_news": "Raised $5.5M seed led by Mischief, with Peter Thiel, after Sep 2026 private beta",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://refreshmiami.com/news/miami-startup-bob-raises-5-5m-to-build-ai-powered-finance-employee/",
+  "traction": "500 businesses signed up in free private beta (Sep 2026); no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 23, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Just out of private beta with 500 free sign-ups and no paid usage yet; competes with QuickBooks, BILL and SMB neobanks like Mercury and Novo, and the deposit-funded free model is unproven.",
+  "distance_sources": [
+   {
+    "label": "Refresh Miami: BOB raises $5.5M seed, 500 beta sign-ups (Oct 2026)",
+    "url": "https://refreshmiami.com/news/miami-startup-bob-raises-5-5m-to-build-ai-powered-finance-employee/"
+   },
+   {
+    "label": "BOB: pricing and why it's free (deposit-funded)",
+    "url": "https://joinbob.ai/details"
+   }
+  ],
+  "hiring_locations": [
+   "Miami"
+  ]
  }
 ]

@@ -467,6 +467,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "bob-ai": {
+  "url": "https://cdn.prod.website-files.com/6a95ca3368c971029c8a03d6/6ac4193c807c1a07fd24db83_bob-og-invoicing-business-1200x630.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-24"
+ },
  "boulevard": {
   "url": "https://s3.amazonaws.com/assets.blvd.co/social.png",
   "kind": "og",
@@ -2254,6 +2260,12 @@
   "kind": "icon",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "othello": {
+  "url": "https://framerusercontent.com/images/9H8mtn7CKZlb5fEFByXA2mzDs.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-24"
  },
  "otter-ai": {
   "url": "https://cdn.prod.website-files.com/618e9316785b3582a5178502/67dd5a945aeed07e329d4e10_fb6d82f0792801a1a0d814599859e23e_og-image-otter-optim.jpg",

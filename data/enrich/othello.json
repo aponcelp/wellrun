@@ -1,0 +1,64 @@
+{
+  "slug": "othello",
+  "checked": "Oct 23, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~20-26",
+    "as_of": "Oct 2026",
+    "source": "https://www.businessinsider.com/othello-raises-millions-sales-reps-ai-realtime-recommendations-pitch-deck-2026-10"
+  },
+  "leadership": [
+    {
+      "name": "Jared Zelman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/jaredzelman",
+      "source": "https://www.alleywatch.com/2026/10/othello-real-time-sales-coaching-live-sales-call-ai-assistant-enablement-enterprise-jared-zelman/"
+    },
+    {
+      "name": "Raphael Assor",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://speedrun.a16z.com/companies/othello"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-10",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "a16z speedrun, Owl Capital",
+      "source": "https://www.prnewswire.com/news-releases/othello-raises-8-million-for-real-time-ai-sales-coaching-during-live-calls-302908716.html"
+    }
+  ],
+  "total_raised": "$8M",
+  "revenue_est": {
+    "value": "~$600K live ARR; $1.2M contracted ARR",
+    "as_of": "Oct 2026 (speedrun profile, date of figure not stated)",
+    "basis": "company-stated",
+    "source": "https://speedrun.a16z.com/companies/othello"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Othello raises $8M seed led by a16z speedrun and Owl Capital; public launch",
+      "url": "https://www.prnewswire.com/news-releases/othello-raises-8-million-for-real-time-ai-sales-coaching-during-live-calls-302908716.html"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Form D shows $6.85M raised from 35 investors (first close of the seed)",
+      "url": "https://runtimewire.com/article/othello-parent-cicero-discloses-6-85-million-round"
+    }
+  ],
+  "competitors": [
+    "Gong",
+    "Cluely",
+    "Outreach",
+    "Salesloft",
+    "attention"
+  ]
+}
