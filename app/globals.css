@@ -940,12 +940,24 @@ a.row__name:hover { text-decoration: underline; text-decoration-color: var(--cla
 @media (max-width: 640px) { .signup--sm { max-width: none; } .signup--sm input { font-size: 16px; } }
 
 /* ---------- weekly chart (/chart): Billboard-style, identical every week ---------- */
-.navchart {
-  margin-left: auto; font: 600 10px/1 var(--mono); text-transform: uppercase; letter-spacing: 0.08em;
-  color: var(--ink); text-decoration: underline; text-underline-offset: 3px; text-decoration-color: var(--clay); white-space: nowrap;
+.navchart { margin-left: auto; display: flex; gap: 8px; }
+.navchart__b {
+  display: inline-flex; align-items: center; height: 36px; padding: 0 14px; border: 2px solid var(--ink); border-radius: 4px;
+  font: 700 13px/1 var(--mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink); text-decoration: none; white-space: nowrap;
+  transition: transform 0.15s var(--ease), background 0.15s var(--ease);
 }
-.navchart + .by { margin-left: 12px; }
-@media (min-width: 641px) { .navchart { font-size: 11px; } }
+.navchart__b:hover { transform: translateY(-1px); background: rgb(10 33 25 / 0.06); }
+.navchart__b--week { background: var(--lime); }
+.navchart__b--week:hover { background: var(--lime); box-shadow: 0 2px 0 var(--ink); }
+.navchart + .by { margin-left: 16px; }
+@media (max-width: 640px) {
+  .navchart { gap: 6px; }
+  .navchart__b { height: 32px; padding: 0 9px; font-size: 11px; letter-spacing: 0.04em; }
+  .brandbar { flex-wrap: wrap; row-gap: 8px; }
+  .navchart { order: 3; margin-left: 0; width: 100%; }
+  .navchart__b { flex: 1; justify-content: center; }
+}
+@media (min-width: 641px) { .navchart__b { font-size: 14px; height: 40px; padding: 0 18px; } }
 
 .mv {
   display: inline-flex; align-items: center; justify-content: center; gap: 3px; min-width: 34px; height: 20px; padding: 0 6px;
@@ -989,10 +1001,11 @@ a.wkpick__b:hover { background: var(--ink); color: var(--lime); }
 }
 @media (max-width: 480px) { .wkpick__b span { display: none; } }
 
-.wktabs { display: flex; gap: 22px; margin-top: 6px; border-bottom: 3px solid var(--ink); }
+.wktabs { display: flex; gap: 28px; margin-top: 14px; border-bottom: 3px solid var(--ink); }
+@media (min-width: 720px) { .wktabs__b { font-size: 40px !important; } }
 .wktabs__b {
   border: 0; background: none; cursor: pointer; padding: 10px 0 8px; margin-bottom: -3px;
-  font: 400 20px/1 var(--display); text-transform: uppercase; letter-spacing: 0.02em; color: var(--ink-3);
+  font: 400 30px/1 var(--display); text-transform: uppercase; letter-spacing: 0.02em; color: var(--ink-3);
   border-bottom: 3px solid transparent;
 }
 .wktabs__b:hover { color: var(--ink); }

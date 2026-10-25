@@ -1,6 +1,6 @@
 "use client";
 import type React from "react";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { cap } from "@/lib/track";
@@ -51,9 +51,14 @@ export function WeekPicker({ week, weeks }: { week: string; weeks: WeekLabel[] }
   );
 }
 
-/** Two underlined tabs: The Chart (default) and This Week. Both panels are server-rendered. */
+/** Two tabs: This Week (default, the insights) then The Chart. Both panels are server-rendered. */
 export function ChartTabs({ week, chart, article }: { week: string; chart: React.ReactNode; article: React.ReactNode }) {
-  const [tab, setTab] = useState<Tab>("chart");
+  // This Week (the insights) comes first; ?tab=chart opens the chart directly.
+  const [tab, setTab] = useState<Tab>("week");
+  useEffect(() => {
+    const t = new URLSearchParams(window.location.search).get("tab");
+    if (t === "chart") setTab("chart");
+  }, []);
   const pick = (t: Tab) => {
     if (t === tab) return;
     setTab(t);
@@ -62,11 +67,11 @@ export function ChartTabs({ week, chart, article }: { week: string; chart: React
   return (
     <>
       <div className="wktabs" role="tablist" aria-label="Chart views">
-        <button type="button" role="tab" id="tab-chart" aria-controls="panel-chart" aria-selected={tab === "chart"} className="wktabs__b" onClick={() => pick("chart")}>
-          The Chart
-        </button>
         <button type="button" role="tab" id="tab-week" aria-controls="panel-week" aria-selected={tab === "week"} className="wktabs__b" onClick={() => pick("week")}>
           This Week
+        </button>
+        <button type="button" role="tab" id="tab-chart" aria-controls="panel-chart" aria-selected={tab === "chart"} className="wktabs__b" onClick={() => pick("chart")}>
+          The Chart
         </button>
       </div>
       <div role="tabpanel" id="panel-chart" aria-labelledby="tab-chart" hidden={tab !== "chart"}>
