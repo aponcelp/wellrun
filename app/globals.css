@@ -1150,3 +1150,21 @@ a.wk__name:hover { text-decoration: underline; text-decoration-color: var(--clay
 .ptoggle.is-open .ptoggle__mark { background: transparent; color: var(--lime); }
 .ztog { height: 34px; }
 .signup input { border-width: 1.5px; border-color: rgb(10 33 25 / 0.3); }
+
+/* more air (Oct 25): sections breathe, fewer labels */
+.ptoggle__state { display: none; }
+.ptoggle { padding-right: 16px; }
+.board { padding-top: 28px; }
+.fbar { padding-top: 18px; gap: 12px; }
+.sortbar { padding-top: 22px; }
+.signup { padding-top: 24px; }
+@media (min-width: 641px) {
+  .hero { padding: 56px 0 44px; }
+  .tagline span { margin-top: 18px; }
+  .intro { margin-top: 30px; gap: 10px 14px; }
+  .board { padding-top: 44px; }
+  .fbar { padding-top: 24px; }
+  .sortbar { padding-top: 30px; }
+  .fbar__zones { gap: 10px; }
+}
+@media (min-width: 900px) { .hero { gap: 80px; } }
