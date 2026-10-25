@@ -1136,3 +1136,17 @@ a.wk__name:hover { text-decoration: underline; text-decoration-color: var(--clay
 .navchart__b:active, .navchart__b--week:active { transform: translate(3px, 3px); box-shadow: 0 0 0 var(--ink); }
 .navchart__b:not(.navchart__b--week) { background: var(--sheet); }
 @media (max-width: 640px) { .navchart { gap: 10px; padding-right: 3px; margin-bottom: 3px; } }
+
+/* calmer page (Oct 25): fewer heavy black boxes competing; header buttons smaller, chips/toggles get soft borders */
+@media (min-width: 641px) {
+  .navchart { gap: 10px; }
+  .navchart__b { height: 34px; padding: 0 14px; font-size: 12px; border-width: 1.5px; box-shadow: 2px 2px 0 var(--ink); }
+  .navchart__b:hover, .navchart__b--week:hover { box-shadow: 3px 3px 0 var(--ink); }
+}
+.ztog, .ptoggle { border-color: rgb(10 33 25 / 0.22); }
+.ztog:hover, .ptoggle:hover { border-color: var(--ink); }
+.ztog[aria-pressed="true"], .ptoggle.is-open { border-color: var(--ink); }
+.ptoggle__mark { background: transparent; color: var(--ink); width: 30px; }
+.ptoggle.is-open .ptoggle__mark { background: transparent; color: var(--lime); }
+.ztog { height: 34px; }
+.signup input { border-width: 1.5px; border-color: rgb(10 33 25 / 0.3); }
