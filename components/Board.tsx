@@ -403,7 +403,7 @@ export default function Board({ rows, bb = {}, bbWeek = "" }: { rows: Row[]; bb?
                   <span className="row__roles">
                     {r.ops > 0 ? (
                       <span className="row__opsn">
-                        <b>{r.ops}</b> ops {r.ops === 1 ? "role" : "roles"}
+                        <b>{r.ops}</b> ops<span className="t"> {r.ops === 1 ? "role" : "roles"}</span>
                       </span>
                     ) : (
                       <span className="row__none">—</span>
