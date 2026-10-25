@@ -85,7 +85,7 @@ export type Enrichment = {
 export type OgImage = { url: string; kind: "og" | "twitter" | "icon"; type?: string; checked?: string };
 
 /** One marker on the rivals track. */
-export type Runner = { slug: string; name: string; host: string; zone: ZoneKey; score: number; me?: boolean };
+export type Runner = { slug: string; name: string; host: string; zone: ZoneKey; score: number; rank?: number; me?: boolean };
 
 /** Everything the expanded card and the company page need for one company. */
 export type Card = Company & {

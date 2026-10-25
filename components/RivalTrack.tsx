@@ -23,8 +23,8 @@ export default function RivalTrack({ track, off, hi, compact }: { track: Runner[
       <div className="cotrack__oval rtrack__oval">
         <span className="cotrack__flag" aria-hidden="true" />
         {ZONES.map((z) => {
-          // Slower first: a same-lane rival lands just before or just after the company.
-          const here = track.filter((r) => r.zone === z.key).sort((a, b) => a.score - b.score || (a.me ? -1 : b.me ? 1 : 0));
+          // Slower first (left); on a score tie the better board rank runs further right.
+          const here = track.filter((r) => r.zone === z.key).sort((a, b) => a.score - b.score || (b.rank ?? 9999) - (a.rank ?? 9999));
           const isMine = z.key === me.zone;
           const at = here.length ? here.reduce((s, r) => s + spot(r.score, hi), 0) / here.length : 0;
           const pct = (at * 100).toFixed(1) + "%";

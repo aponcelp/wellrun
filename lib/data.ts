@@ -59,7 +59,7 @@ export async function getOg(slug: string): Promise<OgImage | null> {
   return o && /^https:\/\//.test(o.url) ? o : null;
 }
 
-const runner = (c: Company, me = false): Runner => ({ slug: c.slug, name: c.name, host: hostOf(c.site), zone: zoneOf(c).key, score: Number(c.score) || 0, ...(me ? { me } : {}) });
+const runner = (c: Company, rank: number, me = false): Runner => ({ slug: c.slug, name: c.name, host: hostOf(c.site), zone: zoneOf(c).key, score: Number(c.score) || 0, rank, ...(me ? { me } : {}) });
 
 /** Competitors split into those on the board (placed on the track) and the rest (plain text). */
 export async function getRivals(c: Company, e: Enrichment | null) {
@@ -77,7 +77,10 @@ export async function getRivals(c: Company, e: Enrichment | null) {
     } else if (!hit) off.push(t);
   }
   const hi = Math.max(...list.map((x) => Number(x.score) || 0)) || 1;
-  return { track: [runner(c, true), ...on.map((x) => runner(x))], off, hi };
+  // Board (Pace) rank breaks score ties, so the track agrees with the leaderboard.
+  const order = new Map(paceSorted(list).map((x, i) => [x.slug, i + 1]));
+  const rk = (x: Company) => order.get(x.slug) ?? 9999;
+  return { track: [runner(c, rk(c), true), ...on.map((x) => runner(x, rk(x)))], off, hi };
 }
 
 /** The full card for one company: stored fields plus enrichment, preview image and rivals. */
