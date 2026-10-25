@@ -1084,22 +1084,31 @@ a.wk__name:hover { text-decoration: underline; text-decoration-color: var(--clay
 .wkart__facts { display: flex; gap: 12px; flex-wrap: wrap; font: 400 12px/1.3 var(--mono); color: var(--ink-2); }
 .wkart__outro { font: 400 12px/1.4 var(--mono); color: var(--ink-2); padding-top: 8px; border-top: 1px solid var(--rule); }
 
-/* phones, tighter rows (Oct 25): no dead gutter under the rank, fewer lines per company */
+/* phones, Billboard-style rows (Oct 25): one aligned grid
+   [rank 40] [logo + name / what / LW-Peak-Wks] [zone + ops, right-aligned] [chevron 22] */
 @media (max-width: 719px) {
-  .row__main { grid-template-columns: 40px minmax(0, 1fr) minmax(0, 1fr) 30px; gap: 10px 10px; padding: 14px 10px 14px 0; }
-  .row__pos { font-size: 22px; padding-left: 8px; }
-  .row__dot { width: 6px; height: 6px; margin-right: 4px; }
-  .row__who { gap: 9px; }
-  .row__what { -webkit-line-clamp: 1; font-size: 13px; }
-  .row__loc { display: none; }
-  .row__bb { margin: 5px 0 0; gap: 0 9px; }
-  .row__bb .st + .st { padding-left: 9px; }
-  .row__pace { grid-column: 1 / 3; padding-left: 12px; }
-  .row__dist { grid-column: 3 / 5; }
-  .row__pace .zm, .row__dist .dm { gap: 5px; }
-  .row__pace .zm__split, .row__dist .dm__km { font-size: 22px; }
-  .row__roles { grid-column: 1 / 5; padding-left: 12px; }
-  .row__opsn, .row__roles .row__gd { padding: 4px 7px; font-size: 11px; }
+  .row__main {
+    grid-template-columns: 40px minmax(0, 1fr) auto 22px; column-gap: 10px; row-gap: 0;
+    align-items: center; padding: 12px 10px 12px 0;
+  }
+  .row__pos { grid-column: 1; grid-row: 1 / 3; align-self: center; justify-content: center; padding: 0 0 0 6px; font-size: 22px; }
+  .row__dot { display: none; }
+  .row__who { grid-column: 2; grid-row: 1 / 3; align-items: center; gap: 10px; }
+  .logo { margin-top: 0; }
+  .row__name { font-size: 16px; line-height: 1.15; }
+  .row__what { -webkit-line-clamp: 1; font-size: 12.5px; line-height: 1.3; }
+  .row__loc, .row__meta { display: none; }
+  .row__bb { margin: 4px 0 0; gap: 0 8px; }
+  .row__bb .st + .st { padding-left: 8px; }
+  .row__dist { display: none; }
+  .row__pace { grid-column: 3; grid-row: 1; align-self: end; justify-self: end; padding: 0; text-align: right; }
+  .row__pace .zm { justify-items: end; gap: 0; }
+  .row__pace .zm__split, .row__pace .zbars, .row__pace .zm__score { display: none; }
+  .row__pace .zm__line { display: block; }
+  .row__pace .zm__name { font-size: 10px; padding: 4px 6px 3px; letter-spacing: 0.06em; }
+  .row__roles { grid-column: 3; grid-row: 2; align-self: start; justify-self: end; padding: 5px 0 0; gap: 0; }
+  .row__roles .row__gd { display: none; }
+  .row__opsn { padding: 0; border: 0; background: none; font: 600 11px/1 var(--mono); color: var(--forest); white-space: nowrap; }
+  .row__more { grid-column: 4; grid-row: 1 / 3; align-self: center; padding: 0; }
   .row__more-t { display: none; }
-  .row__more { padding-top: 4px; }
 }
