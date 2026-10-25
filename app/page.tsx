@@ -3,9 +3,12 @@ import { Hero } from "@/components/Intro";
 import Track, { type Runner } from "@/components/Track";
 import { getCompanies, getCompaniesInDataOrder } from "@/lib/data";
 import { hostOf, toRows, zoneOf } from "@/lib/rank";
+import { getLatestBB } from "@/lib/chart";
+import Link from "next/link";
 
 export default async function Home() {
   const rows = toRows(await getCompanies());
+  const bb = getLatestBB();
   // Track runners, pooled exactly like the original drawTrack(): every company in its zone,
   // in dataset order, then a stable sort by score (fastest first). The track rotates through all of them.
   const pool: Record<string, Runner[]> = {};
@@ -29,6 +32,7 @@ export default async function Home() {
             <span className="brand__word">Well Run</span>
             <small>daily</small>
           </p>
+          <Link className="navchart" href="/chart">The Chart</Link>
           <span className="by">
             by <a href="https://www.linkedin.com/in/alfredoponcedeleon" target="_blank" rel="noopener">Alfredo Ponce de León</a>
           </span>
@@ -36,7 +40,7 @@ export default async function Home() {
         <Hero track={<Track pool={pool} />} />
       </header>
       <main>
-        <Board rows={rows} />
+        <Board rows={rows} bb={bb.bySlug} bbWeek={bb.week ? bb.week.title : ""} />
       </main>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
     </div>

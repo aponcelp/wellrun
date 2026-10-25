@@ -9,6 +9,9 @@ import Detail, { ProfileButton } from "./Detail";
 import { DistMark, ZoneMark } from "./Marks";
 import Logo from "./Logo";
 import CopyLink from "./CopyLink";
+import ChartMove from "./ChartMove";
+import Link from "next/link";
+import type { BB } from "@/lib/chart";
 
 type FilterKey = "chart" | "industry" | "stage" | "zone" | "dist";
 type State = { hiring: boolean; chart: string; industry: string; stage: string; zone: string; dist: string; sort: SortKey; q: string };
@@ -20,7 +23,7 @@ const SORT_LABEL: Record<SortKey, string> = { fastest: "Pace", distance: "Distan
 
 type Detail = Card | "loading" | "error";
 
-export default function Board({ rows }: { rows: Row[] }) {
+export default function Board({ rows, bb = {}, bbWeek = "" }: { rows: Row[]; bb?: Record<string, BB>; bbWeek?: string }) {
   const [s, setS] = useState<State>(INITIAL);
   const [page, setPage] = useState(25);
   const [shown, setShown] = useState(25);
@@ -181,6 +184,11 @@ export default function Board({ rows }: { rows: Row[] }) {
     <li className="chartline chartline--top" key="top100">
       <h2 className="chartline__title">The Well Run 100</h2>
       <p className="chartline__sub">the top 100 by Pace, re-ranked every Sunday</p>
+      {bbWeek && (
+        <Link className="chartline__wk" href="/chart" onClick={() => cap("chart_link_clicked", { spot: "board" })}>
+          {bbWeek} →
+        </Link>
+      )}
       <button type="button" className="chartline__jump" onClick={() => jump("Chase Pack")}>
         See the Chase Pack ↓
       </button>
@@ -367,6 +375,14 @@ export default function Board({ rows }: { rows: Row[] }) {
                         <span className="row__name">{r.name}</span>
                       )}
                       <span className="row__what">{r.what}</span>
+                      {s.sort === "fastest" && p <= 100 && bb[r.slug] && (
+                        <span className="row__bb">
+                          <ChartMove rank={bb[r.slug].rank} lw={bb[r.slug].lw} isNew={bb[r.slug].isNew} />
+                          <span>LW {bb[r.slug].lw ?? "–"}</span>
+                          <span>Peak {bb[r.slug].peak}</span>
+                          <span>Wks {bb[r.slug].wks}</span>
+                        </span>
+                      )}
                       <span className="row__meta">
                         <DistMark distance={r.distance} compact />
                         {r.ops > 0 && <span className="row__ops">{r.ops} ops</span>}
