@@ -1127,3 +1127,12 @@ a.wk__name:hover { text-decoration: underline; text-decoration-color: var(--clay
   .row__opsn { font-size: 10.5px; }
   .row__opsn .t { display: none; }
 }
+
+/* header buttons read as buttons (Oct 25): hard shadow, arrow, press-down */
+.navchart__b { box-shadow: 3px 3px 0 var(--ink); cursor: pointer; gap: 8px; transition: transform 0.12s var(--ease), box-shadow 0.12s var(--ease), background 0.12s; }
+.navchart__b::after { content: "→"; font-weight: 700; transition: transform 0.12s var(--ease); }
+.navchart__b:hover, .navchart__b--week:hover { transform: translate(-1px, -1px); box-shadow: 4px 4px 0 var(--ink); }
+.navchart__b:hover::after { transform: translateX(3px); }
+.navchart__b:active, .navchart__b--week:active { transform: translate(3px, 3px); box-shadow: 0 0 0 var(--ink); }
+.navchart__b:not(.navchart__b--week) { background: var(--sheet); }
+@media (max-width: 640px) { .navchart { gap: 10px; padding-right: 3px; margin-bottom: 3px; } }
