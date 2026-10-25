@@ -74,7 +74,9 @@ export default async function ChartView({ w, weeks, article }: { w: ChartWeek; w
               <span className="wk__sub">
                 <ZoneMark zone={e.zone} score={fmtScore(e.score)} />
                 <span className="wk__fold">
-                  LW {e.last_week ?? "–"} · Peak {e.peak} · Wks {e.weeks}
+                  <span className="st"><i>LW</i><b>{e.last_week ?? "–"}</b></span>
+                  <span className="st"><i>Peak</i><b>{e.peak}</b></span>
+                  <span className="st"><i>Wks</i><b>{e.weeks}</b></span>
                 </span>
               </span>
             </span>

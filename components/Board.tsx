@@ -378,9 +378,9 @@ export default function Board({ rows, bb = {}, bbWeek = "" }: { rows: Row[]; bb?
                       {s.sort === "fastest" && p <= 100 && bb[r.slug] && (
                         <span className="row__bb">
                           <ChartMove rank={bb[r.slug].rank} lw={bb[r.slug].lw} isNew={bb[r.slug].isNew} />
-                          <span>LW {bb[r.slug].lw ?? "–"}</span>
-                          <span>Peak {bb[r.slug].peak}</span>
-                          <span>Wks {bb[r.slug].wks}</span>
+                          <span className="st"><i>LW</i><b>{bb[r.slug].lw ?? "–"}</b></span>
+                          <span className="st"><i>Peak</i><b>{bb[r.slug].peak}</b></span>
+                          <span className="st"><i>Wks</i><b>{bb[r.slug].wks}</b></span>
                         </span>
                       )}
                       <span className="row__meta">
