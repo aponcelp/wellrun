@@ -313,7 +313,7 @@ button { font: inherit; color: inherit; }
 .chartline__sub { grid-column: 1; font: 400 11px/1.3 var(--mono); color: var(--ink-2); letter-spacing: 0.02em; }
 .chartline__jump {
   grid-column: 2; align-self: end; border: 0; background: none; cursor: pointer; padding: 6px 0;
-  font: 600 12px/1.2 var(--sans); color: var(--ink); text-decoration: underline; text-underline-offset: 3px; text-decoration-color: var(--clay);
+  font: 700 14px/1.2 var(--sans); color: var(--ink); text-decoration: underline; text-underline-offset: 4px; text-decoration-color: var(--clay); text-decoration-thickness: 2px;
   white-space: nowrap;
 }
 @media (min-width: 720px) {
@@ -543,6 +543,19 @@ a.row__name:hover { text-decoration: underline; text-decoration-color: var(--cla
   transition: transform 0.15s var(--ease);
 }
 .pager__next:hover { transform: translateY(-1px); }
+/* the line at #100: a loud stop so nobody thinks the board ends there */
+.chasecta {
+  list-style: none; margin: 28px 0 8px; padding: 26px 20px 24px; border: 3px solid var(--ink); border-radius: 6px;
+  background: var(--ink); color: var(--paper); display: grid; gap: 8px; justify-items: start;
+}
+.chasecta__k { font: 600 11px/1 var(--mono); text-transform: uppercase; letter-spacing: 0.12em; color: var(--lime); }
+.chasecta__t { font: 400 clamp(40px, 12vw, 88px)/0.9 var(--display); text-transform: uppercase; letter-spacing: 0.005em; }
+.chasecta__sub { font: 400 14px/1.4 var(--sans); color: rgb(255 255 255 / 0.8); max-width: 46ch; }
+.chasecta__b {
+  margin-top: 8px; height: 46px; padding: 0 22px; border: 0; border-radius: 6px; cursor: pointer;
+  background: var(--lime); color: var(--ink); font: 700 15px/1 var(--sans); transition: transform 0.15s var(--ease);
+}
+.chasecta__b:hover { transform: translateY(-1px); }
 .pager__next:active { transform: translateY(0); }
 .empty { padding: 40px 0; display: grid; gap: 12px; justify-items: start; font: 400 13px/1.4 var(--mono); }
 

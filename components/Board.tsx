@@ -461,6 +461,25 @@ export default function Board({ rows, bb = {}, bbWeek = "" }: { rows: Row[]; bb?
             </li>,
           ];
         })}
+        {chartMode && s.chart === "All" && visible.length === 100 && list.length > 100 && (
+          <li className="chasecta" key="chase-cta">
+            <p className="chasecta__k">Past the line at #100</p>
+            <h2 className="chasecta__t">The Chase Pack</h2>
+            <p className="chasecta__sub">
+              {list.length - 100} more companies, ranks 101 to {list.length}, chasing a spot in the top 100.
+            </p>
+            <button
+              type="button"
+              className="chasecta__b"
+              onClick={() => {
+                cap("chase_cta_clicked");
+                setShown((x) => x + page);
+              }}
+            >
+              See the Chase Pack ↓
+            </button>
+          </li>
+        )}
       </ol>
 
       {list.length > 25 && (
@@ -495,7 +514,7 @@ export default function Board({ rows, bb = {}, bbWeek = "" }: { rows: Row[]; bb?
                 setShown((x) => x + page);
               }}
             >
-              Next {Math.min(page, left)}
+              {chartMode && s.chart === "All" && shown === 100 ? `Enter the Chase Pack · ${101}–${Math.min(100 + page, list.length)}` : `Next ${Math.min(page, left)}`}
             </button>
           )}
         </div>
