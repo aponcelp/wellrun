@@ -72,3 +72,18 @@ export function getChartRun(slug: string): ChartRun | null {
   const { week, title, tracking, short } = cur;
   return { week: { week, title, tracking, short }, rank, lw, peak: Math.min(...ranks), wks, total: cur.total || cur.chart.length + cur.chase.length };
 }
+
+/** One company's weekly history (oldest first): rank and score each Sunday it was on the board. */
+export type HistPoint = { week: string; short: string; rank: number; score: number; inTop: boolean };
+export function getHistory(slug: string): HistPoint[] {
+  const idx = getChartIndex();
+  const out: HistPoint[] = [];
+  for (const wl of [...idx.weeks].reverse()) {
+    const w = getChartWeek(wl.week);
+    if (!w) continue;
+    const top = w.chart.find((e) => e.slug === slug);
+    const e = top || w.chase.find((x) => x.slug === slug);
+    if (e) out.push({ week: wl.week, short: wl.short.replace(/, \d{4}$/, ""), rank: e.rank, score: Number(e.score) || 0, inTop: !!top });
+  }
+  return out;
+}

@@ -1242,3 +1242,21 @@ a.wk__name:hover { text-decoration: underline; text-decoration-color: var(--clay
 .spot__facts dd { font-size: 14px; line-height: 1.45; color: var(--ink); }
 .spot__tag { font-size: 15px; }
 .spot__why p:last-child { font-size: 14px; line-height: 1.5; }
+
+/* Company page: collapsible rank + score history (Oct 25) */
+.cohist { margin-top: 14px; border-top: 1px solid var(--rule); }
+.cohist summary { cursor: pointer; list-style: none; padding: 12px 0; font: 600 14px/1 var(--sans); color: var(--ink); }
+.cohist summary::-webkit-details-marker { display: none; }
+.cohist summary::after { content: "+"; float: right; font: 400 18px/14px var(--mono); }
+.cohist[open] summary::after { content: "–"; }
+.cohist__body { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; padding-bottom: 14px; }
+.cohist__fig { margin: 0; }
+.cohist__fig figcaption { font: 600 11px/1 var(--mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-2); margin-bottom: 6px; }
+.cohist__fig svg { width: 100%; height: auto; display: block; }
+.cohist__grid { stroke: var(--rule); stroke-width: 1; }
+.cohist__line { fill: none; stroke: var(--ink); stroke-width: 2.5; stroke-linejoin: round; }
+.cohist__dot { fill: var(--lime); stroke: var(--ink); stroke-width: 2; }
+.cohist__ax { font: 400 11px var(--mono); fill: var(--ink-3); }
+.cohist__val { font: 700 12px var(--sans); fill: var(--ink); }
+.cohist__note { grid-column: 1 / -1; margin: 0; font: 400 12px/1.4 var(--mono); color: var(--ink-3); }
+@media (max-width: 700px) { .cohist__body { grid-template-columns: 1fr; } }

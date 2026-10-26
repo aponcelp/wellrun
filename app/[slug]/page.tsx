@@ -11,8 +11,9 @@ import CoTrack from "@/components/CoTrack";
 import RivalTrack from "@/components/RivalTrack";
 import Shot from "@/components/Shot";
 import CoRun from "@/components/CoRun";
+import CoHistory from "@/components/CoHistory";
 import KeepGoing from "@/components/KeepGoing";
-import { getChartRun } from "@/lib/chart";
+import { getChartRun, getHistory } from "@/lib/chart";
 import { FundingHistory, Glance, Leadership, NewsTimeline } from "@/components/Profile";
 
 export const dynamicParams = false;
@@ -112,6 +113,7 @@ export default async function CompanyPage({ params }: Props) {
           </div>
         </dl>
         {run && <CoRun run={run} rank={rank} />}
+        <CoHistory pts={getHistory(c.slug)} />
         <CoLinks name={c.name} slug={c.slug} site={c.site} careers={has(c.careers_url) ? c.careers_url : ""} />
         {c.rivals && c.rivals.track.length > 1 ? (
           <RivalTrack track={c.rivals.track} off={c.rivals.off} hi={c.rivals.hi} />
