@@ -37607,5 +37607,60 @@
    "San Francisco",
    "Toronto"
   ]
+ },
+ {
+  "name": "Canals",
+  "slug": "canals",
+  "site": "https://www.canals.ai",
+  "careers_url": "https://jobs.ashbyhq.com/canals",
+  "what_they_do": "AI that turns emailed, PDF and phone orders and invoices into ERP entries for distributors",
+  "problem": "Distributor reps and AP clerks retype messy orders, quotes and invoices into the ERP by hand, slowly and with errors",
+  "industry": "Vertical AI / wholesale distribution operations",
+  "stage": "Series A",
+  "last_round": "$35M",
+  "last_round_date": "May 2026",
+  "lead_investors": "Base10 Partners (A); Applico Capital (seed)",
+  "total_open_roles": "24",
+  "ops_roles": "Implementation Engineer - ERP Integrations (Remote: New York, Bogota, Cali, Sao Paulo); Customer Success Manager (Remote US: Chicago, New York, Austin, Denver, Seattle, SF, Raleigh, Lehi)",
+  "hiring_trend": "Headcount ~148, +190% YoY (LinkedIn est.); ~100 in Jun 2026 per CEO, ~140 per job posts; 24 open roles, all posted Oct 2026",
+  "headcount": "~140-150",
+  "latest_news": "Raised $35M Series A led by Base10; 100+ distributors, profitable before VC",
+  "latest_news_date": "May 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/05/28/3302917/0/en/canals-raises-35m-to-eliminate-friction-from-the-industrial-supply-chain.html",
+  "traction": "Profitable and bootstrapped to 100+ distributors; 8M+ orders, $5B payables processed; headcount ~3x YoY",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "2",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Canals-Reviews-E9769423.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Leading distributor-specific AI suite (100+ distributors, profitable, added AP, AR, PO and receiving lines on top of order entry, wired into distributor ERPs), but the category is crowded: Conexiom and Esker are entrenched and Distro, Endeavor, WizCommerce and others pitch the same buyer.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: Canals raises $35M; 100+ distributors, built without VC (May 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/05/28/3302917/0/en/canals-raises-35m-to-eliminate-friction-from-the-industrial-supply-chain.html"
+   },
+   {
+    "label": "GlobeNewswire: Canals launches end-to-end Operating AI suite (Apr 2026)",
+    "url": "https://www.globenewswire.com/de/news-release/2026/04/01/3266577/0/en/canals-introduces-end-to-end-operating-ai-for-distributors-automating-repetitive-workflows-for-customer-winning-service.html"
+   },
+   {
+    "label": "Y Meadows: 19 AI order entry vendors compared (2026)",
+    "url": "https://ymeadows.com/en/insights/blog/ai-order-entry-vendors/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Denver",
+   "Remote (Colombia)"
+  ]
  }
 ]

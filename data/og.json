@@ -515,6 +515,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "canals": {
+  "url": "https://cdn.prod.website-files.com/66c5a45aa88084518308cfcb/69bdb487290a52caa289254e_77ef6dce837d6c7b9424bc9785b45844_Canals%20AI%20for%20Manufacturers%20Distributors%20Contractors.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-26"
+ },
  "candid-health": {
   "url": "https://cdn.sanity.io/images/qh86xbgq/production/7824c9cbd9277f9ce1ae8c34e14406d9c3fdccf1-1440x960.png",
   "kind": "og",

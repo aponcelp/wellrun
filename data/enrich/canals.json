@@ -1,0 +1,99 @@
+{
+  "slug": "canals",
+  "checked": "Oct 26, 2026",
+  "founded": 2022,
+  "hq": "Coral Gables (Miami), FL",
+  "headcount_est": {
+    "value": "~148",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/canals-ai"
+  },
+  "leadership": [
+    {
+      "name": "Michael Delgado",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.canals.ai/about"
+    },
+    {
+      "name": "Erez Arnon",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/erez-arnon",
+      "source": "https://www.caplight.com/company/canals"
+    },
+    {
+      "name": "Jordan Jeffery",
+      "title": "Head of Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theorg.com/org/canals-ai/person/michael-delgado"
+    },
+    {
+      "name": "Alyce Thibodeaux",
+      "title": "Head of Customer Success",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/canals-ai"
+    },
+    {
+      "name": "David S. Mitchell",
+      "title": "General Counsel",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/canals-ai"
+    },
+    {
+      "name": "Cindy Chow",
+      "title": "Head of Marketing",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/canals-ai"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-07",
+      "amount": "Undisclosed",
+      "valuation": null,
+      "lead": "Applico Capital",
+      "source": "https://distributiontechnology.substack.com/p/applico-capital-invests-in-canals"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-05",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Base10 Partners",
+      "source": "https://www.globenewswire.com/news-release/2026/05/28/3302917/0/en/canals-raises-35m-to-eliminate-friction-from-the-industrial-supply-chain.html"
+    }
+  ],
+  "total_raised": "$35M+ (seed undisclosed)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-05",
+      "headline": "Raises $35M Series A led by Base10; 100+ distributors, profitable pre-VC",
+      "url": "https://www.globenewswire.com/news-release/2026/05/28/3302917/0/en/canals-raises-35m-to-eliminate-friction-from-the-industrial-supply-chain.html"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Launches end-to-end Operating AI: AR, PO-to-receipt tracking, inquiry handling",
+      "url": "https://www.globenewswire.com/de/news-release/2026/04/01/3266577/0/en/canals-introduces-end-to-end-operating-ai-for-distributors-automating-repetitive-workflows-for-customer-winning-service.html"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Applico Capital makes first outside investment after bootstrapped growth",
+      "url": "https://distributiontechnology.substack.com/p/applico-capital-invests-in-canals"
+    }
+  ],
+  "competitors": [
+    "Conexiom",
+    "Esker",
+    "Distro",
+    "Endeavor AI",
+    "WizCommerce"
+  ]
+}
