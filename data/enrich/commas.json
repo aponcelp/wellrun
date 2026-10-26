@@ -34,6 +34,10 @@
   "total_raised": "~$20M",
   "revenue_est": null,
   "news_timeline": [],
-  "competitors": [],
+  "competitors": [
+    "whop",
+    "Kajabi",
+    "Skool"
+  ],
   "note": "Formerly FanBasis; rebranded Commas Jul 2026."
 }

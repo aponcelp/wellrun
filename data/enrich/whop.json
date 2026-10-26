@@ -3,27 +3,113 @@
   "checked": "Oct 21, 2026",
   "founded": 2021,
   "hq": "Palo Alto, CA (offices in Brooklyn, NY)",
-  "headcount_est": {"value": "~400", "as_of": "Mar 2026", "source": "https://www.reveliolabs.com/companies/whop/employees"},
+  "headcount_est": {
+    "value": "~400",
+    "as_of": "Mar 2026",
+    "source": "https://www.reveliolabs.com/companies/whop/employees"
+  },
   "leadership": [
-    {"name": "Steven Schwartz", "title": "Co-founder & CEO", "founder": true, "linkedin": "https://www.linkedin.com/in/steven-schwartz-b72827b8", "source": "https://www.prnewswire.com/news-releases/whop-announces-funding-round-at-5-1b-valuation-led-by-sequoia-and-shopify-ventures-to-advance-universal-economic-freedom-in-the-wake-of-ai-302915738.html"},
-    {"name": "Cameron Zoub", "title": "Co-founder & Chief Growth Officer", "founder": true, "linkedin": null, "source": "http://en.wikipedia.org/wiki/Whop.com"},
-    {"name": "Jack Sharkey", "title": "Co-founder & CTO", "founder": true, "linkedin": null, "source": "https://www.sourcery.vc/p/exclusive-how-whop-hit-12-billion"}
+    {
+      "name": "Steven Schwartz",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/steven-schwartz-b72827b8",
+      "source": "https://www.prnewswire.com/news-releases/whop-announces-funding-round-at-5-1b-valuation-led-by-sequoia-and-shopify-ventures-to-advance-universal-economic-freedom-in-the-wake-of-ai-302915738.html"
+    },
+    {
+      "name": "Cameron Zoub",
+      "title": "Co-founder & Chief Growth Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://en.wikipedia.org/wiki/Whop.com"
+    },
+    {
+      "name": "Jack Sharkey",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.sourcery.vc/p/exclusive-how-whop-hit-12-billion"
+    }
   ],
   "funding_history": [
-    {"round": "Series A", "date": "2023-07", "amount": "$17M", "valuation": "~$100M+", "lead": "Insight Partners", "source": "https://techcrunch.com/2023/07/20/whop-an-online-marketplace-for-digital-goods-raises-17m/"},
-    {"round": "Series B", "date": "2024-07", "amount": "$50M+", "valuation": "$800M", "lead": "Bain Capital Ventures, A*", "source": "https://sacra.com/c/whop/"},
-    {"round": "Strategic (Series C)", "date": "2026-02", "amount": "$200M", "valuation": "$1.6B", "lead": "Tether", "source": "https://www.coindesk.com/business/2026/02/25/tether-invests-usd200-million-in-digital-marketplace-whop-to-expand-stablecoin-payments"},
-    {"round": "Series D", "date": "2026-10", "amount": "$200M", "valuation": "$5.1B", "lead": "Sequoia, Shopify Ventures", "source": "https://www.prnewswire.com/news-releases/whop-announces-funding-round-at-5-1b-valuation-led-by-sequoia-and-shopify-ventures-to-advance-universal-economic-freedom-in-the-wake-of-ai-302915738.html"}
+    {
+      "round": "Series A",
+      "date": "2023-07",
+      "amount": "$17M",
+      "valuation": "~$100M+",
+      "lead": "Insight Partners",
+      "source": "https://techcrunch.com/2023/07/20/whop-an-online-marketplace-for-digital-goods-raises-17m/"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-07",
+      "amount": "$50M+",
+      "valuation": "$800M",
+      "lead": "Bain Capital Ventures, A*",
+      "source": "https://sacra.com/c/whop/"
+    },
+    {
+      "round": "Strategic (Series C)",
+      "date": "2026-02",
+      "amount": "$200M",
+      "valuation": "$1.6B",
+      "lead": "Tether",
+      "source": "https://www.coindesk.com/business/2026/02/25/tether-invests-usd200-million-in-digital-marketplace-whop-to-expand-stablecoin-payments"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-10",
+      "amount": "$200M",
+      "valuation": "$5.1B",
+      "lead": "Sequoia, Shopify Ventures",
+      "source": "https://www.prnewswire.com/news-releases/whop-announces-funding-round-at-5-1b-valuation-led-by-sequoia-and-shopify-ventures-to-advance-universal-economic-freedom-in-the-wake-of-ai-302915738.html"
+    }
   ],
   "total_raised": "~$470M",
-  "revenue_est": {"value": "~$500M revenue", "as_of": "Oct 2026", "basis": "press report", "source": "https://www.prnewswire.com/news-releases/whop-announces-funding-round-at-5-1b-valuation-led-by-sequoia-and-shopify-ventures-to-advance-universal-economic-freedom-in-the-wake-of-ai-302915738.html"},
+  "revenue_est": {
+    "value": "~$500M revenue",
+    "as_of": "Oct 2026",
+    "basis": "press report",
+    "source": "https://www.prnewswire.com/news-releases/whop-announces-funding-round-at-5-1b-valuation-led-by-sequoia-and-shopify-ventures-to-advance-universal-economic-freedom-in-the-wake-of-ai-302915738.html"
+  },
   "news_timeline": [
-    {"date": "2026-10", "headline": "Raised $200M Series D at $5.1B led by Sequoia and Shopify Ventures; Doug Leone joins board", "url": "https://www.prnewswire.com/news-releases/whop-announces-funding-round-at-5-1b-valuation-led-by-sequoia-and-shopify-ventures-to-advance-universal-economic-freedom-in-the-wake-of-ai-302915738.html"},
-    {"date": "2026-09", "headline": "Launched Economic Intelligence, a paid AI decision engine for businesses", "url": "https://www.prnewswire.com/news-releases/whop-introduces-economic-intelligence-for-businesses-to-earn-money-faster-with-one-click-302892978.html"},
-    {"date": "2026-03", "headline": "Launched Whop Treasury, yield on balances held in USDT", "url": "https://www.businesswire.com/news/home/20260325710198/en/Whop-Announces-Whop-Treasury-Expanding-Whop-Finance-to-Bring-Businesses-up-to-6-APY"},
-    {"date": "2026-02", "headline": "Tether invested $200M at a $1.6B valuation", "url": "https://www.coindesk.com/business/2026/02/25/tether-invests-usd200-million-in-digital-marketplace-whop-to-expand-stablecoin-payments"},
-    {"date": "2025-10", "headline": "Acquired Hidden Studios to run its new ads product", "url": "https://whop.com/blog/hidden-studios-ads/"},
-    {"date": "2025-09", "headline": "Launched Whop Payments with multi-processor smart routing", "url": "https://newsroom.whop.com/whop-payments/"}
+    {
+      "date": "2026-10",
+      "headline": "Raised $200M Series D at $5.1B led by Sequoia and Shopify Ventures; Doug Leone joins board",
+      "url": "https://www.prnewswire.com/news-releases/whop-announces-funding-round-at-5-1b-valuation-led-by-sequoia-and-shopify-ventures-to-advance-universal-economic-freedom-in-the-wake-of-ai-302915738.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launched Economic Intelligence, a paid AI decision engine for businesses",
+      "url": "https://www.prnewswire.com/news-releases/whop-introduces-economic-intelligence-for-businesses-to-earn-money-faster-with-one-click-302892978.html"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Launched Whop Treasury, yield on balances held in USDT",
+      "url": "https://www.businesswire.com/news/home/20260325710198/en/Whop-Announces-Whop-Treasury-Expanding-Whop-Finance-to-Bring-Businesses-up-to-6-APY"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Tether invested $200M at a $1.6B valuation",
+      "url": "https://www.coindesk.com/business/2026/02/25/tether-invests-usd200-million-in-digital-marketplace-whop-to-expand-stablecoin-payments"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Acquired Hidden Studios to run its new ads product",
+      "url": "https://whop.com/blog/hidden-studios-ads/"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Launched Whop Payments with multi-processor smart routing",
+      "url": "https://newsroom.whop.com/whop-payments/"
+    }
   ],
-  "competitors": ["stripe", "Shopify", "Skool", "Kajabi", "Stan"]
+  "competitors": [
+    "commas",
+    "stripe",
+    "Shopify",
+    "Skool",
+    "Kajabi",
+    "Stan"
+  ]
 }
