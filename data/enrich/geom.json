@@ -1,0 +1,60 @@
+{
+ "slug": "geom",
+ "checked": "Oct 25, 2026",
+ "founded": 2026,
+ "hq": "San Francisco, CA",
+ "headcount_est": {
+  "value": "sub-10 (company), ~17 on LinkedIn",
+  "as_of": "Sep 2026",
+  "source": "https://businessofhome.com/articles/modsy-founder-shanna-tellerman-returns-with-a-new-startup"
+ },
+ "leadership": [
+  {
+   "name": "Shanna Tellerman",
+   "title": "Founder & CEO",
+   "founder": true,
+   "linkedin": "https://www.linkedin.com/in/shannatellerman",
+   "source": "https://geom.ai/about"
+  }
+ ],
+ "funding_history": [
+  {
+   "round": "Seed",
+   "date": "2026-09",
+   "amount": "$5M",
+   "valuation": null,
+   "lead": "Elad Gil & Co",
+   "source": "https://geom.ai/press-release"
+  }
+ ],
+ "total_raised": "$5M",
+ "revenue_est": null,
+ "news_timeline": [
+  {
+   "date": "2026-09",
+   "headline": "Emerges from stealth with $5M seed led by Elad Gil & Co",
+   "url": "https://geom.ai/press-release"
+  },
+  {
+   "date": "2026-09",
+   "headline": "Named builder collaborators: Pulte, Century Communities, Meritage, True Homes",
+   "url": "https://www.constructiondive.com/press-release/20260918-geom-brings-ai-automation-to-production-homebuildings-most-manual-architec"
+  },
+  {
+   "date": "2026-09",
+   "headline": "Pilot cut plan mirroring from weeks to minutes, 73% lower cost",
+   "url": "https://geom.ai/press-release"
+  },
+  {
+   "date": "2026-04",
+   "headline": "Ex-Modsy founder and Lennar CPO Shanna Tellerman starts work on Geom",
+   "url": "https://businessofhome.com/articles/modsy-founder-shanna-tellerman-returns-with-a-new-startup"
+  }
+ ],
+ "competitors": [
+  "Higharc",
+  "SWAPP",
+  "ArchiLabs",
+  "Blueprints AI"
+ ]
+}
