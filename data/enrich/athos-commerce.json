@@ -1,0 +1,39 @@
+{
+  "slug": "athos-commerce",
+  "checked": "Oct 26, 2026",
+  "depth": "light",
+  "founded": 2007,
+  "hq": "San Antonio, TX",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Chuck Haling",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20250806552323/en/Athos-Commerce-Appoints-Chuck-Haling-as-CEO-to-Lead-Next-Phase-of-Growth"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "PE growth investment",
+      "date": "2022-09",
+      "amount": "Undisclosed",
+      "valuation": null,
+      "lead": "PSG",
+      "source": "https://athoscommerce.com/news/strategic-growth-investment-psg/"
+    },
+    {
+      "round": "Merger with Klevu (rebrand to Athos Commerce)",
+      "date": "2025-01",
+      "amount": "Undisclosed",
+      "valuation": null,
+      "lead": "PSG",
+      "source": "https://athoscommerce.com/news/klevu-joins-forces-with-searchspring-to-form-athos-commerce"
+    }
+  ],
+  "total_raised": "Undisclosed (PE-backed)",
+  "revenue_est": "~$30M (GetLatka est., Dec 2025)",
+  "news_timeline": [],
+  "competitors": []
+}

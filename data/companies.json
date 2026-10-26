@@ -37449,5 +37449,64 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Athos Commerce",
+  "slug": "athos-commerce",
+  "site": "https://athoscommerce.com",
+  "careers_url": "https://athoscommerce.com/careers/",
+  "what_they_do": "Ecommerce site search, merchandising, personalization and product feed management for online brands",
+  "problem": "Shoppers can't find the right products on brand sites, marketplaces and AI assistants, so brands lose conversions",
+  "industry": "Ecommerce software / product discovery",
+  "stage": "PE-backed (PSG)",
+  "last_round": "Undisclosed",
+  "last_round_date": "Sep 2022",
+  "lead_investors": "PSG",
+  "total_open_roles": "3",
+  "ops_roles": "Product Operations Lead",
+  "hiring_trend": "Shrinking: layoffs ~May 2026; ~206 on LinkedIn vs ~275 Dec 2025 (est.)",
+  "headcount": "~210-280",
+  "latest_news": "Launched Intelligent Discovery Platform with agentic commerce at Shoptalk Europe",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://athoscommerce.com/product-launch-2026/",
+  "traction": "~$30M revenue est. (GetLatka, Dec 2025); 2,700+ brands incl. SKIMS, Fabletics, West Elm",
+  "red_flags": "Layoffs around May 2026 after the 2025 three-way merger; Glassdoor reviews describe a post-merger exodus, departed founders and weak leadership under a new CEO (2.9/5, 5 reviews). Platform relaunch was pushed to early 2026.",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn: ex-engineer impacted by Athos Commerce layoffs (Jun 2026)",
+    "url": "https://www.linkedin.com/posts/cew32_its-been-about-a-month-since-i-shared-that-activity-7477747664835772416-sKM8"
+   },
+   {
+    "label": "Glassdoor: Athos Commerce reviews (2026)",
+    "url": "https://www.glassdoor.com/Reviews/Athos-Commerce-Reviews-E10697593.htm"
+   },
+   {
+    "label": "MarTech Cube: Athos updates rollout schedule to early 2026 (Aug 2025)",
+    "url": "https://www.martechcube.com/athos-commerce-updates-rollout-to-ensure-seamless-customer-shift/"
+   }
+  ],
+  "score": "1.0",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "2.9",
+  "glassdoor_reviews": "5",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Athos-Commerce-Reviews-E10697593.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Mid-market roll-up of three older search vendors with solid customer ratings (G2 4.5) and 2,700+ brands, but trails Algolia, Bloomreach and Constructor in enterprise search, and the merger is still digesting.",
+  "distance_sources": [
+   {
+    "label": "PSG: Athos Commerce portfolio page",
+    "url": "https://psgequity.com/portfolio/athos_commerce"
+   },
+   {
+    "label": "YesPress: Athos Commerce profile (Oct 2026)",
+    "url": "https://yespress.io/athos-commerce"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
