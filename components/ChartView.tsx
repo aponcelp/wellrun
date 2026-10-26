@@ -16,9 +16,10 @@ function Name({ slug, name, live }: { slug: string; name: string; live: Set<stri
   );
 }
 
-function ArticleView({ a, live }: { a: Article | null; live: Set<string> }) {
+function ArticleView({ a, live, top }: { a: Article | null; live: Set<string>; top: ChartWeek["chart"] }) {
   if (!a) return <p className="wkart__lede">No write-up for this week yet.</p>;
   return (
+    <div className="wkwrap">
     <article className="wkart">
       <h2 className="wkart__title">{a.title}</h2>
       <p className="wkart__lede">{a.lede}</p>
@@ -45,7 +46,10 @@ function ArticleView({ a, live }: { a: Article | null; live: Set<string> }) {
           </ul>
         </section>
       ))}
-      {a.spotlight && (
+      {a.outro && <p className="wkart__outro">{a.outro}</p>}
+    </article>
+    <aside className="wkside">
+        {a.spotlight && (
         <section className="spot" aria-label={a.spotlight.label}>
           <p className="spot__k">{a.spotlight.label}</p>
           <h3 className="spot__name">
@@ -53,7 +57,7 @@ function ArticleView({ a, live }: { a: Article | null; live: Set<string> }) {
           </h3>
           <p className="spot__tag">{a.spotlight.tagline}</p>
           <dl className="spot__facts">
-            {a.spotlight.facts.map((f) => (
+              {a.spotlight.facts.map((f) => (
               <div key={f.k}>
                 <dt>{f.k}</dt>
                 <dd>{f.v}</dd>
@@ -66,7 +70,7 @@ function ArticleView({ a, live }: { a: Article | null; live: Set<string> }) {
           </div>
           <p className="spot__src">
             Sources:{" "}
-            {a.spotlight.sources.map((x, i) => (
+              {a.spotlight.sources.map((x, i) => (
               <span key={x.url}>
                 {i > 0 && " · "}
                 <a href={x.url} target="_blank" rel="noopener noreferrer">{x.label} ↗</a>
@@ -75,8 +79,23 @@ function ArticleView({ a, live }: { a: Article | null; live: Set<string> }) {
           </p>
         </section>
       )}
-      {a.outro && <p className="wkart__outro">{a.outro}</p>}
-    </article>
+      {top.length > 0 && (
+        <section className="wktop" aria-label="Top 10 this week">
+          <p className="spot__k">Top 10 this week</p>
+          <ol className="wktop__list">
+            {top.slice(0, 10).map((e) => (
+              <li key={e.slug}>
+                <span className="wktop__r">{e.rank}</span>
+                <Name slug={e.slug} name={e.name} live={live} />
+                <ChartMove rank={e.rank} lw={e.last_week} isNew={e.new} />
+              </li>
+            ))}
+          </ol>
+          <a href="?tab=chart" className="wktop__all">See all 100 →</a>
+        </section>
+      )}
+    </aside>
+    </div>
   );
 }
 
@@ -133,7 +152,7 @@ export default async function ChartView({ w, weeks, article }: { w: ChartWeek; w
       </ol>
     </>
   );
-  const art = w.baseline && !article ? <p className="wkart__lede">First week of the chart. Movement starts next week.</p> : <ArticleView a={article} live={live} />;
+  const art = w.baseline && !article ? <p className="wkart__lede">First week of the chart. Movement starts next week.</p> : <ArticleView a={article} live={live} top={w.chart} />;
   return (
     <div className="page page--wk">
       <nav className="back">

@@ -1217,3 +1217,22 @@ a.wk__name:hover { text-decoration: underline; text-decoration-color: var(--clay
 .spot__why p:last-child { font-size: 15px; line-height: 1.55; }
 .spot__src { font: 400 11.5px/1.5 var(--mono); color: var(--ink-3); }
 .spot__src a { color: var(--ink-2); }
+
+/* This Week: two columns on desktop, spotlight + top 10 in the right rail (Oct 25) */
+.wkwrap { display: grid; gap: 28px; }
+.wkside { display: grid; gap: 22px; align-content: start; }
+.wkside .spot { margin-top: 0; }
+@media (min-width: 1000px) {
+  .wkwrap { grid-template-columns: minmax(0, 1fr) 360px; gap: 56px; align-items: start; }
+  .wkwrap .wkart { max-width: none; }
+  .wkside { padding-top: 22px; }
+  .wkside .spot__facts > div { grid-template-columns: 1fr; gap: 3px; }
+  .wkside .spot__name { font-size: 30px; }
+}
+.wktop { display: grid; gap: 8px; padding: 16px 18px; border: 1px solid var(--rule); background: #fffdf8; }
+.wktop__list { list-style: none; margin: 0; padding: 0; }
+.wktop__list li { display: grid; grid-template-columns: 24px minmax(0, 1fr) auto; align-items: center; gap: 10px; padding: 7px 0; border-top: 1px solid var(--rule); font-size: 14px; }
+.wktop__list li:first-child { border-top: 0; }
+.wktop__r { font: 700 14px/1 var(--sans); font-variant-numeric: tabular-nums; color: var(--ink-2); text-align: right; }
+.wktop__list .wk__name { font-size: 14px; font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.wktop__all { font: 600 13px/1 var(--sans); color: var(--ink); text-decoration: underline; text-underline-offset: 3px; padding-top: 6px; }
