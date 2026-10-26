@@ -1,0 +1,82 @@
+{
+ "slug": "closure",
+ "checked": "Oct 25, 2026",
+ "founded": 2024,
+ "hq": "New York, NY",
+ "headcount_est": {
+  "value": "~15",
+  "as_of": "Oct 2026",
+  "source": "https://linkedin.com/company/closure-intel"
+ },
+ "leadership": [
+  {
+   "name": "Aaron Zelinger",
+   "title": "Co-founder & CEO",
+   "founder": true,
+   "linkedin": "https://www.linkedin.com/in/aaron-zelinger/",
+   "source": "https://www.ycombinator.com/companies/closure"
+  },
+  {
+   "name": "Gilad Levy",
+   "title": "Co-founder & CTO",
+   "founder": true,
+   "linkedin": "https://www.linkedin.com/in/gilad-levy/",
+   "source": "https://www.workatastartup.com/companies/closure"
+  },
+  {
+   "name": "Alex Carter",
+   "title": "Head of Business Operations",
+   "founder": false,
+   "linkedin": "https://www.linkedin.com/in/alex-carter-356b1668/",
+   "source": "https://www.closure-intel.com/company"
+  }
+ ],
+ "funding_history": [
+  {
+   "round": "Accelerator (YC W25)",
+   "date": "2025-01",
+   "amount": "$500K",
+   "valuation": null,
+   "lead": "Y Combinator",
+   "source": "https://aventure.vc/companies/closure-new-york-ny-us/fundraising"
+  },
+  {
+   "round": "Seed",
+   "date": "2025-03",
+   "amount": "~$7M (aggregator figure; not announced)",
+   "valuation": null,
+   "lead": "CRV (with YC, Hawktail, Liquid 2, Adverb, Commonweal, Pathlight)",
+   "source": "https://pitchbook.com/profiles/company/762973-39"
+  }
+ ],
+ "total_raised": "~$7M (est.)",
+ "revenue_est": null,
+ "news_timeline": [
+  {
+   "date": "2026-10",
+   "headline": "Imperial County DA adopts Closure via 3-year $212,500 grant-funded contract",
+   "url": "https://www.ivpressonline.com/news/imperial-county-da-secures-212-500-grant-to-deploy-ai-platform-for-criminal-prosecutions/article_59f3a003-6f7d-43b4-9c17-24ba31e65332.html"
+  },
+  {
+   "date": "2026-05",
+   "headline": "Comstock's profiles Closure use by Placer and Del Norte County DAs in homicide cases",
+   "url": "https://www.closure-intel.com/stories"
+  },
+  {
+   "date": "2026-01",
+   "headline": "Axios features Closure in look at AI for police detective work",
+   "url": "https://www.axios.com/2026/01/24/ai-police-evidence-cold-cases"
+  },
+  {
+   "date": "2025-09",
+   "headline": "Anchorage Assembly approves 5-year, $375K Closure contract for APD",
+   "url": "https://alaskapublic.org/news/public-safety/2025-09-23/anchorage-police-adopt-ai-to-analyze-investigative-data"
+  }
+ ],
+ "competitors": [
+  "Longeye",
+  "JusticeText",
+  "Cellebrite",
+  "Axon"
+ ]
+}

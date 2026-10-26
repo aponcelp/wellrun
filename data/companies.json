@@ -37403,5 +37403,51 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Closure",
+  "slug": "closure",
+  "site": "https://www.closure-intel.com",
+  "careers_url": "https://www.closure-intel.com/careers",
+  "what_they_do": "AI digital analyst that transcribes, translates and searches evidence for police and prosecutors",
+  "problem": "Detectives and DAs can't review thousands of hours of jail calls, warrants and case files in time",
+  "industry": "GovTech / law enforcement AI",
+  "stage": "Seed",
+  "last_round": "~$7M seed (est., undisclosed)",
+  "last_round_date": "Mar 2025",
+  "lead_investors": "Y Combinator, CRV",
+  "total_open_roles": "12",
+  "ops_roles": "Deployment Strategist; Founding Deployment Strategist; Forward-Deployed Product Manager",
+  "hiring_trend": "~15 staff on LinkedIn, +117% YoY (+7); 12 open roles across careers page and YC",
+  "headcount": "~13-15",
+  "latest_news": "Imperial County DA adopts Closure under a 3-year $212,500 grant-funded contract",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.ivpressonline.com/news/imperial-county-da-secures-212-500-grant-to-deploy-ai-platform-for-criminal-prosecutions/article_59f3a003-6f7d-43b4-9c17-24ba31e65332.html",
+  "traction": "Anchorage PD 5-yr $375K deal; DAs in Placer, San Mateo, Del Norte, SLO, Imperial; 'tens' of agencies",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 25, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Early seed vendor with a handful of agency contracts; CJIS-audited workflow is sticky, but Longeye, Axon and Cellebrite chase the same buyers.",
+  "distance_sources": [
+   {
+    "label": "Axios: AI is reshaping police detective work (Jan 2026)",
+    "url": "https://www.axios.com/2026/01/24/ai-police-evidence-cold-cases"
+   },
+   {
+    "label": "Alaska Public Media: Anchorage police adopt Closure, 5-yr $375K contract (Sep 2025)",
+    "url": "https://alaskapublic.org/news/public-safety/2025-09-23/anchorage-police-adopt-ai-to-analyze-investigative-data"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
