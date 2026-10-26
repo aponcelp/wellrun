@@ -1,0 +1,77 @@
+{
+ "slug": "lassie",
+ "checked": "Oct 26, 2026",
+ "founded": 2020,
+ "hq": "San Francisco, CA",
+ "headcount_est": {
+  "value": "~42",
+  "as_of": "Oct 2026",
+  "source": "https://linkedin.com/company/lassie"
+ },
+ "leadership": [
+  {
+   "name": "Steijn Pelle",
+   "title": "Co-founder & CEO",
+   "founder": true,
+   "linkedin": "https://www.linkedin.com/in/steijn/",
+   "source": "https://a16z.com/announcement/investing-in-lassie/"
+  },
+  {
+   "name": "Frédéric Renken",
+   "title": "Co-founder",
+   "founder": true,
+   "linkedin": "https://www.linkedin.com/in/renken/",
+   "source": "https://a16z.com/announcement/investing-in-lassie/"
+  }
+ ],
+ "funding_history": [
+  {
+   "round": "Seed / earlier rounds",
+   "date": null,
+   "amount": "~$12M (implied: $47M total minus $35M Series A; not separately announced)",
+   "valuation": null,
+   "lead": "SV Angel, Homebrew, Go Global Ventures (backers; lead not disclosed)",
+   "source": "https://sacra.com/c/lassie/"
+  },
+  {
+   "round": "Series A",
+   "date": "2026-06",
+   "amount": "$35M",
+   "valuation": "~$250M (reported, source with knowledge)",
+   "lead": "Andreessen Horowitz",
+   "source": "https://www.upstartsmedia.com/p/toothy-ai-lassie-raises-35m"
+  }
+ ],
+ "total_raised": "$47M",
+ "revenue_est": {
+  "value": "$10M+ annualized revenue",
+  "as_of": "Jun 2026",
+  "basis": "company-stated (via lead investor a16z)",
+  "source": "https://a16z.com/announcement/investing-in-lassie/"
+ },
+ "news_timeline": [
+  {
+   "date": "2026-07",
+   "headline": "Founders on a16z podcast: AI for America's small businesses",
+   "url": "https://a16z.com/podcast/ai-for-americas-small-businesses-lassie/"
+  },
+  {
+   "date": "2026-06",
+   "headline": "Raises $35M Series A led by a16z; $47M total, 700+ practices in 49 states",
+   "url": "https://www.businesswire.com/news/home/20260603909717/en/Lassie-Raises-%2435M-Led-by-Andreessen-Horowitz-to-Build-AI-for-Small-Businesses-to-Run-Themselves"
+  },
+  {
+   "date": "2026-06",
+   "headline": "a16z's Alex Rampell joins board; ex-Robinhood CFO Jason Warnick becomes advisor",
+   "url": "https://www.businesswire.com/news/home/20260603909717/en/Lassie-Raises-%2435M-Led-by-Andreessen-Horowitz-to-Build-AI-for-Small-Businesses-to-Run-Themselves"
+  }
+ ],
+ "competitors": [
+  "Fincura",
+  "OmniPractice",
+  "DayDream",
+  "eAssist Dental Solutions",
+  "Waystar",
+  "sunlight-ai"
+ ]
+}

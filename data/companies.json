@@ -37558,5 +37558,54 @@
    "London",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Lassie",
+  "slug": "lassie",
+  "site": "https://www.lassie.ai",
+  "careers_url": "https://jobs.ashbyhq.com/lassie",
+  "what_they_do": "AI agents that run back-office billing and admin for independent dental and medical practices",
+  "problem": "Practice owners lose 100+ hours a month posting insurance payments, reconciling deposits and chasing claims, and can't hire billers",
+  "industry": "Healthcare admin AI / dental & medical revenue cycle",
+  "stage": "Series A",
+  "last_round": "$35M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Andreessen Horowitz (a16z)",
+  "total_open_roles": "15",
+  "ops_roles": "Business Operations; Customer Operations; Deployment Strategist",
+  "hiring_trend": "Headcount ~42, +35% YoY (LinkedIn est.); 15 open roles, 10 posted with the Jun 2026 raise",
+  "headcount": "~40",
+  "latest_news": "Raised $35M Series A led by a16z (~$250M valuation); Alex Rampell joins board",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20260603909717/en/Lassie-Raises-%2435M-Led-by-Andreessen-Horowitz-to-Build-AI-for-Small-Businesses-to-Run-Themselves",
+  "traction": "$10M+ annualized revenue, 700+ practices in 49 states, profitable; growth mostly referrals",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky once wired into a practice's PMS, payer portals and bank (deployment and customer-ops hiring confirm lock-in), with real adoption (700+ practices, $10M+ revenue), but a small player in a crowded field of AI posting tools (Fincura, OmniPractice), full-cycle billers (DayDream, eAssist) and incumbents that could bundle it (Planet DDS, Waystar).",
+  "distance_sources": [
+   {
+    "label": "Sacra: Lassie product, competition and risks",
+    "url": "https://sacra.com/c/lassie/"
+   },
+   {
+    "label": "a16z: Investing in Lassie (700+ practices, $10M+ annualized revenue, Jun 2026)",
+    "url": "https://a16z.com/announcement/investing-in-lassie/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Toronto"
+  ]
  }
 ]

@@ -1751,6 +1751,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "lassie": {
+  "url": "https://lassie.ai/og-image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-26"
+ },
  "latent": {
   "url": "https://www.latenthealth.com/og/2026-09-09-home-figma-brandv2.png",
   "kind": "og",
