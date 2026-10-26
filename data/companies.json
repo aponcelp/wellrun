@@ -37449,5 +37449,422 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Athos Commerce",
+  "slug": "athos-commerce",
+  "site": "https://athoscommerce.com",
+  "careers_url": "https://athoscommerce.com/careers/",
+  "what_they_do": "Ecommerce site search, merchandising, personalization and product feed management for online brands",
+  "problem": "Shoppers can't find the right products on brand sites, marketplaces and AI assistants, so brands lose conversions",
+  "industry": "Ecommerce software / product discovery",
+  "stage": "PE-backed (PSG)",
+  "last_round": "Undisclosed",
+  "last_round_date": "Sep 2022",
+  "lead_investors": "PSG",
+  "total_open_roles": "3",
+  "ops_roles": "Product Operations Lead",
+  "hiring_trend": "Shrinking: layoffs ~May 2026; ~206 on LinkedIn vs ~275 Dec 2025 (est.)",
+  "headcount": "~210-280",
+  "latest_news": "Launched Intelligent Discovery Platform with agentic commerce at Shoptalk Europe",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://athoscommerce.com/product-launch-2026/",
+  "traction": "~$30M revenue est. (GetLatka, Dec 2025); 2,700+ brands incl. SKIMS, Fabletics, West Elm",
+  "red_flags": "Layoffs around May 2026 after the 2025 three-way merger; Glassdoor reviews describe a post-merger exodus, departed founders and weak leadership under a new CEO (2.9/5, 5 reviews). Platform relaunch was pushed to early 2026.",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn: ex-engineer impacted by Athos Commerce layoffs (Jun 2026)",
+    "url": "https://www.linkedin.com/posts/cew32_its-been-about-a-month-since-i-shared-that-activity-7477747664835772416-sKM8"
+   },
+   {
+    "label": "Glassdoor: Athos Commerce reviews (2026)",
+    "url": "https://www.glassdoor.com/Reviews/Athos-Commerce-Reviews-E10697593.htm"
+   },
+   {
+    "label": "MarTech Cube: Athos updates rollout schedule to early 2026 (Aug 2025)",
+    "url": "https://www.martechcube.com/athos-commerce-updates-rollout-to-ensure-seamless-customer-shift/"
+   }
+  ],
+  "score": "1.0",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "2.9",
+  "glassdoor_reviews": "5",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Athos-Commerce-Reviews-E10697593.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Mid-market roll-up of three older search vendors with solid customer ratings (G2 4.5) and 2,700+ brands, but trails Algolia, Bloomreach and Constructor in enterprise search, and the merger is still digesting.",
+  "distance_sources": [
+   {
+    "label": "PSG: Athos Commerce portfolio page",
+    "url": "https://psgequity.com/portfolio/athos_commerce"
+   },
+   {
+    "label": "YesPress: Athos Commerce profile (Oct 2026)",
+    "url": "https://yespress.io/athos-commerce"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Nevis",
+  "slug": "nevis",
+  "site": "https://www.neviswealth.com",
+  "careers_url": "https://jobs.ashbyhq.com/nevis",
+  "what_they_do": "AI operating system that automates admin and operations work for wealth advisors and RIAs",
+  "problem": "Financial advisors lose most of their week to meeting prep, follow-ups, account openings and paperwork instead of clients",
+  "industry": "Wealth management tech / AI",
+  "stage": "Series B",
+  "last_round": "$70M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "EQT Ventures; Charles Schwab (strategic), Sequoia, ICONIQ, Ribbit",
+  "total_open_roles": "21",
+  "ops_roles": "Founder's Associate (CEO Office); Deployment Strategist, Enterprise; Operations Manager (Product); Customer Success Manager - Remote",
+  "hiring_trend": "~70 staff (Fortune, Oct 2026) up from ~30 in Dec 2025; employee growth +164% in 12 mo (TrueUp)",
+  "headcount": "~70",
+  "latest_news": "Raised $70M Series B led by EQT Ventures at ~$500M valuation, Schwab joins",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://fortune.com/2026/10/26/former-revolut-execs-70-million-financial-advisor-shortage/",
+  "traction": "Customer AUM grew $50B to $700B+ in 2026; Focus Financial and AlTi Tiedemann rolled it out",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Fast enterprise RIA wins (Focus Financial, AlTi) and Schwab as a strategic backer put it ahead of meeting-note tools like Jump and Zocks, but the category is young and crowded.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Focus Financial Partners selects Nevis (Oct 2026)",
+    "url": "https://www.businesswire.com/news/home/20261015080891/en/Focus-Financial-Partners-Selects-Nevis-to-Empower-Advisors-with-Leading-AI-Wealth-Management-Platform"
+   },
+   {
+    "label": "Fortune: Nevis raises $70M Series B (Oct 2026)",
+    "url": "https://fortune.com/2026/10/26/former-revolut-execs-70-million-financial-advisor-shortage/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "London",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Lassie",
+  "slug": "lassie",
+  "site": "https://www.lassie.ai",
+  "careers_url": "https://jobs.ashbyhq.com/lassie",
+  "what_they_do": "AI agents that run back-office billing and admin for independent dental and medical practices",
+  "problem": "Practice owners lose 100+ hours a month posting insurance payments, reconciling deposits and chasing claims, and can't hire billers",
+  "industry": "Healthcare admin AI / dental & medical revenue cycle",
+  "stage": "Series A",
+  "last_round": "$35M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Andreessen Horowitz (a16z)",
+  "total_open_roles": "15",
+  "ops_roles": "Business Operations; Customer Operations; Deployment Strategist",
+  "hiring_trend": "Headcount ~42, +35% YoY (LinkedIn est.); 15 open roles, 10 posted with the Jun 2026 raise",
+  "headcount": "~40",
+  "latest_news": "Raised $35M Series A led by a16z (~$250M valuation); Alex Rampell joins board",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20260603909717/en/Lassie-Raises-%2435M-Led-by-Andreessen-Horowitz-to-Build-AI-for-Small-Businesses-to-Run-Themselves",
+  "traction": "$10M+ annualized revenue, 700+ practices in 49 states, profitable; growth mostly referrals",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky once wired into a practice's PMS, payer portals and bank (deployment and customer-ops hiring confirm lock-in), with real adoption (700+ practices, $10M+ revenue), but a small player in a crowded field of AI posting tools (Fincura, OmniPractice), full-cycle billers (DayDream, eAssist) and incumbents that could bundle it (Planet DDS, Waystar).",
+  "distance_sources": [
+   {
+    "label": "Sacra: Lassie product, competition and risks",
+    "url": "https://sacra.com/c/lassie/"
+   },
+   {
+    "label": "a16z: Investing in Lassie (700+ practices, $10M+ annualized revenue, Jun 2026)",
+    "url": "https://a16z.com/announcement/investing-in-lassie/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Toronto"
+  ]
+ },
+ {
+  "name": "Canals",
+  "slug": "canals",
+  "site": "https://www.canals.ai",
+  "careers_url": "https://jobs.ashbyhq.com/canals",
+  "what_they_do": "AI that turns emailed, PDF and phone orders and invoices into ERP entries for distributors",
+  "problem": "Distributor reps and AP clerks retype messy orders, quotes and invoices into the ERP by hand, slowly and with errors",
+  "industry": "Vertical AI / wholesale distribution operations",
+  "stage": "Series A",
+  "last_round": "$35M",
+  "last_round_date": "May 2026",
+  "lead_investors": "Base10 Partners (A); Applico Capital (seed)",
+  "total_open_roles": "24",
+  "ops_roles": "Implementation Engineer - ERP Integrations (Remote: New York, Bogota, Cali, Sao Paulo); Customer Success Manager (Remote US: Chicago, New York, Austin, Denver, Seattle, SF, Raleigh, Lehi)",
+  "hiring_trend": "Headcount ~148, +190% YoY (LinkedIn est.); ~100 in Jun 2026 per CEO, ~140 per job posts; 24 open roles, all posted Oct 2026",
+  "headcount": "~140-150",
+  "latest_news": "Raised $35M Series A led by Base10; 100+ distributors, profitable before VC",
+  "latest_news_date": "May 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/05/28/3302917/0/en/canals-raises-35m-to-eliminate-friction-from-the-industrial-supply-chain.html",
+  "traction": "Profitable and bootstrapped to 100+ distributors; 8M+ orders, $5B payables processed; headcount ~3x YoY",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "2",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Canals-Reviews-E9769423.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Leading distributor-specific AI suite (100+ distributors, profitable, added AP, AR, PO and receiving lines on top of order entry, wired into distributor ERPs), but the category is crowded: Conexiom and Esker are entrenched and Distro, Endeavor, WizCommerce and others pitch the same buyer.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: Canals raises $35M; 100+ distributors, built without VC (May 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/05/28/3302917/0/en/canals-raises-35m-to-eliminate-friction-from-the-industrial-supply-chain.html"
+   },
+   {
+    "label": "GlobeNewswire: Canals launches end-to-end Operating AI suite (Apr 2026)",
+    "url": "https://www.globenewswire.com/de/news-release/2026/04/01/3266577/0/en/canals-introduces-end-to-end-operating-ai-for-distributors-automating-repetitive-workflows-for-customer-winning-service.html"
+   },
+   {
+    "label": "Y Meadows: 19 AI order entry vendors compared (2026)",
+    "url": "https://ymeadows.com/en/insights/blog/ai-order-entry-vendors/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Denver",
+   "Remote (Colombia)"
+  ]
+ },
+ {
+  "name": "doxx.net",
+  "slug": "doxx-net",
+  "site": "https://www.doxx.net",
+  "careers_url": "",
+  "what_they_do": "Private, zero-log network where people and AI agents browse, mesh and message securely",
+  "problem": "People and their AI agents leak activity through rented internet infrastructure and servers they don't control",
+  "industry": "Privacy networking / agent security",
+  "stage": "Series A",
+  "last_round": "$38M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Andreessen Horowitz",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "Tiny team: ~5 on LinkedIn (Oct 2026); COO hired Oct 2026; no public job board found",
+  "headcount": "~5-10",
+  "latest_news": "Raised $38M Series A led by a16z; opened Agentic Defined Networking beta",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/01/doxxnet-a16z-lyon-networking",
+  "traction": "Open beta since Oct 2026 (closed beta Dec 2025); 38M+ threats blocked (company-stated); no user or revenue figures",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Scale",
+  "distance": "Unproven",
+  "distance_why": "Just left closed beta with no disclosed users or revenue; owning its own IP space, DNS root and 31-site backbone could become a cost and trust edge, but it competes with entrenched VPN and mesh players (Tailscale, Proton, NordVPN).",
+  "distance_sources": [
+   {
+    "label": "Network World: Startup doxx.net hands the network controls to AI (Oct 2026)",
+    "url": "https://www.networkworld.com/article/4230194/startup-doxx-net-hands-the-network-controls-to-ai.html"
+   },
+   {
+    "label": "Business Wire: doxx.net raises $38M led by a16z, launches open beta (Oct 2026)",
+    "url": "https://www.businesswire.com/news/home/20261001294246/en/doxx.net-Raises-%2438-Million-Led-by-Andreessen-Horowitz-to-Launch-Agentic-Defined-Networking"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Entire",
+  "slug": "entire",
+  "site": "https://entire.com",
+  "careers_url": "",
+  "what_they_do": "Git hosting network that stores AI coding-agent sessions alongside code",
+  "problem": "AI coding agents overwhelm centralized Git hosts with rate limits, and the reasoning behind agent-written code gets lost",
+  "industry": "Developer tools / AI coding infrastructure",
+  "stage": "Seed",
+  "last_round": "$60M",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "Felicis (lead), Madrona, M12, Basis Set",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "15 staff at Feb 2026 launch → 40+ in Jul 2026 → ~48 now; targets ~60 by year-end; no public job board",
+  "headcount": "~48",
+  "latest_news": "Shipped Grok CLI integration and Google sign-in; Git network preview expanding beyond waitlist",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://entire.com/blog/the-entire-cli-is-now-integrated-with-grok",
+  "traction": "Pre-revenue preview, pricing not launched; 'thousands of users', 5.2K GitHub stars on open-source CLI",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Eight months out of stealth with a free waitlisted preview and no pricing; aims for lock-in as the system of record for agent code, but GitHub, GitLab and Cursor can ship the same session capture and mirroring.",
+  "distance_sources": [
+   {
+    "label": "GeekWire: Entire's Git network preview, pricing not yet disclosed (Jul 2026)",
+    "url": "https://www.geekwire.com/2026/former-github-ceos-startup-entire-unveils-its-answer-to-the-crush-of-ai-coding-agents"
+   },
+   {
+    "label": "Tech Stackups: hands-on review notes GitHub could copy Checkpoints (Mar 2026)",
+    "url": "https://techstackups.com/guides/entire-io-hands-on-what-it-actually-captures/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "June AI",
+  "slug": "june-ai",
+  "site": "https://www.june.ai",
+  "careers_url": "https://jobs.ashbyhq.com/jobs.june-ai",
+  "what_they_do": "AI agents that map, implement and change enterprise systems like Salesforce and Workday",
+  "problem": "Enterprise system changes and AI agent rollouts wait months on consultants, admins and systems integrators",
+  "industry": "Enterprise AI implementation / systems integration",
+  "stage": "Pre-seed",
+  "last_round": "$20M",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "TIME Ventures (Marc Benioff)",
+  "total_open_roles": "3",
+  "ops_roles": "",
+  "hiring_trend": "Early team, ~31 staff on LinkedIn (est.); 3 open roles, all posted Oct 2026",
+  "headcount": "~31",
+  "latest_news": "Emerged from stealth with $20M pre-seed led by Marc Benioff's TIME Ventures",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+  "traction": "Early: CMG Financial built 31 Salesforce agents with June (company-stated); no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Out of stealth in Aug 2026 with one named customer; too early to judge against systems integrators, FDE teams and platform vendors' own agent tooling (Salesforce Agentforce).",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: June emerges from stealth with $20M pre-seed (Aug 2026)",
+    "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/"
+   },
+   {
+    "label": "GlobeNewswire: June AI emerges from stealth (Aug 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/08/03/3337641/0/en/june-ai-emerges-from-stealth-to-reinvent-enterprise-software-implementation-for-the-ai-era.html"
+   }
+  ],
+  "hiring_locations": [
+   "Tel Aviv",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Acclaim",
+  "slug": "acclaim",
+  "site": "https://www.acclaim.ai",
+  "careers_url": "https://www.comeet.com/jobs/aiphoria/CA.00B",
+  "what_they_do": "Voice-first AI agents for collections, sales and service at banks, insurers and healthcare",
+  "problem": "Regulated firms need to automate high-volume calls without breaking compliance rules or sending data outside their walls",
+  "industry": "Conversational AI / regulated customer operations",
+  "stage": "Series A",
+  "last_round": "$34M",
+  "last_round_date": "Jul 2025",
+  "lead_investors": "Ratmir Timashev (Veeam co-founder)",
+  "total_open_roles": "6",
+  "ops_roles": "",
+  "hiring_trend": "LinkedIn ~64 staff, +49% YoY but -1.5% last month; all 6 open roles are remote outside the US (Serbia, Argentina, Brazil, Uzbekistan)",
+  "headcount": "~64-75",
+  "latest_news": "CEO change: Overtime CEO Dan Kutchel now leads Acclaim; Fred Fontes no longer listed",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.acclaim.ai/company",
+  "traction": "Bootstrapped to profitability; 2M+ calls/month, 50M+ end users; TBC Uzbekistan 90% of early collections calls",
+  "red_flags": "CEO turnover: Fred Fontes was named CEO with the Mar 2026 US launch; by Jul 2026 the company called Dan Kutchel (CEO of affiliated Overtime) its CEO, and Fontes is gone from the leadership page.",
+  "red_flags_sources": [
+   {
+    "label": "BusinessWire: Acclaim launches in U.S., Fred Fontes appointed CEO (Mar 2026)",
+    "url": "https://www.businesswire.com/news/home/20260331987264/en/Acclaim-Launches-in-U.S.-With-Mission-to-Transform-Customer-Experience-Through-Enterprise-grade-Voice-first-AI-Platform"
+   },
+   {
+    "label": "Acclaim leadership page lists Dan Kutchel as CEO (Oct 2026)",
+    "url": "https://www.acclaim.ai/company"
+   },
+   {
+    "label": "Acclaim AI LinkedIn: 'Our CEO Dan Kutchel' (Jul 2026)",
+    "url": "https://www.linkedin.com/posts/acclaimai_dan-kutchel-of-overtime-ai-how-we-leveraged-activity-7484887998942154752-QyMI"
+   }
+  ],
+  "score": "1.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky on-prem deployments at banks like TBC, but a late US entrant behind far better-funded voice/CX AI rivals (Parloa, PolyAI, Sierra, Decagon) and a16z-backed Salient in lending collections, with CEO churn months after launch.",
+  "distance_sources": [
+   {
+    "label": "BusinessWire: Acclaim U.S. launch, TBC results (Mar 2026)",
+    "url": "https://www.businesswire.com/news/home/20260331987264/en/Acclaim-Launches-in-U.S.-With-Mission-to-Transform-Customer-Experience-Through-Enterprise-grade-Voice-first-AI-Platform"
+   },
+   {
+    "label": "TechCrunch: Parloa raises $350M at $3B, names Sierra and Decagon as rivals (Jan 2026)",
+    "url": "https://techcrunch.com/2026/01/15/parloa-triples-its-valuation-in-8-months-to-3b-with-350m-raise/"
+   },
+   {
+    "label": "a16z: Investing in Salient, AI agents for lender collections (Jul 2025)",
+    "url": "https://a16z.com/announcement/investing-in-salient"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

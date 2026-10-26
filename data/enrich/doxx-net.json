@@ -1,0 +1,63 @@
+{
+  "slug": "doxx-net",
+  "checked": "Oct 26, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "Miami, FL",
+  "headcount_est": {
+    "value": "~5 on LinkedIn",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/doxx.net"
+  },
+  "leadership": [
+    {
+      "name": "Barrett Lyon",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/blyon/",
+      "source": "https://www.businesswire.com/news/home/20261001294246/en/doxx.net-Raises-%2438-Million-Led-by-Andreessen-Horowitz-to-Launch-Agentic-Defined-Networking"
+    },
+    {
+      "name": "Nicolai Bezsonoff",
+      "title": "COO",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/nicolai-bezsonoff-283391",
+      "source": "https://www.linkedin.com/posts/nicolai-bezsonoff-283391_agentic-defined-network-doxxnet-activity-7511463064643366913-uZ5H"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$38M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.axios.com/pro/enterprise-software-deals/2026/10/01/doxxnet-a16z-lyon-networking"
+    }
+  ],
+  "total_raised": "$38M (only disclosed round)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $38M Series A led by a16z (Animo Ventures, Focal.vc); a16z's Joel de la Garza joins board",
+      "url": "https://fintech.global/2026/10/06/doxx-net-raises-38m-as-ai-agents-face-new-network-risks/"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Opens Agentic Defined Networking platform to public beta",
+      "url": "https://www.doxx.net/blog/welcome-to-the-agentic-networking-era"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Nicolai Bezsonoff joins as COO",
+      "url": "https://www.linkedin.com/posts/nicolai-bezsonoff-283391_agentic-defined-network-doxxnet-activity-7511463064643366913-uZ5H"
+    }
+  ],
+  "competitors": [
+    "Tailscale",
+    "Proton",
+    "NordVPN",
+    "Mullvad"
+  ]
+}

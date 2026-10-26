@@ -1,0 +1,87 @@
+{
+  "slug": "entire",
+  "checked": "Oct 26, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "Seattle, WA (remote-first)",
+  "headcount_est": {
+    "value": "40+",
+    "as_of": "Jul 2026",
+    "source": "https://devops.com/former-github-ceo-unveils-distributed-git-network-built-for-ai-coding-agents/"
+  },
+  "leadership": [
+    {
+      "name": "Thomas Dohmke",
+      "title": "Co-founder & CEO (former GitHub CEO)",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/ashtom",
+      "source": "https://entire.io/about/company"
+    },
+    {
+      "name": "Georg Friedrich",
+      "title": "Co-founder, Engineering",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/friedrich_hello-entire-world-activity-7427159368518979584-tz83"
+    },
+    {
+      "name": "Cole Driver",
+      "title": "Strategy & GTM",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://entire.io/about/company"
+    },
+    {
+      "name": "Karthik Rameshkumar",
+      "title": "Field CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.theleftshift.com/entire-launches-india-data-residency-opens-founding-builders-programme/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-02",
+      "amount": "$60M",
+      "valuation": "$300M",
+      "lead": "Felicis",
+      "source": "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/"
+    }
+  ],
+  "total_raised": "$60M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Entire CLI integrates with Grok Build; Google sign-in added",
+      "url": "https://entire.com/blog/the-entire-cli-is-now-integrated-with-grok"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launches agentic search API across code, commits and agent sessions",
+      "url": "https://entire.com/blog/introducing-agentic-search-for-code-and-context"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Opens India data-residency region and Founding Builders programme",
+      "url": "https://www.theleftshift.com/entire-launches-india-data-residency-opens-founding-builders-programme/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Launches preview of distributed Git network for AI agents (waitlist)",
+      "url": "https://siliconangle.com/2026/07/08/ex-github-chiefs-entire-opens-distributed-git-network-agent-era/"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Exits stealth with record $60M dev-tools seed at $300M; ships Checkpoints CLI",
+      "url": "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/"
+    }
+  ],
+  "competitors": [
+    "GitHub",
+    "GitLab",
+    "Cursor",
+    "Pierre"
+  ]
+}

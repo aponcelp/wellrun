@@ -1,0 +1,58 @@
+{
+  "slug": "june-ai",
+  "checked": "Oct 26, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Efrat Rapoport",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/efrat-rapoport-49341251/",
+      "source": "https://www.june.ai/about"
+    },
+    {
+      "name": "Barak Goldstein",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/barakgold/",
+      "source": "https://www.june.ai/about"
+    },
+    {
+      "name": "Idan Tsitiat",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/idan-tsitiat-54ab6342/",
+      "source": "https://www.june.ai/about"
+    },
+    {
+      "name": "Ohad Hen",
+      "title": "Co-founder & Chief Architect",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/ohad-hen/",
+      "source": "https://www.june.ai/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2026-08",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "TIME Ventures",
+      "source": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/"
+    }
+  ],
+  "total_raised": "$20M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Emerges from stealth with $20M pre-seed led by Marc Benioff's TIME Ventures",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/"
+    }
+  ],
+  "competitors": []
+}

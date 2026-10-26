@@ -47,6 +47,12 @@
   "type": "image/webp",
   "checked": "2026-10-19"
  },
+ "acclaim": {
+  "url": "https://www.acclaim.ai/assets/apple-touch-icon.png",
+  "kind": "icon",
+  "type": "image/png",
+  "checked": "2026-10-26"
+ },
  "accord": {
   "url": "https://cdn.prod.website-files.com/68d3df3714cf3a122c1640dd/6916517cbf54f093700a336d_Home%20Page_OG-min.png",
   "kind": "og",
@@ -317,6 +323,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-22"
  },
+ "athos-commerce": {
+  "url": "https://athoscommerce.com/wp-content/uploads/2026/06/Athos-Co-V1-Home_Feature_Image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-26"
+ },
  "atlar": {
   "url": "https://cdn.prod.website-files.com/656f3c6489ea21aff4dfcf78/692571712cc755c88534f173_atlar-treasury-meta-comp.png",
   "kind": "og",
@@ -508,6 +520,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "canals": {
+  "url": "https://cdn.prod.website-files.com/66c5a45aa88084518308cfcb/69bdb487290a52caa289254e_77ef6dce837d6c7b9424bc9785b45844_Canals%20AI%20for%20Manufacturers%20Distributors%20Contractors.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-26"
  },
  "candid-health": {
   "url": "https://cdn.sanity.io/images/qh86xbgq/production/7824c9cbd9277f9ce1ae8c34e14406d9c3fdccf1-1440x960.png",
@@ -965,6 +983,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "doxx-net": {
+  "url": "https://www.doxx.net/assets/og-image.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-26"
+ },
  "dualentry": {
   "url": "https://cdn.prod.website-files.com/66bf861737ab5a556a15c52b/6a67632aeae0d92b9bcde40e_dualentry-og-default-1200x630.jpg",
   "kind": "og",
@@ -1060,6 +1084,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "entire": {
+  "url": "https://entire.com/images/og/home.png?v=11",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-26"
  },
  "epia-neuro": {
   "url": "https://cdn.prod.website-files.com/69ca70d0e0d63ec748580fdc/69cd3b21a0f7e1f248145fd7_OG-IMAGE.png",
@@ -1691,6 +1721,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "june-ai": {
+  "url": "https://cdn.prod.website-files.com/697a05c3e5cc94cfc4a88e7e/6a7078dfb25c47076662da8f_og.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-26"
+ },
  "kahua": {
   "url": "https://kahua.com/wp-content/uploads/2026/07/Timelapse-video-thumbnail-1280x720px.jpg",
   "kind": "og",
@@ -1744,6 +1780,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "lassie": {
+  "url": "https://lassie.ai/og-image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-26"
  },
  "latent": {
   "url": "https://www.latenthealth.com/og/2026-09-09-home-figma-brandv2.png",
@@ -2152,6 +2194,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "nevis": {
+  "url": "https://cdn.neviswealth.com/assets/images/website-og-image.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-26"
  },
  "newtonx": {
   "url": "https://cdn.prod.website-files.com/6a0729e920ff8f2c439dfe21/6a3cfc5d55f25d8fd6a2ece4_fd930623689cc8dba3598c88a26ae927_Open%20Graph.png",
