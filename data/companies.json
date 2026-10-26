@@ -37662,5 +37662,51 @@
    "Denver",
    "Remote (Colombia)"
   ]
+ },
+ {
+  "name": "doxx.net",
+  "slug": "doxx-net",
+  "site": "https://www.doxx.net",
+  "careers_url": "",
+  "what_they_do": "Private, zero-log network where people and AI agents browse, mesh and message securely",
+  "problem": "People and their AI agents leak activity through rented internet infrastructure and servers they don't control",
+  "industry": "Privacy networking / agent security",
+  "stage": "Series A",
+  "last_round": "$38M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Andreessen Horowitz",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "Tiny team: ~5 on LinkedIn (Oct 2026); COO hired Oct 2026; no public job board found",
+  "headcount": "~5-10",
+  "latest_news": "Raised $38M Series A led by a16z; opened Agentic Defined Networking beta",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/01/doxxnet-a16z-lyon-networking",
+  "traction": "Open beta since Oct 2026 (closed beta Dec 2025); 38M+ threats blocked (company-stated); no user or revenue figures",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Scale",
+  "distance": "Unproven",
+  "distance_why": "Just left closed beta with no disclosed users or revenue; owning its own IP space, DNS root and 31-site backbone could become a cost and trust edge, but it competes with entrenched VPN and mesh players (Tailscale, Proton, NordVPN).",
+  "distance_sources": [
+   {
+    "label": "Network World: Startup doxx.net hands the network controls to AI (Oct 2026)",
+    "url": "https://www.networkworld.com/article/4230194/startup-doxx-net-hands-the-network-controls-to-ai.html"
+   },
+   {
+    "label": "Business Wire: doxx.net raises $38M led by a16z, launches open beta (Oct 2026)",
+    "url": "https://www.businesswire.com/news/home/20261001294246/en/doxx.net-Raises-%2438-Million-Led-by-Andreessen-Horowitz-to-Launch-Agentic-Defined-Networking"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

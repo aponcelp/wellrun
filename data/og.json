@@ -977,6 +977,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "doxx-net": {
+  "url": "https://www.doxx.net/assets/og-image.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-26"
+ },
  "dualentry": {
   "url": "https://cdn.prod.website-files.com/66bf861737ab5a556a15c52b/6a67632aeae0d92b9bcde40e_dualentry-og-default-1200x630.jpg",
   "kind": "og",
