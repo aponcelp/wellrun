@@ -1168,3 +1168,49 @@ a.wk__name:hover { text-decoration: underline; text-decoration-color: var(--clay
   .fbar__zones { gap: 10px; }
 }
 @media (min-width: 900px) { .hero { gap: 80px; } }
+
+/* company page: chart run line + Keep going (Oct 25) */
+.corun { margin: 14px 0 0; padding: 12px 0 0; border-top: 1px solid var(--rule); }
+.corun__k { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; margin: 0 0 8px; font: 500 10px/1.4 var(--mono); text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-3); }
+.corun__all { font: 600 12px/1 var(--sans); text-transform: none; letter-spacing: 0; color: var(--ink); text-decoration: underline; text-underline-offset: 3px; }
+.corun__row { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 8px; margin: 0; }
+.corun__row dt { font: 500 9.5px/1.3 var(--mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-3); margin-bottom: 4px; }
+.corun__row dd { margin: 0; font: 700 18px/1 var(--sans); font-variant-numeric: tabular-nums; letter-spacing: -0.02em; }
+.corun__mv--up { color: var(--tempo, #258b66); }
+.corun__mv--down { color: var(--terra, #c4572f); }
+.corun__mv--flat, .corun__mv--new { color: var(--ink-2); }
+@media (max-width: 480px) { .corun__row dd { font-size: 15px; } .corun__row dt { font-size: 8.5px; } }
+
+.kg { margin: 44px 0 0; padding: 22px 0 0; border-top: 3px solid var(--ink); }
+.kg__h { margin: 0 0 18px; font: 800 24px/1.1 var(--sans); letter-spacing: -0.02em; }
+.kg__cols { display: grid; gap: 22px; }
+@media (min-width: 760px) { .kg__cols { grid-template-columns: 1fr 1fr; gap: 36px; } }
+.kg__k { margin: 0 0 6px; font: 600 11px/1 var(--mono); text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-2); }
+.kg__list { list-style: none; margin: 0; padding: 0; }
+.kg__item { display: grid; grid-template-columns: 30px 26px minmax(0, 1fr) auto; align-items: center; gap: 10px; padding: 10px 0; border-bottom: 1px solid var(--rule); color: inherit; text-decoration: none; }
+.kg__item:hover { background: rgb(10 33 25 / 0.04); }
+.kg__rank { font: 700 14px/1 var(--sans); font-variant-numeric: tabular-nums; color: var(--ink-2); text-align: right; }
+.kg__logo { width: 26px; height: 26px; }
+.kg__name { min-width: 0; display: grid; gap: 3px; }
+.kg__name b { font: 700 15px/1.15 var(--sans); }
+.kg__name span { font-size: 12.5px; line-height: 1.3; color: var(--ink-2); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.kg__go { display: flex; flex-wrap: wrap; gap: 12px; margin: 26px 0 6px; }
+@media (max-width: 640px) { .kg__go .navchart__b { flex: 1 1 100%; justify-content: center; height: 42px; font-size: 13px; } }
+
+/* This Week: early-stage spotlight (Oct 25) */
+.spot { display: grid; gap: 10px; margin-top: 10px; padding: 18px 18px 16px; background: #fffdf8; border: 1px solid var(--ink); box-shadow: 4px 4px 0 var(--lime); }
+.spot__k { font: 600 11px/1 var(--mono); text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink); }
+.spot__k::before { content: ""; display: inline-block; width: 8px; height: 8px; margin-right: 8px; background: var(--lime); box-shadow: inset 0 0 0 1px var(--ink); }
+.spot__name { font: 400 34px/1 var(--display); text-transform: uppercase; }
+.spot__name .wk__name { font: inherit; }
+.spot__tag { font: 600 16px/1.4 var(--sans); }
+.spot__facts { display: grid; gap: 10px; margin: 4px 0 0; }
+.spot__facts > div { display: grid; gap: 3px; padding-top: 8px; border-top: 1px solid var(--rule); }
+@media (min-width: 640px) { .spot__facts > div { grid-template-columns: 130px minmax(0, 1fr); gap: 14px; } }
+.spot__facts dt { font: 600 11px/1.5 var(--mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-2); }
+.spot__facts dd { margin: 0; font-size: 14.5px; line-height: 1.55; color: var(--ink-2); }
+.spot__why { padding: 12px 14px; background: rgb(185 255 0 / 0.22); border-left: 3px solid var(--ink); }
+.spot__wk { font: 600 11px/1 var(--mono); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 6px; }
+.spot__why p:last-child { font-size: 15px; line-height: 1.55; }
+.spot__src { font: 400 11.5px/1.5 var(--mono); color: var(--ink-3); }
+.spot__src a { color: var(--ink-2); }

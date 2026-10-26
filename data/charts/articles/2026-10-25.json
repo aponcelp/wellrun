@@ -1,43 +1,156 @@
 {
-  "week": "2026-10-25",
-  "title": "Three bootstrappers crash the party",
-  "lede": "Most of this week's movement came from two places: a scoring change that finally gives credit to companies that grew without venture money, and job boards we can now read. Here is what really changed, and what only looks like it did.",
-  "sections": [
+ "week": "2026-10-25",
+ "title": "Three bootstrappers crash the party",
+ "lede": "Most of this week's movement came from two places: a scoring change that finally gives credit to companies that grew without venture money, and job boards we can now read. Here is what really changed, and what only looks like it did.",
+ "sections": [
+  {
+   "heading": "The climbers",
+   "items": [
     {
-      "heading": "The climbers",
-      "items": [
-        { "slug": "column", "name": "Column", "move": "#342 → #98", "score": "3.0 → 4.5", "zone": "Steady → Race",
-          "why": "Column is a bootstrapped, founder-owned bank. Under the new self-funded rule, a company that grows without a VC round now gets funding credit instead of a zero. That alone lifted Column two zones and into the 100." },
-        { "slug": "plaud", "name": "PLAUD", "move": "#272 → #55", "score": "3.5 → 5.0", "zone": "Tempo → Sprint",
-          "why": "PLAUD is profitable with no disclosed VC round, so it earns the same bootstrapped credit. Add 51 open roles and it lands in Sprint." },
-        { "slug": "deepinfra", "name": "DeepInfra", "move": "#288 → #70", "score": "3.5 → 5.0", "zone": "Tempo → Sprint",
-          "why": "Nothing changed at DeepInfra. What changed is that its job board became readable this week. Open roles went from unreadable (counted as 0) to 18, and that hiring signal moved it up to Sprint." },
-        { "slug": "loop", "name": "Loop", "move": "#114 → #64", "score": "4.5 → 5.0", "zone": "Race → Sprint",
-          "why": "A real hiring push. Open roles more than doubled, from 23 to 51, which tipped Loop into Sprint." }
-      ]
+     "slug": "column",
+     "name": "Column",
+     "move": "#342 → #98",
+     "score": "3.0 → 4.5",
+     "zone": "Steady → Race",
+     "why": "Column is a bootstrapped, founder-owned bank. Under the new self-funded rule, a company that grows without a VC round now gets funding credit instead of a zero. That alone lifted Column two zones and into the 100."
     },
     {
-      "heading": "Real slowdowns",
-      "items": [
-        { "slug": "viktor", "name": "Viktor", "move": "#62 → #143", "score": "5.0 → 4.5", "zone": "Sprint → Race",
-          "why": "The score slipped half a point and Viktor dropped a zone. Hiring barely moved (31 → 29 open roles), so read this as a small cooling, not a stall. On a list this tight, half a point is worth about 80 places." },
-        { "slug": "simile", "name": "Simile", "move": "#59 → #138", "score": "5.0 → 4.5", "zone": "Sprint → Race",
-          "why": "Same story: half a point lower, one zone down. Open roles went from 10 to 9." },
-        { "slug": "runpod", "name": "Runpod", "move": "#84 → #196", "score": "4.5 → 4.0", "zone": "Race → Tempo",
-          "why": "Runpod lost half a point and moved from Race to Tempo, with open roles down from 30 to 26." }
-      ]
+     "slug": "plaud",
+     "name": "PLAUD",
+     "move": "#272 → #55",
+     "score": "3.5 → 5.0",
+     "zone": "Tempo → Sprint",
+     "why": "PLAUD is profitable with no disclosed VC round, so it earns the same bootstrapped credit. Add 51 open roles and it lands in Sprint."
     },
     {
-      "heading": "Pushed out, not downgraded",
-      "body": "Cresta, n8n, Owner, Scribe and Listen Labs all held their 4.5 Race score. They slipped below #100 only because new high-ranking additions took spots above them. Same pace, more company.",
-      "items": [
-        { "slug": "cresta", "name": "Cresta", "move": "#89 → #101" },
-        { "slug": "n8n", "name": "n8n", "move": "#90 → #102" },
-        { "slug": "owner", "name": "Owner", "move": "#91 → #103" },
-        { "slug": "scribe", "name": "Scribe", "move": "#92 → #104" },
-        { "slug": "listen-labs", "name": "Listen Labs", "move": "#96 → #110" }
-      ]
+     "slug": "deepinfra",
+     "name": "DeepInfra",
+     "move": "#288 → #70",
+     "score": "3.5 → 5.0",
+     "zone": "Tempo → Sprint",
+     "why": "Nothing changed at DeepInfra. What changed is that its job board became readable this week. Open roles went from unreadable (counted as 0) to 18, and that hiring signal moved it up to Sprint."
+    },
+    {
+     "slug": "loop",
+     "name": "Loop",
+     "move": "#114 → #64",
+     "score": "4.5 → 5.0",
+     "zone": "Race → Sprint",
+     "why": "A real hiring push. Open roles more than doubled, from 23 to 51, which tipped Loop into Sprint."
     }
+   ]
+  },
+  {
+   "heading": "Real slowdowns",
+   "items": [
+    {
+     "slug": "viktor",
+     "name": "Viktor",
+     "move": "#62 → #143",
+     "score": "5.0 → 4.5",
+     "zone": "Sprint → Race",
+     "why": "The score slipped half a point and Viktor dropped a zone. Hiring barely moved (31 → 29 open roles), so read this as a small cooling, not a stall. On a list this tight, half a point is worth about 80 places."
+    },
+    {
+     "slug": "simile",
+     "name": "Simile",
+     "move": "#59 → #138",
+     "score": "5.0 → 4.5",
+     "zone": "Sprint → Race",
+     "why": "Same story: half a point lower, one zone down. Open roles went from 10 to 9."
+    },
+    {
+     "slug": "runpod",
+     "name": "Runpod",
+     "move": "#84 → #196",
+     "score": "4.5 → 4.0",
+     "zone": "Race → Tempo",
+     "why": "Runpod lost half a point and moved from Race to Tempo, with open roles down from 30 to 26."
+    }
+   ]
+  },
+  {
+   "heading": "Pushed out, not downgraded",
+   "body": "Cresta, n8n, Owner, Scribe and Listen Labs all held their 4.5 Race score. They slipped below #100 only because new high-ranking additions took spots above them. Same pace, more company.",
+   "items": [
+    {
+     "slug": "cresta",
+     "name": "Cresta",
+     "move": "#89 → #101"
+    },
+    {
+     "slug": "n8n",
+     "name": "n8n",
+     "move": "#90 → #102"
+    },
+    {
+     "slug": "owner",
+     "name": "Owner",
+     "move": "#91 → #103"
+    },
+    {
+     "slug": "scribe",
+     "name": "Scribe",
+     "move": "#92 → #104"
+    },
+    {
+     "slug": "listen-labs",
+     "name": "Listen Labs",
+     "move": "#96 → #110"
+    }
+   ]
+  }
+ ],
+ "outro": "The chart re-ranks every Sunday.",
+ "spotlight": {
+  "label": "Early-stage pick of the week",
+  "slug": "harbor",
+  "name": "Harbor",
+  "tagline": "Insurance for AI agents: find every agent a company runs, measure its risk, block bad decisions, and insure what's left.",
+  "facts": [
+   {
+    "k": "What they do",
+    "v": "Harbor inventories a company's AI agents, scores each one's operational, security and regulatory risk (mapped to NIST AI RMF and the EU AI Act), blocks decisions that break the company's own rules before they go through, and re-measures whenever a model, tool or data source changes. The risk that remains gets insured: hallucinations, action errors, data leakage, bias, contract failures."
+   },
+   {
+    "k": "Traction",
+    "v": "Founded in 2026 and out of stealth on Oct 13. First customers are banks and insurers in the US, Europe and Latin America. No revenue, customer counts or premiums disclosed yet."
+   },
+   {
+    "k": "Funding",
+    "v": "$10M seed led by Base10, Abstract and 8VC, with NFX, Restive, Innovation Endeavors, Kibo Ventures, Masia and MVP Ventures."
+   },
+   {
+    "k": "Team",
+    "v": "Four co-founders who met at Stanford: Jesús Santos (CEO; ex-Morgan Stanley, McKinsey, Crossmint), Daniel Elechiguerra (ex-McKinsey, Citadel), Cristian Bartolomé (2x founder, Pulsar and Factored) and Luis Botín (AI safety research). Former Aon EMEA CEO Eduardo Dávila advises."
+   },
+   {
+    "k": "The open question",
+    "v": "Underwriting a brand-new risk with no loss history is unproven. Watch whether carriers and reinsurers take it on."
+   },
+   {
+    "k": "On Well Run",
+    "v": "Warm-up (2.5), Unproven distance: a launch round, too early to rate."
+   }
   ],
-  "outro": "The chart re-ranks every Sunday."
+  "why": "AI opened a whole new category here. As companies roll out agents that move money, sign contracts and talk to customers, something will go wrong, and right now nobody clearly owns that risk. I see it building agents ourselves: there's always the chance one does the wrong thing at scale. Guardrails and governance are going to be required, and Harbor is building both the controls and the insurance behind them.",
+  "sources": [
+   {
+    "label": "Harbor",
+    "url": "https://harbor.ai/"
+   },
+   {
+    "label": "Seed announcement",
+    "url": "https://harbor.ai/blog/seed-announcement"
+   },
+   {
+    "label": "Insurance Journal",
+    "url": "https://www.insurancejournal.com/news/national/2026/10/13/888747.htm"
+   },
+   {
+    "label": "The Startup Journal",
+    "url": "https://www.startupjournal.io/article/harbor-sale-del-stealth-10-millones-seguro-agentes-ia-base10-8vc"
+   }
+  ]
+ }
 }

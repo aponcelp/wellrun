@@ -10,6 +10,9 @@ import CoLinks from "./CoLinks";
 import CoTrack from "@/components/CoTrack";
 import RivalTrack from "@/components/RivalTrack";
 import Shot from "@/components/Shot";
+import CoRun from "@/components/CoRun";
+import KeepGoing from "@/components/KeepGoing";
+import { getChartRun } from "@/lib/chart";
 import { FundingHistory, Glance, Leadership, NewsTimeline } from "@/components/Profile";
 
 export const dynamicParams = false;
@@ -53,6 +56,7 @@ export default async function CompanyPage({ params }: Props) {
   const host = hostOf(c.site);
   const ops = opsOf(c).length;
   const lead = rank === 1;
+  const run = getChartRun(c.slug);
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Organization",
@@ -89,6 +93,7 @@ export default async function CompanyPage({ params }: Props) {
             {has(c.what_they_do) && <p className="co__what">{c.what_they_do}</p>}
           </div>
         </div>
+        {run && <CoRun run={run} />}
         <dl className="co__stats">
           <div>
             <dt>Pace</dt>
@@ -131,6 +136,7 @@ export default async function CompanyPage({ params }: Props) {
         </div>
       ) : null}
       {e?.checked && <p className="d-checked pf-checked">Profile facts checked {e.checked}. Every fact links to its public source.</p>}
+      <KeepGoing all={await getCompanies()} c={c} />
       <p className="back back--end">
         <Link href="/">← Back to the board</Link>
       </p>

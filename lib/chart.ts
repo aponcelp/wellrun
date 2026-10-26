@@ -20,7 +20,8 @@ export type ChaseEntry = { rank: number; slug: string; name: string; zone: ZoneK
 export type WeekLabel = { week: string; title: string; tracking: string; short: string };
 export type ChartWeek = WeekLabel & { baseline: boolean; total: number; chart: ChartEntry[]; chase: ChaseEntry[] };
 export type ArticleItem = { slug: string; name: string; move?: string; score?: string; zone?: string; why?: string };
-export type Article = { week: string; title: string; lede: string; sections: { heading: string; body?: string; items: ArticleItem[] }[]; outro?: string };
+export type Spotlight = { label: string; slug: string; name: string; tagline: string; facts: { k: string; v: string }[]; why: string; sources: { label: string; url: string }[] };
+export type Article = { week: string; title: string; lede: string; sections: { heading: string; body?: string; items: ArticleItem[] }[]; spotlight?: Spotlight; outro?: string };
 
 const DIR = join(process.cwd(), "data", "charts");
 const read = <T,>(f: string): T | null => {
@@ -53,4 +54,21 @@ export function getLatestBB(): { week: WeekLabel | null; bySlug: Record<string, 
   for (const e of w.chart) bySlug[e.slug] = { rank: e.rank, lw: e.last_week, peak: e.peak, wks: e.weeks, isNew: e.new };
   const { week, title, tracking, short } = w;
   return { week: { week, title, tracking, short }, bySlug };
+}
+
+/** One company's run on the weekly chart: this week, last week, peak, weeks in the top 100. */
+export type ChartRun = { week: WeekLabel; rank: number; lw: number | null; peak: number; wks: number; total: number };
+export function getChartRun(slug: string): ChartRun | null {
+  const idx = getChartIndex();
+  const weeks = idx.weeks.map((w) => getChartWeek(w.week)).filter((w): w is ChartWeek => !!w);
+  if (!weeks.length) return null;
+  const rankIn = (w: ChartWeek) => (w.chart.find((e) => e.slug === slug) || w.chase.find((e) => e.slug === slug))?.rank ?? null;
+  const cur = weeks[0];
+  const rank = rankIn(cur);
+  if (rank == null) return null;
+  const lw = weeks[1] ? rankIn(weeks[1]) : null;
+  const ranks = weeks.map(rankIn).filter((r): r is number => r != null);
+  const wks = weeks.filter((w) => w.chart.some((e) => e.slug === slug)).length;
+  const { week, title, tracking, short } = cur;
+  return { week: { week, title, tracking, short }, rank, lw, peak: Math.min(...ranks), wks, total: cur.total || cur.chart.length + cur.chase.length };
 }

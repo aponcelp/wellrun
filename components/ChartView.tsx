@@ -45,6 +45,36 @@ function ArticleView({ a, live }: { a: Article | null; live: Set<string> }) {
           </ul>
         </section>
       ))}
+      {a.spotlight && (
+        <section className="spot" aria-label={a.spotlight.label}>
+          <p className="spot__k">{a.spotlight.label}</p>
+          <h3 className="spot__name">
+            <Name slug={a.spotlight.slug} name={a.spotlight.name} live={live} />
+          </h3>
+          <p className="spot__tag">{a.spotlight.tagline}</p>
+          <dl className="spot__facts">
+            {a.spotlight.facts.map((f) => (
+              <div key={f.k}>
+                <dt>{f.k}</dt>
+                <dd>{f.v}</dd>
+              </div>
+            ))}
+          </dl>
+          <div className="spot__why">
+            <p className="spot__wk">Why I like it</p>
+            <p>{a.spotlight.why}</p>
+          </div>
+          <p className="spot__src">
+            Sources:{" "}
+            {a.spotlight.sources.map((x, i) => (
+              <span key={x.url}>
+                {i > 0 && " · "}
+                <a href={x.url} target="_blank" rel="noopener noreferrer">{x.label} ↗</a>
+              </span>
+            ))}
+          </p>
+        </section>
+      )}
       {a.outro && <p className="wkart__outro">{a.outro}</p>}
     </article>
   );
