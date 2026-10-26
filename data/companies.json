@@ -37708,5 +37708,51 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Entire",
+  "slug": "entire",
+  "site": "https://entire.com",
+  "careers_url": "",
+  "what_they_do": "Git hosting network that stores AI coding-agent sessions alongside code",
+  "problem": "AI coding agents overwhelm centralized Git hosts with rate limits, and the reasoning behind agent-written code gets lost",
+  "industry": "Developer tools / AI coding infrastructure",
+  "stage": "Seed",
+  "last_round": "$60M",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "Felicis (lead), Madrona, M12, Basis Set",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "15 staff at Feb 2026 launch → 40+ in Jul 2026 → ~48 now; targets ~60 by year-end; no public job board",
+  "headcount": "~48",
+  "latest_news": "Shipped Grok CLI integration and Google sign-in; Git network preview expanding beyond waitlist",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://entire.com/blog/the-entire-cli-is-now-integrated-with-grok",
+  "traction": "Pre-revenue preview, pricing not launched; 'thousands of users', 5.2K GitHub stars on open-source CLI",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Eight months out of stealth with a free waitlisted preview and no pricing; aims for lock-in as the system of record for agent code, but GitHub, GitLab and Cursor can ship the same session capture and mirroring.",
+  "distance_sources": [
+   {
+    "label": "GeekWire: Entire's Git network preview, pricing not yet disclosed (Jul 2026)",
+    "url": "https://www.geekwire.com/2026/former-github-ceos-startup-entire-unveils-its-answer-to-the-crush-of-ai-coding-agents"
+   },
+   {
+    "label": "Tech Stackups: hands-on review notes GitHub could copy Checkpoints (Mar 2026)",
+    "url": "https://techstackups.com/guides/entire-io-hands-on-what-it-actually-captures/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
