@@ -37301,5 +37301,107 @@
   "hiring_locations": [
    "Remote"
   ]
+ },
+ {
+  "name": "Tolmo",
+  "slug": "tolmo",
+  "site": "https://tolmo.com",
+  "careers_url": "https://jobs.ashbyhq.com/tolmo",
+  "what_they_do": "Fleet of AI security agents that pentest, map and fix production cloud environments",
+  "problem": "Code ships faster than security teams can review it, while attackers weaponize new vulnerabilities in days",
+  "industry": "Cybersecurity / AI security agents",
+  "stage": "Seed",
+  "last_round": "$22M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Accel (Y Combinator participating)",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "Team ~7 → ~12-16 since stealth exit; +20% in 30 days (Mandos, Oct 2026); 2 listed roles",
+  "headcount": "~12-16",
+  "latest_news": "Out of stealth with $22M seed led by Accel; YC Spring 2026; first pentesting agents live",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://tolmo.com/blog/introducing-tolmo/",
+  "traction": "40-45 design partners; no disclosed revenue or paying customers yet",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 25, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Four months out of stealth with design partners only; the planned production knowledge graph could create lock-in, but Datadog (which bought the founders' Sqreen) and many AI-pentest and AI-SOC startups chase the same buyer.",
+  "distance_sources": [
+   {
+    "label": "Dealroom: Tolmo raises $22M from Accel and YC; 40+ design partners (Jun 2026)",
+    "url": "https://app.dealroom.co/news/feed/tolmo-raises-22m-from-accel-and-y-combinator-for-ai-security-agents"
+   },
+   {
+    "label": "Accel: Our investment in Tolmo (Jun 2026)",
+    "url": "https://www.accel.com/news/our-investment-in-tolmo"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
+ },
+ {
+  "name": "Geom",
+  "slug": "geom",
+  "site": "https://geom.ai",
+  "careers_url": "https://geom.ai/careers",
+  "what_they_do": "AI that automates architectural drafting and construction documents for production homebuilders",
+  "problem": "Builders spend weeks hand-drafting lot-specific plan sets (mirroring, options, QC), slowing home starts and adding errors",
+  "industry": "Construction tech / AI for architectural production",
+  "stage": "Seed",
+  "last_round": "$5M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Elad Gil & Co",
+  "total_open_roles": "2",
+  "ops_roles": "Forward Deployed Engineer",
+  "hiring_trend": "New company (work began Apr 2026); sub-10 team at launch, ~17 on LinkedIn (est.)",
+  "headcount": "~10-17",
+  "latest_news": "Emerged from stealth with $5M seed; collaborating with Pulte, Century, Meritage, True Homes",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://geom.ai/press-release",
+  "traction": "Pilots with 6+ large production builders; one cut plan-mirroring cost 73%; no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 25, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Seed-stage and weeks out of stealth with pilots, not paying scale; strong founder-market fit (ex-Lennar CPO) but Higharc ($95M Series C) already sells permit-ready CDs to builders, plus SWAPP and other CD-automation startups.",
+  "distance_sources": [
+   {
+    "label": "Geom press release: out of stealth, pilots and $5M seed (Sep 2026)",
+    "url": "https://geom.ai/press-release"
+   },
+   {
+    "label": "Business of Home: Modsy founder Shanna Tellerman returns with Geom (Sep 2026)",
+    "url": "https://businessofhome.com/articles/modsy-founder-shanna-tellerman-returns-with-a-new-startup"
+   },
+   {
+    "label": "Construction Industry AI: Geom launch vs Higharc and others (Sep 2026)",
+    "url": "https://www.constructionindustry.ai/product/geom-stealth-launch-production-homebuilder-drafting"
+   },
+   {
+    "label": "Higharc: homebuilding AI with permit-ready construction documents",
+    "url": "https://www.higharc.com/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

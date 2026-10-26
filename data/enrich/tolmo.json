@@ -1,0 +1,91 @@
+{
+  "slug": "tolmo",
+  "checked": "Oct 25, 2026",
+  "founded": 2026,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~12-16",
+    "as_of": "Oct 2026",
+    "source": "https://www.ycombinator.com/companies/tolmo"
+  },
+  "leadership": [
+    {
+      "name": "Pierre Betouin",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/pbetouin/",
+      "source": "https://tolmo.com/about/"
+    },
+    {
+      "name": "Jean-Baptiste (JB) Aviat",
+      "title": "Co-founder, Engineering",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/jeanbaptisteaviat/",
+      "source": "https://tolmo.com/about/"
+    },
+    {
+      "name": "Vladimir de Turckheim",
+      "title": "Co-founder, Engineering",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/vladimirdeturckheim/",
+      "source": "https://tolmo.com/about/"
+    },
+    {
+      "name": "Arnaud Breton",
+      "title": "Co-founder, Product",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/arnaudbreton/",
+      "source": "https://tolmo.com/about/"
+    },
+    {
+      "name": "Keith Masuda",
+      "title": "Operations (finance & ops)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://tolmo.com/about/"
+    },
+    {
+      "name": "Matt Suiche",
+      "title": "Security Researcher (founder of Comae)",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/msuiche/",
+      "source": "https://tolmo.com/about/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-06",
+      "amount": "$22M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://www.accel.com/news/our-investment-in-tolmo"
+    }
+  ],
+  "total_raised": "$22M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Posts first listed roles: Product Manager and Product Designer (SF, on-site)",
+      "url": "https://jobs.ashbyhq.com/tolmo"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Launch YC: agent-native security platform, YC Spring 2026",
+      "url": "https://www.ycombinator.com/launches/R1o-tolmo-secure-your-software-shipped-at-claude-code-pace"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Exits stealth with $22M seed led by Accel, YC participating; 40+ design partners",
+      "url": "https://tolmo.com/blog/introducing-tolmo/"
+    }
+  ],
+  "competitors": [
+    "Datadog",
+    "7ai",
+    "XBOW",
+    "Cycode",
+    "Wiz"
+  ]
+}

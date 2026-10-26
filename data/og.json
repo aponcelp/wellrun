@@ -1349,6 +1349,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "geom": {
+  "url": "https://geom.ai/__l5e/assets-v1/a1e7b70c-560a-410b-8b12-06fc9daba49e/geom-imessage-share.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-26"
+ },
  "geordie-ai": {
   "url": "https://www.geordie.ai/images/geordie-social-card.png",
   "kind": "og",
@@ -3370,6 +3376,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "tolmo": {
+  "url": "https://tolmo.com/images/og-default_hu_b503f2ca61fca935.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-26"
  },
  "tomorrow-io": {
   "url": "https://www.tomorrow.io/wp-content/uploads/2024/01/image-11.jpg",
