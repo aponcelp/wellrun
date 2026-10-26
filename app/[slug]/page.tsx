@@ -93,7 +93,6 @@ export default async function CompanyPage({ params }: Props) {
             {has(c.what_they_do) && <p className="co__what">{c.what_they_do}</p>}
           </div>
         </div>
-        {run && <CoRun run={run} />}
         <dl className="co__stats">
           <div>
             <dt>Pace</dt>
@@ -112,6 +111,7 @@ export default async function CompanyPage({ params }: Props) {
             <dd className="co__ops">{ops || "—"}</dd>
           </div>
         </dl>
+        {run && <CoRun run={run} rank={rank} />}
         <CoLinks name={c.name} slug={c.slug} site={c.site} careers={has(c.careers_url) ? c.careers_url : ""} />
         {c.rivals && c.rivals.track.length > 1 ? (
           <RivalTrack track={c.rivals.track} off={c.rivals.off} hi={c.rivals.hi} />
