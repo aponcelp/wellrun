@@ -1236,3 +1236,9 @@ a.wk__name:hover { text-decoration: underline; text-decoration-color: var(--clay
 .wktop__r { font: 700 14px/1 var(--sans); font-variant-numeric: tabular-nums; color: var(--ink-2); text-align: right; }
 .wktop__list .wk__name { font-size: 14px; font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .wktop__all { font: 600 13px/1 var(--sans); color: var(--ink); text-decoration: underline; text-underline-offset: 3px; padding-top: 6px; }
+/* Spotlight in rail: short label/value rows, less text (Oct 25) */
+.spot__facts > div { grid-template-columns: 64px minmax(0, 1fr) !important; gap: 12px !important; align-items: baseline; padding-top: 7px; }
+.spot__facts { gap: 7px; }
+.spot__facts dd { font-size: 14px; line-height: 1.45; color: var(--ink); }
+.spot__tag { font-size: 15px; }
+.spot__why p:last-child { font-size: 14px; line-height: 1.5; }
