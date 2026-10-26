@@ -1,0 +1,90 @@
+{
+  "slug": "acclaim",
+  "checked": "Oct 26, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "Miami, FL (formerly Limassol, Cyprus)",
+  "headcount_est": {
+    "value": "~75",
+    "as_of": "Mar 2026",
+    "source": "https://refreshmiami.com/news/ai-company-acclaim-launches-u-s-expansion-selects-miami-for-global-hq/"
+  },
+  "leadership": [
+    {
+      "name": "Dan Kutchel",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.acclaim.ai/company"
+    },
+    {
+      "name": "Kostia Kruglov",
+      "title": "Co-founder & Board Member",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.acclaim.ai/company"
+    },
+    {
+      "name": "Denis Chernilevskiy",
+      "title": "Co-founder & Board Member",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.acclaim.ai/company"
+    },
+    {
+      "name": "Nataliya Savinova",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.acclaim.ai/company"
+    },
+    {
+      "name": "Ratmir Timashev",
+      "title": "Advisor & Board Member",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.acclaim.ai/company"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-07",
+      "amount": "$34M",
+      "valuation": "$150M",
+      "lead": "Ratmir Timashev",
+      "source": "https://www.acclaim.ai/blog/aiphoria-secures-strategic-investment"
+    }
+  ],
+  "total_raised": "$34M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-07",
+      "headline": "Dan Kutchel (CEO of affiliated Overtime) now named Acclaim CEO; Fontes off leadership page",
+      "url": "https://www.acclaim.ai/company"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Aiphoria rebrands as Acclaim, enters US with Miami HQ; Fred Fontes named CEO",
+      "url": "https://www.businesswire.com/news/home/20260331987264/en/Acclaim-Launches-in-U.S.-With-Mission-to-Transform-Customer-Experience-Through-Enterprise-grade-Voice-first-AI-Platform"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Hires Paul Thomas (ex-NiCE) as SVP EMEA and Fernando Bertolla as VP LATAM",
+      "url": "https://www.businesswire.com/news/home/20260331987264/en/Acclaim-Launches-in-U.S.-With-Mission-to-Transform-Customer-Experience-Through-Enterprise-grade-Voice-first-AI-Platform"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Bootstrapped Aiphoria raises $34M at $150M valuation led by Veeam's Ratmir Timashev",
+      "url": "https://www.acclaim.ai/blog/aiphoria-secures-strategic-investment"
+    }
+  ],
+  "competitors": [
+    "parloa",
+    "polyai",
+    "salient",
+    "sierra",
+    "decagon"
+  ]
+}

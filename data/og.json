@@ -47,6 +47,12 @@
   "type": "image/webp",
   "checked": "2026-10-19"
  },
+ "acclaim": {
+  "url": "https://www.acclaim.ai/assets/apple-touch-icon.png",
+  "kind": "icon",
+  "type": "image/png",
+  "checked": "2026-10-26"
+ },
  "accord": {
   "url": "https://cdn.prod.website-files.com/68d3df3714cf3a122c1640dd/6916517cbf54f093700a336d_Home%20Page_OG-min.png",
   "kind": "og",
