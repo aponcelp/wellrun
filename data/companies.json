@@ -37754,5 +37754,54 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "June AI",
+  "slug": "june-ai",
+  "site": "https://www.june.ai",
+  "careers_url": "https://jobs.ashbyhq.com/jobs.june-ai",
+  "what_they_do": "AI agents that map, implement and change enterprise systems like Salesforce and Workday",
+  "problem": "Enterprise system changes and AI agent rollouts wait months on consultants, admins and systems integrators",
+  "industry": "Enterprise AI implementation / systems integration",
+  "stage": "Pre-seed",
+  "last_round": "$20M",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "TIME Ventures (Marc Benioff)",
+  "total_open_roles": "3",
+  "ops_roles": "",
+  "hiring_trend": "Early team, ~31 staff on LinkedIn (est.); 3 open roles, all posted Oct 2026",
+  "headcount": "~31",
+  "latest_news": "Emerged from stealth with $20M pre-seed led by Marc Benioff's TIME Ventures",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+  "traction": "Early: CMG Financial built 31 Salesforce agents with June (company-stated); no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Out of stealth in Aug 2026 with one named customer; too early to judge against systems integrators, FDE teams and platform vendors' own agent tooling (Salesforce Agentforce).",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: June emerges from stealth with $20M pre-seed (Aug 2026)",
+    "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/"
+   },
+   {
+    "label": "GlobeNewswire: June AI emerges from stealth (Aug 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/08/03/3337641/0/en/june-ai-emerges-from-stealth-to-reinvent-enterprise-software-implementation-for-the-ai-era.html"
+   }
+  ],
+  "hiring_locations": [
+   "Tel Aviv",
+   "Remote"
+  ]
  }
 ]
