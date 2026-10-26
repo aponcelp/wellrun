@@ -1,0 +1,61 @@
+{
+  "slug": "nevis",
+  "checked": "Oct 26, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": 70,
+  "leadership": [
+    {
+      "name": "Mark Swan",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management"
+    },
+    {
+      "name": "Philipp Burda",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management"
+    },
+    {
+      "name": "Ivan Chalov",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-12",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "Sequoia",
+      "source": "https://www.businesswire.com/news/home/20251201734348/en/Nevis-Announces-%2440M-From-Sequoia-Capital-ICONIQ-and-Ribbit-as-It-Emerges-From-Stealth-to-Build-AI-for-Wealth-Management"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-12",
+      "amount": "$35M",
+      "valuation": "$200M",
+      "lead": "Sequoia, ICONIQ, Ribbit",
+      "source": "https://www.fintechfutures.com/venture-capital-funding/nevis-raises-35m-series-a"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-10",
+      "amount": "$70M",
+      "valuation": "~$500M",
+      "lead": "EQT Ventures",
+      "source": "https://fortune.com/2026/10/26/former-revolut-execs-70-million-financial-advisor-shortage/"
+    }
+  ],
+  "total_raised": "$110M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

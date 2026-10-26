@@ -2159,6 +2159,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "nevis": {
+  "url": "https://cdn.neviswealth.com/assets/images/website-og-image.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-26"
+ },
  "newtonx": {
   "url": "https://cdn.prod.website-files.com/6a0729e920ff8f2c439dfe21/6a3cfc5d55f25d8fd6a2ece4_fd930623689cc8dba3598c88a26ae927_Open%20Graph.png",
   "kind": "og",

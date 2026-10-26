@@ -37508,5 +37508,55 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Nevis",
+  "slug": "nevis",
+  "site": "https://www.neviswealth.com",
+  "careers_url": "https://jobs.ashbyhq.com/nevis",
+  "what_they_do": "AI operating system that automates admin and operations work for wealth advisors and RIAs",
+  "problem": "Financial advisors lose most of their week to meeting prep, follow-ups, account openings and paperwork instead of clients",
+  "industry": "Wealth management tech / AI",
+  "stage": "Series B",
+  "last_round": "$70M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "EQT Ventures; Charles Schwab (strategic), Sequoia, ICONIQ, Ribbit",
+  "total_open_roles": "21",
+  "ops_roles": "Founder's Associate (CEO Office); Deployment Strategist, Enterprise; Operations Manager (Product); Customer Success Manager - Remote",
+  "hiring_trend": "~70 staff (Fortune, Oct 2026) up from ~30 in Dec 2025; employee growth +164% in 12 mo (TrueUp)",
+  "headcount": "~70",
+  "latest_news": "Raised $70M Series B led by EQT Ventures at ~$500M valuation, Schwab joins",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://fortune.com/2026/10/26/former-revolut-execs-70-million-financial-advisor-shortage/",
+  "traction": "Customer AUM grew $50B to $700B+ in 2026; Focus Financial and AlTi Tiedemann rolled it out",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Fast enterprise RIA wins (Focus Financial, AlTi) and Schwab as a strategic backer put it ahead of meeting-note tools like Jump and Zocks, but the category is young and crowded.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Focus Financial Partners selects Nevis (Oct 2026)",
+    "url": "https://www.businesswire.com/news/home/20261015080891/en/Focus-Financial-Partners-Selects-Nevis-to-Empower-Advisors-with-Leading-AI-Wealth-Management-Platform"
+   },
+   {
+    "label": "Fortune: Nevis raises $70M Series B (Oct 2026)",
+    "url": "https://fortune.com/2026/10/26/former-revolut-execs-70-million-financial-advisor-shortage/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "London",
+   "Remote (US)"
+  ]
  }
 ]
