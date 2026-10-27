@@ -1391,6 +1391,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "general-compute": {
+  "url": "https://www.generalcompute.com/apple-icon.png?apple-icon.273w2pdto4cif.png",
+  "kind": "icon",
+  "type": "image/png",
+  "checked": "2026-10-27"
+ },
  "general-intuition": {
   "url": "https://cdn.prod.website-files.com/68b73cd966b9c097c35f357b/68e8144ca0bb0c277dd07742_general_intuition_opengraph.png",
   "kind": "og",

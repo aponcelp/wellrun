@@ -38130,5 +38130,59 @@
    "New York City OR Seattle",
    "Remote"
   ]
+ },
+ {
+  "name": "General Compute",
+  "slug": "general-compute",
+  "site": "https://www.generalcompute.com",
+  "careers_url": "https://jobs.ashbyhq.com/generalcompute",
+  "what_they_do": "Inference cloud that buys and runs non-Nvidia AI chips and sells fast tokens",
+  "problem": "AI apps and inference clouds need faster, cheaper tokens but can't buy, house and run specialized chips themselves",
+  "industry": "AI infrastructure / inference neocloud",
+  "stage": "Series A",
+  "last_round": "$100M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Blackbird Ventures, Abstract Ventures",
+  "total_open_roles": "8",
+  "ops_roles": "Head of Data Center Deployment",
+  "hiring_trend": "Team ~7 → ~13 in 2026 (LinkedIn, est.); 8 open roles, all posted Sep–Oct 2026",
+  "headcount": "~13",
+  "latest_news": "Raised $100M Series A at $800M post-money led by Blackbird and Abstract",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+  "traction": "One customer deal worth ~$100M ARR (company-stated); 75 MW deployment planned for 2027",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 27, 2026",
+  "engine": "Scale",
+  "distance": "Unproven",
+  "distance_why": "Under a year old with ~13 staff; its edge is buying and siting alternative inference chips at scale, but revenue rests on one large customer, it is debt-funded and capital-hungry (CEO calls fundraising a full-time job), and it sells into a crowded neocloud market facing a predicted shakeout.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: General Compute $100M Series A, $100M ARR customer deal, 75 MW in 2027 (Oct 2026)",
+    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+   },
+   {
+    "label": "TechCrunch: $400M Upper90 loan backed by inference chips (Jul 2026)",
+    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
+   },
+   {
+    "label": "CoinDesk: Musk predicts 200+ neoclouds will consolidate (Oct 2026)",
+    "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote"
+  ]
  }
 ]

@@ -1,0 +1,101 @@
+{
+  "slug": "general-compute",
+  "checked": "Oct 27, 2026",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~13",
+    "as_of": "May 2026",
+    "source": "https://linkedin.com/company/general-compute"
+  },
+  "leadership": [
+    {
+      "name": "Finn Puklowski",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/finn-puklowski",
+      "source": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+    },
+    {
+      "name": "Jason Goodison",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/jasonlevigoodison",
+      "source": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
+    },
+    {
+      "name": "Noa Lawrence",
+      "title": "Founding GTM",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/general-compute"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-05",
+      "amount": "$15M",
+      "valuation": "$60M",
+      "lead": "FUSE VC",
+      "source": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/"
+    },
+    {
+      "round": "Debt",
+      "date": "2026-07",
+      "amount": "$400M facility ($100M funded upfront)",
+      "valuation": null,
+      "lead": "Upper90",
+      "source": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$100M",
+      "valuation": "$800M",
+      "lead": "Blackbird Ventures, Abstract Ventures",
+      "source": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+    }
+  ],
+  "total_raised": "$115M equity + $400M debt facility",
+  "revenue_est": {
+    "value": "One customer contract worth ~$100M ARR",
+    "as_of": "Oct 2026",
+    "basis": "press report",
+    "source": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "$100M Series A at $800M post-money, led by Blackbird and Abstract Ventures",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Multi-year deal to deploy Cerebras wafer-scale systems, live Q1 2027",
+      "url": "https://www.datacenterdynamics.com/en/news/general-compute-signs-multi-year-agreement-with-cerebras/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "$400M Upper90 loan collateralized by inference chips (SambaNova)",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
+    },
+    {
+      "date": "2026-05",
+      "headline": "$15M seed at $60M post led by FUSE VC; $300M of SambaNova SN50 chips on order",
+      "url": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/"
+    },
+    {
+      "date": "2026-05",
+      "headline": "General Compute Cloud reaches general availability on SambaNova silicon",
+      "url": "https://www.morningstar.com/news/accesswire/1169961msn/general-compute-launches-the-first-asic-native-neocloud"
+    }
+  ],
+  "competitors": [
+    "together-ai",
+    "crusoe",
+    "CoreWeave",
+    "Nebius",
+    "Gimlet Cloud"
+  ]
+}
