@@ -113,6 +113,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "airspace-intelligence": {
+  "url": "https://cdn.sanity.io/images/n4bes7z7/production/f41d43ca688a19f59fe3c51cae072e5a361cd38e-1000x1000.png?rect=0,238,1000,525&w=1200&h=630&fit=crop",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-27"
+ },
  "albert-invent": {
   "url": "https://cdn.prod.website-files.com/68f0bb999f20ff63f3bd6be0/691dfffb2d271996162cbdb4_Webclip.png",
   "kind": "icon",
@@ -262,6 +268,12 @@
   "kind": "og",
   "type": "image/avif",
   "checked": "2026-10-19"
+ },
+ "arda": {
+  "url": "https://framerusercontent.com/images/yCCAOn1manq1BnanQnBx4J7P2k.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-27"
  },
  "arize-ai": {
   "url": "https://arize.com/wp-content/uploads/2026/08/Featured-image-Homepage.jpg",
@@ -3466,6 +3478,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "tractian": {
+  "url": "https://imgix.tractian.com/website/pages/home/v4/opengraph-homepage.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-27"
  },
  "trajectory": {
   "url": "https://trajectory.ai/opengraph-image.png?opengraph-image.30srpd3dxqjbg.png?dpl=dpl_LXj5Sn7QCd2kTFPWGEmaogYrFx5D",

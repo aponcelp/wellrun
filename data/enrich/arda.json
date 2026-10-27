@@ -1,0 +1,84 @@
+{
+  "slug": "arda",
+  "checked": "Oct 26, 2026",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~10-20",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/arda-industries"
+  },
+  "leadership": [
+    {
+      "name": "Bob McGrew",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/bobmcgrew",
+      "source": "https://www.finsmes.com/2026/10/arda-industries-raises-232m-in-total-funding.html"
+    },
+    {
+      "name": "Augustus Odena",
+      "title": "Co-founder & Chief AI Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.felicis.com/portfolio/arda"
+    },
+    {
+      "name": "Alex Mark",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/alexthemark",
+      "source": "https://www.felicis.com/portfolio/arda"
+    },
+    {
+      "name": "Jakob Frick",
+      "title": "Co-founder & Advisor",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://arda.ai/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-03",
+      "amount": "$72M",
+      "valuation": "$700M (reported, pre-close)",
+      "lead": "Accel, Founders Fund",
+      "source": "https://www.wsj.com/tech/ai/openais-former-research-chief-aims-to-automate-manufacturing-with-ai-8871f265"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$160M",
+      "valuation": "$1.5B",
+      "lead": "Altimeter, Accel, Khosla Ventures",
+      "source": "https://www.businesswire.com/news/home/20261020574393/en/Arda-Emerges-from-Stealth-to-Speed-Up-American-Manufacturing"
+    }
+  ],
+  "total_raised": "$232M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches from stealth with $160M Series A at $1.5B; $232M raised total",
+      "url": "https://www.businesswire.com/news/home/20261020574393/en/Arda-Emerges-from-Stealth-to-Speed-Up-American-Manufacturing"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Anduril, first design partner, runs Arda inside its ArsenalOS manufacturing software",
+      "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html"
+    },
+    {
+      "date": "2026-03",
+      "headline": "WSJ: McGrew's Arda raising ~$70M seed at $700M led by Founders Fund and Accel",
+      "url": "https://www.wsj.com/tech/ai/openais-former-research-chief-aims-to-automate-manufacturing-with-ai-8871f265"
+    }
+  ],
+  "competitors": [
+    "Bright Machines",
+    "Instrumental",
+    "Tulip",
+    "Siemens Digital Industries Software"
+  ]
+}

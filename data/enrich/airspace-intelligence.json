@@ -1,0 +1,114 @@
+{
+  "slug": "airspace-intelligence",
+  "checked": "Oct 26, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "Boston, MA (moved from San Francisco in 2024)",
+  "headcount_est": {
+    "value": "~254",
+    "as_of": "Aug 2026",
+    "source": "https://tracxn.com/d/companies/airspace-intelligence/__1_ORYzvGcHzYe5d7sOckieRfA5QglTItSrdffmFubRw"
+  },
+  "leadership": [
+    {
+      "name": "Phillip Buckendorf",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.airspace-intelligence.com/news/asi-secures-usd325m-series-c-at-usd3b-valuation"
+    },
+    {
+      "name": "Kris Dorosz",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://tracxn.com/d/companies/airspace-intelligence/__1_ORYzvGcHzYe5d7sOckieRfA5QglTItSrdffmFubRw"
+    },
+    {
+      "name": "Lucas Kukielka",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://tracxn.com/d/companies/airspace-intelligence/__1_ORYzvGcHzYe5d7sOckieRfA5QglTItSrdffmFubRw"
+    },
+    {
+      "name": "Lt. Gen. (Ret.) Leo Kosinski",
+      "title": "Chief Strategy Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.airspace-intelligence.com/newsroom"
+    },
+    {
+      "name": "Mark Lepczyk",
+      "title": "President, ASI Federal",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/airspace-intelligence"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2020",
+      "amount": null,
+      "valuation": null,
+      "lead": "Renegade Partners",
+      "source": "https://www.renegadepartners.com/news/the-sky-is-the-limit---our-investment-in-air-space-intelligence"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-12",
+      "amount": "$34M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.globenewswire.com/news-release/2023/12/07/2792534/0/en/air-space-intelligence-secures-34m-series-b-financing-led-by-a16z.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-10",
+      "amount": "$325M",
+      "valuation": "$3B",
+      "lead": "Spark Capital",
+      "source": "https://www.airspace-intelligence.com/news/asi-secures-usd325m-series-c-at-usd3b-valuation"
+    }
+  ],
+  "total_raised": "~$360M+ (disclosed rounds; Series A amount undisclosed)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $325M Series C at $3B valuation led by Spark Capital",
+      "url": "https://www.airspace-intelligence.com/news/asi-secures-usd325m-series-c-at-usd3b-valuation"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Politico: FAA negotiating an equity warrant in ASI, its SMART contractor",
+      "url": "https://www.flyingmag.com/faa-seeks-ownership-stake-atc-contractor-asi"
+    },
+    {
+      "date": "2026-10",
+      "headline": "25 lawmakers urge FAA to pause SMART at DC-area airports; GAO audit requested",
+      "url": "https://www.reuters.com/legal/government/lawmakers-ask-faa-pause-use-new-ai-tool-dc-area-flight-management-2026-10-13"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Wins DIU contract to build Open Mission Engine for the U.S. Air Force",
+      "url": "https://www.airspace-intelligence.com/news/diu-omen-contract"
+    },
+    {
+      "date": "2026-06",
+      "headline": "FAA awards ASI $875M, 12-year contract for SMART traffic management",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-faa-taps-asi-software-overhaul-improve-flight-schedules-cut-delays-2026-06-22/"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Partners with National Grid to deploy operational AI on the electric grid",
+      "url": "https://www.airspace-intelligence.com/news/asi-and-national-grid-collaboration"
+    }
+  ],
+  "competitors": [
+    "palantir",
+    "anduril",
+    "leidos"
+  ]
+}
