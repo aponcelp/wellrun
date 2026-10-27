@@ -1,10 +1,14 @@
 {
   "slug": "hex",
-  "checked": "Oct 19, 2026",
+  "checked": "Oct 27, 2026",
   "depth": "light",
   "founded": 2019,
   "hq": "San Francisco, CA",
-  "headcount_est": null,
+  "headcount_est": {
+    "value": "~232 (Revelio) / ~287 (LinkedIn)",
+    "as_of": "Mar 2026 / Oct 2026",
+    "source": "https://www.reveliolabs.com/companies/hex/employees"
+  },
   "leadership": [
     {
       "name": "Barry McCardel",
@@ -68,10 +72,45 @@
       "valuation": null,
       "lead": "Avra",
       "source": "https://hex.tech/blog/series-c/"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-10",
+      "amount": "$100M",
+      "valuation": "$1.2B",
+      "lead": "Peak XV Partners",
+      "source": "https://www.finsmes.com/2026/10/hex-technologies-raises-100m-in-funding-at-1-2-billion-post-money-valuation.html"
     }
   ],
-  "total_raised": "~$171.5M",
+  "total_raised": "~$271.5M",
   "revenue_est": null,
-  "news_timeline": [],
-  "competitors": []
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raised $100M Series D at $1.2B led by Peak XV; agent-first rebuild",
+      "url": "https://dealroom.co/news/167194-hex-deletes-its-code-raises-100m-to-go-agent-first/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Shipped generative chart controls and text editing for Generative Apps",
+      "url": "https://www.linkedin.com/posts/barrymccardel_launching-today-in-hex-generative-apps-now-activity-7503125777111126016-LclJ"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Raised $70M Series C led by Avra",
+      "url": "https://hex.tech/blog/series-c/"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Folded its separate AI (Magic) product team into the core product org",
+      "url": "https://hex.tech/blog/we-got-rid-of-our-ai-product-team"
+    }
+  ],
+  "competitors": [
+    "omni",
+    "databricks",
+    "julius-ai",
+    "Sigma Computing",
+    "Deepnote"
+  ]
 }
