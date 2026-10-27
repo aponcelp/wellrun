@@ -1,0 +1,30 @@
+{
+  "slug": "infisical",
+  "checked": "Oct 27, 2026",
+  "depth": "full",
+  "founded": 2022,
+  "hq": "San Francisco, CA",
+  "headcount_est": {"value": "~49 (LinkedIn) / ~45 (TipRanks)", "as_of": "Oct 2026", "source": "https://www.tipranks.com/private-companies/infisical"},
+  "leadership": [
+    {"name": "Vlad Matsiiako", "title": "Co-founder & CEO", "founder": true, "linkedin": "https://www.linkedin.com/in/vmatsiiako", "source": "https://infisical.com/blog/series-b"},
+    {"name": "Tony Dang", "title": "Co-founder", "founder": true, "linkedin": null, "source": "https://infisical.com/about"},
+    {"name": "Maidul Islam", "title": "Co-founder", "founder": true, "linkedin": null, "source": "https://infisical.com/about"}
+  ],
+  "funding_history": [
+    {"round": "Seed (YC W23)", "date": "2023-01", "amount": "$125K", "valuation": null, "lead": "Y Combinator", "source": "https://app.dealroom.co/companies/infisical"},
+    {"round": "Seed", "date": "2023-07", "amount": "$2.8M", "valuation": null, "lead": "Gradient Ventures", "source": "https://x.com/darian314/status/2115115684434714844"},
+    {"round": "Series A", "date": "2025-06", "amount": "$16M", "valuation": null, "lead": "Elad Gil", "source": "https://www.prnewswire.com/news-releases/infisical-secures-16m-series-a-to-redefine-enterprise-secrets-identity-and-access-management-302475063.html"},
+    {"round": "Series B", "date": "2026-10", "amount": "$40M", "valuation": "$600M", "lead": "Elad Gil", "source": "https://www.prnewswire.com/news-releases/infisical-raises-40-million-at-600-million-valuation-to-secure-the-ai-agent-economy-302920994.html"}
+  ],
+  "total_raised": "~$59M",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-10", "headline": "Raised $40M Series B at $600M valuation led by Elad Gil; plans 100+ hires", "url": "https://infisical.com/blog/series-b"},
+    {"date": "2026-10", "headline": "Agent Vault becomes a product in Infisical (preview, cloud or self-hosted)", "url": "https://www.linkedin.com/posts/infisical_a-credential-an-ai-agent-can-read-is-a-credential-activity-7513985185277964290-D5Fk"},
+    {"date": "2026-07", "headline": "Launched Infisical PAM for gateway-based access to production infrastructure", "url": "https://infisical.com/blog/introducing-infisical-pam"},
+    {"date": "2026-07", "headline": "Launched Agent Proxy; open-source Agent Vault hit 2,000 stars in three months", "url": "https://www.prweb.com/releases/infisical-launches-agent-proxy-so-teams-can-ship-ai-agents-without-handing-over-real-credentials-302838708.html"},
+    {"date": "2026-04", "headline": "Released open-source Agent Vault credential proxy for AI agents", "url": "https://www.prweb.com/releases/infisical-launches-agent-vault-letting-engineering-teams-ship-ai-agents-to-production-without-exposing-credentials-302749986.html"},
+    {"date": "2025-06", "headline": "Raised $16M Series A led by Elad Gil; company says it is cash-flow positive", "url": "https://infisical.com/blog/series-a"}
+  ],
+  "competitors": ["HashiCorp Vault", "Doppler", "Akeyless", "CyberArk", "1password"]
+}

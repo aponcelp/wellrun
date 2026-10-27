@@ -38313,5 +38313,60 @@
    "Paris",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Infisical",
+  "slug": "infisical",
+  "site": "https://infisical.com",
+  "careers_url": "https://jobs.ashbyhq.com/infisical",
+  "what_they_do": "Open-source secrets, certificate, privileged access and AI-agent credential management for engineering teams",
+  "problem": "API keys, passwords and certificates sprawl across code and infrastructure, and AI agents now need access without leaking them",
+  "industry": "Security / secrets & machine identity management",
+  "stage": "Series B",
+  "last_round": "$40M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Elad Gil",
+  "total_open_roles": "12",
+  "ops_roles": "Chief of Staff; Solutions Engineer",
+  "hiring_trend": "Headcount ~45-49 (LinkedIn/TipRanks, Oct 2026), observed profiles +79% Aug 2025 → Jul 2026 (Unify); plans 100+ hires after Series B",
+  "headcount": "~45-50",
+  "latest_news": "Raised $40M Series B at $600M valuation led by Elad Gil",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/infisical-raises-40-million-at-600-million-valuation-to-secure-the-ai-agent-economy-302920994.html",
+  "traction": "1,300+ customers, 300K developers, 30K GitHub stars; cash-flow positive (company-stated); revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Infisical-EI_IE9917816.11,20.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 27, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Leading open-source challenger to HashiCorp Vault with broad adoption (1,300+ customers incl. Airbus, Volkswagen, Wise) and second lines in PKI and PAM; still trails Vault, CyberArk and cloud-native secrets managers in a crowded market.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Infisical raises $40M Series B at $600M (Oct 2026)",
+    "url": "https://www.prnewswire.com/news-releases/infisical-raises-40-million-at-600-million-valuation-to-secure-the-ai-agent-economy-302920994.html"
+   },
+   {
+    "label": "Infisical: Introducing Infisical PAM (Jul 2026)",
+    "url": "https://infisical.com/blog/introducing-infisical-pam"
+   },
+   {
+    "label": "Infisical: Infisical vs HashiCorp Vault",
+    "url": "https://infisical.com/compare/infisical-vs-hashicorp-vault"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "United States & Canada",
+   "Austin",
+   "Remote (US)"
+  ]
  }
 ]

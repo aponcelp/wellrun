@@ -1685,6 +1685,12 @@
   "type": "image/png",
   "checked": "2026-10-20"
  },
+ "infisical": {
+  "url": "https://infisical.com/images/ogimage.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-27"
+ },
  "instantly": {
   "url": "https://cdn.prod.website-files.com/63860c8c65e7bef4a1eeebeb/69bbbe355f4fdb68458b987d_Banner%20(1)%20(1).webp",
   "kind": "og",
