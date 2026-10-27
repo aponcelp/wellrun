@@ -11,7 +11,7 @@ export function generateMetadata(): Metadata {
   const w = idx.weeks[0];
   const title = "The Well Run 100 · Weekly chart";
   const description = w ? `${w.title}. The top 100 private startups by Pace, with last week, peak and weeks on chart.` : "The weekly Well Run 100 chart.";
-  return { title, description, alternates: { canonical: `${SITE}/chart` }, openGraph: { type: "website", url: `${SITE}/chart`, siteName: "Well Run", title, description } };
+  return { title, description, alternates: { canonical: `${SITE}/chart` }, openGraph: { type: "website", url: `${SITE}/chart`, siteName: "Well Run", title, description, images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: "The Well Run 100" }] }, twitter: { card: "summary_large_image", title, description, images: ["/opengraph-image"] } };
 }
 
 export default async function ChartLatest() {

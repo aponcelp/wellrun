@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const title = `The Well Run 100 · ${w.title}`;
   const description = `${w.tracking}. The top 100 private startups by Pace, with last week, peak and weeks on chart.`;
   const url = `${SITE}/chart/${week}`;
-  return { title, description, alternates: { canonical: url }, openGraph: { type: "website", url, siteName: "Well Run", title, description } };
+  return { title, description, alternates: { canonical: url }, openGraph: { type: "website", url, siteName: "Well Run", title, description, images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: "The Well Run 100" }] }, twitter: { card: "summary_large_image", title, description, images: ["/opengraph-image"] } };
 }
 
 export default async function ChartWeekPage({ params }: Props) {
