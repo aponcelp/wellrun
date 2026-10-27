@@ -1,0 +1,102 @@
+{
+ "slug": "coinflow",
+ "checked": "Oct 27, 2026",
+ "depth": "full",
+ "founded": 2022,
+ "hq": "Chicago, IL",
+ "headcount_est": {
+  "value": "~76-82",
+  "as_of": "Sep–Oct 2026",
+  "source": "https://www.caplight.com/company/coinflow-labs"
+ },
+ "leadership": [
+  {
+   "name": "Daniel Lev",
+   "title": "Co-founder & CEO",
+   "founder": true,
+   "linkedin": null,
+   "source": "https://www.businesswire.com/news/home/20251006771358/en/Coinflow-Closes-%2425M-Series-A-Led-by-Pantera-Capital-To-Power-Billions-in-Global-Payment-Volume"
+  },
+  {
+   "name": "Benjamin Meeder",
+   "title": "Co-founder & CTO",
+   "founder": true,
+   "linkedin": null,
+   "source": "https://coinflow.cash/about-us"
+  },
+  {
+   "name": "Jake Montgomery",
+   "title": "Co-founder & COO",
+   "founder": true,
+   "linkedin": "https://www.linkedin.com/in/jake-montgomery-306305166",
+   "source": "https://coinflow.cash/about-us"
+  }
+ ],
+ "funding_history": [
+  {
+   "round": "Pre-seed",
+   "date": "2023-04",
+   "amount": "$1.4M",
+   "valuation": null,
+   "lead": null,
+   "source": "https://dealroom.co/companies/coinflow"
+  },
+  {
+   "round": "Seed",
+   "date": "2024-05",
+   "amount": "$2.25M",
+   "valuation": null,
+   "lead": "CMT Digital",
+   "source": "https://dealroom.co/companies/coinflow"
+  },
+  {
+   "round": "Series A",
+   "date": "2025-10",
+   "amount": "$25M",
+   "valuation": null,
+   "lead": "Pantera Capital",
+   "source": "https://www.businesswire.com/news/home/20251006771358/en/Coinflow-Closes-%2425M-Series-A-Led-by-Pantera-Capital-To-Power-Billions-in-Global-Payment-Volume"
+  }
+ ],
+ "total_raised": "~$28.7M",
+ "revenue_est": {
+  "value": "23x revenue growth since 2024 seed; multi-billion-dollar annual transaction volume run rate (revenue undisclosed)",
+  "as_of": "Oct 2025",
+  "basis": "company-stated",
+  "source": "https://www.businesswire.com/news/home/20251006771358/en/Coinflow-Closes-%2425M-Series-A-Led-by-Pantera-Capital-To-Power-Billions-in-Global-Payment-Volume"
+ },
+ "news_timeline": [
+  {
+   "date": "2026-09",
+   "headline": "Named Chicago Innovation Awards Top 100 finalist; says team 4x'd in a year to 50+ at HQ",
+   "url": "https://www.linkedin.com/posts/coinflow-labs_chicago-activity-7508899547142610944-4i-0"
+  },
+  {
+   "date": "2026-08",
+   "headline": "Founding member of Rain's Agentic Payments Alliance alongside Visa, Mastercard, Circle",
+   "url": "https://coinflow.cash/blog/coinflow-rain-agentic-payments-alliance/"
+  },
+  {
+   "date": "2026-06",
+   "headline": "Partners with Tempo to power MPP Credits, card-to-stablecoin for machine payments",
+   "url": "https://coinflow.cash/blog/tempo-coinflow-partnership/"
+  },
+  {
+   "date": "2026-03",
+   "headline": "Partners with Highnote to scale card-to-stablecoin onramps",
+   "url": "https://highnote.com/blog/coinflow-partners-with-highnote-to-power-next-phase-of-growth-in-stablecoin-payments"
+  },
+  {
+   "date": "2025-10",
+   "headline": "Raises $25M Series A led by Pantera Capital; cites 23x revenue growth",
+   "url": "https://www.businesswire.com/news/home/20251006771358/en/Coinflow-Closes-%2425M-Series-A-Led-by-Pantera-Capital-To-Power-Billions-in-Global-Payment-Volume"
+  }
+ ],
+ "competitors": [
+  "stripe",
+  "zerohash",
+  "BVNK",
+  "MoonPay",
+  "rain"
+ ]
+}

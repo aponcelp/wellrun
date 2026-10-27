@@ -737,6 +737,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "coinflow": {
+  "url": "https://coinflow.cash/coinflow-og-image.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-27"
+ },
  "column": {
   "url": "https://column.com/images/social/column-og.png",
   "kind": "og",

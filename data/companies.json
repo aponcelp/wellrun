@@ -38184,5 +38184,63 @@
    "New York",
    "Remote"
   ]
+ },
+ {
+  "name": "Coinflow",
+  "slug": "coinflow",
+  "site": "https://coinflow.cash",
+  "careers_url": "https://jobs.ashbyhq.com/coinflow",
+  "what_they_do": "Payment processor that settles card, bank and crypto payments instantly via stablecoins",
+  "problem": "Merchants wait days for settlement, eat chargebacks and juggle separate providers for global pay-ins and payouts",
+  "industry": "Payments / stablecoin PSP",
+  "stage": "Series A",
+  "last_round": "$25M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": "Pantera Capital",
+  "total_open_roles": "16",
+  "ops_roles": "Operations Support Analyst; Forward Deployed Engineer; Senior Fraud Analyst - Team Lead",
+  "hiring_trend": "Headcount ~25 (Oct 2025) → ~76-82 (Sep–Oct 2026, Caplight/LinkedIn); company says team 4x in a year",
+  "headcount": "~80",
+  "latest_news": "Founding member of Rain's Agentic Payments Alliance with Visa, Mastercard, Circle",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://coinflow.cash/blog/coinflow-rain-agentic-payments-alliance/",
+  "traction": "23x revenue growth since 2024 seed; multi-billion-dollar annual volume run rate (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 27, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Real adoption (multi-billion volume, 23x revenue) and agentic-payments partnerships with Tempo and Mastercard, but a young follower in a crowded stablecoin PSP field next to Stripe/Bridge, BVNK and Zero Hash, and it runs on sponsor-bank partners that have cut off merchant categories before.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Coinflow closes $25M Series A led by Pantera (Oct 2025)",
+    "url": "https://www.businesswire.com/news/home/20251006771358/en/Coinflow-Closes-%2425M-Series-A-Led-by-Pantera-Capital-To-Power-Billions-in-Global-Payment-Volume"
+   },
+   {
+    "label": "Fortune: Coinflow raises $25M to challenge Stripe (Oct 2025)",
+    "url": "https://fortune.com/crypto/2025/10/08/stablecoin-coinflow-startup-funding-round-pantera-stripe-payments/"
+   },
+   {
+    "label": "Coinflow: Tempo partnership powering MPP Credits (Jun 2026)",
+    "url": "https://coinflow.cash/blog/tempo-coinflow-partnership/"
+   },
+   {
+    "label": "MintStars: Coinflow's banking partner cut off adult merchants (Apr 2025)",
+    "url": "https://mintstars.com/press/the-coinflow-crashout-another-blow-to-the-adult-industry-and-what-were-doing-about-it"
+   }
+  ],
+  "hiring_locations": [
+   "Chicago",
+   "Europe",
+   "Israel"
+  ]
  }
 ]
