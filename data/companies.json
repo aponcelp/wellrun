@@ -37866,5 +37866,156 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Arda",
+  "slug": "arda",
+  "site": "https://arda.ai",
+  "careers_url": "",
+  "what_they_do": "AI agent that turns product CAD files into factory assembly plans and work instructions",
+  "problem": "Every design change means weeks of manual manufacturing-engineering work before the factory floor can build the new version",
+  "industry": "Manufacturing software / industrial AI",
+  "stage": "Series A",
+  "last_round": "$160M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Altimeter, Accel, Khosla Ventures",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "Est. ~10-20 staff (LinkedIn 10; Crunchbase/Dealroom 11-50); no public job board, team posts say hiring in SF and NYC",
+  "headcount": "~10-20",
+  "latest_news": "Came out of stealth with $160M Series A at $1.5B valuation ($232M total)",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.finsmes.com/2026/10/arda-industries-raises-232m-in-total-funding.html",
+  "traction": "Deployed across every Anduril division via ArsenalOS; early data-center supply-chain customers; 1 named customer",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Came out of stealth Oct 2026 with ~10-20 staff and one named customer (Anduril, its design partner); embedding in factory engineering workflows could make it sticky, but adoption beyond Anduril is not yet shown.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Arda emerges from stealth, deployed in Anduril ArsenalOS (Oct 2026)",
+    "url": "https://www.businesswire.com/news/home/20261020574393/en/Arda-Emerges-from-Stealth-to-Speed-Up-American-Manufacturing"
+   },
+   {
+    "label": "Felicis: Anduril has deployed Arda's agent across every division (Oct 2026)",
+    "url": "https://www.felicis.com/blog/rebuilding-the-way-we-build-arda-series-a-investment"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "ASI (Air Space Intelligence)",
+  "slug": "airspace-intelligence",
+  "site": "https://www.airspace-intelligence.com",
+  "careers_url": "https://www.airspace-intelligence.com/careers/open-roles",
+  "what_they_do": "AI decision software that forecasts and orchestrates air traffic, military logistics and power grids",
+  "problem": "Operators of airspace, grids and defense logistics react to disruptions manually, one screen at a time, instead of seeing them coming",
+  "industry": "Operational AI / aviation, defense & energy",
+  "stage": "Series C",
+  "last_round": "$325M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Spark Capital",
+  "total_open_roles": "32",
+  "ops_roles": "Mission Ops; Deployment Lead (Aviation, Remote US); Deployment Lead (Defense, Remote US); Deployment Lead (Defense, Oahu)",
+  "hiring_trend": "Headcount ~130 (Sep 2025) → ~254 (Aug 2026, Tracxn), LinkedIn ~295 (+129% YoY); CEO targets 250+; 32 open roles",
+  "headcount": "~250-295",
+  "latest_news": "Raised $325M Series C at $3B valuation led by Spark Capital",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.airspace-intelligence.com/news/asi-secures-usd325m-series-c-at-usd3b-valuation",
+  "traction": "$875M 12-yr FAA program of record, $99M Army contract; Delta, United, Alaska, National Grid customers",
+  "red_flags": "Political scrutiny of its flagship FAA contract: 25 lawmakers asked the FAA (Oct 2026) to pause the SMART tool live at DC-area airports since Sep 21, 23 House T&I Democrats asked GAO to audit SMART/FMDS, and the FAA is negotiating an unprecedented equity warrant in ASI. Revenue is concentrated in federal contracts.",
+  "red_flags_sources": [
+   {
+    "label": "Reuters: Lawmakers ask FAA to pause new AI tool in DC-area flight management (Oct 2026)",
+    "url": "https://www.reuters.com/legal/government/lawmakers-ask-faa-pause-use-new-ai-tool-dc-area-flight-management-2026-10-13"
+   },
+   {
+    "label": "House T&I Democrats request GAO audit of FAA's SMART and FMDS (Oct 2026)",
+    "url": "https://democrats-transportation.house.gov/news/press-releases/ranking-members-larsen-carson-tandi-democrats-request-audit-of-faas-ai-based-air-traffic-software"
+   },
+   {
+    "label": "FLYING: FAA seeks ownership stake in ATC contractor ASI (Oct 2026)",
+    "url": "https://www.flyingmag.com/faa-seeks-ownership-stake-atc-contractor-asi"
+   }
+  ],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "4.7",
+  "glassdoor_reviews": "9",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Air-Space-Intelligence-Reviews-E6407720.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A 12-year, $875M FAA program of record plus Army/Air Force and airline deployments make it the leading new entrant in AI air traffic and mission planning, but revenue leans on federal contracts under political scrutiny, and Palantir, Anduril and legacy primes compete for the same defense budgets.",
+  "distance_sources": [
+   {
+    "label": "Reuters: FAA taps ASI for $875M software overhaul (Jun 2026)",
+    "url": "https://www.reuters.com/business/aerospace-defense/us-faa-taps-asi-software-overhaul-improve-flight-schedules-cut-delays-2026-06-22/"
+   },
+   {
+    "label": "ASI: $325M Series C at $3B (Oct 2026)",
+    "url": "https://www.airspace-intelligence.com/news/asi-secures-usd325m-series-c-at-usd3b-valuation"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Tractian",
+  "slug": "tractian",
+  "site": "https://tractian.com",
+  "careers_url": "https://careers.tractian.com",
+  "what_they_do": "Wireless machine sensors plus AI that predict industrial equipment failures and drive maintenance work",
+  "problem": "Plants lose money when critical machines break without warning, and most equipment isn't monitored at all",
+  "industry": "Industrial AI / predictive maintenance",
+  "stage": "Series D",
+  "last_round": "$130M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Sapphire Ventures, M&G Catalyst",
+  "total_open_roles": "67",
+  "ops_roles": "Technical Account Manager; Head of Procurement; Senior Field Service Engineer",
+  "hiring_trend": "Headcount ~400 (Dec 2024) → ~888 on LinkedIn (Oct 2026); 67 open roles, 24 US-eligible",
+  "headcount": "~750-890",
+  "latest_news": "Raised $130M Series D at $1.4B valuation led by Sapphire; ARR passed $100M",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.finsmes.com/2026/10/tractian-raises-130m-in-series-d-funding.html",
+  "traction": "ARR crossed $100M in Sep 2026, +90% YoY; 2,000+ facilities",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.5",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "34",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Tractian-Reviews-E3924669.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 26, 2026",
+  "engine": "Lock-in + Data",
+  "distance": "Half",
+  "distance_why": "Installed sensors and a large failure dataset make it sticky; Augury and others compete.",
+  "distance_sources": [
+   {
+    "label": "Dealroom: Tractian $130M Series D, ARR past $100M growing 90% (Oct 2026)",
+    "url": "https://dealroom.co/news/165332-tractian-hits-1-4b-valuation-with-130m-series-d-for-factory-ai"
+   },
+   {
+    "label": "FinSMEs: Tractian raises $130M Series D (Oct 2026)",
+    "url": "https://www.finsmes.com/2026/10/tractian-raises-130m-in-series-d-funding.html"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

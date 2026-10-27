@@ -1,0 +1,139 @@
+{
+  "slug": "tractian",
+  "checked": "Oct 26, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "Atlanta, GA (founded in São Paulo, Brazil)",
+  "headcount_est": {
+    "value": "~888",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/tractian"
+  },
+  "leadership": [
+    {
+      "name": "Igor Marinelli",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/igmarinelli/",
+      "source": "https://careers.tractian.com/leadership"
+    },
+    {
+      "name": "Gabriel Lima (Lameirinhas)",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/glameirinhas/",
+      "source": "https://careers.tractian.com/leadership"
+    },
+    {
+      "name": "Leonardo Vieira",
+      "title": "Co-founder & CCO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/leonardolbvieira/",
+      "source": "https://careers.tractian.com/leadership"
+    },
+    {
+      "name": "Valentina Longo",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/valentina-longo-a175aa1/",
+      "source": "https://tractian.com/en/about"
+    },
+    {
+      "name": "David Walters",
+      "title": "CRO",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/dtwalters1/",
+      "source": "https://tractian.com/en/about"
+    },
+    {
+      "name": "JP Voltani",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/jpvolt/",
+      "source": "https://tractian.com/en/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2022-05",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://venturebeat.com/ai/tractian-gets-45m-to-expand-ai-monitoring-of-industrial-machinery"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-08",
+      "amount": "$45M",
+      "valuation": "$205M",
+      "lead": "General Catalyst",
+      "source": "https://www.reuters.com/article/technology/general-catalyst-leads-45-million-round-in-startup-tractian-idUSL1N39L2ML/"
+    },
+    {
+      "round": "Series C",
+      "date": "2024-12",
+      "amount": "$120M",
+      "valuation": "$720M",
+      "lead": "Sapphire Ventures",
+      "source": "https://www.prnewswire.com/news-releases/tractian-raises-120m-to-eliminate-industrial-downtime-worldwide-302323716.html"
+    },
+    {
+      "round": "Debt",
+      "date": "2026-08",
+      "amount": "R$120.1M (~$24M) BNDES loan for robotics",
+      "valuation": null,
+      "lead": "BNDES",
+      "source": "https://agenciadenoticias.bndes.gov.br/noticia/BNDES-aprova-R$-1201-mi-para-projeto-de-robotica-industrial-da-Tractian/"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-10",
+      "amount": "$130M",
+      "valuation": "$1.4B",
+      "lead": "Sapphire Ventures (co-lead M&G Catalyst)",
+      "source": "https://www.finsmes.com/2026/10/tractian-raises-130m-in-series-d-funding.html"
+    }
+  ],
+  "total_raised": "~$330M equity (~$200M before Series D + $130M)",
+  "revenue_est": {
+    "value": "$100M+ ARR, +90% YoY",
+    "as_of": "Sep 2026",
+    "basis": "company-stated",
+    "source": "https://dealroom.co/news/165332-tractian-hits-1-4b-valuation-with-130m-series-d-for-factory-ai"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $130M Series D at $1.4B led by Sapphire; ARR passes $100M",
+      "url": "https://dealroom.co/news/165332-tractian-hits-1-4b-valuation-with-130m-series-d-for-factory-ai"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Brazil's BNDES approves R$120.1M loan for Tractian industrial robotics project",
+      "url": "https://agenciadenoticias.bndes.gov.br/noticia/BNDES-aprova-R$-1201-mi-para-projeto-de-robotica-industrial-da-Tractian/"
+    },
+    {
+      "date": "2026-01",
+      "headline": "North America sales head Josh Power steps down after two years",
+      "url": "https://www.linkedin.com/posts/josh-power-b2554b38_after-an-amazing-two-year-run-leading-the-activity-7412605237800398848-HI8j"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Ranked #24 on Deloitte Technology Fast 500 North America",
+      "url": "https://www.prnewswire.com/news-releases/tractian-ranked-number-24-fastest-growing-company-in-north-america-on-the-2025-deloitte-technology-fast-500-302620177.html"
+    },
+    {
+      "date": "2024-12",
+      "headline": "Raises $120M Series C led by Sapphire Ventures",
+      "url": "https://www.prnewswire.com/news-releases/tractian-raises-120m-to-eliminate-industrial-downtime-worldwide-302323716.html"
+    }
+  ],
+  "competitors": [
+    "Augury",
+    "MaintainX",
+    "Fiix (Rockwell)",
+    "Waites",
+    "Samsara"
+  ]
+}
