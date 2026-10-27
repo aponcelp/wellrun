@@ -38017,5 +38017,67 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Vera Health",
+  "slug": "vera-health",
+  "site": "https://www.verahealth.ai",
+  "careers_url": "https://jobs.ashbyhq.com/verahealth",
+  "what_they_do": "AI clinical search engine that answers clinicians' questions with graded, cited medical evidence",
+  "problem": "Clinicians can't read the flood of new research, and general chatbots make thin evidence sound settled",
+  "industry": "Clinical AI / clinical decision support",
+  "stage": "Series A",
+  "last_round": "$28.5M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Threshold Ventures",
+  "total_open_roles": "11",
+  "ops_roles": "Ex-Founder (strategic initiatives with the founders)",
+  "hiring_trend": "Team doubled 6 → 12 in a year (company); 11 open roles, most posted Mar–May 2026, now hiring internationally",
+  "headcount": "~12",
+  "latest_news": "Raised $28.5M Series A led by Threshold Ventures; $32M total, 800k+ clinicians",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.fiercehealthcare.com/finance/vera-health-secures-285m-series-ai-driven-clinical-search-engine",
+  "traction": "800k+ clinicians (from a few thousand a year ago, company-stated); top-downloaded clinical app since Jun 2026; revenue undisclosed",
+  "red_flags": "Jun 2025: OpenEvidence sued Vera Health and co-founder Taieb Bennani for trade-secret theft, alleging 600+ prompt-injection attacks by impersonating clinicians; settled Oct 2025 on undisclosed terms, no finding of liability.",
+  "red_flags_sources": [
+   {
+    "label": "Law.com Radar: OpenEvidence v. Veracity-Health, N.D. Cal. 3:25-cv-05376 (Jun 2025)",
+    "url": "https://www.law.com/radar/card/pm-58740258-openevidence-inc-v-veracity-health-inc"
+   },
+   {
+    "label": "Business Insider: OpenEvidence sued Vera Health over prompt-injection claims (Sep 2025)",
+    "url": "https://www.businessinsider.com/doximity-openevidence-suing-each-other-as-doctor-ai-war-rages-2025-9"
+   },
+   {
+    "label": "iatroX: case settled Oct 31, 2025, terms undisclosed (Jul 2026)",
+    "url": "https://www.iatrox.com/blog/openevidence-vera-health-prompt-injection-lawsuit-what-happened"
+   }
+  ],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 27, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Fast, broad adoption (800k+ clinicians, about 1 in 4 doctors in Spain and Italy), but in the US it trails OpenEvidence and Doximity, UpToDate and the AI labs sell to the same doctors, and hospital monetization is only starting.",
+  "distance_sources": [
+   {
+    "label": "Fierce Healthcare: Vera Health $28.5M Series A; rivals OpenEvidence, Doximity, UpToDate, OpenAI, Anthropic (Oct 2026)",
+    "url": "https://www.fiercehealthcare.com/finance/vera-health-secures-285m-series-ai-driven-clinical-search-engine"
+   },
+   {
+    "label": "Tech.eu: 1 in 4 physicians in Spain and Italy; hospital versions are how it makes money (Oct 2026)",
+    "url": "https://tech.eu/2026/10/27/from-two-doctors-to-800000-clinicians-vera-health-raises-285m/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
  }
 ]

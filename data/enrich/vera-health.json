@@ -1,0 +1,96 @@
+{
+  "slug": "vera-health",
+  "checked": "Oct 27, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~12",
+    "as_of": "Oct 2026",
+    "source": "https://www.fiercehealthcare.com/finance/vera-health-secures-285m-series-ai-driven-clinical-search-engine"
+  },
+  "leadership": [
+    {
+      "name": "Taieb Bennani",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.verahealth.ai/about"
+    },
+    {
+      "name": "Maxime Allouch",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.verahealth.ai/about"
+    },
+    {
+      "name": "Bernard P. Chang",
+      "title": "Chief Scientific Advisor",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.verahealth.ai/blog/vera-health-raises-32-million"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-Seed",
+      "date": "2024-09",
+      "amount": "$500K",
+      "valuation": null,
+      "lead": "Y Combinator, Pioneer Fund",
+      "source": "https://www.extruct.ai/hub/vera-health-ai-funding"
+    },
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": "~$3M",
+      "valuation": null,
+      "lead": "Gradient",
+      "source": "https://www.gradient.com/blog/posts/vera-health-acep/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$28.5M",
+      "valuation": null,
+      "lead": "Threshold Ventures",
+      "source": "https://www.verahealth.ai/blog/vera-health-raises-32-million"
+    }
+  ],
+  "total_raised": "$32M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "$28.5M Series A led by Threshold Ventures; 800k+ clinicians, 12 employees",
+      "url": "https://www.fiercehealthcare.com/finance/vera-health-secures-285m-series-ai-driven-clinical-search-engine"
+    },
+    {
+      "date": "2026-03",
+      "headline": "ACEP clinical policies integrated into Vera for 38,000+ emergency physicians",
+      "url": "https://www.gradient.com/blog/posts/vera-health-acep/"
+    },
+    {
+      "date": "2025-10",
+      "headline": "OpenEvidence trade-secret suit against Vera settled, terms undisclosed",
+      "url": "https://www.iatrox.com/blog/openevidence-vera-health-prompt-injection-lawsuit-what-happened"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Reports 97.5% on USMLE benchmark using ZeroEntropy retrieval",
+      "url": "https://zeroentropy.dev/articles/how-vera-health-achieved-state-of-the-art-clinical-accuracy-using-zeroentropy/"
+    },
+    {
+      "date": "2025-06",
+      "headline": "OpenEvidence sues Vera and co-founder Bennani alleging prompt-injection theft",
+      "url": "https://www.law.com/radar/card/pm-58740258-openevidence-inc-v-veracity-health-inc"
+    }
+  ],
+  "competitors": [
+    "openevidence",
+    "Doximity",
+    "UpToDate (Wolters Kluwer)",
+    "AMBOSS",
+    "Glass Health"
+  ]
+}
