@@ -38079,5 +38079,56 @@
    "San Francisco",
    "Remote"
   ]
+ },
+ {
+  "name": "Avante",
+  "slug": "avante",
+  "site": "https://www.avante.ai",
+  "careers_url": "https://job-boards.greenhouse.io/avante",
+  "what_they_do": "Enterprise AI agents for employer benefits teams (Ava) and their employees (Carly)",
+  "problem": "Benefits teams run a huge, complex spend on spreadsheets and PDFs while employees can't understand or use their coverage",
+  "industry": "HR tech / employee benefits AI",
+  "stage": "Series A",
+  "last_round": "$30M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Frist Cressey Ventures",
+  "total_open_roles": "11",
+  "ops_roles": "Senior Customer Success Manager; Partner Success Manager",
+  "hiring_trend": "Headcount ~67 on LinkedIn, +91% YoY (+32); 11 open roles across Seattle and NYC",
+  "headcount": "~45-67",
+  "latest_news": "Raised $30M Series A led by Frist Cressey Ventures; total funding $40M",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.avante.ai/articles/avante-raises-a-30m-series-a-led-by-frist-cressey-ventures",
+  "traction": "70+ customers (~5x YoY), 100% renewals, 385k+ members covered (company-stated); revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 27, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky once claims, contracts and plan documents live in its platform (every renewal so far renewed, 70+ customers), but early, and Workday, ADP, Rippling and Deel sell benefits tools to the same HR buyers.",
+  "distance_sources": [
+   {
+    "label": "Avante: $30M Series A, 70+ customers, all renewals renewed (Oct 2026)",
+    "url": "https://www.avante.ai/articles/avante-raises-a-30m-series-a-led-by-frist-cressey-ventures"
+   },
+   {
+    "label": "GeekWire: Avante launch and competitors (Apr 2025)",
+    "url": "https://www.geekwire.com/2025/seattle-startup-avante-aims-to-disrupt-employee-benefits-industry"
+   }
+  ],
+  "hiring_locations": [
+   "Seattle",
+   "New York",
+   "New York City OR Seattle",
+   "Remote"
+  ]
  }
 ]
