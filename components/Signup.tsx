@@ -28,7 +28,7 @@ export default function Signup({ compact = false }: { compact?: boolean }) {
       setMsg("Something went wrong. Try again.");
     }
   }
-  if (state === "done") return <p className={`signup signup--done${compact ? " signup--sm" : ""}`}>You&apos;re in. The weekly changes land in your inbox every Monday.</p>;
+  if (state === "done") return <p className={`signup signup--done${compact ? " signup--sm" : ""}`}>You&apos;re in. The weekly changes land in your inbox every Wednesday.</p>;
   return (
     <form className={`signup${compact ? " signup--sm" : ""}`} onSubmit={submit}>
       <label htmlFor={id} className="signup__label">Get the weekly changes</label>

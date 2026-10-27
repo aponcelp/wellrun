@@ -41,7 +41,7 @@ export default function Built() {
         <div><dt>PostHog + Sentry</dt><dd>PostHog for privacy-friendly analytics; Sentry for error monitoring.</dd></div>
         <div><dt>Hex</dt><dd>Where the board and traffic data get analyzed, straight from Supabase.</dd></div>
         <div><dt>Google Search Console</dt><dd>Shows which searches find us.</dd></div>
-        <div><dt>Beehiiv</dt><dd>Sends Well Run Weekly: the board&apos;s biggest moves, new adds and standout roles, every Monday.</dd></div>
+        <div><dt>Beehiiv</dt><dd>Sends Well Run Weekly: the board&apos;s biggest moves, new adds and standout roles, every Wednesday.</dd></div>
       </dl>
     </section>
   );
