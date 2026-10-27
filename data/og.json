@@ -1367,6 +1367,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "front": {
+  "url": "https://front.com/assets/pages/global-ai/Meta-Unfurl-OG-Image/Meta-Unfurl.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-27"
+ },
  "fulcrum": {
   "url": "https://framerusercontent.com/assets/2QJHWsAMIAEe6Tvm24mfedocs.png",
   "kind": "og",

@@ -38242,5 +38242,76 @@
    "Europe",
    "Israel"
   ]
+ },
+ {
+  "name": "Front",
+  "slug": "front",
+  "site": "https://front.com",
+  "careers_url": "https://jobs.ashbyhq.com/frontcareers",
+  "what_they_do": "Shared-inbox customer operations platform where support teams and AI agents work tickets together",
+  "problem": "B2B customer teams lose context and drop handoffs across inboxes, tools and AI agents on complex accounts",
+  "industry": "Customer service software",
+  "stage": "Series D",
+  "last_round": "$65M",
+  "last_round_date": "Jun 2022",
+  "lead_investors": "Salesforce Ventures, Battery Ventures",
+  "total_open_roles": "6",
+  "ops_roles": "",
+  "hiring_trend": "Shrinking: layoffs Oct 27, 2026; headcount flat ~417 → ~434 (Revelio, Q4 2025 → Q1 2026); 6 open roles",
+  "headcount": "~430-580",
+  "latest_news": "CEO Dan O'Connell announced layoffs to build a more sustainable business",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7520895375851872256/",
+  "traction": "$100M ARR Sep 2025, up 16% YoY (Sacra est.); 9,300+ business customers",
+  "red_flags": "Oct 27, 2026 layoffs: CEO Dan O'Connell announced Front is reducing the size of its team (number not disclosed) to build a more sustainable business. No new priced round since the 2022 Series D.",
+  "red_flags_sources": [
+   {
+    "label": "Dan O'Connell (CEO) LinkedIn post announcing team reduction (Oct 27, 2026)",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7520895375851872256/"
+   },
+   {
+    "label": "Revelio Labs: Frontapp headcount, flat YoY (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/frontapp/employees"
+   },
+   {
+    "label": "Tracxn: last round Series D $65M, Jun 2022",
+    "url": "https://tracxn.com/d/companies/front/__HeRLSq3hy0lDetLGKIccBXJhIQ7it32AkMIf0OUW2t8"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.3",
+  "glassdoor_reviews": "254",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Front-Reviews-E1356926.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 27, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky shared-inbox workflow with 9,300+ customers and $100M ARR, but growth has slowed to ~16%, the CEO calls it a legacy company to be reinvented, it trails Zendesk, Intercom and Salesforce, AI-native rivals (Sierra, Decagon, Pylon) are taking the category, and it just cut staff.",
+  "distance_sources": [
+   {
+    "label": "Sacra: Front hit $100M ARR Sep 2025, growing 16% YoY",
+    "url": "https://sacra.com/research/front-vs-intercom/"
+   },
+   {
+    "label": "WRITER: Front CEO says 'We are viewed as a legacy company' (Feb 2026)",
+    "url": "https://writer.com/blog/humans-of-ai-dan-oconnell"
+   },
+   {
+    "label": "Front About page: 9,300+ businesses, $100M ARR surpassed in 2025",
+    "url": "https://front.com/about"
+   },
+   {
+    "label": "Dan O'Connell LinkedIn: team reduction (Oct 27, 2026)",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7520895375851872256/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Paris",
+   "Remote (US)"
+  ]
  }
 ]
