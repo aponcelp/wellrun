@@ -1244,11 +1244,15 @@ a.wk__name:hover { text-decoration: underline; text-decoration-color: var(--clay
 .spot__why p:last-child { font-size: 14px; line-height: 1.5; }
 
 /* Company page: collapsible rank + score history (Oct 25) */
-.cohist { margin-top: 14px; border-top: 1px solid var(--rule); }
-.cohist summary { cursor: pointer; list-style: none; padding: 12px 0; font: 600 14px/1 var(--sans); color: var(--ink); }
+.cohist { margin-top: 14px; }
+.cohist summary { cursor: pointer; list-style: none; display: flex; align-items: center; gap: 10px; padding: 12px 14px; background: var(--sheet); border: 1px solid var(--rule-strong); border-radius: 6px; box-shadow: 3px 3px 0 var(--ink); font: 600 14px/1.2 var(--sans); color: var(--ink); transition: transform .12s var(--ease), box-shadow .12s var(--ease); }
 .cohist summary::-webkit-details-marker { display: none; }
-.cohist summary::after { content: "+"; float: right; font: 400 18px/14px var(--mono); }
-.cohist[open] summary::after { content: "–"; }
+.cohist summary:hover { transform: translate(-1px, -1px); box-shadow: 4px 4px 0 var(--ink); }
+.cohist summary:active { transform: translate(2px, 2px); box-shadow: 1px 1px 0 var(--ink); }
+.cohist summary:focus-visible { outline: 2px solid var(--forest); outline-offset: 2px; }
+.cohist summary::after { content: "Show chart \25BE"; margin-left: auto; flex: none; padding: 6px 10px; background: var(--lime); border: 1px solid var(--ink); border-radius: 4px; font: 600 11px/1 var(--mono); text-transform: uppercase; letter-spacing: 0.05em; color: var(--ink); }
+.cohist[open] summary::after { content: "Hide \25B4"; background: var(--paper-2); }
+.cohist[open] summary { margin-bottom: 14px; }
 .cohist__body { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; padding-bottom: 14px; }
 .cohist__fig { margin: 0; }
 .cohist__fig figcaption { font: 600 11px/1 var(--mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-2); margin-bottom: 6px; }
