@@ -38520,5 +38520,59 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Lorikeet",
+  "slug": "lorikeet",
+  "site": "https://www.lorikeetcx.ai",
+  "careers_url": "https://jobs.ashbyhq.com/lorikeet",
+  "what_they_do": "AI support concierge resolving complex fintech, health and insurance customer issues end to end",
+  "problem": "Regulated companies need support answers that are right the first time, but chatbots only deflect and humans don't scale",
+  "industry": "AI customer support",
+  "stage": "Series A",
+  "last_round": "$35M",
+  "last_round_date": "Aug 2025",
+  "lead_investors": "QED Investors",
+  "total_open_roles": "11",
+  "ops_roles": "Forward Deployed Product Manager; Senior Forward Deployed Product Manager",
+  "hiring_trend": "Headcount ~65 per CEO (Jul 2026) to est. ~100 (Airframe); 11 open roles, 8 posted in Oct 2026",
+  "headcount": "~65-100",
+  "latest_news": "Launched B2A suite so businesses can serve customers' personal AI agents",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.lorikeetcx.ai/blog/launching-b2a",
+  "traction": "Revenue 10x since Oct 2024 launch; CRO cites triple-digit ARR growth; ~$16M revenue est.",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Lorikeet-Reviews-E10757827.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 28, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real adoption in regulated niches (#8 in a16z/Mercury AI spend list, seven-figure early renewals) and a sticky forward-deployed model, but it trails Sierra, Decagon and Intercom Fin in a crowded AI-support category. Early GTM leaders (first US hire, GTM ops lead) left mid-2026.",
+  "distance_sources": [
+   {
+    "label": "a16z: AI Application Spending Report, Lorikeet in customer service (Oct 2025)",
+    "url": "https://a16z.com/the-ai-application-spending-report-where-startup-dollars-really-go"
+   },
+   {
+    "label": "Lorikeet: Jerry Brooner joins as CRO (Jul 2026)",
+    "url": "https://www.prnewswire.com/news-releases/lorikeet-names-jerry-brooner-chief-revenue-officer-to-scale-its-ai-concierge-platform-across-fintech-healthcare-and-insurance-302832696.html"
+   },
+   {
+    "label": "Jerry Brooner (CRO) LinkedIn: triple-digit ARR growth, early 7-figure renewals (Aug 2026)",
+    "url": "https://www.linkedin.com/posts/jerrybrooner_just-wrapped-my-first-quarter-at-lorikeet-activity-7491142787686600704-mWr4"
+   }
+  ],
+  "hiring_locations": [
+   "Sydney",
+   "New York",
+   "Remote (US)"
+  ]
  }
 ]
