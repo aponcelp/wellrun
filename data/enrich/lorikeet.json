@@ -1,0 +1,114 @@
+{
+  "slug": "lorikeet",
+  "checked": "Oct 28, 2026",
+  "depth": "full",
+  "founded": 2023,
+  "hq": "New York, NY (founded in Sydney)",
+  "headcount_est": {
+    "value": "~65-100",
+    "as_of": "Jul-Oct 2026",
+    "source": "https://tieronepeople.com/2026/07/01/steve-hind-lorikeet/"
+  },
+  "leadership": [
+    {
+      "name": "Steve Hind",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/shind",
+      "source": "https://www.prnewswire.com/news-releases/lorikeet-names-jerry-brooner-chief-revenue-officer-to-scale-its-ai-concierge-platform-across-fintech-healthcare-and-insurance-302832696.html"
+    },
+    {
+      "name": "Jamie Hall",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.producttalk.org/building-lorikeet-how-ai-humility-and-a-dual-agent-architecture-are-redefining-customer-support/"
+    },
+    {
+      "name": "Jerry Brooner",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/lorikeet-names-jerry-brooner-chief-revenue-officer-to-scale-its-ai-concierge-platform-across-fintech-healthcare-and-insurance-302832696.html"
+    },
+    {
+      "name": "Robbie Tilleard",
+      "title": "General Manager, EMEA",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://contactcentremonthly.co.uk/lorikeet-lands-in-london-to-bring-ai-driven-customer-service-to-emea-market/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-10",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://fortune.com/2024/10/03/lorikeet-ai-customer-service-platform-5-million-seed-funding/"
+    },
+    {
+      "round": "Seed extension",
+      "date": "2025-02",
+      "amount": "$9M",
+      "valuation": "~A$100M",
+      "lead": "Blackbird",
+      "source": "https://www.prnewswire.com/news-releases/lorikeet-secures-9-million-in-additional-funding-as-market-demand-surges-for-its-ai-customer-support-agents-302368146.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-08",
+      "amount": "$35M",
+      "valuation": ">A$200M",
+      "lead": "QED Investors",
+      "source": "https://www.prnewswire.com/news-releases/lorikeet-raises-35-million-usd-series-a-to-deliver-ai-powered-universal-customer-concierges-able-to-solve-real-challenges-not-just-chatbots-302522821.html"
+    }
+  ],
+  "total_raised": "~$49M",
+  "revenue_est": {
+    "value": "~$16M annual revenue (est.)",
+    "as_of": "Oct 2026",
+    "basis": "estimate",
+    "source": "https://www.altis.vc/research/company/lorikeet"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Adds Personal Agent Protocol support and agent-traffic detection to B2A suite",
+      "url": "https://www.lorikeetcx.ai/blog/launching-b2a"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launches Lorikeet B2A to let businesses serve customers' personal AI agents",
+      "url": "https://www.lorikeetcx.ai/blog/launching-b2a"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Hires ex-Dropbox/Decagon GTM leader Jerry Brooner as CRO",
+      "url": "https://www.prnewswire.com/news-releases/lorikeet-names-jerry-brooner-chief-revenue-officer-to-scale-its-ai-concierge-platform-across-fintech-healthcare-and-insurance-302832696.html"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Opens London EMEA HQ led by GM Robbie Tilleard",
+      "url": "https://contactcentremonthly.co.uk/lorikeet-lands-in-london-to-bring-ai-driven-customer-service-to-emea-market/"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Ranks #8 in a16z/Mercury list of AI apps startups pay for",
+      "url": "https://a16z.com/the-ai-application-spending-report-where-startup-dollars-really-go"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Raises $35M Series A led by QED Investors",
+      "url": "https://www.prnewswire.com/news-releases/lorikeet-raises-35-million-usd-series-a-to-deliver-ai-powered-universal-customer-concierges-able-to-solve-real-challenges-not-just-chatbots-302522821.html"
+    }
+  ],
+  "competitors": [
+    "sierra",
+    "decagon",
+    "Intercom (Fin)",
+    "gradient-labs",
+    "Ada"
+  ]
+}

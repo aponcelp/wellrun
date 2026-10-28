@@ -587,6 +587,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "casap": {
+  "url": "https://cdn.prod.website-files.com/6670a4d559962296d4e052c9/66ba62c5a59fdff6a599c8cf_favicon-256.png",
+  "kind": "icon",
+  "type": "image/png",
+  "checked": "2026-10-28"
+ },
  "cast-ai": {
   "url": "https://cast.ai/wp-content/uploads/2026/10/cx3-hp-meta.jpg",
   "kind": "og",
@@ -1355,6 +1361,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "fragment-ai": {
+  "url": "https://fragment.ai/brand/fragment/share.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-28"
+ },
  "framer": {
   "url": "https://framerusercontent.com/images/vt65Mbfi3w8ymfTyRfbmgM4Tyo.png",
   "kind": "og",
@@ -1954,6 +1966,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "lorikeet": {
+  "url": "https://framerusercontent.com/images/kq3dEeZhCkNVbORVKJrt3vL24.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-28"
  },
  "lotus-health": {
   "url": "https://framerusercontent.com/assets/Txkj4AsWMyofnmlmjCDTNFZV8.png",

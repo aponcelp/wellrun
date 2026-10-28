@@ -1,0 +1,77 @@
+{
+  "slug": "fragment-ai",
+  "checked": "Oct 28, 2026",
+  "depth": "full",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~14 (LinkedIn); 11-25 band",
+    "as_of": "Jun 2026",
+    "source": "https://linkedin.com/company/fragment-data-technologies"
+  },
+  "leadership": [
+    {
+      "name": "Pranav Mulgund",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/pranavmulgund",
+      "source": "https://www.globenewswire.com/news-release/2026/10/28/3390260/0/en/fragment-launches-with-56-million-to-automate-the-work-enterprise-software-leaves-behind.html"
+    },
+    {
+      "name": "Naveen Kashyap",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/itsnaveenkashyap",
+      "source": "https://procurementmag.com/news/how-fragment-is-automating-complex-procurement-workflows"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": null,
+      "valuation": null,
+      "lead": "General Catalyst, A* (co-leads)",
+      "source": "https://www.globenewswire.com/news-release/2026/10/28/3390260/0/en/fragment-launches-with-56-million-to-automate-the-work-enterprise-software-leaves-behind.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": null,
+      "valuation": null,
+      "lead": "8VC",
+      "source": "https://www.globenewswire.com/news-release/2026/10/28/3390260/0/en/fragment-launches-with-56-million-to-automate-the-work-enterprise-software-leaves-behind.html"
+    }
+  ],
+  "total_raised": "$56M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Exits stealth with $56M total; 8VC leads Series A, GC and A* co-led seed",
+      "url": "https://www.globenewswire.com/news-release/2026/10/28/3390260/0/en/fragment-launches-with-56-million-to-automate-the-work-enterprise-software-leaves-behind.html"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Names Graybar and CNX as customers; prices by work done, not seats",
+      "url": "https://techfundingnews.com/fragment-56m-series-a-procurement-exceptions-ai-agents/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Flex discloses capped $2.5M related-party deal (CEO's mother runs Flex)",
+      "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0000866374/56b6d3ff-c847-4f64-a030-6b376a269240.pdf"
+    },
+    {
+      "date": "2025-06",
+      "headline": "Founded in San Francisco by Pranav Mulgund and Naveen Kashyap",
+      "url": "https://linkedin.com/in/pranavmulgund"
+    }
+  ],
+  "competitors": [
+    "didero",
+    "zip",
+    "freehand",
+    "Levelpath",
+    "Pactum"
+  ]
+}

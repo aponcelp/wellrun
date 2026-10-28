@@ -1,0 +1,89 @@
+{
+  "slug": "casap",
+  "checked": "Oct 28, 2026",
+  "depth": "full",
+  "founded": 2023,
+  "hq": "New York, NY (offices in New York and San Francisco)",
+  "headcount_est": {
+    "value": "~69 (LinkedIn), up from 22 in Aug 2025",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/casaphq"
+  },
+  "leadership": [
+    {
+      "name": "Shanthi Shanmugam",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.casaphq.com/about"
+    },
+    {
+      "name": "Saisi Peter",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.casaphq.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-10",
+      "amount": "$8.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.casaphq.com/articles/casap-raises-8-5m-to-transform-financial-institutions-fraud-disputes-chargebacks"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-08",
+      "amount": "$25M",
+      "valuation": "$105M",
+      "lead": "Emergence Capital",
+      "source": "https://www.forbes.com/sites/jeffkauflin/2025/08/07/everyone-hates-credit-card-disputes-this-fintech-is-using-ai-to-fix-that/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-10",
+      "amount": "$56M",
+      "valuation": null,
+      "lead": "Base10 Partners",
+      "source": "https://www.prnewswire.com/news-releases/casap-raises-56m-series-b-to-deliver-agentic-outcomes-for-financial-services-302921778.html"
+    }
+  ],
+  "total_raised": "$90M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $56M Series B led by Base10; Experian and Synchrony join; revenue up 10x",
+      "url": "https://www.prnewswire.com/news-releases/casap-raises-56m-series-b-to-deliver-agentic-outcomes-for-financial-services-302921778.html"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Expands beyond disputes into fraud, collections, claims and exceptions",
+      "url": "https://fortune.com/2026/10/28/dd/"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Releases 2026 first-party fraud report with Cornerstone Advisors",
+      "url": "https://www.prnewswire.com/news-releases/casap-first-party-fraud-data-warns-losses-are-expected-to-climb-in-2026-agentic-ai-can-bridge-the-gap-302758528.html"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Filene FiLab publishes credit-union pilot results for Casap dispute automation",
+      "url": "https://www.filene.org/reports/2025-filab-results-casap"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Raises $25M Series A led by Emergence at $105M valuation",
+      "url": "https://www.forbes.com/sites/jeffkauflin/2025/08/07/everyone-hates-credit-card-disputes-this-fintech-is-using-ai-to-fix-that/"
+    }
+  ],
+  "competitors": [
+    "Quavo",
+    "FIS",
+    "Fiserv",
+    "Chargebacks911"
+  ]
+}

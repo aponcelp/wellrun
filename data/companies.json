@@ -38418,5 +38418,161 @@
    "Remote (US)",
    "Remote (India)"
   ]
+ },
+ {
+  "name": "Fragment (procurement)",
+  "slug": "fragment-ai",
+  "site": "https://fragment.ai",
+  "careers_url": "https://jobs.ashbyhq.com/fragmentai",
+  "what_they_do": "AI agents that resolve direct-procurement exceptions (invoice, PO, supplier disputes) end to end",
+  "problem": "Procurement teams at big manufacturers chase invoice and PO mismatches by hand across ERPs, portals and email",
+  "industry": "Procurement automation / AI agents for source-to-pay",
+  "stage": "Series A",
+  "last_round": "$56M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "8VC (Series A); General Catalyst, A* (seed)",
+  "total_open_roles": "9",
+  "ops_roles": "Agent Strategist (deployment); Solutions Architect; Talent Operations (Contract)",
+  "hiring_trend": "Founded Jun 2025; ~14 on LinkedIn (mid-2026), est. 15-25 now; open roles ~5 (Oct 2) → 9, all SF on-site",
+  "headcount": "~15-25",
+  "latest_news": "Launched from stealth with $56M total: 8VC-led Series A plus seed co-led by General Catalyst and A*",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/10/28/3390260/0/en/fragment-launches-with-56-million-to-automate-the-work-enterprise-software-leaves-behind.html",
+  "traction": "Graybar, CNX and other $1B+ enterprises; 2M exceptions handled, $258M costs impacted (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 28, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Just out of stealth with a handful of named enterprise customers (Graybar, CNX; Flex's deal is a disclosed related-party contract, capped at $2.5M/yr) in a crowded field with Zip, Didero, Pactum and Freehand; agents embedded in ERP workflows could become sticky, but it is too early to judge.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: Fragment launches with $56M; Graybar and CNX named (Oct 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/28/3390260/0/en/fragment-launches-with-56-million-to-automate-the-work-enterprise-software-leaves-behind.html"
+   },
+   {
+    "label": "Tech Funding News: Fragment raises $56M; competitors and two named customers (Oct 2026)",
+    "url": "https://techfundingnews.com/fragment-56m-series-a-procurement-exceptions-ai-agents/"
+   },
+   {
+    "label": "Flex SEC filing: related-party engagement with Fragment Data Technologies (Sep 2026)",
+    "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0000866374/56b6d3ff-c847-4f64-a030-6b376a269240.pdf"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
+ },
+ {
+  "name": "Casap",
+  "slug": "casap",
+  "site": "https://www.casaphq.com",
+  "careers_url": "https://jobs.gem.com/casap",
+  "what_they_do": "AI agents that run card and payment disputes and first-party fraud for banks",
+  "problem": "Banks and credit unions handle disputes by hand, take weeks to resolve them, and eat losses from false claims",
+  "industry": "Fintech / disputes & fraud operations",
+  "stage": "Series B",
+  "last_round": "$56M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Base10 Partners",
+  "total_open_roles": "16",
+  "ops_roles": "Director of Implementations; Technical Program Manager (implementations); Outcome Strategist; Customer Experience Manager",
+  "hiring_trend": "Headcount ~22 (Aug 2025, Forbes) → ~69 on LinkedIn (+146% YoY); open roles ~10 → 16 in a month",
+  "headcount": "~70",
+  "latest_news": "Raised $56M Series B led by Base10, with Experian and Synchrony as strategics",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/casap-raises-56m-series-b-to-deliver-agentic-outcomes-for-financial-services-302921778.html",
+  "traction": "Revenue up 10x since Aug 2025 Series A (company-stated); 100+ banks, credit unions, fintechs",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 28, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Leading AI-native player on the issuer side of disputes, with 100+ banks, credit unions and fintechs live and a 10x revenue jump in a year; it becomes the system of record for Reg E/Z and network rules, which is hard to rip out. Legacy rivals (Quavo, FIS, Fiserv) can bundle dispute automation, and the push into collections and claims is still early.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Casap raises $56M Series B (Oct 2026)",
+    "url": "https://www.prnewswire.com/news-releases/casap-raises-56m-series-b-to-deliver-agentic-outcomes-for-financial-services-302921778.html"
+   },
+   {
+    "label": "Fortune: Casap raises $56M to help banks stop customer fraud (Oct 2026)",
+    "url": "https://fortune.com/2026/10/28/dd/"
+   },
+   {
+    "label": "Forbes: Casap $25M Series A at $105M valuation (Aug 2025)",
+    "url": "https://www.forbes.com/sites/jeffkauflin/2025/08/07/everyone-hates-credit-card-disputes-this-fintech-is-using-ai-to-fix-that/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Lorikeet",
+  "slug": "lorikeet",
+  "site": "https://www.lorikeetcx.ai",
+  "careers_url": "https://jobs.ashbyhq.com/lorikeet",
+  "what_they_do": "AI support concierge resolving complex fintech, health and insurance customer issues end to end",
+  "problem": "Regulated companies need support answers that are right the first time, but chatbots only deflect and humans don't scale",
+  "industry": "AI customer support",
+  "stage": "Series A",
+  "last_round": "$35M",
+  "last_round_date": "Aug 2025",
+  "lead_investors": "QED Investors",
+  "total_open_roles": "11",
+  "ops_roles": "Forward Deployed Product Manager; Senior Forward Deployed Product Manager",
+  "hiring_trend": "Headcount ~65 per CEO (Jul 2026) to est. ~100 (Airframe); 11 open roles, 8 posted in Oct 2026",
+  "headcount": "~65-100",
+  "latest_news": "Launched B2A suite so businesses can serve customers' personal AI agents",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.lorikeetcx.ai/blog/launching-b2a",
+  "traction": "Revenue 10x since Oct 2024 launch; CRO cites triple-digit ARR growth; ~$16M revenue est.",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Lorikeet-Reviews-E10757827.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 28, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real adoption in regulated niches (#8 in a16z/Mercury AI spend list, seven-figure early renewals) and a sticky forward-deployed model, but it trails Sierra, Decagon and Intercom Fin in a crowded AI-support category. Early GTM leaders (first US hire, GTM ops lead) left mid-2026.",
+  "distance_sources": [
+   {
+    "label": "a16z: AI Application Spending Report, Lorikeet in customer service (Oct 2025)",
+    "url": "https://a16z.com/the-ai-application-spending-report-where-startup-dollars-really-go"
+   },
+   {
+    "label": "Lorikeet: Jerry Brooner joins as CRO (Jul 2026)",
+    "url": "https://www.prnewswire.com/news-releases/lorikeet-names-jerry-brooner-chief-revenue-officer-to-scale-its-ai-concierge-platform-across-fintech-healthcare-and-insurance-302832696.html"
+   },
+   {
+    "label": "Jerry Brooner (CRO) LinkedIn: triple-digit ARR growth, early 7-figure renewals (Aug 2026)",
+    "url": "https://www.linkedin.com/posts/jerrybrooner_just-wrapped-my-first-quarter-at-lorikeet-activity-7491142787686600704-mWr4"
+   }
+  ],
+  "hiring_locations": [
+   "Sydney",
+   "New York",
+   "Remote (US)"
+  ]
  }
 ]
