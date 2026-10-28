@@ -587,6 +587,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "casap": {
+  "url": "https://cdn.prod.website-files.com/6670a4d559962296d4e052c9/66ba62c5a59fdff6a599c8cf_favicon-256.png",
+  "kind": "icon",
+  "type": "image/png",
+  "checked": "2026-10-28"
+ },
  "cast-ai": {
   "url": "https://cast.ai/wp-content/uploads/2026/10/cx3-hp-meta.jpg",
   "kind": "og",
