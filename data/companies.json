@@ -38418,5 +38418,57 @@
    "Remote (US)",
    "Remote (India)"
   ]
+ },
+ {
+  "name": "Fragment (procurement)",
+  "slug": "fragment-ai",
+  "site": "https://fragment.ai",
+  "careers_url": "https://jobs.ashbyhq.com/fragmentai",
+  "what_they_do": "AI agents that resolve direct-procurement exceptions (invoice, PO, supplier disputes) end to end",
+  "problem": "Procurement teams at big manufacturers chase invoice and PO mismatches by hand across ERPs, portals and email",
+  "industry": "Procurement automation / AI agents for source-to-pay",
+  "stage": "Series A",
+  "last_round": "$56M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "8VC (Series A); General Catalyst, A* (seed)",
+  "total_open_roles": "9",
+  "ops_roles": "Agent Strategist (deployment); Solutions Architect; Talent Operations (Contract)",
+  "hiring_trend": "Founded Jun 2025; ~14 on LinkedIn (mid-2026), est. 15-25 now; open roles ~5 (Oct 2) → 9, all SF on-site",
+  "headcount": "~15-25",
+  "latest_news": "Launched from stealth with $56M total: 8VC-led Series A plus seed co-led by General Catalyst and A*",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/10/28/3390260/0/en/fragment-launches-with-56-million-to-automate-the-work-enterprise-software-leaves-behind.html",
+  "traction": "Graybar, CNX and other $1B+ enterprises; 2M exceptions handled, $258M costs impacted (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 28, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Just out of stealth with a handful of named enterprise customers (Graybar, CNX; Flex's deal is a disclosed related-party contract, capped at $2.5M/yr) in a crowded field with Zip, Didero, Pactum and Freehand; agents embedded in ERP workflows could become sticky, but it is too early to judge.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: Fragment launches with $56M; Graybar and CNX named (Oct 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/28/3390260/0/en/fragment-launches-with-56-million-to-automate-the-work-enterprise-software-leaves-behind.html"
+   },
+   {
+    "label": "Tech Funding News: Fragment raises $56M; competitors and two named customers (Oct 2026)",
+    "url": "https://techfundingnews.com/fragment-56m-series-a-procurement-exceptions-ai-agents/"
+   },
+   {
+    "label": "Flex SEC filing: related-party engagement with Fragment Data Technologies (Sep 2026)",
+    "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0000866374/56b6d3ff-c847-4f64-a030-6b376a269240.pdf"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
  }
 ]
