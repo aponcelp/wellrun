@@ -38368,5 +38368,55 @@
    "Austin",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Hyphenate",
+  "slug": "hyphenate",
+  "site": "https://hyphenate.ai",
+  "careers_url": "https://jobs.ashbyhq.com/hyphenate",
+  "what_they_do": "AI agents that run order-to-cash, treasury, close, AP and reporting on top of the ERP",
+  "problem": "Finance teams still close the books by hand in spreadsheets across disconnected ERP, bank and billing systems",
+  "industry": "Finance automation / AI for the CFO office",
+  "stage": "Series A",
+  "last_round": "$45M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Nexus Venture Partners",
+  "total_open_roles": "15",
+  "ops_roles": "Accounting Solutions Consultant (Founding Team); Startup Generalist (New Grad)",
+  "hiring_trend": "Headcount 18 (Sep 2025) → ~40 on LinkedIn/PitchBook (est. +120% YoY); 15 open roles, mostly NYC",
+  "headcount": "~40",
+  "latest_news": "Raised $45M Series A led by Nexus Venture Partners; $54M total; rebranded from Maximor Oct 1",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://hyphenate.ai/press/hyphenate-series-a-fundraise",
+  "traction": "86x revenue and 11x customers in 12 months, multi-million ARR, six public-company customers (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 27, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky once agents run a customer's close and subledgers (average customer runs six modules, 40% expand in year one), but revenue is still multi-million in a crowded AI-accounting field behind Rillet, Basis, Campfire and Ramp.",
+  "distance_sources": [
+   {
+    "label": "Hyphenate: $45M Series A, 86x revenue growth, six modules per customer (Oct 2026)",
+    "url": "https://hyphenate.ai/press/hyphenate-series-a-fundraise"
+   },
+   {
+    "label": "Quartz/Bloomberg: Hyphenate raises $45M, competes with Ramp (Oct 2026)",
+    "url": "https://qz.com/hyphenate-series-a-ai-finance-agents-funding-102726"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote (US)",
+   "Remote (India)"
+  ]
  }
 ]

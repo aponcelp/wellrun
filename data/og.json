@@ -1673,6 +1673,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "hyphenate": {
+  "url": "https://cdn.sanity.io/images/58qcx4ug/production/53185d9cefec50caf9d80a88836d09364bb746f6-1200x632.png?rect=0,3,1200,627&w=1200&h=627&fit=crop&auto=format",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-28"
+ },
  "imprint": {
   "url": "https://framerusercontent.com/assets/CVGaxWn2JW3mV5KWWXmkzXVM.png",
   "kind": "og",
