@@ -1,0 +1,146 @@
+{
+ "slug": "front",
+ "checked": "Oct 27, 2026",
+ "depth": "full",
+ "founded": 2013,
+ "hq": "San Francisco, CA",
+ "headcount_est": {
+  "value": "~434 (Revelio); 579 on LinkedIn, before Oct 27 layoffs",
+  "as_of": "Mar 2026",
+  "source": "https://www.reveliolabs.com/companies/frontapp/employees"
+ },
+ "leadership": [
+  {
+   "name": "Dan O'Connell",
+   "title": "CEO",
+   "founder": false,
+   "linkedin": "https://www.linkedin.com/in/droconnell/",
+   "source": "https://front.com/about"
+  },
+  {
+   "name": "Mathilde Collin",
+   "title": "Co-founder & Executive Chair",
+   "founder": true,
+   "linkedin": "https://www.linkedin.com/in/mathilde-collin-bb59492a/",
+   "source": "https://front.com/about"
+  },
+  {
+   "name": "Laurent Perrin",
+   "title": "Co-founder & CTO",
+   "founder": true,
+   "linkedin": "https://www.linkedin.com/in/laurent-perrin-9199505/",
+   "source": "https://front.com/about"
+  },
+  {
+   "name": "Meredith Finn",
+   "title": "Chief Finance and Operations Officer",
+   "founder": false,
+   "linkedin": "https://www.linkedin.com/in/meredithfinn1/",
+   "source": "https://front.com/about"
+  },
+  {
+   "name": "Mike Kane",
+   "title": "Chief Revenue Officer",
+   "founder": false,
+   "linkedin": "https://www.linkedin.com/in/mike-kane22/",
+   "source": "https://front.com/about"
+  },
+  {
+   "name": "David Slater",
+   "title": "Chief Marketing Officer",
+   "founder": false,
+   "linkedin": "https://www.linkedin.com/in/slaterdavid/",
+   "source": "https://front.com/about"
+  },
+  {
+   "name": "Arjen Mackaaij",
+   "title": "Chief People Officer",
+   "founder": false,
+   "linkedin": "https://www.linkedin.com/in/arjenmackaay/",
+   "source": "https://front.com/about"
+  }
+ ],
+ "funding_history": [
+  {
+   "round": "Seed",
+   "date": "2014-10",
+   "amount": "$3.1M",
+   "valuation": null,
+   "lead": null,
+   "source": "https://linkedin.com/company/fronthq"
+  },
+  {
+   "round": "Series A",
+   "date": "2016-05",
+   "amount": "$10M",
+   "valuation": null,
+   "lead": "Social Capital",
+   "source": "https://www.hexa.com/companies/front"
+  },
+  {
+   "round": "Series B",
+   "date": "2018-01",
+   "amount": "$66M",
+   "valuation": null,
+   "lead": "Sequoia Capital",
+   "source": "https://www.hexa.com/companies/front"
+  },
+  {
+   "round": "Series C",
+   "date": "2020-01",
+   "amount": "$59M",
+   "valuation": null,
+   "lead": "Tech executives (Atlassian, Okta, Qualtrics, Zoom, PagerDuty founders)",
+   "source": "https://ceowire.co/ceo-portraits/mathilde-collin-front-customer-communication"
+  },
+  {
+   "round": "Series D",
+   "date": "2022-06",
+   "amount": "$65M",
+   "valuation": "$1.7B",
+   "lead": "Salesforce Ventures, Battery Ventures",
+   "source": "https://www.builtinsf.com/articles/san-francisco-tech-news-070522"
+  }
+ ],
+ "total_raised": "$204M",
+ "revenue_est": {
+  "value": "~$100M ARR (+16% YoY)",
+  "as_of": "Sep 2025",
+  "basis": "press report",
+  "source": "https://sacra.com/research/front-vs-intercom/"
+ },
+ "news_timeline": [
+  {
+   "date": "2026-10",
+   "headline": "CEO Dan O'Connell announces layoffs to build a more sustainable business",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7520895375851872256/"
+  },
+  {
+   "date": "2026-10",
+   "headline": "Launches bring-your-own-agents: external AI agents work tickets alongside teams",
+   "url": "https://front.com/blog/ai-agents-teammates-launch"
+  },
+  {
+   "date": "2025-11",
+   "headline": "Expands Santiago, Chile hub; plans 100+ hires over three years",
+   "url": "https://blog.investchile.gob.cl/en/front-expands-in-chile"
+  },
+  {
+   "date": "2025-09",
+   "headline": "Surpasses $100M ARR",
+   "url": "https://www.businesswire.com/news/home/20250909818241/en/Front-Surpasses-%24100M-ARR-as-Companies-Embrace-Human-Centric-AI-for-Customer-Operations"
+  },
+  {
+   "date": "2024-11",
+   "headline": "Acquires AI voice-of-customer platform Idiomatic",
+   "url": "https://siliconangle.com/2024/11/19/front-acquires-idiomatic-bolster-ai-driven-customer-service-solutions/"
+  }
+ ],
+ "competitors": [
+  "Zendesk",
+  "Intercom",
+  "pylon",
+  "sierra",
+  "decagon"
+ ]
+}

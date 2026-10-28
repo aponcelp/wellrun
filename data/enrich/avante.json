@@ -1,0 +1,112 @@
+{
+  "slug": "avante",
+  "checked": "Oct 27, 2026",
+  "depth": "full",
+  "founded": 2023,
+  "hq": "Seattle, WA",
+  "headcount_est": {
+    "value": "~67",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/avanteai"
+  },
+  "leadership": [
+    {
+      "name": "Rohan D'Souza",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/rohanpdsouza/",
+      "source": "https://www.avante.ai/company"
+    },
+    {
+      "name": "Carly Eckert, MD, PhD",
+      "title": "Co-founder, Head of Innovation & Impact",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/carlyeckert-md/",
+      "source": "https://www.avante.ai/company"
+    },
+    {
+      "name": "Kabir Shahani",
+      "title": "Co-founder & Executive Chairman",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.avante.ai/company"
+    },
+    {
+      "name": "Kevin Varadian",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/avanteai"
+    },
+    {
+      "name": "Jonathan Smith",
+      "title": "EVP, Commercial Growth",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/avanteai"
+    },
+    {
+      "name": "Katie Bardaro",
+      "title": "SVP of Customer Experience",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/avanteai"
+    },
+    {
+      "name": "Mahesh Kumar",
+      "title": "Chief of Staff, Head of Operations",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://theorg.com/org/avante"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-01",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "FUSE",
+      "source": "https://www.businesswire.com/news/home/20240112931078/en/Avante-Raises-$10-Million-in-Seed-Funding-Led-by-FUSE"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Frist Cressey Ventures",
+      "source": "https://www.avante.ai/articles/avante-raises-a-30m-series-a-led-by-frist-cressey-ventures"
+    }
+  ],
+  "total_raised": "$40M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raised $30M Series A led by Frist Cressey Ventures; 70+ customers",
+      "url": "https://www.avante.ai/articles/avante-raises-a-30m-series-a-led-by-frist-cressey-ventures"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Launched Ava Agents beta for recurring benefits work",
+      "url": "https://www.avante.ai/articles/introducing-ava-agents-finding-opportunities-following-through"
+    },
+    {
+      "date": "2025-06",
+      "headline": "OneDigital West Region partners to offer Carly to its clients",
+      "url": "https://www.onedigital.com/en-US/articles/west-region-and-avante-announce-strategic-partnership-driving-innovation-in-employee-benefits"
+    },
+    {
+      "date": "2025-04",
+      "headline": "Public launch of AI-native benefits intelligence platform",
+      "url": "https://www.geekwire.com/2025/seattle-startup-avante-aims-to-disrupt-employee-benefits-industry"
+    }
+  ],
+  "competitors": [
+    "Nayya",
+    "Alight",
+    "Workday",
+    "rippling",
+    "deel"
+  ]
+}

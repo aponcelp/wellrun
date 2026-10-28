@@ -1,0 +1,82 @@
+{
+  "slug": "hyphenate",
+  "checked": "Oct 27, 2026",
+  "depth": "full",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~40",
+    "as_of": "Oct 2026",
+    "source": "https://pitchbook.com/profiles/company/734060-26"
+  },
+  "leadership": [
+    {
+      "name": "Ramnandan Krishnamurthy",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/ramnandan",
+      "source": "https://hyphenate.ai/press/hyphenate-series-a-fundraise"
+    },
+    {
+      "name": "Ajay Krishna Amudan",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2025/09/29/former-microsoft-executives-launch-ai-agents-to-end-excel-driven-finance-for-mid-market-enterprise-businesses/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-09",
+      "amount": "$9M",
+      "valuation": null,
+      "lead": "Foundation Capital",
+      "source": "https://techcrunch.com/2025/09/29/former-microsoft-executives-launch-ai-agents-to-end-excel-driven-finance-for-mid-market-enterprise-businesses/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$45M",
+      "valuation": null,
+      "lead": "Nexus Venture Partners",
+      "source": "https://hyphenate.ai/press/hyphenate-series-a-fundraise"
+    }
+  ],
+  "total_raised": "$54M",
+  "revenue_est": {
+    "value": "Multi-million-dollar ARR (86x growth in 12 months)",
+    "as_of": "Oct 2026",
+    "basis": "company-stated",
+    "source": "https://hyphenate.ai/press/hyphenate-series-a-fundraise"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $45M Series A led by Nexus Venture Partners; $54M total",
+      "url": "https://hyphenate.ai/press/hyphenate-series-a-fundraise"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Maximor rebrands as Hyphenate after 86x revenue growth",
+      "url": "https://hyphenate.ai/press/maximor-rebrand-hyphenate"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Maximor reports 35x revenue growth nine months after seed",
+      "url": "https://www.globenewswire.com/news-release/2026/08/05/3339475/0/en/maximor-grows-revenue-35x-in-9-months-as-it-elevates-finance-from-task-automation-to-full-autonomy.html"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Maximor exits stealth with $9M seed led by Foundation Capital",
+      "url": "https://techcrunch.com/2025/09/29/former-microsoft-executives-launch-ai-agents-to-end-excel-driven-finance-for-mid-market-enterprise-businesses/"
+    }
+  ],
+  "competitors": [
+    "rillet",
+    "basis",
+    "campfire",
+    "numeric",
+    "ramp"
+  ]
+}

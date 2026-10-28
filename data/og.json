@@ -389,6 +389,12 @@
   "type": "image/avif",
   "checked": "2026-10-19"
  },
+ "avante": {
+  "url": "https://cdn.prod.website-files.com/6984a517535340963a107436/6989eb16b6a7dc67c7a76c4a_5a5d873ca12f8104e6dc30c4b17da15b_OpenGraph.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-27"
+ },
  "avarra": {
   "url": "https://framerusercontent.com/images/PDDhAnZcXr7nM7qrPzCTKYmM.png",
   "kind": "og",
@@ -730,6 +736,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "coinflow": {
+  "url": "https://coinflow.cash/coinflow-og-image.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-27"
  },
  "column": {
   "url": "https://column.com/images/social/column-og.png",
@@ -1355,6 +1367,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "front": {
+  "url": "https://front.com/assets/pages/global-ai/Meta-Unfurl-OG-Image/Meta-Unfurl.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-27"
+ },
  "fulcrum": {
   "url": "https://framerusercontent.com/assets/2QJHWsAMIAEe6Tvm24mfedocs.png",
   "kind": "og",
@@ -1384,6 +1402,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "general-compute": {
+  "url": "https://www.generalcompute.com/apple-icon.png?apple-icon.273w2pdto4cif.png",
+  "kind": "icon",
+  "type": "image/png",
+  "checked": "2026-10-27"
  },
  "general-intuition": {
   "url": "https://cdn.prod.website-files.com/68b73cd966b9c097c35f357b/68e8144ca0bb0c277dd07742_general_intuition_opengraph.png",
@@ -1649,6 +1673,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "hyphenate": {
+  "url": "https://cdn.sanity.io/images/58qcx4ug/production/53185d9cefec50caf9d80a88836d09364bb746f6-1200x632.png?rect=0,3,1200,627&w=1200&h=627&fit=crop&auto=format",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-28"
+ },
  "imprint": {
   "url": "https://framerusercontent.com/assets/CVGaxWn2JW3mV5KWWXmkzXVM.png",
   "kind": "og",
@@ -1660,6 +1690,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-20"
+ },
+ "infisical": {
+  "url": "https://infisical.com/images/ogimage.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-27"
  },
  "instantly": {
   "url": "https://cdn.prod.website-files.com/63860c8c65e7bef4a1eeebeb/69bbbe355f4fdb68458b987d_Banner%20(1)%20(1).webp",
@@ -3604,6 +3640,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "vera-health": {
+  "url": "https://verahealth.ai/og_banner.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-27"
  },
  "vercel": {
   "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/og-home-not-x.png",

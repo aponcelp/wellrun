@@ -6321,28 +6321,28 @@
   "what_they_do": "AI analytics platform combining SQL/Python notebooks, an analytics agent, and generative data apps",
   "problem": "Business teams wait on data teams for answers, and analysts juggle separate notebook and BI tools",
   "industry": "Data / analytics software",
-  "stage": "Series C",
-  "last_round": "$70M",
-  "last_round_date": "May 2025",
-  "lead_investors": "Avra",
-  "total_open_roles": "39",
-  "ops_roles": "Recruiting Operations Manager; Legal Ops; Founding Commercial Account Manager; Revenue Operations Director",
-  "hiring_trend": "Team up ~23-40% YoY (third-party estimates); 40 open roles across SF, NYC and remote US, heavy on sales and engineering",
-  "headcount": "~280",
-  "latest_news": "Shipped generative chart controls and text editing for Generative Apps; named Snowflake's 2026 Product Partner of the Year (Agentic Analytics) in June",
-  "latest_news_date": "Sep 2026",
-  "latest_news_url": "https://www.linkedin.com/posts/barrymccardel_launching-today-in-hex-generative-apps-now-activity-7503125777111126016-LclJ",
-  "traction": "Customers include Reddit, Anthropic, Cisco, Figma, HubSpot and the NBA; $172M raised in total; revenue not disclosed",
+  "stage": "Series D",
+  "last_round": "$100M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Peak XV Partners",
+  "total_open_roles": "38",
+  "ops_roles": "Recruiting Operations Manager; Legal Ops; Deal Desk Manager; Founding Commercial Account Manager",
+  "hiring_trend": "Headcount ~232 (Revelio, +9% YoY) to ~287 on LinkedIn; sales team +25% YoY; 38 open roles, flat vs Oct",
+  "headcount": "~230-290",
+  "latest_news": "Raised $100M Series D at $1.2B led by Peak XV; rebuilding Hex agent-first",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.finsmes.com/2026/10/hex-technologies-raises-100m-in-funding-at-1-2-billion-post-money-valuation.html",
+  "traction": "2,000+ teams incl. Ramp, Figma, Anthropic; best quarter ever Q1 2026; revenue undisclosed",
   "red_flags": "",
-  "score": "3.25",
-  "zone": "Steady",
+  "score": "4.75",
+  "zone": "Sprint",
   "status": "new",
-  "glassdoor_rating": "",
-  "glassdoor_reviews": "",
-  "glassdoor_url": "",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "17",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Hex-Reviews-E8099329.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 25, 2026",
+  "last_checked": "Oct 27, 2026",
   "red_flags_sources": [],
   "engine": "Lock-in",
   "distance": "10K",
@@ -38017,5 +38017,406 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Vera Health",
+  "slug": "vera-health",
+  "site": "https://www.verahealth.ai",
+  "careers_url": "https://jobs.ashbyhq.com/verahealth",
+  "what_they_do": "AI clinical search engine that answers clinicians' questions with graded, cited medical evidence",
+  "problem": "Clinicians can't read the flood of new research, and general chatbots make thin evidence sound settled",
+  "industry": "Clinical AI / clinical decision support",
+  "stage": "Series A",
+  "last_round": "$28.5M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Threshold Ventures",
+  "total_open_roles": "11",
+  "ops_roles": "Ex-Founder (strategic initiatives with the founders)",
+  "hiring_trend": "Team doubled 6 → 12 in a year (company); 11 open roles, most posted Mar–May 2026, now hiring internationally",
+  "headcount": "~12",
+  "latest_news": "Raised $28.5M Series A led by Threshold Ventures; $32M total, 800k+ clinicians",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.fiercehealthcare.com/finance/vera-health-secures-285m-series-ai-driven-clinical-search-engine",
+  "traction": "800k+ clinicians (from a few thousand a year ago, company-stated); top-downloaded clinical app since Jun 2026; revenue undisclosed",
+  "red_flags": "Jun 2025: OpenEvidence sued Vera Health and co-founder Taieb Bennani for trade-secret theft, alleging 600+ prompt-injection attacks by impersonating clinicians; settled Oct 2025 on undisclosed terms, no finding of liability.",
+  "red_flags_sources": [
+   {
+    "label": "Law.com Radar: OpenEvidence v. Veracity-Health, N.D. Cal. 3:25-cv-05376 (Jun 2025)",
+    "url": "https://www.law.com/radar/card/pm-58740258-openevidence-inc-v-veracity-health-inc"
+   },
+   {
+    "label": "Business Insider: OpenEvidence sued Vera Health over prompt-injection claims (Sep 2025)",
+    "url": "https://www.businessinsider.com/doximity-openevidence-suing-each-other-as-doctor-ai-war-rages-2025-9"
+   },
+   {
+    "label": "iatroX: case settled Oct 31, 2025, terms undisclosed (Jul 2026)",
+    "url": "https://www.iatrox.com/blog/openevidence-vera-health-prompt-injection-lawsuit-what-happened"
+   }
+  ],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 27, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Fast, broad adoption (800k+ clinicians, about 1 in 4 doctors in Spain and Italy), but in the US it trails OpenEvidence and Doximity, UpToDate and the AI labs sell to the same doctors, and hospital monetization is only starting.",
+  "distance_sources": [
+   {
+    "label": "Fierce Healthcare: Vera Health $28.5M Series A; rivals OpenEvidence, Doximity, UpToDate, OpenAI, Anthropic (Oct 2026)",
+    "url": "https://www.fiercehealthcare.com/finance/vera-health-secures-285m-series-ai-driven-clinical-search-engine"
+   },
+   {
+    "label": "Tech.eu: 1 in 4 physicians in Spain and Italy; hospital versions are how it makes money (Oct 2026)",
+    "url": "https://tech.eu/2026/10/27/from-two-doctors-to-800000-clinicians-vera-health-raises-285m/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Avante",
+  "slug": "avante",
+  "site": "https://www.avante.ai",
+  "careers_url": "https://job-boards.greenhouse.io/avante",
+  "what_they_do": "Enterprise AI agents for employer benefits teams (Ava) and their employees (Carly)",
+  "problem": "Benefits teams run a huge, complex spend on spreadsheets and PDFs while employees can't understand or use their coverage",
+  "industry": "HR tech / employee benefits AI",
+  "stage": "Series A",
+  "last_round": "$30M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Frist Cressey Ventures",
+  "total_open_roles": "11",
+  "ops_roles": "Senior Customer Success Manager; Partner Success Manager",
+  "hiring_trend": "Headcount ~67 on LinkedIn, +91% YoY (+32); 11 open roles across Seattle and NYC",
+  "headcount": "~45-67",
+  "latest_news": "Raised $30M Series A led by Frist Cressey Ventures; total funding $40M",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.avante.ai/articles/avante-raises-a-30m-series-a-led-by-frist-cressey-ventures",
+  "traction": "70+ customers (~5x YoY), 100% renewals, 385k+ members covered (company-stated); revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 27, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky once claims, contracts and plan documents live in its platform (every renewal so far renewed, 70+ customers), but early, and Workday, ADP, Rippling and Deel sell benefits tools to the same HR buyers.",
+  "distance_sources": [
+   {
+    "label": "Avante: $30M Series A, 70+ customers, all renewals renewed (Oct 2026)",
+    "url": "https://www.avante.ai/articles/avante-raises-a-30m-series-a-led-by-frist-cressey-ventures"
+   },
+   {
+    "label": "GeekWire: Avante launch and competitors (Apr 2025)",
+    "url": "https://www.geekwire.com/2025/seattle-startup-avante-aims-to-disrupt-employee-benefits-industry"
+   }
+  ],
+  "hiring_locations": [
+   "Seattle",
+   "New York",
+   "New York City OR Seattle",
+   "Remote"
+  ]
+ },
+ {
+  "name": "General Compute",
+  "slug": "general-compute",
+  "site": "https://www.generalcompute.com",
+  "careers_url": "https://jobs.ashbyhq.com/generalcompute",
+  "what_they_do": "Inference cloud that buys and runs non-Nvidia AI chips and sells fast tokens",
+  "problem": "AI apps and inference clouds need faster, cheaper tokens but can't buy, house and run specialized chips themselves",
+  "industry": "AI infrastructure / inference neocloud",
+  "stage": "Series A",
+  "last_round": "$100M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Blackbird Ventures, Abstract Ventures",
+  "total_open_roles": "8",
+  "ops_roles": "Head of Data Center Deployment",
+  "hiring_trend": "Team ~7 → ~13 in 2026 (LinkedIn, est.); 8 open roles, all posted Sep–Oct 2026",
+  "headcount": "~13",
+  "latest_news": "Raised $100M Series A at $800M post-money led by Blackbird and Abstract",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+  "traction": "One customer deal worth ~$100M ARR (company-stated); 75 MW deployment planned for 2027",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 27, 2026",
+  "engine": "Scale",
+  "distance": "Unproven",
+  "distance_why": "Under a year old with ~13 staff; its edge is buying and siting alternative inference chips at scale, but revenue rests on one large customer, it is debt-funded and capital-hungry (CEO calls fundraising a full-time job), and it sells into a crowded neocloud market facing a predicted shakeout.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: General Compute $100M Series A, $100M ARR customer deal, 75 MW in 2027 (Oct 2026)",
+    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+   },
+   {
+    "label": "TechCrunch: $400M Upper90 loan backed by inference chips (Jul 2026)",
+    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
+   },
+   {
+    "label": "CoinDesk: Musk predicts 200+ neoclouds will consolidate (Oct 2026)",
+    "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Coinflow",
+  "slug": "coinflow",
+  "site": "https://coinflow.cash",
+  "careers_url": "https://jobs.ashbyhq.com/coinflow",
+  "what_they_do": "Payment processor that settles card, bank and crypto payments instantly via stablecoins",
+  "problem": "Merchants wait days for settlement, eat chargebacks and juggle separate providers for global pay-ins and payouts",
+  "industry": "Payments / stablecoin PSP",
+  "stage": "Series A",
+  "last_round": "$25M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": "Pantera Capital",
+  "total_open_roles": "16",
+  "ops_roles": "Operations Support Analyst; Forward Deployed Engineer; Senior Fraud Analyst - Team Lead",
+  "hiring_trend": "Headcount ~25 (Oct 2025) → ~76-82 (Sep–Oct 2026, Caplight/LinkedIn); company says team 4x in a year",
+  "headcount": "~80",
+  "latest_news": "Founding member of Rain's Agentic Payments Alliance with Visa, Mastercard, Circle",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://coinflow.cash/blog/coinflow-rain-agentic-payments-alliance/",
+  "traction": "23x revenue growth since 2024 seed; multi-billion-dollar annual volume run rate (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 27, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Real adoption (multi-billion volume, 23x revenue) and agentic-payments partnerships with Tempo and Mastercard, but a young follower in a crowded stablecoin PSP field next to Stripe/Bridge, BVNK and Zero Hash, and it runs on sponsor-bank partners that have cut off merchant categories before.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Coinflow closes $25M Series A led by Pantera (Oct 2025)",
+    "url": "https://www.businesswire.com/news/home/20251006771358/en/Coinflow-Closes-%2425M-Series-A-Led-by-Pantera-Capital-To-Power-Billions-in-Global-Payment-Volume"
+   },
+   {
+    "label": "Fortune: Coinflow raises $25M to challenge Stripe (Oct 2025)",
+    "url": "https://fortune.com/crypto/2025/10/08/stablecoin-coinflow-startup-funding-round-pantera-stripe-payments/"
+   },
+   {
+    "label": "Coinflow: Tempo partnership powering MPP Credits (Jun 2026)",
+    "url": "https://coinflow.cash/blog/tempo-coinflow-partnership/"
+   },
+   {
+    "label": "MintStars: Coinflow's banking partner cut off adult merchants (Apr 2025)",
+    "url": "https://mintstars.com/press/the-coinflow-crashout-another-blow-to-the-adult-industry-and-what-were-doing-about-it"
+   }
+  ],
+  "hiring_locations": [
+   "Chicago",
+   "Europe",
+   "Israel"
+  ]
+ },
+ {
+  "name": "Front",
+  "slug": "front",
+  "site": "https://front.com",
+  "careers_url": "https://jobs.ashbyhq.com/frontcareers",
+  "what_they_do": "Shared-inbox customer operations platform where support teams and AI agents work tickets together",
+  "problem": "B2B customer teams lose context and drop handoffs across inboxes, tools and AI agents on complex accounts",
+  "industry": "Customer service software",
+  "stage": "Series D",
+  "last_round": "$65M",
+  "last_round_date": "Jun 2022",
+  "lead_investors": "Salesforce Ventures, Battery Ventures",
+  "total_open_roles": "6",
+  "ops_roles": "",
+  "hiring_trend": "Shrinking: layoffs Oct 27, 2026; headcount flat ~417 → ~434 (Revelio, Q4 2025 → Q1 2026); 6 open roles",
+  "headcount": "~430-580",
+  "latest_news": "CEO Dan O'Connell announced layoffs to build a more sustainable business",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7520895375851872256/",
+  "traction": "$100M ARR Sep 2025, up 16% YoY (Sacra est.); 9,300+ business customers",
+  "red_flags": "Oct 27, 2026 layoffs: CEO Dan O'Connell announced Front is reducing the size of its team (number not disclosed) to build a more sustainable business. No new priced round since the 2022 Series D.",
+  "red_flags_sources": [
+   {
+    "label": "Dan O'Connell (CEO) LinkedIn post announcing team reduction (Oct 27, 2026)",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7520895375851872256/"
+   },
+   {
+    "label": "Revelio Labs: Frontapp headcount, flat YoY (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/frontapp/employees"
+   },
+   {
+    "label": "Tracxn: last round Series D $65M, Jun 2022",
+    "url": "https://tracxn.com/d/companies/front/__HeRLSq3hy0lDetLGKIccBXJhIQ7it32AkMIf0OUW2t8"
+   }
+  ],
+  "score": "0.75",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.3",
+  "glassdoor_reviews": "254",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Front-Reviews-E1356926.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 27, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky shared-inbox workflow with 9,300+ customers and $100M ARR, but growth has slowed to ~16%, the CEO calls it a legacy company to be reinvented, it trails Zendesk, Intercom and Salesforce, AI-native rivals (Sierra, Decagon, Pylon) are taking the category, and it just cut staff.",
+  "distance_sources": [
+   {
+    "label": "Sacra: Front hit $100M ARR Sep 2025, growing 16% YoY",
+    "url": "https://sacra.com/research/front-vs-intercom/"
+   },
+   {
+    "label": "WRITER: Front CEO says 'We are viewed as a legacy company' (Feb 2026)",
+    "url": "https://writer.com/blog/humans-of-ai-dan-oconnell"
+   },
+   {
+    "label": "Front About page: 9,300+ businesses, $100M ARR surpassed in 2025",
+    "url": "https://front.com/about"
+   },
+   {
+    "label": "Dan O'Connell LinkedIn: team reduction (Oct 27, 2026)",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7520895375851872256/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Paris",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Infisical",
+  "slug": "infisical",
+  "site": "https://infisical.com",
+  "careers_url": "https://jobs.ashbyhq.com/infisical",
+  "what_they_do": "Open-source secrets, certificate, privileged access and AI-agent credential management for engineering teams",
+  "problem": "API keys, passwords and certificates sprawl across code and infrastructure, and AI agents now need access without leaking them",
+  "industry": "Security / secrets & machine identity management",
+  "stage": "Series B",
+  "last_round": "$40M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Elad Gil",
+  "total_open_roles": "12",
+  "ops_roles": "Chief of Staff; Solutions Engineer",
+  "hiring_trend": "Headcount ~45-49 (LinkedIn/TipRanks, Oct 2026), observed profiles +79% Aug 2025 → Jul 2026 (Unify); plans 100+ hires after Series B",
+  "headcount": "~45-50",
+  "latest_news": "Raised $40M Series B at $600M valuation led by Elad Gil",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/infisical-raises-40-million-at-600-million-valuation-to-secure-the-ai-agent-economy-302920994.html",
+  "traction": "1,300+ customers, 300K developers, 30K GitHub stars; cash-flow positive (company-stated); revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Infisical-EI_IE9917816.11,20.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 27, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Leading open-source challenger to HashiCorp Vault with broad adoption (1,300+ customers incl. Airbus, Volkswagen, Wise) and second lines in PKI and PAM; still trails Vault, CyberArk and cloud-native secrets managers in a crowded market.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Infisical raises $40M Series B at $600M (Oct 2026)",
+    "url": "https://www.prnewswire.com/news-releases/infisical-raises-40-million-at-600-million-valuation-to-secure-the-ai-agent-economy-302920994.html"
+   },
+   {
+    "label": "Infisical: Introducing Infisical PAM (Jul 2026)",
+    "url": "https://infisical.com/blog/introducing-infisical-pam"
+   },
+   {
+    "label": "Infisical: Infisical vs HashiCorp Vault",
+    "url": "https://infisical.com/compare/infisical-vs-hashicorp-vault"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "United States & Canada",
+   "Austin",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Hyphenate",
+  "slug": "hyphenate",
+  "site": "https://hyphenate.ai",
+  "careers_url": "https://jobs.ashbyhq.com/hyphenate",
+  "what_they_do": "AI agents that run order-to-cash, treasury, close, AP and reporting on top of the ERP",
+  "problem": "Finance teams still close the books by hand in spreadsheets across disconnected ERP, bank and billing systems",
+  "industry": "Finance automation / AI for the CFO office",
+  "stage": "Series A",
+  "last_round": "$45M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Nexus Venture Partners",
+  "total_open_roles": "15",
+  "ops_roles": "Accounting Solutions Consultant (Founding Team); Startup Generalist (New Grad)",
+  "hiring_trend": "Headcount 18 (Sep 2025) → ~40 on LinkedIn/PitchBook (est. +120% YoY); 15 open roles, mostly NYC",
+  "headcount": "~40",
+  "latest_news": "Raised $45M Series A led by Nexus Venture Partners; $54M total; rebranded from Maximor Oct 1",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://hyphenate.ai/press/hyphenate-series-a-fundraise",
+  "traction": "86x revenue and 11x customers in 12 months, multi-million ARR, six public-company customers (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 27, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky once agents run a customer's close and subledgers (average customer runs six modules, 40% expand in year one), but revenue is still multi-million in a crowded AI-accounting field behind Rillet, Basis, Campfire and Ramp.",
+  "distance_sources": [
+   {
+    "label": "Hyphenate: $45M Series A, 86x revenue growth, six modules per customer (Oct 2026)",
+    "url": "https://hyphenate.ai/press/hyphenate-series-a-fundraise"
+   },
+   {
+    "label": "Quartz/Bloomberg: Hyphenate raises $45M, competes with Ramp (Oct 2026)",
+    "url": "https://qz.com/hyphenate-series-a-ai-finance-agents-funding-102726"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote (US)",
+   "Remote (India)"
+  ]
  }
 ]
