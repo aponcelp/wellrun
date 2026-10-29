@@ -38574,5 +38574,71 @@
    "New York",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Collective",
+  "slug": "collective",
+  "site": "https://www.collective.com",
+  "careers_url": "https://jobs.ashbyhq.com/collective",
+  "what_they_do": "AI-run back office for solo businesses: formation, bookkeeping, payroll, S Corp taxes, insurance",
+  "problem": "Solo business owners have no finance team, juggle bookkeeping, payroll and tax tools, and overpay self-employment tax",
+  "industry": "Fintech / SMB accounting & tax",
+  "stage": "Series B",
+  "last_round": "$40M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "General Catalyst, QED Investors, Gradient Ventures",
+  "total_open_roles": "20",
+  "ops_roles": "Director, Member Experience; Member Resolutions Lead; Member Success Manager; Tax Compliance Manager",
+  "hiring_trend": "Rebuilding after ~23% RIF Jun 2025: LinkedIn ~303 (May 2026) → ~345 (Oct 2026), +11% in 12 mo; 17 of 20 open roles posted since Sep",
+  "headcount": "~330-345",
+  "latest_news": "Raised $100M: $40M Series B plus $60M General Catalyst Customer Value Fund growth facility",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.collective.com/blog/collective-raises-100m",
+  "traction": "ARR growing 120% YoY (company claim, ARR undisclosed); 12k+ members; ~$350M member tax savings",
+  "red_flags": "Jun 2025 company-wide restructuring: ~23% reduction in force across engineering, growth and community teams (per laid-off employees' public posts).",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn: Matt Davis, company-wide layoff at Collective, ~23% RIF (Jun 2025)",
+    "url": "https://www.linkedin.com/posts/matt-davis-478b661b_opensensorio-engineering-security-research-activity-7339028771955527682-zqqB"
+   },
+   {
+    "label": "LinkedIn: Eric Poole, last day due to company-wide restructuring (Jun 2025)",
+    "url": "https://www.linkedin.com/posts/eric-b-poole_opentowork-performancemarketing-seo-activity-7339287692339212289-RoUf"
+   },
+   {
+    "label": "LinkedIn: Marissa Hazen, part of a mass layoff at Collective (Jun 2025)",
+    "url": "https://www.linkedin.com/posts/mhazen95_you-always-think-it-will-never-happen-to-activity-7339402422814953474-df6y"
+   }
+  ],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "32",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Collective-Reviews-E7731893.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 29, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky once a member's entity, books, payroll and tax filings run through it, and it claims the largest all-in-one solo platform, but ~12k members is small next to Intuit (TurboTax/QuickBooks), LegalZoom and ZenBusiness, rivals like Lettuce are funded, and a 2025 RIF shows burn exposure.",
+  "distance_sources": [
+   {
+    "label": "Collective: $100M raise, ARR +120% YoY, 'largest platform' claim (Oct 2026)",
+    "url": "https://www.collective.com/blog/collective-raises-100m"
+   },
+   {
+    "label": "Tech Funding News: funding history and competitive landscape (Lettuce, Bench, Intuit) (Oct 2026)",
+    "url": "https://techfundingnews.com/collective-100m-series-b-general-catalyst-cvf-solo-entrepreneurs/"
+   },
+   {
+    "label": "Collective homepage: trusted by 12k+ solopreneurs",
+    "url": "https://www.collective.com/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote (US)"
+  ]
  }
 ]
