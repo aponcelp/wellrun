@@ -38640,5 +38640,84 @@
    "San Francisco",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "CloudZero",
+  "slug": "cloudzero",
+  "site": "https://www.cloudzero.com",
+  "careers_url": "https://jobs.ashbyhq.com/cloudzero",
+  "what_they_do": "Allocates cloud and AI spend to customers, products and teams to prove ROI",
+  "problem": "Finance and engineering can't tell which customers, features or teams drive cloud and AI bills, or what that spend returned",
+  "industry": "FinOps / cloud and AI cost management",
+  "stage": "Series C",
+  "last_round": "$56M",
+  "last_round_date": "May 2025",
+  "lead_investors": "BlueCrest Capital Management, Innovius Capital",
+  "total_open_roles": "13",
+  "ops_roles": "AI ROI Advisory Services Director; Senior Technical Account Manager",
+  "hiring_trend": "Flat to shrinking, ~160 staff: Revelio −4.3% YoY (168, Mar 2026), LinkedIn data −12% YoY (162); layoffs Nov 2025–Feb 2026; 13 open roles",
+  "headcount": "~160-166",
+  "latest_news": "Launched AI Signals, tying AI spend to people, teams and the work it paid for",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.cloudzero.com/press-releases/20260923/",
+  "traction": "Sacra est. ~$42M ARR Mar 2026 (unconfirmed); company-stated 100%+ growth four years through 2024",
+  "red_flags": "Restructuring and layoffs Nov 2025–Feb 2026 ('significant global cutbacks', per departing staff; Glassdoor reviews from Jan and Apr 2026 cite abrupt, quiet layoffs), headcount down 4–12% YoY. CEO Phil Pergola stepped down Feb 2026 in a 'mutual decision with the board'; board member and Innovius partner Justin Moore took over and was named permanent CEO May 2026, with a rebrand to 'The AI ROI Company'. Counted as one flag.",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn: ex-AE says CloudZero 'makes significant global cutbacks and refocuses the platform' (Nov 2025)",
+    "url": "https://www.linkedin.com/posts/tobiaslilley_my-time-at-cloudzero-has-come-to-an-end-as-activity-7396478502872494080-0SMl"
+   },
+   {
+    "label": "LinkedIn: engineer laid off at CloudZero (Jan 2026)",
+    "url": "https://www.linkedin.com/posts/nina-roche-23a09794_my-time-at-cloudzero-has-come-to-an-end-due-activity-7416464448707661845-K6fa"
+   },
+   {
+    "label": "LinkedIn: AI product lead exits 'as part of a broader organizational restructuring' (Feb 2026)",
+    "url": "https://www.linkedin.com/posts/jeremydaly_a-quick-personal-update-i-wrapped-up-my-activity-7427099906034642944-MGSB"
+   },
+   {
+    "label": "Glassdoor: reviews citing abrupt and quiet layoffs (Jan, Apr 2026)",
+    "url": "https://www.glassdoor.com/Reviews/CloudZero-Reviews-E4229474.htm"
+   },
+   {
+    "label": "Revelio Labs: 168 employees, −4.3% YoY (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/cloudzero/employees"
+   },
+   {
+    "label": "Phil Pergola on LinkedIn: stepped down as CEO, mutual decision with the board (Apr 2026)",
+    "url": "https://www.linkedin.com/posts/phil-pergola-740933_ceolife-startups-finops-activity-7449452595171135489-21FE"
+   },
+   {
+    "label": "CloudZero blog: Justin Moore, CEO of CloudZero and Founding Partner of Innovius (May 2026)",
+    "url": "https://www.cloudzero.com/blog/author/justin-moore"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.6",
+  "glassdoor_reviews": "20",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/CloudZero-Reviews-E4229474.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 29, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky once customers model their business in it (custom allocation logic, FinOps account managers, enterprise logos like Coinbase, Expedia, Moody's), but it is one of several independents in a crowded field behind IBM Cloudability, Broadcom CloudHealth and Flexera, faces native hyperscaler tools, and is coming off layoffs, a shrinking team and a CEO change.",
+  "distance_sources": [
+   {
+    "label": "Sacra: CloudZero competition and risks (IBM Apptio, CloudHealth, Flexera, Finout, Vantage, hyperscalers)",
+    "url": "https://sacra.com/c/cloudzero/"
+   },
+   {
+    "label": "CloudZero: $56M Series C, customers incl. Coinbase, DraftKings, Expedia, Moody's (May 2025)",
+    "url": "https://www.cloudzero.com/press-releases/20250528"
+   }
+  ],
+  "hiring_locations": [
+   "Boston",
+   "San Francisco",
+   "Remote"
+  ]
  }
 ]

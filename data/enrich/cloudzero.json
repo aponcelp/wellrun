@@ -1,0 +1,159 @@
+{
+  "slug": "cloudzero",
+  "checked": "Oct 29, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "Boston, MA (also San Francisco)",
+  "headcount_est": {
+    "value": "~160-168 (Revelio 168 in Mar 2026, −4.3% YoY; Tracxn 161 Aug 2026)",
+    "as_of": "Aug 2026",
+    "source": "https://www.reveliolabs.com/companies/cloudzero/employees"
+  },
+  "leadership": [
+    {
+      "name": "Justin Moore",
+      "title": "CEO (permanent since May 2026; Founding Partner, Innovius Capital)",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/justinrinfretmoore/",
+      "source": "https://www.cloudzero.com/blog/author/justin-moore"
+    },
+    {
+      "name": "Erik Peterson",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cloudzero.com/blog/what-jensen-huang-was-actually-saying/"
+    },
+    {
+      "name": "Matt Manger",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cloudzero.com/blog/cloudzero-raises-5-million-series-a-for-site-reliability-management-platform/"
+    },
+    {
+      "name": "Scott Castle",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.cloudzero.com/press-releases/20260115"
+    },
+    {
+      "name": "Eric Weiss",
+      "title": "SVP Engineering",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.cloudzero.com/press-releases/20260115"
+    },
+    {
+      "name": "Matt Katz",
+      "title": "SVP Global Customer Success",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/amatthewkatz_ai-spend-is-exploding-most-companies-cannot-activity-7465783043920949248-jJlK"
+    },
+    {
+      "name": "Dan Carducci",
+      "title": "VP Finance",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.cloudzero.com/press-releases/20260923/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2016-09",
+      "amount": "$500K",
+      "valuation": null,
+      "lead": "Matrix Partners, Underscore VC",
+      "source": "https://app.dealroom.co/companies/cloudzero"
+    },
+    {
+      "round": "Series A",
+      "date": "2017-10",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "Matrix Partners, Underscore VC",
+      "source": "https://www.prweb.com/releases/cloudzero_raises_5_million_series_a_round_led_by_matrix_partners_and_underscore_vc/prweb14785066.htm"
+    },
+    {
+      "round": "Series A1",
+      "date": "2019-12",
+      "amount": "$2.1M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://pitchbook.com/profiles/company/171858-25"
+    },
+    {
+      "round": "Early VC (unnamed)",
+      "date": "2020-12",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/cloudzero"
+    },
+    {
+      "round": "Series B",
+      "date": "2023-06",
+      "amount": "$32M",
+      "valuation": null,
+      "lead": "Innovius Capital, Threshold Ventures",
+      "source": "https://www.cloudzero.com/press-releases/20230612"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-05",
+      "amount": "$56M",
+      "valuation": null,
+      "lead": "BlueCrest Capital Management, Innovius Capital",
+      "source": "https://www.cloudzero.com/press-releases/20250528"
+    }
+  ],
+  "total_raised": "$119M+ (company-stated)",
+  "revenue_est": {
+    "value": "~$42M ARR (up from ~$31.5M at end of 2025)",
+    "as_of": "Mar 2026",
+    "basis": "estimate (Sacra; not company-confirmed)",
+    "source": "https://sacra.com/c/cloudzero/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launches AI Signals: AI spend broken down by person, team and work done",
+      "url": "https://www.cloudzero.com/press-releases/20260923/"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Rebrands as 'The AI ROI Company'; Justin Moore named permanent CEO",
+      "url": "https://www.cloudzero.com/blog/ai-roi-is-here-cloudzero"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Launches Claude Code plugin for cost intelligence in engineering workflows",
+      "url": "https://www.cloudzero.com/press-releases/20260303/"
+    },
+    {
+      "date": "2026-02",
+      "headline": "CEO Phil Pergola steps down in mutual decision with the board",
+      "url": "https://www.linkedin.com/posts/phil-pergola-740933_ceolife-startups-finops-activity-7449452595171135489-21FE"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Layoffs as company makes 'significant global cutbacks' (through Feb 2026)",
+      "url": "https://www.linkedin.com/posts/tobiaslilley_my-time-at-cloudzero-has-come-to-an-end-as-activity-7396478502872494080-0SMl"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Raises $56M Series C led by BlueCrest and Innovius; MongoDB invests",
+      "url": "https://www.cloudzero.com/press-releases/20250528"
+    }
+  ],
+  "competitors": [
+    "IBM Apptio Cloudability",
+    "Finout",
+    "Vantage",
+    "CloudHealth (Broadcom)",
+    "cast-ai"
+  ]
+}
