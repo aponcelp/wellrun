@@ -1,0 +1,95 @@
+{
+  "slug": "reflex",
+  "checked": "Oct 29, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~39-60",
+    "as_of": "Oct 2026",
+    "source": "https://pitchbook.com/profiles/company/520530-40"
+  },
+  "leadership": [
+    {
+      "name": "Nikhil Rao",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/nrao95",
+      "source": "https://siliconangle.com/2026/10/29/reflex-raises-15m-to-help-enterprises-replace-generic-third-party-software-with-custom-business-apps/"
+    },
+    {
+      "name": "Alek Petuskey",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/aleksanderpetuskey",
+      "source": "https://siliconangle.com/2026/10/29/reflex-raises-15m-to-help-enterprises-replace-generic-third-party-software-with-custom-business-apps/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Accelerator (YC W23)",
+      "date": "2023-03",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/pynecone"
+    },
+    {
+      "round": "Seed",
+      "date": "2023-08",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "Lux Capital",
+      "source": "https://reflex.dev/blog/seed-annoucement"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$14M",
+      "valuation": null,
+      "lead": "Standard Capital",
+      "source": "https://siliconangle.com/2026/10/29/reflex-raises-15m-to-help-enterprises-replace-generic-third-party-software-with-custom-business-apps/"
+    }
+  ],
+  "total_raised": "$19M",
+  "revenue_est": {
+    "value": "7-figure ARR (from ~$0 in Jul 2025)",
+    "as_of": "Jul 2026",
+    "basis": "company-stated (sales lead's public LinkedIn post)",
+    "source": "https://www.linkedin.com/posts/jh-tevis-mba-295b32214_couple-of-updates-from-the-reflex-sales-side-activity-7483963394098864129-e0Kx"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raised $14M Series A led by Standard Capital; Databricks Ventures joins",
+      "url": "https://siliconangle.com/2026/10/29/reflex-raises-15m-to-help-enterprises-replace-generic-third-party-software-with-custom-business-apps/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Brought open-source XY charting library into Reflex Build",
+      "url": "https://reflex.dev/blog/xy-in-reflex-build/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Launched Reflex Security Scanner for CI app reviews",
+      "url": "https://www.linkedin.com/posts/nrao95_even-though-building-an-internal-app-now-activity-7490883833110806528-iHQw"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Launched BYOC: deploy enterprise apps to customer AWS, GCP or Azure",
+      "url": "https://reflex.dev/blog/byoc/"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Launched Reflex Build, an AI app builder for Python web apps",
+      "url": "https://www.ycombinator.com/launches/OfZ-reflex-ai-app-builder-for-creating-production-grade-web-apps-entirely-in-python"
+    }
+  ],
+  "competitors": [
+    "retool",
+    "lovable",
+    "replit",
+    "superblocks",
+    "databricks"
+  ]
+}
