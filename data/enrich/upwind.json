@@ -1,0 +1,131 @@
+{
+  "slug": "upwind",
+  "checked": "Oct 29, 2026",
+  "founded": 2022,
+  "hq": "San Francisco, CA (R&D in Tel Aviv)",
+  "headcount_est": {
+    "value": "~550-600",
+    "as_of": "Oct 2026",
+    "source": "https://futurumgroup.com/insights/upwinds-400m-series-c-is-a-bet-on-independent-cloud-security/"
+  },
+  "leadership": [
+    {
+      "name": "Amiram Shachar",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/amirams/",
+      "source": "https://www.upwind.io/about"
+    },
+    {
+      "name": "Tal Zur",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/tal-zur-24a134373/",
+      "source": "https://www.upwind.io/about"
+    },
+    {
+      "name": "Lavi Ferdman",
+      "title": "Co-founder, Growth",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/lavi-ferdman/",
+      "source": "https://www.upwind.io/about"
+    },
+    {
+      "name": "Tomer Hadassi",
+      "title": "COO",
+      "founder": false,
+      "linkedin": "https://il.linkedin.com/in/tomerhadassi",
+      "source": "https://www.upwind.io/about"
+    },
+    {
+      "name": "Rinki Sethi",
+      "title": "Chief Security & Strategy Officer",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/rinkisethi",
+      "source": "https://www.upwind.io/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-09",
+      "amount": "~$30M",
+      "valuation": null,
+      "lead": "Greylock, Cyberstarts, Leaders Fund",
+      "source": "https://seedtable.com/companies/upwind-security/funding-rounds"
+    },
+    {
+      "round": "Series A (initial)",
+      "date": "2023-09",
+      "amount": "$50M",
+      "valuation": "~$300M",
+      "lead": "Greylock",
+      "source": "https://seedtable.com/companies/upwind-security/funding-rounds"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-12",
+      "amount": "$100M",
+      "valuation": "$900M",
+      "lead": "Craft Ventures",
+      "source": "http://techcrunch.com/2024/12/02/confirmed-cloud-security-specialist-upwind-raises-100m-on-a-900m-valuation"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-01",
+      "amount": "$250M",
+      "valuation": "$1.5B",
+      "lead": "Bessemer Venture Partners",
+      "source": "https://techcrunch.com/2026/01/29/upwind-raises-250m-at-1-5b-valuation-to-continue-building-runtime-cloud-security/"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-10",
+      "amount": "$400M",
+      "valuation": "$3.8B",
+      "lead": "Bessemer Venture Partners",
+      "source": "https://www.globenewswire.com/news-release/2026/10/28/3390753/0/en/upwind-closes-400-million-series-c-at-3-8-billion-valuation-as-revenue-quadruples-in-2026.html"
+    }
+  ],
+  "total_raised": "~$830M",
+  "revenue_est": {
+    "value": "~$90M ARR projected for year-end 2026 (CEO told Bloomberg nearly $100M); revenue 4x in 2026",
+    "as_of": "Oct 2026",
+    "basis": "press report",
+    "source": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $400M Series C at $3.8B led by Bessemer after declining Datadog offer",
+      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launches AI Security Lab and Aegis",
+      "url": "https://www.upwind.io/feed/category/company-news"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Expands across Asia-Pacific and Japan; says customer base grew 200% YoY",
+      "url": "https://www.linkedin.com/posts/upwindsecurity_big-news-were-expanding-across-asia-pacific-activity-7434205875520634880-zOwG"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raises $250M Series B at $1.5B led by Bessemer",
+      "url": "https://techcrunch.com/2026/01/29/upwind-raises-250m-at-1-5b-valuation-to-continue-building-runtime-cloud-security/"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Co-founder and chief architect Liran Polak leaves the company",
+      "url": "https://www.themarker.com/technation/2025-11-12/ty-article/.highlight/0000019a-777c-d326-a3ff-f77db75e0000"
+    }
+  ],
+  "competitors": [
+    "Wiz",
+    "CrowdStrike",
+    "Palo Alto Networks (Prisma Cloud)",
+    "Orca Security",
+    "Sysdig"
+  ]
+}

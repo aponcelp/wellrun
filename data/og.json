@@ -485,6 +485,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "bites": {
+  "url": "https://mybites.io/wp-content/uploads/2025/08/img.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-30"
+ },
  "blacksmith": {
   "url": "https://www.blacksmith.sh/webflow/assets/684b4a332c1905034fdee368_ebf0b394c307e7e092874768e7f43edc_image-sblacksmith-socialgraph.png",
   "kind": "og",
@@ -701,6 +707,12 @@
   "type": "image/png",
   "checked": "2026-10-26"
  },
+ "cloudzero": {
+  "url": "https://www.cloudzero.com/wp-content/uploads/2026/05/CloudZero-The-AI-ROI-Company-4800x2508-1.webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-10-29"
+ },
  "clueso": {
   "url": "https://www.clueso.io/og/default-v3.jpg",
   "kind": "og",
@@ -748,6 +760,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-27"
+ },
+ "collective": {
+  "url": "https://www.collective.com/_next/static/media/opengraph-image.e4fa6f83.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-29"
  },
  "column": {
   "url": "https://column.com/images/social/column-og.png",
@@ -2873,6 +2891,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "reflex": {
+  "url": "https://web.reflex-assets.dev/previews/reflex_og_scene_original.webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-10-30"
+ },
  "rein": {
   "url": "https://reinsec.io/wp-content/uploads/2026/05/Untitled-design-3.jpg",
   "kind": "og",
@@ -3599,6 +3623,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "upwind": {
+  "url": "https://www.upwind.io/wp-content/uploads/2026/10/Upwind-preview-image-1024x576.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-10-30"
+ },
  "valon": {
   "url": "https://valon.ai/og-image.png",
   "kind": "og",
@@ -3724,6 +3754,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "wabi": {
+  "url": "https://wabi.ai/_renderer/launch/v-october-20261008/img/social/hero-october-20261016.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-10-30"
  },
  "wafer": {
   "url": "https://www.wafer.ai/assets/v2/og-image.jpg",

@@ -1,0 +1,92 @@
+{
+  "slug": "bites",
+  "checked": "Oct 29, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "New York, NY / Tel Aviv, Israel",
+  "headcount_est": {
+    "value": "~30",
+    "as_of": "Oct 2026",
+    "source": "https://www.ynetnews.com/business/article/rjvmee11afe"
+  },
+  "leadership": [
+    {
+      "name": "Eran Heffetz",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/eran-heffetz/",
+      "source": "https://www.globenewswire.com/news-release/2026/10/29/3391083/0/en/bites-raises-40m-series-a-to-turn-frontline-training-into-a-business-performance-engine.html"
+    },
+    {
+      "name": "Tal Nagler Almog",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.calcalistech.com/ctechnews/article/s1t5soetmx"
+    },
+    {
+      "name": "Hagai Horovitz",
+      "title": "Co-founder & Chief Innovation Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.calcalistech.com/ctechnews/article/s1t5soetmx"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-10",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "Vertex Ventures Israel",
+      "source": "https://www.gaebler.com/VC-Funding-7B72E616-60C8-4B2B-B42F-90E97B7D1FA0-Bites-10-22-2021"
+    },
+    {
+      "round": "Seed extension",
+      "date": "2024-02",
+      "amount": "$4M",
+      "valuation": "$25M",
+      "lead": null,
+      "source": "https://app.dealroom.co/companies/mybites"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "PeakSpan Capital",
+      "source": "https://www.globenewswire.com/news-release/2026/10/29/3391083/0/en/bites-raises-40m-series-a-to-turn-frontline-training-into-a-business-performance-engine.html"
+    }
+  ],
+  "total_raised": "$55M",
+  "revenue_est": {
+    "value": "~$4M ARR",
+    "as_of": "Sep 2025",
+    "basis": "estimate",
+    "source": "https://getlatka.com/companies/mybites.io"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raised $40M Series A led by PeakSpan; total funding $55M; reports 161% NRR",
+      "url": "https://www.globenewswire.com/news-release/2026/10/29/3391083/0/en/bites-raises-40m-series-a-to-turn-frontline-training-into-a-business-performance-engine.html"
+    },
+    {
+      "date": "2026-10",
+      "headline": "CEO Eran Heffetz relocating to New York to build the US commercial team",
+      "url": "https://www.globenewswire.com/news-release/2026/10/29/3391083/0/en/bites-raises-40m-series-a-to-turn-frontline-training-into-a-business-performance-engine.html"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Launched AI Studio: turns PDFs and SOPs into branded training videos",
+      "url": "https://mybites.io/blog/bites-launches-ai-studio/"
+    }
+  ],
+  "competitors": [
+    "Axonify",
+    "EduMe",
+    "Arist",
+    "7taps",
+    "Yoobic"
+  ]
+}

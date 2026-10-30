@@ -1,0 +1,85 @@
+{
+  "slug": "collective",
+  "checked": "Oct 29, 2026",
+  "depth": "light",
+  "founded": null,
+  "hq": "San Francisco, CA (remote-first; member ops remote US)",
+  "headcount_est": {
+    "value": "~345 (LinkedIn), recovering after a ~23% layoff in Jun 2025",
+    "as_of": "Oct 2026",
+    "source": "https://www.linkedin.com/company/collective"
+  },
+  "leadership": [
+    {
+      "name": "Hooman Radfar",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/hooman",
+      "source": "https://www.collective.com/blog/collective-raises-100m"
+    },
+    {
+      "name": "Uğur Kaner",
+      "title": "CPO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.collective.com/blog/collective-raises-100m"
+    },
+    {
+      "name": "Buğra Akçay",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.collective.com/blog/collective-raises-100m"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-09",
+      "amount": "$8.65M",
+      "valuation": null,
+      "lead": "General Catalyst, QED Investors",
+      "source": "https://www.collective.com/blog/collective-raises-100m"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-05",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://www.collective.com/blog/collective-raises-100m"
+    },
+    {
+      "round": "Venture",
+      "date": "2023-07",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Gradient Ventures",
+      "source": "https://www.collective.com/blog/collective-raises-100m"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-10",
+      "amount": "$40M (+ $60M growth facility)",
+      "valuation": null,
+      "lead": "General Catalyst, QED Investors, Gradient",
+      "source": "https://techfundingnews.com/collective-100m-series-b-general-catalyst-cvf-solo-entrepreneurs/"
+    }
+  ],
+  "total_raised": {
+    "value": "~$119M announced equity, plus $60M growth facility",
+    "source": "https://www.collective.com/blog/collective-raises-100m"
+  },
+  "revenue_est": {
+    "value": "ARR growing 120% YoY (company claim; ARR not disclosed)",
+    "source": "https://www.collective.com/blog/collective-raises-100m"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raised $100M: $40M Series B plus $60M growth facility from General Catalyst's Customer Value Fund",
+      "source": "https://www.collective.com/blog/collective-raises-100m"
+    }
+  ],
+  "competitors": []
+}

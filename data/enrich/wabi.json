@@ -1,0 +1,77 @@
+{
+  "slug": "wabi",
+  "checked": "Oct 29, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~22",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/joinwabi"
+  },
+  "leadership": [
+    {
+      "name": "Eugenia Kuyda",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/eugenia-kuyda-638a8a1b",
+      "source": "https://www.prnewswire.com/news-releases/wabi-raises-55-million-at-a-1-25-billion-valuation-following-strong-early-demand-302923254.html"
+    },
+    {
+      "name": "Artem Marinov",
+      "title": "Founding CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/joinwabi"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-Seed",
+      "date": "2025-11",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "http://a16z.com/announcement/investing-in-wabi"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$55M",
+      "valuation": "$1.25B",
+      "lead": "IVP",
+      "source": "https://www.prnewswire.com/news-releases/wabi-raises-55-million-at-a-1-25-billion-valuation-following-strong-early-demand-302923254.html"
+    }
+  ],
+  "total_raised": "$75M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Raises $55M Series A led by IVP at $1.25B valuation",
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Wabi 2.0 multiplayer AI assistant opens to all users on iOS, Android, Mac",
+      "url": "https://www.winzheng.com/en/article/replika-founder-wabi-ai-assistant"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Pivots from prompt-based app builder to AI messenger (Wabi 2.0), invite-only",
+      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Replika founder raises $20M pre-seed for Wabi, the 'YouTube of apps'",
+      "url": "https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/"
+    }
+  ],
+  "competitors": [
+    "instinct",
+    "tolan",
+    "openai",
+    "Meta Muse"
+  ],
+  "note": "Series A label from Kuyda's X post (texxr.com/1298080); press release says only '$55 million funding'. Total raised = sum of the two announced rounds. Glassdoor 'wabi' (E4393190, Buenos Aires, wabicasa.com) is a different company."
+}

@@ -38574,5 +38574,346 @@
    "New York",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Collective",
+  "slug": "collective",
+  "site": "https://www.collective.com",
+  "careers_url": "https://jobs.ashbyhq.com/collective",
+  "what_they_do": "AI-run back office for solo businesses: formation, bookkeeping, payroll, S Corp taxes, insurance",
+  "problem": "Solo business owners have no finance team, juggle bookkeeping, payroll and tax tools, and overpay self-employment tax",
+  "industry": "Fintech / SMB accounting & tax",
+  "stage": "Series B",
+  "last_round": "$40M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "General Catalyst, QED Investors, Gradient Ventures",
+  "total_open_roles": "20",
+  "ops_roles": "Director, Member Experience; Member Resolutions Lead; Member Success Manager; Tax Compliance Manager",
+  "hiring_trend": "Rebuilding after ~23% RIF Jun 2025: LinkedIn ~303 (May 2026) → ~345 (Oct 2026), +11% in 12 mo; 17 of 20 open roles posted since Sep",
+  "headcount": "~330-345",
+  "latest_news": "Raised $100M: $40M Series B plus $60M General Catalyst Customer Value Fund growth facility",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.collective.com/blog/collective-raises-100m",
+  "traction": "ARR growing 120% YoY (company claim, ARR undisclosed); 12k+ members; ~$350M member tax savings",
+  "red_flags": "Jun 2025 company-wide restructuring: ~23% reduction in force across engineering, growth and community teams (per laid-off employees' public posts).",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn: Matt Davis, company-wide layoff at Collective, ~23% RIF (Jun 2025)",
+    "url": "https://www.linkedin.com/posts/matt-davis-478b661b_opensensorio-engineering-security-research-activity-7339028771955527682-zqqB"
+   },
+   {
+    "label": "LinkedIn: Eric Poole, last day due to company-wide restructuring (Jun 2025)",
+    "url": "https://www.linkedin.com/posts/eric-b-poole_opentowork-performancemarketing-seo-activity-7339287692339212289-RoUf"
+   },
+   {
+    "label": "LinkedIn: Marissa Hazen, part of a mass layoff at Collective (Jun 2025)",
+    "url": "https://www.linkedin.com/posts/mhazen95_you-always-think-it-will-never-happen-to-activity-7339402422814953474-df6y"
+   }
+  ],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "32",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Collective-Reviews-E7731893.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 29, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky once a member's entity, books, payroll and tax filings run through it, and it claims the largest all-in-one solo platform, but ~12k members is small next to Intuit (TurboTax/QuickBooks), LegalZoom and ZenBusiness, rivals like Lettuce are funded, and a 2025 RIF shows burn exposure.",
+  "distance_sources": [
+   {
+    "label": "Collective: $100M raise, ARR +120% YoY, 'largest platform' claim (Oct 2026)",
+    "url": "https://www.collective.com/blog/collective-raises-100m"
+   },
+   {
+    "label": "Tech Funding News: funding history and competitive landscape (Lettuce, Bench, Intuit) (Oct 2026)",
+    "url": "https://techfundingnews.com/collective-100m-series-b-general-catalyst-cvf-solo-entrepreneurs/"
+   },
+   {
+    "label": "Collective homepage: trusted by 12k+ solopreneurs",
+    "url": "https://www.collective.com/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "CloudZero",
+  "slug": "cloudzero",
+  "site": "https://www.cloudzero.com",
+  "careers_url": "https://jobs.ashbyhq.com/cloudzero",
+  "what_they_do": "Allocates cloud and AI spend to customers, products and teams to prove ROI",
+  "problem": "Finance and engineering can't tell which customers, features or teams drive cloud and AI bills, or what that spend returned",
+  "industry": "FinOps / cloud and AI cost management",
+  "stage": "Series C",
+  "last_round": "$56M",
+  "last_round_date": "May 2025",
+  "lead_investors": "BlueCrest Capital Management, Innovius Capital",
+  "total_open_roles": "13",
+  "ops_roles": "AI ROI Advisory Services Director; Senior Technical Account Manager",
+  "hiring_trend": "Flat to shrinking, ~160 staff: Revelio −4.3% YoY (168, Mar 2026), LinkedIn data −12% YoY (162); layoffs Nov 2025–Feb 2026; 13 open roles",
+  "headcount": "~160-166",
+  "latest_news": "Launched AI Signals, tying AI spend to people, teams and the work it paid for",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.cloudzero.com/press-releases/20260923/",
+  "traction": "Sacra est. ~$42M ARR Mar 2026 (unconfirmed); company-stated 100%+ growth four years through 2024",
+  "red_flags": "Restructuring and layoffs Nov 2025–Feb 2026 ('significant global cutbacks', per departing staff; Glassdoor reviews from Jan and Apr 2026 cite abrupt, quiet layoffs), headcount down 4–12% YoY. CEO Phil Pergola stepped down Feb 2026 in a 'mutual decision with the board'; board member and Innovius partner Justin Moore took over and was named permanent CEO May 2026, with a rebrand to 'The AI ROI Company'. Counted as one flag.",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn: ex-AE says CloudZero 'makes significant global cutbacks and refocuses the platform' (Nov 2025)",
+    "url": "https://www.linkedin.com/posts/tobiaslilley_my-time-at-cloudzero-has-come-to-an-end-as-activity-7396478502872494080-0SMl"
+   },
+   {
+    "label": "LinkedIn: engineer laid off at CloudZero (Jan 2026)",
+    "url": "https://www.linkedin.com/posts/nina-roche-23a09794_my-time-at-cloudzero-has-come-to-an-end-due-activity-7416464448707661845-K6fa"
+   },
+   {
+    "label": "LinkedIn: AI product lead exits 'as part of a broader organizational restructuring' (Feb 2026)",
+    "url": "https://www.linkedin.com/posts/jeremydaly_a-quick-personal-update-i-wrapped-up-my-activity-7427099906034642944-MGSB"
+   },
+   {
+    "label": "Glassdoor: reviews citing abrupt and quiet layoffs (Jan, Apr 2026)",
+    "url": "https://www.glassdoor.com/Reviews/CloudZero-Reviews-E4229474.htm"
+   },
+   {
+    "label": "Revelio Labs: 168 employees, −4.3% YoY (Mar 2026)",
+    "url": "https://www.reveliolabs.com/companies/cloudzero/employees"
+   },
+   {
+    "label": "Phil Pergola on LinkedIn: stepped down as CEO, mutual decision with the board (Apr 2026)",
+    "url": "https://www.linkedin.com/posts/phil-pergola-740933_ceolife-startups-finops-activity-7449452595171135489-21FE"
+   },
+   {
+    "label": "CloudZero blog: Justin Moore, CEO of CloudZero and Founding Partner of Innovius (May 2026)",
+    "url": "https://www.cloudzero.com/blog/author/justin-moore"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.6",
+  "glassdoor_reviews": "20",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/CloudZero-Reviews-E4229474.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 29, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky once customers model their business in it (custom allocation logic, FinOps account managers, enterprise logos like Coinbase, Expedia, Moody's), but it is one of several independents in a crowded field behind IBM Cloudability, Broadcom CloudHealth and Flexera, faces native hyperscaler tools, and is coming off layoffs, a shrinking team and a CEO change.",
+  "distance_sources": [
+   {
+    "label": "Sacra: CloudZero competition and risks (IBM Apptio, CloudHealth, Flexera, Finout, Vantage, hyperscalers)",
+    "url": "https://sacra.com/c/cloudzero/"
+   },
+   {
+    "label": "CloudZero: $56M Series C, customers incl. Coinbase, DraftKings, Expedia, Moody's (May 2025)",
+    "url": "https://www.cloudzero.com/press-releases/20250528"
+   }
+  ],
+  "hiring_locations": [
+   "Boston",
+   "San Francisco",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Wabi",
+  "slug": "wabi",
+  "site": "https://wabi.ai",
+  "careers_url": "https://jobs.ashbyhq.com/wabi",
+  "what_they_do": "Personal AI agent in shared chat threads that builds mini apps on demand",
+  "problem": "Planning and running everyday life with family and friends is scattered across apps, group chats, calendars and tabs",
+  "industry": "Consumer AI / personal agents",
+  "stage": "Series A",
+  "last_round": "$55M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "IVP",
+  "total_open_roles": "0",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~6 → ~22 in 12 mo (LinkedIn, +267%); 0 open roles on Ashby, general listings pulled Sep 2026",
+  "headcount": "~22",
+  "latest_news": "Raised $55M Series A led by IVP at $1.25B valuation, days after public launch",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+  "traction": "Public launch Oct 19, 2026; free, no business model; users and revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 29, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Pivoted from app builder to multiplayer AI messenger in Sep 2026 and opened to all users Oct 19, with no user, retention or revenue data; shared-thread network effects are the aim but unproven, and Meta, OpenAI and Instinct target the same consumer.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Wabi pivots to a messaging experience (Sep 2026)",
+    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/"
+   },
+   {
+    "label": "TechCrunch via Winzheng: Wabi launches to all users, free, no business model yet (Oct 2026)",
+    "url": "https://www.winzheng.com/en/article/replika-founder-wabi-ai-assistant"
+   },
+   {
+    "label": "TechCrunch: Wabi valued at $1.25B (Oct 2026)",
+    "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Bites",
+  "slug": "bites",
+  "site": "https://mybites.io",
+  "careers_url": "https://jobs.vertexventures.co.il/companies/bites",
+  "what_they_do": "Short AI-made training videos sent to frontline workers via WhatsApp, SMS and Teams",
+  "problem": "Deskless workers never log into an LMS, so launches, promos and new procedures don't reach the floor",
+  "industry": "Frontline training / workforce enablement",
+  "stage": "Series A",
+  "last_round": "$40M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "PeakSpan Capital",
+  "total_open_roles": "2",
+  "ops_roles": "Head of Content Operations",
+  "hiring_trend": "Flat, ~30-37 staff (Getro 37 Jan 2025 → 34; ynet: 30 in Oct 2026); 2 open roles, both Tel Aviv",
+  "headcount": "~30-35",
+  "latest_news": "Raised $40M Series A led by PeakSpan; CEO relocating to New York for US push",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/10/29/3391083/0/en/bites-raises-40m-series-a-to-turn-frontline-training-into-a-business-performance-engine.html",
+  "traction": "161% NRR (company-stated); Unilever, Coca-Cola, Shake Shack, Wynn; ~$4M ARR (est., Sep 2025)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.1",
+  "glassdoor_reviews": "8",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Bites-Reviews-E6826975.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 29, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Strong expansion (161% NRR) and blue-chip logos, but a ~30-person team with ~$4M est. ARR in a crowded frontline-training field behind Axonify and alongside EduMe, Arist and 7taps; the POS/HCM data loop is only partly live.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: Bites $40M Series A, 161% NRR (Oct 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/29/3391083/0/en/bites-raises-40m-series-a-to-turn-frontline-training-into-a-business-performance-engine.html"
+   },
+   {
+    "label": "Getlatka: Bites ~$4M ARR est. (Sep 2025)",
+    "url": "https://getlatka.com/companies/mybites.io"
+   },
+   {
+    "label": "Ynetnews: Bites employs 30 people (Oct 2026)",
+    "url": "https://www.ynetnews.com/business/article/rjvmee11afe"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Upwind",
+  "slug": "upwind",
+  "site": "https://www.upwind.io",
+  "careers_url": "https://www.upwind.io/careers",
+  "what_they_do": "Runtime-first cloud and AI security platform (CNAPP) for cloud-heavy enterprises",
+  "problem": "Security teams drown in scanner alerts without knowing which cloud risks are actually live and exploitable right now",
+  "industry": "Cybersecurity / cloud & AI security",
+  "stage": "Series C",
+  "last_round": "$400M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Bessemer Venture Partners",
+  "total_open_roles": "97",
+  "ops_roles": "Customer Success Manager (US Remote); Technical Account Manager (US Remote); Marketing Operations Lead (Tel Aviv)",
+  "hiring_trend": "Headcount ~431 May 2026 (+83% YoY, Crustdata) to ~550-600 Oct 2026; postings 214 in 2026, +132% vs 2025 (Revelio)",
+  "headcount": "~550-600",
+  "latest_news": "Raised $400M Series C at $3.8B after declining a Datadog acquisition offer",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+  "traction": "Revenue 4x in 2026; ~$90M ARR projected year-end, adding $20-30M ARR per quarter",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.5",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "80",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Upwind-Reviews-E9540072.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 29, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Fast-rising challenger in cloud security: revenue 4x in 2026, hundreds of enterprise customers (Siemens, Roku, Nubank) and a ~$3.8B Datadog offer it turned down; in-workload runtime sensors are sticky once deployed, but it still trails Wiz (Google), Palo Alto and CrowdStrike in a crowded CNAPP market.",
+  "distance_sources": [
+   {
+    "label": "GlobeNewswire: Upwind closes $400M Series C as revenue quadruples (Oct 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/28/3390753/0/en/upwind-closes-400-million-series-c-at-3-8-billion-valuation-as-revenue-quadruples-in-2026.html"
+   },
+   {
+    "label": "TechCrunch: Upwind raises $400M after walking away from Datadog offer (Oct 2026)",
+    "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Reflex",
+  "slug": "reflex",
+  "site": "https://reflex.dev",
+  "careers_url": "https://www.ycombinator.com/companies/reflex/jobs",
+  "what_they_do": "AI builder, Python framework and engineers that build custom internal business apps",
+  "problem": "Companies pay for generic SaaS that misses their workflows, then patch gaps with spreadsheets and manual work",
+  "industry": "AI app builder / custom enterprise software",
+  "stage": "Series A",
+  "last_round": "$14M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Standard Capital",
+  "total_open_roles": "5",
+  "ops_roles": "Forward Deployed Engineer",
+  "hiring_trend": "Headcount ~22 (Jun 2024, Getlatka) → ~39 (PitchBook) to ~60 (LinkedIn) in 2026, est.; 5 open roles, all SF on-site",
+  "headcount": "~40-60",
+  "latest_news": "Raised $14M Series A led by Standard Capital; total raised $19M",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://siliconangle.com/2026/10/29/reflex-raises-15m-to-help-enterprises-replace-generic-third-party-software-with-custom-business-apps/",
+  "traction": "Revenue up 10x+ in a year (company claim); 7-figure ARR by Jul 2026",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Oct 29, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Small Series A with 7-figure ARR; strong open-source reach (~30K GitHub stars, 1M+ apps) and sticky on-prem enterprise deployments, but it competes in a crowded AI app-builder field (Retool, Lovable, Replit, Databricks Apps) and apps are portable code by design.",
+  "distance_sources": [
+   {
+    "label": "SiliconANGLE: Reflex raises $14M Series A (Oct 2026)",
+    "url": "https://siliconangle.com/2026/10/29/reflex-raises-15m-to-help-enterprises-replace-generic-third-party-software-with-custom-business-apps/"
+   },
+   {
+    "label": "Dealroom: Reflex $14M round, modest vs competitors (Oct 2026)",
+    "url": "https://app.dealroom.co/news/note/reflex-raises-14m-to-help-companies-build-software-instead-of-buying-it"
+   },
+   {
+    "label": "Replicated case study: on-prem is over half of Reflex ARR",
+    "url": "https://www.replicated.com/customer-stories/reflex"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
