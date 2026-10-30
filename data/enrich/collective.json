@@ -66,13 +66,11 @@
       "source": "https://techfundingnews.com/collective-100m-series-b-general-catalyst-cvf-solo-entrepreneurs/"
     }
   ],
-  "total_raised": {
-    "value": "~$119M announced equity, plus $60M growth facility",
-    "source": "https://www.collective.com/blog/collective-raises-100m"
-  },
+  "total_raised": "~$119M equity (plus a $60M growth facility)",
   "revenue_est": {
     "value": "ARR growing 120% YoY (company claim; ARR not disclosed)",
-    "source": "https://www.collective.com/blog/collective-raises-100m"
+    "source": "https://www.collective.com/blog/collective-raises-100m",
+    "as_of": "Oct 2026"
   },
   "news_timeline": [
     {
