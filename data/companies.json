@@ -38915,5 +38915,51 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Empathy",
+  "slug": "empathy",
+  "site": "https://www.empathy.com",
+  "careers_url": "https://www.comeet.com/jobs/empathy/F8.007",
+  "what_they_do": "Bereavement, estate planning, leave and caregiving support sold through life insurers and employers",
+  "problem": "Families facing a death, leave or caregiving drown in paperwork and logistics with little practical help",
+  "industry": "Insurtech / employee benefits (life-event support)",
+  "stage": "Series C",
+  "last_round": "$72M",
+  "last_round_date": "May 2025",
+  "lead_investors": "Adams Street Partners",
+  "total_open_roles": "14",
+  "ops_roles": "Care Team Lead, Care Experience (Remote US); Strategic Client Success Manager (NYC hybrid)",
+  "hiring_trend": "Headcount ~130 (May 2025) → ~232 (Oct 2026, LinkedIn/Tracxn est.); Revelio +11% YoY",
+  "headcount": "~230",
+  "latest_news": "Relaunched as one AI + human care platform for loss, leave, caregiving and estate planning",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.empathy.com/blog/making-the-hard-moments-less-hard",
+  "traction": "Revenue doubled in 2025 after 300% in 2024; 50M+ people covered, 8 of top 10 US life insurers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "23",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Empathy-EI_IE10874349.11,18.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 1, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Embedded in claims and benefits at ~50 insurers, including 8 of the top 10 US life carriers, with insurers holding stakes via the Empathy Alliance, and now adding leave, caregiving and estate planning lines; revenue depends on a concentrated carrier channel and the human Care Team keeps margins service-heavy.",
+  "distance_sources": [
+   {
+    "label": "Empathy: Making the Hard Moments Less Hard (Sep 2026)",
+    "url": "https://www.empathy.com/blog/making-the-hard-moments-less-hard"
+   },
+   {
+    "label": "Empathy: 2025 recap, revenue doubled (Dec 2025)",
+    "url": "https://www.empathy.com/blog/2025-recap"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
