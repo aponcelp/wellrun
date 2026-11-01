@@ -1,0 +1,139 @@
+{
+  "week": "2026-11-01",
+  "title": "Hex and Tractian crash the Sprint pack",
+  "lede": "Two $100M+ rounds and a few hiring pushes reshuffled the top 100. Four companies entered, six slipped out, and most of the drops below are just new entries pushing everyone down.",
+  "sections": [
+    {
+      "heading": "The climbers",
+      "items": [
+        {
+          "slug": "hex",
+          "name": "Hex",
+          "move": "#365 → #89",
+          "score": "3.25 → 4.75",
+          "zone": "Steady → Sprint",
+          "why": "A fresh $100M round in October gives Hex full funding credit, on top of 39 open roles. That lifts it two zones."
+        },
+        {
+          "slug": "thatch",
+          "name": "Thatch",
+          "move": "#69 → #36",
+          "score": "5.0 → 5.5",
+          "zone": "Sprint → Sprint",
+          "why": "Open roles grew from 28 to 31, enough to earn a bigger hiring score and a long jump inside Sprint."
+        },
+        {
+          "slug": "dust",
+          "name": "Dust",
+          "move": "#113 → #62",
+          "score": "4.5 → 5.0",
+          "zone": "Race → Sprint",
+          "why": "Hiring jumped from 24 to 32 open roles, crossing the 30-role mark."
+        },
+        {
+          "slug": "tessera-labs",
+          "name": "Tessera Labs",
+          "move": "#176 → #83",
+          "score": "4.5 → 5.0",
+          "zone": "Race → Sprint",
+          "why": "Open roles went from 26 to 30, which tips it into Sprint."
+        },
+        {
+          "slug": "simile",
+          "name": "Simile",
+          "move": "#138 → #72",
+          "score": "4.5 → 5.0",
+          "zone": "Race → Sprint",
+          "why": "A small hiring gain (9 to 10 open roles) crossed a scoring bucket and moved it into Sprint."
+        }
+      ]
+    },
+    {
+      "heading": "The new entries",
+      "items": [
+        {
+          "slug": "tractian",
+          "name": "Tractian",
+          "move": "NEW at #24",
+          "score": "5.5",
+          "zone": "Sprint",
+          "why": "A $130M round in October plus strong traction put it straight into the top 25."
+        },
+        {
+          "slug": "upwind",
+          "name": "Upwind",
+          "move": "NEW at #25",
+          "score": "5.5",
+          "zone": "Sprint",
+          "why": "A $400M round in October. Biggest cheque of the week."
+        }
+      ]
+    },
+    {
+      "heading": "The drops",
+      "items": [
+        {
+          "slug": "quartermaster",
+          "name": "Quartermaster",
+          "move": "#81 → #188",
+          "score": "5.0 → 4.5",
+          "zone": "Sprint → Race",
+          "why": "A real drop: open roles fell from 11 to 8, costing hiring points."
+        },
+        {
+          "slug": "scribe",
+          "name": "Scribe",
+          "move": "#104 → #213",
+          "score": "4.5 → 4.0",
+          "zone": "Race → Tempo",
+          "why": "A real drop: open roles slid from 31 to 28, below the 30-role mark."
+        }
+      ]
+    },
+    {
+      "heading": "Only pushed down",
+      "items": [
+        {
+          "slug": "suno",
+          "name": "Suno",
+          "move": "#96 → #101",
+          "score": "4.5 → 4.5",
+          "zone": "Race → Race",
+          "why": "Score unchanged. Four new entries above it pushed it out of the 100."
+        },
+        {
+          "slug": "slash",
+          "name": "Slash",
+          "move": "#97 → #102",
+          "score": "4.5 → 4.5",
+          "zone": "Race → Race",
+          "why": "Unchanged, pushed out by new entries."
+        },
+        {
+          "slug": "column",
+          "name": "Column",
+          "move": "#98 → #103",
+          "score": "4.5 → 4.5",
+          "zone": "Race → Race",
+          "why": "Unchanged, pushed out by new entries."
+        },
+        {
+          "slug": "abridge",
+          "name": "Abridge",
+          "move": "#99 → #104",
+          "score": "4.5 → 4.5",
+          "zone": "Race → Race",
+          "why": "Unchanged, pushed out by new entries."
+        },
+        {
+          "slug": "corgi",
+          "name": "Corgi",
+          "move": "#100 → #105",
+          "score": "4.5 → 4.5",
+          "zone": "Race → Race",
+          "why": "Unchanged, pushed out by new entries."
+        }
+      ]
+    }
+  ]
+}
