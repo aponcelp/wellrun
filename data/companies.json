@@ -13630,11 +13630,19 @@
   "latest_news_date": "May 2026",
   "latest_news_url": "https://www.theguardian.com/technology/2026/may/28/anthropic-ai-valuation",
   "traction": "~$65B revenue run-rate (Jul 2026)",
-  "red_flags": "$1.5B authors copyright settlement approved Jul 2026; Pentagon blacklist dispute (blocked by judge Aug 2026)",
+  "red_flags": "$1.5B authors copyright settlement approved Jul 2026; Pentagon blacklist dispute (blocked by judge Aug 2026) Watch (not scored): Elvis Presley's rights holders filed a $41M copyright suit (Oct 2026); FTC demanded executive testimony in an AI safety probe (Oct 2026).",
   "red_flags_sources": [
    {
     "label": "PCMag, Jul 2026",
     "url": "https://www.pcmag.com/news/judge-approves-anthropics-15-billion-copyright-settlement-for-authors"
+   },
+   {
+    "label": "NBC News: Elvis Presley rights holders sue Anthropic (Oct 2026)",
+    "url": "https://www.nbcnews.com/tech/tech-news/elvis-presleys-rights-holders-sue-anthropic-saying-trained-ai-music-rcna605551"
+   },
+   {
+    "label": "Axios: FTC AI safety probe of Anthropic and OpenAI (Oct 2026)",
+    "url": "https://www.axios.com/2026/10/26/ftc-ai-safety-probe-anthropic-openai"
    }
   ],
   "score": "5.5",
@@ -13825,11 +13833,19 @@
   "latest_news_date": "Sep 2026",
   "latest_news_url": "https://www.reuters.com/legal/transactional/openai-targets-30-billion-funding-14-trillion-valuation-bloomberg-news-reports-2026-09-29/",
   "traction": "~$50B annualized revenue run-rate (end Sep 2026)",
-  "red_flags": "Ongoing copyright litigation (industry-wide); revenue run-rate below some circulated figures",
+  "red_flags": "Ongoing copyright litigation (industry-wide); revenue run-rate below some circulated figures Watch (not scored): Texas AG sued OpenAI and Sam Altman (Oct 2026); round target cut from $30B to ~$20B at $1.25T, still above the March mark.",
   "red_flags_sources": [
    {
     "label": "Investor's Business Daily, Oct 2026",
     "url": "https://www.investors.com/news/technology/openai-ipo-revenue-ai-stocks-oracle-broadcom/"
+   },
+   {
+    "label": "Texas AG: Paxton sues OpenAI and Sam Altman (Oct 2026)",
+    "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sues-openai-and-ceo-sam-altman-lying-users-and-harming-texans"
+   },
+   {
+    "label": "CNBC: OpenAI trims raise to ~$20B at $1.25T (Oct 2026)",
+    "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html"
    }
   ],
   "score": "5.0",
@@ -25278,7 +25294,7 @@
   "latest_news_date": "Oct 2026",
   "latest_news_url": "https://news.kalshi.com/p/kalshi-series-g-40-billion-valuation",
   "traction": "$2B ARR revenue run-rate (mid-2026); 90%+ of U.S. prediction-market volume; volume $52B → $178B annualized in 6 mo",
-  "red_flags": "Unresolved, material state-by-state legal fight over its sports contracts (the bulk of its volume and revenue): the 9th and 6th Circuits ruled for Nevada, Ohio and Tennessee (Aug–Sep 2026), court orders block sports contracts in Nevada, Michigan and Washington, New York's AG is suing to shut it down and seeks $36B (Jul 2026), and New Jersey has asked the Supreme Court to decide. Watch-out, not scored: Oct 2026 wash-trading allegations in its ether perps market, after which it moved to end a volume-rewards program.",
+  "red_flags": "Unresolved, material state-by-state legal fight over its sports contracts (the bulk of its volume and revenue): the 9th and 6th Circuits ruled for Nevada, Ohio and Tennessee (Aug–Sep 2026), court orders block sports contracts in Nevada, Michigan and Washington, New York's AG is suing to shut it down and seeks $36B (Jul 2026), and New Jersey has asked the Supreme Court to decide. Watch-out, not scored: Oct 2026 wash-trading allegations in its ether perps market, after which it moved to end a volume-rewards program. Watch (not scored): Utah filed 14 criminal counts against Kalshi and both co-founders (Oct 2026); the CFTC is suing Utah to block the case.",
   "red_flags_sources": [
    {
     "label": "Ars Technica: 6th Circuit rules states can enforce gambling laws on Kalshi (Sep 2026)",
@@ -25295,6 +25311,10 @@
    {
     "label": "SBC Americas: Kalshi moves to end volume rewards after wash-trading scrutiny (Oct 2026)",
     "url": "https://sbcamericas.com/2026/10/02/kalshi-end-volume-rewards-scrutiny"
+   },
+   {
+    "label": "AP: Utah files criminal charges against Kalshi (Oct 2026)",
+    "url": "https://apnews.com/article/kalshi-prediction-markets-utah-42468686dad6981f58436befdedee03d"
    }
   ],
   "score": "4.5",
