@@ -4,6 +4,20 @@
   "lede": "Fresh rounds lifted Cohere and Serval into the 100, and 18 companies came in while 18 slipped out. Hiring now scores in finer steps, so a few roles up or down moves a company a quarter point, not half.",
   "sections": [
     {
+      "heading": "Featured this week",
+      "body": "Runlayer builds the controls companies need to let AI agents loose safely: one place to build and govern agents and the MCP connections they use, so security can see what each agent touches.",
+      "items": [
+        {
+          "slug": "runlayer",
+          "name": "Runlayer",
+          "move": "#353 → #355",
+          "score": "3.5 → 3.5",
+          "zone": "Tempo → Tempo",
+          "why": "A $30M Series A in June led by Felicis, with Khosla back in ($42M raised in total). In August, Rippling and Runlayer dropped their dueling MCP lawsuits, both dismissed with no money paid. Customers like Instacart, Gusto and Opendoor signed within six months of launch, and it has 19 open roles across New York, San Francisco and remote US."
+        }
+      ]
+    },
+    {
       "heading": "The climbers",
       "items": [
         {
