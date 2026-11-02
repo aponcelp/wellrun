@@ -1103,6 +1103,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "empathy": {
+  "url": "https://www.empathy.com/images/og-default.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-01"
+ },
  "encord": {
   "url": "https://encord.com/preview.png",
   "kind": "og",

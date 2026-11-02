@@ -1,0 +1,120 @@
+{
+  "slug": "empathy",
+  "checked": "Nov 1, 2026",
+  "founded": 2020,
+  "hq": "New York, NY (R&D in Tel Aviv)",
+  "headcount_est": {
+    "value": "~232",
+    "as_of": "Sep 2026",
+    "source": "https://tracxn.com/d/companies/empathy/__gsc8coobRqBB3JQNOnnUr7miRwHaqUQlFcyDNpCfkt0"
+  },
+  "leadership": [
+    {
+      "name": "Ron Gura",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.empathy.com/about"
+    },
+    {
+      "name": "Yonatan Bergman",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.empathy.com/about"
+    },
+    {
+      "name": "Sophie Ruddock",
+      "title": "COO",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/sophie-ruddock",
+      "source": "https://www.empathy.com/blog/empathy-welcomes-four-key-hires"
+    },
+    {
+      "name": "Cindy Goodrich",
+      "title": "CMO",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/cindylgoodrich",
+      "source": "https://www.empathy.com/blog/empathy-welcomes-four-key-hires"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021",
+      "amount": "$13M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://www.empathy.com/about"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-09",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Entrée Capital",
+      "source": "https://www.finsmes.com/2021/09/empathy-raises-30m-in-series-a-funding.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-03",
+      "amount": "$47M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://www.empathy.com/blog/forging-our-path-toward-a-compassionate-economy"
+    },
+    {
+      "round": "Series C",
+      "date": "2025-05",
+      "amount": "$72M",
+      "valuation": "~$400M (TrueUp est.)",
+      "lead": "Adams Street Partners",
+      "source": "https://www.calcalistech.com/ctechnews/article/42w333g67"
+    }
+  ],
+  "total_raised": "$162M",
+  "revenue_est": {
+    "value": "Revenue doubled in 2025 (company-stated; amount undisclosed; ~$25M est. by Growjo)",
+    "as_of": "Dec 2025",
+    "basis": "company-stated",
+    "source": "https://www.empathy.com/blog/2025-recap"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Securian Canada adds Empathy Loss Support for life insurance beneficiaries",
+      "url": "https://www.empathy.com/blog/empathy-expands-in-canada-with-securian-canada"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Relaunched as one AI + human care platform across loss, leave, caregiving, estate",
+      "url": "https://www.empathy.com/blog/making-the-hard-moments-less-hard"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Launched Caregiving Support; Transamerica first carrier to offer it",
+      "url": "https://www.businesswire.com/news/home/20260722004757/en/Empathy-Expands-Platform-with-Caregiving-Support"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Launched Empathy Connect, a client engagement portal for advisors and agents",
+      "url": "https://www.empathy.com/blog/introducing-empathy-connect"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Strategic collaboration with Transamerica for Loss Support and LifeVault",
+      "url": "https://www.businesswire.com/news/home/20260128372756/en/Empathy-Announces-Strategic-Collaboration-with-Transamerica-to-Deliver-Comprehensive-Family-Support"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Launched in the UK after Canada; revenue doubled in 2025",
+      "url": "https://www.empathy.com/blog/2025-recap"
+    }
+  ],
+  "competitors": [
+    "Trust & Will",
+    "Exizent",
+    "Lantern",
+    "Cariloop"
+  ]
+}

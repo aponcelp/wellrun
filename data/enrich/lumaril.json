@@ -1,0 +1,84 @@
+{
+ "slug": "lumaril",
+ "checked": "Nov 1, 2026",
+ "founded": 2025,
+ "hq": "New York, NY",
+ "headcount_est": {
+  "value": "~16",
+  "as_of": "Oct 2026",
+  "source": "https://www.caplight.com/company/lumaril"
+ },
+ "leadership": [
+  {
+   "name": "Mark Elliot",
+   "title": "Co-founder",
+   "founder": true,
+   "linkedin": "https://www.linkedin.com/in/elliotm/",
+   "source": "https://lumaril.com/"
+  },
+  {
+   "name": "Ben Duffield",
+   "title": "Co-founder",
+   "founder": true,
+   "linkedin": "https://www.linkedin.com/in/benduffield/",
+   "source": "https://lumaril.com/"
+  },
+  {
+   "name": "Kim Lear",
+   "title": "Head of Operations",
+   "founder": false,
+   "linkedin": "https://www.linkedin.com/in/kim-lear-a7889917/",
+   "source": "https://lumaril.com/"
+  },
+  {
+   "name": "Steve Frost",
+   "title": "Head of Business Development",
+   "founder": false,
+   "linkedin": "https://www.linkedin.com/in/stephen-frost-9243a382/",
+   "source": "https://lumaril.com/"
+  }
+ ],
+ "funding_history": [
+  {
+   "round": "Seed",
+   "date": "2025-01",
+   "amount": "$12M",
+   "valuation": null,
+   "lead": "Lux Capital, General Catalyst",
+   "source": "https://aventure.vc/companies/lumaril-new-york-ny-us/fundraising"
+  },
+  {
+   "round": "Series A",
+   "date": "2026-10",
+   "amount": "$66M",
+   "valuation": "$400M",
+   "lead": "Elad Gil",
+   "source": "https://lumaril.substack.com/p/nothing-is-built-from-nothing"
+  }
+ ],
+ "total_raised": "$78M",
+ "revenue_est": null,
+ "news_timeline": [
+  {
+   "date": "2026-10",
+   "headline": "Out of stealth with $66M Series A led by Elad Gil at $400M valuation",
+   "url": "https://www.saasbuzz.com/funding/lumaril-series-a-funding"
+  },
+  {
+   "date": "2026-10",
+   "headline": "WSJ profiles Lumaril's work with operators at The Arthur Companies",
+   "url": "https://www.wsj.com/pro/venture-capital/ai-startup-lumaril-wants-to-make-factories-the-best-version-of-themselves-b65ea83d"
+  },
+  {
+   "date": "2026-10",
+   "headline": "Offers Monocle, a free AI-enabled PLC historian, to any plant",
+   "url": "https://www.saasbuzz.com/funding/lumaril-series-a-funding"
+  }
+ ],
+ "competitors": [
+  "arda",
+  "formic",
+  "Foundational Industries",
+  "Arrakis"
+ ]
+}
