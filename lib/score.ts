@@ -76,8 +76,9 @@ export function buildScore(c: Company): Breakdown {
   // Hiring
   const rolesRaw = String(c.total_open_roles ?? "").trim();
   const roles = /^\D*\d[\d,]*/.test(rolesRaw) ? parseInt(rolesRaw.replace(/[^\d]/g, ""), 10) : NaN;
-  const hire = !isFinite(roles) ? 0 : roles >= 30 ? 2 : roles >= 10 ? 1.5 : roles >= 3 ? 1 : roles >= 1 ? 0.5 : 0;
-  const band = !isFinite(roles) ? "" : roles >= 30 ? "30+ roles" : roles >= 10 ? "10–29 roles" : roles >= 3 ? "3–9 roles" : roles >= 1 ? "1–2 roles" : "no roles";
+  // Hiring tiers v3 (Nov 2, 2026): finer steps so a few roles don't swing the score.
+  const hire = !isFinite(roles) ? 0 : roles >= 30 ? 2 : roles >= 20 ? 1.75 : roles >= 15 ? 1.5 : roles >= 10 ? 1.25 : roles >= 6 ? 1 : roles >= 3 ? 0.75 : roles >= 1 ? 0.5 : 0;
+  const band = !isFinite(roles) ? "" : roles >= 30 ? "30+ roles" : roles >= 20 ? "20–29 roles" : roles >= 15 ? "15–19 roles" : roles >= 10 ? "10–14 roles" : roles >= 6 ? "6–9 roles" : roles >= 3 ? "3–5 roles" : roles >= 1 ? "1–2 roles" : "no roles";
   lines.push({
     key: "hiring",
     label: "Hiring",

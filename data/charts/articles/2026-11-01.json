@@ -1,18 +1,34 @@
 {
   "week": "2026-11-01",
-  "title": "Hex and Tractian crash the Sprint pack",
-  "lede": "Two $100M+ rounds and a few hiring pushes reshuffled the top 100. Four companies entered, six slipped out, and most of the drops below are just new entries pushing everyone down.",
+  "title": "Cohere and Serval storm the Sprint pack",
+  "lede": "Fresh rounds lifted Cohere and Serval into the 100, and 18 companies came in while 18 slipped out. Hiring now scores in finer steps, so a few roles up or down moves a company a quarter point, not half.",
   "sections": [
     {
       "heading": "The climbers",
       "items": [
         {
-          "slug": "hex",
-          "name": "Hex",
-          "move": "#365 → #89",
-          "score": "3.25 → 4.75",
-          "zone": "Steady → Sprint",
-          "why": "A fresh $100M round in October gives Hex full funding credit, on top of 39 open roles. That lifts it two zones."
+          "slug": "dust",
+          "name": "Dust",
+          "move": "#113 → #66",
+          "score": "4.5 → 5.0",
+          "zone": "Race → Sprint",
+          "why": "Open roles jumped from 24 to 32, crossing the 30-role mark."
+        },
+        {
+          "slug": "viktor",
+          "name": "Viktor",
+          "move": "#143 → #99",
+          "score": "4.5 → 4.75",
+          "zone": "Race → Sprint",
+          "why": "Same 29 open roles, but the finer hiring steps now give a team that size more credit."
+        },
+        {
+          "slug": "simile",
+          "name": "Simile",
+          "move": "#138 → #98",
+          "score": "4.5 → 4.75",
+          "zone": "Race → Sprint",
+          "why": "One more open role (9 to 10) moved it up a hiring step and back into Sprint."
         },
         {
           "slug": "thatch",
@@ -20,37 +36,37 @@
           "move": "#69 → #36",
           "score": "5.0 → 5.5",
           "zone": "Sprint → Sprint",
-          "why": "Open roles grew from 28 to 31, enough to earn a bigger hiring score and a long jump inside Sprint."
+          "why": "Open roles grew from 28 to 31, enough for full hiring points."
         },
         {
-          "slug": "dust",
-          "name": "Dust",
-          "move": "#113 → #62",
-          "score": "4.5 → 5.0",
-          "zone": "Race → Sprint",
-          "why": "Hiring jumped from 24 to 32 open roles, crossing the 30-role mark."
-        },
-        {
-          "slug": "tessera-labs",
-          "name": "Tessera Labs",
-          "move": "#176 → #83",
-          "score": "4.5 → 5.0",
-          "zone": "Race → Sprint",
-          "why": "Open roles went from 26 to 30, which tips it into Sprint."
-        },
-        {
-          "slug": "simile",
-          "name": "Simile",
-          "move": "#138 → #72",
-          "score": "4.5 → 5.0",
-          "zone": "Race → Sprint",
-          "why": "A small hiring gain (9 to 10 open roles) crossed a scoring bucket and moved it into Sprint."
+          "slug": "numeral",
+          "name": "Numeral",
+          "move": "#76 → #47",
+          "score": "5.0 → 5.25",
+          "zone": "Sprint → Sprint",
+          "why": "23 open roles now count for more under the finer steps."
         }
       ]
     },
     {
       "heading": "The new entries",
       "items": [
+        {
+          "slug": "cohere",
+          "name": "Cohere",
+          "move": "NEW at #38",
+          "score": "5.5",
+          "zone": "Sprint",
+          "why": "Initial close of a Series E in October, on top of 122 open roles."
+        },
+        {
+          "slug": "serval",
+          "name": "Serval",
+          "move": "NEW at #83",
+          "score": "5.0",
+          "zone": "Sprint",
+          "why": "A $150M Series C led by Sequoia in October, with 64 open roles and plans for 500+ hires."
+        },
         {
           "slug": "tractian",
           "name": "Tractian",
@@ -66,6 +82,14 @@
           "score": "5.5",
           "zone": "Sprint",
           "why": "A $400M round in October. Biggest cheque of the week."
+        },
+        {
+          "slug": "tessera-labs",
+          "name": "Tessera Labs",
+          "move": "NEW at #84",
+          "score": "5.0",
+          "zone": "Sprint",
+          "why": "Open roles went from 26 to 30, which tips it into Sprint."
         }
       ]
     },
@@ -75,18 +99,18 @@
         {
           "slug": "quartermaster",
           "name": "Quartermaster",
-          "move": "#81 → #188",
+          "move": "#81 → #174",
           "score": "5.0 → 4.5",
           "zone": "Sprint → Race",
-          "why": "A real drop: open roles fell from 11 to 8, costing hiring points."
+          "why": "Open roles fell from 11 to 8. That now costs a quarter point, but it lands just under the Sprint line, so it ranks behind every Sprint company."
         },
         {
           "slug": "scribe",
           "name": "Scribe",
-          "move": "#104 → #213",
-          "score": "4.5 → 4.0",
-          "zone": "Race → Tempo",
-          "why": "A real drop: open roles slid from 31 to 28, below the 30-role mark."
+          "move": "#104 → #179",
+          "score": "4.5 → 4.25",
+          "zone": "Race → Race",
+          "why": "Open roles slid from 31 to 28. A quarter point, and it stays in Race."
         }
       ]
     },
@@ -94,41 +118,41 @@
       "heading": "Only pushed down",
       "items": [
         {
-          "slug": "suno",
-          "name": "Suno",
-          "move": "#96 → #101",
-          "score": "4.5 → 4.5",
-          "zone": "Race → Race",
-          "why": "Score unchanged. Four new entries above it pushed it out of the 100."
+          "slug": "positron-ai",
+          "name": "Positron AI",
+          "move": "#83 → #101",
+          "score": "4.75 → 4.75",
+          "zone": "Sprint → Sprint",
+          "why": "Score unchanged. New Sprint entries above it pushed it just out of the 100."
         },
         {
-          "slug": "slash",
-          "name": "Slash",
-          "move": "#97 → #102",
-          "score": "4.5 → 4.5",
-          "zone": "Race → Race",
+          "slug": "factory",
+          "name": "Factory",
+          "move": "#84 → #105",
+          "score": "4.75 → 4.75",
+          "zone": "Sprint → Sprint",
           "why": "Unchanged, pushed out by new entries."
         },
         {
-          "slug": "column",
-          "name": "Column",
-          "move": "#98 → #103",
-          "score": "4.5 → 4.5",
-          "zone": "Race → Race",
+          "slug": "universal-quantum",
+          "name": "Universal Quantum",
+          "move": "#85 → #110",
+          "score": "4.75 → 4.75",
+          "zone": "Sprint → Sprint",
           "why": "Unchanged, pushed out by new entries."
         },
         {
-          "slug": "abridge",
-          "name": "Abridge",
-          "move": "#99 → #104",
+          "slug": "vercel",
+          "name": "Vercel",
+          "move": "#89 → #115",
           "score": "4.5 → 4.5",
           "zone": "Race → Race",
-          "why": "Unchanged, pushed out by new entries."
+          "why": "Unchanged. Every Race company now sits behind a bigger Sprint pack."
         },
         {
-          "slug": "corgi",
-          "name": "Corgi",
-          "move": "#100 → #105",
+          "slug": "glean",
+          "name": "Glean",
+          "move": "#95 → #121",
           "score": "4.5 → 4.5",
           "zone": "Race → Race",
           "why": "Unchanged, pushed out by new entries."

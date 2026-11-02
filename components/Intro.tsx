@@ -42,7 +42,7 @@ function LegendBody() {
             <div className="formula__body">
               <p><b>Score = Hiring + Funding + Traction − Red flags</b> (never below 0)</p>
               <dl>
-                <dt>Hiring</dt><dd>Open roles, all teams: 30+ = 2 · 10–29 = 1.5 · 3–9 = 1 · 1–2 = 0.5 · none = 0</dd>
+                <dt>Hiring</dt><dd>Open roles, all teams: 30+ = 2 · 20–29 = 1.75 · 15–19 = 1.5 · 10–14 = 1.25 · 6–9 = 1 · 3–5 = 0.75 · 1–2 = 0.5 · none = 0</dd>
                 <dt>Funding</dt><dd>Last VC round: within 6 mo = 1.5 · 6–12 mo = 1 · 12–24 mo = 0.5 · older = 0. +0.5 for a $100M+ round in the last 24 mo. Capped at 2. Debt, PE, secondaries and tenders don&apos;t count.</dd>
                 <dt>Traction</dt><dd>Strong ARR, customer or headcount growth = 1.5 · some = 0.75 · none = 0</dd>
                 <dt>Red flags</dt><dd>−1 each for significant issues in the last 24 mo: layoffs or shrinking headcount (&gt;5% YoY), down rounds, major lawsuits, exec exodus. Every flag links its public sources.</dd>
