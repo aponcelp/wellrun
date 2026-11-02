@@ -38981,5 +38981,53 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Lumaril",
+  "slug": "lumaril",
+  "site": "https://lumaril.com",
+  "careers_url": "https://jobs.lever.co/lumaril-corporation",
+  "what_they_do": "AI layer that plugs into factory control systems and tunes setpoints to raise output",
+  "problem": "Plants run below capacity and depend on retiring veteran operators whose know-how is never written down",
+  "industry": "Industrial AI / manufacturing autonomy",
+  "stage": "Series A",
+  "last_round": "$66M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Elad Gil",
+  "total_open_roles": "5",
+  "ops_roles": "Operator; Recruiter",
+  "hiring_trend": "~16 staff on LinkedIn, up from 11 last quarter (+45% QoQ, Caplight); 5 open roles",
+  "headcount": "~16",
+  "latest_news": "Out of stealth with $66M Series A led by Elad Gil at $400M valuation",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.saasbuzz.com/funding/lumaril-series-a-funding",
+  "traction": "Live at multiple plants (Ultra-Poly, The Arthur Companies), paid on output added; no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 1, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Palantir Foundry founders and a $400M Series A, but it only came out of stealth Oct 27, 2026 with two named customers, no disclosed revenue, and an unproven paid-on-output model that depends on plants accepting its gain measurement.",
+  "distance_sources": [
+   {
+    "label": "SaasBuzz: Lumaril raises $66M Series A at $400M valuation (Nov 2026)",
+    "url": "https://www.saasbuzz.com/funding/lumaril-series-a-funding"
+   },
+   {
+    "label": "Lumaril: Nothing is built from nothing, launch post (Oct 2026)",
+    "url": "https://lumaril.substack.com/p/nothing-is-built-from-nothing"
+   }
+  ],
+  "hiring_locations": [
+   "New York"
+  ]
  }
 ]
