@@ -39029,5 +39029,51 @@
   "hiring_locations": [
    "New York"
   ]
+ },
+ {
+  "name": "Larridin",
+  "slug": "larridin",
+  "site": "https://larridin.com",
+  "careers_url": "https://larridin.com/about-us#jobs",
+  "what_they_do": "Measures enterprise AI spend, adoption and productivity impact across employees and agents",
+  "problem": "Companies' AI bills are ballooning but they can't see who uses which tools or whether it pays off",
+  "industry": "Enterprise AI measurement / AI ROI",
+  "stage": "Series A",
+  "last_round": "$30M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Pelion Ventures",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "Small: ~20-26 staff (LinkedIn ~26, +30% YoY); plans to double headcount post-Series A",
+  "headcount": "~20-26",
+  "latest_news": "Raised $30M Series A led by Pelion Ventures; a16z and Gradient returned",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.businessinsider.com/larridin-ai-spending-measurement-series-a-30-million-2026-11",
+  "traction": "1 to 50 enterprise customers since Dec 2025 (CEO); 2B+ AI sessions measured",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 2, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Early: ~50 enterprise customers a year into selling, in a new, crowded AI-measurement category (Ascerta, Jellyfish, DX, Zluri); its edge would be a cross-vendor usage dataset (2B+ sessions), not yet proven at scale.",
+  "distance_sources": [
+   {
+    "label": "Business Insider: Larridin $30M Series A, 1 to 50 enterprise customers (Nov 2026)",
+    "url": "https://www.businessinsider.com/larridin-ai-spending-measurement-series-a-30-million-2026-11"
+   },
+   {
+    "label": "Larridin press release: $30M Series A, $47M total (Nov 2026)",
+    "url": "https://larridin.com/press-releases/larridin-raises-30-million-in-series-a-to-prove-ais-impact-across-the-human-and-agent-workforce"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

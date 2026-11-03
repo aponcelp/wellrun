@@ -1,0 +1,88 @@
+{
+  "slug": "larridin",
+  "checked": "Nov 2, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~20",
+    "as_of": "Nov 2026",
+    "source": "https://www.businessinsider.com/larridin-ai-spending-measurement-series-a-30-million-2026-11"
+  },
+  "leadership": [
+    {
+      "name": "Russ Fradin",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://larridin.com/about-us"
+    },
+    {
+      "name": "Jim Larrison",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://larridin.com/about-us"
+    },
+    {
+      "name": "Ameya Kanitkar",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/ameyakanitkar",
+      "source": "https://larridin.com/about-us"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-04",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://larridin.com/blog/the-larridin-story"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-11",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Pelion Ventures",
+      "source": "https://larridin.com/press-releases/larridin-raises-30-million-in-series-a-to-prove-ais-impact-across-the-human-and-agent-workforce"
+    }
+  ],
+  "total_raised": "$47M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Raised $30M Series A led by Pelion Ventures; total funding $47M",
+      "url": "https://larridin.com/press-releases/larridin-raises-30-million-in-series-a-to-prove-ais-impact-across-the-human-and-agent-workforce"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launched Token Spend & Insights to track and consolidate all AI spend",
+      "url": "https://larridin.com/press-releases"
+    },
+    {
+      "date": "2026-08",
+      "headline": "CMU-Larridin study links AI adoption signals to S&P 500 revenue growth",
+      "url": "https://www.businesswire.com/news/home/20260812781741/en/Researchers-Find-the-First-Significant-Link-Between-AI-Adoption-and-Revenue-Growth"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Gainsight CEO Nick Mehta joined Larridin's board",
+      "url": "https://larridin.com/press-releases/larridin-appoints-saas-industry-leader-nick-mehta-to-board-of-directors-2"
+    },
+    {
+      "date": "2025-04",
+      "headline": "Launched with $17M seed led by a16z",
+      "url": "https://larridin.com/blog/the-larridin-story"
+    }
+  ],
+  "competitors": [
+    "ascerta",
+    "Jellyfish",
+    "DX",
+    "Zluri",
+    "Productiv"
+  ]
+}
