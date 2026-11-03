@@ -4,8 +4,21 @@
   "lede": "Fresh rounds lifted Cohere and Serval into the 100, and 18 companies came in while 18 slipped out. Hiring now scores in finer steps, so a few roles up or down moves a company a quarter point, not half.",
   "sections": [
     {
+      "heading": "How hiring points work",
+      "body": "Hiring is worth up to 2 points of a company's score, based on how many roles it has open. 1 to 2 roles earn 0.5, 3 to 5 earn 0.75, 6 to 9 earn 1, 10 to 14 earn 1.25, 15 to 19 earn 1.5, 20 to 29 earn 1.75, and 30 or more earn the full 2. No open roles, no points.",
+      "items": []
+    },
+    {
       "heading": "The climbers",
       "items": [
+        {
+          "slug": "hex",
+          "name": "Hex",
+          "move": "#365 → #106",
+          "score": "3.25 → 4.75",
+          "zone": "Steady → Sprint",
+          "why": "A $100M Series D at a $1.2B valuation, led by Peak XV in October, on top of 39 open roles. The biggest jump on the board, six places short of the 100."
+        },
         {
           "slug": "dust",
           "name": "Dust",
