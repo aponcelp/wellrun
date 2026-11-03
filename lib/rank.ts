@@ -108,6 +108,10 @@ export const hostOf = (site: string) => {
 };
 export const fmtScore = (n: number) => n.toFixed(2).replace(/0$/, "");
 
+// Editor's pins (his call): companies that always sit inside the Well Run 100, at #100 at worst.
+// Mirrored in the workspace site_rank.js used by the Sunday re-rank.
+export const PIN_TOP100 = new Set<string>(["hex"]);
+
 // Default "Pace" order: zone, score, distance, revenue, name.
 export function paceSorted(list: Company[]): Company[] {
   const k = list.map((c) => ({
@@ -119,7 +123,12 @@ export function paceSorted(list: Company[]): Company[] {
     r: revOf(c.traction),
   }));
   k.sort((a, b) => (a.zi - b.zi) || (b.s - a.s) || (a.d - b.d) || (b.r - a.r) || byName(a, b));
-  return k.map((x) => x.c);
+  const out = k.map((x) => x.c);
+  for (const slug of PIN_TOP100) {
+    const i = out.findIndex((c) => c.slug === slug);
+    if (i > 99) out.splice(99, 0, ...out.splice(i, 1));
+  }
+  return out;
 }
 
 /** Companies must already be in Pace order. */

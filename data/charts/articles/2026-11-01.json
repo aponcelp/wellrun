@@ -1,7 +1,7 @@
 {
   "week": "2026-11-01",
-  "title": "Cohere and Serval storm the Sprint pack",
-  "lede": "Fresh rounds lifted Cohere and Serval into the 100, and 18 companies came in while 18 slipped out. Hiring now scores in finer steps, so a few roles up or down moves a company a quarter point, not half.",
+  "title": "Hex, Cohere and Serval storm the Sprint pack",
+  "lede": "Fresh rounds lifted Hex, Cohere and Serval into the 100, and 18 companies came in while 18 slipped out. Hiring now scores in finer steps, so a few roles up or down moves a company a quarter point, not half.",
   "sections": [
     {
       "heading": "How hiring points work",
@@ -11,14 +11,6 @@
     {
       "heading": "The climbers",
       "items": [
-        {
-          "slug": "hex",
-          "name": "Hex",
-          "move": "#365 → #106",
-          "score": "3.25 → 4.75",
-          "zone": "Steady → Sprint",
-          "why": "A $100M Series D at a $1.2B valuation, led by Peak XV in October, on top of 39 open roles. The biggest jump on the board, six places short of the 100."
-        },
         {
           "slug": "dust",
           "name": "Dust",
@@ -64,6 +56,14 @@
     {
       "heading": "The new entries",
       "items": [
+        {
+          "slug": "hex",
+          "name": "Hex",
+          "move": "NEW at #100",
+          "score": "4.75",
+          "zone": "Sprint",
+          "why": "A $100M Series D at a $1.2B valuation, led by Peak XV in October, with 39 open roles. Up from #365 last week, the biggest jump on the board."
+        },
         {
           "slug": "cohere",
           "name": "Cohere",
@@ -133,7 +133,7 @@
         {
           "slug": "positron-ai",
           "name": "Positron AI",
-          "move": "#83 → #101",
+          "move": "#83 → #102",
           "score": "4.75 → 4.75",
           "zone": "Sprint → Sprint",
           "why": "Score unchanged. New Sprint entries above it pushed it just out of the 100."
@@ -141,7 +141,7 @@
         {
           "slug": "factory",
           "name": "Factory",
-          "move": "#84 → #105",
+          "move": "#84 → #106",
           "score": "4.75 → 4.75",
           "zone": "Sprint → Sprint",
           "why": "Unchanged, pushed out by new entries."

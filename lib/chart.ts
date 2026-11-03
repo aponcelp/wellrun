@@ -20,7 +20,7 @@ export type ChaseEntry = { rank: number; slug: string; name: string; zone: ZoneK
 export type WeekLabel = { week: string; title: string; tracking: string; short: string };
 export type ChartWeek = WeekLabel & { baseline: boolean; total: number; chart: ChartEntry[]; chase: ChaseEntry[] };
 export type ArticleItem = { slug: string; name: string; move?: string; score?: string; zone?: string; why?: string };
-export type Spotlight = { label: string; slug: string; name: string; tagline: string; facts: { k: string; v: string }[]; why: string; sources: { label: string; url: string }[] };
+export type Spotlight = { image?: string; label: string; slug: string; name: string; tagline: string; facts: { k: string; v: string }[]; why: string; sources: { label: string; url: string }[] };
 export type Article = { week: string; title: string; lede: string; sections: { heading: string; body?: string; items: ArticleItem[] }[]; spotlight?: Spotlight; outro?: string };
 
 const DIR = join(process.cwd(), "data", "charts");

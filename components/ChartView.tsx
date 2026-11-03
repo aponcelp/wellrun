@@ -3,7 +3,7 @@ import ChartMove from "./ChartMove";
 import { ChartTabs, WeekPicker } from "./ChartTabs";
 import { ZoneMark } from "./Marks";
 import { fmtScore } from "@/lib/rank";
-import { getCompanies } from "@/lib/data";
+import { getCompanies, getOg } from "@/lib/data";
 import type { Article, ChartWeek, WeekLabel } from "@/lib/chart";
 
 function Name({ slug, name, live }: { slug: string; name: string; live: Set<string> }) {
@@ -16,7 +16,7 @@ function Name({ slug, name, live }: { slug: string; name: string; live: Set<stri
   );
 }
 
-function ArticleView({ a, live, top }: { a: Article | null; live: Set<string>; top: ChartWeek["chart"] }) {
+function ArticleView({ a, live, top, thumb }: { a: Article | null; live: Set<string>; top: ChartWeek["chart"]; thumb?: string | null }) {
   if (!a) return <p className="wkart__lede">No write-up for this week yet.</p>;
   return (
     <div className="wkwrap">
@@ -51,6 +51,10 @@ function ArticleView({ a, live, top }: { a: Article | null; live: Set<string>; t
     <aside className="wkside">
         {a.spotlight && (
         <section className="spot" aria-label={a.spotlight.label}>
+          {thumb && (
+            // eslint-disable-next-line @next/next/no-img-element
+            <img className="spot__img" src={thumb} alt={`${a.spotlight.name} preview`} loading="lazy" />
+          )}
           <p className="spot__k">{a.spotlight.label}</p>
           <h3 className="spot__name">
             <Name slug={a.spotlight.slug} name={a.spotlight.name} live={live} />
@@ -101,6 +105,8 @@ function ArticleView({ a, live, top }: { a: Article | null; live: Set<string>; t
 
 export default async function ChartView({ w, weeks, article }: { w: ChartWeek; weeks: WeekLabel[]; article: Article | null }) {
   const live = new Set((await getCompanies()).map((c) => c.slug));
+  const sp = article?.spotlight;
+  const thumb = sp ? sp.image || (await getOg(sp.slug))?.url || null : null;
   const chart = (
     <>
       <div className="wk__cols" aria-hidden="true">
@@ -152,7 +158,7 @@ export default async function ChartView({ w, weeks, article }: { w: ChartWeek; w
       </ol>
     </>
   );
-  const art = w.baseline && !article ? <p className="wkart__lede">First week of the chart. Movement starts next week.</p> : <ArticleView a={article} live={live} top={w.chart} />;
+  const art = w.baseline && !article ? <p className="wkart__lede">First week of the chart. Movement starts next week.</p> : <ArticleView a={article} live={live} top={w.chart} thumb={thumb} />;
   return (
     <div className="page page--wk">
       <nav className="back">

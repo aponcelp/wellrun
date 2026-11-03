@@ -1225,7 +1225,8 @@ a.wk__name:hover { text-decoration: underline; text-decoration-color: var(--clay
 @media (min-width: 1000px) {
   .wkwrap { grid-template-columns: minmax(0, 1fr) 360px; gap: 56px; align-items: start; }
   .wkwrap .wkart { max-width: none; }
-  .wkside { padding-top: 22px; }
+  .wkside { padding-top: 22px; position: sticky; top: 16px; max-height: calc(100vh - 32px); overflow-y: auto; scrollbar-width: none; }
+  .wkside::-webkit-scrollbar { display: none; }
   .wkside .spot__facts > div { grid-template-columns: 1fr; gap: 3px; }
   .wkside .spot__name { font-size: 30px; }
 }
@@ -1264,3 +1265,6 @@ a.wk__name:hover { text-decoration: underline; text-decoration-color: var(--clay
 .cohist__val { font: 700 12px var(--sans); fill: var(--ink); }
 .cohist__note { grid-column: 1 / -1; margin: 0; font: 400 12px/1.4 var(--mono); color: var(--ink-3); }
 @media (max-width: 700px) { .cohist__body { grid-template-columns: 1fr; } }
+
+/* Spotlight thumbnail (Nov 3) */
+.spot__img { display: block; width: calc(100% + 36px); max-width: none; margin: -18px -18px 4px; aspect-ratio: 1200 / 630; object-fit: cover; border-bottom: 1px solid var(--ink); background: var(--paper); }
