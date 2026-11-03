@@ -51,9 +51,17 @@
       "valuation": null,
       "lead": "Amex Ventures",
       "source": "https://www.businesswire.com/news/home/20260304551167/en/Traversal-Announces-Strategic-Investment-from-Amex-Ventures"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-11",
+      "amount": "$120M",
+      "valuation": "$1B",
+      "lead": "Kleiner Perkins, Redpoint, Khosla",
+      "source": "https://www.traversal.com/blog/traversal-series-b-120-million-ai-sre"
     }
   ],
-  "total_raised": "$48M+ (Amex strategic amount undisclosed)",
+  "total_raised": "~$173M",
   "revenue_est": null,
   "news_timeline": [],
   "competitors": []
