@@ -1,0 +1,108 @@
+{
+  "slug": "applied-compute",
+  "checked": "Nov 4, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~70",
+    "as_of": "Nov 2026",
+    "source": "https://www.appliedcompute.com/careers"
+  },
+  "leadership": [
+    {
+      "name": "Yash Patil",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com.au/news/innovation/meet-the-ex-openai-guys-building-a-cheaper-open-source-alternative"
+    },
+    {
+      "name": "Rhythm Garg",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com.au/news/innovation/meet-the-ex-openai-guys-building-a-cheaper-open-source-alternative"
+    },
+    {
+      "name": "Linden Li",
+      "title": "Co-founder & Chief Architect",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://readthesignal.co/p/sequoia-and-benchmark-made-80m-bet"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-06",
+      "amount": "$20M",
+      "valuation": "$100M",
+      "lead": "Benchmark (Victor Lazarte)",
+      "source": "https://www.upstartsmedia.com/p/ex-openai-applied-compute-raises-20m"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-10",
+      "amount": "$60M",
+      "valuation": "~$500M",
+      "lead": "Benchmark, Sequoia, Lux",
+      "source": "https://appliedcompute.network/company/its-time-to-get-specific"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-04",
+      "amount": "$80M",
+      "valuation": "$1.3B",
+      "lead": "Kleiner Perkins",
+      "source": "https://www.lw.com/en/news/2026/04/latham-represents-applied-compute-in-fundraise"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-11",
+      "amount": "$350M",
+      "valuation": "$3.25B",
+      "lead": "Elad Gil",
+      "source": "https://www.appliedcompute.com/company/100m-run-rate-fundraise"
+    }
+  ],
+  "total_raised": "$510M",
+  "revenue_est": {
+    "value": "$100M annualized run rate",
+    "as_of": "Nov 2026",
+    "source": "https://www.appliedcompute.com/company/100m-run-rate-fundraise"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Hits $100M run rate; raises $350M at $3.25B led by Elad Gil, with Nvidia, Blackstone, Kleiner, Lux",
+      "url": "https://www.appliedcompute.com/company/100m-run-rate-fundraise"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Releases Shift-1 model router; Clay case study cuts inference costs up to 47%",
+      "url": "https://www.distillintelligence.com/news/applied-compute"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Launches AC2 Agent Cloud for self-serve training, inference and continual improvement",
+      "url": "https://www.forbes.com.au/news/innovation/meet-the-ex-openai-guys-building-a-cheaper-open-source-alternative"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Raises $80M at $1.3B led by Kleiner Perkins; $160M total",
+      "url": "https://www.lw.com/en/news/2026/04/latham-represents-applied-compute-in-fundraise"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Emerges from stealth with $80M from Benchmark, Sequoia, Lux",
+      "url": "https://appliedcompute.network/company/its-time-to-get-specific"
+    }
+  ],
+  "competitors": [
+    "together-ai",
+    "fireworks-ai",
+    "baseten",
+    "thinking-machines-lab"
+  ]
+}

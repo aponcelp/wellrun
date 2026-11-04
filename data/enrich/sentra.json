@@ -1,0 +1,106 @@
+{
+  "slug": "sentra",
+  "checked": "Nov 4, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "New York, NY and Tel Aviv, Israel (co-HQ; Israeli-founded, R&D in Tel Aviv)",
+  "headcount_est": {
+    "value": "~130",
+    "as_of": "Nov 2026",
+    "source": "https://www.calcalistech.com/ctechnews/article/s1jextotml"
+  },
+  "leadership": [
+    {
+      "name": "Yoav Regev",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/sentra-raises-150-million-for-agentic-data-security-as-enterprise-ai-adoption-accelerates-302928476.html"
+    },
+    {
+      "name": "Asaf Kochan",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.calcalistech.com/ctechnews/article/s1jextotml"
+    },
+    {
+      "name": "Ron Reiter",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.calcalistech.com/ctechnews/article/s1jextotml"
+    },
+    {
+      "name": "Yair Cohen",
+      "title": "Co-founder & VP Product",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.calcalistech.com/ctechnews/article/s1jextotml"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-04",
+      "amount": "$23M",
+      "valuation": null,
+      "lead": "Zeev Ventures (Oren Zeev), Bessemer Venture Partners",
+      "source": "https://www.calcalistech.com/ctechnews/article/s111x8hw4c"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-01",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Standard Investments",
+      "source": "https://www.calcalistech.com/ctechnews/article/sj6s11ol2j"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-04",
+      "amount": "$50M",
+      "valuation": "~$205M (PitchBook, reported)",
+      "lead": "Key1 Capital",
+      "source": "https://www.calcalistech.com/ctechnews/article/hj11gm04kxg"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-11",
+      "amount": "$150M",
+      "valuation": "Undisclosed; CEO says ~3x the Series B, below $1B",
+      "lead": "Capital One Ventures",
+      "source": "https://www.prnewswire.com/news-releases/sentra-raises-150-million-for-agentic-data-security-as-enterprise-ai-adoption-accelerates-302928476.html"
+    }
+  ],
+  "total_raised": "$250M+",
+  "revenue_est": "Tens of millions of dollars (company, Nov 2026); targeting $100M",
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Raises $150M Series C led by Capital One Ventures; 300%+ YoY growth claimed; plans London office and US federal push",
+      "url": "https://www.prnewswire.com/news-releases/sentra-raises-150-million-for-agentic-data-security-as-enterprise-ai-adoption-accelerates-302928476.html"
+    },
+    {
+      "date": "2025-04",
+      "headline": "Raises $50M Series B led by Key1 Capital; total over $100M, 85 employees",
+      "url": "https://www.calcalistech.com/ctechnews/article/hj11gm04kxg"
+    },
+    {
+      "date": "2023-01",
+      "headline": "Raises $30M Series A led by Standard Investments",
+      "url": "https://www.calcalistech.com/ctechnews/article/sj6s11ol2j"
+    },
+    {
+      "date": "2022-04",
+      "headline": "Raises $23M seed from Oren Zeev and Bessemer",
+      "url": "https://www.calcalistech.com/ctechnews/article/s111x8hw4c"
+    }
+  ],
+  "competitors": [
+    "cyera",
+    "Varonis",
+    "BigID",
+    "Microsoft Purview"
+  ]
+}

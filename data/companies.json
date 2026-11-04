@@ -38563,7 +38563,7 @@
   "traction": "Revenue 10x since Oct 2024 launch; CRO cites triple-digit ARR growth; ~$16M revenue est.",
   "red_flags": "",
   "red_flags_sources": [],
-  "score": "2.5",
+  "score": "3.0",
   "zone": "Steady",
   "status": "new",
   "glassdoor_rating": "",
@@ -39424,6 +39424,155 @@
   ],
   "hiring_locations": [
    "San Francisco"
+  ]
+ },
+ {
+  "name": "Applied Compute",
+  "slug": "applied-compute",
+  "site": "https://www.appliedcompute.com",
+  "careers_url": "https://jobs.ashbyhq.com/Applied%20Compute",
+  "what_they_do": "Cloud that trains, serves and keeps improving custom open-weight AI models for enterprises",
+  "problem": "Frontier AI models are costly and generic; companies want cheaper models trained on their own data that they own",
+  "industry": "AI infrastructure / custom model training and inference",
+  "stage": "Series C",
+  "last_round": "$350M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Elad Gil",
+  "total_open_roles": "15",
+  "ops_roles": "Compute Analyst; Recruiting & People Operations; Applied Research Engineer (forward-deployed)",
+  "hiring_trend": "Team ~17 (Jan 2026) to ~70 (Nov 2026); 6 of 15 open roles posted since Oct 2026",
+  "headcount": "~70",
+  "latest_news": "Raised $350M at $3.25B led by Elad Gil after hitting $100M run rate",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://siliconangle.com/2026/11/03/ai-cloud-startup-applied-compute-raises-350m-after-reaching-key-revenue-milestone/",
+  "traction": "Run rate ~$12.8M (Nov 2025, The Information) to $100M (Nov 2026, company); team ~4x",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 4, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast growth with big-name customers and 40% using both training and inference, but it sells into a crowded open-model cloud field (Together, Fireworks, Baseten) and frontier labs offer their own fine-tuning; customer concentration is undisclosed.",
+  "distance_sources": [
+   {
+    "label": "Applied Compute: $100M run rate, $350M raise, 40% of customers use training and inference (Nov 2026)",
+    "url": "https://www.appliedcompute.com/company/100m-run-rate-fundraise"
+   },
+   {
+    "label": "Forbes: trains custom open-source models and runs them on its own cloud; customers DoorDash, Nvidia, Harvey (Sep 2026)",
+    "url": "https://www.forbes.com.au/news/innovation/meet-the-ex-openai-guys-building-a-cheaper-open-source-alternative"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
+ },
+ {
+  "name": "Sentra",
+  "slug": "sentra",
+  "site": "https://sentra.io",
+  "careers_url": "https://www.comeet.com/jobs/sentra/87.00B",
+  "what_they_do": "Finds sensitive company data and controls which people and AI agents can access it",
+  "problem": "Security teams can't see where sensitive data sits or what copilots and AI agents can reach",
+  "industry": "Cybersecurity / data security (DSPM)",
+  "stage": "Series C",
+  "last_round": "$150M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Capital One Ventures",
+  "total_open_roles": "18",
+  "ops_roles": "Technical Account Manager; Devops & Deployment",
+  "hiring_trend": "Headcount ~85 (Apr 2025) to ~130 (Nov 2026); plans to double staff; 18 open roles (Nov 2026)",
+  "headcount": "~130",
+  "latest_news": "Raised $150M Series C led by Capital One Ventures; total funding over $250M",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/sentra-raises-150-million-for-agentic-data-security-as-enterprise-ai-adoption-accelerates-302928476.html",
+  "traction": "Claims 300%+ YoY growth, ~100 large enterprise customers, tens of millions in revenue",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.25",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "4.3",
+  "glassdoor_reviews": "8",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Sentra-Reviews-E8057594.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 4, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Strong #2-tier DSPM player with ~100 enterprise customers and tens of millions in revenue, but well behind category leader Cyera (~$150M ARR, $9-12B valuation) and squeezed by Microsoft Purview and Varonis bundles.",
+  "distance_sources": [
+   {
+    "label": "Calcalist: Sentra has ~100 enterprise customers, tens of millions in revenue, competes with Cyera and Varonis (Nov 2026)",
+    "url": "https://www.calcalistech.com/ctechnews/article/s1jextotml"
+   },
+   {
+    "label": "Sacra: Cyera estimated at $150M ARR (May 2026), $9B Series F valuation, Microsoft Purview a key bundled rival",
+    "url": "http://sacra.com/c/cyera"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Pliant",
+  "slug": "pliant",
+  "site": "https://www.getpliant.com",
+  "careers_url": "https://jobs.ashbyhq.com/pliant",
+  "what_they_do": "Commercial cards, payment accounts, FX and spend management, open to AI agents via MCP",
+  "problem": "Businesses, banks and software platforms need licensed, controllable card and payment rails without building them in-house",
+  "industry": "Fintech / B2B payments",
+  "stage": "Series C",
+  "last_round": "$80M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Seaya Nova, Speedinvest",
+  "total_open_roles": "39",
+  "ops_roles": "Growth Operations Analyst - US; Partnerships Enablement Manager - US; Payment Program Manager - Card Issuing; Fraud Operations Specialist",
+  "hiring_trend": "Headcount 156 (Q2 2024) to 300+ (2026); +7.7% YoY per Revelio, +45% per LinkedIn; 25 of 39 open roles posted since Aug 2026",
+  "headcount": "~300-370",
+  "latest_news": "Raised $80M Series C to open B2B payments to AI agents and expand in North America",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.getpliant.com/en/press/80-million-series-c",
+  "traction": "Passed $100M ARR (Jul 2026), says business doubled 3 years running; 5,000+ business customers (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.25",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "3.4",
+  "glassdoor_reviews": "29",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Pliant-Reviews-E6770019.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 4, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "One of Europe's largest commercial-card platforms ($100M+ ARR, own EU e-money licence, Visa/Mastercard principal member) whose white-label programs for banks like Commerzbank and Volksbanken are hard to rip out; in the US it is a newcomer behind Ramp and Brex.",
+  "distance_sources": [
+   {
+    "label": "Pliant: $80M Series C, $100M+ ARR, principal Visa/Mastercard member, banks and platforms build on it (Nov 2026)",
+    "url": "https://www.getpliant.com/en/press/80-million-series-c"
+   },
+   {
+    "label": "TNW: Pliant Series C, US rival Ramp at $60bn valuation (Nov 2026)",
+    "url": "http://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest"
+   },
+   {
+    "label": "Pliant press: Commerzbank and six Volksbanken run card programs on Pliant (2024-2025)",
+    "url": "https://www.getpliant.com/en-us/press"
+   }
+  ],
+  "hiring_locations": [
+   "Berlin",
+   "London",
+   "Remote (Europe)",
+   "Remote (US)"
   ]
  }
 ]

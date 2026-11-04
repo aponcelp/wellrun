@@ -233,6 +233,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "applied-compute": {
+  "url": "https://cdn.sanity.io/images/rda7lbmb/production/d1d43c6d465cb509affcbd33fe3ae0ed6c250f39-1200x630.png?w=1200&q=90&auto=format",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-04"
+ },
  "applied-intuition": {
   "url": "https://cdn.sanity.io/images/a86leg7v/production/7e96db00d9bd9a6aa41194e2b8dbae2d8af500dd-1200x630.png?w=1200&h=630",
   "kind": "og",
@@ -2717,6 +2723,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "pliant": {
+  "url": "https://a.storyblok.com/f/169635/1200x630/92b10eaf7c/pliant-og-image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-04"
+ },
  "pluto-security": {
   "url": "https://pluto.security/wp-content/uploads/2026/07/og-image-global.png",
   "kind": "og",
@@ -3166,6 +3178,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "sentra": {
+  "url": "https://sentra.io/og-image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-04"
  },
  "sentry": {
   "url": "https://sentry.io/_astro/home-hero-meta.DJDejDMD.webp",
