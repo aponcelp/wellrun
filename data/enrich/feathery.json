@@ -1,0 +1,94 @@
+{
+  "slug": "feathery",
+  "checked": "Nov 4, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~64",
+    "as_of": "Jun 2026",
+    "source": "https://www.reveliolabs.com/companies/feathery/employees"
+  },
+  "leadership": [
+    {
+      "name": "Peter Dun",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.forbes.com/profile/feathery/"
+    },
+    {
+      "name": "Zack Khan",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.fintechfutures.com/venture-capital-funding/wealthtech-feathery-series-a-30m-total-funding"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-04",
+      "amount": "$4.5M",
+      "valuation": null,
+      "lead": "Index Ventures, Bain Capital Ventures (co-leads)",
+      "source": "https://www.fintechfutures.com/venture-capital-funding/wealthtech-feathery-series-a-30m-total-funding"
+    },
+    {
+      "round": "Strategic",
+      "date": "2025-10",
+      "amount": null,
+      "valuation": null,
+      "lead": "Erie Strategic Ventures",
+      "source": "https://www.feathery.io/blog/feathery-secures-investment-from-erie-strategic-ventures-to-accelerate-ai-powered-data-intake"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-07",
+      "amount": "~$25M (not disclosed; Seedtable ~$25M, PitchBook $26M)",
+      "valuation": null,
+      "lead": "Portage Ventures",
+      "source": "https://seedtable.com/companies/feathery/funding-rounds/series-a-2026-07"
+    }
+  ],
+  "total_raised": "$30M",
+  "revenue_est": {
+    "value": "~$12M revenue expected for 2025",
+    "as_of": "Jan 2026",
+    "basis": "company-stated",
+    "source": "https://www.forbes.com/profile/feathery/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Named to CB Insights Insurtech 50",
+      "url": "https://www.linkedin.com/posts/zackkhan101_feathery-was-named-on-the-cb-insights-insurtech-activity-7508948274289106945-4Y1o"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launches Robin, AI operations assistant for financial services",
+      "url": "https://www.businesswire.com/news/home/20260909110807/en/Feathery-Launches-Robin-the-AI-Operations-Assistant-for-Financial-Services"
+    },
+    {
+      "date": "2026-07",
+      "headline": "RFG Advisory ($8B AUA) adopts Feathery for advisor transitions",
+      "url": "https://www.prnewswire.com/news-releases/rfg-advisory-accelerates-advisor-transitions-with-feathery-enabling-faster-day-one-execution-302835925.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Closes Series A led by Portage; $30M total raised, 300+ firms served",
+      "url": "https://www.fintechfutures.com/venture-capital-funding/wealthtech-feathery-series-a-30m-total-funding"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Erie Strategic Ventures invests to expand insurance data intake",
+      "url": "https://www.feathery.io/blog/feathery-secures-investment-from-erie-strategic-ventures-to-accelerate-ai-powered-data-intake"
+    }
+  ],
+  "competitors": [
+    "Unqork",
+    "Formstack",
+    "Docubee",
+    "Fenergo"
+  ]
+}

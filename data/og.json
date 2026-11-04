@@ -83,6 +83,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "aegisai": {
+  "url": "https://cdn.prod.website-files.com/6a9a4e7fad2f0ef96c77777c/6aa41e3ed7aa49d4d52fb041_AegisAI_OG_Image_1200x630.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-04"
+ },
  "affinity": {
   "url": "https://cdn.prod.website-files.com/69e63af550c7ba21cdac9029/6a4bc58bcd7fe64c7039f999_41ad633027b129917f4f24362cf2991e_Opengraph_Affinity.webp",
   "kind": "og",
@@ -1235,11 +1241,23 @@
   "type": "image/webp",
   "checked": "2026-10-19"
  },
+ "fazeshift": {
+  "url": "https://www.fazeshift.com/opengraph-image",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-04"
+ },
  "featherless-ai": {
   "url": "https://cdn.prod.website-files.com/6979c6c70c21b50639123793/69a171cf1a87499ba814df9c_OG%20Image_%20Home.png",
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "feathery": {
+  "url": "https://cdn.prod.website-files.com/5994ba20a9572800013a4d4d/6a558eab415baa87d17afa03_feathery_homepage_7_26.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-04"
  },
  "felix-pago": {
   "url": "https://cdn.prod.website-files.com/663002023d3d42ffa6937084/6a79fb1be38f5ed744495a8c_OG%20image%20-%20es.jpg",
@@ -2716,6 +2734,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "poetic": {
+  "url": "https://poetic.com/og.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-04"
  },
  "point-me": {
   "url": "https://www.point.me/marketing/og/717BG0iHjkYiB4lTu1vbp4.jpg",

@@ -1,0 +1,76 @@
+{
+  "slug": "aegisai",
+  "checked": "Nov 4, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~34",
+    "as_of": "Jul 2026",
+    "source": "https://pitchbook.com/profiles/company/975620-89"
+  },
+  "leadership": [
+    {
+      "name": "Cy Khormaee",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+    },
+    {
+      "name": "Ryan Luo",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconangle.com/2025/09/11/aegisai-raises-13m-protect-business-users-email-attacks/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-09",
+      "amount": "$13M",
+      "valuation": null,
+      "lead": "Accel, Foundation Capital",
+      "source": "https://techcrunch.com/2025/09/10/googles-former-security-leads-raise-13m-to-fight-email-threats-before-they-reach-you/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-07",
+      "amount": "$36M",
+      "valuation": null,
+      "lead": "Battery Ventures",
+      "source": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+    }
+  ],
+  "total_raised": "$49M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches Proteus, its own foundational model for email security",
+      "url": "https://www.prnewswire.com/news-releases/aegisai-launches-proteus-the-first-foundational-model-for-email-security-that-investigates-every-email-like-a-security-analyst-before-it-reaches-the-inbox-302901929.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Raises $36M Series A led by Battery Ventures; $49M total, dozens of customers",
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Launches Vanguard threat-hunting agent and AI email threat study",
+      "url": "https://www.prnewswire.com/news-releases/ai-email-attacks-grew-5x-in-2025-aegisai-launches-vanguard-to-neutralize-adversarial-ai-captchas-302709409.html"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Emerges from stealth with $13M seed co-led by Accel and Foundation Capital",
+      "url": "https://techcrunch.com/2025/09/10/googles-former-security-leads-raise-13m-to-fight-email-threats-before-they-reach-you/"
+    }
+  ],
+  "competitors": [
+    "abnormal-ai",
+    "Ocean",
+    "Proofpoint",
+    "Mimecast"
+  ]
+}
