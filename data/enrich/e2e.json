@@ -1,0 +1,69 @@
+{
+  "slug": "e2e",
+  "checked": "Nov 3, 2026",
+  "founded": 2026,
+  "hq": "Warsaw, Poland (San Francisco office planned)",
+  "headcount_est": {
+    "value": "~8",
+    "as_of": "Nov 2026",
+    "source": "https://www.pb.pl/startup-testerarmy-zmienil-nazwe-i-strategie-jako-e2e-pozyskal-dodatkowe-8-mln-usd-1269873"
+  },
+  "leadership": [
+    {
+      "name": "Szymon Rybczak",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://e2e.com/team"
+    },
+    {
+      "name": "Oskar Kwaśniewski",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://e2e.com/team"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2026-09",
+      "amount": "$1.2M",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://xyz.pl/poland-unpacked/from-test-scripts-to-ai-agents-testerarmy-targets-the-us-market-1132/"
+    },
+    {
+      "round": "Seed",
+      "date": "2026-11",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "Credo Ventures",
+      "source": "https://eustartups.news/polish-startup-e2e-secures-e7-million-seed-funding-to-build-ai-powered-testing-framework/"
+    }
+  ],
+  "total_raised": "$9.2M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "TesterArmy renamed e2e; raised $8M seed from Credo, KAYA, Point Nine, Baobab, Script",
+      "url": "https://e2e.com/blog/seed"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Launched open-source e2e testing framework for web, iOS and Android",
+      "url": "https://dev.to/testerarmy/introducing-e2e-open-source-agentic-testing-for-web-ios-and-android-4flb"
+    },
+    {
+      "date": "2026-09",
+      "headline": "TesterArmy closed ~$1.2M pre-seed with YC, AIP Seed, Eight Capital, Script Capital",
+      "url": "https://xyz.pl/poland-unpacked/from-test-scripts-to-ai-agents-testerarmy-targets-the-us-market-1132/"
+    }
+  ],
+  "competitors": [
+    "Playwright",
+    "QA Wolf",
+    "LambdaTest"
+  ]
+}
