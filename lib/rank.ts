@@ -162,7 +162,8 @@ export const SORT_KEYS: SortKey[] = ["fastest", "distance"];
 export const toSortKey = (v: unknown): SortKey => (SORT_KEYS as unknown[]).includes(v) ? (v as SortKey) : "fastest";
 const tie = (a: Row, b: Row) => (b.score - a.score) || (a.distI - b.distI) || (b.rev - a.rev) || byName(a, b);
 export const SORTS: Record<SortKey, (a: Row, b: Row) => number> = {
-  fastest: (a, b) => (zoneIndex(a.zone) - zoneIndex(b.zone)) || tie(a, b),
+  // Rows arrive in paceSorted order (editor pins applied), so keep that rank.
+  fastest: (a, b) => (a.rank - b.rank) || (zoneIndex(a.zone) - zoneIndex(b.zone)) || tie(a, b),
   distance: (a, b) => (a.distI - b.distI) || (zoneIndex(a.zone) - zoneIndex(b.zone)) || (b.score - a.score) || (b.rev - a.rev) || byName(a, b),
 };
 export const SORT_NOTE: Record<SortKey, string> = {
