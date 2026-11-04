@@ -39075,5 +39075,51 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "e2e",
+  "slug": "e2e",
+  "site": "https://e2e.com",
+  "careers_url": "https://e2e.com/careers",
+  "what_they_do": "Open-source framework that tests web, iOS and Android apps from plain-language checks",
+  "problem": "Coding agents ship code faster than anyone can review it, so teams can't trust their apps actually work",
+  "industry": "Developer tools / AI software testing",
+  "stage": "Seed",
+  "last_round": "$8M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Credo Ventures, KAYA",
+  "total_open_roles": "3",
+  "ops_roles": "Chief of Staff",
+  "hiring_trend": "Tiny: ~8 staff, plans to grow to ~15 in coming months (pb.pl, Nov 2026)",
+  "headcount": "~6-8",
+  "latest_news": "TesterArmy renamed e2e, raised $8M seed; sunsetting original TesterArmy platform Jan 2027",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://e2e.com/blog/seed",
+  "traction": "1.5M npm downloads and 12.9K GitHub stars in first month; 70+ paying customers on prior product",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 3, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Very early: a month-old open-source framework with fast developer adoption (1.5M downloads, 12.9K stars) but revenue still small; the paid cloud launches in 2027 and it competes with Microsoft's Playwright and many AI-testing startups.",
+  "distance_sources": [
+   {
+    "label": "e2e blog: TesterArmy is now e2e, $8M seed, 1.5M downloads (Nov 2026)",
+    "url": "https://e2e.com/blog/seed"
+   },
+   {
+    "label": "XYZ: 70+ paying customers on TesterArmy, revenue at scale expected next year (Nov 2026)",
+    "url": "https://xyz.pl/polski-startup-zebral-8-mln-dolarow-w-tydzien-przekonal-inwestorow-do-rozpoczecia-od-zera/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
