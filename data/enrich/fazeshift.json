@@ -1,0 +1,125 @@
+{
+  "slug": "fazeshift",
+  "checked": "Nov 4, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~44",
+    "as_of": "Nov 2026",
+    "source": "https://www.tipranks.com/private-companies/fazeshift"
+  },
+  "leadership": [
+    {
+      "name": "Caitlin Leksana",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/caitlinleksana/",
+      "source": "https://www.fazeshift.com/about"
+    },
+    {
+      "name": "Timmy Galvin",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/timmygalvin/",
+      "source": "https://www.fazeshift.com/about"
+    },
+    {
+      "name": "Mimi Coleman",
+      "title": "Head of Strategy & Operations",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/nyamekyecoleman/",
+      "source": "https://www.fazeshift.com/about"
+    },
+    {
+      "name": "Garrett Miller",
+      "title": "Head of Sales",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/garrett-miller-/",
+      "source": "https://www.fazeshift.com/about"
+    },
+    {
+      "name": "Jonathan Busch",
+      "title": "Head of Finance",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/buschjon/",
+      "source": "https://www.fazeshift.com/about"
+    },
+    {
+      "name": "Chris Zehner",
+      "title": "VP of Engineering",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/cbzehner/",
+      "source": "https://www.fazeshift.com/about"
+    },
+    {
+      "name": "Caroline Ang Wright",
+      "title": "Head of Marketing",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/caroline-a-a986406/",
+      "source": "https://www.fazeshift.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-01",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": "Gradient Ventures",
+      "source": "https://www.businesswire.com/news/home/20250107180091/en/Fazeshift-Secures-%244MM-Seed-Round-Led-by-Gradient-to-Automate-Accounts-Receivable-with-AI"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-05",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "F-Prime Capital",
+      "source": "https://news.crunchbase.com/fintech/fazeshift-accounts-receivable-ai-finance-ops-startup-funding/"
+    },
+    {
+      "round": "Strategic",
+      "date": "2026-08",
+      "amount": "undisclosed",
+      "valuation": null,
+      "lead": "Amex Ventures",
+      "source": "https://www.businesswire.com/news/home/20260811465838/en/Fazeshift-Announces-Investment-from-Amex-Ventures"
+    }
+  ],
+  "total_raised": "$27M",
+  "revenue_est": {
+    "value": "~$7.8M (third-party estimate)",
+    "as_of": "May 2026",
+    "basis": "estimate",
+    "source": "https://www.inven.ai/data/companies/fazeshift-com"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "CEO: Q3 ARR bookings beat all of 2025; team passes 40 across SF and NYC",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7513234146333224960"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Amex Ventures makes strategic investment; push toward a broader CFO suite",
+      "url": "https://www.businesswire.com/news/home/20260811465838/en/Fazeshift-Announces-Investment-from-Amex-Ventures"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raises $17M Series A led by F-Prime; revenue up 12x, 8 unicorn customers",
+      "url": "https://news.crunchbase.com/fintech/fazeshift-accounts-receivable-ai-finance-ops-startup-funding/"
+    },
+    {
+      "date": "2025-01",
+      "headline": "Raises $4M seed led by Gradient Ventures after YC S24",
+      "url": "https://www.businesswire.com/news/home/20250107180091/en/Fazeshift-Secures-%244MM-Seed-Round-Led-by-Gradient-to-Automate-Accounts-Receivable-with-AI"
+    }
+  ],
+  "competitors": [
+    "HighRadius",
+    "Billtrust",
+    "Versapay",
+    "Stuut",
+    "monk"
+  ]
+}

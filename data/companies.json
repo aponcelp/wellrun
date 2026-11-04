@@ -12645,7 +12645,7 @@
   "name": "Hadrius",
   "slug": "hadrius",
   "site": "https://www.hadrius.com",
-  "careers_url": "https://jobs.ashbyhq.com/hadrius",
+  "careers_url": "https://www.workatastartup.com/companies/hadrius",
   "what_they_do": "AI-native compliance platform for RIAs and financial firms",
   "problem": "Compliance teams at wealth managers review communications and filings by hand",
   "industry": "Regtech / compliance",
@@ -12653,17 +12653,17 @@
   "last_round": "$22M ($27M total raised)",
   "last_round_date": "Jul 2026",
   "lead_investors": "",
-  "total_open_roles": "0",
-  "ops_roles": "",
-  "hiring_trend": "~50 staff at Q2 2026 (Harmonic); no open roles listed",
-  "headcount": "~50",
+  "total_open_roles": "7",
+  "ops_roles": "Strategic Finance and Operations Manager (NYC)",
+  "hiring_trend": "~80 staff (YC, Nov 2026), up from ~50 in Q2; 7 open roles",
+  "headcount": "~80",
   "latest_news": "Raised $22M Series A to build agentic compliance infrastructure",
   "latest_news_date": "Jul 2026",
   "latest_news_url": "https://www.hadrius.com/insights/series-a",
-  "traction": "Wealth-management customers incl. Ritholtz",
+  "traction": "300+ financial institutions managing $4T+ AUM; multi-million ARR within 24 months of YC W23",
   "red_flags": "",
   "red_flags_sources": [],
-  "score": "2.25",
+  "score": "3.25",
   "zone": "Steady",
   "status": "new",
   "glassdoor_rating": "",
@@ -12671,7 +12671,7 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Nov 1, 2026",
+  "last_checked": "Nov 4, 2026",
   "engine": "Lock-in",
   "distance": "Unproven",
   "distance_why": "Early Series A with revenue undisclosed; too early to judge in RIA compliance.",
@@ -36293,7 +36293,7 @@
   "last_round": "$60M",
   "last_round_date": "May 2026",
   "lead_investors": "Andreessen Horowitz; Foundation Capital, Myriad Venture Partners, Osage University Partners participated",
-  "total_open_roles": "30",
+  "total_open_roles": "36",
   "ops_roles": "",
   "hiring_trend": "30+ staff at May 2026 raise → ~87 by Sep 2026 (Crustdata); engineering +457% YoY",
   "headcount": "~87",
@@ -36311,7 +36311,7 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Nov 1, 2026",
+  "last_checked": "Nov 4, 2026",
   "engine": "Data",
   "distance": "10K",
   "distance_why": "Strong enterprise wins, but migration work is project-based and must stick after go-live.",
@@ -36363,7 +36363,7 @@
   "glassdoor_url": "",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Nov 1, 2026",
+  "last_checked": "Nov 4, 2026",
   "engine": "Lock-in",
   "distance": "10K",
   "distance_why": "Runs credentialing inside customer workflows, but Medallion and Verifiable chase the same buyers.",
@@ -39121,5 +39121,309 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "AegisAI",
+  "slug": "aegisai",
+  "site": "https://www.aegisai.com",
+  "careers_url": "https://jobs.ashbyhq.com/aegis-ai",
+  "what_they_do": "AI agents and in-house models that stop phishing and email attacks before the inbox",
+  "problem": "AI-written spear phishing and BEC slip past rule-based email filters and fool employees",
+  "industry": "Cybersecurity / email security",
+  "stage": "Series A",
+  "last_round": "$36M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Battery Ventures",
+  "total_open_roles": "28",
+  "ops_roles": "BizOps Lead; Vice President of Operations; Strategic Finance Operations Leader; AI Alchemist",
+  "hiring_trend": "Team ~6 (Sep 2025) to ~30-50 (Oct 2026, est.); 21 of 28 open roles posted since Aug 2026",
+  "headcount": "~30-50",
+  "latest_news": "Launched Proteus, its own foundational model for email threat investigation",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/aegisai-launches-proteus-the-first-foundational-model-for-email-security-that-investigates-every-email-like-a-security-analyst-before-it-reaches-the-inbox-302901929.html",
+  "traction": "3 paying customers at Sep 2025 seed to dozens by Jul 2026 (Mesh, LangChain); team ~5x+",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.75",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 4, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Barely a year old with dozens of customers; trains its own email models on live traffic, but competes with Abnormal, Proofpoint, Mimecast and AI-native startups like Ocean, and has not published revenue or false-positive data.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: AegisAI raises $36M Series A, dozens of customers, rivals Abnormal and Ocean (Jul 2026)",
+    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+   },
+   {
+    "label": "PR Newswire: AegisAI launches Proteus model, false-positive data still to come (Oct 2026)",
+    "url": "https://www.prnewswire.com/news-releases/aegisai-launches-proteus-the-first-foundational-model-for-email-security-that-investigates-every-email-like-a-security-analyst-before-it-reaches-the-inbox-302901929.html"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Poetic",
+  "slug": "poetic",
+  "site": "https://poetic.com",
+  "careers_url": "https://jobs.ashbyhq.com/poetic",
+  "what_they_do": "AI that turns enterprise procedures into reliable, self-healing automated workflows",
+  "problem": "Banks and insurers can't automate multi-hour fraud, KYC and underwriting work because code is brittle and agents unreliable",
+  "industry": "Enterprise AI / process automation",
+  "stage": "Series A",
+  "last_round": "$50M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Kleiner Perkins",
+  "total_open_roles": "7",
+  "ops_roles": "Forward Deployed Strategist; Recruiting Operations Lead",
+  "hiring_trend": "Headcount ~18 → ~53 in 12 mo (+194%, LinkedIn); 41 → 50 Jul–Oct 2026 (Caplight)",
+  "headcount": "~50",
+  "latest_news": "TruckSmarter team joins; ex-CEO Dan Kao to lead operations, supply-chain push",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/markiewagner_thrilled-to-announce-that-daniel-kao-and-activity-7519096208099921920-DRpn",
+  "traction": "Eight-figure run rate and profitable in 2025 with 4 people; SoFi, AIG, Chime customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 4, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real production proof at SoFi, AIG and Chime with forward-deployed teams embedding in core workflows, but it is a young Series A player in a crowded enterprise-AI automation field (UiPath, Distyl, StackAI and the labs' own deployment teams).",
+  "distance_sources": [
+   {
+    "label": "Kleiner Perkins: eight-figure run rate, profitable in 2025, leads $50M Series A (Jun 2026)",
+    "url": "https://www.kleinerperkins.com/perspectives/poetic-turning-enterprise-procedures-into-evolving-software/"
+   },
+   {
+    "label": "PR Newswire: Poetic raises $50M Series A at $500M valuation (Jun 2026)",
+    "url": "https://www.prnewswire.com/news-releases/poetic-raises-50m-series-a-to-automate-the-worlds-most-complex-enterprise-processes-with-reliable-ai-302796939.html"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York"
+  ]
+ },
+ {
+  "name": "Fazeshift",
+  "slug": "fazeshift",
+  "site": "https://www.fazeshift.com",
+  "careers_url": "https://jobs.ashbyhq.com/fazeshift",
+  "what_they_do": "AI agents that run accounts receivable: invoicing, collections, cash application, disputes",
+  "problem": "Finance teams chase invoices and match payments by hand across ERPs, inboxes and portals, slowing cash",
+  "industry": "Finance automation / accounts receivable (AI agents)",
+  "stage": "Series A",
+  "last_round": "$17M",
+  "last_round_date": "May 2026",
+  "lead_investors": "F-Prime Capital (Series A); Amex Ventures strategic (Aug 2026)",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~9 → ~44 YoY on LinkedIn (+389%); 34 → 42 in one quarter (Caplight, Sep 2026); only 2 open roles now",
+  "headcount": "~44",
+  "latest_news": "Amex Ventures made a strategic investment to push beyond AR toward a CFO suite",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20260811465838/en/Fazeshift-Announces-Investment-from-Amex-Ventures",
+  "traction": "Revenue up 12x in a year; Q3 2026 ARR bookings beat all of 2025; 8 unicorn customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 4, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Deep ERP/bank/inbox integrations and forward-deployed implementation make it sticky once live, but it is a young follower in a crowded AR market behind HighRadius, Billtrust and Versapay, with AI-native rivals Stuut and Monk.",
+  "distance_sources": [
+   {
+    "label": "Fazeshift About: agents in ERP, bank, inbox; switch-from pages for HighRadius, Versapay, Billtrust, Stuut",
+    "url": "https://www.fazeshift.com/about"
+   },
+   {
+    "label": "FinTech Futures: Fazeshift $17M Series A, second AR start-up A after Monk (May 2026)",
+    "url": "https://www.fintechfutures.com/venture-capital-funding/fazeshift-lands-17m-series-a"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco"
+  ]
+ },
+ {
+  "name": "Feathery",
+  "slug": "feathery",
+  "site": "https://www.feathery.io",
+  "careers_url": "https://jobs.ashbyhq.com/feathery",
+  "what_they_do": "AI workflow platform automating onboarding, intake and underwriting for insurers and wealth firms",
+  "problem": "Insurers and wealth firms run hundreds of paper-heavy onboarding and intake processes by hand across disconnected systems",
+  "industry": "Insurtech / wealthtech workflow automation",
+  "stage": "Series A",
+  "last_round": "~$25M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Portage Ventures",
+  "total_open_roles": "18",
+  "ops_roles": "Forward Deployed Engineer; Solutions Engineer",
+  "hiring_trend": "Headcount ~28 → ~64 Q2 2025 to Q2 2026 (Revelio); postings 9 → 27 in 2026; 18 open now",
+  "headcount": "~60",
+  "latest_news": "Launched Robin, an AI operations assistant that builds workflows from plain English",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20260909110807/en/Feathery-Launches-Robin-the-AI-Operations-Assistant-for-Financial-Services",
+  "traction": "300+ insurance and wealth firms; profitable since 2024; ~$12M 2025 revenue expected (Forbes)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Feathery-Reviews-E11133598.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 4, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Embedded in 300+ insurers' and RIAs' onboarding via 150+ integrations; AI rivals crowding in.",
+  "distance_sources": [
+   {
+    "label": "FinTech Futures: Feathery Series A brings total funding to $30M (Jul 2026)",
+    "url": "https://www.fintechfutures.com/venture-capital-funding/wealthtech-feathery-series-a-30m-total-funding"
+   },
+   {
+    "label": "Business Wire: Feathery launches Robin (Sep 2026)",
+    "url": "https://www.businesswire.com/news/home/20260909110807/en/Feathery-Launches-Robin-the-AI-Operations-Assistant-for-Financial-Services"
+   }
+  ],
+  "hiring_locations": [
+   "Toronto",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Shackleton AI",
+  "slug": "shackleton-ai",
+  "site": "https://www.shackleton.ai",
+  "careers_url": "https://www.shackleton.ai/about",
+  "what_they_do": "AI-agent operating system that runs construction projects from site selection to turnover",
+  "problem": "Midsize contractors and multi-site owners juggle 7-10 disconnected tools and lose PM hours to admin",
+  "industry": "Construction tech / AI agents",
+  "stage": "Seed",
+  "last_round": "$5M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Battery Ventures",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "No public job board; ~2 roles seen on LinkedIn/aggregators (Founding AE, Founding Product Engineer, NY); LinkedIn team ~19 (Nov 2026)",
+  "headcount": "~19",
+  "latest_news": "Emerged from stealth with $5M seed led by Battery Ventures",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html",
+  "traction": "Launched Jun 2026; $1B+ project value managed across 15+ states (Red Lobster, Dog Haus); no revenue disclosed",
+  "red_flags": "Predecessor Ernest (same three founders, ~$20M raised through a Jan 2024 Series A) shrank ~50-54% in headcount YoY before the team restarted as a $5M seed software company",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn company data: Ernest 28 employees, -54.1% YoY",
+    "url": "https://linkedin.com/company/ernest-construction"
+   },
+   {
+    "label": "Caplight: Ernest raised $20.1M, last round Series A Jan 2024",
+    "url": "https://www.caplight.com/company/joinernest"
+   },
+   {
+    "label": "SEC Form D filings: Ernest Energy, Inc. ($13.35M + $6.7M, Jan 2024)",
+    "url": "https://www.formds.com/issuers/ernest-energy-inc"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 4, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Platform only launched in Jun 2026 and discloses project value, not revenue; aims to be the system of record for midsize GCs against Procore, Autodesk and AI-native rivals like Trunk Tools.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Shackleton launch, $5M seed, platform live since Jun 2026 with $1B+ project value (Nov 2026)",
+    "url": "https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html"
+   },
+   {
+    "label": "Unite.AI: $1B figure is project value, not revenue; Trunk Tools named as AI construction rival (Nov 2026)",
+    "url": "https://www.unite.ai/shackleton-ai-raises-5-million-seed-construction-ai-agents/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Phonic",
+  "slug": "phonic",
+  "site": "https://phonic.ai",
+  "careers_url": "https://jobs.ashbyhq.com/phonic",
+  "what_they_do": "Speech-to-speech voice models and an API for building production voice agents",
+  "problem": "Stitched speech-to-text, LLM and text-to-speech voice agents are slow, brittle and lose tone on real calls",
+  "industry": "Voice AI / AI models",
+  "stage": "Series A",
+  "last_round": "$27.5M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "First Round",
+  "total_open_roles": "7",
+  "ops_roles": "Founding GTM & Business Operations",
+  "hiring_trend": "Open roles 3 (Mar 2026) to 7 (Nov 2026); headcount ~23, +28% YoY (LinkedIn est.)",
+  "headcount": "~10-23",
+  "latest_news": "Launched Phonic-1 speech-to-speech model and announced $27.5M Series A led by First Round",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://phonic.ai/blog/phonic-1",
+  "traction": "Company claims ~20x growth in 2026; customers include Ashby, Maven AGI, Rho, a Fortune 50",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 4, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Two-year-old, ~10-23 person team whose model tops independent benchmarks, but it sells straight against OpenAI, Google and xAI voice models plus ElevenLabs, Vapi and Retell, and has published no revenue or retention data.",
+  "distance_sources": [
+   {
+    "label": "Phonic blog: Phonic-1 launch and $27.5M Series A, compares itself to GPT-Live, Grok Voice and Gemini Live (Oct 2026)",
+    "url": "https://phonic.ai/blog/phonic-1"
+   },
+   {
+    "label": "Magica: benchmarks show Phonic-1 leads on reliability but rivals are faster or cheaper; no retention data disclosed (Oct 2026)",
+    "url": "https://magica.com/news/phonic-raises-27-5m-for-phonic-1-agentic-speech-ai"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
  }
 ]

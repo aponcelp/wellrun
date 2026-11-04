@@ -1,0 +1,81 @@
+{
+  "slug": "poetic",
+  "checked": "Nov 4, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~50",
+    "as_of": "Oct 2026",
+    "source": "https://www.caplight.com/company/poetic"
+  },
+  "leadership": [
+    {
+      "name": "Markie Wagner",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/markiewagner",
+      "source": "https://www.prnewswire.com/news-releases/poetic-raises-50m-series-a-to-automate-the-worlds-most-complex-enterprise-processes-with-reliable-ai-302796939.html"
+    },
+    {
+      "name": "Daniel Kao",
+      "title": "Head of Operations (Business & Operations; ex-TruckSmarter CEO)",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/kaodaniel",
+      "source": "https://www.linkedin.com/posts/markiewagner_thrilled-to-announce-that-daniel-kao-and-activity-7519096208099921920-DRpn"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.caplight.com/company/poetic"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-06",
+      "amount": "$50M",
+      "valuation": "$500M",
+      "lead": "Kleiner Perkins",
+      "source": "https://www.prnewswire.com/news-releases/poetic-raises-50m-series-a-to-automate-the-worlds-most-complex-enterprise-processes-with-reliable-ai-302796939.html"
+    }
+  ],
+  "total_raised": "$50M+ (seed undisclosed)",
+  "revenue_est": {
+    "value": "Eight-figure run rate (≥$10M), profitable",
+    "as_of": "2025 (stated Jun 2026)",
+    "basis": "company-stated",
+    "source": "https://www.kleinerperkins.com/perspectives/poetic-turning-enterprise-procedures-into-evolving-software/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "TruckSmarter team joins Poetic; ex-CEO Dan Kao to lead operations",
+      "url": "https://www.linkedin.com/posts/markiewagner_thrilled-to-announce-that-daniel-kao-and-activity-7519096208099921920-DRpn"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Ex-SpaceX AI deployment lead joins to help lead sales",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7514468985447464960"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Exits stealth: $50M Series A at $500M led by Kleiner Perkins; Forge renamed Poetic",
+      "url": "https://www.prnewswire.com/news-releases/poetic-raises-50m-series-a-to-automate-the-worlds-most-complex-enterprise-processes-with-reliable-ai-302796939.html"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Names SoFi, AIG and Chime as customers for fraud, disputes, underwriting",
+      "url": "https://thenextweb.com/news/poetic-openai-50m-enterprise-automation-underwriting"
+    }
+  ],
+  "competitors": [
+    "UiPath",
+    "Distyl AI",
+    "StackAI",
+    "Sema4.ai",
+    "Relevance AI"
+  ]
+}

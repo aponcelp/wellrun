@@ -2633,6 +2633,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "phonic": {
+  "url": "https://phonic.ai/_landing/wf/6a26780bad2144a03e65dcec/6ae063dcf1a850b6ba842246_home_link_preview.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-04"
+ },
  "photoroom": {
   "url": "https://storyblok-cdn.photoroom.com/f/191576/2400x1260/5c12e4c46c/photoroom-og-generic.webp/m/1200x0/filters:format(jpeg):quality(80):no_upscale()",
   "kind": "og",
@@ -3184,6 +3190,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "shackleton-ai": {
+  "url": "https://www.shackleton.ai/og-image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-04"
  },
  "shade": {
   "url": "https://framerusercontent.com/assets/CZwcsAEfOXKWR15ALE4FrcylYlA.png",
