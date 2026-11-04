@@ -1,0 +1,75 @@
+{
+  "slug": "shackleton-ai",
+  "checked": "Nov 4, 2026",
+  "depth": "light",
+  "founded": 2026,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~19",
+    "as_of": "Nov 2026",
+    "source": "https://pitchbook.com/profiles/company/1396796-50"
+  },
+  "leadership": [
+    {
+      "name": "Michael Ragheb",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/mjragheb",
+      "source": "https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html"
+    },
+    {
+      "name": "Hassan Yasin",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/hyasin",
+      "source": "https://www.unite.ai/shackleton-ai-raises-5-million-seed-construction-ai-agents/"
+    },
+    {
+      "name": "Olexandr (Olex) Kaltsev",
+      "title": "Co-founder & CFO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/okaltsev",
+      "source": "https://www.unite.ai/shackleton-ai-raises-5-million-seed-construction-ai-agents/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-11",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "Battery Ventures",
+      "source": "https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html"
+    }
+  ],
+  "total_raised": "$5M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Emerges from stealth with $5M seed led by Battery Ventures; $1B+ project value on platform",
+      "url": "https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Registers Shackleton AI Inc. in Florida with a Miami (Wynwood) office",
+      "url": "https://www.bizprofile.net/fl/miami/shackleton-ai-inc"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Founders publicly spin the software out of their general contractor Ernest",
+      "url": "https://www.shackleton.ai/what-i-learned-running-a-35m-general-contractor"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Shackleton platform launches commercially",
+      "url": "https://www.unite.ai/shackleton-ai-raises-5-million-seed-construction-ai-agents/"
+    }
+  ],
+  "competitors": [
+    "Procore",
+    "Autodesk Construction Cloud",
+    "Trunk Tools",
+    "Buildertrend"
+  ]
+}

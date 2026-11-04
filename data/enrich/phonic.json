@@ -1,0 +1,77 @@
+{
+  "slug": "phonic",
+  "checked": "Nov 4, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~23",
+    "as_of": "Oct 2026",
+    "source": "https://tracxn.com/d/companies/phonic/__4TPVIPNDFpbV6xRNF8_OeUI3ZQMO-qYLkT5bm53BIx0"
+  },
+  "leadership": [
+    {
+      "name": "Moin Nadeem",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://jobs.ashbyhq.com/phonic/b74b2910-78d0-4f01-a87f-52af81f8f094"
+    },
+    {
+      "name": "Nikhil Murthy",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.veilstrat.com/companies/phonic"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-04",
+      "amount": "$4M",
+      "valuation": null,
+      "lead": "Lux Capital",
+      "source": "https://techcrunch.com/2025/04/03/end-to-end-voice-ai-solution-phonic-gets-backing-from-lux/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$27.5M",
+      "valuation": null,
+      "lead": "First Round",
+      "source": "https://phonic.ai/blog/phonic-1"
+    }
+  ],
+  "total_raised": "$31.5M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Launches Phonic-1 speech-to-speech model, #1 on Artificial Analysis index; $27.5M Series A led by First Round",
+      "url": "https://phonic.ai/blog/phonic-1"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Posts first business hire: Founding GTM & Business Operations, reporting to the CEO",
+      "url": "https://jobs.ashbyhq.com/phonic/b74b2910-78d0-4f01-a87f-52af81f8f094"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Newcomer reports an unannounced Series A from First Round and Felicis",
+      "url": "https://www.newcomer.co/p/investors-go-hard-for-voice-ai-with"
+    },
+    {
+      "date": "2025-04",
+      "headline": "Raises $4M seed led by Lux Capital for end-to-end voice AI",
+      "url": "https://techcrunch.com/2025/04/03/end-to-end-voice-ai-solution-phonic-gets-backing-from-lux/"
+    }
+  ],
+  "competitors": [
+    "elevenlabs",
+    "vapi",
+    "retell-ai",
+    "openai",
+    "Bland AI"
+  ]
+}

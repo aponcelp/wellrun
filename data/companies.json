@@ -39318,5 +39318,112 @@
    "Toronto",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Shackleton AI",
+  "slug": "shackleton-ai",
+  "site": "https://www.shackleton.ai",
+  "careers_url": "https://www.shackleton.ai/about",
+  "what_they_do": "AI-agent operating system that runs construction projects from site selection to turnover",
+  "problem": "Midsize contractors and multi-site owners juggle 7-10 disconnected tools and lose PM hours to admin",
+  "industry": "Construction tech / AI agents",
+  "stage": "Seed",
+  "last_round": "$5M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Battery Ventures",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "No public job board; ~2 roles seen on LinkedIn/aggregators (Founding AE, Founding Product Engineer, NY); LinkedIn team ~19 (Nov 2026)",
+  "headcount": "~19",
+  "latest_news": "Emerged from stealth with $5M seed led by Battery Ventures",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html",
+  "traction": "Launched Jun 2026; $1B+ project value managed across 15+ states (Red Lobster, Dog Haus); no revenue disclosed",
+  "red_flags": "Predecessor Ernest (same three founders, ~$20M raised through a Jan 2024 Series A) shrank ~50-54% in headcount YoY before the team restarted as a $5M seed software company",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn company data: Ernest 28 employees, -54.1% YoY",
+    "url": "https://linkedin.com/company/ernest-construction"
+   },
+   {
+    "label": "Caplight: Ernest raised $20.1M, last round Series A Jan 2024",
+    "url": "https://www.caplight.com/company/joinernest"
+   },
+   {
+    "label": "SEC Form D filings: Ernest Energy, Inc. ($13.35M + $6.7M, Jan 2024)",
+    "url": "https://www.formds.com/issuers/ernest-energy-inc"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 4, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Platform only launched in Jun 2026 and discloses project value, not revenue; aims to be the system of record for midsize GCs against Procore, Autodesk and AI-native rivals like Trunk Tools.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Shackleton launch, $5M seed, platform live since Jun 2026 with $1B+ project value (Nov 2026)",
+    "url": "https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html"
+   },
+   {
+    "label": "Unite.AI: $1B figure is project value, not revenue; Trunk Tools named as AI construction rival (Nov 2026)",
+    "url": "https://www.unite.ai/shackleton-ai-raises-5-million-seed-construction-ai-agents/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Phonic",
+  "slug": "phonic",
+  "site": "https://phonic.ai",
+  "careers_url": "https://jobs.ashbyhq.com/phonic",
+  "what_they_do": "Speech-to-speech voice models and an API for building production voice agents",
+  "problem": "Stitched speech-to-text, LLM and text-to-speech voice agents are slow, brittle and lose tone on real calls",
+  "industry": "Voice AI / AI models",
+  "stage": "Series A",
+  "last_round": "$27.5M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "First Round",
+  "total_open_roles": "7",
+  "ops_roles": "Founding GTM & Business Operations",
+  "hiring_trend": "Open roles 3 (Mar 2026) to 7 (Nov 2026); headcount ~23, +28% YoY (LinkedIn est.)",
+  "headcount": "~10-23",
+  "latest_news": "Launched Phonic-1 speech-to-speech model and announced $27.5M Series A led by First Round",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://phonic.ai/blog/phonic-1",
+  "traction": "Company claims ~20x growth in 2026; customers include Ashby, Maven AGI, Rho, a Fortune 50",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 4, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Two-year-old, ~10-23 person team whose model tops independent benchmarks, but it sells straight against OpenAI, Google and xAI voice models plus ElevenLabs, Vapi and Retell, and has published no revenue or retention data.",
+  "distance_sources": [
+   {
+    "label": "Phonic blog: Phonic-1 launch and $27.5M Series A, compares itself to GPT-Live, Grok Voice and Gemini Live (Oct 2026)",
+    "url": "https://phonic.ai/blog/phonic-1"
+   },
+   {
+    "label": "Magica: benchmarks show Phonic-1 leads on reliability but rivals are faster or cheaper; no retention data disclosed (Oct 2026)",
+    "url": "https://magica.com/news/phonic-raises-27-5m-for-phonic-1-agentic-speech-ai"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
  }
 ]
