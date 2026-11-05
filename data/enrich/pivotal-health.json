@@ -1,0 +1,95 @@
+{
+  "slug": "pivotal-health",
+  "checked": "Nov 5, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "New York, NY (Williamsburg, Brooklyn office); legal address Morrison, CO; offices in Santa Monica, CA and Provo/SLC, UT",
+  "headcount_est": {
+    "value": "~100-140",
+    "as_of": "Oct 2026",
+    "source": "https://linkedin.com/company/pivotal-health-ai"
+  },
+  "leadership": [
+    {
+      "name": "Max Mangum",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/01/20/3221732/0/en/Radix-Health-Rebrands-as-Pivotal-Health.html"
+    },
+    {
+      "name": "Josh Folds",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://pivotalhealth.ai/about-us"
+    },
+    {
+      "name": "Jonathan Crawley",
+      "title": "CFO (since Jun 2026)",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/jonathan-crawley-b50a7379",
+      "source": "https://linkedin.com/in/jonathan-crawley-b50a7379"
+    },
+    {
+      "name": "Felix Lung",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.caplight.com/company/pivotalhealth"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-03",
+      "amount": "$1.5M",
+      "valuation": null,
+      "lead": "Afore Capital (participants incl. Alumni Ventures, Coho Deeptech, Courtyard Ventures; unverified)",
+      "source": "https://indexed.vc/companies/pivotal-health"
+    },
+    {
+      "round": "Growth round (PitchBook: PE Growth)",
+      "date": "2025-12",
+      "amount": null,
+      "valuation": null,
+      "lead": "Bessemer Venture Partners",
+      "source": "https://www.bvp.com/companies/pivotal-health"
+    }
+  ],
+  "total_raised": "Undisclosed (about $1.5M seed plus an undisclosed Bessemer round)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Massachusetts Health & Hospital Association picks Pivotal as preferred IDR partner (75+ hospitals)",
+      "url": "https://pivotalhealth.ai/resources/massachusetts-health-hospital-association-selects-pivotal-health-as-strategic-idr-business-partner"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Healthcare Association Coalition names Pivotal exclusive IDR partner, reaching 350+ hospitals",
+      "url": "https://www.businesswire.com/news/home/20260820381044/en/Pivotal-Health-Partnership-Brings-IDR-Expertise-To-More-Than-350-Hospitals-Nationwide"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Hires Jonathan Crawley as CFO",
+      "url": "https://linkedin.com/in/jonathan-crawley-b50a7379"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Radix Health rebrands as Pivotal Health after 15x client growth in 2025",
+      "url": "https://www.globenewswire.com/news-release/2026/01/20/3221732/0/en/Radix-Health-Rebrands-as-Pivotal-Health.html"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Undisclosed round with Bessemer Venture Partners (date per Caplight; amount not public)",
+      "url": "https://www.caplight.com/company/pivotalhealth"
+    }
+  ],
+  "competitors": [
+    "HaloMD",
+    "Zotec Partners",
+    "Ventra Health",
+    "MPOWERHealth"
+  ]
+}

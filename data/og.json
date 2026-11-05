@@ -2693,6 +2693,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "pivotal-health": {
+  "url": "https://cdn.prod.website-files.com/695cce93f20b9d5376050dc0/696927752f6bd9dab6c8ead6_pivota-open-graph.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-05"
+ },
  "plaid": {
   "url": "https://plaid.com/assets/img/plaid-social-card-landscape.jpg",
   "kind": "og",

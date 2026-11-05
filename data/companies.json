@@ -39620,5 +39620,60 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Pivotal Health",
+  "slug": "pivotal-health",
+  "site": "https://pivotalhealth.ai",
+  "careers_url": "https://jobs.ashbyhq.com/pivotal-health",
+  "what_they_do": "Software plus managed service that runs No Surprises Act IDR disputes for providers",
+  "problem": "Out-of-network providers get underpaid by payers and lack the staff to work the complex federal dispute process",
+  "industry": "Healthcare RCM / reimbursement (IDR)",
+  "stage": "Venture-backed (Bessemer; PitchBook tags latest deal PE Growth)",
+  "last_round": "Undisclosed",
+  "last_round_date": "Dec 2025",
+  "lead_investors": "Bessemer Venture Partners",
+  "total_open_roles": "21",
+  "ops_roles": "Manager, IDR and Industry Relations; Analyst, State Dispute Operations; Principal Client Success Manager; Product Manager (Case Strategy)",
+  "hiring_trend": "LinkedIn ~138 staff, +376% YoY (Jul 2026, est.); 16 of 21 open roles posted since Sep 2026",
+  "headcount": "~100-140",
+  "latest_news": "Named preferred IDR partner of Massachusetts Health & Hospital Association (75+ hospitals)",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://pivotalhealth.ai/resources/massachusetts-health-hospital-association-selects-pivotal-health-as-strategic-idr-business-partner",
+  "traction": "200+ hospital-based clients, 15x client growth in 2025, 2.5M+ claims (company figures)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 5, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Fast-growing IDR vendor with RCM integrations and data from 2.5M+ claims, but it trails high-volume filers like HaloMD and in-house provider groups, and its whole market rests on No Surprises Act rules that CMS, Congress and payer lawsuits keep reshaping.",
+  "distance_sources": [
+   {
+    "label": "Pivotal Health: MHA partnership, 200+ hospital-based clients, 2.5M+ claims, 89% win rate (Sep 2026)",
+    "url": "https://pivotalhealth.ai/resources/massachusetts-health-hospital-association-selects-pivotal-health-as-strategic-idr-business-partner"
+   },
+   {
+    "label": "Health Affairs: 2025 IDR data, HaloMD, TeamHealth, Radiology Partners and SCP drive most disputes; payer suits pending (Mar 2026)",
+    "url": "https://www.healthaffairs.org/content/forefront/no-surprises-act-idr-process-early-look-2025-data"
+   },
+   {
+    "label": "Becker's: Senate HELP roundtables on legislative IDR fixes, House oversight letters (Sep 2026)",
+    "url": "https://www.beckerspayer.com/payer/5-no-surprises-act-updates-2/"
+   }
+  ],
+  "hiring_locations": [
+   "Williamsburg",
+   "Santa Monica",
+   "Provo",
+   "Remote (US)"
+  ]
  }
 ]
