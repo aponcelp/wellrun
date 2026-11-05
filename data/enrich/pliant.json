@@ -1,0 +1,133 @@
+{
+  "slug": "pliant",
+  "checked": "Nov 4, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "Berlin, Germany (US hub in New York; 8 offices; US launch Jul 2026)",
+  "headcount_est": {
+    "value": "300+",
+    "as_of": "Nov 2026",
+    "source": "https://www.getpliant.com/en/press/80-million-series-c"
+  },
+  "leadership": [
+    {
+      "name": "Malte Rau",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.getpliant.com/en/press/80-million-series-c"
+    },
+    {
+      "name": "Fabian Terner",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://research.crustdata.com/company/pliant"
+    },
+    {
+      "name": "Friedrich Hubel",
+      "title": "COO & Managing Director",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.getpliant.com/de/presse/friedrich-hubel-coo"
+    },
+    {
+      "name": "Paul Harrald",
+      "title": "CFO - Global",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.getpliant.com/en-us/press"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-08",
+      "amount": "$6.5M",
+      "valuation": null,
+      "lead": "Alstin",
+      "source": "https://www.getpliant.com/en-us/press"
+    },
+    {
+      "round": "Seed (extended)",
+      "date": "2021-12",
+      "amount": "€18M total seed",
+      "valuation": null,
+      "lead": "Alstin, Main Incubator, Saber",
+      "source": "https://www.getpliant.com/en-us/press"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-03",
+      "amount": "$28M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.getpliant.com/en-us/press"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2024-04",
+      "amount": "€18M+ (Series A total >€50M)",
+      "valuation": null,
+      "lead": "PayPal Ventures",
+      "source": "https://www.getpliant.com/en-us/press"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-04",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "Illuminate Financial, Speedinvest",
+      "source": "https://www.businessinsider.de/gruenderszene/business/fintech-pliant-erhaelt-35-millionen-euro-fuer-markteintritt-in-die-usa/"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-11",
+      "amount": "$80M",
+      "valuation": null,
+      "lead": "Seaya Nova, Speedinvest",
+      "source": "https://www.getpliant.com/en/press/80-million-series-c"
+    }
+  ],
+  "total_raised": "Nearly $200M equity",
+  "revenue_est": {
+    "value": "$100M+ ARR",
+    "as_of": "Jul 2026",
+    "basis": "company-stated",
+    "source": "https://www.getpliant.com/en/press/100m-arr"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Raises $80M Series C led by Seaya Nova and Speedinvest to open B2B payments to AI agents",
+      "url": "https://www.getpliant.com/en/press/80-million-series-c"
+    },
+    {
+      "date": "2026-10",
+      "headline": "UK subsidiary secures FCA authorisation",
+      "url": "https://fintech.global/tag/pliant"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Passes $100M ARR",
+      "url": "https://www.getpliant.com/en/press/100m-arr"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Launches in the US with Coastal as sponsor bank",
+      "url": "https://www.getpliant.com/en-us/press"
+    },
+    {
+      "date": "2025-04",
+      "headline": "Raises $40M Series B to expand to the US",
+      "url": "https://www.businessinsider.de/gruenderszene/business/fintech-pliant-erhaelt-35-millionen-euro-fuer-markteintritt-in-die-usa/"
+    }
+  ],
+  "competitors": [
+    "ramp",
+    "brex",
+    "Moss",
+    "Payhawk",
+    "Pleo"
+  ]
+}
