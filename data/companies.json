@@ -39574,5 +39574,51 @@
    "Remote (Europe)",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "SuperMe",
+  "slug": "superme",
+  "site": "https://www.superme.ai",
+  "careers_url": "https://www.superme.ai/careers",
+  "what_they_do": "Ask questions of AI profiles built from real operators' expertise, solo or in group chats",
+  "problem": "Builders can't easily reach seasoned operators for advice on hard business and career decisions",
+  "industry": "AI / professional network",
+  "stage": "Series A",
+  "last_round": "$20M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Forerunner (Kirsten Green)",
+  "total_open_roles": "2",
+  "ops_roles": "Community Lead",
+  "hiring_trend": "Small team ~13 (Oct 2026); 2 open roles, both SF, posted with the Series A",
+  "headcount": "~13",
+  "latest_news": "Raised $20M Series A led by Forerunner; launched group chats and Claude/ChatGPT access",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+  "traction": "~3,000 expert profiles, 30,000 conversations at Nov 2025 launch; 200+ Work Groups (company-claimed)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 4, 2026",
+  "engine": "Network",
+  "distance": "Unproven",
+  "distance_why": "Two-sided expert network that grows with each profile, but it is free with no revenue yet, has ~13 staff, and faces Delphi, Steno.ai and LinkedIn in AI expert profiles.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: SuperMe raises $20M, ~13 employees, free today with paid tiers planned (Oct 2026)",
+    "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/"
+   },
+   {
+    "label": "Upstarts Media: $6.8M seed, 3,000 profiles, not monetizing, rivals like Delphi (Nov 2025)",
+    "url": "https://www.upstartsmedia.com/p/superme-launches-ai-expert-network"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

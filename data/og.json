@@ -3467,6 +3467,12 @@
   "type": "image/gif",
   "checked": "2026-10-19"
  },
+ "superme": {
+  "url": "https://www.superme.ai/api/default_og_image",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-05"
+ },
  "surge-ai": {
   "url": "https://cdn.prod.website-files.com/68dc970bd6e945ea3fb0f426/68dcfd8def0efcd7e132e3fa_Open%20Graph%20Image.png",
   "kind": "og",
