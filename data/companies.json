@@ -39730,5 +39730,54 @@
    "Chicago",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Clutch",
+  "slug": "clutch",
+  "site": "https://withclutch.com",
+  "careers_url": "https://jobs.ashbyhq.com/withclutch",
+  "what_they_do": "Loan origination, account opening and AI agents built only for credit unions",
+  "problem": "Credit unions lose members to fintechs because applying for loans and accounts is slow and manual",
+  "industry": "Fintech / credit union lending & account opening",
+  "stage": "Series B",
+  "last_round": "$65M",
+  "last_round_date": "Jan 2025",
+  "lead_investors": "Alkeon Capital, Andreessen Horowitz",
+  "total_open_roles": "13",
+  "ops_roles": "Senior Manager, Business Operations; Director of Professional Services; Senior Engagement Manager; Senior Customer Success Manager",
+  "hiring_trend": "Headcount ~243 → ~282 Q2 2025 to Q2 2026 (Revelio, +16%), LinkedIn ~268 (+12% YoY); flat since Q4 2025; postings cooling (Revelio)",
+  "headcount": "~270-280",
+  "latest_news": "AI agents now serve 30M credit union members; six of ten largest CUs on platform",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://withclutch.com/press-releases/ai-agents-credit-unions/",
+  "traction": "Revenue 3x in 18 months, nearing $100M; 153% NRR; Deloitte Fast 500 #58 (1,692% 3-yr growth)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.2",
+  "glassdoor_reviews": "11",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/WithClutch-Reviews-E3540575.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 6, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Origination system wired into credit union cores at 200+ CUs incl. six of the ten largest, with 153% NRR and a second line (AI agents, lending automation) being adopted; still faces MeridianLink, Alkami/MANTL and Blend in a regulated, slow-buying niche.",
+  "distance_sources": [
+   {
+    "label": "Clutch: 6 of 10 largest CUs, revenue 3x, 153% NRR (Jun 2026)",
+    "url": "https://withclutch.com/press-releases/six-of-the-10-largest-u-s-credit-unions-now-run-on-clutchs-ai-platform-seventh-goes-live-in-july/"
+   },
+   {
+    "label": "Deloitte 2025 Technology Fast 500 rankings (Clutch #58, 1,692%)",
+    "url": "https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/deloitte-private/2025/us-2025-technology-fast-500-rankings.pdf"
+   }
+  ],
+  "hiring_locations": [
+   "Brazil",
+   "Remote (US)"
+  ]
  }
 ]

@@ -1,0 +1,90 @@
+{
+  "slug": "clutch",
+  "checked": "Nov 6, 2026",
+  "depth": "full",
+  "founded": 2020,
+  "hq": "San Francisco / Half Moon Bay, CA (remote-first; US and Brazil/LATAM teams)",
+  "headcount_est": {
+    "value": "~282 (Revelio, Jun 2026) / ~268 (LinkedIn, Tracxn Sep 2026)",
+    "as_of": "Jun-Sep 2026",
+    "source": "https://www.reveliolabs.com/companies/withclutch/employees"
+  },
+  "leadership": [
+    {
+      "name": "Nicholas Hinrichsen",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/nicholas-hinrichsen",
+      "source": "https://withclutch.com/press-releases/six-of-the-10-largest-u-s-credit-unions-now-run-on-clutchs-ai-platform-seventh-goes-live-in-july/"
+    },
+    {
+      "name": "Chris Coleman",
+      "title": "Co-founder & Chief Product Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.fintechfutures.com/venture-capital-funding/credit-union-tech-provider-clutch-raises-65m-series-b"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020",
+      "amount": null,
+      "valuation": null,
+      "lead": "Salt VC, Peterson Ventures (Parker Treacy)",
+      "source": "https://app.dealroom.co/companies/clutch_8"
+    },
+    {
+      "round": "Series A (incl. A-1, 2021-2022)",
+      "date": "2021-04",
+      "amount": "$41M",
+      "valuation": "$222M post (A-1, Apr 2022, Forge)",
+      "lead": "Andreessen Horowitz",
+      "source": "https://multiples.vc/private-comps/clutch-us"
+    },
+    {
+      "round": "Series B",
+      "date": "2025-01",
+      "amount": "$65M",
+      "valuation": "~$494M post (Forge est.)",
+      "lead": "Alkeon Capital Management",
+      "source": "https://withclutch.com/press-releases/credit-union-fintech-funding-series-b"
+    }
+  ],
+  "total_raised": "~$106M",
+  "revenue_est": "Approaching $100M (company, Jun 2026)",
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "30M credit union members now served by AI on Clutch; six of ten largest CUs are partners",
+      "url": "https://withclutch.com/press-releases/ai-agents-credit-unions/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Launched Lending Automation System (LAS); a dozen CUs signed",
+      "url": "https://withclutch.com/press-releases/clutch-launches-lending-automation-system-las/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Revenue tripled since Series B, nearing $100M; 153% NRR",
+      "url": "https://withclutch.com/press-releases/six-of-the-10-largest-u-s-credit-unions-now-run-on-clutchs-ai-platform-seventh-goes-live-in-july/"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Ranked #58 on Deloitte Technology Fast 500 (1,692% growth)",
+      "url": "https://withclutch.com/press-releases/clutch-deloitte-technology-fast-500/"
+    },
+    {
+      "date": "2025-01",
+      "headline": "Raised $65M Series B led by Alkeon Capital with a16z, TruStage Ventures, Peterson Partners",
+      "url": "https://withclutch.com/press-releases/credit-union-fintech-funding-series-b"
+    }
+  ],
+  "competitors": [
+    "MeridianLink",
+    "Alkami (MANTL)",
+    "Blend",
+    "Temenos",
+    "nCino"
+  ]
+}
