@@ -1,0 +1,98 @@
+{
+  "slug": "tinyfish",
+  "checked": "Nov 6, 2026",
+  "depth": "full",
+  "founded": 2024,
+  "hq": "Palo Alto, CA (offices in Los Altos, CA and Ho Chi Minh City, Vietnam)",
+  "headcount_est": {
+    "value": "~104 (LinkedIn, +108% YoY) / ~89 (Crustdata) / ~91 (Caplight, Sep 2026)",
+    "as_of": "Sep-Nov 2026",
+    "source": "https://www.linkedin.com/company/tinyfish-ai"
+  },
+  "leadership": [
+    {
+      "name": "Sudheesh Nair",
+      "title": "Co-founder & CEO (ex-ThoughtSpot CEO, ex-Nutanix)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/video/2026/03/11/sudheesh-nair-tinyfishai-ceo-a-fortt-knox-update.html"
+    },
+    {
+      "name": "Keith Zhai",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://technode.global/2026/10/29/silicon-valley-based-tinyfish-opens-vietnam-office-to-build-core-ai-agent-work/"
+    },
+    {
+      "name": "Shuhao Zhang",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.tinyfish.ai/blog/300-000-users-and-the-outcome-era"
+    },
+    {
+      "name": "Homer Wang",
+      "title": "Head of Product",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/09/24/3368649/0/en/tinyfish-launches-the-data-partners-alliance-opening-the-licensed-web-to-ai-agents.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-08",
+      "amount": "$47M",
+      "valuation": null,
+      "lead": "ICONIQ",
+      "source": "https://economictimes.indiatimes.com/tech/funding/ai-agent-startup-tinyfish-raises-47-million-in-iconiq-led-round/articleshow/123409891.cms"
+    }
+  ],
+  "total_raised": "$47M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Became an official web search partner for the Fireworks AI open-model ecosystem",
+      "url": "https://x.com/Tiny_Fish/status/2117690035004952882"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Opened Ho Chi Minh City office; platform passed 400K users and 500+ production teams",
+      "url": "https://technode.global/2026/10/29/silicon-valley-based-tinyfish-opens-vietnam-office-to-build-core-ai-agent-work/"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Listed as an official Claude plugin in the Claude Marketplace",
+      "url": "https://www.tinyfish.ai/blog/tinyfish-official-claude-plugin"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Hit 300K users vs a 100K-by-October goal",
+      "url": "https://www.tinyfish.ai/blog/300-000-users-and-the-outcome-era"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launched Data Partners Alliance with Crunchbase, Similarweb and 13 others; 40M+ web operations a month",
+      "url": "https://www.globenewswire.com/news-release/2026/09/24/3368649/0/en/tinyfish-launches-the-data-partners-alliance-opening-the-licensed-web-to-ai-agents.html"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Launched full platform: Search, Fetch, Browser and Agent under one API key",
+      "url": "https://www.marktechpost.com/2026/04/14/tinyfish-ai-releases-full-web-infrastructure-platform-for-ai-agents/"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Raised $47M Series A led by ICONIQ (team of ~25)",
+      "url": "https://economictimes.indiatimes.com/tech/funding/ai-agent-startup-tinyfish-raises-47-million-in-iconiq-led-round/articleshow/123409891.cms"
+    }
+  ],
+  "competitors": [
+    "Exa",
+    "Parallel Web Systems",
+    "Browserbase",
+    "Firecrawl",
+    "Bright Data"
+  ]
+}

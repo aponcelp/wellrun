@@ -3563,6 +3563,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "tinyfish": {
+  "url": "https://www.tinyfish.ai/opengraph-image",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-06"
+ },
  "titan-banking": {
   "url": "https://cdn.prod.website-files.com/6ab2bd23a6ffc77d56451f72/6ac422b2e54784a2eb97708d_titan-og.png",
   "kind": "og",

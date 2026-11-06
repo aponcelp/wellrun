@@ -39779,5 +39779,59 @@
    "Brazil",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "TinyFish",
+  "slug": "tinyfish",
+  "site": "https://www.tinyfish.ai",
+  "careers_url": "https://jobs.dover.com/TinyFish/careers/1499366e-a68d-43f0-91e2-bc016d9eb5ee",
+  "what_they_do": "Live-web infrastructure for AI agents: search, fetch, browser, agent and monitor APIs",
+  "problem": "AI agents break on the live web: logins, changing layouts, anti-bot walls and sites without APIs",
+  "industry": "AI infrastructure / web agents",
+  "stage": "Series A",
+  "last_round": "$47M",
+  "last_round_date": "Aug 2025",
+  "lead_investors": "ICONIQ",
+  "total_open_roles": "6",
+  "ops_roles": "HCMC - Support Engineer (Technical / Developer-Focused)",
+  "hiring_trend": "Headcount ~25 Aug 2025 → ~50 Mar 2026 → ~90-104 Nov 2026 (LinkedIn +108% YoY); only 6 live postings, down from ~25 listed in summer",
+  "headcount": "~90-104",
+  "latest_news": "Opened Ho Chi Minh City office; now an official Claude plugin and Fireworks search partner",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://technode.global/2026/10/29/silicon-valley-based-tinyfish-opens-vietnam-office-to-build-core-ai-agent-work/",
+  "traction": "400K+ users (Oct 2026), 500+ production teams, 40M+ web operations/month; no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Tiny-Fish-Reviews-E8278294.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 6, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Fast free-tier adoption (400K users) and enterprise logos (Google, DoorDash, ClassPass), but a crowded category where Exa and Parallel raised at ~$2B, Tavily was bought by Nebius, and search/fetch are given away free.",
+  "distance_sources": [
+   {
+    "label": "TNGlobal: TinyFish opens Vietnam office; 400K users, 500+ production teams (Oct 2026)",
+    "url": "https://technode.global/2026/10/29/silicon-valley-based-tinyfish-opens-vietnam-office-to-build-core-ai-agent-work/"
+   },
+   {
+    "label": "Sudheesh Nair on Bloomberg's AI search piece: Exa, Parallel, Tavily valuations (May 2026)",
+    "url": "https://www.linkedin.com/posts/sudheenair_bloomberg-ran-the-ai-search-piece-this-morning-activity-7462923480808861696-nECH"
+   },
+   {
+    "label": "GlobeNewswire: Data Partners Alliance; 40M+ web operations a month (Sep 2026)",
+    "url": "https://www.globenewswire.com/news-release/2026/09/24/3368649/0/en/tinyfish-launches-the-data-partners-alliance-opening-the-licensed-web-to-ai-agents.html"
+   }
+  ],
+  "hiring_locations": [
+   "Ho Chi Minh City",
+   "Palo Alto",
+   "San Francisco"
+  ]
  }
 ]
