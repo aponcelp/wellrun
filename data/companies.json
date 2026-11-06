@@ -39675,5 +39675,60 @@
    "Provo",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Kalepa",
+  "slug": "kalepa",
+  "site": "https://kalepa.com",
+  "careers_url": "https://job-boards.greenhouse.io/kalepa",
+  "what_they_do": "AI agents that run underwriting, operations, pricing and portfolio work for P&C insurers",
+  "problem": "Underwriters drown in broker submissions and slow manual review, so insurers quote late and pick risks poorly",
+  "industry": "Insurtech / AI underwriting",
+  "stage": "Series B",
+  "last_round": "$75M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Updata Partners",
+  "total_open_roles": "17",
+  "ops_roles": "Senior Implementation Project Manager; Enterprise Client Success Manager; Senior Manager, Revenue Operations; Strategic Partnerships Manager",
+  "hiring_trend": "Headcount ~65 → ~93 Jun 2025 to Jun 2026 (Revelio), LinkedIn ~69 (+53% YoY); active postings 17 → 51 2025 to 2026; plans to double headcount in 2027",
+  "headcount": "~70-95",
+  "latest_news": "Raised $75M Series B at $470M valuation led by Updata Partners",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://kalepa.com/news-posts/kalepa-raises-75-million-series-b",
+  "traction": "Revenue and customers tripled in a year; cash-flow positive 2+ years (company-stated); ~$5M ARR 2024 est.",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "18",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Kalepa-Reviews-E2322243.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 6, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Profitable underwriting platform embedded as the daily system of action at W.R. Berkley units, Bowhead, AmRisc, Munich Re and ~20 named insurers; trails better-funded Federato in a crowded field, and Guidewire could build in.",
+  "distance_sources": [
+   {
+    "label": "Kalepa: $75M Series B, revenue and customers 3x, cash-flow positive (Nov 2026)",
+    "url": "https://kalepa.com/news-posts/kalepa-raises-75-million-series-b"
+   },
+   {
+    "label": "Updata Partners: why we led Kalepa's Series B (Nov 2026)",
+    "url": "https://updata.com/updata-partners-viii-invests-in-kalepa/"
+   },
+   {
+    "label": "WillItSurvive: Kalepa vs Federato and Guidewire (Jul 2026)",
+    "url": "https://willitsurvive.net/c/kalepa/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Chicago",
+   "Remote (US)"
+  ]
  }
 ]

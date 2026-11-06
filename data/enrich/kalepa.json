@@ -1,0 +1,30 @@
+{
+  "slug": "kalepa",
+  "checked": "Nov 6, 2026",
+  "depth": "full",
+  "founded": 2018,
+  "hq": "New York, NY (remote-first; large engineering team in Poland)",
+  "headcount_est": {"value": "~93 (Revelio, Jun 2026) / ~69 (LinkedIn) / ~67 (Tracxn)", "as_of": "Jun-Oct 2026", "source": "https://www.reveliolabs.com/companies/kalepa/employees"},
+  "leadership": [
+    {"name": "Paul Monasterio", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://kalepa.com/news-posts/kalepa-raises-75-million-series-b"},
+    {"name": "Daniel Hillman", "title": "Co-founder & COO", "founder": true, "linkedin": "https://linkedin.com/in/dannyhillman", "source": "https://updata.com/updata-partners-viii-invests-in-kalepa/"},
+    {"name": "Garrett Schlesinger", "title": "CTO (ex-Affirm, since Oct 2026)", "founder": false, "linkedin": null, "source": "https://kalepa.com/news-posts/kalepa-appoints-garrett-schlesinger-as-cto"},
+    {"name": "David Meister", "title": "Chief Revenue Officer (ex-Addepar)", "founder": false, "linkedin": null, "source": "https://kalepa.com/news-posts/kalepa-raises-75-million-series-b"},
+    {"name": "Audrey Howell", "title": "Head of Product (ex-Palantir, since Mar 2026)", "founder": false, "linkedin": null, "source": "https://kalepa.com/news-posts/kalepa-appoints-audrey-howell-as-head-of-product"}
+  ],
+  "funding_history": [
+    {"round": "Seed", "date": "2019", "amount": "~$2M", "valuation": null, "lead": "IA Ventures", "source": "https://www.teardown.ai/companies/kalepa"},
+    {"round": "Series A", "date": "2021-09", "amount": "$14M", "valuation": null, "lead": "Inspired Capital", "source": "https://kalepa.com/news-posts/kalepa-raises-75-million-series-b"},
+    {"round": "Series B", "date": "2026-11", "amount": "$75M", "valuation": "$470M", "lead": "Updata Partners", "source": "https://kalepa.com/news-posts/kalepa-raises-75-million-series-b"}
+  ],
+  "total_raised": "$91M",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-11", "headline": "Raised $75M Series B at $470M valuation led by Updata Partners; revenue and customers tripled; plans to double headcount in 2027", "url": "https://kalepa.com/news-posts/kalepa-raises-75-million-series-b"},
+    {"date": "2026-10", "headline": "Hired Garrett Schlesinger (12 years at Affirm) as CTO", "url": "https://kalepa.com/news-posts/kalepa-appoints-garrett-schlesinger-as-cto"},
+    {"date": "2026-09", "headline": "Church Mutual selects Kalepa for underwriting operations at CM Vantage", "url": "https://kalepa.com/news-posts/church-mutual-selects-kalepas-professional-grade-ai-to-enhance-underwriting-operations-at-cm-vantage"},
+    {"date": "2026-03", "headline": "Appointed Audrey Howell (ex-Palantir) as Head of Product", "url": "https://kalepa.com/news-posts/kalepa-appoints-audrey-howell-as-head-of-product"},
+    {"date": "2025-12", "headline": "Beyond Risk selects Kalepa to scale its MGA affiliates", "url": "https://kalepa.com/news-posts/kalepas-underwriting-ai-platform-selected-by-beyond-risk-to-drive-scalable-mga-growth"}
+  ],
+  "competitors": ["Federato", "Sixfold", "Cytora", "furtherai", "Pace"]
+}
