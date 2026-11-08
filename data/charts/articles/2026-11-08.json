@@ -49,6 +49,35 @@
       ]
     },
     {
+      "heading": "The big deals",
+      "items": [
+        {
+          "slug": "shield-ai",
+          "name": "Shield AI",
+          "move": "#219 → #121",
+          "score": "4.0 → 4.5",
+          "zone": "Tempo → Race",
+          "why": "A $1B Series H at a $28.8B valuation, plus a deal to buy Echodyne for $5.3B."
+        },
+        {
+          "slug": "cresta",
+          "name": "Cresta",
+          "move": "#126 → #124",
+          "score": "4.5 → 4.5",
+          "zone": "Race → Race",
+          "why": "Salesforce agreed to buy it for a reported $2.7B (Nov 2), its 12th deal of 2026 after Braze ($5.66B), Fin, formerly Intercom ($3.6B), Contentful, Listen Labs, Loops and Rune. Inside Service Cloud, Cresta's voice agents reach every Salesforce service customer. Expected to close February to April 2027; until then it stays on the board."
+        },
+        {
+          "slug": "nooks",
+          "name": "Nooks",
+          "move": "#250 → #335",
+          "score": "4.0 → 3.5",
+          "zone": "Tempo → Tempo",
+          "why": "A $500M commitment from General Catalyst's Customer Value Fund, revenue-based money paid back from the sales it funds. It isn't equity, so it doesn't count as a round here; the drop is its October 2024 round aging out. Nooks cites 3x growth and 135% net revenue retention."
+        }
+      ]
+    },
+    {
       "heading": "The drops",
       "items": [
         {
@@ -160,9 +189,73 @@
       "items": []
     },
     {
-      "heading": "Also on the board",
-      "body": "Shield AI raised a $1B Series H at $28.8B and agreed to buy Echodyne for $5.3B, lifting it to Race. Salesforce agreed to buy Cresta, which stays on the board. Nooks got a $500M revenue-share commitment from General Catalyst, which does not count as a funding round.",
-      "items": []
+      "heading": "Most clicked",
+      "items": [
+        {
+          "slug": "rippling",
+          "name": "Rippling",
+          "move": "#113 → #112",
+          "score": "4.5 → 4.5",
+          "zone": "Race → Race",
+          "why": "The most-viewed company page this week."
+        },
+        {
+          "slug": "runlayer",
+          "name": "Runlayer",
+          "move": "#355 → #344",
+          "score": "3.5 → 3.5",
+          "zone": "Tempo → Tempo",
+          "why": "Right behind Rippling, most likely thanks to last week's feature."
+        }
+      ]
     }
-  ]
+  ],
+  "spotlight": {
+    "label": "Featured this week",
+    "slug": "casap",
+    "name": "Casap",
+    "tagline": "AI agents that run bank payment disputes end to end.",
+    "facts": [
+      {
+        "k": "Does",
+        "v": "Agents handle intake, investigation, evidence, chargebacks, recovery and customer updates. People make the judgment calls."
+      },
+      {
+        "k": "Money",
+        "v": "$56M Series B on Oct 28, 2026, led by Base10 with Experian and Synchrony. $90M raised in total."
+      },
+      {
+        "k": "Customers",
+        "v": "More than 100 banks, credit unions, fintechs and processors."
+      },
+      {
+        "k": "Traction",
+        "v": "Revenue up 10x since its Series A a year ago."
+      },
+      {
+        "k": "Next",
+        "v": "Fraud, collections, claims and other back-office work."
+      },
+      {
+        "k": "Risk",
+        "v": "Win-rate and fraud-loss figures are company-reported."
+      },
+      {
+        "k": "Board",
+        "v": "Tempo, 3.75"
+      }
+    ],
+    "why": "When I worked in fintech at Majority, I dealt with the disputes process firsthand. It's complex and very manual: evidence spread across systems, regulatory clocks running, and a call on whether each chargeback is even worth filing. It was obvious it could be automated. Casap does exactly that, using AI to work every dispute and file only the ones worth fighting and likely to win. It reports a 96% chargeback win rate against a 60% industry average, with cases resolved in 8 days instead of up to 90. Now it's using the new money to take on fraud, collections and claims.",
+    "sources": [
+      {
+        "label": "Series B announcement",
+        "url": "https://www.prnewswire.com/news-releases/casap-raises-56m-series-b-to-deliver-agentic-outcomes-for-financial-services-302921778.html"
+      },
+      {
+        "label": "Emergence Capital, The Hardest Job at the Bank",
+        "url": "https://www.emcap.com/thoughts/the-hardest-job-at-the-bank"
+      }
+    ]
+  },
+  "outro": "The chart re-ranks every Sunday."
 }
