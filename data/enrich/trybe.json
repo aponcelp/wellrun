@@ -1,0 +1,115 @@
+{
+  "slug": "trybe",
+  "checked": "Nov 8, 2026",
+  "depth": "light",
+  "founded": 2020,
+  "hq": "London, UK",
+  "headcount_est": {
+    "value": "~53",
+    "as_of": "Nov 2026",
+    "source": "https://linkedin.com/company/trybe-software"
+  },
+  "leadership": [
+    {
+      "name": "Ricky Daniels",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/ricky-daniels-80452679",
+      "source": "https://try.be/blog/trybe-five-elms-capital"
+    },
+    {
+      "name": "Steve Porter",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.spabusiness.com/press-releases/trybe-reaches-400-property-milestone-as-platform-expands-with-new-features-and-deepened-integrations/363262"
+    },
+    {
+      "name": "Will Taylor-Jackson",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://clearcube.law/insights/trybe-five-elms-capital/"
+    },
+    {
+      "name": "Sal Capizzi",
+      "title": "SVP, Growth & Marketing",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.spabusiness.com/wellness-products-and-services/Sal-Capizzi-joins-Trybe-to-drive-the-companys-plan-for-international-expansion/358350"
+    },
+    {
+      "name": "Erica Martin",
+      "title": "Sales Director, North America",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.spabusiness.com/wellness-products-and-services/erica-martin-joins-trybe-as-sales-director-for-north-america/362829"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-06",
+      "amount": "£300K",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.sondedata.com/company/12201800"
+    },
+    {
+      "round": "Seed extension",
+      "date": "2023-06",
+      "amount": "£236K",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.sondedata.com/company/12201800"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-01",
+      "amount": "$30M (£23M)",
+      "valuation": null,
+      "lead": "Five Elms Capital",
+      "source": "https://www.startupmag.co.uk/funding/trybe-2026-seriesa-funding/"
+    }
+  ],
+  "total_raised": "~$31M (incl. $30M Series A; Companies House shows ~£11.4M of new shares in Dec 2025, so part of the A may be secondary)",
+  "revenue_est": {
+    "value": "~$5.9M revenue (est.)",
+    "as_of": "Nov 2026",
+    "basis": "estimate",
+    "source": "https://www.zoominfo.com/c/five-nines-digital-ltd/430480109"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Named to Brex's Fall 2026 top 25 fastest-growing software vendors",
+      "url": "https://www.brex.com/journal/brex-benchmark-articles/top-25-fastest-growing-startups-of-fall-2026"
+    },
+    {
+      "date": "2026-10",
+      "headline": "State of Spa Revenue report: £181M analysed across 400 businesses",
+      "url": "https://www.spabusiness.com/wellness-news/Trybe-report-finds-93-per-cent-of-spa-bookings-come-through-packages/363807"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Reaches 400 properties; Belmond, Minor Hotels, Champneys partnerships",
+      "url": "https://www.spabusiness.com/press-releases/trybe-reaches-400-property-milestone-as-platform-expands-with-new-features-and-deepened-integrations/363262"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Launches Trybe Overnights booking engine for spa-inclusive stays",
+      "url": "https://www.hospitalitynet.org/news/4133018/introducing-trybe-overnights-the-latest-feature-from-trybe-software"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Raises $30M Series A from Five Elms Capital",
+      "url": "https://www.startupmag.co.uk/funding/trybe-2026-seriesa-funding/"
+    }
+  ],
+  "competitors": [
+    "Book4Time",
+    "SpaSoft",
+    "Zenoti",
+    "Mindbody"
+  ]
+}

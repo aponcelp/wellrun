@@ -39846,5 +39846,54 @@
    "Palo Alto",
    "San Francisco"
   ]
+ },
+ {
+  "name": "TRYBE",
+  "slug": "trybe",
+  "site": "https://try.be",
+  "careers_url": "https://apply.workable.com/trybe-2/",
+  "what_they_do": "All-in-one booking, payments and operations software for hotel spas, bathhouses and leisure venues",
+  "problem": "Spa and leisure operators juggle legacy booking, membership and payment systems, losing online bookings and drowning in admin",
+  "industry": "Hospitality software / spa & leisure management",
+  "stage": "Series A",
+  "last_round": "$30M",
+  "last_round_date": "Jan 2026",
+  "lead_investors": "Five Elms Capital",
+  "total_open_roles": "3",
+  "ops_roles": "Customer Onboarding Executive",
+  "hiring_trend": "LinkedIn headcount ~30 → 53 (+77% YoY), mostly UK, small US/Canada team; only 3 live postings",
+  "headcount": "~53",
+  "latest_news": "Named to Brex's Fall 2026 top 25 fastest-growing software vendors",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.brex.com/journal/brex-benchmark-articles/top-25-fastest-growing-startups-of-fall-2026",
+  "traction": "400+ properties (Jul 2026), up from 325+ in Jan; headcount +77% YoY; revenue undisclosed (~$6M est.)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 8, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast-growing modern challenger with luxury logos (Dorchester Collection, Belmond, Champneys) and payments built in, but a niche follower in hotel spa software behind Book4Time (now Agilysys), which serves major chains in 100+ countries.",
+  "distance_sources": [
+   {
+    "label": "Spa Business: Trybe reaches 400 properties, adds Belmond, Minor Hotels, Champneys (Jul 2026)",
+    "url": "https://www.spabusiness.com/press-releases/trybe-reaches-400-property-milestone-as-platform-expands-with-new-features-and-deepened-integrations/363262"
+   },
+   {
+    "label": "Agilysys acquires Book4Time, the global leader in spa management SaaS (Aug 2024)",
+    "url": "https://www.agilysys.com/en/news/agilysys-announces-strategic-acquisition-of-book4time-spa-management-saas-solution-leader-2/"
+   }
+  ],
+  "hiring_locations": [
+   "Dallas",
+   "London"
+  ]
  }
 ]
