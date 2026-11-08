@@ -1,6 +1,12 @@
 {
- "latest": "2026-11-01",
+ "latest": "2026-11-08",
  "weeks": [
+  {
+   "week": "2026-11-08",
+   "title": "Week of November 8, 2026",
+   "tracking": "Tracking Nov 2 – Nov 8, 2026",
+   "short": "Nov 8, 2026"
+  },
   {
    "week": "2026-11-01",
    "title": "Week of November 1, 2026",

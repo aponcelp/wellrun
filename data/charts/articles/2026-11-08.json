@@ -1,0 +1,168 @@
+{
+  "week": "2026-11-08",
+  "title": "Fal, OpenAI and Traversal lead a big-round week",
+  "lede": "Billion-dollar rounds pushed Fal and OpenAI up, Traversal and Applied Compute broke into the 100, and Heidi's layoffs dropped it 53 places. Five companies came in, five went out. A batch of April and October 2025 rounds also aged out of their funding bonus, which moved some scores down half a point.",
+  "sections": [
+    {
+      "heading": "The climbers",
+      "items": [
+        {
+          "slug": "traversal",
+          "name": "Traversal",
+          "move": "#255 → #42",
+          "score": "4.0 → 5.5",
+          "zone": "Tempo → Sprint",
+          "why": "A $120M Series B at a $1B valuation (Nov 3) plus 31 open roles."
+        },
+        {
+          "slug": "openai",
+          "name": "OpenAI",
+          "move": "#50 → #2",
+          "score": "5.0 → 5.5",
+          "zone": "Sprint → Sprint",
+          "why": "A first close of about $11B at a $1.25T valuation (Nov 6), with the round still open and expected to reach roughly $20B."
+        },
+        {
+          "slug": "fal-ai",
+          "name": "Fal",
+          "move": "#54 → #12",
+          "score": "5.0 → 5.5",
+          "zone": "Sprint → Sprint",
+          "why": "A $1.3B Series F led by Bessemer at a $16B valuation, double its April mark (Nov 3)."
+        },
+        {
+          "slug": "albert-invent",
+          "name": "Albert Invent",
+          "move": "#91 → #62",
+          "score": "4.75 → 5.0",
+          "zone": "Sprint → Sprint",
+          "why": "Open roles grew from 25 to 30, reaching full hiring points."
+        },
+        {
+          "slug": "valon",
+          "name": "Valon",
+          "move": "#45 → #20",
+          "score": "5.25 → 5.5",
+          "zone": "Sprint → Sprint",
+          "why": "Open roles grew from 27 to 31, reaching full hiring points."
+        }
+      ]
+    },
+    {
+      "heading": "The drops",
+      "items": [
+        {
+          "slug": "heidi-health",
+          "name": "Heidi Health",
+          "move": "#41 → #94",
+          "score": "5.5 → 4.75",
+          "zone": "Sprint → Sprint",
+          "why": "Open roles fell from 71 to 13 in the same week it cut about 18% of staff and two of its three co-founders announced they are leaving."
+        },
+        {
+          "slug": "hightouch",
+          "name": "Hightouch",
+          "move": "#20 → #55",
+          "score": "5.5 → 5.0",
+          "zone": "Sprint → Sprint",
+          "why": "Its April round passed six months old, so the funding credit stepped down."
+        },
+        {
+          "slug": "reflection-ai",
+          "name": "Reflection AI",
+          "move": "#44 → #82",
+          "score": "5.5 → 5.0",
+          "zone": "Sprint → Sprint",
+          "why": "Its April round passed six months old, so the funding credit stepped down."
+        },
+        {
+          "slug": "omni",
+          "name": "Omni",
+          "move": "#43 → #77",
+          "score": "5.5 → 5.0",
+          "zone": "Sprint → Sprint",
+          "why": "Its April round passed six months old, so the funding credit stepped down."
+        },
+        {
+          "slug": "rogo",
+          "name": "Rogo",
+          "move": "#27 → #60",
+          "score": "5.5 → 5.0",
+          "zone": "Sprint → Sprint",
+          "why": "Its April round passed six months old, so the funding credit stepped down."
+        },
+        {
+          "slug": "replit",
+          "name": "Replit",
+          "move": "#53 → #84",
+          "score": "5.0 → 4.75",
+          "zone": "Sprint → Sprint",
+          "why": "Open roles fell from 34 to 28, one step down in hiring points."
+        },
+        {
+          "slug": "firecrawl",
+          "name": "Firecrawl",
+          "move": "#70 → #89",
+          "score": "5.0 → 4.75",
+          "zone": "Sprint → Sprint",
+          "why": "Open roles fell from 30 to 25, one step down in hiring points."
+        }
+      ]
+    },
+    {
+      "heading": "The new entries",
+      "items": [
+        {
+          "slug": "traversal",
+          "name": "Traversal",
+          "move": "NEW at #42",
+          "score": "5.5",
+          "zone": "Sprint",
+          "why": "See above: $120M Series B at $1B."
+        },
+        {
+          "slug": "applied-compute",
+          "name": "Applied Compute",
+          "move": "NEW at #72",
+          "score": "5.0",
+          "zone": "Sprint",
+          "why": "A $350M Series C at a $3.25B valuation (Nov 4) with 15 open roles."
+        },
+        {
+          "slug": "xdof",
+          "name": "xDOF",
+          "move": "NEW at #96",
+          "score": "4.75",
+          "zone": "Sprint",
+          "why": "Moved up as the companies above it were re-scored."
+        },
+        {
+          "slug": "positron-ai",
+          "name": "Positron AI",
+          "move": "NEW at #98",
+          "score": "4.75",
+          "zone": "Sprint",
+          "why": "Moved up as the companies above it were re-scored."
+        },
+        {
+          "slug": "backops",
+          "name": "BackOps",
+          "move": "NEW at #99",
+          "score": "4.75",
+          "zone": "Sprint",
+          "why": "Moved up as the companies above it were re-scored."
+        }
+      ]
+    },
+    {
+      "heading": "The exits",
+      "body": "Resolve AI (#49), Loop (#72), Lila Sciences (#86), Avoca (#92) and Simile (#98) left the 100. Loop, Lila and Avoca lost half a point as their funding aged; they did not fall because of bad news.",
+      "items": []
+    },
+    {
+      "heading": "Also on the board",
+      "body": "Shield AI raised a $1B Series H at $28.8B and agreed to buy Echodyne for $5.3B, lifting it to Race. Salesforce agreed to buy Cresta, which stays on the board. Nooks got a $500M revenue-share commitment from General Catalyst, which does not count as a funding round.",
+      "items": []
+    }
+  ]
+}
