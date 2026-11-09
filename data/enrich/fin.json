@@ -1,0 +1,78 @@
+{
+  "slug": "fin",
+  "checked": "Nov 9, 2026",
+  "depth": "light",
+  "founded": 2022,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~21",
+    "as_of": "Nov 2026",
+    "source": "https://linkedin.com/company/fin-tech"
+  },
+  "leadership": [
+    {
+      "name": "Ian Krotinsky",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/ian-krotinsky-01a76554",
+      "source": "https://fortune.com/2025/12/03/former-citadel-employees-raise-17-million-for-fin/"
+    },
+    {
+      "name": "Aashiq Dheeraj",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fortune.com/2025/12/03/former-citadel-employees-raise-17-million-for-fin/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-01",
+      "amount": "$500K",
+      "valuation": null,
+      "lead": "Alameda Research",
+      "source": "https://app.dealroom.co/companies/fin_5"
+    },
+    {
+      "round": "Seed",
+      "date": "2022-07",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "Sequoia (with Paxos, Circle Ventures, Multicoin, Solana Ventures)",
+      "source": "https://app.dealroom.co/companies/fin_5"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-12",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "Pantera Capital",
+      "source": "https://www.prnewswire.com/news-releases/fin-raises-17m-to-launch-stablecoin-product-for-high-value-payments-302631117.html"
+    }
+  ],
+  "total_raised": "~$23.5M-$29.5M (Dealroom lists $0.5M + $6M seeds, a possible second $6M seed in Feb 2023, and the $17M Series A)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "CEO says Fin passed a $1B annualized payments run rate",
+      "url": "https://www.linkedin.com/posts/ian-krotinsky-01a76554_we-at-fin-have-now-surpassed-a-1-billion-activity-7518359274197098496-VGH9"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Three months after launch, processing $1M+ per day",
+      "url": "https://www.linkedin.com/posts/ian-krotinsky-01a76554_fin-jobs-activity-7452868980026949632-r2XB"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Rebrands from TipLink to Fin; raises $17M Series A led by Pantera",
+      "url": "https://fortune.com/2025/12/03/former-citadel-employees-raise-17-million-for-fin/"
+    }
+  ],
+  "competitors": [
+    "Bridge (Stripe)",
+    "BVNK (Mastercard)",
+    "Circle Payments Network"
+  ]
+}

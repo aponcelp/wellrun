@@ -683,6 +683,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "clerkie": {
+  "url": "https://clerkieapp.ai/clerkie/social/home.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-09"
+ },
  "clickhouse": {
   "url": "https://clickhouse.com/_next/image?url=%2Fopengraph-image.png&w=1200&h=630&q=75",
   "kind": "og",
@@ -1276,6 +1282,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "fin": {
+  "url": "https://www.fin.tech/fin_link_preview.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-09"
  },
  "finch": {
   "url": "https://cdn.prod.website-files.com/63dd790039a2b29044f7d608/64024687f813ceeca1ce0b47_finch-open-graph.webp",

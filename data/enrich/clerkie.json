@@ -1,0 +1,107 @@
+{
+  "slug": "clerkie",
+  "checked": "Nov 9, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~34",
+    "as_of": "Nov 2026",
+    "source": "https://www.linkedin.com/company/clerkie"
+  },
+  "leadership": [
+    {
+      "name": "Guy Assad",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.bankingdive.com/news/debt-repayment-fintech-clerkie-raises-33m-in-series-a/648105/"
+    },
+    {
+      "name": "Sebastian Wigström",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.bankingdive.com/news/debt-repayment-fintech-clerkie-raises-33m-in-series-a/648105/"
+    },
+    {
+      "name": "Gray Hoffman",
+      "title": "Co-founder (COO at Series A)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.bankingdive.com/news/debt-repayment-fintech-clerkie-raises-33m-in-series-a/648105/"
+    },
+    {
+      "name": "Johnny Krueger",
+      "title": "Chief Operating Officer",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/johndkrueger",
+      "source": "https://www.acainternational.org/events/convention-2026/speakers"
+    },
+    {
+      "name": "Mary Strebinger",
+      "title": "Head of People",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/company/clerkie"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-05",
+      "amount": "$6M",
+      "valuation": null,
+      "lead": "Flourish Ventures (co-lead)",
+      "source": "https://pitchbook.com/profiles/company/222605-29"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-04",
+      "amount": "$33M",
+      "valuation": null,
+      "lead": "Left Lane Capital",
+      "source": "https://www.prnewswire.com/news-releases/clerkie-raises-33m-series-a-funding-from-top-investors-to-address-the-broken-debt-system-301799886.html"
+    }
+  ],
+  "total_raised": "~$41M (company-stated)",
+  "revenue_est": {
+    "value": "~$2.1M revenue (est.)",
+    "as_of": "Nov 2026",
+    "basis": "estimate",
+    "source": "https://www.linkedin.com/company/clerkie"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "YesPress profiles Fiber: recovery CRM, inventory system and AI collections agent",
+      "url": "https://yespress.io/clerkie"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Platinum sponsor at BRAINSTORM collections-AI conference; CTO session on AI transition",
+      "url": "https://www.linkedin.com/posts/fiber-by-clerkie_brainstorm2026-accountsrecovery-activity-7500590827522420736-BAFp"
+    },
+    {
+      "date": "2026-07",
+      "headline": "COO Johnny Krueger speaks on AI across collections at ACA International convention",
+      "url": "https://www.acainternational.org/events/convention-2026/speakers"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Consumer Clerkie app removed from the App Store",
+      "url": "https://www.appbrain.com/appstore/clerkie-payoff-debt-bills-fees/ios-1132917036"
+    },
+    {
+      "date": "2023-04",
+      "headline": "Raises $33M Series A led by Left Lane Capital",
+      "url": "https://www.prnewswire.com/news-releases/clerkie-raises-33m-series-a-funding-from-top-investors-to-address-the-broken-debt-system-301799886.html"
+    }
+  ],
+  "competitors": [
+    "TrueAccord",
+    "InDebted",
+    "Prodigal",
+    "Finvi"
+  ]
+}

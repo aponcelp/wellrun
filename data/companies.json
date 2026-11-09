@@ -39895,5 +39895,121 @@
    "Dallas",
    "London"
   ]
+ },
+ {
+  "name": "Clerkie",
+  "slug": "clerkie",
+  "site": "https://www.clerkie.io",
+  "careers_url": "https://getfiber.ai/careers",
+  "what_they_do": "Fiber: AI debt-collection CRM, inventory system and AI agent for creditors and agencies",
+  "problem": "Creditors and collection agencies run delinquent debt on rigid legacy systems that recover less and frustrate borrowers",
+  "industry": "Fintech / debt collection & recovery software",
+  "stage": "Series A",
+  "last_round": "$33M",
+  "last_round_date": "Apr 2023",
+  "lead_investors": "Left Lane Capital",
+  "total_open_roles": "5",
+  "ops_roles": "Product Manager; Associate Product Manager",
+  "hiring_trend": "Shrinking: LinkedIn headcount 41 → 34 (-17% YoY); ~5-6 live postings, flat",
+  "headcount": "~34",
+  "latest_news": "Profiled for pivot to Fiber: recovery CRM, inventory system and AI collections agent",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://yespress.io/clerkie",
+  "traction": "Revenue ~$2-5M (est.); company says 70% lift in self-service payments; no ARR disclosed",
+  "red_flags": "Headcount down ~17% YoY on LinkedIn (41 to 34) with no new round since the Apr 2023 Series A. Not scored: consumer app pulled from the App Store Nov 2025; CA DFPI revoked Clerkie Lending LLC's lender license Dec 2023 (outside 24 mo).",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn: Clerkie employs 34 people (-17.1% YoY, -7 people)",
+    "url": "https://www.linkedin.com/company/clerkie"
+   },
+   {
+    "label": "Craft: Clerkie 41 employees (Jul 2025)",
+    "url": "https://craft.co/clerkie/human-capital"
+   },
+   {
+    "label": "Tracxn: Clerkie 34 employees (Aug 2026)",
+    "url": "https://tracxn.com/d/companies/clerkie/__ZfI7lh3JkjEdvX6bxFFLS-8e2IxdjiT0IMYYY4IaY-s"
+   },
+   {
+    "label": "AppBrain: Clerkie consumer app removed from App Store (Nov 2025)",
+    "url": "https://www.appbrain.com/appstore/clerkie-payoff-debt-bills-fees/ios-1132917036"
+   },
+   {
+    "label": "CA DFPI: Order revoking Clerkie Lending LLC license (Dec 2023)",
+    "url": "https://dfpi.ca.gov/enforcement_action/clerkie-lending-llc"
+   }
+  ],
+  "score": "0.5",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.1",
+  "glassdoor_reviews": "16",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Clerkie-Reviews-E2225218.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 9, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fiber is a sticky system of record for collection agencies (CRM, inventory, payments), but it is a small, shrinking follower in a crowded field with TrueAccord, InDebted, Prodigal and legacy platforms like Finvi ahead.",
+  "distance_sources": [
+   {
+    "label": "YesPress: Clerkie/Fiber profile, competitors TrueAccord and InDebted (Sep 2026)",
+    "url": "https://yespress.io/clerkie"
+   },
+   {
+    "label": "LinkedIn: Clerkie headcount 34, -17% YoY",
+    "url": "https://www.linkedin.com/company/clerkie"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Fin",
+  "slug": "fin",
+  "site": "https://fin.tech",
+  "careers_url": "https://jobs.ashbyhq.com/fin",
+  "what_they_do": "Stablecoin-powered business payments app for instant, high-value cross-border transfers",
+  "problem": "Moving large sums across borders by wire is slow, opaque and expensive for importers, exporters and global businesses",
+  "industry": "Payments / stablecoin infrastructure",
+  "stage": "Series A",
+  "last_round": "$17M",
+  "last_round_date": "Dec 2025",
+  "lead_investors": "Pantera Capital (with Sequoia, Samsung Next)",
+  "total_open_roles": "9",
+  "ops_roles": "Operations Lead; Product Manager; Compliance Operations Analyst; Risk Analyst",
+  "hiring_trend": "LinkedIn ~21 staff, +75% YoY (est.); 9 open roles, 2 added Oct 2026",
+  "headcount": "~21",
+  "latest_news": "CEO says Fin passed a $1B annualized payments run rate, all non-crypto businesses",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/ian-krotinsky-01a76554_we-at-fin-have-now-surpassed-a-1-billion-activity-7518359274197098496-VGH9",
+  "traction": "$1B+ annualized payment volume 8 months after Feb 2026 launch (CEO claim)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 9, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Small Series A live with customers only since Feb 2026; volume is CEO-reported and the stablecoin payments field is crowded (Stripe's Bridge, Mastercard's BVNK, Circle), so too early to judge.",
+  "distance_sources": [
+   {
+    "label": "Ian Krotinsky (CEO): Fin passes $1B annualized payments run rate (Oct 2026)",
+    "url": "https://www.linkedin.com/posts/ian-krotinsky-01a76554_we-at-fin-have-now-surpassed-a-1-billion-activity-7518359274197098496-VGH9"
+   },
+   {
+    "label": "PR Newswire: Fin raises $17M Series A led by Pantera (Dec 2025)",
+    "url": "https://www.prnewswire.com/news-releases/fin-raises-17m-to-launch-stablecoin-product-for-high-value-payments-302631117.html"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote"
+  ]
  }
 ]
