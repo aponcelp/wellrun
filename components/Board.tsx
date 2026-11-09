@@ -111,10 +111,10 @@ export default function Board({ rows, bb = {}, bbWeek = "" }: { rows: Row[]; bb?
       });
   }, []);
 
-  /** Logo/name links: let the browser follow the link (no preventDefault), just keep the row from toggling. */
+  /** Logo/name links go to the company's Well Run page: let the browser follow the link (no preventDefault), just keep the row from toggling. */
   const siteClick = (r: Row) => (e: React.MouseEvent<HTMLAnchorElement>) => {
     e.stopPropagation();
-    cap("company_site_clicked", { company: r.name });
+    cap("company_profile_clicked", { company: r.name, spot: "row" });
   };
 
   const toggle = (r: Row) => {
@@ -358,22 +358,13 @@ export default function Board({ rows, bb = {}, bbWeek = "" }: { rows: Row[]; bb?
                     {r.ops > 0 && <span className="sr-only">, hiring ops</span>}
                   </span>
                   <span className="row__who">
-                    {r.site ? (
-                      <a className="row__site row__site--logo" href={r.site} target="_blank" rel="noopener noreferrer" tabIndex={-1} aria-hidden="true" onClick={siteClick(r)}>
-                        <Logo name={r.name} host={r.host} />
-                      </a>
-                    ) : (
+                    <Link className="row__site row__site--logo" href={`/${r.slug}`} prefetch={false} tabIndex={-1} aria-hidden="true" onClick={siteClick(r)}>
                       <Logo name={r.name} host={r.host} />
-                    )}
+                    </Link>
                     <span className="row__txt">
-                      {r.site ? (
-                        <a className="row__name row__site" href={r.site} target="_blank" rel="noopener noreferrer" onClick={siteClick(r)}>
-                          {r.name}
-                          <span className="sr-only"> (website, opens in a new tab)</span>
-                        </a>
-                      ) : (
-                        <span className="row__name">{r.name}</span>
-                      )}
+                      <Link className="row__name row__site" href={`/${r.slug}`} prefetch={false} onClick={siteClick(r)}>
+                        {r.name}
+                      </Link>
                       <span className="row__what">{r.what}</span>
                       {s.sort === "fastest" && p <= 100 && bb[r.slug] && (
                         <span className="row__bb">
