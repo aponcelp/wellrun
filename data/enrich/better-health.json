@@ -1,0 +1,21 @@
+{
+  "slug": "better-health",
+  "checked": "Nov 9, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {"name": "Naama Stauber Breckler", "title": "Co-founder & CEO", "founder": true, "linkedin": null, "source": "https://joinbetter.com/pages/about-us"},
+    {"name": "Adam Breckler", "title": "Co-founder & Head of Product", "founder": true, "linkedin": null, "source": "https://joinbetter.com/pages/about-us"}
+  ],
+  "funding_history": [
+    {"round": "Seed", "date": "2021-03", "amount": "$3.5M", "valuation": null, "lead": null, "source": "https://www.fiercehealthcare.com/tech/startup-medical-supplier-better-health-secures-3-5m-seed-round-partnerships-humana-oscar"},
+    {"round": "Series A", "date": "2021-10", "amount": "$10M", "valuation": null, "lead": "Caffeinated Capital, General Catalyst", "source": "https://yespress.io/better-health"},
+    {"round": "Strategic (Series A3)", "date": "2024-06", "amount": "$14M", "valuation": null, "lead": "Healthworx, UHealth, Samsung Next, Mosaic General Partnership", "source": "https://www.prnewswire.com/news-releases/better-health-secures-14-million-in-strategic-funding-supported-by-healthworx-university-of-miami-health-system-and-mosaic-general-partnership-to-bring-its-medical-supply-and-support-solution-to-more-patients-payers-and-provi-302171231.html"}
+  ],
+  "total_raised": "$27.5M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

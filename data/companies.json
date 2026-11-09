@@ -40060,5 +40060,72 @@
    "Weston",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Better Health",
+  "slug": "better-health",
+  "site": "https://joinbetter.com",
+  "careers_url": "https://jobs.ashbyhq.com/joinbetter",
+  "what_they_do": "Insurance-covered home medical supplies plus peer coaching for ostomy, urology, diabetes patients",
+  "problem": "People with chronic conditions struggle to get the right supplies covered and delivered, with little support using them",
+  "industry": "Home medical supply / chronic care (DME)",
+  "stage": "Series A",
+  "last_round": "$14M",
+  "last_round_date": "Jun 2024",
+  "lead_investors": "Healthworx (CareFirst), UHealth, Samsung Next, Mosaic GP; earlier Caffeinated Capital, General Catalyst",
+  "total_open_roles": "3",
+  "ops_roles": "AI Revenue Engine Lead; Workplace Operations Coordinator (Contract)",
+  "hiring_trend": "Flat, ~119 staff Jun 2026 vs ~116 a year earlier (Revelio); postings down sharply in 2026, 4 live (3 counted)",
+  "headcount": "~60-120",
+  "latest_news": "In-network with Evolutions Healthcare Systems Florida, after Premera (May) and Sentara (Jul) deals",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/naamastauber_another-step-forward-for-better-health-in-activity-7499156844930678784-DsVw",
+  "traction": "Medicare-licensed in 48 states, 200+ payers/providers, 90% member retention; revenue undisclosed ($5-25M est.)",
+  "red_flags": "Soft, not scored: one Glassdoor review (Apr 2025, 'Mass Lay Offs') says staff were let go gradually; Revelio lists headcount -6.8% YoY but its own quarterly data shows ~flat (116 -> 119). Sector risk: CMS DME fraud crackdown and 2026 competitive bidding for ostomy/urology supplies; nothing found naming Better Health.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor: 'Mass Lay Offs' review, Better Health (Apr 2025)",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Better-Health-E5357658-RVW96549195.htm"
+   },
+   {
+    "label": "Revelio Labs: Better Health headcount and postings (Jun 2026)",
+    "url": "https://www.reveliolabs.com/companies/better-health/employees"
+   },
+   {
+    "label": "Fierce Healthcare: CMS puts more pressure on DME suppliers (Sep 2026)",
+    "url": "https://www.fiercehealthcare.com/payers/cms-puts-more-pressure-dme-suppliers-part-anti-fraud-push"
+   },
+   {
+    "label": "UOAA: Medicare competitive bidding FAQ for ostomy supplies (Jul 2026)",
+    "url": "https://www.ostomy.org/wp-content/uploads/2026/07/Ostomy_CBP_FAQ_07-28-26.pdf"
+   }
+  ],
+  "score": "1.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "4.3",
+  "glassdoor_reviews": "13",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Better-Health-Reviews-E5357658.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 9, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "A small follower in home medical supplies behind Byram, Edgepark and 180 Medical; payer contracts and peer coaching set it apart, but Medicare reimbursement pressure (2026 competitive bidding, DME fraud crackdown) is real exposure.",
+  "distance_sources": [
+   {
+    "label": "YesPress: Better Health profile (48 states, $27.5M raised, 90% retention) (Jun 2026)",
+    "url": "https://yespress.io/better-health"
+   },
+   {
+    "label": "UOAA: Medicare competitive bidding FAQ for ostomy supplies (Jul 2026)",
+    "url": "https://www.ostomy.org/wp-content/uploads/2026/07/Ostomy_CBP_FAQ_07-28-26.pdf"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Birmingham",
+   "Remote"
+  ]
  }
 ]
