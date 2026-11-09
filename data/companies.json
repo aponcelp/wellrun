@@ -40127,5 +40127,104 @@
    "Birmingham",
    "Remote"
   ]
+ },
+ {
+  "name": "Refine",
+  "slug": "refine",
+  "site": "https://www.refine.ink",
+  "careers_url": "https://jobs.ashbyhq.com/refine",
+  "what_they_do": "AI that checks research papers and financial analysis for technical errors",
+  "problem": "Errors in math, data and logic slip past authors and reviewers, and checking takes experts days",
+  "industry": "AI verification / research & document review",
+  "stage": "Seed",
+  "last_round": "Undisclosed (seed; $5-10M raised total)",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Undisclosed",
+  "total_open_roles": "4",
+  "ops_roles": "Chief of Staff",
+  "hiring_trend": "Small: 8 on LinkedIn; 4 open roles incl. first growth and CoS hires (Oct 2026)",
+  "headcount": "~8",
+  "latest_news": "Refine 5 launched; beats GPT-6 Astra and Claude Fable 5.1 in 92% of paper reviews",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.refine.ink/blog/refine-5",
+  "traction": "$1.5M+ ARR (Mar 2026, CEO); 29,000+ reviews sold at 1,000+ institutions; AER and Econometrica partners",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 9, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "De facto AI checker for economics (AER, Econometrica, 24 central banks) with verifiers tuned on seeded errors, but seed stage with ~$1.5M ARR in a niche where coarse.ink, Reviewer3 and the frontier labs could compete directly.",
+  "distance_sources": [
+   {
+    "label": "Refine: partnerships with the AEA and Econometric Society (Aug 2026)",
+    "url": "https://www.refine.ink/blog/economics-journal-partnerships"
+   },
+   {
+    "label": "Specter Monitor #220: Refine crosses $1.5M+ ARR (Mar 2026)",
+    "url": "https://insights.tryspecter.com/specter-monitor-220/"
+   },
+   {
+    "label": "RISE catalog: Refine limitations and competitors coarse.ink, Reviewer3",
+    "url": "https://bhanneke.github.io/RISE/projects/refine-ink/"
+   }
+  ],
+  "hiring_locations": [
+   "Spain",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "FutureSearch",
+  "slug": "futuresearch",
+  "site": "https://futuresearch.ai",
+  "careers_url": "https://apply.workable.com/futuresearch/",
+  "what_they_do": "AI forecasting and research agents that predict outcomes and research lists at scale",
+  "problem": "Decision-makers can't get reliable, well-researched probability forecasts on uncertain questions quickly or cheaply",
+  "industry": "AI forecasting / research agents",
+  "stage": "Seed",
+  "last_round": "$5.8M",
+  "last_round_date": "Dec 2024",
+  "lead_investors": "Metaplanet",
+  "total_open_roles": "7",
+  "ops_roles": "Director of Strategic Projects; Chief Operating Officer; Program Manager, Research",
+  "hiring_trend": "Headcount ~10 → ~14 YoY (+40%, LinkedIn); 6 senior roles opened late Oct 2026",
+  "headcount": "~14",
+  "latest_news": "Exited public beta with full launch; #1 of 166 AI systems in Metaculus FutureEval",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://cryptobriefing.com/futuresearch-launches-ai-forecasting-tool/",
+  "traction": "3,500+ users by Aug 2026 (2,400 in 30 days); research sold to top AI labs incl. xAI",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 9, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Seed-stage with ~14 people and a consumer/prosumer launch only in Aug 2026; strong public forecasting track record, but a fragmented field (Mantic, Lightning Rod, Metaculus, Good Judgment) and frontier labs could ship forecasting directly.",
+  "distance_sources": [
+   {
+    "label": "Crypto Briefing: FutureSearch exits public beta (Aug 2026)",
+    "url": "https://cryptobriefing.com/futuresearch-launches-ai-forecasting-tool/"
+   },
+   {
+    "label": "FutureSearch: Company history and seed round",
+    "url": "https://futuresearch.ai/company/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

@@ -1,0 +1,66 @@
+{
+  "slug": "refine",
+  "checked": "Nov 9, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "Newark, DE (remote team, US and Spain)",
+  "headcount_est": 8,
+  "leadership": [
+    {
+      "name": "Yann Calvó López",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/yann-calv%C3%B3-l%C3%B3pez/",
+      "source": "https://www.refine.ink/team"
+    },
+    {
+      "name": "Benjamin Golub",
+      "title": "Co-founder & Chief Scientist",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/benjamin-golub-2b481016/",
+      "source": "https://www.refine.ink/team"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Grant (Harvard President's Innovation Challenge)",
+      "date": "2026-05",
+      "amount": "$75K",
+      "valuation": null,
+      "lead": "Harvard Innovation Labs / Bertarelli Foundation",
+      "source": "https://seas.harvard.edu/news/refine-claims-presidents-innovation-challenge-grand-prize"
+    },
+    {
+      "round": "Seed (Early Stage VC)",
+      "date": "2026-09",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://pitchbook.com/profiles/company/1420712-20"
+    }
+  ],
+  "total_raised": "$5-10M (company's own range on its Ashby job posts, Oct 2026)",
+  "revenue_est": "$1.5M+ ARR (Mar 2026, CEO claim); $1.7M+ annual revenue (May 2026)",
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Refine 5 launched; wins 197 of 215 head-to-heads vs GPT-6 Astra and Claude Fable 5.1",
+      "source": "https://www.refine.ink/blog/refine-5"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Partnerships with the American Economic Association and the Econometric Society",
+      "source": "https://www.refine.ink/blog/economics-journal-partnerships"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Won Harvard President's Innovation Challenge grand prize ($75K)",
+      "source": "https://seas.harvard.edu/news/refine-claims-presidents-innovation-challenge-grand-prize"
+    }
+  ],
+  "competitors": [
+    "coarse.ink",
+    "Reviewer3",
+    "general-purpose LLMs (ChatGPT, Claude)"
+  ]
+}

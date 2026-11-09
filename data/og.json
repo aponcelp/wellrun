@@ -1463,6 +1463,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "futuresearch": {
+  "url": "https://futuresearch.ai/futuresearch-logo.webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-11-09"
+ },
  "gaiia": {
   "url": "https://cdn.prod.website-files.com/685d8548ff18f67e0ca8eebe/68afbbbe7c62ffde595b221c_landingpage_og.png",
   "kind": "og",
@@ -2956,6 +2962,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "refine": {
+  "url": "https://www.refine.ink/images/og/home.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-09"
  },
  "reflection-ai": {
   "url": "https://cdn.sanity.io/images/sp40emik/production/003c45d4755800ad7e2b4c81076e43eff6e7cdf8-1200x630.png",
