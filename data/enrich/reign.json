@@ -1,0 +1,108 @@
+{
+  "slug": "reign",
+  "checked": "Nov 9, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "Miami / Weston, FL",
+  "headcount_est": {
+    "value": "~45-51",
+    "as_of": "Nov 2026",
+    "source": "https://linkedin.com/company/reignecom"
+  },
+  "leadership": [
+    {
+      "name": "Kevin Zhang",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/kevinzhangecom",
+      "source": "https://reign.com/about"
+    },
+    {
+      "name": "Trevor Galvin",
+      "title": "Co-Founder & Chief Growth Officer",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/trevorgalvin/",
+      "source": "https://reign.com/about"
+    },
+    {
+      "name": "Saheb Sabharwal",
+      "title": "President",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/sahebsabharwal/",
+      "source": "https://reign.com/about"
+    },
+    {
+      "name": "Tim Schulz",
+      "title": "Chief Product & Strategy Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://reign.com/woocommerce"
+    },
+    {
+      "name": "Stas Filippov",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://phoenixtechnologies.io/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-10",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/2090516/0002090516-25-000001.txt"
+    },
+    {
+      "round": "Series A1",
+      "date": "2026-06",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/2090516/0002090516-26-000001.txt"
+    }
+  ],
+  "total_raised": "~$8M (SEC Form D)",
+  "revenue_est": {
+    "value": "$10M+ ARR",
+    "as_of": "Nov 2026",
+    "basis": "company-stated",
+    "source": "https://www.arr.club/signal/reign-hit-10m-arr-profitable"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "CEO says $10M+ ARR, 100%+ YoY growth, profitable",
+      "url": "https://www.arr.club/signal/reign-hit-10m-arr-profitable"
+    },
+    {
+      "date": "2026-10",
+      "headline": "WooCommerce partnership; Reign for WooCommerce due Q1 2027",
+      "url": "https://reign.com/woocommerce"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Phoenix Ecommerce Technologies rebrands as Reign at reign.com",
+      "url": "https://www.einpresswire.com/article/949608268/phoenix-is-now-reign-a-new-chapter-built-around-merchants"
+    },
+    {
+      "date": "2026-06",
+      "headline": "$3M Series A1 (SEC Form D, filed Jul 2026)",
+      "url": "https://www.dealdata.net/company-profile/0002090516/"
+    },
+    {
+      "date": "2025-10",
+      "headline": "$5M Series A (SEC Form D)",
+      "url": "https://www.dealdata.net/company-profile/0002090516/"
+    }
+  ],
+  "competitors": [
+    "Checkout Champ",
+    "Sticky.io",
+    "CartHook",
+    "Funnelish",
+    "Kontrol"
+  ]
+}

@@ -40011,5 +40011,54 @@
    "New York",
    "Remote"
   ]
+ },
+ {
+  "name": "Reign",
+  "slug": "reign",
+  "site": "https://reign.com",
+  "careers_url": "https://jobs.lever.co/reign",
+  "what_they_do": "Checkout, payment routing and subscription billing for direct-response D2C brands",
+  "problem": "Direct-response brands lose sales to slow checkouts, declined cards and sudden processor shutdowns that freeze their revenue",
+  "industry": "Ecommerce checkout / payment orchestration",
+  "stage": "Series A",
+  "last_round": "$3M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Undisclosed (2 investors per SEC Form D; Subodha Capital family office per one aggregator)",
+  "total_open_roles": "10",
+  "ops_roles": "AI-Native Chief of Staff",
+  "hiring_trend": "Headcount ~51 on LinkedIn, +219% YoY (aggregator est.); 10 open roles Nov 2026",
+  "headcount": "~45-51",
+  "latest_news": "WooCommerce partnership to bring Reign checkout and payments to Woo stores (Q1 2027)",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://reign.com/woocommerce",
+  "traction": "8-figure ARR ($10M+), 100%+ YoY, profitable; $1B+ merchant GMV (CEO-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 9, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real adoption ($10M+ ARR, $1B+ merchant GMV claimed) and owning merchants' card vaults and subscriptions makes it sticky, but it is a small player in a crowded direct-response checkout field (Checkout Champ, Sticky.io, CartHook, Funnelish) and depends on third-party processors and card-network rules for high-risk merchants.",
+  "distance_sources": [
+   {
+    "label": "iheartecom: Reign (formerly Phoenix) fees, high-risk policy and similar platforms (Oct 2026)",
+    "url": "https://iheartecom.com/processors/reign"
+   },
+   {
+    "label": "ARR Club: Reign hit $10M+ ARR, profitable (Nov 2026, from CEO post)",
+    "url": "https://www.arr.club/signal/reign-hit-10m-arr-profitable"
+   }
+  ],
+  "hiring_locations": [
+   "Weston",
+   "Remote (US)"
+  ]
  }
 ]

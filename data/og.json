@@ -2963,6 +2963,12 @@
   "type": "image/webp",
   "checked": "2026-10-30"
  },
+ "reign": {
+  "url": "https://reign.com/og/reign-default.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-09"
+ },
  "rein": {
   "url": "https://reinsec.io/wp-content/uploads/2026/05/Untitled-design-3.jpg",
   "kind": "og",
