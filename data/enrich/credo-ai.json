@@ -1,0 +1,128 @@
+{
+  "slug": "credo-ai",
+  "checked": "Nov 9, 2026",
+  "founded": 2020,
+  "hq": "Palo Alto, CA (LinkedIn lists San Francisco; remote-first US team)",
+  "headcount_est": {
+    "value": "~79",
+    "as_of": "Jun 2026",
+    "source": "https://www.reveliolabs.com/companies/credo-ai/employees"
+  },
+  "leadership": [
+    {
+      "name": "Navrina Singh",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/navrina",
+      "source": "https://www.credo.ai/company/aboutus"
+    },
+    {
+      "name": "Eli Chen",
+      "title": "Co-founder (current role not verified)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.crunchbase.com/organization/credo-ai"
+    },
+    {
+      "name": "Mike Rogers",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/themikerogers",
+      "source": "https://www.linkedin.com/company/credo-ai"
+    },
+    {
+      "name": "Ramin Vatanparast",
+      "title": "Chief Product Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/company/credo-ai"
+    },
+    {
+      "name": "Kristen Marcoe",
+      "title": "Sr. Director, People",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/company/credo-ai"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-10",
+      "amount": "$5.5M",
+      "valuation": null,
+      "lead": "AI Fund, Decibel (with Village Global)",
+      "source": "https://defdex.io/organizations/credo-ai"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-05",
+      "amount": "$12.8M",
+      "valuation": null,
+      "lead": "Sands Capital",
+      "source": "https://www.vcnewsdaily.com/Credo%20AI/venture-funding.php"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2023-05",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.caplight.com/company/credo-ai"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-07",
+      "amount": "$21M",
+      "valuation": "$101M",
+      "lead": "CrimsoNox Capital, Mozilla Ventures, FPV Ventures",
+      "source": "https://www.businesswire.com/news/home/20240730411517/en"
+    }
+  ],
+  "total_raised": "$41.3M (company-stated, Jul 2024)",
+  "revenue_est": {
+    "value": "2x revenue growth and 150% more enterprise customers over the prior year (no ARR figure disclosed)",
+    "as_of": "Jun 2026",
+    "basis": "company-stated (departing CMO, LinkedIn)",
+    "source": "https://www.linkedin.com/posts/tara-jana-tj_today-is-my-last-day-at-credo-ai-a-year-activity-7468048790869094400-aCOV"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "GAIA named to Fast Company's 2026 Next Big Things in Tech",
+      "url": "https://www.credo.ai/blog/credo-ais-gaia-named-to-fast-companys-2026-next-big-things-in-tech-list"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Adds AIUC-1 AI agent standard to its governance platform",
+      "url": "https://www.credo.ai/blog/credo-ai-brings-aiuc-1-the-worlds-first-ai-agent-standard-into-the-ai-governance-operating-layer"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Launches Agent Governor (research preview), starting with Claude Code",
+      "url": "https://www.credo.ai/blog/introducing-credo-ai-agent-governor"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Court denies Credo AI summary judgment in CRDO trademark suit over 'Credo' name",
+      "url": "https://docs.justia.com/cases/federal/district-courts/california/candce/3:2024cv02032/427528/184"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Ranked No. 6 in Applied AI, Fast Company Most Innovative Companies 2026",
+      "url": "https://www.credo.ai/blog/credo-ai-named-to-fast-companys-annual-list-of-the-worlds-most-innovative-companies-of-2026"
+    },
+    {
+      "date": "2026-02",
+      "headline": "MoU with G42 to advance responsible AI across the Global South",
+      "url": "https://www.businesswire.com/news/home/20260220104426/en/G42-Joins-Forces-with-Credo-AI-To-Advance-Responsible-AI-Adoption-Across-Global-South"
+    }
+  ],
+  "competitors": [
+    "Holistic AI",
+    "IBM watsonx.governance",
+    "ServiceNow AI Control Tower",
+    "OneTrust",
+    "ModelOp"
+  ]
+}
