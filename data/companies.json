@@ -40226,5 +40226,71 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Credo AI",
+  "slug": "credo-ai",
+  "site": "https://www.credo.ai",
+  "careers_url": "https://jobs.ashbyhq.com/credo.ai",
+  "what_they_do": "AI governance platform that inventories, risk-scores and audits enterprise AI systems and agents",
+  "problem": "Enterprises can't see or prove which AI systems and agents comply with fast-changing rules, so reviews stall deployments",
+  "industry": "AI governance / risk & compliance",
+  "stage": "Series B",
+  "last_round": "$21M",
+  "last_round_date": "Jul 2024",
+  "lead_investors": "CrimsoNox Capital, Mozilla Ventures, FPV Ventures",
+  "total_open_roles": "5",
+  "ops_roles": "Product Operations Manager; AI Governance Advisor (forward-deployed advisory)",
+  "hiring_trend": "Flat: ~79 staff, -1.1% YoY (Revelio, Jun 2026); 5 open roles",
+  "headcount": "~78-79",
+  "latest_news": "GAIA governance agent named to Fast Company's 2026 Next Big Things in Tech",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.credo.ai/blog/credo-ais-gaia-named-to-fast-companys-2026-next-big-things-in-tech-list",
+  "traction": "Forrester Wave Leader; Mastercard, PepsiCo, Cisco; ex-CMO claims 2x revenue, 10%+ of Fortune 500",
+  "red_flags": "Watch (not scored): Credo Technology Group (Nasdaq: CRDO) is suing Credo AI over the 'Credo' name; in Jul 2026 the court denied Credo AI's summary judgment motion and the case heads toward trial (no date set).",
+  "red_flags_sources": [
+   {
+    "label": "Justia: Order on summary judgment, Credo Technology Group v. Credo.AI Corp. (Jul 9, 2026)",
+    "url": "https://docs.justia.com/cases/federal/district-courts/california/candce/3:2024cv02032/427528/184"
+   },
+   {
+    "label": "Bloomberg Law: court denies Credo.AI summary judgment on trademark claim (Jul 2026)",
+    "url": "https://news.bloomberglaw.com/ip-law/case-trademarks-summary-judgment-n-d-cal-7"
+   },
+   {
+    "label": "CourtListener docket 3:24-cv-02032 (filed Apr 2024)",
+    "url": "https://www.courtlistener.com/docket/68406342/credo-technology-group-ltd-v-credoai-corp/"
+   }
+  ],
+  "score": "1.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.9",
+  "glassdoor_reviews": "10",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Credo-AI-Reviews-E6908913.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 9, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Category pioneer and Forrester Wave Leader with Global 2000 logos, but small (~79 staff, ~$41M raised) while IBM watsonx.governance, ServiceNow, OneTrust and Microsoft sell governance to the same buyer; trademark suit adds name risk.",
+  "distance_sources": [
+   {
+    "label": "Credo AI: Forrester Wave Leader, AI Governance Solutions Q3 2025",
+    "url": "https://www.credo.ai/forrester-wave"
+   },
+   {
+    "label": "Credo AI: Fast Company Most Innovative 2026, Global 2000 customers",
+    "url": "https://www.credo.ai/blog/credo-ai-named-to-fast-companys-annual-list-of-the-worlds-most-innovative-companies-of-2026"
+   },
+   {
+    "label": "Revelio Labs: Credo AI headcount 79, -1.1% YoY (Jun 2026)",
+    "url": "https://www.reveliolabs.com/companies/credo-ai/employees"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (US)",
+   "Remote (India)"
+  ]
  }
 ]
