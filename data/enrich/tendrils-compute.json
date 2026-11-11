@@ -1,0 +1,77 @@
+{
+  "slug": "tendrils-compute",
+  "checked": "Nov 11, 2026",
+  "founded": 2025,
+  "hq": "Cambridge, UK",
+  "headcount_est": {
+    "value": "~3-4",
+    "as_of": "Nov 2026",
+    "source": "https://tendrils.co/about"
+  },
+  "leadership": [
+    {
+      "name": "Nils Cremer",
+      "title": "Co-Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/nils-cremer",
+      "source": "https://www.eu-startups.com/2026/11/tendrils-raises-e26-million-to-reinvent-the-cpu-with-thousands-of-parallel-cores/"
+    },
+    {
+      "name": "T6",
+      "title": "Co-Founder (creator of Vine)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.eu-startups.com/2026/11/tendrils-raises-e26-million-to-reinvent-the-cpu-with-thousands-of-parallel-cores/"
+    },
+    {
+      "name": "Hugo McNally",
+      "title": "Co-Founder (ex-lowRISC)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://cloudberry.vc/news/why-we-invested-in-tendrils/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2025-07",
+      "amount": null,
+      "valuation": null,
+      "lead": "Visionaries Club",
+      "source": "https://visionaries.vc/editorial/tendrils-rebuilding-the-microprocessor-from-first-principles"
+    },
+    {
+      "round": "Seed",
+      "date": "2026-11",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Benchmark",
+      "source": "https://tendrils.co/blog/2026-11-10/30m-raised"
+    }
+  ],
+  "total_raised": "$30M+ (pre-seed amount undisclosed)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$30M seed led by Benchmark with Visionaries Club, UK Sovereign AI Fund, Conviction and others; Jack Altman joins board",
+      "url": "https://tendrils.co/blog/2026-11-10/30m-raised"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Newcomer scoop: Benchmark wins contested round; fast follow-on at $1B+ valuation reportedly discussed",
+      "url": "https://www.newcomer.co/p/scoop-benchmark-backs-early-stage"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Pre-seed led by Visionaries Club with FR8 and angels (summer 2025)",
+      "url": "https://visionaries.vc/editorial/tendrils-rebuilding-the-microprocessor-from-first-principles"
+    }
+  ],
+  "competitors": [
+    "Intel",
+    "AMD",
+    "Arm",
+    "Nvidia"
+  ]
+}

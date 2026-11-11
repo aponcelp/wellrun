@@ -40635,5 +40635,51 @@
    "San Francisco",
    "Remote"
   ]
+ },
+ {
+  "name": "Tendrils Compute",
+  "slug": "tendrils-compute",
+  "site": "https://tendrils.co",
+  "careers_url": "https://tendrils.co/join",
+  "what_they_do": "General-purpose processor with thousands of parallel cores, plus the open-source Vine language",
+  "problem": "Today's CPUs hit a wall adding cores, so branching work like AI-agent tool calls and code runs bottlenecks",
+  "industry": "Semiconductors / CPU architecture",
+  "stage": "Seed",
+  "last_round": "$30M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Benchmark",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "Tiny team: PitchBook 2 staff (May 2026) -> 3 on LinkedIn, 4 on site (Nov 2026); open call for chip/compiler engineers in Cambridge, no listed roles",
+  "headcount": "~3-4",
+  "latest_news": "Raised $30M seed led by Benchmark; Jack Altman joins board; UK Sovereign AI Fund invests",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+  "traction": "Pre-product: no customers, revenue, tape-out date or benchmarks disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 11, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "A ~4-person team with a novel interaction-net CPU design and the Vine language, but no chip, benchmarks, fab partner or customers yet; it takes on Intel, AMD, Arm and Nvidia, and $30M is small for leading-edge silicon.",
+  "distance_sources": [
+   {
+    "label": "The Cap Table: Tendrils $30M seed; no fab partner, tape-out timetable or benchmarks disclosed (Nov 2026)",
+    "url": "https://www.thecaptable.co.uk/article/tendrils-raises-30m-seed-led-by-benchmark-as-the-sovereign-ai-fund-joins-the-cambridge-chip-start-up-s-cap-table"
+   },
+   {
+    "label": "Tech.eu: Tendrils Compute raises $30M to challenge CPU and GPU architecture (Nov 2026)",
+    "url": "https://tech.eu/2026/11/11/tendrils-compute-raises-30m-to-redo-the-cpu/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

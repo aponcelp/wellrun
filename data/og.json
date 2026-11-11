@@ -3593,6 +3593,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "tendrils-compute": {
+  "url": "https://tendrils.co/apple-touch-icon-57x57.png",
+  "kind": "icon",
+  "type": "image/png",
+  "checked": "2026-11-11"
+ },
  "tenex": {
   "url": "https://www.tenex.co/assets/live/open-graph.webp",
   "kind": "og",
