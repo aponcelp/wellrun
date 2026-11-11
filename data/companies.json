@@ -40432,8 +40432,8 @@
     "url": "https://www.glassdoor.com/Reviews/Employee-Review-Synctera-E3954127-RVW105538319.htm"
    }
   ],
-  "score": "1.75",
-  "zone": "Steady",
+  "score": "0.25",
+  "zone": "Cool-down",
   "status": "new",
   "glassdoor_rating": "3.8",
   "glassdoor_reviews": "26",
@@ -40479,7 +40479,7 @@
   "latest_news_date": "Nov 2026",
   "latest_news_url": "https://www.calcalistech.com/ctechnews/article/h1civuyrge",
   "traction": "$50M revenue run rate, up 400% YoY; 8,000+ US authors, ~400 new per month",
-  "red_flags": "Watch (not scored): persistent author complaints and backlash. BBB lists 28 complaints in 3 years (refunds, delays, renewal fees); many 1-star Trustpilot reviews incl. books pulled from Amazon in an Aug-Sep 2026 compliance sweep; WritersWeekly 'Extreme Alert' (Jan 2026); writers' groups criticized the AI model at launch (Nov 2024). No lawsuit or regulator action found.",
+  "red_flags": "Persistent author complaints and backlash. BBB lists 28 complaints in 3 years (refunds, delays, renewal fees); many 1-star Trustpilot reviews incl. books pulled from Amazon in an Aug-Sep 2026 compliance sweep; WritersWeekly 'Extreme Alert' (Jan 2026); writers' groups criticized the AI model at launch (Nov 2024). No lawsuit or regulator action found.",
   "red_flags_sources": [
    {
     "label": "BBB: Spines complaints (Boynton Beach, FL)",
@@ -40498,8 +40498,8 @@
     "url": "https://www.theguardian.com/books/2024/nov/26/writers-condemn-startups-plans-to-publish-8000-books-next-year-using-ai-spines-artificial-intelligence"
    }
   ],
-  "score": "4.5",
-  "zone": "Race",
+  "score": "3.5",
+  "zone": "Tempo",
   "status": "new",
   "glassdoor_rating": "4.4",
   "glassdoor_reviews": "19",
