@@ -1427,6 +1427,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "fractile": {
+  "url": "https://fractile.com/assets/og.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-11"
+ },
  "fragment": {
   "url": "https://fragment.dev/og.png",
   "kind": "og",

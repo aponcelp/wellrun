@@ -40526,5 +40526,65 @@
    "Buenos Aires",
    "Remote (LatAm)"
   ]
+ },
+ {
+  "name": "Fractile",
+  "slug": "fractile",
+  "site": "https://www.fractile.ai",
+  "careers_url": "https://jobs.ashbyhq.com/fractile",
+  "what_they_do": "Inference chips and rack-scale systems that stack DRAM on logic for fast frontier AI",
+  "problem": "AI labs can't serve frontier models fast and cheaply because GPUs are bottlenecked on memory bandwidth",
+  "industry": "AI inference chips / semiconductors",
+  "stage": "Series C",
+  "last_round": "$720M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Lightspeed, Redpoint (co-leads); Thrive Capital, Founders Fund, Conviction, CapitalG, UK Sovereign AI, British Business Bank",
+  "total_open_roles": "23",
+  "ops_roles": "Quality Manager - Manufacturing Operations",
+  "hiring_trend": "Headcount ~23 (Oct 2024) -> ~80 (Feb 2026) -> ~139-150 (Oct-Nov 2026); 23 open roles, postings spiked Oct 2026",
+  "headcount": "~140-150",
+  "latest_news": "$720M Series C at ~$7B post-money, co-led by Lightspeed and Redpoint; UK Sovereign AI joins",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware",
+  "traction": "Pre-revenue; ~$250M initial chip order from Anthropic (ships 2027); headcount ~6x in two years",
+  "red_flags": "Watch (not scored): no production chip shipped yet and no disclosed revenue; first systems due 2027 and architecture pivoted from SRAM to stacked DRAM. Co-founder/CTO Yuhang Song left in May 2024 over internal concerns about China ties (reported Feb 2026; no wrongdoing alleged). No layoffs, lawsuits or down round found.",
+  "red_flags_sources": [
+   {
+    "label": "Tech Funding News: no production chip yet, no disclosed revenue, deploy 2027 (Oct 2026)",
+    "url": "https://techfundingnews.com/fractile-577m-series-c-nvidia-ai-chips/"
+   },
+   {
+    "label": "City AM: China ties force co-founder exit at Fractile (Feb 2026)",
+    "url": "https://www.cityam.com/china-ties-force-co-founder-exit-at-uk-ai-startup-fractile/"
+   }
+  ],
+  "score": "5.25",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.7",
+  "glassdoor_reviews": "4",
+  "glassdoor_url": "https://www.glassdoor.co.uk/Reviews/Fractile-Reviews-E5428229.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 11, 2026",
+  "engine": "Scale",
+  "distance": "Unproven",
+  "distance_why": "Top-tier backing, a named Anthropic order and a full in-house silicon stack, but no chip has shipped (first systems 2027), it competes with Nvidia, Groq, Cerebras, Etched and hyperscaler in-house silicon, and the buyer pool is concentrated.",
+  "distance_sources": [
+   {
+    "label": "Lightspeed: Our investment in Fractile (Nov 2026)",
+    "url": "https://lsvp.com/stories/accelerating-intelligence-our-investment-in-fractile/"
+   },
+   {
+    "label": "Tech Funding News: Fractile £577M Series C, Anthropic order, 2027 deployment (Oct 2026)",
+    "url": "https://techfundingnews.com/fractile-577m-series-c-nvidia-ai-chips/"
+   }
+  ],
+  "hiring_locations": [
+   "Bristol",
+   "London",
+   "Kaohsiung City",
+   "Remote"
+  ]
  }
 ]
