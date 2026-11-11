@@ -1,0 +1,78 @@
+{
+  "slug": "alta-finance",
+  "checked": "Nov 11, 2026",
+  "founded": 2026,
+  "hq": "San Francisco, CA (plus Melbourne, Australia)",
+  "headcount_est": {
+    "value": "~25",
+    "as_of": "Nov 2026",
+    "source": "https://fortune.com/2026/11/10/alta-series-a-airwallex/"
+  },
+  "leadership": [
+    {
+      "name": "Loong Wang",
+      "title": "Co-Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/bzlwang",
+      "source": "https://alta.finance/news/series-a-release/"
+    },
+    {
+      "name": "Catherine Porter",
+      "title": "Co-Founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://alta.finance/news/series-a-release/"
+    },
+    {
+      "name": "Jack Zhang",
+      "title": "Co-Founder (also Airwallex co-founder & CEO)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://alta.finance/news/series-a-release/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-06",
+      "amount": "$32.5M",
+      "valuation": null,
+      "lead": "Airwallex, Capital 49",
+      "source": "https://fintechnews.au/123152/funding/metal-airwallex-stablecoin-seed-funding/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-11",
+      "amount": "$47.5M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://alta.finance/news/series-a-release/"
+    }
+  ],
+  "total_raised": "$80M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$47.5M Series A led by Index Ventures ($80M total); rebrands from Metal to Alta",
+      "url": "https://alta.finance/news/series-a-release/"
+    },
+    {
+      "date": "2026-10",
+      "headline": "SEC filing and AFR report put Metal's seed at ~$32.5M",
+      "url": "https://fintechnews.au/123152/funding/metal-airwallex-stablecoin-seed-funding/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Launches as Metal with seed co-led by Airwallex and Capital 49; Airwallex first design partner",
+      "url": "https://metalntwx.com/blog/hello-metal/"
+    }
+  ],
+  "competitors": [
+    "Tempo",
+    "Canton Network",
+    "Kinexys",
+    "Avalanche",
+    "Plasma"
+  ]
+}

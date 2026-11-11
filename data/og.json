@@ -155,6 +155,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "alta-finance": {
+  "url": "https://alta.finance/og.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-11"
+ },
  "ambience-healthcare": {
   "url": "https://framerusercontent.com/images/l2jbzG0Wzk7GJYt31m2QzU82JzQ.png",
   "kind": "og",

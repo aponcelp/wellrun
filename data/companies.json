@@ -40586,5 +40586,54 @@
    "Kaohsiung City",
    "Remote"
   ]
+ },
+ {
+  "name": "Alta",
+  "slug": "alta-finance",
+  "site": "https://alta.finance",
+  "careers_url": "https://jobs.ashbyhq.com/alta",
+  "what_they_do": "Privacy- and compliance-first blockchain for banks to settle stablecoins, FX and tokenized assets",
+  "problem": "Banks can't use public blockchains without exposing client data, and cross-border cash sits idle in prefunded accounts",
+  "industry": "Blockchain / stablecoin & tokenized-finance infrastructure",
+  "stage": "Series A",
+  "last_round": "$47.5M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Index Ventures (lead); GV, Blackbird, Square Peg, Capital 49; seed co-led by Airwallex and Capital 49",
+  "total_open_roles": "6",
+  "ops_roles": "Vice President of Strategy, Finance, and Operations; Treasury & Payments Lead",
+  "hiring_trend": "Launched Jun 2026 (as Metal); ~9 on LinkedIn mid-2026 -> 25 staff Nov 2026 (Fortune); 6 roles posted Nov 10",
+  "headcount": "~25",
+  "latest_news": "$47.5M Series A led by Index Ventures; rebranded from Metal; Airwallex builds on it",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://alta.finance/news/series-a-release/",
+  "traction": "Pre-product; Airwallex anchor design partner (200 countries, 90 currencies); team ~25 five months after launch",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 11, 2026",
+  "engine": "Network",
+  "distance": "Unproven",
+  "distance_why": "Strong founders and Airwallex as anchor and distribution channel, but no product live yet, no independent customers, and it competes with Stripe's Tempo, Canton, and other institutional chains; Airwallex dependence is a concentration risk.",
+  "distance_sources": [
+   {
+    "label": "Fortune: Alta raises $48M Series A, 25 employees, Airwallex as distribution (Nov 2026)",
+    "url": "https://fortune.com/2026/11/10/alta-series-a-airwallex/"
+   },
+   {
+    "label": "Fintech Bits: founders' history, Airwallex dependence (Nov 2026)",
+    "url": "https://www.fintechbits.net/alta-80-million-airwallex-jack-zhang"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
  }
 ]
