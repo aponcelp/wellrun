@@ -1,0 +1,103 @@
+{
+  "slug": "charta-health",
+  "checked": "Nov 11, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~107",
+    "as_of": "Nov 2026",
+    "source": "https://www.linkedin.com/company/chartahealth"
+  },
+  "leadership": [
+    {
+      "name": "Justin Liu",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.finsmes.com/2026/11/charta-health-raises-55m-in-series-b-funding.html"
+    },
+    {
+      "name": "Scott Morris",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.finsmes.com/2026/11/charta-health-raises-55m-in-series-b-funding.html"
+    },
+    {
+      "name": "Matt Cadile",
+      "title": "VP of Growth",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/company/chartahealth"
+    },
+    {
+      "name": "Selim Önal",
+      "title": "VP, Head of Engineering",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/company/chartahealth"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-02",
+      "amount": "$8.1M",
+      "valuation": null,
+      "lead": "Bain Capital Ventures",
+      "source": "http://businessinsider.com/charta-health-8-million-seed-round-pitch-deck-2025-2"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-07",
+      "amount": "$22M",
+      "valuation": null,
+      "lead": "Bain Capital Ventures",
+      "source": "https://www.chartahealth.com/resources/series-a"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-11",
+      "amount": "$55M",
+      "valuation": null,
+      "lead": "Insight Partners",
+      "source": "https://www.prnewswire.com/news-releases/charta-health-raises-55-million-series-b-to-establish-a-shared-standard-of-accuracy-in-healthcare-billing-302934401.html"
+    }
+  ],
+  "total_raised": "$85M (company-stated, Nov 2026)",
+  "revenue_est": {
+    "value": "Revenue up 10x in the last 12 months (no figure disclosed)",
+    "as_of": "Nov 2026",
+    "basis": "company-stated",
+    "source": "https://www.prnewswire.com/news-releases/charta-health-raises-55-million-series-b-to-establish-a-shared-standard-of-accuracy-in-healthcare-billing-302934401.html"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$55M Series B led by Insight Partners; launches Charta for Payers and Providers",
+      "url": "https://www.prnewswire.com/news-releases/charta-health-raises-55-million-series-b-to-establish-a-shared-standard-of-accuracy-in-healthcare-billing-302934401.html"
+    },
+    {
+      "date": "2026-11",
+      "headline": "Madrona doubles down: revenue 10x in a year",
+      "url": "https://www.madrona.com/doubling-down-on-charta-as-healthcare-goes-ai-native/"
+    },
+    {
+      "date": "2025-07",
+      "headline": "$22M Series A led by Bain Capital Ventures",
+      "url": "https://www.fiercehealthcare.com/health-tech/charta-health-picks-22m-automated-chart-review"
+    },
+    {
+      "date": "2025-02",
+      "headline": "$8.1M seed led by Bain Capital Ventures",
+      "url": "http://businessinsider.com/charta-health-8-million-seed-round-pitch-deck-2025-2"
+    }
+  ],
+  "competitors": [
+    "AKASA",
+    "CodaMetrix",
+    "Fathom",
+    "Nym",
+    "RapidClaims"
+  ]
+}

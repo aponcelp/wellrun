@@ -40292,5 +40292,239 @@
    "Remote (US)",
    "Remote (India)"
   ]
+ },
+ {
+  "name": "Garage",
+  "slug": "garage",
+  "site": "https://www.shopgarage.com",
+  "careers_url": "https://jobs.ashbyhq.com/garage",
+  "what_they_do": "Online marketplace for used fire trucks, ambulances and municipal heavy equipment",
+  "problem": "Fire departments and towns sell surplus rigs at local auctions for scrap prices, while buyers wait years for new ones",
+  "industry": "Marketplace / public-sector & heavy equipment",
+  "stage": "Series B",
+  "last_round": "$41M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Invus Opportunities",
+  "total_open_roles": "18",
+  "ops_roles": "Business Operations; Customer Experience Operations; Growth Operations Associate; People Strategy & Operations",
+  "hiring_trend": "Team ~35-45 (PitchBook, YC); 18 open roles, 7 posted since Nov 1; raise earmarked for hiring",
+  "headcount": "~35-45",
+  "latest_news": "$41M Series B led by Invus at $225M valuation; expanding into public works and sanitation",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://fortune.com/2026/11/10/garage-used-fire-trucks-martin-hunt-funding/",
+  "traction": "$100M+ annualized platform sales (GMV), 400%+ YoY; 1,000+ communities in all 50 states",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 11, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Calls itself the largest US source of used fire trucks, with buyers and sellers across all 50 states and a 10% take rate; still ~1% of the market and competes with GovDeals, Municibid and specialist apparatus dealers.",
+  "distance_sources": [
+   {
+    "label": "Fortune: Garage raises $41M Series B at $225M (Nov 2026)",
+    "url": "https://fortune.com/2026/11/10/garage-used-fire-trucks-martin-hunt-funding/"
+   },
+   {
+    "label": "PR Newswire: Garage $41M Series B, $100M+ annual platform sales (Nov 2026)",
+    "url": "https://www.prnewswire.com/news-releases/garage-raises-41m-series-b-to-scale-ai-powered-marketplace-for-americas-essential-equipment-surpassing-100m-in-annual-platform-sales-302935598.html"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Charta Health",
+  "slug": "charta-health",
+  "site": "https://www.chartahealth.com",
+  "careers_url": "https://jobs.ashbyhq.com/chartahealth",
+  "what_they_do": "AI that reviews every medical chart before billing to catch missing or unsupported codes",
+  "problem": "Providers and health plans only audit a sliver of charts by hand, so coding errors leak revenue and trigger audits",
+  "industry": "Healthcare RCM / AI chart review",
+  "stage": "Series B",
+  "last_round": "$55M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Insight Partners",
+  "total_open_roles": "21",
+  "ops_roles": "Deployment Strategist; Technical Success Manager; Customer Engineer",
+  "hiring_trend": "Headcount ~74 (Tracxn, Mar 2026) -> ~107 (LinkedIn, Nov 2026); 21 open roles",
+  "headcount": "~105",
+  "latest_news": "$55M Series B led by Insight Partners; launches Charta for Providers and Charta for Payers",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/charta-health-raises-55-million-series-b-to-establish-a-shared-standard-of-accuracy-in-healthcare-billing-302934401.html",
+  "traction": "Revenue up 10x in 12 months; ~100 healthcare organizations across 43 states",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.75",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "2.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Charta-Health-Reviews-E10994659.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 11, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast growth and EHR-integrated, pre-bill workflow now sold to both providers and payers, but AI coding and chart review is crowded (AKASA, CodaMetrix, Fathom, Nym, RapidClaims) and revenue is undisclosed.",
+  "distance_sources": [
+   {
+    "label": "Madrona: Doubling down on Charta, revenue 10x (Nov 2026)",
+    "url": "https://www.madrona.com/doubling-down-on-charta-as-healthcare-goes-ai-native/"
+   },
+   {
+    "label": "South Park Commons: Charta serves ~100 organizations in 43 states",
+    "url": "https://www.southparkcommons.com/companies/charta/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Remote (US)",
+   "Remote (Global)"
+  ]
+ },
+ {
+  "name": "Synctera",
+  "slug": "synctera",
+  "site": "https://www.synctera.com",
+  "careers_url": "https://jobs.ashbyhq.com/synctera",
+  "what_they_do": "Banking-as-a-service platform linking fintechs with sponsor banks, plus continuous compliance testing",
+  "problem": "Fintechs need a bank partner to launch accounts and cards, and banks need proof those programs stay compliant",
+  "industry": "Fintech infrastructure / BaaS",
+  "stage": "Series A extension",
+  "last_round": "$24.5M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "NAventures, 1st & Main Growth Partners, Diagram, Fin Capital (equity); Multiplier Capital (venture debt)",
+  "total_open_roles": "1",
+  "ops_roles": "",
+  "hiring_trend": "Shrinking: RIF Jul 2026 after ~123 staff (Revelio, Jun 2026); postings down to 1",
+  "headcount": "~100-123",
+  "latest_news": "Raised $24.5M (~$9.5M equity, rest venture debt) to reach break-even; Main Street Bank joins",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.thisweekinfintech.com/p/exclusive-synctera-raises-24-5m-as-it-expands-baas-network",
+  "traction": "20 new clients in 2026; GMV and interchange doubled YoY; 8 active sponsor banks",
+  "red_flags": "Reduction in force in late Jul 2026 (CSM, payment ops and engineering manager roles cut as the company 'restructures to be a leaner organization'); size not disclosed. Earlier 15% layoff Mar 2024 is outside the 24-month window.",
+  "red_flags_sources": [
+   {
+    "label": "LinkedIn: Strategic CSM role eliminated in Synctera RIF (Jul 31, 2026)",
+    "url": "https://www.linkedin.com/posts/madeline-connall_hello-today-i-learned-that-my-role-as-activity-7488993519261351936-KImg"
+   },
+   {
+    "label": "LinkedIn: Payment Operations Manager role eliminated in RIF (Aug 2026)",
+    "url": "https://www.linkedin.com/posts/barys-danilau_hi-all-this-week-my-role-as-payment-operations-activity-7489371866713763840-Wr2g"
+   },
+   {
+    "label": "LinkedIn: Engineering Manager role cut as Synctera 'restructures to be a leaner organization' (Aug 2026)",
+    "url": "https://www.linkedin.com/posts/kaitlin-o-donnell_recently-i-received-the-news-that-my-role-activity-7490167489822302208-TjxW"
+   },
+   {
+    "label": "Glassdoor: Sep 2026 review, 'if you survive layoffs'",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Synctera-E3954127-RVW105538319.htm"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "26",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Synctera-Reviews-E3954127.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 11, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Sticky ledger and compliance layer for 8 sponsor banks, but a smaller player in a BaaS market shaken by Synapse's collapse, behind Unit, Column and Increase, still not break-even and cutting staff.",
+  "distance_sources": [
+   {
+    "label": "This Week in Fintech: $24.5M raise, ~$9.5M equity, break-even early 2027 (Nov 2026)",
+    "url": "https://www.thisweekinfintech.com/p/exclusive-synctera-raises-24-5m-as-it-expands-baas-network"
+   },
+   {
+    "label": "Synctera CEO blog: 20 clients signed in 2026, Main Street Bank (Nov 2026)",
+    "url": "https://www.synctera.com/post/synctera-funding-main-street-bank"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (US)",
+   "Remote (Canada)"
+  ]
+ },
+ {
+  "name": "Spines",
+  "slug": "spines",
+  "site": "https://spines.com",
+  "careers_url": "https://www.comeet.com/jobs/spines/2B.001",
+  "what_they_do": "AI-assisted book publishing: editing, design, translation, audiobooks and distribution for authors",
+  "problem": "Authors without a publishing deal face slow, costly, fragmented editing, design and distribution work",
+  "industry": "Publishing tech / AI services for authors",
+  "stage": "Series A-1",
+  "last_round": "$29M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Zeev Ventures",
+  "total_open_roles": "17",
+  "ops_roles": "Head of Customer Experience & Success; Account Manager",
+  "hiring_trend": "Headcount ~250 (Feb 2026) -> 350 (Nov 2026); 17 open roles (20 listings)",
+  "headcount": "~350",
+  "latest_news": "$29M Series A-1 led by Zeev Ventures plus $35M growth facility from Twelve",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.calcalistech.com/ctechnews/article/h1civuyrge",
+  "traction": "$50M revenue run rate, up 400% YoY; 8,000+ US authors, ~400 new per month",
+  "red_flags": "Watch (not scored): persistent author complaints and backlash. BBB lists 28 complaints in 3 years (refunds, delays, renewal fees); many 1-star Trustpilot reviews incl. books pulled from Amazon in an Aug-Sep 2026 compliance sweep; WritersWeekly 'Extreme Alert' (Jan 2026); writers' groups criticized the AI model at launch (Nov 2024). No lawsuit or regulator action found.",
+  "red_flags_sources": [
+   {
+    "label": "BBB: Spines complaints (Boynton Beach, FL)",
+    "url": "https://www.bbb.org/us/fl/boynton-beach/profile/publishers/spines-0633-92038781/complaints"
+   },
+   {
+    "label": "Trustpilot: Spines reviews",
+    "url": "https://www.trustpilot.com/review/spines.com"
+   },
+   {
+    "label": "WritersWeekly: Extreme alert about Spines.com (Jan 2026)",
+    "url": "https://writersweekly.com/this-weeks-article/alert-about-spines-com-normans-publishing-booxai-and-velon-book-publishing-by-james-m-walsh-esq"
+   },
+   {
+    "label": "The Guardian: Writers condemn Spines' AI publishing plans (Nov 2024)",
+    "url": "https://www.theguardian.com/books/2024/nov/26/writers-condemn-startups-plans-to-publish-8000-books-next-year-using-ai-spines-artificial-intelligence"
+   }
+  ],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "19",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Spines-Reviews-E9787061.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 11, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Largest AI-native author-services player by its own count (8,000+ authors, $50M run rate), but it sells to individual authors in a market with BookBaby, Reedsy, IngramSpark and Amazon KDP itself, depends on Amazon distribution, and carries a public reputation problem.",
+  "distance_sources": [
+   {
+    "label": "Ctech: Spines $50M run rate, 350 staff (Nov 2026)",
+    "url": "https://www.calcalistech.com/ctechnews/article/h1civuyrge"
+   },
+   {
+    "label": "selfpublishing.com: Spines review, complaint pattern (Sep 2026)",
+    "url": "https://selfpublishing.com/spines-publishing-review/"
+   }
+  ],
+  "hiring_locations": [
+   "Herzliya",
+   "Córdoba",
+   "Buenos Aires",
+   "Remote (LatAm)"
+  ]
  }
 ]

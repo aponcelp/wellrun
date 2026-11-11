@@ -1,0 +1,113 @@
+{
+  "slug": "spines",
+  "checked": "Nov 11, 2026",
+  "founded": 2021,
+  "hq": "Tel Aviv/Herzliya, Israel and New York (US entity in Boynton Beach, FL)",
+  "headcount_est": {
+    "value": "~350",
+    "as_of": "Nov 2026",
+    "source": "https://www.calcalistech.com/ctechnews/article/h1civuyrge"
+  },
+  "leadership": [
+    {
+      "name": "Yehuda Niv",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.calcalistech.com/ctechnews/article/h1civuyrge"
+    },
+    {
+      "name": "Lev David",
+      "title": "Co-founder & CSO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.calcalistech.com/ctechnews/article/h1civuyrge"
+    },
+    {
+      "name": "Nir Kenner",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.calcalistech.com/ctechnews/article/h1civuyrge"
+    },
+    {
+      "name": "Niv Ovdat",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.calcalistech.com/ctechnews/article/h1civuyrge"
+    },
+    {
+      "name": "Nir Ido",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.calcalistech.com/ctechnews/article/h1civuyrge"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-04",
+      "amount": "$6.5M",
+      "valuation": null,
+      "lead": "Aleph",
+      "source": "https://spines.com/spines-secures-6-5-million-in-funding-and-captures-major-media-attention/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-11",
+      "amount": "$16M",
+      "valuation": null,
+      "lead": "Zeev Ventures",
+      "source": "https://techcrunch.com/2024/11/19/itching-to-write-a-book-ai-publisher-spines-wants-to-make-a-deal/"
+    },
+    {
+      "round": "Series A-1",
+      "date": "2026-11",
+      "amount": "$29M",
+      "valuation": null,
+      "lead": "Zeev Ventures",
+      "source": "https://www.prnewswire.com/news-releases/spines-secures-64m-to-help-more-authors-publish-and-reach-readers-worldwide-302933315.html"
+    },
+    {
+      "round": "Debt",
+      "date": "2026-11",
+      "amount": "$35M facility",
+      "valuation": null,
+      "lead": "Twelve",
+      "source": "https://www.undiluted.com/news/twelve-provides-spines-with-35m-growth-financing-facility-in-64m-package"
+    }
+  ],
+  "total_raised": "$51.5M equity; $86M incl. $35M debt facility (Nov 2026)",
+  "revenue_est": {
+    "value": "~$50M revenue run rate, up 400% YoY",
+    "as_of": "Nov 2026",
+    "basis": "company-stated",
+    "source": "https://www.calcalistech.com/ctechnews/article/h1civuyrge"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$29M Series A-1 led by Zeev Ventures plus $35M facility from Twelve",
+      "url": "https://www.calcalistech.com/ctechnews/article/h1civuyrge"
+    },
+    {
+      "date": "2026-01",
+      "headline": "WritersWeekly issues 'Extreme Alert' on Spines over author complaints",
+      "url": "https://writersweekly.com/this-weeks-article/alert-about-spines-com-normans-publishing-booxai-and-velon-book-publishing-by-james-m-walsh-esq"
+    },
+    {
+      "date": "2024-11",
+      "headline": "$16M Series A led by Zeev Ventures; writers criticize AI publishing plan",
+      "url": "https://www.theguardian.com/books/2024/nov/26/writers-condemn-startups-plans-to-publish-8000-books-next-year-using-ai-spines-artificial-intelligence"
+    }
+  ],
+  "competitors": [
+    "BookBaby",
+    "Reedsy",
+    "IngramSpark",
+    "Lulu",
+    "Amazon KDP"
+  ]
+}

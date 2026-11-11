@@ -647,6 +647,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "charta-health": {
+  "url": "https://cdn.prod.website-files.com/697bac58e9de4034f20cb7a7/6997b685aa4566ba36a160b9_Open%20Graph.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-11"
+ },
  "check": {
   "url": "https://cdn.prod.website-files.com/671a2c705660d0119de1cc9f/671ac14172962caffbc11039_OG-IMAGE-1.png",
   "kind": "og",
@@ -3383,6 +3389,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "spines": {
+  "url": "https://cdn.spines.com/wp-content/uploads/2025/04/home.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-11"
+ },
  "split-pay": {
   "url": "https://splitpay.com/static/og-image-v2.png",
   "kind": "og",
@@ -3538,6 +3550,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "synctera": {
+  "url": "https://cdn.prod.website-files.com/67dc285821cb74a9203db416/67dc28e63b4389d45c02f563_SOCIAL%20PREVIEW.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-11"
  },
  "synthesia": {
   "url": "https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6a69f92081e7150b43394a9f_OG-Image-EN.jpg",
