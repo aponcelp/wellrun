@@ -1310,3 +1310,22 @@ a.wk__name:hover { text-decoration: underline; text-decoration-color: var(--clay
 }
 /* Company page: link back to the list for picks */
 .co__rising { font: 600 11px/1 var(--mono); letter-spacing: 0.08em; color: var(--ink); text-decoration: underline; text-decoration-color: var(--clay); text-underline-offset: 3px; text-decoration-thickness: 1.5px; }
+/* Next 25 / Growing 25 split (Nov 12): sibling link, /rising index cards, end links */
+.rise__sib { font: 500 12px/1.4 var(--mono); color: var(--ink-2); margin-top: 6px; }
+.rise__sib a, .rise__h a { color: var(--ink); text-decoration: underline; text-decoration-color: var(--clay); text-underline-offset: 3px; text-decoration-thickness: 1.5px; }
+.back--end { display: flex; flex-wrap: wrap; gap: 8px 20px; justify-content: space-between; }
+.rise__pair { display: grid; gap: 18px; margin-top: 18px; }
+.rise__card { border: 1px solid var(--ink); padding: 16px 18px; display: grid; gap: 8px; align-content: start; }
+.rise__top { list-style: none; display: grid; gap: 0; }
+.rise__top li { display: grid; grid-template-columns: 30px minmax(0, 1fr) auto; gap: 10px; align-items: baseline; padding: 8px 0; border-bottom: 1px solid var(--rule); }
+.rise__top a { font: 700 15px/1.25 var(--sans); color: var(--ink); text-decoration: none; }
+.rise__top a:hover { text-decoration: underline; text-decoration-color: var(--clay); }
+.rise__top small { font: 500 11px/1 var(--mono); color: var(--ink-2); }
+.rise__toprank { font: 400 22px/1 var(--display); text-align: right; font-variant-numeric: tabular-nums; }
+.rise__more { font: 600 12px/1 var(--mono); color: var(--clay-ink); text-decoration: underline; text-underline-offset: 3px; justify-self: start; margin-top: 4px; }
+@media (min-width: 720px) { .rise__pair { grid-template-columns: 1fr 1fr; } }
+/* Four nav buttons: 2x2 on phones so nothing scrolls sideways */
+@media (max-width: 640px) {
+  .navchart { flex-wrap: wrap; }
+  .navchart__b { flex: 1 1 calc(50% - 6px); }
+}
