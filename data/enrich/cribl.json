@@ -1,0 +1,45 @@
+{
+  "slug": "cribl",
+  "checked": "Nov 12, 2026",
+  "founded": 2017,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~1,541",
+    "as_of": "Jun 2026",
+    "source": "https://www.reveliolabs.com/companies/cribl/employees"
+  },
+  "leadership": [
+    {
+      "name": "Clint Sharp",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://cribl.io/news/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series E",
+      "date": "2024-08",
+      "amount": "$319M",
+      "valuation": "$3.5B",
+      "lead": "GV",
+      "source": "https://6figr.com/company/cribl"
+    }
+  ],
+  "total_raised": "~$715M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-03",
+      "headline": "Launches Cribl Guard",
+      "url": "https://cribl.io/news/"
+    }
+  ],
+  "competitors": [
+    "Splunk (Cisco)",
+    "Datadog Observability Pipelines",
+    "Edge Delta",
+    "Tenzir"
+  ]
+}

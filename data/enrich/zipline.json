@@ -1,0 +1,51 @@
+{
+  "slug": "zipline",
+  "checked": "Nov 12, 2026",
+  "founded": 2014,
+  "hq": "South San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Keller Rinaudo Cliffton",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.glassdoor.com/Reviews/Zipline-Reviews-E1394276.htm"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Late stage",
+      "date": "2026-11",
+      "amount": "$1.5B",
+      "valuation": "$21.5B",
+      "lead": "Paradigm, WCM, Layer Global",
+      "source": "https://www.zipline.com/newsroom/zipline-raises-1-5-billion-to-build-nationwide-drone-delivery-network"
+    }
+  ],
+  "total_raised": "~$3B+",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$1.5B at $21.5B; Walmart +300 sites; Uber deal",
+      "url": "https://www.zipline.com/newsroom/zipline-raises-1-5-billion-to-build-nationwide-drone-delivery-network"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Drone parachutes onto Houston highway, no injuries",
+      "url": "https://www.click2houston.com/news/local/2026/09/04/food-delivery-drone-crashes-onto-highway-6-in-nw-harris-county/"
+    },
+    {
+      "date": "2025-09",
+      "headline": "Triples South San Francisco manufacturing facility",
+      "url": "https://www.zipline.com/newsroom/zipline-to-triple-u-s-manufacturing-facility-creating-more-jobs-in-ai-and-robotics"
+    }
+  ],
+  "competitors": [
+    "Wing",
+    "Amazon Prime Air",
+    "Flytrex",
+    "DroneUp"
+  ]
+}

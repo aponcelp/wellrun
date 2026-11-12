@@ -1,0 +1,63 @@
+{
+  "slug": "voya-energy",
+  "checked": "Nov 12, 2026",
+  "founded": 2025,
+  "hq": "Hayward, CA",
+  "headcount_est": {
+    "value": "~38",
+    "as_of": "Jul 2026",
+    "source": "https://linkedin.com/company/109899017"
+  },
+  "leadership": [
+    {
+      "name": "Richard Wang",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.voya.energy/news/voya-energy-launches-to-develop-metal-fuels-technology-accelerating-universal-energy-availability"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-11",
+      "amount": "$13M",
+      "valuation": null,
+      "lead": "Energy Impact Partners",
+      "source": "https://www.voya.energy/news/voya-energy-launches-to-develop-metal-fuels-technology-accelerating-universal-energy-availability"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-08",
+      "amount": "$35M",
+      "valuation": "~$140M",
+      "lead": "Energy Impact Partners",
+      "source": "https://www.businesswire.com/news/home/20260826381076/en/Voya-Energy-Unveils-Metal-Fuels-Energy-System-Closes-%2435-Million-Series-A"
+    }
+  ],
+  "total_raised": "$48M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "MOL Switch invests for maritime use",
+      "url": "https://www.voya.energy/news/mol-switch-invests-in-voya-energy-to-explore-aluminum-fuels-for-maritime-electrification"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Idemitsu invests via its CVC",
+      "url": "https://www.voya.energy/news/idemitsu-invests-in-voya-energy-to-explore-a-novel-energy-generation-approach-utilizing-aluminum-metal"
+    },
+    {
+      "date": "2026-08",
+      "headline": "$35M Series A; unveils metal-fuels system",
+      "url": "https://www.businesswire.com/news/home/20260826381076/en/Voya-Energy-Unveils-Metal-Fuels-Energy-System-Closes-%2435-Million-Series-A"
+    }
+  ],
+  "competitors": [
+    "Bloom Energy",
+    "Caterpillar diesel gensets",
+    "Form Energy",
+    "Mainspring Energy"
+  ]
+}

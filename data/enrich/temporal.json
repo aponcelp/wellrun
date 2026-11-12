@@ -1,0 +1,75 @@
+{
+  "slug": "temporal",
+  "checked": "Nov 12, 2026",
+  "founded": 2019,
+  "hq": "Bellevue, WA (remote-first)",
+  "headcount_est": {
+    "value": "~570",
+    "as_of": "Sep 2026",
+    "source": "https://temporal.io/blog/temporal-series-e-letter-from-ceo-samar-abbas"
+  },
+  "leadership": [
+    {
+      "name": "Samar Abbas",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://temporal.io/blog/temporal-series-e-letter-from-ceo-samar-abbas"
+    },
+    {
+      "name": "Maxim Fateev",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.geekwire.com/2026/temporal-ceo-samar-abbas-on-the-massive-platform-shift-in-ai-fueling-the-startups-5b-valuation/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series D",
+      "date": "2026-02",
+      "amount": "$300M",
+      "valuation": "$5B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.reuters.com/business/media-telecom/temporal-raises-300-million-andreessen-led-round-amid-ai-agent-boom-2026-02-17/"
+    },
+    {
+      "round": "Series E",
+      "date": "2026-09",
+      "amount": "$550M",
+      "valuation": "$12.55B",
+      "lead": "Lightspeed",
+      "source": "https://temporal.io/news/temporal-raises-550m-at-a-12-55b-valuation"
+    }
+  ],
+  "total_raised": "~$1.2B",
+  "revenue_est": {
+    "value": "$250M+ run rate",
+    "as_of": "Sep 2026",
+    "basis": "company-stated",
+    "source": "https://temporal.io/news/temporal-raises-550m-at-a-12-55b-valuation"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Hires Oso team to build AI-agent security controls",
+      "url": "https://aventure.vc/news/2026-10-07-fast-growing-temporal-hires-team-from-nyc-startup-oso-to-build-ai-agent-security-controls"
+    },
+    {
+      "date": "2026-09",
+      "headline": "$550M Series E at $12.55B",
+      "url": "https://temporal.io/news/temporal-raises-550m-at-a-12-55b-valuation"
+    },
+    {
+      "date": "2026-02",
+      "headline": "$300M Series D at $5B led by a16z",
+      "url": "https://www.reuters.com/business/media-telecom/temporal-raises-300-million-andreessen-led-round-amid-ai-agent-boom-2026-02-17/"
+    }
+  ],
+  "competitors": [
+    "AWS Step Functions",
+    "Inngest",
+    "Restate",
+    "Camunda"
+  ]
+}

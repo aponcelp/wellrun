@@ -1,0 +1,46 @@
+{
+  "slug": "lambda",
+  "checked": "Nov 12, 2026",
+  "founded": 2012,
+  "hq": "San Francisco / San Jose, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Stephen Balaban",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.glassdoor.com/Overview/Working-at-Lambda-EI_IE1349943.11,17.htm"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series E",
+      "date": "2025-11",
+      "amount": "$1.5B",
+      "valuation": null,
+      "lead": "TWG Global",
+      "source": "https://jobsbyculture.com/companies/lambda"
+    }
+  ],
+  "total_raised": "$2.3B+ equity (plus debt facilities)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Anthropic S-1: $34.9B Lambda deal now terminable after missed lease",
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Kansas City data-center incentive request withdrawn",
+      "url": "https://www.kansascity.com/news/local/article316024513.html"
+    }
+  ],
+  "competitors": [
+    "CoreWeave",
+    "Nebius",
+    "Crusoe",
+    "Together AI"
+  ]
+}

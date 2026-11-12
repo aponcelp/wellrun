@@ -1,0 +1,57 @@
+{
+  "slug": "matx",
+  "checked": "Nov 12, 2026",
+  "founded": 2022,
+  "hq": "Mountain View, CA",
+  "headcount_est": {
+    "value": "~139",
+    "as_of": "Nov 2026",
+    "source": "https://aventure.vc/companies/matx-mountain-view-ca-us/news"
+  },
+  "leadership": [
+    {
+      "name": "Reiner Pope",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://6figr.com/company/matx"
+    },
+    {
+      "name": "Mike Gunter",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://6figr.com/company/matx"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2026-02",
+      "amount": "$500M",
+      "valuation": null,
+      "lead": "Jane Street, Situational Awareness",
+      "source": "https://www.bloomberg.com/news/articles/2026-02-24/ai-chip-startup-matx-raises-500-million-to-compete-with-nvidia"
+    }
+  ],
+  "total_raised": "~$605M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Anthropic weighed ~$7B purchase; now partnership talks",
+      "url": "https://www.reuters.com/business/finance/anthropic-planned-then-abandoned-7-billion-purchase-matx-sources-say-2026-08-27/"
+    },
+    {
+      "date": "2026-02",
+      "headline": "$500M Series B",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-24/ai-chip-startup-matx-raises-500-million-to-compete-with-nvidia"
+    }
+  ],
+  "competitors": [
+    "Nvidia",
+    "Etched",
+    "Cerebras",
+    "Groq"
+  ]
+}

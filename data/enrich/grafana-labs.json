@@ -1,0 +1,62 @@
+{
+  "slug": "grafana-labs",
+  "checked": "Nov 12, 2026",
+  "founded": 2014,
+  "hq": "New York, NY (fully remote)",
+  "headcount_est": {
+    "value": "~1,800",
+    "as_of": "May 2026",
+    "source": "https://jobsbyculture.com/blog/working-at-grafanalabs-2026"
+  },
+  "leadership": [
+    {
+      "name": "Raj Dutt",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.glassdoor.com/Reviews/Grafana-Labs-Reviews-E2300269.htm"
+    },
+    {
+      "name": "Torkel Ödegaard",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://jobsbyculture.com/blog/working-at-grafanalabs-2026"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series E",
+      "date": "2026-03",
+      "amount": "$250M",
+      "valuation": "~$9B",
+      "lead": "GIC",
+      "source": "https://jobsbyculture.com/blog/working-at-grafanalabs-2026"
+    }
+  ],
+  "total_raised": "~$1.1B",
+  "revenue_est": {
+    "value": "$400M+ ARR",
+    "as_of": "Late 2025",
+    "basis": "reported",
+    "source": "https://jobsbyculture.com/blog/working-at-grafanalabs-2026"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-07",
+      "headline": "Agentic AI capabilities for Grafana Assistant",
+      "url": "https://grafana.com/whats-new/2026-07-29-grafana-cloud-docs-get-a-new-home-for-ai"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Codebase stolen in GitHub breach; ransom refused",
+      "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/"
+    }
+  ],
+  "competitors": [
+    "Datadog",
+    "Dynatrace",
+    "Chronosphere",
+    "New Relic"
+  ]
+}

@@ -389,6 +389,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "atoms": {
+  "url": "https://framerusercontent.com/images/dNoeYLyZlFglP4fydOlA1DIZB1o.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "attention": {
   "url": "https://cdn.prod.website-files.com/66c6eb8376ae25cee9273195/6a91cd4f88973bdf60c852e3_og_img.jpg",
   "kind": "og",
@@ -653,11 +659,23 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "catalyst": {
+  "url": "https://catalyst.app/og-image.png?v=2",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "causa-prima": {
   "url": "https://causaprima.com/og-card.jpg",
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "chai-discovery": {
+  "url": "https://framerusercontent.com/images/GHT9QAB4zu0jdGsoQxwESRTW8.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "chainguard": {
   "url": "https://images.ctfassets.net/l47ir7rfykkn/TLlGMpRLUthcQwOqUaxeD/015493ab350e8b12565d390f09c5ca69/Chaingurd_OG_Image.png",
@@ -959,6 +977,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "cribl": {
+  "url": "https://images.ctfassets.net/xnqwd8kotbaj/7d221sw8BfNyeoGGE4Vd5t/da4649cecdadff1cb69954ec4577c232/Homepage-OG_1920x1005_Teal.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "crosby": {
   "url": "https://cdn.sanity.io/images/q0rw6tov/production/0f7ad0ae733ad98919db05ca5eaaf684cfa93fe1-1920x1080.png?w=1200&h=630&fit=crop&fm=png",
   "kind": "og",
@@ -1084,6 +1108,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "densityai": {
+  "url": "https://www.densityai.com/assets/images/og/og-default.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
  },
  "depthfirst": {
   "url": "https://depthfirst.com/images/depthfirst-og.png",
@@ -1301,6 +1331,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "evenup": {
+  "url": "https://www.evenuplaw.com/wp-content/uploads/homepage-thumbnail.webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-11-12"
+ },
  "every-io": {
   "url": "https://cdn.prod.website-files.com/67bd8516c05e6b61bc3f959f/67e2117b63cbe67b72ac7a08_og_image_02img.jpg",
   "kind": "og",
@@ -1463,6 +1499,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "fomo": {
+  "url": "https://fomo.family/images/og-image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "footprint": {
   "url": "https://framerusercontent.com/assets/dTqiC2XcwfU5H995obGjZL9EQ.png",
   "kind": "og",
@@ -1595,6 +1637,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "generalist": {
+  "url": "https://generalistai.com/assets/images/generalist-og-image.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
+ },
  "geom": {
   "url": "https://geom.ai/__l5e/assets-v1/a1e7b70c-560a-410b-8b12-06fc9daba49e/geom-imessage-share.jpg",
   "kind": "og",
@@ -1661,6 +1709,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "grafana-labs": {
+  "url": "https://a-us.storyblok.com/f/1022730/1920x1080/f5f38546c4/image-homepage-metaimage.png/m/1200x630/filters:format(jpeg):quality(80)/",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
+ },
  "granola": {
   "url": "https://www.granola.ai/og-image.png",
   "kind": "og",
@@ -1708,6 +1762,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "handshake": {
+  "url": "https://cdn.sanity.io/images/mz2hls6g/production/c89577dc7e913e0b66e419630a1935abfda5659d-1200x630.png?fm=webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-11-12"
  },
  "happyrobot": {
   "url": "https://happyrobot.b-cdn.net/HappyRobot_HeroLoop_v01%20(00184)%201-1200x630.png",
@@ -2003,6 +2063,12 @@
   "type": "image/webp",
   "checked": "2026-10-19"
  },
+ "lambda": {
+  "url": "https://lambda.com/hubfs/OPENGRAPH%20-%20Main-1.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "langchain": {
   "url": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/6a907b277587adb77be09e34_Website%20preview%20.png",
   "kind": "og",
@@ -2225,6 +2291,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "matx": {
+  "url": "https://matx.com/images/cover.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "mave": {
   "url": "https://cdn.prod.website-files.com/6988c75fc75dc9dd4f796dc8/69b2b7bc17d77c163c3af013_444056ce2fc5064f7729770e0550a33c_opengraph.png",
   "kind": "og",
@@ -2295,6 +2367,12 @@
   "url": "https://framerusercontent.com/images/iwBLctwKwSWEvWePHu13JHZO0A.jpg",
   "kind": "og",
   "type": "image/jpeg",
+  "checked": "2026-11-12"
+ },
+ "mind-robotics": {
+  "url": "https://www.datocms-assets.com/221981/1784633509-share-image.png?auto=format&fit=max&w=1200",
+  "kind": "og",
+  "type": "image/png",
   "checked": "2026-11-12"
  },
  "mintlify": {
@@ -3749,6 +3827,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "temporal": {
+  "url": "https://temporal.io/images/open-graph/shiny.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "tendrils-compute": {
   "url": "https://tendrils.co/apple-touch-icon-57x57.png",
   "kind": "icon",
@@ -4109,6 +4193,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "voya-energy": {
+  "url": "https://cdn.prod.website-files.com/6a47ffd1ac434dc8cd77d2b7/6a876e7679faab841258b86e_fuel-c-img.webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-11-12"
+ },
  "waabi": {
   "url": "https://www.datocms-assets.com/163962/1756426717-waabi_road2_04965.jpg?auto=format&fit=max&w=1200",
   "kind": "og",
@@ -4264,5 +4354,11 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "zipline": {
+  "url": "https://www.zipline.com/og-default-v2.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
  }
 }
