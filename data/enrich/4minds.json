@@ -1,0 +1,76 @@
+{
+  "slug": "4minds",
+  "checked": "Nov 12, 2026",
+  "founded": 2024,
+  "hq": "Dallas, TX",
+  "headcount_est": {
+    "value": "~60",
+    "as_of": "Nov 2026",
+    "source": "https://dallasinnovates.com/dallas-ai-startup-4minds-raises-15m-series-a-at-500m-valuation/"
+  },
+  "leadership": [
+    {
+      "name": "Ryan Trimberger",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/Ryantrimberger",
+      "source": "https://4minds.ai/why-4minds"
+    },
+    {
+      "name": "Jerome Naidoo",
+      "title": "Co-founder, CTO & Lead Inventor",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cdomagazine.tech/others/4minds-raises-15m-series-a-to-give-enterprises-a-faster-path-to-accurate-ai"
+    },
+    {
+      "name": "Jason Nocco",
+      "title": "Co-founder & CRO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cdomagazine.tech/others/4minds-raises-15m-series-a-to-give-enterprises-a-faster-path-to-accurate-ai"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-11",
+      "amount": "$15M",
+      "valuation": "$500M post",
+      "lead": "Waterwood Capital Group, Isom Holdings",
+      "source": "https://dallasinnovates.com/dallas-ai-startup-4minds-raises-15m-series-a-at-500m-valuation/"
+    },
+    {
+      "round": "Seed",
+      "date": "2026",
+      "amount": "$9M+",
+      "valuation": null,
+      "lead": null,
+      "source": "https://dallasinnovates.com/2026-ai75/"
+    }
+  ],
+  "total_raised": "~$24M",
+  "revenue_est": "$2.5M+ ARR (company, Mar 2026)",
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$15M Series A at $500M post-money from Dallas family offices",
+      "url": "https://dallasinnovates.com/dallas-ai-startup-4minds-raises-15m-series-a-at-500m-valuation/"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Selected for Microsoft for Startups Pegasus Program",
+      "url": "https://4minds.ai/news/4minds-selected-for-the-microsoft-for-startups-pegasus-program"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Emerges from stealth",
+      "url": "https://dallasinnovates.com/2026-ai75/"
+    }
+  ],
+  "competitors": [
+    "Glean",
+    "Contextual AI",
+    "Databricks"
+  ]
+}

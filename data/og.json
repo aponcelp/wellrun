@@ -17,6 +17,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-22"
  },
+ "4minds": {
+  "url": "https://cdn.sanity.io/images/206mgkkc/staging/f9d55320e06f3ade363a334999a758371c4d1b6e-1200x630.svg?w=1200&h=630&fm=png&fit=crop",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "aaru": {
   "url": "https://aaru.com/share.png?v=20260727",
   "kind": "og",
@@ -2279,6 +2285,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "mirendil": {
+  "url": "https://mirendil.com/assets/preview-default.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "mistral-ai": {
   "url": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
   "kind": "og",
@@ -2380,6 +2392,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "mount-thor": {
+  "url": "https://mountthor.com/banner-og.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "mural": {
   "url": "https://cdn.prod.website-files.com/62e11362da2667ac3d0e6ed5/638f50f56076f389d91406a0_Mural_OG_image_launch.png",

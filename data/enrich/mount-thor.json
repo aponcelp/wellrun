@@ -1,0 +1,40 @@
+{
+  "slug": "mount-thor",
+  "checked": "Nov 12, 2026",
+  "founded": 2026,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Peter Voell",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20261112125652/en/Mount-Thor-Raises-%2445-Million-to-Build-Cloud-Infrastructure-for-Agentic-AI-on-Apple-Hardware"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A",
+      "date": "2026-11",
+      "amount": "$45M",
+      "valuation": null,
+      "lead": "CRV, Conviction (A); Chad Byers, Offline Ventures (seed)",
+      "source": "https://www.finsmes.com/2026/11/mount-thor-raises-45m-in-seed-and-series-a-funding.html"
+    }
+  ],
+  "total_raised": "$45M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Raises $45M seed + Series A; also non-dilutive hardware financing",
+      "url": "https://9to5mac.com/2026/11/12/mount-thor-raises-45-million-to-build-mac-data-centers-for-ai-agents/"
+    }
+  ],
+  "competitors": [
+    "MacStadium",
+    "AWS EC2 Mac",
+    "Scaleway Apple silicon"
+  ]
+}

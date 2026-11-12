@@ -41922,5 +41922,148 @@
   "hiring_locations": [
    "Lindon"
   ]
+ },
+ {
+  "name": "Mount Thor",
+  "slug": "mount-thor",
+  "site": "https://www.mountthor.com",
+  "careers_url": "https://jobs.ashbyhq.com/mount-thor",
+  "what_they_do": "Mac cloud: on-demand bare-metal Macs and macOS VMs for AI agents and inference",
+  "problem": "AI labs and agent builders need macOS at data-center scale, and nobody rents Apple hardware like a cloud",
+  "industry": "AI infrastructure / Apple silicon cloud",
+  "stage": "Series A",
+  "last_round": "$45M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "CRV, Conviction (Series A); Chad Byers, Offline Ventures (seed)",
+  "total_open_roles": "8",
+  "ops_roles": "Data Center Operations Lead (SF); Developer Relations Lead (SF)",
+  "hiring_trend": "New company (founded 2026); 8 open roles plus general interest, mostly fleet/infra engineering",
+  "headcount": "",
+  "latest_news": "Raised $45M seed + Series A (CRV, Conviction) to expand Mac data centers",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20261112125652/en/Mount-Thor-Raises-%2445-Million-to-Build-Cloud-Infrastructure-for-Agentic-AI-on-Apple-Hardware",
+  "traction": "First data center live in under six months; says it runs one of the largest Apple silicon fleets; no customers or revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Scale",
+  "distance": "Unproven",
+  "distance_why": "Founded in 2026 with one data center; the bet that Apple hardware becomes real AI cloud capacity is untested at scale.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Mount Thor raises $45M (Nov 2026)",
+    "url": "https://www.businesswire.com/news/home/20261112125652/en/Mount-Thor-Raises-%2445-Million-to-Build-Cloud-Infrastructure-for-Agentic-AI-on-Apple-Hardware"
+   },
+   {
+    "label": "9to5Mac: Mount Thor raises $45M to build Mac data centers for AI agents (Nov 2026)",
+    "url": "https://9to5mac.com/2026/11/12/mount-thor-raises-45-million-to-build-mac-data-centers-for-ai-agents/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
+ },
+ {
+  "name": "4Minds",
+  "slug": "4minds",
+  "site": "https://4minds.ai",
+  "careers_url": "https://ats.4minds.ai/careers",
+  "what_they_do": "Contextual AI platform: builds a knowledge graph from company data and keeps models tuned on it",
+  "problem": "Enterprise AI lacks company context; prepping data and retraining models stalls for months and leaks data",
+  "industry": "Enterprise AI / data and knowledge platform",
+  "stage": "Series A",
+  "last_round": "$15M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Waterwood Capital Group, Isom Holdings (family offices)",
+  "total_open_roles": "5",
+  "ops_roles": "Forward Deployed Engineer (remote US)",
+  "hiring_trend": "Headcount 13 (Feb 2026) to 60+ (Nov 2026), targets ~100 by early 2027",
+  "headcount": "~60",
+  "latest_news": "Raised $15M Series A at $500M post-money from Dallas family offices",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://dallasinnovates.com/dallas-ai-startup-4minds-raises-15m-series-a-at-500m-valuation/",
+  "traction": "$2.5M ARR within two months of private alpha (company, Mar 2026); headcount ~5x in 2026",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Seven months out of stealth in a crowded enterprise-context space (Glean, Databricks, hyperscaler tools); marketplace and partner programs but little proof of scale.",
+  "distance_sources": [
+   {
+    "label": "Dallas Innovates: 4Minds raises $15M Series A at $500M (Nov 2026)",
+    "url": "https://dallasinnovates.com/dallas-ai-startup-4minds-raises-15m-series-a-at-500m-valuation/"
+   },
+   {
+    "label": "Dallas Innovates: AI 75 (Mar 2026), $2.5M ARR in private alpha",
+    "url": "https://dallasinnovates.com/2026-ai75/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Mirendil",
+  "slug": "mirendil",
+  "site": "https://mirendil.com",
+  "careers_url": "https://jobs.ashbyhq.com/mirendil",
+  "what_they_do": "Frontier AI lab building models and agents that do AI research and engineering work",
+  "problem": "Frontier AI R&D needs hundreds of elite researchers and huge budgets only a few labs have",
+  "industry": "AI research lab / AI R&D tools",
+  "stage": "Series A",
+  "last_round": "$1B",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Kleiner Perkins, Clearlake Capital",
+  "total_open_roles": "16",
+  "ops_roles": "Member of Technical Staff, Company Building (SF); Founding Finance (SF); Member of Technical Staff, Founding GTM (SF)",
+  "hiring_trend": "~20 staff at Jun 2026 launch (12 on LinkedIn); 16 open roles, up from 12 in Oct",
+  "headcount": "~20",
+  "latest_news": "Raised $1B Series A led by Kleiner Perkins and Clearlake Capital",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://mirendil.com/news/series-a/",
+  "traction": "Pre-revenue; Fern model released, Lor agent product in private beta, first enterprise customers starting to be billed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Five months past launch with a beta product and no revenue; competes with the big labs it came from and other neolabs.",
+  "distance_sources": [
+   {
+    "label": "Mirendil: $1B Series A (Nov 2026)",
+    "url": "https://mirendil.com/news/series-a/"
+   },
+   {
+    "label": "Bloomberg: Mirendil in talks at $5B valuation (Sep 2026)",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-22/ex-anthropic-staffers-ai-startup-in-talks-to-raise-at-5-billion-value"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
  }
 ]
