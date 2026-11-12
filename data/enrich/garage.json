@@ -1,0 +1,91 @@
+{
+  "slug": "garage",
+  "checked": "Nov 11, 2026",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~35-45",
+    "as_of": "Oct 2026",
+    "source": "https://pitchbook.com/profiles/company/591448-06"
+  },
+  "leadership": [
+    {
+      "name": "Martin Hunt",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fortune.com/2026/11/10/garage-used-fire-trucks-martin-hunt-funding/"
+    },
+    {
+      "name": "Alaz Sengul",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fortune.com/2026/11/10/garage-used-fire-trucks-martin-hunt-funding/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed (Y Combinator W24)",
+      "date": "2024-01",
+      "amount": null,
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://www.ycombinator.com/companies/garage-2"
+    },
+    {
+      "round": "Seed",
+      "date": "2024",
+      "amount": "$4.5M",
+      "valuation": null,
+      "lead": "Initialized Capital",
+      "source": "https://alleywatch.com/2025/08/garage-municipal-equipment-emergency-vehicle-fire-truck-marketplace-martin-hunt/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-08",
+      "amount": "$13.5M",
+      "valuation": null,
+      "lead": "Infinity Ventures",
+      "source": "https://www.prnewswire.com/news-releases/garage-raises-13-5m-series-a-to-build-modern-marketplace-for-americas-essential-equipment-302534666.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-11",
+      "amount": "$41M",
+      "valuation": "$225M",
+      "lead": "Invus Opportunities",
+      "source": "https://fortune.com/2026/11/10/garage-used-fire-trucks-martin-hunt-funding/"
+    }
+  ],
+  "total_raised": "$60M (company-stated, Nov 2026)",
+  "revenue_est": {
+    "value": "$100M+ annualized platform sales (GMV, not revenue); revenue undisclosed, ~10% take rate",
+    "as_of": "Nov 2026",
+    "basis": "company-stated",
+    "source": "https://fortune.com/2026/11/10/garage-used-fire-trucks-martin-hunt-funding/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$41M Series B led by Invus at $225M valuation; $100M+ annual platform sales",
+      "url": "https://fortune.com/2026/11/10/garage-used-fire-trucks-martin-hunt-funding/"
+    },
+    {
+      "date": "2026-03",
+      "headline": "Fire and EMS departments turn to Garage as new apparatus costs and delays surge",
+      "url": "https://www.ems1.com/ambulances-and-emergency-vehicles/fire-ems-departments-turn-to-online-resale-market-as-apparatus-costs-surge"
+    },
+    {
+      "date": "2025-08",
+      "headline": "$13.5M Series A led by Infinity Ventures ($18M total)",
+      "url": "https://techcrunch.com/2025/08/20/yc-backed-garage-raises-13-5m-to-help-firefighters-buy-equipment/"
+    }
+  ],
+  "competitors": [
+    "GovDeals",
+    "Municibid",
+    "Brindlee Mountain Fire Apparatus",
+    "Fenton Fire Equipment"
+  ]
+}

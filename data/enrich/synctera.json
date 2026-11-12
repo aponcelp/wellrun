@@ -1,0 +1,106 @@
+{
+  "slug": "synctera",
+  "checked": "Nov 11, 2026",
+  "founded": 2020,
+  "hq": "San Francisco, CA (remote-first; Toronto team)",
+  "headcount_est": {
+    "value": "~123 (before Jul 2026 RIF)",
+    "as_of": "Jun 2026",
+    "source": "https://www.reveliolabs.com/companies/synctera/employees"
+  },
+  "leadership": [
+    {
+      "name": "Peter Hazlehurst",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.finsmes.com/2026/11/synctera-raises-24-5m-in-funding.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-12",
+      "amount": "$12.4M",
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://news.crunchbase.com/startups/banking-on-fintechs-synctera-raises-12-4m-seed-for-financial-services-matching-platform/"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-06",
+      "amount": "$33M",
+      "valuation": null,
+      "lead": "Fin VC",
+      "source": "https://www.synctera.com/news/synctera-raises-33m-series-a-accelerates-growth-following-record-demand-from-community-banks-and-fintechs"
+    },
+    {
+      "round": "Strategic",
+      "date": "2023-03",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "NAventures",
+      "source": "https://app.dealroom.co/companies/synctera"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2024-03",
+      "amount": "$18.6M",
+      "valuation": null,
+      "lead": null,
+      "source": "http://techcrunch.com/2024/03/26/baas-startup-synctera-layoffs-fintech"
+    },
+    {
+      "round": "Series A extension",
+      "date": "2025-03",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Fin Capital, Diagram",
+      "source": "https://techcrunch.com/2025/03/11/baas-startup-synctera-raises-15m-signs-bolt-as-a-customer/"
+    },
+    {
+      "round": "Series A extension (equity ~$9.5M + venture debt)",
+      "date": "2026-11",
+      "amount": "$24.5M",
+      "valuation": null,
+      "lead": "NAventures, 1st & Main, Diagram, Fin Capital; debt from Multiplier Capital",
+      "source": "https://www.thisweekinfintech.com/p/exclusive-synctera-raises-24-5m-as-it-expands-baas-network"
+    }
+  ],
+  "total_raised": "$126.7M incl. venture debt (company-stated, Nov 2026)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Raises $24.5M (equity + venture debt) to reach break-even; Main Street Bank joins",
+      "url": "https://www.thisweekinfintech.com/p/exclusive-synctera-raises-24-5m-as-it-expands-baas-network"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Registers as a money services business",
+      "url": "https://www.thisweekinfintech.com/p/exclusive-synctera-becomes-a-money-services-business-making-a-long-term-bet-on-baas"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Reduction in force cuts CSM, payment ops and engineering roles",
+      "url": "https://www.linkedin.com/posts/madeline-connall_hello-today-i-learned-that-my-role-as-activity-7488993519261351936-KImg"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Acquires compliance-testing startup Cable",
+      "url": "https://www.synctera.com/news/synctera-acquires-cable-to-automate-compliance-verification-across-the-financial-ecosystem"
+    },
+    {
+      "date": "2025-03",
+      "headline": "$15M Series A extension; signs Bolt",
+      "url": "https://techcrunch.com/2025/03/11/baas-startup-synctera-raises-15m-signs-bolt-as-a-customer/"
+    }
+  ],
+  "competitors": [
+    "Unit",
+    "Treasury Prime",
+    "Column",
+    "Increase",
+    "Bond"
+  ]
+}

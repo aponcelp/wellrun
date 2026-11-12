@@ -1,0 +1,93 @@
+{
+  "slug": "fractile",
+  "checked": "Nov 11, 2026",
+  "founded": 2022,
+  "hq": "London, UK (plus Bristol; hiring in Taiwan)",
+  "headcount_est": {
+    "value": "~150",
+    "as_of": "Oct 2026",
+    "source": "https://dealroom.co/news/talk-OpeCP4wCxkA-the-memory-bandwidth-bet-behind-fractiles-inference-chips/"
+  },
+  "leadership": [
+    {
+      "name": "Walter Goodwin",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://uk.linkedin.com/in/walter-goodwin",
+      "source": "https://lsvp.com/stories/accelerating-intelligence-our-investment-in-fractile/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-07",
+      "amount": "£12M (~$15M)",
+      "valuation": null,
+      "lead": "Kindred Capital, NATO Innovation Fund, Oxford Science Enterprises",
+      "source": "https://techfundingnews.com/fractile-577m-series-c-nvidia-ai-chips/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-05",
+      "amount": "$220M",
+      "valuation": "~$1B-1.1B",
+      "lead": "Accel, Founders Fund, Factorial Funds",
+      "source": "https://www.fractile.ai/news/fractile-raises-220m-to-build-the-next-generation-of-inference-hardware"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-11",
+      "amount": "$720M (Companies House shows £577M allotted Sep-Oct 2026)",
+      "valuation": "~$7B post-money (FT); over £5B (UK gov)",
+      "lead": "Lightspeed, Redpoint",
+      "source": "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware"
+    }
+  ],
+  "total_raised": "~$960M-$1B (sources differ)",
+  "revenue_est": {
+    "value": "Pre-revenue; ~$250M initial chip order from Anthropic, deliveries 2027",
+    "as_of": "Oct 2026",
+    "basis": "press report",
+    "source": "https://techfundingnews.com/fractile-577m-series-c-nvidia-ai-chips/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$720M Series C at ~$7B post-money; UK Sovereign AI and British Business Bank join",
+      "url": "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Companies House filings show £577M of Series C shares issued",
+      "url": "https://techfundingnews.com/fractile-577m-series-c-nvidia-ai-chips/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "In talks at $6.5B pre-money after ~$250M Anthropic chip deal (Bloomberg)",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ai-chip-startup-fractile-in-talks-for-6-5-billion-value-after-anthropic-deal"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Raises $220M Series B led by Accel, Founders Fund and Factorial Funds",
+      "url": "https://www.fractile.ai/news/fractile-raises-220m-to-build-the-next-generation-of-inference-hardware"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Commits £100M over three years to expand London and Bristol, new hardware test site",
+      "url": "https://tech.eu/2026/02/10/uk-tech-startups-urged-to-take-bold-risks-by-ai-minister-as-chip-startup-fractile-invests-100m/"
+    },
+    {
+      "date": "2026-02",
+      "headline": "Report: co-founder/CTO exited in 2024 over concerns about China ties",
+      "url": "https://www.cityam.com/china-ties-force-co-founder-exit-at-uk-ai-startup-fractile/"
+    }
+  ],
+  "competitors": [
+    "Nvidia",
+    "etched",
+    "Groq",
+    "Cerebras",
+    "sambanova",
+    "positron-ai"
+  ]
+}
