@@ -1,0 +1,47 @@
+{
+  "slug": "transfyr",
+  "checked": "Nov 12, 2026",
+  "founded": 2025,
+  "hq": "Cambridge, MA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Anna Marie Wagner",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.transfyr.ai/news/transfyr-launches-physical-ai-platform-for-science-with-usd25m-seed-funding"
+    },
+    {
+      "name": "Renee Wegrzyn",
+      "title": "Co-founder & Chief Innovation Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.transfyr.ai/news/transfyr-launches-physical-ai-platform-for-science-with-usd25m-seed-funding"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-08",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://www.transfyr.ai/news/transfyr-launches-physical-ai-platform-for-science-with-usd25m-seed-funding"
+    }
+  ],
+  "total_raised": "$25M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Launches with $25M seed led by General Catalyst",
+      "url": "https://www.transfyr.ai/news/transfyr-launches-physical-ai-platform-for-science-with-usd25m-seed-funding"
+    }
+  ],
+  "competitors": [
+    "Benchling",
+    "Emerald Cloud Lab",
+    "Periodic Labs"
+  ]
+}

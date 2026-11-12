@@ -1,0 +1,47 @@
+{
+  "slug": "terrafirma",
+  "checked": "Nov 12, 2026",
+  "founded": 2024,
+  "hq": "Austin, TX",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Noah Schochet",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/2026/07/14/terrafirma-construction-tech-spacex.html"
+    },
+    {
+      "name": "Noah McGuinness",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.cnbc.com/2026/07/14/terrafirma-construction-tech-spacex.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-07",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": "Kleiner Perkins",
+      "source": "https://www.businesswire.com/news/home/20260714397606/en/TerraFirma-Raises-%24115M-to-Accelerate-Construction-on-Earth-and-Beyond"
+    }
+  ],
+  "total_raised": "~$115M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-07",
+      "headline": "Raises ~$115M incl. $100M Series A led by Kleiner Perkins",
+      "url": "https://www.businesswire.com/news/home/20260714397606/en/TerraFirma-Raises-%24115M-to-Accelerate-Construction-on-Earth-and-Beyond"
+    }
+  ],
+  "competitors": [
+    "Built Robotics",
+    "Bedrock Robotics",
+    "SafeAI"
+  ]
+}

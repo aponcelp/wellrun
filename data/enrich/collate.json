@@ -1,0 +1,63 @@
+{
+  "slug": "collate",
+  "checked": "Nov 12, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Surbhi Sarna",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://collate.com/company/about"
+    },
+    {
+      "name": "Nate Smith",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://collate.com/company/about"
+    },
+    {
+      "name": "Jigish Patel",
+      "title": "Co-founder & Chief Architect",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://collate.com/company/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-01",
+      "amount": "$30M",
+      "valuation": "~$100M",
+      "lead": "Redpoint",
+      "source": "https://www.forbes.com/sites/alexkonrad/2025/01/13/yc-surbhi-sarna-raises-30-million-ai-life-sciences/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-06",
+      "amount": "$95M",
+      "valuation": null,
+      "lead": "Redpoint",
+      "source": "https://www.forbes.com/sites/innovationrx/2026/06/03/ai-startup-collate-raises-95-million-to-automate-life-sciences-paperwork/"
+    }
+  ],
+  "total_raised": "$125M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-06",
+      "headline": "$95M Series A led by Redpoint",
+      "url": "https://www.forbes.com/sites/innovationrx/2026/06/03/ai-startup-collate-raises-95-million-to-automate-life-sciences-paperwork/"
+    }
+  ],
+  "competitors": [
+    "Veeva",
+    "Certara",
+    "Yseop",
+    "Weave Bio"
+  ]
+}

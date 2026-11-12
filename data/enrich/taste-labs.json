@@ -1,0 +1,49 @@
+{
+  "slug": "taste-labs",
+  "checked": "Nov 12, 2026",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "30",
+    "as_of": "2026",
+    "source": "https://pitchbook.com/profiles/company/1421051-41"
+  },
+  "leadership": [
+    {
+      "name": "Thais Castello Branco",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://medium.com/crv-insights/leading-the-18-5-million-seed-in-taste-4e4d55dcdd71"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-06",
+      "amount": "$18.5M",
+      "valuation": null,
+      "lead": "CRV, Amplify Partners",
+      "source": "https://medium.com/crv-insights/leading-the-18-5-million-seed-in-taste-4e4d55dcdd71"
+    }
+  ],
+  "total_raised": "$18.5M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Business Insider profile on Taste Labs' bid to kill AI slop",
+      "url": "https://www.businessinsider.com/taste-labs-ai-good-taste-creativity-slop-2026-9"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Out of stealth with $18.5M seed (CRV, Amplify)",
+      "url": "https://www.amplifypartners.com/blog-posts/kill-the-slop-announcing-our-investment-in-taste"
+    }
+  ],
+  "competitors": [
+    "Scale AI",
+    "Surge AI",
+    "Mercor"
+  ]
+}

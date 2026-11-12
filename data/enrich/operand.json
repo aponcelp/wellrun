@@ -1,0 +1,54 @@
+{
+  "slug": "operand",
+  "checked": "Nov 12, 2026",
+  "founded": 2024,
+  "hq": "New York, NY / San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ram Gorthi",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://finsmes.com/2026/11/operand-raises-31m-across-seed-and-series-a-funding/"
+    },
+    {
+      "name": "Akhil Iyengar",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://finsmes.com/2026/11/operand-raises-31m-across-seed-and-series-a-funding/"
+    },
+    {
+      "name": "Arjun Sahney",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://finsmes.com/2026/11/operand-raises-31m-across-seed-and-series-a-funding/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A",
+      "date": "2026-11",
+      "amount": "$31M",
+      "valuation": "$220M",
+      "lead": "Khosla Ventures",
+      "source": "https://finsmes.com/2026/11/operand-raises-31m-across-seed-and-series-a-funding/"
+    }
+  ],
+  "total_raised": "$31M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$31M seed + Series A at $220M led by Khosla",
+      "url": "https://finsmes.com/2026/11/operand-raises-31m-across-seed-and-series-a-funding/"
+    }
+  ],
+  "competitors": [
+    "Hebbia",
+    "Rogo",
+    "AlphaSense"
+  ]
+}

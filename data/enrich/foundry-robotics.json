@@ -1,0 +1,32 @@
+{
+  "slug": "foundry-robotics",
+  "checked": "Nov 12, 2026",
+  "founded": 2024,
+  "hq": "Emeryville, CA",
+  "headcount_est": null,
+  "leadership": [],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": "Marlinspike",
+      "source": "https://finance.yahoo.com/technology/ai/articles/foundry-robotics-raises-100-million-150000783.html"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "$100M Series A led by Marlinspike",
+      "url": "https://finance.yahoo.com/technology/ai/articles/foundry-robotics-raises-100-million-150000783.html"
+    }
+  ],
+  "competitors": [
+    "Bright Machines",
+    "Formic",
+    "Hadrian"
+  ]
+}

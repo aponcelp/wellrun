@@ -1,0 +1,59 @@
+{
+  "slug": "tar",
+  "checked": "Nov 12, 2026",
+  "founded": 2026,
+  "hq": "Austin, TX",
+  "headcount_est": {
+    "value": "25",
+    "as_of": "Sep 2026",
+    "source": "https://www.bizjournals.com/austin/news/2026/09/11/tar-energy-tech-funding.html"
+  },
+  "leadership": [
+    {
+      "name": "Pat Becker",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.bizjournals.com/austin/news/2026/09/11/tar-energy-tech-funding.html"
+    },
+    {
+      "name": "Lenny Soenke",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.bizjournals.com/austin/news/2026/09/11/tar-energy-tech-funding.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Early round",
+      "date": "2026-06",
+      "amount": "~$27M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.datacenterdynamics.com/en/news/tar-raises-27m-to-build-behind-the-meter-renewable-power-systems-for-data-centers-report/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$120M",
+      "valuation": "~$1B",
+      "lead": "Spark Capital",
+      "source": "https://www.bloomberg.com/news/articles/2026-09-10/anthropic-investor-leads-funding-for-off-grid-ai-power-startup"
+    }
+  ],
+  "total_raised": "~$147M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "$120M Series A led by Spark Capital at ~$1B",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/anthropic-investor-leads-funding-for-off-grid-ai-power-startup"
+    }
+  ],
+  "competitors": [
+    "Crusoe",
+    "Base Power",
+    "Fervo Energy"
+  ]
+}

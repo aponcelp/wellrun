@@ -1,0 +1,83 @@
+{
+  "slug": "neo",
+  "checked": "Nov 12, 2026",
+  "founded": 2025,
+  "hq": "Boston, MA",
+  "headcount_est": {
+    "value": "~59",
+    "as_of": "Jul 2026",
+    "source": "https://www.calcalistech.com/ctechnews/article/bjey6uinfg"
+  },
+  "leadership": [
+    {
+      "name": "Nick Warner",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.wsj.com/pro/cybersecurity/neo-raises-100-million-from-stealth-as-investors-back-battle-tested-cyber-execs-07e2780e"
+    },
+    {
+      "name": "Shlomi Salem",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.wsj.com/pro/cybersecurity/neo-raises-100-million-from-stealth-as-investors-back-battle-tested-cyber-execs-07e2780e"
+    },
+    {
+      "name": "Eran Shirazi",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.wsj.com/pro/cybersecurity/neo-raises-100-million-from-stealth-as-investors-back-battle-tested-cyber-execs-07e2780e"
+    },
+    {
+      "name": "Anton Mayr",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://cybermagazine.com/globenewswire/3400745"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.calcalistech.com/ctechnews/article/bjey6uinfg"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-07",
+      "amount": "$75M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz, Bessemer",
+      "source": "https://www.calcalistech.com/ctechnews/article/bjey6uinfg"
+    }
+  ],
+  "total_raised": "$100M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Anton Mayr joins as COO",
+      "url": "https://cybermagazine.com/globenewswire/3400745"
+    },
+    {
+      "date": "2026-11",
+      "headline": "Launches free Neoverse AI software intelligence engine",
+      "url": "https://www.globenewswire.com/news-release/2026/11/09/3398454/0/en/neo-launches-neoverse-free-ai-software-intelligence-engine-for-millions-of-ai-apps.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Emerges from stealth with $100M (a16z, Bessemer)",
+      "url": "https://www.neo.ai/press-releases/neo-launches-100m"
+    }
+  ],
+  "competitors": [
+    "Zenity",
+    "Noma Security",
+    "Straiker"
+  ]
+}
