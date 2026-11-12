@@ -791,6 +791,12 @@
   "type": "image/png",
   "checked": "2026-10-21"
  },
+ "codesignal": {
+  "url": "https://codesignal.com/wp-content/uploads/2022/12/codesignal-fallbck.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
+ },
  "coframe": {
   "url": "https://media.cofra.me/u/aHR0cHM6Ly9jZG4uY29mcmFtZS5jb20vYXNzZXRzL2Fzc2V0cy9vZy9hMjQ2MzkyNi0xMTNkLTRjYmMtOWI0Ni1mZTZiYmNlZjE4MTcucG5n?w=1280&f=jpeg",
   "kind": "og",
@@ -3802,6 +3808,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "tofu": {
+  "url": "https://www.hiretofu.com/brand/og-image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "together-ai": {
   "url": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a49f86fc70648ca04854f6_OG-image-home.png",

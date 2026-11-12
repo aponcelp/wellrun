@@ -42124,5 +42124,111 @@
    "San Francisco",
    "Remote (Global)"
   ]
+ },
+ {
+  "name": "CodeSignal",
+  "slug": "codesignal",
+  "site": "https://codesignal.com",
+  "careers_url": "https://jobs.gem.com/codesignal",
+  "what_they_do": "Skills assessments, AI interviews and AI-coached upskilling for hiring and workforce teams",
+  "problem": "Employers hire and develop people on résumés and self-ratings instead of evidence of what they can actually do",
+  "industry": "HR tech / skills assessment and learning",
+  "stage": "Series C",
+  "last_round": "$50M",
+  "last_round_date": "Sep 2021",
+  "lead_investors": "Index Ventures",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~146 → ~175 Q2 2025 to Q2 2026 (Revelio, +20%); live postings down to 2 (18 listed in 2026)",
+  "headcount": "~165-175",
+  "latest_news": "Expanded TalentNeuron partnership; powers Josh Bersin HR certification assessments",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/talentneuron-and-codesignal-expand-partnership-to-offer-the-most-comprehensive-skills-intelligence-in-the-market-302932978.html",
+  "traction": "~$54M revenue 2024 (Latka est., +33% YoY); 21M+ skill evaluations; customers incl. Meta, Zoom, Robinhood",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.1",
+  "glassdoor_reviews": "60",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/CodeSignal-Reviews-E1461879.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Decade-old assessment brand with 21M+ skill evaluations and enterprise logos, now pushing into agentic skills intelligence; but no round since 2021, flat-to-small revenue estimates, and HackerRank, Karat and AI-native screeners crowd the core coding-test market.",
+  "distance_sources": [
+   {
+    "label": "CodeSignal: Agentic Skills Intelligence GA (Oct 2026)",
+    "url": "https://codesignal.com/newsroom/press-releases/codesignals-new-agentic-skills-intelligence-validates-employee-skills-from-the-work-they-actually-do/"
+   },
+   {
+    "label": "TechCrunch: CodeSignal secures $50M Series C (Sep 2021)",
+    "url": "https://techcrunch.com/2021/09/16/codesignal-secures-50m-for-its-tech-hiring-platform/"
+   },
+   {
+    "label": "Revelio Labs: CodeSignal headcount (Aug 2026)",
+    "url": "https://www.reveliolabs.com/companies/codesignal/employees"
+   }
+  ],
+  "hiring_locations": [
+   "Yerevan",
+   "Remote (US)",
+   "Remote (Armenia)"
+  ]
+ },
+ {
+  "name": "Tofu",
+  "slug": "tofu",
+  "site": "https://www.hiretofu.com",
+  "careers_url": "https://jobs.gem.com/tofu",
+  "what_they_do": "Flags fake job applicants and live-interview deepfakes inside the ATS",
+  "problem": "Recruiters waste interviews on stolen identities, proxies and deepfaked candidates, and some get hired into company systems",
+  "industry": "HR tech / hiring fraud and deepfake detection",
+  "stage": "Seed",
+  "last_round": "$5M",
+  "last_round_date": "Dec 2025",
+  "lead_investors": "Slow Ventures, Founder Collective",
+  "total_open_roles": "2",
+  "ops_roles": "Head of Customer; Customer and Product Lead",
+  "hiring_trend": "~19 staff on LinkedIn (Nov 2026); 2 open roles, both Toronto (was hiring AEs, engineers and a CoS/BizOps lead in Jul 2026)",
+  "headcount": "~19",
+  "latest_news": "Powers fraud detection for 10+ hiring platforms incl. BrightHire and Archer; 10M+ candidates/yr via API",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/jasonzoltak_tofu-quietly-powers-fraud-detection-for-10-activity-7510696231971598337-qfQu",
+  "traction": "~$1M ARR within ~6 months of fraud pivot, 'multi-seven figures' by Jun 2026; 100%+ renewals (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Toronto-based (LinkedIn/Forbes) seed company embedded in Gem, Greenhouse and BrightHire with a cross-customer fraud network, but small (~19 staff, low-millions ARR) in a space where Persona, CLEAR, Socure and the ATS vendors themselves are moving in.",
+  "distance_sources": [
+   {
+    "label": "Forbes: Toronto-based Tofu raises $5M seed, Gem partnership (Dec 2025)",
+    "url": "https://www.forbes.com/sites/mariagraciasantillanalinares/2025/12/16/job-applicant-fraud-is-rising-this-startup-is-using-ai-to-stop-it/"
+   },
+   {
+    "label": "Ritual Capital: ~$1M ARR in ~6 months after pivot",
+    "url": "https://ritualcapital.com/companies/tofu/"
+   },
+   {
+    "label": "Greenhouse Support: tofu integration (Aug 2026)",
+    "url": "https://support.greenhouse.io/hc/en-us/articles/54339507318299-tofu-integration"
+   }
+  ],
+  "hiring_locations": [
+   "Toronto"
+  ]
  }
 ]
