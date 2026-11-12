@@ -1,0 +1,96 @@
+{
+  "slug": "databento",
+  "checked": "Nov 12, 2026",
+  "founded": 2019,
+  "hq": "Salt Lake City, UT",
+  "headcount_est": {
+    "value": "~39",
+    "as_of": "Nov 2026",
+    "source": "https://www.finsmes.com/2026/11/databento-raises-100m-in-series-c-funding.html"
+  },
+  "leadership": [
+    {
+      "name": "Christina Qi",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/christinaqi",
+      "source": "https://databento.com/about"
+    },
+    {
+      "name": "Casey Sharbaugh",
+      "title": "People",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://databento.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2019-10",
+      "amount": "$3.3M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://seedtable.com/companies/databento/funding-rounds"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-11",
+      "amount": "$24.2M",
+      "valuation": null,
+      "lead": "Redpoint Ventures",
+      "source": "https://seedtable.com/companies/databento/funding-rounds"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-07",
+      "amount": "$97M",
+      "valuation": null,
+      "lead": "NEA",
+      "source": "https://databento.com/blog/series-b"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-11",
+      "amount": "$100M",
+      "valuation": "$1.1B",
+      "lead": "Fifth Down Capital",
+      "source": "https://databento.com/blog/series-c"
+    }
+  ],
+  "total_raised": "~$230M",
+  "revenue_est": {
+    "value": "Revenue 6.65x YoY (Jul 2026), more than doubled since; profitable",
+    "as_of": "Nov 2026",
+    "basis": "company-stated",
+    "source": "https://www.scommerce.com/databento-series-c/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$100M Series C at $1.1B led by Fifth Down Capital; Fitch Ventures joins",
+      "url": "https://databento.com/blog/series-c"
+    },
+    {
+      "date": "2026-11",
+      "headline": "CEO recruits laid-off pod-shop quants; ~2,000 applications for 20 roles",
+      "url": "https://asset-management-news.com/markets/databento-gets-2000-applications-for-20-quant-jobs/"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Launches Databento Core Indices",
+      "url": "https://databento.com/blog/databento-core-indices"
+    },
+    {
+      "date": "2026-07",
+      "headline": "$97M Series B led by NEA, over $300M in demand",
+      "url": "https://databento.com/blog/series-b"
+    }
+  ],
+  "competitors": [
+    "Bloomberg",
+    "LSEG",
+    "ICE Data Services",
+    "Polygon.io"
+  ]
+}

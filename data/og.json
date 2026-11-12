@@ -1001,6 +1001,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "databento": {
+  "url": "https://databento.com/brand/databento-snapshot.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "databricks": {
   "url": "https://www.databricks.com/sites/default/files/2023-11/databricks-og-universal.png",
   "kind": "og",

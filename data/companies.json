@@ -24536,14 +24536,14 @@
   "last_round": "$4.6M",
   "last_round_date": "Aug 2024",
   "lead_investors": "Alt Capital",
-  "total_open_roles": "18",
-  "ops_roles": "Senior Compliance Manager",
+  "total_open_roles": "19",
+  "ops_roles": "Founders Initiatives, AI Agents; Senior Compliance Manager; Senior Deal Desk Manager",
   "hiring_trend": "LinkedIn headcount ~177, +22% in 90 days (AI Index); core team 25 → 50 since Nov 2025",
   "headcount": "~50 core (company); ~175 on LinkedIn",
-  "latest_news": "Crossed $80M annualized revenue, doubling in under a year",
-  "latest_news_date": "Sep 2026",
-  "latest_news_url": "https://www.retellai.com/about-us",
-  "traction": "$80M ARR (Sep 2026), up from ~$5M at start of 2025; profitable on $5M raised",
+  "latest_news": "Passed $100M annualized run rate on $4.6M raised; launched its Tell-1 call model",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20261111211785/en/Retell-Surpasses-%24100M-in-Annualized-Run-Rate-as-Enterprises-Take-Control-of-Voice-AI",
+  "traction": "$100M+ annualized run rate (Nov 2026), up from $10M 17 months earlier; profitable since 2025 on $4.6M raised; 4,000+ customers",
   "red_flags": "Watch-outs (no score impact): Nov 2025 CERT/CC note says its API lacks guardrails against phishing-call abuse (same note names Vapi, Bland, Synthflow, Lindy); 2026 customer forum complaints about toll-fraud bills; recent Glassdoor interview reviews poor.",
   "red_flags_sources": [
    {
@@ -24571,11 +24571,15 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Retell-AI-Reviews-E10838324.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Nov 8, 2026",
+  "last_checked": "Nov 12, 2026",
   "engine": "Lock-in",
   "distance": "Half",
   "distance_why": "A top voice-agent platform by revenue ($80M ARR, profitable, thousands of businesses, 2,600+ G2 reviews, Brex #4 fastest-growing vendor of 2025) with forward-deployed teams embedding it in call-center workflows; ElevenLabs, Vapi and Sierra/Decagon contest the same buyers.",
   "distance_sources": [
+   {
+    "label": "Retell: $100M annualized run rate on $4.6M raised (Nov 2026)",
+    "url": "https://www.retellai.com/blog/retell-100m-revenue-run-rate"
+   },
    {
     "label": "Retell AI: About us milestones ($40M Nov 2025, $80M Sep 2026, Brex ranking)",
     "url": "https://www.retellai.com/about-us"
@@ -42064,6 +42068,61 @@
   ],
   "hiring_locations": [
    "San Francisco"
+  ]
+ },
+ {
+  "name": "Databento",
+  "slug": "databento",
+  "site": "https://databento.com",
+  "careers_url": "https://job-boards.greenhouse.io/databento",
+  "what_they_do": "Real-time and historical market data for futures, options, equities and indices over one API",
+  "problem": "Trading firms and AI labs pay legacy vendors big fixed fees and wrangle messy feeds to get clean market data",
+  "industry": "Fintech / financial market data",
+  "stage": "Series C",
+  "last_round": "$100M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Fifth Down Capital",
+  "total_open_roles": "16",
+  "ops_roles": "Billing Support Specialist; Technical Support Engineer (L1/Frontline Support)",
+  "hiring_trend": "Headcount ~24 (Jul 2026) to 39 (Nov 2026); Revelio postings +37.5% in 2026",
+  "headcount": "~39",
+  "latest_news": "Raised $100M Series C at $1.1B led by Fifth Down Capital, four months after its B",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://databento.com/blog/series-c",
+  "traction": "Revenue 6.65x YoY by Jul 2026 and more than doubled since; profitable; 3,000+ customers, 5 of 6 top AI labs",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "2",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Databento-Reviews-E5650624.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Profitable challenger to Bloomberg, LSEG and ICE with its own feed handlers for 70+ venues, 20+ PB archive and a 9-data-center buildout; still a fraction of incumbents' scale.",
+  "distance_sources": [
+   {
+    "label": "Databento: $100M Series C at $1.1B (Nov 2026)",
+    "url": "https://databento.com/blog/series-c"
+   },
+   {
+    "label": "Databento: $97M Series B, 3,000+ companies, 70+ exchanges (Jul 2026)",
+    "url": "https://databento.com/blog/series-b"
+   },
+   {
+    "label": "Fortune: Databento profitable with 24 staff, rivals Bloomberg/LSEG (Jul 2026)",
+    "url": "https://fortune.com/2026/07/09/christina-qi-left-a-hedge-fund-trading-7-billion-a-day-for-a-farm-in-utah-startup-raised-97-million-to-rival-bloomberg-lseg-databento/"
+   }
+  ],
+  "hiring_locations": [
+   "Salt Lake City",
+   "New York",
+   "San Francisco",
+   "Remote (Global)"
   ]
  }
 ]
