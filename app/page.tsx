@@ -32,9 +32,10 @@ export default async function Home() {
             <span className="brand__word">Well Run</span>
             <small>daily</small>
           </p>
-          <nav className="navchart" aria-label="Weekly chart">
+          <nav className="navchart" aria-label="Charts and lists">
             <Link className="navchart__b navchart__b--week" href="/chart?tab=week">This Week</Link>
             <Link className="navchart__b" href="/chart?tab=chart">The Chart</Link>
+            <Link className="navchart__b" href="/rising">Rising 25</Link>
           </nav>
           <span className="by">
             by <a href="https://www.linkedin.com/in/alfredoponcedeleon" target="_blank" rel="noopener">Alfredo Ponce de León</a>
