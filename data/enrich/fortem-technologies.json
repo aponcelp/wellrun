@@ -1,0 +1,81 @@
+{
+  "slug": "fortem-technologies",
+  "checked": "Nov 12, 2026",
+  "founded": 2016,
+  "hq": "Lindon, UT",
+  "headcount_est": {
+    "value": "~176",
+    "as_of": "Jun 2026",
+    "source": "https://www.reveliolabs.com/companies/fortem/employees"
+  },
+  "leadership": [
+    {
+      "name": "Jon Gruen",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://fortemtech.com/leadership/"
+    },
+    {
+      "name": "Adam Robertson",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fortemtech.com/leadership/"
+    },
+    {
+      "name": "Charlie O'Connell",
+      "title": "Chief Business Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://fortemtech.com/press-releases/2026-09-30-fortem-technologies-closes-50m-series-b-financing-led-by-lockheed-martin/"
+    },
+    {
+      "name": "Jim Housinger",
+      "title": "COO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.insideorg.com/org/fortem-technologies"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2026-09",
+      "amount": "$50M",
+      "valuation": "Under $1B (company)",
+      "lead": "Lockheed Martin",
+      "source": "https://fortemtech.com/press-releases/2026-09-30-fortem-technologies-closes-50m-series-b-financing-led-by-lockheed-martin/"
+    }
+  ],
+  "total_raised": "$50M Series B plus ~$64M in earlier rounds (third-party estimate)",
+  "revenue_est": {
+    "value": "~$31M",
+    "as_of": "2026",
+    "basis": "third-party estimate",
+    "source": "https://rocketreach.co/fortem-technologies-profile_b564429df69cafe8"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Expanded MBDA partnership for European air defenses",
+      "url": "https://fortemtech.com/press-releases/2026-10-12-fortem-technologies-and-mbda-expand-partnership-to-build-autonomous-counter-drone-protection-into-european-and-allied-air-defenses/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "$50M Series B led by Lockheed Martin",
+      "url": "https://fortemtech.com/press-releases/2026-09-30-fortem-technologies-closes-50m-series-b-financing-led-by-lockheed-martin/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Prime contractor on 5-year DHS counter-drone IDIQ worth $1B+",
+      "url": "https://fortemtech.com/press-releases/2026-08-04-fortem-technologies-selected-as-prime-contractor-on-5-year-dhs-counter-drone-idiq-worth-more-than-1b/"
+    }
+  ],
+  "competitors": [
+    "Anduril",
+    "DroneShield",
+    "Dedrone (Axon)",
+    "Epirus"
+  ]
+}

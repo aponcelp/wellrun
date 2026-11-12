@@ -1,0 +1,70 @@
+{
+  "slug": "baselayer",
+  "checked": "Nov 12, 2026",
+  "founded": 2023,
+  "hq": "New York, NY / San Francisco, CA",
+  "headcount_est": {
+    "value": "~50",
+    "as_of": "Sep 2026",
+    "source": "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/"
+  },
+  "leadership": [
+    {
+      "name": "Jonathan Awad",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/"
+    },
+    {
+      "name": "Timothy Hyde",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": "$6.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://presentofai.com/spotlight/baselayer.com/scorecard.pdf?v=1n83sfi"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "M13",
+      "source": "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/"
+    }
+  ],
+  "total_raised": "~$40M (company-stated)",
+  "revenue_est": {
+    "value": "Eight-figure revenue",
+    "as_of": "Sep 2026",
+    "basis": "company-stated",
+    "source": "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "$35M Series A led by M13; Agentic Identity Suite launched",
+      "url": "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Middesk trade-secret suit dismissed with prejudice after settlement",
+      "url": "https://dockets.justia.com/docket/new-york/nysdce/1:2025cv02677/639707/feed"
+    }
+  ],
+  "competitors": [
+    "Middesk",
+    "Socure",
+    "Persona",
+    "Alloy"
+  ]
+}

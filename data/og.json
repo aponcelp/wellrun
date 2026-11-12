@@ -443,6 +443,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "baselayer": {
+  "url": "https://baselayer.com/wp-content/uploads/2025/07/OG.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
+ },
  "baseten": {
   "url": "https://www.baseten.co/img/og-bg-2025.png",
   "kind": "og",
@@ -2309,6 +2315,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "modus": {
+  "url": "https://modusalliance.com/wp-content/uploads/2026/09/cropped-modus-logo-270x270.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "moego": {
   "url": "https://www.moego.pet/og-homepage.png",
   "kind": "og",
@@ -3874,6 +3886,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-11-08"
+ },
+ "tutor-intelligence": {
+  "url": "https://cdn.prod.website-files.com/68fa203de60162c631624d70/6aefc8a869569fd1e98ff89b_og-home.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "typesafe-ai": {
   "url": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg",

@@ -41716,5 +41716,211 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Tutor Intelligence",
+  "slug": "tutor-intelligence",
+  "site": "https://tutorintelligence.com",
+  "careers_url": "https://jobs.lever.co/tutorintelligence",
+  "what_they_do": "Rents warehouse and factory robots by the hour, guided by remote human tutors",
+  "problem": "Manufacturers and warehouses can't hire or keep enough workers for repetitive picking, palletizing and packing",
+  "industry": "Robotics / warehouse and manufacturing automation",
+  "stage": "Series B",
+  "last_round": "$75M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Andreessen Horowitz (USV, Neo)",
+  "total_open_roles": "77",
+  "ops_roles": "Head of Company Operations; Strategic Projects Associate (SF); Robotics Deployment Manager; Technical Program Manager, Fleet Reliability",
+  "hiring_trend": "Team 60+ (Dec 2025) → 160+ (Nov 2026); open roles 52 → 81 in two weeks (Vela, Nov 2026)",
+  "headcount": "~160",
+  "latest_news": "$75M Series B led by a16z to scale robot fleet, manufacturing and model training",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://a16zjobs.substack.com/p/tutor-just-raised-75m-to-put-robots",
+  "traction": "Robot fleet 4x in a year, growing 20% MoM across 20 US states; Fortune 50 customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "4",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Tutor-Intelligence-Reviews-E7882953.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Every deployed robot hour trains its models; nearly a third of customers reorder.",
+  "distance_sources": [
+   {
+    "label": "a16z Jobs: Tutor raised $75M (Nov 2026)",
+    "url": "https://a16zjobs.substack.com/p/tutor-just-raised-75m-to-put-robots"
+   },
+   {
+    "label": "Tech Funding News: Tutor $75M Series B (Nov 2026)",
+    "url": "https://techfundingnews.com/tutor-intelligence-75m-series-b-robot-rental/"
+   }
+  ],
+  "hiring_locations": [
+   "Watertown",
+   "San Francisco",
+   "Atlanta",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Modus",
+  "slug": "modus",
+  "site": "https://modusalliance.com",
+  "careers_url": "https://jobs.ashbyhq.com/modus",
+  "what_they_do": "AI-native audit firm: buys stakes in CPA firms and runs audits on its own AI",
+  "problem": "Mid-market audits drag on for months of manual data requests and sampling, and firms lack AI tools",
+  "industry": "Accounting / AI-native audit and assurance",
+  "stage": "Series A",
+  "last_round": "$85M",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "Lightspeed (Comma Capital, Garry Tan)",
+  "total_open_roles": "11",
+  "ops_roles": "Growth (NYC); M&A (NYC)",
+  "hiring_trend": "Headcount ~16 on LinkedIn (+167% YoY, est.); 11 open roles, several at its Ohio partner firm",
+  "headcount": "~16 (plus ~175 at its first acquired firm)",
+  "latest_news": "Hired Grant Thornton's former chief auditor and audit-transformation lead",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.internationalaccountingbulletin.com/news/modus-hires-ex-grant-thornton-auditors-to-drive-ai-native-model/",
+  "traction": "Stake in a top-200 CPA firm with $30M+ revenue; says it doubled the firm's organic growth",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "One firm acquired so far; the AI roll-up model is untested at scale.",
+  "distance_sources": [
+   {
+    "label": "SiliconANGLE: Modus secures $85M (Apr 2026)",
+    "url": "https://siliconangle.com/2026/04/07/modus-secures-85m-expand-ai-powered-audit-accounting-partnerships/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Ohio",
+   "New Jersey",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Baselayer",
+  "slug": "baselayer",
+  "site": "https://baselayer.com",
+  "careers_url": "https://job-boards.greenhouse.io/baselayer",
+  "what_they_do": "Business identity, KYB and fraud-risk data for banks and fintechs, now verifying AI agents",
+  "problem": "Lenders and payment firms can't quickly tell if a business, or an AI agent acting for it, is real and safe",
+  "industry": "Fintech / KYB, identity and fraud risk",
+  "stage": "Series A",
+  "last_round": "$35M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "M13 (Torch, Picus, Afore)",
+  "total_open_roles": "14",
+  "ops_roles": "Finance & Operations Analyst (NYC); Solutions Engineer (post-sale implementation, NYC/SF); Account Manager (NYC)",
+  "hiring_trend": "Headcount ~37 on LinkedIn (+54% YoY), ~50 per CEO (Sep 2026); 14 open roles",
+  "headcount": "~50",
+  "latest_news": "$35M Series A led by M13; launched Agentic Identity Suite (Know Your Agent)",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/",
+  "traction": "2,000+ financial institutions; eight-figure revenue in under two years (company-stated)",
+  "red_flags": "Mar 2025: rival Middesk sued Baselayer and CEO Jonathan Awad for trade-secret theft (stipulated TRO); settled and dismissed with prejudice Aug 2025 under a consent order.",
+  "red_flags_sources": [
+   {
+    "label": "CourtListener: Middesk v. Osiris Ratings (Baselayer) complaint (Mar 2025)",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.639707/gov.uscourts.nysd.639707.1.0.pdf"
+   },
+   {
+    "label": "Justia: Middesk v. Osiris Ratings docket, dismissal (Aug 2025)",
+    "url": "https://dockets.justia.com/docket/new-york/nysdce/1:2025cv02677/639707/feed"
+   }
+  ],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data + Network",
+  "distance": "Half",
+  "distance_why": "Fraud consortium across 2,000+ institutions sharpens its data; Middesk and others compete closely.",
+  "distance_sources": [
+   {
+    "label": "Crunchbase News: Baselayer raises $35M (Sep 2026)",
+    "url": "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Fortem Technologies",
+  "slug": "fortem-technologies",
+  "site": "https://fortemtech.com",
+  "careers_url": "https://recruiting.paylocity.com/recruiting/jobs/All/fa9b835a-8112-420d-9c09-631d7b67b31c/FORTEM-TECHNOLOGIES",
+  "what_they_do": "Counter-drone radar, command software and autonomous interceptor drones",
+  "problem": "Military bases, venues and infrastructure can't detect or safely stop hostile or rogue drones",
+  "industry": "Defense / counter-drone airspace security",
+  "stage": "Series B",
+  "last_round": "$50M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Lockheed Martin (Unusual Machines)",
+  "total_open_roles": "17",
+  "ops_roles": "Sr Director, Office of Program Management; Production Manager",
+  "hiring_trend": "Headcount ~176 (Revelio, Jun 2026), +15% since 2023; 17 open roles, most posted Sep–Oct 2026",
+  "headcount": "~140-176",
+  "latest_news": "Expanded MBDA partnership to build its interceptors into European air defenses",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://fortemtech.com/press-releases/2026-10-12-fortem-technologies-and-mbda-expand-partnership-to-build-autonomous-counter-drone-protection-into-european-and-allied-air-defenses/",
+  "traction": "Only small-business prime on DHS $1B+ counter-drone IDIQ; Army and World Cup contracts",
+  "red_flags": "Minor, not scored: XiDrone patent suits (2023–2024) ended Oct 2025, one dismissed and one settled. Co-founder and ex-CEO Timothy Bean left Nov 2025.",
+  "red_flags_sources": [
+   {
+    "label": "Patsnap: XiDrone v. Fortem 2:24-cv-00905 settled (Oct 2025)",
+    "url": "https://www.patsnap.com/resources/blog/litigation/xidrone-vs-fortem-technologies-counter-uas-patent-dispute-settles-patsnap-eureka"
+   },
+   {
+    "label": "CourtListener: XiDrone v. Fortem docket",
+    "url": "https://www.courtlistener.com/docket/69454700/xidrone-systems-v-fortem-technologies/"
+   }
+  ],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "59",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Fortem-Technologies-Reviews-E1830516.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Only kinetic drone interceptor cleared in US airspace, wired into Lockheed's Sanctum system.",
+  "distance_sources": [
+   {
+    "label": "Fortem: $50M Series B led by Lockheed Martin (Sep 2026)",
+    "url": "https://fortemtech.com/press-releases/2026-09-30-fortem-technologies-closes-50m-series-b-financing-led-by-lockheed-martin/"
+   }
+  ],
+  "hiring_locations": [
+   "Lindon"
+  ]
  }
 ]
