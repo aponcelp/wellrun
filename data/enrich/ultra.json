@@ -1,0 +1,48 @@
+{
+  "slug": "ultra",
+  "checked": "Nov 12, 2026",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Jon Miller Schwartz",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconangle.com/2026/10/09/ultra-robotics-50m-series-a-framework-ventures/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025",
+      "amount": "$12M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://siliconangle.com/2026/10/09/ultra-robotics-50m-series-a-framework-ventures/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Framework Ventures",
+      "source": "https://siliconangle.com/2026/10/09/ultra-robotics-50m-series-a-framework-ventures/"
+    }
+  ],
+  "total_raised": "~$62M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "$50M Series A led by Framework Ventures",
+      "url": "https://siliconangle.com/2026/10/09/ultra-robotics-50m-series-a-framework-ventures/"
+    }
+  ],
+  "competitors": [
+    "Locus Robotics",
+    "Dexterity",
+    "Brightpick"
+  ]
+}

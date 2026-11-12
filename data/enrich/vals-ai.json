@@ -1,0 +1,40 @@
+{
+  "slug": "vals-ai",
+  "checked": "Nov 12, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Rayan Krishnan",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.techfundingnews.com/vals-ai-raises-40m-series-a-at-400m-valuation/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-08",
+      "amount": "$40M",
+      "valuation": "$400M",
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.techfundingnews.com/vals-ai-raises-40m-series-a-at-400m-valuation/"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "$40M Series A at $400M led by a16z",
+      "url": "https://www.techfundingnews.com/vals-ai-raises-40m-series-a-at-400m-valuation/"
+    }
+  ],
+  "competitors": [
+    "Scale AI",
+    "Artificial Analysis",
+    "Braintrust"
+  ]
+}

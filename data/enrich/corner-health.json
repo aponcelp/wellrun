@@ -1,0 +1,56 @@
+{
+  "slug": "corner-health",
+  "checked": "Nov 12, 2026",
+  "founded": 2023,
+  "hq": "Santa Monica, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Lava Sunder",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fortune.com/2026/07/13/corner-health-nurse-practitioners-independent-practice-oak-series-a-funding"
+    },
+    {
+      "name": "Anne Gifford",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fortune.com/2026/07/13/corner-health-nurse-practitioners-independent-practice-oak-series-a-funding"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed + Seed",
+      "date": "2024",
+      "amount": "$7.5M",
+      "valuation": null,
+      "lead": "First Round Capital",
+      "source": "https://app.dealroom.co/news/note/corner-health-raises-25m-series-a-to-turn-nurse-practitioners-into-solo-operators"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-07",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Oak HC/FT",
+      "source": "https://fortune.com/2026/07/13/corner-health-nurse-practitioners-independent-practice-oak-series-a-funding"
+    }
+  ],
+  "total_raised": "$32.5M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-07",
+      "headline": "$32.5M seed + Series A; Oak HC/FT leads $25M A",
+      "url": "https://www.businesswire.com/news/home/20260709012876/en/Corner-Health-Announces-%2432.5-Million-in-Seed-and-Series-A-Financing-to-Help-Independent-Clinicians-Rebuild-Primary-Care"
+    }
+  ],
+  "competitors": [
+    "One Medical",
+    "Oak Street Health",
+    "Tend",
+    "Medallion"
+  ]
+}

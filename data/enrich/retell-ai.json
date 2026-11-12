@@ -1,6 +1,6 @@
 {
   "slug": "retell-ai",
-  "checked": "Oct 19, 2026",
+  "checked": "Nov 12, 2026",
   "depth": "light",
   "founded": 2023,
   "hq": "San Carlos, CA",
@@ -53,7 +53,23 @@
     }
   ],
   "total_raised": "~$5.1M (CB Insights, incl. YC pre-seed)",
-  "revenue_est": null,
-  "news_timeline": [],
+  "revenue_est": {
+    "value": "$100M+ annualized run rate",
+    "as_of": "Nov 2026",
+    "basis": "company-stated",
+    "source": "https://www.retellai.com/blog/retell-100m-revenue-run-rate"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Passes $100M annualized run rate on $4.6M total funding",
+      "url": "https://www.businesswire.com/news/home/20261111211785/en/Retell-Surpasses-%24100M-in-Annualized-Run-Rate-as-Enterprises-Take-Control-of-Voice-AI"
+    },
+    {
+      "date": "2026-11",
+      "headline": "Launches Tell-1, a language model for live contact-center calls",
+      "url": "https://www.businesswire.com/news/home/20261112258243/en/Retell-Launches-Tell-1-a-Language-Model-Built-for-the-Complexity-of-Live-Contact-Center-Calls"
+    }
+  ],
   "competitors": []
 }

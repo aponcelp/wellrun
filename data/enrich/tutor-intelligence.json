@@ -1,0 +1,83 @@
+{
+  "slug": "tutor-intelligence",
+  "checked": "Nov 12, 2026",
+  "founded": 2021,
+  "hq": "Watertown, MA",
+  "headcount_est": {
+    "value": "~160",
+    "as_of": "Nov 2026",
+    "source": "https://a16zjobs.substack.com/p/tutor-just-raised-75m-to-put-robots"
+  },
+  "leadership": [
+    {
+      "name": "Josh Gruenstein",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://a16zjobs.substack.com/p/tutor-just-raised-75m-to-put-robots"
+    },
+    {
+      "name": "Alon Kosowsky-Sachs",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://a16zjobs.substack.com/p/tutor-just-raised-75m-to-put-robots"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": "~$8M",
+      "valuation": null,
+      "lead": "Neo",
+      "source": "https://www.teardown.ai/companies/tutor-intelligence"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-12",
+      "amount": "$34M",
+      "valuation": null,
+      "lead": "Union Square Ventures",
+      "source": "https://tutorintelligence.com/blog/tutor-series-a-letter"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-11",
+      "amount": "$75M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.businesswire.com/news/home/20261102314852/en/Tutor-Intelligence-Raises-%2475-Million-Series-B-Led-by-Andreessen-Horowitz-to-Scale-Frontier-Robotics-Model-Training-Manufacturing-and-Deployment"
+    }
+  ],
+  "total_raised": "$117M",
+  "revenue_est": {
+    "value": "Not disclosed; fleet 4x YoY, growing 20% MoM",
+    "as_of": "Nov 2026",
+    "basis": "company-stated",
+    "source": "https://a16zjobs.substack.com/p/tutor-just-raised-75m-to-put-robots"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$75M Series B led by a16z",
+      "url": "https://techfundingnews.com/tutor-intelligence-75m-series-b-robot-rental/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Next-generation Cassie and Sonny robots announced",
+      "url": "https://tutorintelligence.com/blog"
+    },
+    {
+      "date": "2025-12",
+      "headline": "$34M Series A led by USV",
+      "url": "https://tutorintelligence.com/blog/tutor-series-a-letter"
+    }
+  ],
+  "competitors": [
+    "Formic",
+    "Dexterity",
+    "Covariant",
+    "Physical Intelligence"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "densityai",
+  "checked": "Nov 12, 2026",
+  "founded": 2024,
+  "hq": "Mountain View, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Ganesh Venkataramanan",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.bloomberg.com/news/articles/2025-08-06/former-tesla-executives-start-automotive-ai-company-densityai"
+    },
+    {
+      "name": "Bill Chang",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://electrek.co/2026/08/24/tesla-chip-engineer-shishuang-sun-densityai/"
+    }
+  ],
+  "funding_history": [],
+  "total_raised": "Undisclosed",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Hires Tesla's AI hardware design director",
+      "url": "https://electrek.co/2026/08/24/tesla-chip-engineer-shishuang-sun-densityai/"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Comes out of stealth as Tesla shuts Dojo",
+      "url": "https://techcrunch.com/2025/08/07/tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving/"
+    }
+  ],
+  "competitors": [
+    "Nvidia",
+    "Cerebras",
+    "Etched",
+    "Tenstorrent"
+  ]
+}

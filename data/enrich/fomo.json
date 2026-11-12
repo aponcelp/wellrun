@@ -1,0 +1,82 @@
+{
+  "slug": "fomo",
+  "checked": "Nov 12, 2026",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~55",
+    "as_of": "Nov 2026",
+    "source": "https://linkedin.com/company/fomo"
+  },
+  "leadership": [
+    {
+      "name": "Paul Erlanger",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.theblock.co/news/deals/2026-06-22-crypto-trading-app-fomo-raises-75-million-at-550-million-valuation-in-index-ventures-led-series-b-report-405563"
+    },
+    {
+      "name": "Se Yong Park",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.theblock.co/news/deals/2026-06-22-crypto-trading-app-fomo-raises-75-million-at-550-million-valuation-in-index-ventures-led-series-b-report-405563"
+    },
+    {
+      "name": "Prashan Dharmasena",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.theblock.co/news/deals/2026-06-22-crypto-trading-app-fomo-raises-75-million-at-550-million-valuation-in-index-ventures-led-series-b-report-405563"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2025-11",
+      "amount": "$17M",
+      "valuation": null,
+      "lead": "Benchmark",
+      "source": "https://www.fintechfutures.com/venture-capital-funding/fomo-lands-75m-series-b"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-06",
+      "amount": "$75M",
+      "valuation": "$550M",
+      "lead": "Index Ventures",
+      "source": "https://fomo.family/blog/news/fomo-series-b"
+    }
+  ],
+  "total_raised": "~$96M",
+  "revenue_est": {
+    "value": "$100M+ cumulative revenue",
+    "as_of": "Oct 2026",
+    "basis": "company job posting",
+    "source": "https://jobs.ashbyhq.com/fomo-labs/2774d90f-d04a-4e7a-92d3-6247a1426b1f"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Reports ~3.2M users",
+      "url": "https://www.globenewswire.com/news-release/2026/11/04/3395047/0/en/fomo-reports-approximately-3-2-million-users-as-it-builds-a-broader-social-finance-platform.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Card-coding of memecoin buys draws Chase and NY AG scrutiny",
+      "url": "https://www.theblock.co/news/business/2026-09-01-buying-memecoins-with-credit-cards-on-robinhood-wallet-fomo-sidestep-card-network-crypto-rules-411911"
+    },
+    {
+      "date": "2026-06",
+      "headline": "$75M Series B at $550M led by Index",
+      "url": "https://fomo.family/blog/news/fomo-series-b"
+    }
+  ],
+  "competitors": [
+    "Robinhood",
+    "Coinbase",
+    "Phantom",
+    "Moonshot"
+  ]
+}

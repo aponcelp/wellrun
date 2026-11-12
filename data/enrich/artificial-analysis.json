@@ -1,0 +1,59 @@
+{
+  "slug": "artificial-analysis",
+  "checked": "Nov 12, 2026",
+  "depth": "light",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": 54,
+  "leadership": [
+    {
+      "name": "Micah Hill-Smith",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://artificialanalysis.ai/about"
+    },
+    {
+      "name": "George Cameron",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://artificialanalysis.ai/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-09",
+      "amount": "Undisclosed (~$2.6M est.)",
+      "valuation": null,
+      "lead": "AI Grant",
+      "source": "https://www.latent.space/p/artificialanalysis"
+    }
+  ],
+  "total_raised": "Undisclosed (seed only; ~$2.6M est.)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Named to The Information's 50 Most Promising Startups of 2026",
+      "url": "https://blogdocemagia.blogspot.com/2026/11/join-us-today-wed-1111-informations-50.html"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Launches Intelligence Index v5, mostly private test sets",
+      "url": "https://the-decoder.com/new-artificial-analysis-index-widens-the-gap-between-open-and-closed-models/"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Launches Optima for custom benchmarks on a team's own data",
+      "url": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data"
+    }
+  ],
+  "competitors": [
+    "Vals AI",
+    "Epoch AI",
+    "LMArena",
+    "Scale AI"
+  ]
+}

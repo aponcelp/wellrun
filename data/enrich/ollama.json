@@ -1,0 +1,75 @@
+{
+  "slug": "ollama",
+  "checked": "Nov 12, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Palo Alto, CA",
+  "headcount_est": 77,
+  "leadership": [
+    {
+      "name": "Jeffrey Morgan",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ollama.com/blog/all-aboard-open-models"
+    },
+    {
+      "name": "Michael Chiang",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ollama.com/blog/all-aboard-open-models"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed (YC W21)",
+      "date": "2021-01",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://aventure.vc/companies/ollama-palo-alto-ca-us/fundraising"
+    },
+    {
+      "round": "Series A",
+      "date": "2023-01",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Benchmark",
+      "source": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-07",
+      "amount": "$65M",
+      "valuation": "~$260M (Dealroom)",
+      "lead": "Theory Ventures",
+      "source": "https://www.businesswire.com/news/home/20260709429551/en/New-Lantern-Raises-19M-Series-A-to-Launch-AI-Radiology-Resident"
+    }
+  ],
+  "total_raised": "$88M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Named to The Information's 50 Most Promising Startups of 2026",
+      "url": "https://agihunt.info/p/1a1cbc318554b78821880a6b157"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Raises $65M Series B led by Theory Ventures; 8.9M monthly developers",
+      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/"
+    },
+    {
+      "date": "2026-05",
+      "headline": "Critical 'Bleeding Llama' memory-leak flaw (CVE-2026-7482) disclosed",
+      "url": "https://thehackernews.com/search/label/Ollama?m=1&version=meter%2Bat%2Bnull?m%3D1"
+    }
+  ],
+  "competitors": [
+    "llama.cpp",
+    "LM Studio",
+    "vLLM",
+    "Together AI"
+  ]
+}

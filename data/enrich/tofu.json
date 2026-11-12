@@ -1,0 +1,93 @@
+{
+  "slug": "tofu",
+  "checked": "Nov 12, 2026",
+  "founded": 2023,
+  "hq": "Toronto, ON, Canada (Tofu Technologies Inc.; Tracxn lists Miami, unverified)",
+  "headcount_est": {
+    "value": "~19",
+    "as_of": "Nov 2026",
+    "source": "https://linkedin.com/company/tofu-id"
+  },
+  "leadership": [
+    {
+      "name": "Jason Zoltak",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/jasonzoltak",
+      "source": "https://www.hiretofu.com/guides/candidate-fraud"
+    },
+    {
+      "name": "Jonathan Perez",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.thejobsmap.com/company/tofu"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed",
+      "date": "2024-03",
+      "amount": "C$1.2M",
+      "valuation": null,
+      "lead": "Night Capital",
+      "source": "https://betakit.com/tofu-nets-1-2-million-to-fast-track-hiring-for-tech-startups/"
+    },
+    {
+      "round": "Seed",
+      "date": "2025-12",
+      "amount": "$5M",
+      "valuation": null,
+      "lead": "Slow Ventures, Founder Collective",
+      "source": "https://www.forbes.com/sites/mariagraciasantillanalinares/2025/12/16/job-applicant-fraud-is-rising-this-startup-is-using-ai-to-stop-it/"
+    },
+    {
+      "round": "Strategic (JumpCloud Ventures)",
+      "date": "2026-02",
+      "amount": null,
+      "valuation": null,
+      "lead": "JumpCloud Ventures",
+      "source": "https://jumpcloud.com/press/jumpcloud-launches-venture-arm-to-fuel-it-and-security-innovation"
+    }
+  ],
+  "total_raised": "~$5.9M",
+  "revenue_est": {
+    "value": "~$1M ARR ~6 months after the fraud pivot; 'multi-seven figures' ARR, MRR +23% in Jun 2026",
+    "as_of": "Jul 2026",
+    "basis": "company/investor-stated",
+    "source": "https://www.linkedin.com/feed/update/urn:li:activity:7478507231626317824"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Powers fraud detection for 10+ hiring platforms; 10M+ candidates/yr via API",
+      "url": "https://www.linkedin.com/posts/jasonzoltak_tofu-quietly-powers-fraud-detection-for-10-activity-7510696231971598337-qfQu"
+    },
+    {
+      "date": "2026-09",
+      "headline": "BrightHire (a Zoom company) integrates Tofu deepfake detection",
+      "url": "https://www.linkedin.com/posts/brighthire_deepfake-technology-is-constantly-evolving-activity-7506015858994081792-TtaD"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Launches live-video Deepfake API; signs largest six-figure contract",
+      "url": "https://www.linkedin.com/posts/jasonzoltak_today-were-officially-launching-our-deepfake-activity-7488608576022671361-vMy8"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Launches real-time deepfake and interview-swap detection",
+      "url": "https://hiretofu.com/blog/introducing-deepfake-detection-interview-swapping"
+    },
+    {
+      "date": "2025-12",
+      "headline": "$5M seed led by Slow Ventures and Founder Collective; Gem embeds Tofu",
+      "url": "https://www.forbes.com/sites/mariagraciasantillanalinares/2025/12/16/job-applicant-fraud-is-rising-this-startup-is-using-ai-to-stop-it/"
+    }
+  ],
+  "competitors": [
+    "Persona",
+    "CLEAR",
+    "Socure",
+    "BrightHire (in-house)"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "prosper-ai",
+  "checked": "Nov 12, 2026",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Xavier de Gracia",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.fiercehealthcare.com/ai-and-machine-learning/prosper-ai-lands-30m-backed-andreessen-horowitz-build-ai-workforce"
+    },
+    {
+      "name": "Josep Marc Mingot",
+      "title": "Co-founder & Co-CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.fiercehealthcare.com/ai-and-machine-learning/prosper-ai-lands-30m-backed-andreessen-horowitz-build-ai-workforce"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-06",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://www.fiercehealthcare.com/ai-and-machine-learning/prosper-ai-lands-30m-backed-andreessen-horowitz-build-ai-workforce"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-06",
+      "headline": "$30M Series A led by a16z",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/prosper-ai-lands-30m-backed-andreessen-horowitz-build-ai-workforce"
+    }
+  ],
+  "competitors": [
+    "Assort Health",
+    "Hello Patient",
+    "Infinitus",
+    "Thoughtful AI"
+  ]
+}

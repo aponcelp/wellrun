@@ -1,0 +1,71 @@
+{
+  "slug": "daylight",
+  "checked": "Nov 12, 2026",
+  "founded": 2024,
+  "hq": "New York, NY (R&D in Tel Aviv)",
+  "headcount_est": {
+    "value": "~80",
+    "as_of": "Nov 2026",
+    "source": "https://daylight.ai/careers"
+  },
+  "leadership": [
+    {
+      "name": "Hagai Shapira",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://daylight.ai/our-story"
+    },
+    {
+      "name": "Eldad Rudich",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://daylight.ai/our-story"
+    },
+    {
+      "name": "Elinor Cohen",
+      "title": "Chief Business Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://daylight.ai/our-story"
+    },
+    {
+      "name": "Eric Byrd",
+      "title": "VP of Sales",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://daylight.ai/our-story"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2026-11",
+      "amount": "$80M",
+      "valuation": "~$400M (WSJ)",
+      "lead": "Goldman Sachs Alternatives",
+      "source": "https://techstartups.com/2026/11/11/daylight-raises-80m-in-goldman-sachs-led-funding-to-fight-cyber-threats-with-ai-agents/"
+    }
+  ],
+  "total_raised": "$120M",
+  "revenue_est": {
+    "value": "Revenue up 40x+ year over year",
+    "as_of": "Nov 2026",
+    "basis": "company-stated",
+    "source": "https://techstartups.com/2026/11/11/daylight-raises-80m-in-goldman-sachs-led-funding-to-fight-cyber-threats-with-ai-agents/"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$80M Series B led by Goldman Sachs Alternatives",
+      "url": "https://techstartups.com/2026/11/11/daylight-raises-80m-in-goldman-sachs-led-funding-to-fight-cyber-threats-with-ai-agents/"
+    }
+  ],
+  "competitors": [
+    "Arctic Wolf",
+    "Expel",
+    "Red Canary",
+    "7AI"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "modus",
+  "checked": "Nov 12, 2026",
+  "founded": 2025,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~16",
+    "as_of": "Nov 2026",
+    "source": "https://linkedin.com/company/modus-audit-inc"
+  },
+  "leadership": [
+    {
+      "name": "Arush Jain",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://modusalliance.com/company/"
+    },
+    {
+      "name": "Vinay Kasat",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://modusalliance.com/company/"
+    },
+    {
+      "name": "Pranav Pillai",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://modusalliance.com/company/"
+    },
+    {
+      "name": "Matt Van Buren",
+      "title": "Director of Audit Transformation",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.internationalaccountingbulletin.com/news/modus-hires-ex-grant-thornton-auditors-to-drive-ai-native-model/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A",
+      "date": "2026-04",
+      "amount": "$85M",
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://siliconangle.com/2026/04/07/modus-secures-85m-expand-ai-powered-audit-accounting-partnerships/"
+    }
+  ],
+  "total_raised": "$85M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Hires ex-Grant Thornton chief auditor (advisor) and audit-transformation lead",
+      "url": "https://www.internationalaccountingbulletin.com/news/modus-hires-ex-grant-thornton-auditors-to-drive-ai-native-model/"
+    },
+    {
+      "date": "2026-04",
+      "headline": "$85M seed + Series A led by Lightspeed",
+      "url": "https://siliconangle.com/2026/04/07/modus-secures-85m-expand-ai-powered-audit-accounting-partnerships/"
+    }
+  ],
+  "competitors": [
+    "Crete",
+    "Fieldguide",
+    "Private-equity-backed CPA roll-ups"
+  ]
+}

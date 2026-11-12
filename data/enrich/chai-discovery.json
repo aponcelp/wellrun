@@ -1,0 +1,57 @@
+{
+  "slug": "chai-discovery",
+  "checked": "Nov 12, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~40",
+    "as_of": "Nov 2026",
+    "source": "https://www.trueup.io/co/chai-discovery"
+  },
+  "leadership": [
+    {
+      "name": "Joshua Meier",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20261105711783/en/Chai-Discovery-Announces-Collaboration-with-Roche-in-AI-Driven-Drug-Discovery"
+    },
+    {
+      "name": "Jack Dent",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20261105711783/en/Chai-Discovery-Announces-Collaboration-with-Roche-in-AI-Driven-Drug-Discovery"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series C",
+      "date": "2026-07",
+      "amount": "$400M",
+      "valuation": "$3.8B",
+      "lead": null,
+      "source": "https://www.refolk.ai/blog/chai-discovery-400m-bio-ai-rival-pool"
+    }
+  ],
+  "total_raised": "~$630M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Collaboration with Roche",
+      "url": "https://www.businesswire.com/news/home/20261105711783/en/Chai-Discovery-Announces-Collaboration-with-Roche-in-AI-Driven-Drug-Discovery"
+    },
+    {
+      "date": "2026-07",
+      "headline": "$400M Series C at $3.8B",
+      "url": "https://www.refolk.ai/blog/chai-discovery-400m-bio-ai-rival-pool"
+    }
+  ],
+  "competitors": [
+    "Isomorphic Labs",
+    "Xaira Therapeutics",
+    "Generate Biomedicines",
+    "Latent Labs"
+  ]
+}

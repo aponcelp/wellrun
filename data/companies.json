@@ -24536,14 +24536,14 @@
   "last_round": "$4.6M",
   "last_round_date": "Aug 2024",
   "lead_investors": "Alt Capital",
-  "total_open_roles": "18",
-  "ops_roles": "Senior Compliance Manager",
+  "total_open_roles": "19",
+  "ops_roles": "Founders Initiatives, AI Agents; Senior Compliance Manager; Senior Deal Desk Manager",
   "hiring_trend": "LinkedIn headcount ~177, +22% in 90 days (AI Index); core team 25 → 50 since Nov 2025",
   "headcount": "~50 core (company); ~175 on LinkedIn",
-  "latest_news": "Crossed $80M annualized revenue, doubling in under a year",
-  "latest_news_date": "Sep 2026",
-  "latest_news_url": "https://www.retellai.com/about-us",
-  "traction": "$80M ARR (Sep 2026), up from ~$5M at start of 2025; profitable on $5M raised",
+  "latest_news": "Passed $100M annualized run rate on $4.6M raised; launched its Tell-1 call model",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20261111211785/en/Retell-Surpasses-%24100M-in-Annualized-Run-Rate-as-Enterprises-Take-Control-of-Voice-AI",
+  "traction": "$100M+ annualized run rate (Nov 2026), up from $10M 17 months earlier; profitable since 2025 on $4.6M raised; 4,000+ customers",
   "red_flags": "Watch-outs (no score impact): Nov 2025 CERT/CC note says its API lacks guardrails against phishing-call abuse (same note names Vapi, Bland, Synthflow, Lindy); 2026 customer forum complaints about toll-fraud bills; recent Glassdoor interview reviews poor.",
   "red_flags_sources": [
    {
@@ -24571,11 +24571,15 @@
   "glassdoor_url": "https://www.glassdoor.com/Reviews/Retell-AI-Reviews-E10838324.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Nov 8, 2026",
+  "last_checked": "Nov 12, 2026",
   "engine": "Lock-in",
   "distance": "Half",
   "distance_why": "A top voice-agent platform by revenue ($80M ARR, profitable, thousands of businesses, 2,600+ G2 reviews, Brex #4 fastest-growing vendor of 2025) with forward-deployed teams embedding it in call-center workflows; ElevenLabs, Vapi and Sierra/Decagon contest the same buyers.",
   "distance_sources": [
+   {
+    "label": "Retell: $100M annualized run rate on $4.6M raised (Nov 2026)",
+    "url": "https://www.retellai.com/blog/retell-100m-revenue-run-rate"
+   },
    {
     "label": "Retell AI: About us milestones ($40M Nov 2025, $80M Sep 2026, Brex ranking)",
     "url": "https://www.retellai.com/about-us"
@@ -40681,5 +40685,2570 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Arca",
+  "slug": "arca",
+  "site": "https://www.arcawealth.com",
+  "careers_url": "https://jobs.ashbyhq.com/arca",
+  "what_they_do": "AI-native fiduciary wealth manager pairing human advisors with agents that do the prep and admin",
+  "problem": "Households want proactive, holistic advice, but advisors spend most of their time on paperwork instead of clients",
+  "industry": "Wealth management / RIA",
+  "stage": "Series A",
+  "last_round": "$48.5M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "General Catalyst (Index Ventures, Venrock)",
+  "total_open_roles": "13",
+  "ops_roles": "Member of Corporate Development, M&A (NYC)",
+  "hiring_trend": "28 staff at launch (Jun 2026); 13 open roles, all NYC",
+  "headcount": "~28-45",
+  "latest_news": "Exited stealth with $64M (seed + $48.5M Series A); $1B+ client assets",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20260624333055/en/Arca-Raises-64-Million-to-Revolutionize-and-Humanize-Wealth-Management-at-Scale",
+  "traction": "$1B+ client assets at launch, grown partly by buying RIAs (Sandbox Financial ~$682M AUM)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Out of stealth in June 2026; AUM came largely from acquired advisory firms, and critics (RIABiz, Kitces) call it a classic RIA roll-up with an AI story, so too early to judge.",
+  "distance_sources": [
+   {
+    "label": "WSJ: Arca raises $48.5M (Jun 2026)",
+    "url": "https://www.wsj.com/pro/private-equity/startup-arca-raises-fresh-48-5-million-to-disrupt-the-wealth-advisory-business-334816b4"
+   },
+   {
+    "label": "RIABiz: critics on Arca's model (Jun 2026)",
+    "url": "https://riabiz.com/a/2026/6/27/an-ria-is-stripping-out-software-from-1-billion-plus-of-acquisitions-with-a-new-485-million-raise-and-sky-high-praise-but-critics-say-arca-wealth-mostly-has-a-new-narrative-for-an-existing-business-model"
+   }
+  ],
+  "hiring_locations": [
+   "New York"
+  ]
+ },
+ {
+  "name": "AIUC",
+  "slug": "aiuc",
+  "site": "https://aiuc.com",
+  "careers_url": "https://jobs.ashbyhq.com/aiuc",
+  "what_they_do": "Standard (AIUC-1), audits and insurance for enterprise AI agents",
+  "problem": "Enterprises can't deploy AI agents with confidence: no trusted standard, audit or insurance covers jailbreaks, leaks or errors",
+  "industry": "AI safety / insurtech",
+  "stage": "Series A",
+  "last_round": "$40M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Ribbit Capital (First Harmonic, Terrain)",
+  "total_open_roles": "19",
+  "ops_roles": "Deployment Strategist (SF); Strategic Finance (SF); Value Creation Lead (SF)",
+  "hiring_trend": "19 open roles, all SF on-site; hiring across all roles after Series A",
+  "headcount": "~37",
+  "latest_news": "$40M Series A led by Ribbit; KPMG becomes first Big Four firm with an AIUC-1 certified AI tool",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://aiuc.com/updates/series-a-announcement",
+  "traction": "AIUC-1 certified agents from Cursor, ElevenLabs, Harvey, KPMG, Lovable and UiPath; revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Early lead in defining an AI-agent standard with marquee certifications, but the category is new and insurers, auditors and standards bodies can all move in.",
+  "distance_sources": [
+   {
+    "label": "AIUC: $40M Series A (Sep 2026)",
+    "url": "https://aiuc.com/updates/series-a-announcement"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
+ },
+ {
+  "name": "Collate",
+  "slug": "collate",
+  "site": "https://collate.com",
+  "careers_url": "https://jobs.lever.co/collate",
+  "what_they_do": "AI that drafts and manages regulatory documentation for life sciences companies",
+  "problem": "Regulatory submissions run thousands of pages; manual paperwork delays trials and getting therapies to market",
+  "industry": "Life sciences software / regulatory AI",
+  "stage": "Series A",
+  "last_round": "$95M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Redpoint (First Round, CRV)",
+  "total_open_roles": "17",
+  "ops_roles": "Senior Enterprise Implementation Manager (SF); Senior Implementation Manager, Windchill (SF); Customer Success Manager (SF)",
+  "hiring_trend": "17 open roles (Lever), all SF; headcount ~42 per Harmonic, +5 in 90 days",
+  "headcount": "~42-55",
+  "latest_news": "$95M Series A led by Redpoint at a valuation near $1B",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.forbes.com/sites/innovationrx/2026/06/03/ai-startup-collate-raises-95-million-to-automate-life-sciences-paperwork/",
+  "traction": "Customers report 50-90% time savings on documents; acquired MantleBio; revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Big round and enterprise implementations point to lock-in, but it is early against Veeva, IQVIA and many regulatory-writing AI startups.",
+  "distance_sources": [
+   {
+    "label": "Forbes: Collate raises $95M (Jun 2026)",
+    "url": "https://www.forbes.com/sites/innovationrx/2026/06/03/ai-startup-collate-raises-95-million-to-automate-life-sciences-paperwork/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
+ },
+ {
+  "name": "Corner Health",
+  "slug": "corner-health",
+  "site": "https://www.cornerhealth.com",
+  "careers_url": "https://www.cornerhealth.com/careers",
+  "what_they_do": "Platform and AI back office that lets nurse practitioners open their own primary care clinics",
+  "problem": "NPs want to run their own practices, but billing, insurance and admin make it nearly impossible alone",
+  "industry": "Primary care / healthcare operations",
+  "stage": "Series A",
+  "last_round": "$25M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Oak HC/FT (First Round, Zigg)",
+  "total_open_roles": "0",
+  "ops_roles": "",
+  "hiring_trend": "No public job board; small corporate team (~27 per Harmonic, +6 in 90 days)",
+  "headcount": "~27",
+  "latest_news": "$32.5M seed + Series A; Series A led by Oak HC/FT",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://fortune.com/2026/07/13/corner-health-nurse-practitioners-independent-practice-oak-series-a-funding",
+  "traction": "70+ NP-owned practices in Arizona and Washington; 35,000+ patient visits in the past year",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Fastest-growing NP network in Arizona and Washington by its own account, but limited to two states and competing with many primary care and practice-management models.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Corner Health $32.5M (Jul 2026)",
+    "url": "https://www.businesswire.com/news/home/20260709012876/en/Corner-Health-Announces-%2432.5-Million-in-Seed-and-Series-A-Financing-to-Help-Independent-Clinicians-Rebuild-Primary-Care"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Enigma",
+  "slug": "enigma",
+  "site": "https://enigma.inc",
+  "careers_url": "",
+  "what_they_do": "AI models and interfaces that make any robot intelligent and easy to control",
+  "problem": "Robots still need heavy custom engineering and data collection to work reliably in the real world",
+  "industry": "Robotics / physical AI",
+  "stage": "Seed",
+  "last_round": "$71M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Index Ventures, Ribbit Capital",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "~25 staff per Harmonic (+3 in 90 days); no public job board",
+  "headcount": "~25",
+  "latest_news": "Emerged from stealth with $71M seed co-led by Index and Ribbit",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+  "traction": "No revenue or customers disclosed; launched a live public robotics demo",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Just out of stealth with no disclosed customers, in a crowded robot-foundation-model race (Physical Intelligence, Skild, Figure).",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Enigma raises $70M (Jul 2026)",
+    "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Foundry Robotics",
+  "slug": "foundry-robotics",
+  "site": "https://foundryrobotics.ai",
+  "careers_url": "https://jobs.ashbyhq.com/foundry-robotics",
+  "what_they_do": "Builds and runs factories where robot fleets do assembly for manufacturers",
+  "problem": "US manufacturers can't find assembly labor and lack the robotics stack and capital to automate themselves",
+  "industry": "Robotics / manufacturing-as-a-service",
+  "stage": "Series A",
+  "last_round": "$100M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Marlinspike (Khosla Ventures, Wing)",
+  "total_open_roles": "29",
+  "ops_roles": "Operations Manager, Robotics Data (Emeryville); Physical AI Deployment Strategist (Emeryville); People & Talent Operations Lead (Emeryville)",
+  "hiring_trend": "29 open roles (Ashby); ~41 staff per Harmonic, +9 in 90 days",
+  "headcount": "~41",
+  "latest_news": "$100M Series A led by Marlinspike to build robot-run factories",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://finance.yahoo.com/technology/ai/articles/foundry-robotics-raises-100-million-150000783.html",
+  "traction": "First anchor factory under way; no revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Scale",
+  "distance": "Unproven",
+  "distance_why": "Huge Series A but no disclosed revenue yet; robot-run contract manufacturing is capital heavy and unproven at scale.",
+  "distance_sources": [
+   {
+    "label": "Yahoo Finance: Foundry Robotics raises $100M (Oct 2026)",
+    "url": "https://finance.yahoo.com/technology/ai/articles/foundry-robotics-raises-100-million-150000783.html"
+   }
+  ],
+  "hiring_locations": [
+   "Emeryville",
+   "Washington, DC",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Light",
+  "slug": "light",
+  "site": "https://www.poweredbylight.com",
+  "careers_url": "https://jobs.ashbyhq.com/light",
+  "what_they_do": "Retail power company that lets other businesses embed branded electricity plans in their products",
+  "problem": "Brands want to offer electricity to customers, but retail power is regulated, complex and not built to embed",
+  "industry": "Energy / embedded electricity",
+  "stage": "Series A",
+  "last_round": "$46M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Matrix (Spark Capital, BoxGroup, Activate)",
+  "total_open_roles": "11",
+  "ops_roles": "Business Operations (Austin); Customer Operations, bilingual Spanish (US)",
+  "hiring_trend": "11 open roles (Ashby), mostly Austin; ~42 staff per Harmonic, +8 in 90 days",
+  "headcount": "~42",
+  "latest_news": "$46M Series A led by Matrix to expand beyond Texas into PJM markets",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/light-raises-46-million-to-scale-the-power-company-for-embedded-electricity-302864996.html",
+  "traction": "Live in Texas (PUCT-licensed); customer counts not disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Novel embedded-power model live in Texas only; expansion to other deregulated markets is ahead and retail electricity margins are thin.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Light raises $46M (Sep 2026)",
+    "url": "https://www.prnewswire.com/news-releases/light-raises-46-million-to-scale-the-power-company-for-embedded-electricity-302864996.html"
+   }
+  ],
+  "hiring_locations": [
+   "Austin",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Midstream Health",
+  "slug": "midstream-health",
+  "site": "https://midstream.health",
+  "careers_url": "https://jobs.ashbyhq.com/midstream",
+  "what_they_do": "AI agents that find missed rebates, pricing errors and payer underpayments for health systems",
+  "problem": "Health systems leak millions through contracts, supply chain and payer underpayments they lack staff to chase",
+  "industry": "Healthcare finance / revenue recovery",
+  "stage": "Series A",
+  "last_round": "$20M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Valtruis (a16z, Foundry, CommonSpirit Ventures)",
+  "total_open_roles": "8",
+  "ops_roles": "Head of Finance (SF, Operations team)",
+  "hiring_trend": "8 open roles (Ashby), SF and remote US; ~35 staff per Harmonic, +8 in 90 days",
+  "headcount": "~35",
+  "latest_news": "$20M Series A led by Valtruis; $29.2M raised to date",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.bizjournals.com/philly/news/2026/10/29/midstream-health-raises-20m-series-a.html",
+  "traction": "250+ hospitals incl. CommonSpirit and Mount Sinai; on pace for $100M client savings in 2026",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Real health-system logos and a share-of-savings model, but it is small against revenue-cycle and spend-recovery incumbents.",
+  "distance_sources": [
+   {
+    "label": "Business Journals: Midstream raises $20M (Oct 2026)",
+    "url": "https://www.bizjournals.com/philly/news/2026/10/29/midstream-health-raises-20m-series-a.html"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "United States",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Nebex",
+  "slug": "nebex",
+  "site": "https://nebex.com",
+  "careers_url": "https://jobs.ashbyhq.com/nebex",
+  "what_they_do": "Exchange connecting government space buyers, commercial suppliers and capital in one platform",
+  "problem": "The space sector has no real marketplace or financing layer, so deals between nations and suppliers are slow and opaque",
+  "industry": "Space economy / capital markets",
+  "stage": "Seed",
+  "last_round": "$30M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "GV, Eniac Ventures",
+  "total_open_roles": "6",
+  "ops_roles": "Chief of Staff (NYC); Business Operations Manager (NYC); Customer Success Lead (NYC)",
+  "hiring_trend": "6 open roles (Ashby), 5 in NYC; ~10 staff per Harmonic",
+  "headcount": "~10",
+  "latest_news": "$30M seed co-led by GV and Eniac; formal platform launch planned by end of 2026",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.gv.com/articles/nebex",
+  "traction": "Pre-launch; CEO previously ran Axiom Space and brokered $1B+ in commercial space contracts",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Pre-launch marketplace with a strong founder but no disclosed transactions yet.",
+  "distance_sources": [
+   {
+    "label": "GV: Nebex (Jun 2026)",
+    "url": "https://www.gv.com/articles/nebex"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Europe & Türkiye",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Neo",
+  "slug": "neo",
+  "site": "https://www.neo.ai",
+  "careers_url": "https://www.neo.ai/careers",
+  "what_they_do": "Security platform that inventories and controls AI agents and AI apps across endpoints and SaaS",
+  "problem": "Security teams can't see or govern the AI agents and AI-enabled apps spreading across their companies",
+  "industry": "Cybersecurity / AI agent security",
+  "stage": "Series A",
+  "last_round": "$75M (+$25M seed, $100M at launch)",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Andreessen Horowitz, Bessemer (Craft, Merlin)",
+  "total_open_roles": "20",
+  "ops_roles": "Finance & Operations Manager (Boston); Sales Operations Manager (Boston); Technical Account Manager",
+  "hiring_trend": "20 open roles; ~51 staff per Harmonic, +20 in 90 days; new COO Nov 2026",
+  "headcount": "~51-59",
+  "latest_news": "Hired Anton Mayr (ex-Morgan Stanley) as COO; launched free Neoverse AI app intelligence",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://cybermagazine.com/globenewswire/3400745",
+  "traction": "Named to Fortune Cyber 60; no revenue or customer counts disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Four months out of stealth with ex-SentinelOne leadership, in a crowded AI-security land grab where CrowdStrike, Palo Alto and dozens of startups compete.",
+  "distance_sources": [
+   {
+    "label": "Neo: launches with $100M (Jul 2026)",
+    "url": "https://www.neo.ai/press-releases/neo-launches-100m"
+   },
+   {
+    "label": "Ctech: $75M A + $25M seed (Jul 2026)",
+    "url": "https://www.calcalistech.com/ctechnews/article/bjey6uinfg"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Pocket",
+  "slug": "pocket",
+  "site": "https://heypocket.com",
+  "careers_url": "https://jobs.ashbyhq.com/pocket",
+  "what_they_do": "$129 phone-mounted device that records, transcribes and summarizes conversations",
+  "problem": "Professionals lose details from meetings and calls and waste time writing notes and follow-ups",
+  "industry": "AI hardware / productivity",
+  "stage": "Seed",
+  "last_round": "$11M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Accel (Peak XV, Y Combinator)",
+  "total_open_roles": "16",
+  "ops_roles": "Head of Subscriptions & Monetization (SF); Founding Supply Chain (SF); Customer Support Specialist (SF)",
+  "hiring_trend": "16 open roles (Ashby), all SF; 12 staff in Aug 2026 (Business Insider)",
+  "headcount": "~12-21",
+  "latest_news": "Says it hit a $100M revenue run rate eight months after launch, growing ~50% a month",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.businessinsider.com/pockets-ai-notetaker-launched-8-months-ago-revenue-is-soaring-2026-8",
+  "traction": "$27M run rate Mar 2026 -> $100M Aug 2026 (company-stated); 200,000+ devices sold",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Explosive device sales, but AI note-taking hardware is easy to copy (Plaud, Limitless) and phones and Apple can absorb it.",
+  "distance_sources": [
+   {
+    "label": "Business Insider: Pocket at $100M run rate (Aug 2026)",
+    "url": "https://www.businessinsider.com/pockets-ai-notetaker-launched-8-months-ago-revenue-is-soaring-2026-8"
+   },
+   {
+    "label": "TechCrunch: Pocket raises $11M (Jun 2026)",
+    "url": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Prosper AI",
+  "slug": "prosper-ai",
+  "site": "https://www.getprosper.ai",
+  "careers_url": "https://jobs.ashbyhq.com/prosper-ai",
+  "what_they_do": "AI voice agents for patient scheduling, billing calls, benefits checks and payer follow-up",
+  "problem": "Outpatient practices miss patient calls and lose revenue to denials because front desks and billing teams can't keep up",
+  "industry": "Healthcare AI / patient access & revenue cycle",
+  "stage": "Series A",
+  "last_round": "$30M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Andreessen Horowitz (Base10, Emergence, YC)",
+  "total_open_roles": "12",
+  "ops_roles": "Strategic GTM Manager (NYC); Director of Finance (NYC)",
+  "hiring_trend": "12 open roles (Ashby), NYC; ~65 staff per Harmonic, +22 in 90 days",
+  "headcount": "~65",
+  "latest_news": "$30M Series A led by Andreessen Horowitz",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/prosper-ai-lands-30m-backed-andreessen-horowitz-build-ai-workforce",
+  "traction": "100+ outpatient groups and EHR partners; 80+ EHR integrations (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Solid integrations and a16z backing, but healthcare voice agents are crowded (Hello Patient, Assort, Infinitus, Thoughtful).",
+  "distance_sources": [
+   {
+    "label": "Fierce Healthcare: Prosper AI lands $30M (Jun 2026)",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/prosper-ai-lands-30m-backed-andreessen-horowitz-build-ai-workforce"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Barcelona",
+   "Madrid",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Qualitate",
+  "slug": "qualitate",
+  "site": "https://www.qualitate.io",
+  "careers_url": "https://jobs.ashbyhq.com/qualitate",
+  "what_they_do": "AI-moderated expert interviews turned into searchable market intelligence for investors and corporates",
+  "problem": "Expert calls take weeks and big budgets, so primary research only informs a few big decisions",
+  "industry": "Market intelligence / expert research",
+  "stage": "Series A",
+  "last_round": "$25M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Insight Partners (IA Ventures, Crew Capital)",
+  "total_open_roles": "29",
+  "ops_roles": "Chief of Staff (NYC); Intelligence Operations Associate (NYC); Data Operations Associate (NYC)",
+  "hiring_trend": "29 open roles (Ashby), all NYC; ~40 staff per Harmonic, +8 in 90 days",
+  "headcount": "~40",
+  "latest_news": "$25M Series A led by Insight Partners, six months after a $7M seed",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.qualitate.io/news/qualitate-announces-25m-series-a",
+  "traction": "Revenue run rate up 10x+ in 2026; 12-month NRR over 300% (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.75",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Fast growth and 300%+ NRR, but it takes on GLG, AlphaSense/Tegus and other AI interview platforms.",
+  "distance_sources": [
+   {
+    "label": "Qualitate: $25M Series A (Oct 2026)",
+    "url": "https://www.qualitate.io/news/qualitate-announces-25m-series-a"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote"
+  ]
+ },
+ {
+  "name": "TAR",
+  "slug": "tar",
+  "site": "https://www.tar.com",
+  "careers_url": "https://jobs.ashbyhq.com/tar",
+  "what_they_do": "Builds off-grid, behind-the-meter renewable power systems for AI data centers",
+  "problem": "AI data centers can't get grid power fast enough; interconnection queues take years",
+  "industry": "Energy / data center power",
+  "stage": "Series A",
+  "last_round": "$120M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Spark Capital",
+  "total_open_roles": "53",
+  "ops_roles": "Chief of Staff (Austin); Operations Manager (Austin); Special Projects (Austin); Forward Deployed Operator (SF Bay Area)",
+  "hiring_trend": "53 open roles (Ashby); 25 staff Sep 2026 -> ~41 per Harmonic (+29 in 90 days)",
+  "headcount": "~41",
+  "latest_news": "$120M Series A led by Spark Capital at a ~$1B valuation",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.bloomberg.com/news/articles/2026-09-10/anthropic-investor-leads-funding-for-off-grid-ai-power-startup",
+  "traction": "Months-old; no customers or revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.75",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Scale",
+  "distance": "Unproven",
+  "distance_why": "Founded in 2026 with a $1B valuation but no disclosed customers; off-grid data center power is a capital-heavy race.",
+  "distance_sources": [
+   {
+    "label": "Bloomberg: Spark leads funding for off-grid AI power startup (Sep 2026)",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-10/anthropic-investor-leads-funding-for-off-grid-ai-power-startup"
+   },
+   {
+    "label": "Austin Business Journal: TAR (Sep 2026)",
+    "url": "https://www.bizjournals.com/austin/news/2026/09/11/tar-energy-tech-funding.html"
+   }
+  ],
+  "hiring_locations": [
+   "Austin",
+   "SF Bay Area",
+   "Odessa"
+  ]
+ },
+ {
+  "name": "Taste Labs",
+  "slug": "taste-labs",
+  "site": "https://tastelabs.com",
+  "careers_url": "https://jobs.ashbyhq.com/Taste-Labs",
+  "what_they_do": "Preference data, evals and brand tools that teach AI models and agents design taste",
+  "problem": "AI output is technically fine but generic and off-brand, and labs can't measure subjective quality",
+  "industry": "AI data / evaluation",
+  "stage": "Seed",
+  "last_round": "$18.5M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "CRV, Amplify Partners",
+  "total_open_roles": "6",
+  "ops_roles": "",
+  "hiring_trend": "6 open roles (Ashby), all SF; ~30-40 staff (PitchBook, Harmonic)",
+  "headcount": "~30-40",
+  "latest_news": "Came out of stealth with an $18.5M seed co-led by CRV and Amplify",
+  "latest_news_date": "Jun 2026",
+  "latest_news_url": "https://www.amplifypartners.com/blog-posts/kill-the-slop-announcing-our-investment-in-taste",
+  "traction": "Works with frontier labs and app companies; revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Fresh out of stealth; preference data is a crowded field (Scale, Surge, Mercor) though its design niche is distinct.",
+  "distance_sources": [
+   {
+    "label": "Amplify: investment in Taste (Jun 2026)",
+    "url": "https://www.amplifypartners.com/blog-posts/kill-the-slop-announcing-our-investment-in-taste"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
+ },
+ {
+  "name": "TerraFirma",
+  "slug": "terrafirma",
+  "site": "https://terrafirma.inc",
+  "careers_url": "https://jobs.ashbyhq.com/TerraFirma-Inc",
+  "what_they_do": "Construction company running remote, semi-autonomous earthmoving fleets plus AI preconstruction software",
+  "problem": "Heavy civil construction is slow, costly and short on skilled operators",
+  "industry": "Construction robotics / heavy civil",
+  "stage": "Series A",
+  "last_round": "$100M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Kleiner Perkins (Bain Capital Ventures, Glade Brook)",
+  "total_open_roles": "35",
+  "ops_roles": "Program Director, Federal Construction & Operations (Austin); Open Applications, Operations (Austin)",
+  "hiring_trend": "35 open roles (Ashby), all Austin; plans 300 hires in a year (CNBC)",
+  "headcount": "~38-50",
+  "latest_news": "Raised ~$115M incl. $100M Series A led by Kleiner Perkins",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20260714397606/en/TerraFirma-Raises-%24115M-to-Accelerate-Construction-on-Earth-and-Beyond",
+  "traction": "Paid jobs incl. a Starbucks site in North Austin, a sports arena and a power project",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.75",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Vertically integrated with real job sites, but construction margins are thin and Built Robotics and incumbents' autonomy kits compete.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: TerraFirma raises $115M (Jul 2026)",
+    "url": "https://www.businesswire.com/news/home/20260714397606/en/TerraFirma-Raises-%24115M-to-Accelerate-Construction-on-Earth-and-Beyond"
+   }
+  ],
+  "hiring_locations": [
+   "Robot Ranch"
+  ]
+ },
+ {
+  "name": "Transfyr",
+  "slug": "transfyr",
+  "site": "https://www.transfyr.ai",
+  "careers_url": "https://jobs.dover.com/transfyr",
+  "what_they_do": "Sensors and models that capture how lab scientists actually run experiments",
+  "problem": "Tacit lab know-how never gets written down, so experiments are hard to reproduce, transfer or automate",
+  "industry": "AI for science / lab infrastructure",
+  "stage": "Seed",
+  "last_round": "$25M",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "General Catalyst (Lux, SV Angel)",
+  "total_open_roles": "8",
+  "ops_roles": "Technical Program Manager (Cambridge, MA); Technical Delivery and Business Development Lead (Cambridge, MA)",
+  "hiring_trend": "8 open roles (Dover), all Cambridge MA; ~18 staff per Harmonic",
+  "headcount": "~18",
+  "latest_news": "Launched with a $25M seed led by General Catalyst",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.transfyr.ai/news/transfyr-launches-physical-ai-platform-for-science-with-usd25m-seed-funding",
+  "traction": "Early partners in pharma, diagnostics and academia; core tech in a Massachusetts life sciences grant",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Launched in August 2026 with partners but no disclosed revenue.",
+  "distance_sources": [
+   {
+    "label": "Transfyr: launch with $25M seed (Aug 2026)",
+    "url": "https://www.transfyr.ai/news/transfyr-launches-physical-ai-platform-for-science-with-usd25m-seed-funding"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Traysar Industries",
+  "slug": "traysar",
+  "site": "https://traysar.com",
+  "careers_url": "https://jobs.ashbyhq.com/traysar",
+  "what_they_do": "Autonomous underground boring and excavation systems for the US military",
+  "problem": "Adversaries moved underground while US forces and infrastructure stay exposed on the surface",
+  "industry": "Defense tech / autonomous systems",
+  "stage": "Seed",
+  "last_round": "$25M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Silent Ventures (Lux Capital, Entrée)",
+  "total_open_roles": "9",
+  "ops_roles": "Chief of Staff (Austin); Field Operations Coordinator, contract (Austin)",
+  "hiring_trend": "9 open roles (Ashby), Austin; ~16 staff per Harmonic, +7 in 90 days",
+  "headcount": "~16",
+  "latest_news": "Launched Terminus boring platform and an Armada partnership",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://traysar.com/news/traysar-launches-terminus-armada",
+  "traction": "First product (Terminus) launched; no contracts or revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Seed-stage defense hardware with a first product and partnership, but no disclosed contracts.",
+  "distance_sources": [
+   {
+    "label": "Traysar: Terminus launch + Armada (Sep 2026)",
+    "url": "https://traysar.com/news/traysar-launches-terminus-armada"
+   }
+  ],
+  "hiring_locations": [
+   "Austin",
+   "Washington, DC",
+   "Herzliya"
+  ]
+ },
+ {
+  "name": "Ultra",
+  "slug": "ultra",
+  "site": "https://ultra.tech",
+  "careers_url": "https://ultra.tech/careers",
+  "what_they_do": "AI warehouse robots that move, store and pick inventory alongside workers",
+  "problem": "Warehouses can't hire enough workers to keep up with throughput and accuracy demands",
+  "industry": "Robotics / warehouse automation",
+  "stage": "Series A",
+  "last_round": "$50M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Framework Ventures (Y Combinator)",
+  "total_open_roles": "21",
+  "ops_roles": "Head of Customer Operations; Head of Pilot Operations; Head of Finance; Data Operations Lead",
+  "hiring_trend": "21 open roles (Gem); ~36 staff per Harmonic, +10 in 90 days",
+  "headcount": "~36",
+  "latest_news": "$50M Series A led by Framework Ventures",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://siliconangle.com/2026/10/09/ultra-robotics-50m-series-a-framework-ventures/",
+  "traction": "Pilots with warehouse operators; revenue and customers undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Well funded with pilots, but warehouse robotics is crowded (Locus, Dexterity, AutoStore).",
+  "distance_sources": [
+   {
+    "label": "SiliconANGLE: Ultra raises $50M (Oct 2026)",
+    "url": "https://siliconangle.com/2026/10/09/ultra-robotics-50m-series-a-framework-ventures/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Vals AI",
+  "slug": "vals-ai",
+  "site": "https://www.vals.ai",
+  "careers_url": "https://jobs.ashbyhq.com/vals-ai",
+  "what_they_do": "Independent benchmarks showing how AI models perform on real industry tasks",
+  "problem": "Buyers can't tell which AI model works best for legal, finance or coding work; vendor benchmarks are biased",
+  "industry": "AI evaluation",
+  "stage": "Series A",
+  "last_round": "$40M",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "Andreessen Horowitz (8VC, Pear VC)",
+  "total_open_roles": "7",
+  "ops_roles": "",
+  "hiring_trend": "7 open roles (Ashby); ~30-35 staff (PitchBook, Harmonic)",
+  "headcount": "~30-35",
+  "latest_news": "$40M Series A led by a16z at a $400M valuation",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.techfundingnews.com/vals-ai-raises-40m-series-a-at-400m-valuation/",
+  "traction": "Vals Index benchmarks widely cited; revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Benchmarks are cited across legal and finance AI, but evals are crowded and labs publish their own.",
+  "distance_sources": [
+   {
+    "label": "Tech Funding News: Vals AI $40M (Aug 2026)",
+    "url": "https://www.techfundingnews.com/vals-ai-raises-40m-series-a-at-400m-valuation/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Watchtower Labs",
+  "slug": "watchtower-labs",
+  "site": "https://watchtowerlabs.ai",
+  "careers_url": "https://watchtowerlabs.ai/careers",
+  "what_they_do": "AI decision software for military operations, starting with logistics planning",
+  "problem": "Military logistics plans for fuel, ammo and parts are built slower than the threats they must answer",
+  "industry": "Defense tech / military logistics",
+  "stage": "Seed",
+  "last_round": "$35M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Shield Capital, Conviction (Founders Fund, In-Q-Tel)",
+  "total_open_roles": "4",
+  "ops_roles": "",
+  "hiring_trend": "4 open roles, Bellevue; ~30 staff (GeekWire)",
+  "headcount": "~30",
+  "latest_news": "Emerged from stealth with $35M seed for AI military decision tools",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/watchtower-labs-emerges-from-stealth-with-35-million-to-build-ai-native-decision-tools-for-military-operations-302914883.html",
+  "traction": "No customers or contracts disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Three weeks out of stealth with no disclosed contracts.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Watchtower Labs emerges with $35M (Oct 2026)",
+    "url": "https://www.prnewswire.com/news-releases/watchtower-labs-emerges-from-stealth-with-35-million-to-build-ai-native-decision-tools-for-military-operations-302914883.html"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Daylight",
+  "slug": "daylight",
+  "site": "https://daylight.ai",
+  "careers_url": "https://job-boards.greenhouse.io/daylightsecurity",
+  "what_they_do": "AI-native managed detection and response: AI agents plus security engineers guarding companies 24/7",
+  "problem": "Companies can't staff round-the-clock security operations, and alert floods let breaches slip through",
+  "industry": "Cybersecurity / MDR",
+  "stage": "Series B",
+  "last_round": "$80M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Goldman Sachs Alternatives (Bain Capital, Craft, Okta Ventures)",
+  "total_open_roles": "35",
+  "ops_roles": "Customer Success Engineer (US remote); Senior Program Manager, Brand & Marketing (US remote)",
+  "hiring_trend": "35 open roles (Greenhouse), mostly US remote sales + Tel Aviv R&D; ~80 staff",
+  "headcount": "~80",
+  "latest_news": "$80M Series B led by Goldman Sachs Alternatives at ~$400M; revenue up 40x in a year",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://techstartups.com/2026/11/11/daylight-raises-80m-in-goldman-sachs-led-funding-to-fight-cyber-threats-with-ai-agents/",
+  "traction": "Revenue up 40x+ in a year (company-stated); customers include Lovable, LastPass, Miro, dLocal",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "3.3",
+  "glassdoor_reviews": "32",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast revenue growth and known logos, but MDR is crowded (Arctic Wolf, Expel, CrowdStrike, Red Canary) and AI-SOC startups are multiplying.",
+  "distance_sources": [
+   {
+    "label": "TechStartups: Daylight raises $80M (Nov 2026)",
+    "url": "https://techstartups.com/2026/11/11/daylight-raises-80m-in-goldman-sachs-led-funding-to-fight-cyber-threats-with-ai-agents/"
+   }
+  ],
+  "hiring_locations": [
+   "Tel Aviv",
+   "New York",
+   "Singapore",
+   "Remote (US)",
+   "Remote (UK)"
+  ]
+ },
+ {
+  "name": "Operand",
+  "slug": "operand",
+  "site": "https://www.operand.com",
+  "careers_url": "",
+  "what_they_do": "AI agents that do private equity due diligence from public records and web traces",
+  "problem": "Buyout firms get slow, seller-controlled diligence and miss customer, pricing and ops issues",
+  "industry": "Fintech / AI for private equity",
+  "stage": "Series A",
+  "last_round": "$31M (seed + A)",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Khosla Ventures (Felicis, SV Angel, YC)",
+  "total_open_roles": "0",
+  "ops_roles": "",
+  "hiring_trend": "No public job board; YC lists 8 staff, LinkedIn 11-50",
+  "headcount": "~8-20",
+  "latest_news": "Raised $31M across seed and Series A at $220M, led by Khosla; Keith Rabois joins board",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://finsmes.com/2026/11/operand-raises-31m-across-seed-and-series-a-funding/",
+  "traction": "Used by PE firms incl. Clearlake Capital; revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Tiny YC team with one named customer; AI diligence tools for PE are multiplying.",
+  "distance_sources": [
+   {
+    "label": "FinSMEs: Operand raises $31M (Nov 2026)",
+    "url": "https://finsmes.com/2026/11/operand-raises-31m-across-seed-and-series-a-funding/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Tutor Intelligence",
+  "slug": "tutor-intelligence",
+  "site": "https://tutorintelligence.com",
+  "careers_url": "https://jobs.lever.co/tutorintelligence",
+  "what_they_do": "Rents warehouse and factory robots by the hour, guided by remote human tutors",
+  "problem": "Manufacturers and warehouses can't hire or keep enough workers for repetitive picking, palletizing and packing",
+  "industry": "Robotics / warehouse and manufacturing automation",
+  "stage": "Series B",
+  "last_round": "$75M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Andreessen Horowitz (USV, Neo)",
+  "total_open_roles": "77",
+  "ops_roles": "Head of Company Operations; Strategic Projects Associate (SF); Robotics Deployment Manager; Technical Program Manager, Fleet Reliability",
+  "hiring_trend": "Team 60+ (Dec 2025) → 160+ (Nov 2026); open roles 52 → 81 in two weeks (Vela, Nov 2026)",
+  "headcount": "~160",
+  "latest_news": "$75M Series B led by a16z to scale robot fleet, manufacturing and model training",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://a16zjobs.substack.com/p/tutor-just-raised-75m-to-put-robots",
+  "traction": "Robot fleet 4x in a year, growing 20% MoM across 20 US states; Fortune 50 customers",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.4",
+  "glassdoor_reviews": "4",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Tutor-Intelligence-Reviews-E7882953.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Every deployed robot hour trains its models; nearly a third of customers reorder.",
+  "distance_sources": [
+   {
+    "label": "a16z Jobs: Tutor raised $75M (Nov 2026)",
+    "url": "https://a16zjobs.substack.com/p/tutor-just-raised-75m-to-put-robots"
+   },
+   {
+    "label": "Tech Funding News: Tutor $75M Series B (Nov 2026)",
+    "url": "https://techfundingnews.com/tutor-intelligence-75m-series-b-robot-rental/"
+   }
+  ],
+  "hiring_locations": [
+   "Watertown",
+   "San Francisco",
+   "Atlanta",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Modus",
+  "slug": "modus",
+  "site": "https://modusalliance.com",
+  "careers_url": "https://jobs.ashbyhq.com/modus",
+  "what_they_do": "AI-native audit firm: buys stakes in CPA firms and runs audits on its own AI",
+  "problem": "Mid-market audits drag on for months of manual data requests and sampling, and firms lack AI tools",
+  "industry": "Accounting / AI-native audit and assurance",
+  "stage": "Series A",
+  "last_round": "$85M",
+  "last_round_date": "Apr 2026",
+  "lead_investors": "Lightspeed (Comma Capital, Garry Tan)",
+  "total_open_roles": "11",
+  "ops_roles": "Growth (NYC); M&A (NYC)",
+  "hiring_trend": "Headcount ~16 on LinkedIn (+167% YoY, est.); 11 open roles, several at its Ohio partner firm",
+  "headcount": "~16 (plus ~175 at its first acquired firm)",
+  "latest_news": "Hired Grant Thornton's former chief auditor and audit-transformation lead",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.internationalaccountingbulletin.com/news/modus-hires-ex-grant-thornton-auditors-to-drive-ai-native-model/",
+  "traction": "Stake in a top-200 CPA firm with $30M+ revenue; says it doubled the firm's organic growth",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "One firm acquired so far; the AI roll-up model is untested at scale.",
+  "distance_sources": [
+   {
+    "label": "SiliconANGLE: Modus secures $85M (Apr 2026)",
+    "url": "https://siliconangle.com/2026/04/07/modus-secures-85m-expand-ai-powered-audit-accounting-partnerships/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Ohio",
+   "New Jersey",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Baselayer",
+  "slug": "baselayer",
+  "site": "https://baselayer.com",
+  "careers_url": "https://job-boards.greenhouse.io/baselayer",
+  "what_they_do": "Business identity, KYB and fraud-risk data for banks and fintechs, now verifying AI agents",
+  "problem": "Lenders and payment firms can't quickly tell if a business, or an AI agent acting for it, is real and safe",
+  "industry": "Fintech / KYB, identity and fraud risk",
+  "stage": "Series A",
+  "last_round": "$35M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "M13 (Torch, Picus, Afore)",
+  "total_open_roles": "14",
+  "ops_roles": "Finance & Operations Analyst (NYC); Solutions Engineer (post-sale implementation, NYC/SF); Account Manager (NYC)",
+  "hiring_trend": "Headcount ~37 on LinkedIn (+54% YoY), ~50 per CEO (Sep 2026); 14 open roles",
+  "headcount": "~50",
+  "latest_news": "$35M Series A led by M13; launched Agentic Identity Suite (Know Your Agent)",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/",
+  "traction": "2,000+ financial institutions; eight-figure revenue in under two years (company-stated)",
+  "red_flags": "Mar 2025: rival Middesk sued Baselayer and CEO Jonathan Awad for trade-secret theft (stipulated TRO); settled and dismissed with prejudice Aug 2025 under a consent order.",
+  "red_flags_sources": [
+   {
+    "label": "CourtListener: Middesk v. Osiris Ratings (Baselayer) complaint (Mar 2025)",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.639707/gov.uscourts.nysd.639707.1.0.pdf"
+   },
+   {
+    "label": "Justia: Middesk v. Osiris Ratings docket, dismissal (Aug 2025)",
+    "url": "https://dockets.justia.com/docket/new-york/nysdce/1:2025cv02677/639707/feed"
+   }
+  ],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data + Network",
+  "distance": "Half",
+  "distance_why": "Fraud consortium across 2,000+ institutions sharpens its data; Middesk and others compete closely.",
+  "distance_sources": [
+   {
+    "label": "Crunchbase News: Baselayer raises $35M (Sep 2026)",
+    "url": "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Fortem Technologies",
+  "slug": "fortem-technologies",
+  "site": "https://fortemtech.com",
+  "careers_url": "https://recruiting.paylocity.com/recruiting/jobs/All/fa9b835a-8112-420d-9c09-631d7b67b31c/FORTEM-TECHNOLOGIES",
+  "what_they_do": "Counter-drone radar, command software and autonomous interceptor drones",
+  "problem": "Military bases, venues and infrastructure can't detect or safely stop hostile or rogue drones",
+  "industry": "Defense / counter-drone airspace security",
+  "stage": "Series B",
+  "last_round": "$50M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Lockheed Martin (Unusual Machines)",
+  "total_open_roles": "17",
+  "ops_roles": "Sr Director, Office of Program Management; Production Manager",
+  "hiring_trend": "Headcount ~176 (Revelio, Jun 2026), +15% since 2023; 17 open roles, most posted Sep–Oct 2026",
+  "headcount": "~140-176",
+  "latest_news": "Expanded MBDA partnership to build its interceptors into European air defenses",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://fortemtech.com/press-releases/2026-10-12-fortem-technologies-and-mbda-expand-partnership-to-build-autonomous-counter-drone-protection-into-european-and-allied-air-defenses/",
+  "traction": "Only small-business prime on DHS $1B+ counter-drone IDIQ; Army and World Cup contracts",
+  "red_flags": "Minor, not scored: XiDrone patent suits (2023–2024) ended Oct 2025, one dismissed and one settled. Co-founder and ex-CEO Timothy Bean left Nov 2025.",
+  "red_flags_sources": [
+   {
+    "label": "Patsnap: XiDrone v. Fortem 2:24-cv-00905 settled (Oct 2025)",
+    "url": "https://www.patsnap.com/resources/blog/litigation/xidrone-vs-fortem-technologies-counter-uas-patent-dispute-settles-patsnap-eureka"
+   },
+   {
+    "label": "CourtListener: XiDrone v. Fortem docket",
+    "url": "https://www.courtlistener.com/docket/69454700/xidrone-systems-v-fortem-technologies/"
+   }
+  ],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "3.8",
+  "glassdoor_reviews": "59",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Fortem-Technologies-Reviews-E1830516.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Only kinetic drone interceptor cleared in US airspace, wired into Lockheed's Sanctum system.",
+  "distance_sources": [
+   {
+    "label": "Fortem: $50M Series B led by Lockheed Martin (Sep 2026)",
+    "url": "https://fortemtech.com/press-releases/2026-09-30-fortem-technologies-closes-50m-series-b-financing-led-by-lockheed-martin/"
+   }
+  ],
+  "hiring_locations": [
+   "Lindon"
+  ]
+ },
+ {
+  "name": "Mount Thor",
+  "slug": "mount-thor",
+  "site": "https://www.mountthor.com",
+  "careers_url": "https://jobs.ashbyhq.com/mount-thor",
+  "what_they_do": "Mac cloud: on-demand bare-metal Macs and macOS VMs for AI agents and inference",
+  "problem": "AI labs and agent builders need macOS at data-center scale, and nobody rents Apple hardware like a cloud",
+  "industry": "AI infrastructure / Apple silicon cloud",
+  "stage": "Series A",
+  "last_round": "$45M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "CRV, Conviction (Series A); Chad Byers, Offline Ventures (seed)",
+  "total_open_roles": "8",
+  "ops_roles": "Data Center Operations Lead (SF); Developer Relations Lead (SF)",
+  "hiring_trend": "New company (founded 2026); 8 open roles plus general interest, mostly fleet/infra engineering",
+  "headcount": "",
+  "latest_news": "Raised $45M seed + Series A (CRV, Conviction) to expand Mac data centers",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20261112125652/en/Mount-Thor-Raises-%2445-Million-to-Build-Cloud-Infrastructure-for-Agentic-AI-on-Apple-Hardware",
+  "traction": "First data center live in under six months; says it runs one of the largest Apple silicon fleets; no customers or revenue disclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Scale",
+  "distance": "Unproven",
+  "distance_why": "Founded in 2026 with one data center; the bet that Apple hardware becomes real AI cloud capacity is untested at scale.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Mount Thor raises $45M (Nov 2026)",
+    "url": "https://www.businesswire.com/news/home/20261112125652/en/Mount-Thor-Raises-%2445-Million-to-Build-Cloud-Infrastructure-for-Agentic-AI-on-Apple-Hardware"
+   },
+   {
+    "label": "9to5Mac: Mount Thor raises $45M to build Mac data centers for AI agents (Nov 2026)",
+    "url": "https://9to5mac.com/2026/11/12/mount-thor-raises-45-million-to-build-mac-data-centers-for-ai-agents/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
+ },
+ {
+  "name": "4Minds",
+  "slug": "4minds",
+  "site": "https://4minds.ai",
+  "careers_url": "https://ats.4minds.ai/careers",
+  "what_they_do": "Contextual AI platform: builds a knowledge graph from company data and keeps models tuned on it",
+  "problem": "Enterprise AI lacks company context; prepping data and retraining models stalls for months and leaks data",
+  "industry": "Enterprise AI / data and knowledge platform",
+  "stage": "Series A",
+  "last_round": "$15M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Waterwood Capital Group, Isom Holdings (family offices)",
+  "total_open_roles": "5",
+  "ops_roles": "Forward Deployed Engineer (remote US)",
+  "hiring_trend": "Headcount 13 (Feb 2026) to 60+ (Nov 2026), targets ~100 by early 2027",
+  "headcount": "~60",
+  "latest_news": "Raised $15M Series A at $500M post-money from Dallas family offices",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://dallasinnovates.com/dallas-ai-startup-4minds-raises-15m-series-a-at-500m-valuation/",
+  "traction": "$2.5M ARR within two months of private alpha (company, Mar 2026); headcount ~5x in 2026",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Seven months out of stealth in a crowded enterprise-context space (Glean, Databricks, hyperscaler tools); marketplace and partner programs but little proof of scale.",
+  "distance_sources": [
+   {
+    "label": "Dallas Innovates: 4Minds raises $15M Series A at $500M (Nov 2026)",
+    "url": "https://dallasinnovates.com/dallas-ai-startup-4minds-raises-15m-series-a-at-500m-valuation/"
+   },
+   {
+    "label": "Dallas Innovates: AI 75 (Mar 2026), $2.5M ARR in private alpha",
+    "url": "https://dallasinnovates.com/2026-ai75/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Mirendil",
+  "slug": "mirendil",
+  "site": "https://mirendil.com",
+  "careers_url": "https://jobs.ashbyhq.com/mirendil",
+  "what_they_do": "Frontier AI lab building models and agents that do AI research and engineering work",
+  "problem": "Frontier AI R&D needs hundreds of elite researchers and huge budgets only a few labs have",
+  "industry": "AI research lab / AI R&D tools",
+  "stage": "Series A",
+  "last_round": "$1B",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Kleiner Perkins, Clearlake Capital",
+  "total_open_roles": "16",
+  "ops_roles": "Member of Technical Staff, Company Building (SF); Founding Finance (SF); Member of Technical Staff, Founding GTM (SF)",
+  "hiring_trend": "~20 staff at Jun 2026 launch (12 on LinkedIn); 16 open roles, up from 12 in Oct",
+  "headcount": "~20",
+  "latest_news": "Raised $1B Series A led by Kleiner Perkins and Clearlake Capital",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://mirendil.com/news/series-a/",
+  "traction": "Pre-revenue; Fern model released, Lor agent product in private beta, first enterprise customers starting to be billed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Five months past launch with a beta product and no revenue; competes with the big labs it came from and other neolabs.",
+  "distance_sources": [
+   {
+    "label": "Mirendil: $1B Series A (Nov 2026)",
+    "url": "https://mirendil.com/news/series-a/"
+   },
+   {
+    "label": "Bloomberg: Mirendil in talks at $5B valuation (Sep 2026)",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-22/ex-anthropic-staffers-ai-startup-in-talks-to-raise-at-5-billion-value"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
+ },
+ {
+  "name": "Databento",
+  "slug": "databento",
+  "site": "https://databento.com",
+  "careers_url": "https://job-boards.greenhouse.io/databento",
+  "what_they_do": "Real-time and historical market data for futures, options, equities and indices over one API",
+  "problem": "Trading firms and AI labs pay legacy vendors big fixed fees and wrangle messy feeds to get clean market data",
+  "industry": "Fintech / financial market data",
+  "stage": "Series C",
+  "last_round": "$100M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Fifth Down Capital",
+  "total_open_roles": "16",
+  "ops_roles": "Billing Support Specialist; Technical Support Engineer (L1/Frontline Support)",
+  "hiring_trend": "Headcount ~24 (Jul 2026) to 39 (Nov 2026); Revelio postings +37.5% in 2026",
+  "headcount": "~39",
+  "latest_news": "Raised $100M Series C at $1.1B led by Fifth Down Capital, four months after its B",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://databento.com/blog/series-c",
+  "traction": "Revenue 6.65x YoY by Jul 2026 and more than doubled since; profitable; 3,000+ customers, 5 of 6 top AI labs",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "2",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Databento-Reviews-E5650624.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "Profitable challenger to Bloomberg, LSEG and ICE with its own feed handlers for 70+ venues, 20+ PB archive and a 9-data-center buildout; still a fraction of incumbents' scale.",
+  "distance_sources": [
+   {
+    "label": "Databento: $100M Series C at $1.1B (Nov 2026)",
+    "url": "https://databento.com/blog/series-c"
+   },
+   {
+    "label": "Databento: $97M Series B, 3,000+ companies, 70+ exchanges (Jul 2026)",
+    "url": "https://databento.com/blog/series-b"
+   },
+   {
+    "label": "Fortune: Databento profitable with 24 staff, rivals Bloomberg/LSEG (Jul 2026)",
+    "url": "https://fortune.com/2026/07/09/christina-qi-left-a-hedge-fund-trading-7-billion-a-day-for-a-farm-in-utah-startup-raised-97-million-to-rival-bloomberg-lseg-databento/"
+   }
+  ],
+  "hiring_locations": [
+   "Salt Lake City",
+   "New York",
+   "San Francisco",
+   "Remote (Global)"
+  ]
+ },
+ {
+  "name": "CodeSignal",
+  "slug": "codesignal",
+  "site": "https://codesignal.com",
+  "careers_url": "https://jobs.gem.com/codesignal",
+  "what_they_do": "Skills assessments, AI interviews and AI-coached upskilling for hiring and workforce teams",
+  "problem": "Employers hire and develop people on résumés and self-ratings instead of evidence of what they can actually do",
+  "industry": "HR tech / skills assessment and learning",
+  "stage": "Series C",
+  "last_round": "$50M",
+  "last_round_date": "Sep 2021",
+  "lead_investors": "Index Ventures",
+  "total_open_roles": "2",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~146 → ~175 Q2 2025 to Q2 2026 (Revelio, +20%); live postings down to 2 (18 listed in 2026)",
+  "headcount": "~165-175",
+  "latest_news": "Expanded TalentNeuron partnership; powers Josh Bersin HR certification assessments",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/talentneuron-and-codesignal-expand-partnership-to-offer-the-most-comprehensive-skills-intelligence-in-the-market-302932978.html",
+  "traction": "~$54M revenue 2024 (Latka est., +33% YoY); 21M+ skill evaluations; customers incl. Meta, Zoom, Robinhood",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.25",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "4.1",
+  "glassdoor_reviews": "60",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/CodeSignal-Reviews-E1461879.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Decade-old assessment brand with 21M+ skill evaluations and enterprise logos, now pushing into agentic skills intelligence; but no round since 2021, flat-to-small revenue estimates, and HackerRank, Karat and AI-native screeners crowd the core coding-test market.",
+  "distance_sources": [
+   {
+    "label": "CodeSignal: Agentic Skills Intelligence GA (Oct 2026)",
+    "url": "https://codesignal.com/newsroom/press-releases/codesignals-new-agentic-skills-intelligence-validates-employee-skills-from-the-work-they-actually-do/"
+   },
+   {
+    "label": "TechCrunch: CodeSignal secures $50M Series C (Sep 2021)",
+    "url": "https://techcrunch.com/2021/09/16/codesignal-secures-50m-for-its-tech-hiring-platform/"
+   },
+   {
+    "label": "Revelio Labs: CodeSignal headcount (Aug 2026)",
+    "url": "https://www.reveliolabs.com/companies/codesignal/employees"
+   }
+  ],
+  "hiring_locations": [
+   "Yerevan",
+   "Remote (US)",
+   "Remote (Armenia)"
+  ]
+ },
+ {
+  "name": "Tofu",
+  "slug": "tofu",
+  "site": "https://www.hiretofu.com",
+  "careers_url": "https://jobs.gem.com/tofu",
+  "what_they_do": "Flags fake job applicants and live-interview deepfakes inside the ATS",
+  "problem": "Recruiters waste interviews on stolen identities, proxies and deepfaked candidates, and some get hired into company systems",
+  "industry": "HR tech / hiring fraud and deepfake detection",
+  "stage": "Seed",
+  "last_round": "$5M",
+  "last_round_date": "Dec 2025",
+  "lead_investors": "Slow Ventures, Founder Collective",
+  "total_open_roles": "2",
+  "ops_roles": "Head of Customer; Customer and Product Lead",
+  "hiring_trend": "~19 staff on LinkedIn (Nov 2026); 2 open roles, both Toronto (was hiring AEs, engineers and a CoS/BizOps lead in Jul 2026)",
+  "headcount": "~19",
+  "latest_news": "Powers fraud detection for 10+ hiring platforms incl. BrightHire and Archer; 10M+ candidates/yr via API",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://www.linkedin.com/posts/jasonzoltak_tofu-quietly-powers-fraud-detection-for-10-activity-7510696231971598337-qfQu",
+  "traction": "~$1M ARR within ~6 months of fraud pivot, 'multi-seven figures' by Jun 2026; 100%+ renewals (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Toronto-based (LinkedIn/Forbes) seed company embedded in Gem, Greenhouse and BrightHire with a cross-customer fraud network, but small (~19 staff, low-millions ARR) in a space where Persona, CLEAR, Socure and the ATS vendors themselves are moving in.",
+  "distance_sources": [
+   {
+    "label": "Forbes: Toronto-based Tofu raises $5M seed, Gem partnership (Dec 2025)",
+    "url": "https://www.forbes.com/sites/mariagraciasantillanalinares/2025/12/16/job-applicant-fraud-is-rising-this-startup-is-using-ai-to-stop-it/"
+   },
+   {
+    "label": "Ritual Capital: ~$1M ARR in ~6 months after pivot",
+    "url": "https://ritualcapital.com/companies/tofu/"
+   },
+   {
+    "label": "Greenhouse Support: tofu integration (Aug 2026)",
+    "url": "https://support.greenhouse.io/hc/en-us/articles/54339507318299-tofu-integration"
+   }
+  ],
+  "hiring_locations": [
+   "Toronto"
+  ]
+ },
+ {
+  "name": "Artificial Analysis",
+  "slug": "artificial-analysis",
+  "site": "https://artificialanalysis.ai",
+  "careers_url": "https://jobs.ashbyhq.com/artificialanalysis",
+  "what_they_do": "Independent benchmarks of AI models, agents, inference clouds and chips",
+  "problem": "Teams can't tell which AI model, provider or chip is best for their cost, speed and quality needs",
+  "industry": "AI benchmarking / evaluation data",
+  "stage": "Seed",
+  "last_round": "Undisclosed (~$2.6M est.)",
+  "last_round_date": "Sep 2024",
+  "lead_investors": "AI Grant (Nat Friedman, Daniel Gross)",
+  "total_open_roles": "20",
+  "ops_roles": "Member of Technical Staff (Commercial) - Strategy Consulting track; Member of Technical Staff (Commercial) - Tech/Start Up track; Forward Deployed Engineer - Language Models",
+  "hiring_trend": "Headcount ~22 (Jan 2026) -> ~52-54 (Sep-Nov 2026), +145% YoY on LinkedIn",
+  "headcount": "~54",
+  "latest_news": "Named to The Information's 50 Most Promising Startups of 2026",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://blogdocemagia.blogspot.com/2026/11/join-us-today-wed-1111-informations-50.html",
+  "traction": "Revenue undisclosed; headcount 22 -> 54 in 2026; cited by OpenAI, Google, NVIDIA launches",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "The most-cited independent AI scoreboard (quoted in OpenAI and Google launches), selling subscriptions and private benchmarks; a16z-backed Vals AI and Epoch compete, and critics question whether its Index v5 weighting tilts against open-weight models.",
+  "distance_sources": [
+   {
+    "label": "Artificial Analysis: About (company, founders, scale)",
+    "url": "https://artificialanalysis.ai/about"
+   },
+   {
+    "label": "Interconnects: Artificial Analysis v5 and the benchmarker's dilemma (Oct 2026)",
+    "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Melbourne"
+  ]
+ },
+ {
+  "name": "Ollama",
+  "slug": "ollama",
+  "site": "https://ollama.com",
+  "careers_url": "https://jobs.ashbyhq.com/ollama",
+  "what_they_do": "Run open AI models locally on your own machine or in Ollama's cloud",
+  "problem": "Developers struggle to download, run and build with open-weight models without heavy setup or cloud lock-in",
+  "industry": "AI developer tools / open-model runtime",
+  "stage": "Series B",
+  "last_round": "$65M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Theory Ventures (B), Benchmark (A)",
+  "total_open_roles": "7",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~38 -> ~77 on LinkedIn (+103% YoY); company said 14 staff at Jul 2026 round",
+  "headcount": "~70-77",
+  "latest_news": "Named to The Information's 50 Most Promising Startups of 2026",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://agihunt.info/p/1a1cbc318554b78821880a6b157",
+  "traction": "8.9M monthly active developers; used in 85% of Fortune 500; revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Default way developers run open models (8.9M monthly devs, 85% of the Fortune 500), but the core runtime is free and open source, monetization through its cloud is early, and llama.cpp and LM Studio are close substitutes.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Ollama raises $65M, nearly 9M users (Jul 2026)",
+    "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/"
+   },
+   {
+    "label": "Ollama blog: all aboard open models (Jul 2026)",
+    "url": "https://www.ollama.com/blog/all-aboard-open-models"
+   }
+  ],
+  "hiring_locations": [
+   "Palo Alto"
+  ]
+ },
+ {
+  "name": "Natural",
+  "slug": "natural",
+  "site": "https://www.natural.com",
+  "careers_url": "https://www.natural.com/careers",
+  "what_they_do": "Payments stack for AI agents: wallets, transfers, cards, billing and credit",
+  "problem": "AI agents can't safely hold money, pay or get paid on rails built for humans",
+  "industry": "Fintech / agentic payments infrastructure",
+  "stage": "Series A",
+  "last_round": "$30M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Forerunner (Kirsten Green)",
+  "total_open_roles": "18",
+  "ops_roles": "AML Operations; Founding GTM, Strategic Partnerships; Head of Finance",
+  "hiring_trend": "Team ~17 (mid 2026) -> 21 (Nov 2026); 18 open roles",
+  "headcount": "~21",
+  "latest_news": "Named to The Information's 50 Most Promising Startups of 2026",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://x.com/kirstenagreen/status/2120755962537468112",
+  "traction": "Six products GA since Jul 2026; revenue undisclosed (reported pre-revenue); $100M credit facility",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Early mover building its own ledger, bank integrations and compliance for agent payments, backed by Forerunner and a $100M Upper90 facility; still roughly pre-revenue and up against Stripe, Coinbase x402 and card networks moving into agentic commerce.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Natural raises $30M to reinvent payments for AI agents (Jul 2026)",
+    "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/"
+   },
+   {
+    "label": "FinTech Futures: Natural lands $100M Upper90 facility (Aug 2026)",
+    "url": "https://www.fintechfutures.com/venture-capital-funding/natural-100m-credit-facility-upper90"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
+ },
+ {
+  "name": "Physical Intelligence",
+  "slug": "physical-intelligence",
+  "site": "https://www.pi.website",
+  "careers_url": "https://jobs.ashbyhq.com/physicalintelligence",
+  "what_they_do": "General-purpose AI foundation models (the π series) that let any robot learn physical tasks",
+  "problem": "Robots need custom programming for every task and body; one general model could make them adaptable",
+  "industry": "Robotics / physical AI",
+  "stage": "Series C",
+  "last_round": "~$1.05B",
+  "last_round_date": "May 2026",
+  "lead_investors": "Founders Fund (reported; Lightspeed, Thrive, CapitalG)",
+  "total_open_roles": "46",
+  "ops_roles": "Business Operations (SF); Strategic Project Lead (SF); Deployment & Engagement Operations Lead (SF); General Manager, Research Operations (SF)",
+  "hiring_trend": "~80 staff in Jan 2026 (TechCrunch); 46 open roles, all SF",
+  "headcount": "~80-150 (est.)",
+  "latest_news": "In talks to raise $1B+ at ~$20B valuation; opened Pi API beta to developers",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://thenextweb.com/news/physical-intelligence-20bn-valuation-talks-bloomberg",
+  "traction": "Pre-revenue (Bloomberg); π0.7 model, Pi API beta Oct 2026, partner deployments",
+  "red_flags": "Watch (not scored): pre-revenue at an $11B+ valuation; landlord sued in Oct 2026 to evict it from 2000 Folsom St (holdover after lease end, space going to Anthropic). Anthropic acquisition talks this spring went nowhere. No layoffs, down round or exec exodus found.",
+  "red_flags_sources": [
+   {
+    "label": "The Next Web: $20B talks, no revenue yet (Oct 2026)",
+    "url": "https://thenextweb.com/news/physical-intelligence-20bn-valuation-talks-bloomberg"
+   },
+   {
+    "label": "SF Standard: landlord sues Physical Intelligence (Oct 2026)",
+    "url": "https://sfstandard.com/2026/10/06/physical-intelligence-anthropic-mission-lawsuit/"
+   }
+  ],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Among the best-funded robot-brain labs with widely used π models, but still pre-revenue; Skild, Generalist, Google DeepMind and Nvidia chase the same prize.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: inside Physical Intelligence (Jan 2026)",
+    "url": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Fremont"
+  ]
+ },
+ {
+  "name": "Temporal",
+  "slug": "temporal",
+  "site": "https://temporal.io",
+  "careers_url": "https://jobs.ashbyhq.com/temporal",
+  "what_they_do": "Open-source durable execution platform that keeps apps and AI agents running through failures",
+  "problem": "Engineers write fragile retry and recovery code; long-running workflows and agents break when systems fail",
+  "industry": "Developer infrastructure",
+  "stage": "Series E",
+  "last_round": "$550M",
+  "last_round_date": "Sep 2026",
+  "lead_investors": "Lightspeed (Wellington, Goldman Sachs Alternatives, Tiger Global)",
+  "total_open_roles": "85",
+  "ops_roles": "Director, Global Developer Success (Remote US); Senior Director, Global Field Operations (Remote US)",
+  "hiring_trend": "Headcount doubled in a year to ~570 (Sep 2026)",
+  "headcount": "~570",
+  "latest_news": "Raised $550M Series E at $12.55B valuation, led by Lightspeed",
+  "latest_news_date": "Sep 2026",
+  "latest_news_url": "https://temporal.io/news/temporal-raises-550m-at-a-12-55b-valuation",
+  "traction": "$250M+ run-rate revenue, +200% YoY; 4,300+ paying customers; NDR >200%",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.5",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.3",
+  "glassdoor_reviews": "24",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Temporal-Technologies-Reviews-E6755876.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "The default durable-execution layer (OpenAI, Snap, Nvidia, Netflix) with 43M open-source installs; AWS Step Functions and newer agent frameworks compete.",
+  "distance_sources": [
+   {
+    "label": "Temporal: $550M Series E (Sep 2026)",
+    "url": "https://temporal.io/news/temporal-raises-550m-at-a-12-55b-valuation"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Seattle",
+   "London",
+   "Remote (US)",
+   "Remote (Singapore)"
+  ]
+ },
+ {
+  "name": "Lambda",
+  "slug": "lambda",
+  "site": "https://lambda.ai",
+  "careers_url": "https://jobs.ashbyhq.com/Lambda",
+  "what_they_do": "GPU cloud and AI data centers for training and running AI models",
+  "problem": "AI labs and companies can't get enough GPU compute from hyperscalers at the speed and price they need",
+  "industry": "AI infrastructure / GPU cloud",
+  "stage": "Series E",
+  "last_round": "$1.5B",
+  "last_round_date": "Nov 2025",
+  "lead_investors": "TWG Global",
+  "total_open_roles": "92",
+  "ops_roles": "",
+  "hiring_trend": "92 open roles, mostly data-center ops and engineering; Glassdoor lists 201-500 staff",
+  "headcount": "~500-1,000 (est.)",
+  "latest_news": "Reported $4B pre-IPO raise; Anthropic's $34.9B deal became terminable after a missed lease deadline",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/",
+  "traction": "Multi-billion contracts with Microsoft, Nvidia and Anthropic (~$41B through 2034)",
+  "red_flags": "Watch (not scored): Anthropic's amended S-1 (Nov 10, 2026) says its $34.9B August compute deal with Lambda is terminable by either side after Lambda missed a facility-lease deadline; neither side has given notice. A Kansas City data-center incentive request was withdrawn amid partner arbitration (Jun 2026). No layoffs found.",
+  "red_flags_sources": [
+   {
+    "label": "DCD: Anthropic says Lambda deal may be cancelled (Nov 2026)",
+    "url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/"
+   },
+   {
+    "label": "Kansas City Star: Project Blitz request withdrawn (Jun 2026)",
+    "url": "https://www.kansascity.com/news/local/article316024513.html"
+   }
+  ],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "29",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Lambda-Reviews-E1349943.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "A top neocloud with Microsoft, Nvidia and Anthropic contracts, but customer concentration is high and CoreWeave, Nebius and Crusoe compete for the same buyers.",
+  "distance_sources": [
+   {
+    "label": "DCD: Anthropic-Lambda commitments (Nov 2026)",
+    "url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "San Jose",
+   "Bellevue",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Zipline",
+  "slug": "zipline",
+  "site": "https://www.zipline.com",
+  "careers_url": "https://job-boards.greenhouse.io/flyzipline",
+  "what_they_do": "Autonomous drone delivery for retailers, restaurants and health systems",
+  "problem": "Ground delivery is slow and costly; stores can only reach customers a few miles away",
+  "industry": "Autonomous logistics / drones",
+  "stage": "Late stage",
+  "last_round": "$1.5B",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Paradigm, WCM, Layer Global (Valor, Fidelity, Uber)",
+  "total_open_roles": "344",
+  "ops_roles": "Head of Product Operations (South SF); Business Operations Manager, Supply Chain (South SF); Marketplace Strategy & Operations Manager (South SF); Field Ops Special Projects Manager (Dallas)",
+  "hiring_trend": "344 open roles; tripling US manufacturing and ramping hiring (Nov 2026)",
+  "headcount": "~1,500+ (est.)",
+  "latest_news": "Raised $1.5B at $21.5B; Walmart adds 300 sites, Uber targets 1M daily deliveries",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.zipline.com/newsroom/zipline-raises-1-5-billion-to-build-nationwide-drone-delivery-network",
+  "traction": "1M+ deliveries in Dallas-Fort Worth in 2026; hundreds of merchants; Walmart +300 sites",
+  "red_flags": "Watch (not scored): Ghana decommissioned three Zipline centers over ~GH¢175M unpaid government debt (Nov 2025); a drone parachuted onto a Houston highway in Sep 2026 (no injuries). No layoffs or lawsuits against Zipline found.",
+  "red_flags_sources": [
+   {
+    "label": "MyJoyOnline: Zipline grounds drones at 3 Ghana hubs (Nov 2025)",
+    "url": "https://www.myjoyonline.com/zipline-grounds-drones-at-3-key-hubs-as-state-debt-hits-gh%c2%a2175m/"
+   },
+   {
+    "label": "KPRC: drone lands on Highway 6 (Sep 2026)",
+    "url": "https://www.click2houston.com/news/local/2026/09/04/food-delivery-drone-crashes-onto-highway-6-in-nw-harris-county/"
+   }
+  ],
+  "score": "5.5",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "264",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Zipline-Reviews-E1394276.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "World's largest drone-delivery operator (150M autonomous miles) with Walmart and Uber deals; Wing and Amazon Prime Air are scaling the same model.",
+  "distance_sources": [
+   {
+    "label": "Zipline: $1.5B raise (Nov 2026)",
+    "url": "https://www.zipline.com/newsroom/zipline-raises-1-5-billion-to-build-nationwide-drone-delivery-network"
+   }
+  ],
+  "hiring_locations": [
+   "South San Francisco",
+   "Dallas-Fort Worth",
+   "Houston",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Handshake",
+  "slug": "handshake",
+  "site": "https://joinhandshake.com",
+  "careers_url": "https://jobs.ashbyhq.com/handshake",
+  "what_they_do": "Student career network now also supplying expert human data for AI labs",
+  "problem": "AI labs need large pools of vetted experts to train models; students and grads need paid work and jobs",
+  "industry": "AI training data / careers marketplace",
+  "stage": "Series F",
+  "last_round": "$200M",
+  "last_round_date": "Jan 2022",
+  "lead_investors": "Coatue, Valiant Peregrine Fund",
+  "total_open_roles": "77",
+  "ops_roles": "Strategic Projects Lead (SF); Strategic Projects Lead, Safety (NYC); Enterprise Implementation Manager (SF); Enterprise Customer Success Manager (Remote US)",
+  "hiring_trend": "Laid off ~100 (15%) Oct 2025; core staff ~650 then; 12K+ on LinkedIn incl. AI fellows",
+  "headcount": "~650 core staff (est.)",
+  "latest_news": "Business Insider: contractors filed $64K in pay disputes this year",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.businessinsider.com/workers-filed-pay-disputes-at-ai-training-startup-handshake-2026-11",
+  "traction": "188,000+ contractors paid $500M+ for AI training work; AI lab clients include OpenAI",
+  "red_flags": "Oct 2025 layoff of ~100 staff (15%) in the recruiting business (WARN notice); Jul 2026 FLSA class action (Boggs v. Stryder) alleging AI annotators are misclassified as contractors, paused for Feb 2027 mediation. Watch (not scored): Nov 2026 Business Insider report of $64K in contractor pay disputes; Glassdoor 3.1 with leadership complaints.",
+  "red_flags_sources": [
+   {
+    "label": "Upstarts: 15% layoff in re-founding (Oct 2025)",
+    "url": "https://www.upstartsmedia.com/p/handshake-refounding-layoff-ai"
+   },
+   {
+    "label": "KRON4: WARN notice, 96 SF jobs (Oct 2025)",
+    "url": "https://www.kron4.com/news/technology-ai/two-bay-area-ai-companies-cut-dozens-of-jobs/"
+   },
+   {
+    "label": "Justia: Boggs v. Stryder Corp. docket (Jul 2026)",
+    "url": "https://dockets.justia.com/docket/california/candce/3:2026cv07498/474660"
+   },
+   {
+    "label": "Business Insider: contractor pay disputes (Nov 2026)",
+    "url": "https://www.businessinsider.com/workers-filed-pay-disputes-at-ai-training-startup-handshake-2026-11"
+   }
+  ],
+  "score": "1.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.1",
+  "glassdoor_reviews": "320",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Handshake-Reviews-E1262074.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Its campus network (1,500 schools) gives it unmatched expert supply for AI data work, but Mercor, Surge and Scale fight for the same lab budgets.",
+  "distance_sources": [
+   {
+    "label": "Business Insider: Handshake contractors (Nov 2026)",
+    "url": "https://www.businessinsider.com/workers-filed-pay-disputes-at-ai-training-startup-handshake-2026-11"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Mountain View",
+   "Remote (India)",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Grafana Labs",
+  "slug": "grafana-labs",
+  "site": "https://grafana.com",
+  "careers_url": "https://job-boards.greenhouse.io/grafanalabs",
+  "what_they_do": "Open-source observability platform (Grafana, Loki, Mimir) and Grafana Cloud",
+  "problem": "Engineering teams need one affordable view of metrics, logs and traces across all their systems",
+  "industry": "Observability / developer tools",
+  "stage": "Series E",
+  "last_round": "$250M",
+  "last_round_date": "Mar 2026",
+  "lead_investors": "GIC",
+  "total_open_roles": "157",
+  "ops_roles": "",
+  "hiring_trend": "157 open roles, remote across 40+ countries; ~1,800 staff (May 2026)",
+  "headcount": "~1,800",
+  "latest_news": "Shipped six agentic AI capabilities for Grafana Assistant (AI Week)",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://grafana.com/whats-new/2026-07-29-grafana-cloud-docs-get-a-new-home-for-ai",
+  "traction": "$400M+ ARR (late 2025); Leader in 2026 Gartner Magic Quadrant for observability",
+  "red_flags": "Watch (not scored): May 2026 GitHub breach via the TanStack supply-chain attack; attackers downloaded its codebase and demanded a ransom, which Grafana refused; no customer data or systems affected (Mandiant audit). No layoffs or lawsuits found.",
+  "red_flags_sources": [
+   {
+    "label": "TechCrunch: hackers stole Grafana code (May 2026)",
+    "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/"
+   },
+   {
+    "label": "Grafana post-incident review (Jun 2026)",
+    "url": "https://grafana.com/blog/grafana-labs-security-update-latest-on-tanstack-npm-supply-chain-ransomware-incident/"
+   }
+  ],
+  "score": "5.0",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "233",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Grafana-Labs-Reviews-E2300269.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Gartner MQ leader with a huge open-source base; Datadog, Dynatrace and Chronosphere compete for the same observability budgets.",
+  "distance_sources": [
+   {
+    "label": "JobsByCulture: Grafana at $9B, $400M+ ARR (May 2026)",
+    "url": "https://jobsbyculture.com/blog/working-at-grafanalabs-2026"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (US)",
+   "Remote (Spain)"
+  ]
+ },
+ {
+  "name": "Cribl",
+  "slug": "cribl",
+  "site": "https://cribl.io",
+  "careers_url": "https://job-boards.greenhouse.io/cribl",
+  "what_they_do": "Telemetry data pipeline and lake that routes, reduces and stores IT and security data",
+  "problem": "Security and IT teams drown in costly log data and are locked into expensive analytics tools",
+  "industry": "Data infrastructure / security",
+  "stage": "Series E",
+  "last_round": "$319M",
+  "last_round_date": "Aug 2024",
+  "lead_investors": "GV",
+  "total_open_roles": "80",
+  "ops_roles": "Sr Business Effectiveness Manager, AI (Remote US); Onboarding Program Owner, Revenue Enablement (Remote US); Customer Support Manager (Remote US)",
+  "hiring_trend": "Revelio: ~1,540 staff (Jun 2026), flat YoY; postings +23% in 2026",
+  "headcount": "~1,540",
+  "latest_news": "Launched Cribl Guard for sensitive-data detection in pipelines",
+  "latest_news_date": "Mar 2026",
+  "latest_news_url": "https://cribl.io/news/",
+  "traction": "$400M+ ARR (company-stated), Fortune 500-heavy customer base",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.0",
+  "glassdoor_reviews": "120",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "Category leader in telemetry pipelines, but Splunk/Cisco, Datadog and newer data-lake startups are moving into the same layer.",
+  "distance_sources": [
+   {
+    "label": "Revelio Labs: Cribl headcount (Aug 2026)",
+    "url": "https://www.reveliolabs.com/companies/cribl/employees"
+   }
+  ],
+  "hiring_locations": [
+   "Remote (US)",
+   "Remote (UK)"
+  ]
+ },
+ {
+  "name": "MatX",
+  "slug": "matx",
+  "site": "https://matx.com",
+  "careers_url": "https://jobs.ashbyhq.com/matx",
+  "what_they_do": "AI chips built specifically for training and serving large language models",
+  "problem": "LLM training and inference on general GPUs is expensive and capacity-constrained",
+  "industry": "Semiconductors / AI hardware",
+  "stage": "Series B",
+  "last_round": "$500M",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "Jane Street, Situational Awareness",
+  "total_open_roles": "42",
+  "ops_roles": "Executive Operations Coordinator, Office of the COO (Mountain View or Remote)",
+  "hiring_trend": "~79 → ~139 staff in 2026 (est.); 42 open roles",
+  "headcount": "~139 (est.)",
+  "latest_news": "Anthropic discussed ~$7B acquisition; talks shifted to partnership; new raise at ~$4B sought",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://www.reuters.com/business/finance/anthropic-planned-then-abandoned-7-billion-purchase-matx-sources-say-2026-08-27/",
+  "traction": "Pre-revenue; first chips expected 2027",
+  "red_flags": "Watch (not scored): pre-revenue chip startup; Anthropic's ~$7B acquisition talks were abandoned (Aug 2026). No layoffs or lawsuits found.",
+  "red_flags_sources": [
+   {
+    "label": "Reuters: Anthropic abandoned MatX purchase (Aug 2026)",
+    "url": "https://www.reuters.com/business/finance/anthropic-planned-then-abandoned-7-billion-purchase-matx-sources-say-2026-08-27/"
+   }
+  ],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Google TPU alumni with big backing, but no chip shipped yet; Nvidia, Etched, Cerebras and in-house lab chips set a high bar.",
+  "distance_sources": [
+   {
+    "label": "Bloomberg: MatX raises $500M (Feb 2026)",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-24/ai-chip-startup-matx-raises-500-million-to-compete-with-nvidia"
+   }
+  ],
+  "hiring_locations": [
+   "Mountain View",
+   "Remote (Israel)"
+  ]
+ },
+ {
+  "name": "Generalist",
+  "slug": "generalist",
+  "site": "https://generalistai.com",
+  "careers_url": "https://jobs.ashbyhq.com/generalist",
+  "what_they_do": "Foundation model that lets many kinds of robots learn tasks from short demos",
+  "problem": "Teaching robots new tasks needs costly data and engineering for every robot and job",
+  "industry": "Robotics / physical AI",
+  "stage": "Series B",
+  "last_round": "$600M (incl. ~$200M Aug extension)",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "Radical Ventures (B); 8VC (extension, reported)",
+  "total_open_roles": "39",
+  "ops_roles": "Robotics Operations Manager (Boston)",
+  "hiring_trend": "39 open roles across San Mateo and Boston",
+  "headcount": "~50-200 (est.)",
+  "latest_news": "Reached ~$3B valuation with ~$200M extension led by 8VC",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say",
+  "traction": "Working with a handful of customers; Gen 1.5 learns tasks from 3-12 s demos",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.75",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "DeepMind and Boston Dynamics alumni with early customers but no disclosed revenue; Physical Intelligence and Skild chase the same robot-brain market.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Generalist at $3B (Aug 2026)",
+    "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say"
+   }
+  ],
+  "hiring_locations": [
+   "Boston",
+   "SF Bay Area"
+  ]
+ },
+ {
+  "name": "Chai Discovery",
+  "slug": "chai-discovery",
+  "site": "https://www.chaidiscovery.com",
+  "careers_url": "https://jobs.ashbyhq.com/chaidiscovery",
+  "what_they_do": "AI models (Chai-3) for designing antibody and protein drugs",
+  "problem": "Finding drug candidates that bind hard targets takes years of costly wet-lab trial and error",
+  "industry": "AI drug discovery",
+  "stage": "Series C",
+  "last_round": "$400M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Index Ventures (reported)",
+  "total_open_roles": "23",
+  "ops_roles": "Business Operations (SF); Strategy (SF); Engagement Management (SF)",
+  "hiring_trend": "~40 staff; 23 open roles, all SF",
+  "headcount": "~40",
+  "latest_news": "Announced Roche collaboration, its latest 2026 big-pharma deal",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20261105711783/en/Chai-Discovery-Announces-Collaboration-with-Roche-in-AI-Driven-Drug-Discovery",
+  "traction": "2026 pharma deals with Eli Lilly, Pfizer, Novartis, argenx and Roche",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.25",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Fast pharma adoption of its models in 2026; Isomorphic Labs, Xaira and Generate Biomedicines compete for the same partnerships.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Roche collaboration (Nov 2026)",
+    "url": "https://www.businesswire.com/news/home/20261105711783/en/Chai-Discovery-Announces-Collaboration-with-Roche-in-AI-Driven-Drug-Discovery"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
+ },
+ {
+  "name": "EvenUp",
+  "slug": "evenup",
+  "site": "https://www.evenuplaw.com",
+  "careers_url": "https://jobs.ashbyhq.com/evenup",
+  "what_they_do": "AI platform that prepares demand letters and case work for personal injury law firms",
+  "problem": "Injury lawyers spend weeks on medical records and demands, and often settle cases for too little",
+  "industry": "Legal tech / vertical AI",
+  "stage": "Series E",
+  "last_round": "$150M",
+  "last_round_date": "Oct 2025",
+  "lead_investors": "Bessemer Venture Partners",
+  "total_open_roles": "46",
+  "ops_roles": "Director, Customer Onboarding & AI Adoption (Remote US); Senior Manager, Pre-Litigation Operations (Remote); Senior Manager, Discovery Operations (Remote US); Director, Customer Success Management (Remote US)",
+  "hiring_trend": "46 open roles (20 Remote-US); 2026 layoffs in legal ops and mid-market sales per reviews",
+  "headcount": "~800 (est.)",
+  "latest_news": "Built Lexis+ legal content into its Companion assistant (LexisNexis partnership)",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.evenuplaw.com/lexisnexis/",
+  "traction": "~20% of top 100 US injury firms use it; thousands of firms; $2B+ valuation",
+  "red_flags": "2026 layoffs reported by former staff: ~30 legal-operations staff cut in June with work moved offshore, and 'massive layoffs' in mid-market sales (Oct 2026 review). Watch (not scored): Glassdoor 2.9/175; 2024 Business Insider report that humans did much of the 'AI' demand-letter work.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor review: laid off ~30, work moved to India (Jun 2026)",
+    "url": "https://www.glassdoor.com/Reviews/EvenUp-people-Reviews-EI_IE6782155.0,6_KH7,13.htm"
+   },
+   {
+    "label": "Glassdoor review: 'Massive layoffs have not helped quota' (Oct 2026)",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-EvenUp-E6782155-RVW105986454.htm"
+   },
+   {
+    "label": "Legal Tech Circle: tear-down incl. BI report (Oct 2026)",
+    "url": "https://legaltechcircle.com/insights/evenup-protege-personal-injury-ai/"
+   }
+  ],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "2.9",
+  "glassdoor_reviews": "175",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/EvenUp-Reviews-E6782155.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "Largest personal-injury dataset (Piai) and fast adoption, but the work is partly service, culture reviews are weak, and Eve and Supio compete hard.",
+  "distance_sources": [
+   {
+    "label": "Legal Tech Circle: EvenUp tear-down (Oct 2026)",
+    "url": "https://legaltechcircle.com/insights/evenup-protege-personal-injury-ai/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Toronto",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Atoms",
+  "slug": "atoms",
+  "site": "https://atoms.co",
+  "careers_url": "https://job-boards.greenhouse.io/atoms",
+  "what_they_do": "Travis Kalanick's robotics holding company: CloudKitchens, Otter, Picnic, Lab37 and Pronto mining autonomy",
+  "problem": "Food, mining and transport still rely on manual work that specialized robots could automate",
+  "industry": "Robotics / food infrastructure",
+  "stage": "Late stage",
+  "last_round": "$1.7B",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Andreessen Horowitz (Uber, Bain Capital, Fifth Wall)",
+  "total_open_roles": "161",
+  "ops_roles": "Operations Manager (SF); Senior Operations Manager (Las Vegas / Phoenix); Enterprise Kitchen Onboarding Manager (Austin); Safety Operations Lead (SF)",
+  "hiring_trend": "161 open roles; Revelio shows 1,566 (2023) → 662 (Jun 2026) for 'Atoms (California)'",
+  "headcount": "~660-1,000 (est.)",
+  "latest_news": "Raised $1.7B led by a16z; Ben Horowitz joins board; ex-Uber CFO hired",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+  "traction": "CloudKitchens serves 600+ brands; revenue undisclosed",
+  "red_flags": "Watch (not scored): CloudKitchens had multiple layoff rounds and kitchen closures in 2023-24; Revelio headcount for 'Atoms (California)' fell from 1,566 (2023) to 662 (Jun 2026), entity match unconfirmed; salad chain Mixt's Dec 2024 suit against Picnic went to private arbitration; a 2024 harassment and discrimination suit by a former employee.",
+  "red_flags_sources": [
+   {
+    "label": "NRN: Atoms launch and lawsuits (Mar 2026)",
+    "url": "https://www.nrn.com/restaurant-technology/uber-cofounder-travis-kalanick-launches-atoms-a-new-robotics-and-food-tech-company"
+   },
+   {
+    "label": "Revelio Labs: Atoms (California) headcount (Aug 2026)",
+    "url": "https://www.reveliolabs.com/companies/atoms-california/employees"
+   },
+   {
+    "label": "Restaurant Business: Mixt sues Picnic (Jun 2025)",
+    "url": "http://restaurantbusinessonline.com/technology/cloudkitchens-office-lunch-business-sued-salad-chain-mixt"
+   }
+  ],
+  "score": "4.75",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "A real food-infrastructure business and $1.7B to automate it, but the ghost-kitchen model has struggled and mining and transport units are early.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Atoms raises $1.7B (Jul 2026)",
+    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Los Angeles",
+   "Bogotá"
+  ]
+ },
+ {
+  "name": "DensityAI",
+  "slug": "densityai",
+  "site": "https://densityai.com",
+  "careers_url": "https://job-boards.greenhouse.io/densityai",
+  "what_they_do": "AI chips, hardware and software for data centers, founded by Tesla's former Dojo team",
+  "problem": "AI training for robotics and autos needs cheaper, denser compute than off-the-shelf clusters",
+  "industry": "Semiconductors / AI hardware",
+  "stage": "Early stage (undisclosed)",
+  "last_round": "Undisclosed",
+  "last_round_date": "",
+  "lead_investors": "",
+  "total_open_roles": "27",
+  "ops_roles": "",
+  "hiring_trend": "~20 ex-Dojo engineers at founding (Aug 2025); still poaching senior Tesla chip staff",
+  "headcount": "~70 (est.)",
+  "latest_news": "Hired Tesla's senior director of AI hardware design, Shishuang Sun",
+  "latest_news_date": "Aug 2026",
+  "latest_news_url": "https://electrek.co/2026/08/24/tesla-chip-engineer-shishuang-sun-densityai/",
+  "traction": "Pre-product; no customers or revenue disclosed",
+  "red_flags": "Watch (not scored): no product or announced round yet; a large a16z-led round was reported in talks (Sep 2026) but not confirmed.",
+  "red_flags_sources": [
+   {
+    "label": "Electrek: DensityAI hires Tesla chip lead (Aug 2026)",
+    "url": "https://electrek.co/2026/08/24/tesla-chip-engineer-shishuang-sun-densityai/"
+   }
+  ],
+  "score": "1.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "A proven team that built Dojo, but no chip, customer or announced funding yet; Nvidia and well-funded chip startups dominate.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Tesla shuts Dojo as team leaves for DensityAI (Aug 2025)",
+    "url": "https://techcrunch.com/2025/08/07/tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving/"
+   }
+  ],
+  "hiring_locations": [
+   "Mountain View",
+   "Austin",
+   "Palo Alto"
+  ]
+ },
+ {
+  "name": "Mind Robotics",
+  "slug": "mind-robotics",
+  "site": "https://www.mindrobotics.com",
+  "careers_url": "https://jobs.ashbyhq.com/mindrobotics",
+  "what_they_do": "AI-driven industrial robots for factories, spun out of Rivian",
+  "problem": "Complex manufacturing tasks still need human dexterity that today's factory robots lack",
+  "industry": "Robotics / industrial AI",
+  "stage": "Series A-1",
+  "last_round": "$400M",
+  "last_round_date": "May 2026",
+  "lead_investors": "Kleiner Perkins",
+  "total_open_roles": "33",
+  "ops_roles": "",
+  "hiring_trend": "~13 on LinkedIn (Mar 2026) → ~100 (Nov 2026); 33 open roles",
+  "headcount": "~100",
+  "latest_news": "Hired ex-Ford EV chief Doug Field as President",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+  "traction": "Pre-revenue; first robots in a Rivian plant planned for mid-2027",
+  "red_flags": "Watch (not scored): no product shown publicly yet; Rivian is its main customer and holds ~31%. Scammers impersonated its recruiters (Feb 2026), not a company issue.",
+  "red_flags_sources": [
+   {
+    "label": "EV news: first robots in Rivian plant mid-2027 (Nov 2026)",
+    "url": "https://eletric-vehicles.com/rivian/rivian-plant-to-get-first-mind-robotics-robots-in-mid-2027-ceo-says/"
+   }
+  ],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "$1B+ raised and Rivian's factories as a training ground, but no robot deployed in production yet.",
+  "distance_sources": [
+   {
+    "label": "Automotive World: Mind hires Doug Field (Oct 2026)",
+    "url": "https://www.automotiveworld.com/news/mind-robotics-hires-doug-field-to-scale-its-factory-robots"
+   }
+  ],
+  "hiring_locations": [
+   "Palo Alto",
+   "Normal"
+  ]
+ },
+ {
+  "name": "Fomo",
+  "slug": "fomo",
+  "site": "https://fomo.family",
+  "careers_url": "https://jobs.ashbyhq.com/fomo-labs",
+  "what_they_do": "Social crypto trading app: buy any token in seconds and follow top traders",
+  "problem": "On-chain trading is confusing (wallets, bridges, gas fees), keeping mainstream users out",
+  "industry": "Crypto / consumer fintech",
+  "stage": "Series B",
+  "last_round": "$75M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Index Ventures (Union Square Ventures, Benchmark)",
+  "total_open_roles": "11",
+  "ops_roles": "",
+  "hiring_trend": "17 staff at Jun 2026 raise → ~55 on LinkedIn (Nov 2026); 11 open roles, all NYC",
+  "headcount": "~55",
+  "latest_news": "Reports ~3.2M users as it builds a broader social finance platform",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/11/04/3395047/0/en/fomo-reports-approximately-3-2-million-users-as-it-builds-a-broader-social-finance-platform.html",
+  "traction": "$100M+ revenue since May 2025 launch; 3.4M users; $28B trading volume (company-stated)",
+  "red_flags": "Watch (not scored): The Block found card purchases of memecoins on Fomo were coded as digital goods, skipping card-network crypto rules; Chase opened a case with Visa and the New York AG's office said it is reviewing the matter (Sep 2026); Visa moved to close the loophole. Its terms say it is not licensed by any regulator. Users hit by phishing and a malicious clone app (not Fomo's code).",
+  "red_flags_sources": [
+   {
+    "label": "The Block: memecoin card purchases sidestep network rules (Sep 2026)",
+    "url": "https://www.theblock.co/news/business/2026-09-01-buying-memecoins-with-credit-cards-on-robinhood-wallet-fomo-sidestep-card-network-crypto-rules-411911"
+   },
+   {
+    "label": "The Block: Visa closes the loophole (Sep 2026)",
+    "url": "https://www.theblock.co/news/regulation/2026-09-19-visa-to-close-crossmint-memecoin-rewards-loophole-following-the-block-investigation-report-415866"
+   }
+  ],
+  "score": "4.25",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Fast consumer growth and real revenue in about a year, but crypto trading volume is cyclical and Robinhood, Coinbase and Phantom fight for the same users.",
+  "distance_sources": [
+   {
+    "label": "Fortune: Fomo Series B (Jun 2026)",
+    "url": "https://fortune.com/2026/06/22/fomo-series-b-fundraise-index-ventures-union-square-ventures/"
+   }
+  ],
+  "hiring_locations": [
+   "New York"
+  ]
+ },
+ {
+  "name": "Catalyst",
+  "slug": "catalyst",
+  "site": "https://catalyst.app",
+  "careers_url": "",
+  "what_they_do": "AI trading agents that turn a plain-English thesis into strategies and trades",
+  "problem": "Retail traders stitch together charts, news, bots and exchange accounts to act on an idea",
+  "industry": "Crypto / AI fintech",
+  "stage": "Seed",
+  "last_round": "$30M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Sequoia (Jump, Lux, Peak XV, Coinbase Ventures)",
+  "total_open_roles": "n.a.",
+  "ops_roles": "",
+  "hiring_trend": "New company (founded 2025); no public job board found",
+  "headcount": "",
+  "latest_news": "Launched in research preview with $30M seed led by Sequoia",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://catalyst.app/blog/introducing-catalyst",
+  "traction": "Hundreds of millions in pilot trading volume; tens of thousands on waitlist (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "A month past launch in research preview; agent trading for retail is new and untested, and execution errors cost real money.",
+  "distance_sources": [
+   {
+    "label": "Fortune: Catalyst raises $30M (Oct 2026)",
+    "url": "https://fortune.com/2026/10/08/sequoia-backed-catalyst-raises-30-million-build-ai-trading-agents-everyday-investors/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Voya Energy",
+  "slug": "voya-energy",
+  "site": "https://www.voya.energy",
+  "careers_url": "https://jobs.ashbyhq.com/Voya%20Energy",
+  "what_they_do": "Aluminum-fueled generators that make clean on-site power without combustion",
+  "problem": "Data centers and industrial sites rely on loud, polluting diesel generators for backup and off-grid power",
+  "industry": "Energy / deep tech",
+  "stage": "Series A",
+  "last_round": "$35M",
+  "last_round_date": "Aug 2026",
+  "lead_investors": "Energy Impact Partners (John Doerr, Founders Fund, StepStone)",
+  "total_open_roles": "6",
+  "ops_roles": "",
+  "hiring_trend": "~38 staff on LinkedIn; 6 open roles in Hayward; opening 28,000 sq ft pilot factory",
+  "headcount": "~38",
+  "latest_news": "MOL Switch (Mitsui O.S.K. Lines) invests to explore aluminum fuel for shipping",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.voya.energy/news/mol-switch-invests-in-voya-energy-to-explore-aluminum-fuels-for-maritime-electrification",
+  "traction": "Pre-commercial; first deployments targeted for 2027, manufacturing scale-up 2028",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Lab-stage technology from a team with a prior battery exit (Cuberg); must prove aluminum fuel costs beat diesel in the field.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Voya $35M Series A (Aug 2026)",
+    "url": "https://www.businesswire.com/news/home/20260826381076/en/Voya-Energy-Unveils-Metal-Fuels-Energy-System-Closes-%2435-Million-Series-A"
+   }
+  ],
+  "hiring_locations": [
+   "Hayward"
+  ]
  }
 ]

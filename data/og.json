@@ -17,6 +17,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-22"
  },
+ "4minds": {
+  "url": "https://cdn.sanity.io/images/206mgkkc/staging/f9d55320e06f3ade363a334999a758371c4d1b6e-1200x630.svg?w=1200&h=630&fm=png&fit=crop",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "aaru": {
   "url": "https://aaru.com/share.png?v=20260727",
   "kind": "og",
@@ -118,6 +124,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-27"
+ },
+ "aiuc": {
+  "url": "https://framerusercontent.com/images/MWoHni77xoZouBQ1u7mM7ZZTbhg.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
  },
  "albert-invent": {
   "url": "https://cdn.prod.website-files.com/68f0bb999f20ff63f3bd6be0/691dfffb2d271996162cbdb4_Webclip.png",
@@ -257,6 +269,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "arca": {
+  "url": "https://framerusercontent.com/assets/uTU5elOTmpug4fJiDO3OdW27o.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "arcana": {
   "url": "https://cdn.prod.website-files.com/678a5c827d7385f94755baf7/6a909fde79d2d809300c91f6_Arcana%20%7C%20Portfolio%20Intelligence%20for%20Hedge%20Funds%20%26%20Asset%20Managers.png",
   "kind": "og",
@@ -304,6 +322,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "artificial-analysis": {
+  "url": "https://artificialanalysis.ai/opengraph-image.png?ab13fbb533329573",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "artisan": {
   "url": "https://www.artisan.co/assets/common/gtm-stack/seo-general.webp",
@@ -364,6 +388,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "atoms": {
+  "url": "https://framerusercontent.com/images/dNoeYLyZlFglP4fydOlA1DIZB1o.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "attention": {
   "url": "https://cdn.prod.website-files.com/66c6eb8376ae25cee9273195/6a91cd4f88973bdf60c852e3_og_img.jpg",
@@ -430,6 +460,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "baselayer": {
+  "url": "https://baselayer.com/wp-content/uploads/2025/07/OG.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
  },
  "baseten": {
   "url": "https://www.baseten.co/img/og-bg-2025.png",
@@ -623,11 +659,23 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "catalyst": {
+  "url": "https://catalyst.app/og-image.png?v=2",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "causa-prima": {
   "url": "https://causaprima.com/og-card.jpg",
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "chai-discovery": {
+  "url": "https://framerusercontent.com/images/GHT9QAB4zu0jdGsoQxwESRTW8.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "chainguard": {
   "url": "https://images.ctfassets.net/l47ir7rfykkn/TLlGMpRLUthcQwOqUaxeD/015493ab350e8b12565d390f09c5ca69/Chaingurd_OG_Image.png",
@@ -767,6 +815,12 @@
   "type": "image/png",
   "checked": "2026-10-21"
  },
+ "codesignal": {
+  "url": "https://codesignal.com/wp-content/uploads/2022/12/codesignal-fallbck.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
+ },
  "coframe": {
   "url": "https://media.cofra.me/u/aHR0cHM6Ly9jZG4uY29mcmFtZS5jb20vYXNzZXRzL2Fzc2V0cy9vZy9hMjQ2MzkyNi0xMTNkLTRjYmMtOWI0Ni1mZTZiYmNlZjE4MTcucG5n?w=1280&f=jpeg",
   "kind": "og",
@@ -796,6 +850,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-27"
+ },
+ "collate": {
+  "url": "https://collate.com/apple-touch-icon.png",
+  "kind": "icon",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "collective": {
   "url": "https://www.collective.com/_next/static/media/opengraph-image.e4fa6f83.png",
@@ -881,6 +941,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "corner-health": {
+  "url": "https://cdn.prod.website-files.com/6a39648cd14145b069bdc646/6abe945fe1ae69ce9244e5a2_4fdc46d9019a9c607bc73cacd4b0d961_Open%20graph.webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-11-12"
+ },
  "corridor": {
   "url": "https://framerusercontent.com/images/tVtiAYlXSUZu4pRKZW3PFtz6Y0.png",
   "kind": "og",
@@ -910,6 +976,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "cribl": {
+  "url": "https://images.ctfassets.net/xnqwd8kotbaj/7d221sw8BfNyeoGGE4Vd5t/da4649cecdadff1cb69954ec4577c232/Homepage-OG_1920x1005_Teal.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "crosby": {
   "url": "https://cdn.sanity.io/images/q0rw6tov/production/0f7ad0ae733ad98919db05ca5eaaf684cfa93fe1-1920x1080.png?w=1200&h=630&fit=crop&fm=png",
@@ -965,6 +1037,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "databento": {
+  "url": "https://databento.com/brand/databento-snapshot.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "databricks": {
   "url": "https://www.databricks.com/sites/default/files/2023-11/databricks-og-universal.png",
   "kind": "og",
@@ -995,6 +1073,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "daylight": {
+  "url": "https://cdn.prod.website-files.com/6aa946b076ba7e8c277c5a3b/6aedeecae84a37587b1e8dc6_daylight-og-homepage-v2.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
+ },
  "daytona": {
   "url": "https://framerusercontent.com/images/dbk8NXJZTDaQmlzEzM3pI1y98.png",
   "kind": "og",
@@ -1024,6 +1108,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "densityai": {
+  "url": "https://www.densityai.com/assets/images/og/og-default.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
  },
  "depthfirst": {
   "url": "https://depthfirst.com/images/depthfirst-og.png",
@@ -1181,6 +1271,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "enigma": {
+  "url": "https://cdn.sanity.io/images/xperbxq4/production/dbedb95c000f959bb26e13a38af410844cbffd02-2400x1260.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "enterpret": {
   "url": "https://cdn.prod.website-files.com/69e6b779dbc68d6b76294ae1/69e6b779dbc68d6b76294e12_1200x630%20Open%20Graph.png",
   "kind": "og",
@@ -1234,6 +1330,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "evenup": {
+  "url": "https://www.evenuplaw.com/wp-content/uploads/homepage-thumbnail.webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-11-12"
  },
  "every-io": {
   "url": "https://cdn.prod.website-files.com/67bd8516c05e6b61bc3f959f/67e2117b63cbe67b72ac7a08_og_image_02img.jpg",
@@ -1397,6 +1499,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "fomo": {
+  "url": "https://fomo.family/images/og-image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "footprint": {
   "url": "https://framerusercontent.com/assets/dTqiC2XcwfU5H995obGjZL9EQ.png",
   "kind": "og",
@@ -1432,6 +1540,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "foundry-robotics": {
+  "url": "https://cdn.prod.website-files.com/6acf535ca9534c6f869878dc/6ae21707de3185e95f90525d_Featured%20Image.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
  },
  "fractile": {
   "url": "https://fractile.com/assets/og.jpg",
@@ -1523,6 +1637,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "generalist": {
+  "url": "https://generalistai.com/assets/images/generalist-og-image.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
+ },
  "geom": {
   "url": "https://geom.ai/__l5e/assets-v1/a1e7b70c-560a-410b-8b12-06fc9daba49e/geom-imessage-share.jpg",
   "kind": "og",
@@ -1589,6 +1709,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "grafana-labs": {
+  "url": "https://a-us.storyblok.com/f/1022730/1920x1080/f5f38546c4/image-homepage-metaimage.png/m/1200x630/filters:format(jpeg):quality(80)/",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
+ },
  "granola": {
   "url": "https://www.granola.ai/og-image.png",
   "kind": "og",
@@ -1636,6 +1762,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "handshake": {
+  "url": "https://cdn.sanity.io/images/mz2hls6g/production/c89577dc7e913e0b66e419630a1935abfda5659d-1200x630.png?fm=webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-11-12"
  },
  "happyrobot": {
   "url": "https://happyrobot.b-cdn.net/HappyRobot_HeroLoop_v01%20(00184)%201-1200x630.png",
@@ -1931,6 +2063,12 @@
   "type": "image/webp",
   "checked": "2026-10-19"
  },
+ "lambda": {
+  "url": "https://lambda.com/hubfs/OPENGRAPH%20-%20Main-1.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "langchain": {
   "url": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/6a907b277587adb77be09e34_Website%20preview%20.png",
   "kind": "og",
@@ -2008,6 +2146,12 @@
   "kind": "og",
   "type": "image/avif",
   "checked": "2026-10-19"
+ },
+ "light": {
+  "url": "https://www.poweredbylight.com/opengraph-image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "lightdash": {
   "url": "https://framerusercontent.com/images/A3BTwvXbAjHYhlotVfVz41cm20w.png",
@@ -2147,6 +2291,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "matx": {
+  "url": "https://matx.com/images/cover.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "mave": {
   "url": "https://cdn.prod.website-files.com/6988c75fc75dc9dd4f796dc8/69b2b7bc17d77c163c3af013_444056ce2fc5064f7729770e0550a33c_opengraph.png",
   "kind": "og",
@@ -2213,11 +2363,29 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "midstream-health": {
+  "url": "https://framerusercontent.com/images/iwBLctwKwSWEvWePHu13JHZO0A.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
+ },
+ "mind-robotics": {
+  "url": "https://www.datocms-assets.com/221981/1784633509-share-image.png?auto=format&fit=max&w=1200",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "mintlify": {
   "url": "https://www.mintlify.com/_next/static/media/og.28576e75.png",
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "mirendil": {
+  "url": "https://mirendil.com/assets/preview-default.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "mistral-ai": {
   "url": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
@@ -2254,6 +2422,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "modus": {
+  "url": "https://modusalliance.com/wp-content/uploads/2026/09/cropped-modus-logo-270x270.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "moego": {
   "url": "https://www.moego.pet/og-homepage.png",
@@ -2315,6 +2489,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "mount-thor": {
+  "url": "https://mountthor.com/banner-og.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "mural": {
   "url": "https://cdn.prod.website-files.com/62e11362da2667ac3d0e6ed5/638f50f56076f389d91406a0_Mural_OG_image_launch.png",
   "kind": "og",
@@ -2345,11 +2525,29 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "natural": {
+  "url": "https://www.natural.com/opengraph.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
+ },
+ "nebex": {
+  "url": "https://cdn.prod.website-files.com/69d7ce76ca1b5fcddfbd6f08/69e4ee154fb05506898127bf_safeimagekit-resized-logoW%20(1).png",
+  "kind": "icon",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "nebulock": {
   "url": "https://cdn.prod.website-files.com/699f3d4103e81bd7b27e4fe4/6aa83cb2bc8363491561ff7d_Homepage%20OpenGraph%20-%201200x630.jpg",
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "neo": {
+  "url": "https://www.neo.ai/og/home.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "netic": {
   "url": "https://cdn.prod.website-files.com/67d1b2757aed7051cae78460/683c975453773d9881a43143_Hero%20OG.webp",
@@ -2477,6 +2675,12 @@
   "type": "image/png",
   "checked": "2026-10-20"
  },
+ "ollama": {
+  "url": "https://ollama.com/public/og.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "omnea": {
   "url": "https://framerusercontent.com/assets/KD14DjlLQWwsBspqat2ZYFHW5I.png",
   "kind": "og",
@@ -2512,6 +2716,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "operand": {
+  "url": "https://www.operand.com/og-image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "ossium-health": {
   "url": "https://ossiumhealth.com/wp-content/themes/ossium/assets/images/favicon/apple-icon-180x180.png",
@@ -2801,6 +3011,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "pocket": {
+  "url": "https://heypocket.com/cdn/shop/files/Thumnail_1.png?v=1772470703",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "point-me": {
   "url": "https://www.point.me/marketing/og/717BG0iHjkYiB4lTu1vbp4.jpg",
   "kind": "og",
@@ -2879,6 +3095,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "prosper-ai": {
+  "url": "https://cdn.prod.website-files.com/68c796fdde22c7e30f94a223/68d14449b7073dd03f555528_getprosper-open-graph.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "proximal": {
   "url": "https://www.proximal.ai/preview/",
   "kind": "og",
@@ -2896,6 +3118,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "qualitate": {
+  "url": "https://cdn.sanity.io/images/elrl7o4h/production/47cd0c629d7ee619de75929831d8c38051273dce-1200x630.png?w=1200&h=630&fit=crop&fm=jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
  },
  "quartermaster": {
   "url": "https://cdn.prod.website-files.com/6819c8edf10133dd7a73b8a8/6837088f6284cc95d8e9670c_OG%20Images.jpg",
@@ -3587,11 +3815,23 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "tar": {
+  "url": "https://www.tar.com/opengraph-image.jpg?opengraph-image.9ad04754.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
+ },
  "taxwire": {
   "url": "https://framerusercontent.com/images/d5yb15crOjfz9RQmcuLRWeWw88.png",
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "temporal": {
+  "url": "https://temporal.io/images/open-graph/shiny.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "tendrils-compute": {
   "url": "https://tendrils.co/apple-touch-icon-57x57.png",
@@ -3610,6 +3850,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "terrafirma": {
+  "url": "https://terrafirma.inc/app/uploads/2026/01/screenshot.webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-11-12"
  },
  "tessera-labs": {
   "url": "https://tesseralabs.ai/apple-touch-icon.png",
@@ -3664,6 +3910,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "tofu": {
+  "url": "https://www.hiretofu.com/brand/og-image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "together-ai": {
   "url": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a49f86fc70648ca04854f6_OG-image-home.png",
@@ -3725,6 +3977,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "transfyr": {
+  "url": "https://cdn.sanity.io/images/gbfpwoho/production/17d3707b041e85ef9d0482af23ba2666423ef899-4800x2520.jpg?w=1200&h=630&fit=max&auto=format",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
+ },
  "translucent": {
   "url": "https://cdn.prod.website-files.com/6983d2b1dbf23716da09ec6b/6983d2b1dbf23716da09ece5_Translucent%20-%20OG%20Image.jpg",
   "kind": "og",
@@ -3736,6 +3994,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "traysar": {
+  "url": "https://traysar.com/opengraph-image.png?opengraph-image.1nugtsre1cmsd.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "treeline": {
   "url": "https://cdn.prod.website-files.com/698c972e863e32ea589386ce/69ca96e41e0393d866e0ff6f_Treeline_main_1200x630%202.png",
@@ -3761,11 +4025,23 @@
   "type": "image/jpeg",
   "checked": "2026-11-08"
  },
+ "tutor-intelligence": {
+  "url": "https://cdn.prod.website-files.com/68fa203de60162c631624d70/6aefc8a869569fd1e98ff89b_og-home.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "typesafe-ai": {
   "url": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg",
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "ultra": {
+  "url": "https://framerusercontent.com/assets/V7vdI2gnDOyd5eP7Nn1oxvczQY.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "unconventional-ai": {
   "url": "https://unconv.ai/wp-content/uploads/2026/07/Preview-Image-1-1.jpg",
@@ -3796,6 +4072,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "vals-ai": {
+  "url": "https://www.vals.ai/og.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
  },
  "valthos": {
   "url": "https://valthos.com/opengraph-image.png",
@@ -3911,6 +4193,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "voya-energy": {
+  "url": "https://cdn.prod.website-files.com/6a47ffd1ac434dc8cd77d2b7/6a876e7679faab841258b86e_fuel-c-img.webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-11-12"
+ },
  "waabi": {
   "url": "https://www.datocms-assets.com/163962/1756426717-waabi_road2_04965.jpg?auto=format&fit=max&w=1200",
   "kind": "og",
@@ -3940,6 +4228,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "watchtower-labs": {
+  "url": "https://cdn.prod.website-files.com/6ab15b40d5c85bb81d73ce57/6ac6b74bd5ac100db0686024_cover-example.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
  },
  "watershed": {
   "url": "https://cdn.sanity.io/images/3ogo9b9g/production/585df129172025fc52864431eeddb9eb5fb2d645-1200x630.png?w=1200&fit=max&auto=format",
@@ -4060,5 +4354,11 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "zipline": {
+  "url": "https://www.zipline.com/og-default-v2.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
  }
 }

@@ -1,0 +1,63 @@
+{
+  "slug": "generalist",
+  "checked": "Nov 12, 2026",
+  "founded": 2024,
+  "hq": "San Mateo, CA / Somerville, MA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Pete Florence",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say"
+    },
+    {
+      "name": "Andy Zeng",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say"
+    },
+    {
+      "name": "Andrew Barry",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2026-06",
+      "amount": "$400M",
+      "valuation": "$2B",
+      "lead": "Radical Ventures",
+      "source": "https://robotics.farantzos.com/companies/generalist-ai"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2026-08",
+      "amount": "~$200M",
+      "valuation": "$3B",
+      "lead": "8VC (reported)",
+      "source": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say"
+    }
+  ],
+  "total_raised": "~$700M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "~$3B valuation after ~$200M extension",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say"
+    }
+  ],
+  "competitors": [
+    "Physical Intelligence",
+    "Skild AI",
+    "Figure",
+    "Covariant"
+  ]
+}

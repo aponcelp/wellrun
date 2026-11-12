@@ -1,0 +1,73 @@
+{
+  "slug": "mind-robotics",
+  "checked": "Nov 12, 2026",
+  "founded": 2025,
+  "hq": "Palo Alto, CA",
+  "headcount_est": {
+    "value": "~100",
+    "as_of": "Nov 2026",
+    "source": "https://linkedin.com/company/mindrobotics"
+  },
+  "leadership": [
+    {
+      "name": "RJ Scaringe",
+      "title": "Founder & Chair",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20261013522589/en/Mind-Robotics-Appoints-Doug-Field-as-President"
+    },
+    {
+      "name": "Doug Field",
+      "title": "President",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20261013522589/en/Mind-Robotics-Appoints-Doug-Field-as-President"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-11",
+      "amount": "$115M",
+      "valuation": null,
+      "lead": "Eclipse",
+      "source": "https://www.automotiveworld.com/news/mind-robotics-hires-doug-field-to-scale-its-factory-robots"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-03",
+      "amount": "$500M",
+      "valuation": null,
+      "lead": "Accel, Andreessen Horowitz",
+      "source": "https://www.automotiveworld.com/news/mind-robotics-hires-doug-field-to-scale-its-factory-robots"
+    },
+    {
+      "round": "Series A-1",
+      "date": "2026-05",
+      "amount": "$400M",
+      "valuation": "~$3.4B",
+      "lead": "Kleiner Perkins",
+      "source": "https://www.automotiveworld.com/news/mind-robotics-hires-doug-field-to-scale-its-factory-robots"
+    }
+  ],
+  "total_raised": "~$1B",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "First robots in a Rivian plant planned for mid-2027",
+      "url": "https://eletric-vehicles.com/rivian/rivian-plant-to-get-first-mind-robotics-robots-in-mid-2027-ceo-says/"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Doug Field named President",
+      "url": "https://www.businesswire.com/news/home/20261013522589/en/Mind-Robotics-Appoints-Doug-Field-as-President"
+    }
+  ],
+  "competitors": [
+    "Figure",
+    "Physical Intelligence",
+    "Apptronik",
+    "Bright Machines"
+  ]
+}

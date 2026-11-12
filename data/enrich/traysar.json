@@ -1,0 +1,40 @@
+{
+  "slug": "traysar",
+  "checked": "Nov 12, 2026",
+  "founded": 2025,
+  "hq": "Austin, TX",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Yadin Soffer",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://traysar.com/news/traysar-launches-terminus-armada"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-06",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Silent Ventures",
+      "source": "https://traysar.com/news/traysar-launches-terminus-armada"
+    }
+  ],
+  "total_raised": "$25M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "Launches Terminus and partners with Armada",
+      "url": "https://traysar.com/news/traysar-launches-terminus-armada"
+    }
+  ],
+  "competitors": [
+    "Anduril",
+    "Armada",
+    "Hadrian"
+  ]
+}

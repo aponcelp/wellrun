@@ -1,0 +1,85 @@
+{
+  "slug": "codesignal",
+  "checked": "Nov 12, 2026",
+  "founded": 2015,
+  "hq": "San Francisco, CA (remote-first; ~60% US staff, large team in Yerevan, Armenia)",
+  "headcount_est": {
+    "value": "~175",
+    "as_of": "Jun 2026",
+    "source": "https://www.reveliolabs.com/companies/codesignal/employees"
+  },
+  "leadership": [
+    {
+      "name": "Tigran Sloyan",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.indexventures.com/perspectives/beyond-the-resume-announcing-our-50m-series-c-in-codesignal/"
+    },
+    {
+      "name": "Steve Bailey",
+      "title": "CRO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://people.equilar.com/bio/org/codesignal/4311260"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2020-12",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Menlo Ventures",
+      "source": "https://news.crunchbase.com/venture/codesignal-snaps-up-25m-series-b/"
+    },
+    {
+      "round": "Series C",
+      "date": "2021-09",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Index Ventures",
+      "source": "https://techcrunch.com/2021/09/16/codesignal-secures-50m-for-its-tech-hiring-platform/"
+    }
+  ],
+  "total_raised": "$87.5M",
+  "revenue_est": {
+    "value": "~$53.8M (2024, Latka est.); other estimators lower ($15-25M Similarweb, ~$18M ZoomInfo)",
+    "as_of": "Dec 2024",
+    "basis": "third-party estimate",
+    "source": "https://getlatka.com/companies/codesignal"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Expanded TalentNeuron partnership on skills intelligence",
+      "url": "https://www.prnewswire.com/news-releases/talentneuron-and-codesignal-expand-partnership-to-offer-the-most-comprehensive-skills-intelligence-in-the-market-302932978.html"
+    },
+    {
+      "date": "2026-11",
+      "headline": "Powers assessments for Josh Bersin Company's Global HR Excellence Certification",
+      "url": "https://www.prnewswire.com/news-releases/codesignal-and-the-josh-bersin-company-make-hr-certification-about-proof-not-completion-302934267.html"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Agentic Skills Intelligence generally available",
+      "url": "https://codesignal.com/newsroom/press-releases/codesignals-new-agentic-skills-intelligence-validates-employee-skills-from-the-work-they-actually-do/"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Listed on FedRAMP Marketplace",
+      "url": "https://codesignal.com/codesignal-listed-on-fedramp-marketplace/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Chris Kibarian (CEO International SOS, ex-Lightcast) joins board",
+      "url": "https://codesignal.com/newsroom/press-releases/codesignal-welcomes-chris-kibarian-to-its-board-of-directors/"
+    }
+  ],
+  "competitors": [
+    "HackerRank",
+    "Karat",
+    "micro1",
+    "CoderPad"
+  ]
+}

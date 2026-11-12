@@ -1,0 +1,83 @@
+{
+  "slug": "mirendil",
+  "checked": "Nov 12, 2026",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~20",
+    "as_of": "Jun 2026",
+    "source": "https://mirendil.com/news/announcing-mirendil/"
+  },
+  "leadership": [
+    {
+      "name": "Behnam Neyshabur",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/bneyshabur",
+      "source": "https://www.wsj.com/tech/ai/anthropic-veterans-startup-seeks-to-help-scientists-develop-their-own-ai-09e2f3e5"
+    },
+    {
+      "name": "Harsh Mehta",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://thenextweb.com/news/mirendil-200m-seed-ai-research"
+    },
+    {
+      "name": "Shayan Salehian",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/bneyshabur_today-im-excited-to-formally-announce-mirendil-activity-7475630097367031808-5BWh"
+    },
+    {
+      "name": "Tara Rezaei",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.linkedin.com/posts/bneyshabur_today-im-excited-to-formally-announce-mirendil-activity-7475630097367031808-5BWh"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-11",
+      "amount": "$1B",
+      "valuation": "~$5B (reported in Sep talks)",
+      "lead": "Kleiner Perkins, Clearlake Capital",
+      "source": "https://mirendil.com/news/series-a/"
+    },
+    {
+      "round": "Seed",
+      "date": "2026-06",
+      "amount": "$200M",
+      "valuation": "$1B",
+      "lead": "Andreessen Horowitz, Kleiner Perkins",
+      "source": "https://siliconangle.com/2026/06/25/mirendil-raises-200m-speed-scientific-research-ai/"
+    }
+  ],
+  "total_raised": "$1.2B",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$1B Series A led by Kleiner Perkins and Clearlake Capital",
+      "url": "https://mirendil.com/news/series-a/"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Mirendil-Base pretrained by one researcher with agents; Fern model and Lor beta",
+      "url": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Launches with $200M seed at $1B (a16z, Kleiner, NVIDIA)",
+      "url": "https://mirendil.com/news/announcing-mirendil/"
+    }
+  ],
+  "competitors": [
+    "Periodic Labs",
+    "Reflection AI",
+    "Thinking Machines Lab"
+  ]
+}

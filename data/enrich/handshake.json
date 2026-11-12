@@ -1,0 +1,55 @@
+{
+  "slug": "handshake",
+  "checked": "Nov 12, 2026",
+  "founded": 2014,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~650 (US, pre-layoff)",
+    "as_of": "Oct 2025",
+    "source": "https://www.upstartsmedia.com/p/handshake-refounding-layoff-ai"
+  },
+  "leadership": [
+    {
+      "name": "Garrett Lord",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.glassdoor.com/Reviews/Handshake-Reviews-E1262074.htm"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series F",
+      "date": "2022-01",
+      "amount": "$200M",
+      "valuation": "$3.5B",
+      "lead": "Coatue, Valiant Peregrine Fund",
+      "source": "https://tracxn.com/d/companies/handshake/__nQJR1AWdTc_wNgj5ufNOPBMjvT8oqR3xR6Doegtefpw"
+    }
+  ],
+  "total_raised": "~$434M+",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "BI: contractors filed $64K in pay disputes",
+      "url": "https://www.businessinsider.com/workers-filed-pay-disputes-at-ai-training-startup-handshake-2026-11"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Class action alleges AI annotators misclassified",
+      "url": "https://dockets.justia.com/docket/california/candce/3:2026cv07498/474660"
+    },
+    {
+      "date": "2025-10",
+      "headline": "'Re-founding' around AI; ~15% layoff",
+      "url": "https://www.upstartsmedia.com/p/handshake-refounding-layoff-ai"
+    }
+  ],
+  "competitors": [
+    "Mercor",
+    "Surge AI",
+    "Scale AI",
+    "LinkedIn"
+  ]
+}

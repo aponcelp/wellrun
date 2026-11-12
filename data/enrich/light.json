@@ -1,0 +1,32 @@
+{
+  "slug": "light",
+  "checked": "Nov 12, 2026",
+  "founded": 2023,
+  "hq": "Austin, TX",
+  "headcount_est": null,
+  "leadership": [],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-09",
+      "amount": "$46M",
+      "valuation": null,
+      "lead": "Matrix",
+      "source": "https://www.prnewswire.com/news-releases/light-raises-46-million-to-scale-the-power-company-for-embedded-electricity-302864996.html"
+    }
+  ],
+  "total_raised": null,
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-09",
+      "headline": "$46M Series A led by Matrix",
+      "url": "https://www.prnewswire.com/news-releases/light-raises-46-million-to-scale-the-power-company-for-embedded-electricity-302864996.html"
+    }
+  ],
+  "competitors": [
+    "Octopus Energy",
+    "Base Power",
+    "Arcadia"
+  ]
+}

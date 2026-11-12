@@ -1,0 +1,61 @@
+{
+  "slug": "pocket",
+  "checked": "Nov 12, 2026",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "12",
+    "as_of": "Aug 2026",
+    "source": "https://www.businessinsider.com/pockets-ai-notetaker-launched-8-months-ago-revenue-is-soaring-2026-8"
+  },
+  "leadership": [
+    {
+      "name": "Akshay Narisetti",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/06/29/3318980/0/en/pocket-raises-11m-from-accel-and-others-as-demand-surges-for-its-personal-ai-assistant-device.html"
+    },
+    {
+      "name": "Gabriel Dymowski",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techfundingnews.com/pocket-11m-accel-ai-hardware-27m-arr/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-06",
+      "amount": "$11M",
+      "valuation": null,
+      "lead": "Accel",
+      "source": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices"
+    }
+  ],
+  "total_raised": "$11M",
+  "revenue_est": {
+    "value": "$100M run rate",
+    "as_of": "Aug 2026",
+    "basis": "company-stated",
+    "source": "https://www.businessinsider.com/pockets-ai-notetaker-launched-8-months-ago-revenue-is-soaring-2026-8"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Says $100M run rate eight months after launch",
+      "url": "https://www.businessinsider.com/pockets-ai-notetaker-launched-8-months-ago-revenue-is-soaring-2026-8"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Raises $11M led by Accel; 130,000+ units sold",
+      "url": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices"
+    }
+  ],
+  "competitors": [
+    "Plaud",
+    "Limitless",
+    "Otter.ai"
+  ]
+}

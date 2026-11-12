@@ -1,0 +1,46 @@
+{
+  "slug": "evenup",
+  "checked": "Nov 12, 2026",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Rami Karabibar",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.glassdoor.com/Reviews/EvenUp-Reviews-E6782155.htm"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series E",
+      "date": "2025-10",
+      "amount": "$150M",
+      "valuation": "$2B+",
+      "lead": "Bessemer Venture Partners",
+      "source": "https://www.evenuplaw.com/blog/evenup-2b-valuation/"
+    }
+  ],
+  "total_raised": "~$385M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Lexis+ content added to Companion",
+      "url": "https://www.evenuplaw.com/lexisnexis/"
+    },
+    {
+      "date": "2025-10",
+      "headline": "$150M Series E at $2B+",
+      "url": "https://www.evenuplaw.com/blog/evenup-2b-valuation/"
+    }
+  ],
+  "competitors": [
+    "Eve",
+    "Supio",
+    "Precedent",
+    "Harvey"
+  ]
+}

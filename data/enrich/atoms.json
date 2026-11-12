@@ -1,0 +1,66 @@
+{
+  "slug": "atoms",
+  "checked": "Nov 12, 2026",
+  "founded": 2016,
+  "hq": "Los Angeles, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Travis Kalanick",
+      "title": "CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+    },
+    {
+      "name": "Gautam Gupta",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://thedynamics.ai/articles/atoms-history"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Growth",
+      "date": "2021-11",
+      "amount": "$850M",
+      "valuation": "$15B",
+      "lead": null,
+      "source": "https://thedynamics.ai/articles/atoms-history"
+    },
+    {
+      "round": "Late stage",
+      "date": "2026-07",
+      "amount": "$1.7B",
+      "valuation": null,
+      "lead": "Andreessen Horowitz",
+      "source": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+    }
+  ],
+  "total_raised": "~$3B+ (sources differ)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-08",
+      "headline": "Former Uber CFO Gautam Gupta joins as CFO",
+      "url": "https://thedynamics.ai/articles/atoms-history"
+    },
+    {
+      "date": "2026-07",
+      "headline": "$1.7B round led by a16z",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+    },
+    {
+      "date": "2026-03",
+      "headline": "City Storage Systems renamed Atoms; Pronto acquired",
+      "url": "https://www.businessinsider.com/travis-kalanick-ex-uber-misfits-entering-robotics-game-atoms-2026-3"
+    }
+  ],
+  "competitors": [
+    "Wonder",
+    "Miso Robotics",
+    "Caterpillar autonomy",
+    "Kitchen United"
+  ]
+}

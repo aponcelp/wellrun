@@ -1,0 +1,84 @@
+{
+  "slug": "physical-intelligence",
+  "checked": "Nov 12, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~80",
+    "as_of": "Jan 2026",
+    "source": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/"
+  },
+  "leadership": [
+    {
+      "name": "Karol Hausman",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://aimagazine.com/news/physical-intelligence-what-are-robot-foundation-models"
+    },
+    {
+      "name": "Lachy Groom",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/"
+    },
+    {
+      "name": "Sergey Levine",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://hokai.io/hub/companies/physical-intelligence"
+    },
+    {
+      "name": "Chelsea Finn",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": null,
+      "source": "http://hokai.io/hub/companies/physical-intelligence"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2025-11",
+      "amount": "$600M",
+      "valuation": "$5.6B",
+      "lead": "CapitalG",
+      "source": "http://aimagazine.com/news/physical-intelligence-what-are-robot-foundation-models"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-05",
+      "amount": "~$1.05B",
+      "valuation": "~$11B",
+      "lead": "Founders Fund (reported)",
+      "source": "https://thenextweb.com/news/physical-intelligence-20bn-valuation-talks-bloomberg"
+    }
+  ],
+  "total_raised": "~$2.1B",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "In talks to raise $1B+ at ~$20B; Pi API beta opens",
+      "url": "https://thenextweb.com/news/physical-intelligence-20bn-valuation-talks-bloomberg"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Landlord sues over Folsom St holdover",
+      "url": "https://sfstandard.com/2026/10/06/physical-intelligence-anthropic-mission-lawsuit/"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Denies Anthropic acquisition rumor",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/"
+    }
+  ],
+  "competitors": [
+    "Skild AI",
+    "Generalist",
+    "Figure",
+    "Google DeepMind Robotics"
+  ]
+}

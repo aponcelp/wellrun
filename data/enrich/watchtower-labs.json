@@ -1,0 +1,51 @@
+{
+  "slug": "watchtower-labs",
+  "checked": "Nov 12, 2026",
+  "founded": 2025,
+  "hq": "Bellevue, WA",
+  "headcount_est": {
+    "value": "~30",
+    "as_of": "Oct 2026",
+    "source": "https://www.geekwire.com/2026/ex-marine-and-microsoft-vets-launch-watchtower-labs-with-35m-to-bring-ai-to-military-logistics/"
+  },
+  "leadership": [
+    {
+      "name": "Akhil Iyer",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.geekwire.com/2026/ex-marine-and-microsoft-vets-launch-watchtower-labs-with-35m-to-bring-ai-to-military-logistics/"
+    },
+    {
+      "name": "Souren Aghajanyan",
+      "title": "CTO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.geekwire.com/2026/ex-marine-and-microsoft-vets-launch-watchtower-labs-with-35m-to-bring-ai-to-military-logistics/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-10",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Shield Capital, Conviction",
+      "source": "https://www.prnewswire.com/news-releases/watchtower-labs-emerges-from-stealth-with-35-million-to-build-ai-native-decision-tools-for-military-operations-302914883.html"
+    }
+  ],
+  "total_raised": "$35M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "Emerges from stealth with $35M seed",
+      "url": "https://www.prnewswire.com/news-releases/watchtower-labs-emerges-from-stealth-with-35-million-to-build-ai-native-decision-tools-for-military-operations-302914883.html"
+    }
+  ],
+  "competitors": [
+    "Palantir",
+    "Govini",
+    "Scale AI (Thunderforge)"
+  ]
+}

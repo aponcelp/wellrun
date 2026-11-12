@@ -1,0 +1,62 @@
+{
+  "slug": "midstream-health",
+  "checked": "Nov 12, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Sumit Kadakia",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://midstream.health/about"
+    },
+    {
+      "name": "Venkat Mocherla",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://midstream.health/about"
+    },
+    {
+      "name": "Kelsey Mellard",
+      "title": "Chief Customer Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://midstream.health/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-12",
+      "amount": "~$6.7M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.bizjournals.com/philly/news/2026/10/29/midstream-health-raises-20m-series-a.html"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-10",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Valtruis",
+      "source": "https://www.bizjournals.com/philly/news/2026/10/29/midstream-health-raises-20m-series-a.html"
+    }
+  ],
+  "total_raised": "$29.2M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-10",
+      "headline": "$20M Series A led by Valtruis",
+      "url": "https://www.bizjournals.com/philly/news/2026/10/29/midstream-health-raises-20m-series-a.html"
+    }
+  ],
+  "competitors": [
+    "Cost Containment Plus",
+    "Waystar",
+    "SpendRule"
+  ]
+}
