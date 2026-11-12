@@ -1,0 +1,321 @@
+{
+ "date": "2026-11-12",
+ "kind": "next",
+ "title": "The Next 25",
+ "dateline": "November 2026",
+ "lede": "Twenty-five Seed to Series A startups to watch. Mostly US, picked for fresh money, strong backers and real traction.",
+ "rules": [
+  "Seed or Series A",
+  "Raised in the last 12 months",
+  "Mainly US-based",
+  "Clean downside check"
+ ],
+ "method": "Every company here is already on the Well Run board. We keep the ones whose headquarters and most of the team are in the US, that are still private and independent, and whose latest round is Seed or Series A (extensions included). Then we rank by promise: how recent and how strong the last round was, who led it, real traction (revenue, customers, usage) and hiring momentum. Each pick gets a fresh check for layoffs, lawsuits and down rounds; anything unresolved stays off. Hand-picked, updated as rounds land. Each line links to its source.",
+ "sibling": {
+  "href": "/growing",
+  "title": "The Growing 25",
+  "blurb": "Series B to D"
+ },
+ "picks": [
+  {
+   "rank": 1,
+   "slug": "prime-intellect",
+   "name": "Prime Intellect",
+   "round": "Series A · $130M · Jul 2026",
+   "lead": "Radical Ventures",
+   "why": "Open training stack for AI agents; past $100M in annualized revenue in under a year with 6,000+ customers.",
+   "source": {
+    "label": "Prime Intellect, Jul 8, 2026",
+    "url": "https://www.primeintellect.ai/blog/series-a"
+   }
+  },
+  {
+   "rank": 2,
+   "slug": "openart",
+   "name": "OpenArt",
+   "round": "Series A · $30M · Jan 2026",
+   "lead": "Canaan Partners",
+   "why": "AI studio for images and video; ARR went from $70M at its January raise to close to $200M by October, profitable, team about 4x.",
+   "source": {
+    "label": "Business Wire, Oct 21, 2026",
+    "url": "https://finance.yahoo.com/technology/ai/articles/openart-ai-hires-former-salesforce-153100772.html"
+   }
+  },
+  {
+   "rank": 3,
+   "slug": "pocket",
+   "name": "Pocket",
+   "round": "Seed · $11M · Jun 2026",
+   "lead": "Accel",
+   "why": "A $129 AI notetaker that clips to your phone; went from $1M to a $100M run rate in about seven months with a team of roughly a dozen.",
+   "source": {
+    "label": "Business Insider, Aug 19, 2026",
+    "url": "https://www.businessinsider.com/pockets-ai-notetaker-launched-8-months-ago-revenue-is-soaring-2026-8"
+   }
+  },
+  {
+   "rank": 4,
+   "slug": "halluminate",
+   "name": "Halluminate",
+   "round": "Series A · $30M · Oct 2026",
+   "lead": "Oak HC/FT",
+   "why": "Nine people, zero to a mid-eight-figure run rate in ten months and profitable; four of the five top US AI labs pay for its finance training environments.",
+   "source": {
+    "label": "Fortune, Oct 1, 2026",
+    "url": "https://fortune.com/2026/10/01/halluminate-raises-30-million-series-a-oakhc-ft"
+   }
+  },
+  {
+   "rank": 5,
+   "slug": "xdof",
+   "name": "XDOF",
+   "round": "Series A · $70M · Jun 2026",
+   "lead": "Thrive Capital",
+   "why": "Robot training data out of stealth in June; revenue run-rate near $50M and already in talks for a B at $1.2B.",
+   "source": {
+    "label": "TechCrunch, Sep 4, 2026",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
+   }
+  },
+  {
+   "rank": 6,
+   "slug": "7ai",
+   "name": "7AI",
+   "round": "Series A · $130M · Dec 2025",
+   "lead": "Index Ventures",
+   "why": "Largest Series A in cybersecurity history; its SOC agents passed 7M investigations and it is adding 100 jobs in Boston.",
+   "source": {
+    "label": "GlobeNewswire, May 26, 2026",
+    "url": "https://www.globenewswire.com/news-release/2026/05/26/3301008/0/en/After-7-Million-Investigations-in-Production-7AI-Widens-the-Gap-in-Agentic-Security-with-PLAID-ELITE-and-100-New-AI-Jobs-in-Boston.html"
+   }
+  },
+  {
+   "rank": 7,
+   "slug": "latent",
+   "name": "Latent",
+   "round": "Series A · $80M · Mar 2026",
+   "lead": "Spark Capital, Transformation Capital",
+   "why": "Prior-authorization AI for health-system pharmacies; grew from 4 to 45+ health systems in a year with $20M+ in annualized revenue.",
+   "source": {
+    "label": "Forbes, Mar 18, 2026",
+    "url": "https://www.forbes.com/sites/rashishrivastava/2026/03/18/this-600-million-ai-startup-is-speeding-up-paperwork-so-patients-get-drugs-faster"
+   }
+  },
+  {
+   "rank": 8,
+   "slug": "resolve-ai",
+   "name": "Resolve AI",
+   "round": "Series A ext. · $40M · Apr 2026",
+   "lead": "DST Global, Salesforce Ventures",
+   "why": "AI for production incidents at Coinbase and DoorDash; $1.5B valuation and bookings up 128% quarter over quarter.",
+   "source": {
+    "label": "PR Newswire, Apr 2026",
+    "url": "https://www.prnewswire.com/news-releases/resolve-ai-announces-series-a-extension-at-a-1-5b-valuation-and-launches-resolve-ai-labs-to-advance-ai-systems-for-complex-production-environments-302743888.html"
+   }
+  },
+  {
+   "rank": 9,
+   "slug": "tessera-labs",
+   "name": "Tessera Labs",
+   "round": "Series A · $60M · May 2026",
+   "lead": "Andreessen Horowitz",
+   "why": "Automates SAP and ERP overhauls; multimillion-dollar Fortune 500 contracts and a team that nearly tripled since May.",
+   "source": {
+    "label": "Tech Funding News, May 2026",
+    "url": "https://techfundingnews.com/tessera-labs-60m-series-a-a16z-erp-sap-migration-ai/"
+   }
+  },
+  {
+   "rank": 10,
+   "slug": "poetic",
+   "name": "Poetic",
+   "round": "Series A · $50M · Jun 2026",
+   "lead": "Kleiner Perkins",
+   "why": "Turns bank and insurer procedures into reliable automations; hit an eight-figure run rate and profitability in 2025 with four people.",
+   "source": {
+    "label": "Kleiner Perkins, Jun 10, 2026",
+    "url": "http://kleinerperkins.com/perspectives/poetic-turning-enterprise-procedures-into-evolving-software"
+   }
+  },
+  {
+   "rank": 11,
+   "slug": "openfx",
+   "name": "OpenFX",
+   "round": "Series A · $94M · Mar 2026",
+   "lead": "Accel, Atomico, Lightspeed Faction",
+   "why": "Miami-based FX rails for fintechs; annualized volume went from $4B to $45B+ in a year and revenue grew 10x.",
+   "source": {
+    "label": "OpenFX, Apr 2, 2026",
+    "url": "https://www.openfx.com/blog/the-story-of-our-94m-series-a"
+   }
+  },
+  {
+   "rank": 12,
+   "slug": "qualitate",
+   "name": "Qualitate",
+   "round": "Series A · $25M · Oct 2026",
+   "lead": "Insight Partners",
+   "why": "AI-run expert interviews for investors and corporates; run rate up 10x+ in 2026 with net revenue retention over 300%.",
+   "source": {
+    "label": "Qualitate, Oct 2026",
+    "url": "https://www.qualitate.io/news/qualitate-announces-25m-series-a"
+   }
+  },
+  {
+   "rank": 13,
+   "slug": "canals",
+   "name": "Canals",
+   "round": "Series A · $35M · May 2026",
+   "lead": "Base10 Partners",
+   "why": "AI order entry for wholesale distributors; profitable before raising, 100+ distributors, headcount about 3x in a year.",
+   "source": {
+    "label": "GlobeNewswire, May 28, 2026",
+    "url": "https://www.globenewswire.com/news-release/2026/05/28/3302917/0/en/canals-raises-35m-to-eliminate-friction-from-the-industrial-supply-chain.html"
+   }
+  },
+  {
+   "rank": 14,
+   "slug": "roadrunner",
+   "name": "Roadrunner",
+   "round": "Series A · $22M · May 2026",
+   "lead": "Founders Fund",
+   "why": "AI-native quoting for enterprise sales; ARR up 3x and customers 6x in the first quarter after its A, with Asana and ZoomInfo on board.",
+   "source": {
+    "label": "ARR Club, Aug 2026",
+    "url": "https://www.arr.club/signal/roadrunner-arr-grows-3x-with-6x-growth-customer-count-in-3-months"
+   }
+  },
+  {
+   "rank": 15,
+   "slug": "lassie",
+   "name": "Lassie",
+   "round": "Series A · $35M · Jun 2026",
+   "lead": "Andreessen Horowitz",
+   "why": "AI that runs billing for dental practices; 700+ practices in 49 states and past $10M in annualized revenue, mostly by referral.",
+   "source": {
+    "label": "Business Wire, Jun 3, 2026",
+    "url": "https://www.businesswire.com/news/home/20260603909717/en/Lassie-Raises-%2435M-Led-by-Andreessen-Horowitz-to-Build-AI-for-Small-Businesses-to-Run-Themselves"
+   }
+  },
+  {
+   "rank": 16,
+   "slug": "kastle",
+   "name": "Kastle",
+   "round": "Series A · $24M · Sep 2026",
+   "lead": "Insight Partners",
+   "why": "AI agents for loan servicing and collections; live at 10 of the top 25 US mortgage servicers with $2B+ in transactions processed.",
+   "source": {
+    "label": "Y Combinator, Sep 2026",
+    "url": "https://www.ycombinator.com/library/bM-ai-agents-that-banks-can-trust"
+   }
+  },
+  {
+   "rank": 17,
+   "slug": "picogrid",
+   "name": "Picogrid",
+   "round": "Series A · $45M · May 2026",
+   "lead": "Bessemer Venture Partners",
+   "why": "Software that connects military systems; revenue tripled year over year and it is cash-flow positive.",
+   "source": {
+    "label": "Tectonic Defense, May 29, 2026",
+    "url": "https://www.tectonicdefense.com/exclusive-picogrid-raises-45m-series-a"
+   }
+  },
+  {
+   "rank": 18,
+   "slug": "lightfield",
+   "name": "Lightfield",
+   "round": "Series A · $47M · Sep 2026",
+   "lead": "Andreessen Horowitz",
+   "why": "AI-native CRM from the Tome founders; 5,000+ companies signed up in its first ten months, some moving whole Salesforce setups over.",
+   "source": {
+    "label": "Lightfield, Sep 9, 2026",
+    "url": "https://lightfield.com/blog/our-series-a"
+   }
+  },
+  {
+   "rank": 19,
+   "slug": "probook",
+   "name": "Probook",
+   "round": "Series A · $34M · Jun 2026",
+   "lead": "Andreessen Horowitz",
+   "why": "AI dispatch for HVAC and plumbing shops; one 14-location customer booked 2,500+ jobs in its first month with no human touch.",
+   "source": {
+    "label": "a16z, Jun 23, 2026",
+    "url": "https://a16z.com/announcement/investing-in-probook/"
+   }
+  },
+  {
+   "rank": 20,
+   "slug": "collate",
+   "name": "Collate",
+   "round": "Series A · $95M · Jun 2026",
+   "lead": "Redpoint Ventures",
+   "why": "AI for life-sciences regulatory paperwork; about 50 pharma, biotech and medtech customers in a year and a valuation near $1B.",
+   "source": {
+    "label": "Forbes, Jun 3, 2026",
+    "url": "https://www.forbes.com/sites/innovationrx/2026/06/03/ai-startup-collate-raises-95-million-to-automate-life-sciences-paperwork/"
+   }
+  },
+  {
+   "rank": 21,
+   "slug": "baselayer",
+   "name": "Baselayer",
+   "round": "Series A · $35M · Sep 2026",
+   "lead": "M13",
+   "why": "Business identity and fraud checks used by 2,300+ financial institutions, about 1 in 5 US banks; now verifying AI agents too.",
+   "source": {
+    "label": "PR Newswire, Sep 22, 2026",
+    "url": "https://www.prnewswire.com/news-releases/baselayer-raises-35m-series-a-led-by-m13-launches-identity-infrastructure-for-ai-agents-302885670.html"
+   }
+  },
+  {
+   "rank": 22,
+   "slug": "aegisai",
+   "name": "AegisAI",
+   "round": "Series A · $36M · Jul 2026",
+   "lead": "Battery Ventures",
+   "why": "Ex-Google security leads stopping AI spear phishing; went from 3 paying customers to dozens in ten months.",
+   "source": {
+    "label": "TechCrunch, Jul 23, 2026",
+    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+   }
+  },
+  {
+   "rank": 23,
+   "slug": "flai",
+   "name": "Flai",
+   "round": "Series A · $27M · Oct 2026",
+   "lead": "Base10 Partners",
+   "why": "AI that answers car-dealership calls and books service; revenue up 20x in a year and 50,000 appointments a month.",
+   "source": {
+    "label": "TechCrunch, Oct 6, 2026",
+    "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/"
+   }
+  },
+  {
+   "rank": 24,
+   "slug": "vitalize",
+   "name": "Vitalize",
+   "round": "Series A · $31M · Oct 2026",
+   "lead": "Oak HC/FT",
+   "why": "Hospital staffing and scheduling AI; St. Luke's cut premium labor spend 54% in 12 weeks and is rolling it out system-wide.",
+   "source": {
+    "label": "Fierce Healthcare, Oct 6, 2026",
+    "url": "http://www.fiercehealthcare.com/health-tech/vitalize-secures-31m-scale-ai-powered-operating-system-hospital-staffing-and-scheduling"
+   }
+  },
+  {
+   "rank": 25,
+   "slug": "terrafirma",
+   "name": "TerraFirma",
+   "round": "Series A · $100M · Jul 2026",
+   "lead": "Kleiner Perkins",
+   "why": "Ex-SpaceX team running remote, semi-autonomous earthmoving crews on paid Texas jobs; plans 300 hires in a year.",
+   "source": {
+    "label": "CNBC, Jul 14, 2026",
+    "url": "https://www.cnbc.com/2026/07/14/terrafirma-construction-tech-spacex.html"
+   }
+  }
+ ]
+}

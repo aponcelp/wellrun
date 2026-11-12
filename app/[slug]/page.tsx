@@ -14,7 +14,7 @@ import CoRun from "@/components/CoRun";
 import CoHistory from "@/components/CoHistory";
 import KeepGoing from "@/components/KeepGoing";
 import { getChartRun, getHistory } from "@/lib/chart";
-import { getRisingRank } from "@/lib/rising";
+import { getRisingSpot } from "@/lib/rising";
 import { FundingHistory, Glance, Leadership, NewsTimeline } from "@/components/Profile";
 
 export const dynamicParams = false;
@@ -59,7 +59,7 @@ export default async function CompanyPage({ params }: Props) {
   const ops = opsOf(c).length;
   const lead = rank === 1;
   const run = getChartRun(c.slug);
-  const rising = getRisingRank(c.slug);
+  const rising = getRisingSpot(c.slug);
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Organization",
@@ -83,8 +83,8 @@ export default async function CompanyPage({ params }: Props) {
           <span className="co__badge">Well Run profile</span>
           {rank <= 100 ? "The Well Run 100" : "The Chase Pack"} · #{rank} of {(await getCompanies()).length}
           {rising && (
-            <Link className="co__rising" href={`/rising#${c.slug}`}>
-              #{rising} on The Rising 25 →
+            <Link className="co__rising" href={rising.href}>
+              #{rising.rank} on {rising.title} →
             </Link>
           )}
         </p>

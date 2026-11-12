@@ -1,0 +1,321 @@
+{
+ "date": "2026-11-12",
+ "kind": "growing",
+ "title": "The Growing 25",
+ "dateline": "November 2026",
+ "lede": "Twenty-five Series B to D companies scaling fast. Mostly US, picked for fresh money, strong backers and real traction.",
+ "rules": [
+  "Series B, C or D",
+  "Raised in the last 12 months",
+  "Mainly US-based",
+  "Clean downside check"
+ ],
+ "method": "Every company here is already on the Well Run board. We keep the ones whose headquarters and most of the team are in the US, that are still private and independent, and whose latest round is Series B, C or D. Then we rank by promise: how recent and how strong the last round was, who led it, real traction (revenue, customers, usage) and hiring momentum. Each pick gets a fresh check for layoffs, lawsuits and down rounds; anything unresolved stays off. We leave out companies already valued above about $5 billion; they have grown, not growing. Hand-picked, updated as rounds land. Each line links to its source.",
+ "sibling": {
+  "href": "/next",
+  "title": "The Next 25",
+  "blurb": "Seed to Series A"
+ },
+ "picks": [
+  {
+   "rank": 1,
+   "slug": "traversal",
+   "name": "Traversal",
+   "round": "Series B · $120M · Nov 2026",
+   "lead": "Kleiner Perkins, Redpoint, Khosla",
+   "why": "Hit a $1B valuation 17 months out of stealth; ARR grew 9x this year as Pepsi, Amex and Nubank put its AI SRE on production.",
+   "source": {
+    "label": "Business Wire, Nov 3, 2026",
+    "url": "https://www.businesswire.com/news/home/20261103122345/en/Traversal-Raises-%24120M-with-a-%241-Billion-Valuation-to-Keep-Code-Running-With-a-Superintelligent-AI-Site-Reliability-Engineer"
+   }
+  },
+  {
+   "rank": 2,
+   "slug": "applied-compute",
+   "name": "Applied Compute",
+   "round": "Series C · $350M · Nov 2026",
+   "lead": "Elad Gil",
+   "why": "Helps companies train and run their own AI; zero to a $100M run rate in under 18 months, valuation up 2.5x since April.",
+   "source": {
+    "label": "Applied Compute, Nov 2, 2026",
+    "url": "https://www.appliedcompute.com/company/100m-run-rate-fundraise"
+   }
+  },
+  {
+   "rank": 3,
+   "slug": "rox",
+   "name": "Rox",
+   "round": "Series B · $100M · Nov 2026",
+   "lead": "General Catalyst, March Capital",
+   "why": "AI revenue agents for the Global 2000; ARR up 10x in its first year in market, now valued at $1.3B.",
+   "source": {
+    "label": "PR Newswire, Nov 11, 2026",
+    "url": "https://www.prnewswire.com/news-releases/rox-raises-100-million-series-b-at-1-3-billion-valuation-to-grow-revenue-for-the-global-2000--302936434.html"
+   }
+  },
+  {
+   "rank": 4,
+   "slug": "forus",
+   "name": "Forus",
+   "round": "Series C · $150M · Sep 2026",
+   "lead": "Bain Capital Ventures",
+   "why": "AI that gets patients onto prescribed medicines; valuation tripled to $3B in four months, used for patients in 85% of US ZIP codes.",
+   "source": {
+    "label": "Business Wire, Sep 8, 2026",
+    "url": "https://www.businesswire.com/news/home/20260908463918/en/Forus-Raises-%24150M-at-a-%243B-Valuation-as-Its-AI-Network-Becomes-How-Medicine-Reaches-Patients"
+   }
+  },
+  {
+   "rank": 5,
+   "slug": "arena",
+   "name": "Arena",
+   "round": "Series B · $200M · Oct 2026",
+   "lead": "Lightspeed, Khosla Ventures",
+   "why": "The AI leaderboard turned business: run-rate went from $30M in January to $100M+ by June, and its valuation nearly doubled to $3.1B.",
+   "source": {
+    "label": "TechCrunch, Oct 8, 2026",
+    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+   }
+  },
+  {
+   "rank": 6,
+   "slug": "serval",
+   "name": "Serval",
+   "round": "Series C · $150M · Oct 2026",
+   "lead": "Sequoia",
+   "why": "AI that automates IT and HR requests to take on ServiceNow; third round in 12 months, team up 10x, two Fortune 20 customers added.",
+   "source": {
+    "label": "Fortune, Oct 29, 2026",
+    "url": "https://fortune.com/2026/10/29/serval-servicenow-fight-series-c-3-billion-valuation-sequoia"
+   }
+  },
+  {
+   "rank": 7,
+   "slug": "wispr-flow",
+   "name": "Wispr Flow",
+   "round": "Series B · $280M · Aug 2026",
+   "lead": "Menlo Ventures",
+   "why": "Voice dictation people actually switched to: revenue up 30x year over year, valuation nearly tripled to $2B in nine months.",
+   "source": {
+    "label": "TechCrunch, Aug 17, 2026",
+    "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
+   }
+  },
+  {
+   "rank": 8,
+   "slug": "tutor-intelligence",
+   "name": "Tutor Intelligence",
+   "round": "Series B · $75M · Nov 2026",
+   "lead": "Andreessen Horowitz",
+   "why": "Rents factory and warehouse robots by the hour, guided by remote human tutors; working in nearly 4x as many facilities as a year ago.",
+   "source": {
+    "label": "Business Wire, Nov 2, 2026",
+    "url": "https://www.businesswire.com/news/home/20261102314852/en/Tutor-Intelligence-Raises-%2475-Million-Series-B-Led-by-Andreessen-Horowitz-to-Scale-Frontier-Robotics-Model-Training-Manufacturing-and-Deployment"
+   }
+  },
+  {
+   "rank": 9,
+   "slug": "blacksmith",
+   "name": "Blacksmith",
+   "round": "Series C · $66M · Oct 2026",
+   "lead": "Sequoia",
+   "why": "Runs code builds and tests for 10,000+ companies; ARR up 17x since January as AI-written code floods the pipeline.",
+   "source": {
+    "label": "PR Newswire, Oct 21, 2026",
+    "url": "https://www.prnewswire.com/news-releases/blacksmith-raises-sequoia-led-series-c-at-1-billion-valuation-to-scale-code-validation-302915140.html"
+   }
+  },
+  {
+   "rank": 10,
+   "slug": "valon",
+   "name": "Valon",
+   "round": "Series D · $150M · Oct 2026",
+   "lead": "Ribbit Capital (new), Andreessen Horowitz",
+   "why": "Operating system for mortgage servicing; signed $200M+ in contracted ARR within six months of selling it, now under contract for 1 in 6 US mortgages.",
+   "source": {
+    "label": "Business Wire, Oct 5, 2026",
+    "url": "https://www.businesswire.com/news/home/20261005181820/en/Valon-Raises-%24150-Million-Series-D-at-a-%242.3-Billion-Valuation-to-Deploy-ValonOS-and-AI-Agents-into-Mortgage"
+   }
+  },
+  {
+   "rank": 11,
+   "slug": "charta-health",
+   "name": "Charta Health",
+   "round": "Series B · $55M · Nov 2026",
+   "lead": "Insight Partners",
+   "why": "AI chart review for medical billing; revenue up 10x in 12 months, third round in under two years.",
+   "source": {
+    "label": "PR Newswire, Nov 10, 2026",
+    "url": "https://www.prnewswire.com/news-releases/charta-health-raises-55-million-series-b-to-establish-a-shared-standard-of-accuracy-in-healthcare-billing-302934401.html"
+   }
+  },
+  {
+   "rank": 12,
+   "slug": "profound",
+   "name": "Profound",
+   "round": "Series D · $180M · Sep 2026",
+   "lead": "Sequoia, Kleiner Perkins",
+   "why": "Helps brands show up in AI answers; 1,000+ enterprise brands including a third of the Fortune 100, raised again seven months after its C.",
+   "source": {
+    "label": "TechCrunch, Sep 15, 2026",
+    "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
+   }
+  },
+  {
+   "rank": 13,
+   "slug": "rillet",
+   "name": "Rillet",
+   "round": "Series C · $100M · Aug 2026",
+   "lead": "ICONIQ",
+   "why": "AI-native ERP winning deals off NetSuite and Oracle; 600+ customers and ARR doubled in three months, third raise in a year.",
+   "source": {
+    "label": "TechCrunch, Aug 19, 2026",
+    "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/"
+   }
+  },
+  {
+   "rank": 14,
+   "slug": "pace",
+   "name": "Pace",
+   "round": "Series B · $46M · May 2026",
+   "lead": "Thrive Capital, Sequoia",
+   "why": "AI agents for insurance back offices at Prudential and WTW; ARR up 15x+ through the first three quarters of 2026.",
+   "source": {
+    "label": "ARR Club",
+    "url": "https://www.arr.club/signal/pace-grew-arr-15x-through-first-three-quarters-of-2026"
+   }
+  },
+  {
+   "rank": 15,
+   "slug": "thatch",
+   "name": "Thatch",
+   "round": "Series C · $108M · Sep 2026",
+   "lead": "The General Partnership",
+   "why": "Lets employers give workers a health budget instead of one group plan; revenue up nearly 7x in a year, 5,000+ employers.",
+   "source": {
+    "label": "PR Newswire, Sep 15, 2026",
+    "url": "https://www.prnewswire.com/news-releases/thatch-raises-108m-at-1b-valuation-as-employers-shift-away-from-traditional-health-plans-302879015.html"
+   }
+  },
+  {
+   "rank": 16,
+   "slug": "candid-health",
+   "name": "Candid Health",
+   "round": "Series D · $120M · Jul 2026",
+   "lead": "Sixth Street Growth",
+   "why": "Autonomous medical billing for 200+ providers; ARR up 190% year over year, valuation tripled since 2025.",
+   "source": {
+    "label": "Sixth Street, Jul 22, 2026",
+    "url": "https://sixthstreet.com/investment_announce/candid-health-raises-120m-led-by-sixth-street-growth-to-fuel-autonomous-revenue-cycle-management-in-healthcare/"
+   }
+  },
+  {
+   "rank": 17,
+   "slug": "parallel-web-systems",
+   "name": "Parallel Web Systems",
+   "round": "Series B · $100M · Apr 2026",
+   "lead": "Sequoia",
+   "why": "Web search built for AI agents; 100,000+ developers and a $2B valuation five months after its A.",
+   "source": {
+    "label": "Parallel, Apr 29, 2026",
+    "url": "https://parallel.ai/blog/series-b"
+   }
+  },
+  {
+   "rank": 18,
+   "slug": "basis",
+   "name": "Basis",
+   "round": "Series B · $100M · Feb 2026",
+   "lead": "Accel",
+   "why": "AI agents that do accounting firm work; now in roughly 40% of the top 25 US firms, team up 2.5x in a year.",
+   "source": {
+    "label": "Basis, Feb 24, 2026",
+    "url": "https://www.getbasis.ai/blogs/basis-raises-100m-series-b-led-by-accel-and-google-ventures"
+   }
+  },
+  {
+   "rank": 19,
+   "slug": "omni",
+   "name": "Omni",
+   "round": "Series C · $120M · Apr 2026",
+   "lead": "ICONIQ",
+   "why": "AI analytics from the Looker founders; ARR up 4x last year, tripled again in early 2026, and now profitable.",
+   "source": {
+    "label": "Business Wire, Apr 23, 2026",
+    "url": "https://www.businesswire.com/news/home/20260423569749/en/Omni-Raises-Series-C-at-$1.5B-Valuation-Building-the-AI-Analytics-Platform-for-the-Enterprise"
+   }
+  },
+  {
+   "rank": 20,
+   "slug": "monaco",
+   "name": "Monaco",
+   "round": "Series B · $50M · May 2026",
+   "lead": "Benchmark",
+   "why": "AI-native sales platform from Sam Blond; went from zero revenue in February to adding seven figures of ARR a month.",
+   "source": {
+    "label": "GlobeNewswire, May 12, 2026",
+    "url": "https://www.globenewswire.com/news-release/2026/05/12/3293132/0/en/monaco-secures-50-million-in-series-b-funding-to-grow-ai-powered-sales-platform-amid-strong-customer-demand.html"
+   }
+  },
+  {
+   "rank": 21,
+   "slug": "broccoli-ai",
+   "name": "Broccoli AI",
+   "round": "Series A + B · $52M · Oct 2026",
+   "lead": "Khosla Ventures",
+   "why": "AI front desk for home-services businesses; $15M+ ARR in under two years across 1,500+ businesses.",
+   "source": {
+    "label": "FinSMEs, Oct 2026",
+    "url": "https://www.finsmes.com/2026/10/broccoli-raises-52m-in-series-a-and-series-b-financing.html"
+   }
+  },
+  {
+   "rank": 22,
+   "slug": "albert-invent",
+   "name": "Albert Invent",
+   "round": "Series B · $55M · Oct 2026",
+   "lead": "TCV",
+   "why": "Chemistry-native AI for R&D at BASF, Henkel and Kenvue; scientists on the platform up 6x in a year.",
+   "source": {
+    "label": "Business Wire, Oct 13, 2026",
+    "url": "https://www.businesswire.com/news/home/20261013059321/en/Albert-Raises-%2455M-Series-B-to-Scale-the-First-Chemistry-Native-AI"
+   }
+  },
+  {
+   "rank": 23,
+   "slug": "confido",
+   "name": "Confido",
+   "round": "Series B · $55M · Sep 2026",
+   "lead": "Insight Partners",
+   "why": "Back office for consumer brands; 250+ brands including Mars and Unilever divisions, 5x growth since its A.",
+   "source": {
+    "label": "Business Wire, Sep 22, 2026",
+    "url": "https://www.businesswire.com/news/home/20260922033622/en/Confido-Raises-%2455M-Series-B-to-Take-AI-Powered-Automation-Across-the-Entire-Consumer-Brand-Back-Office"
+   }
+  },
+  {
+   "rank": 24,
+   "slug": "general-medicine",
+   "name": "General Medicine",
+   "round": "Series B · $120M · Oct 2026",
+   "lead": "Andreessen Horowitz",
+   "why": "The PillPack founders' healthcare store; 2,900+ priced services and a16z bio's largest check to date.",
+   "source": {
+    "label": "General Medicine, Oct 6, 2026",
+    "url": "https://generalmedicine.co/resources/general-medicine-raises-120-million-to-build-the-healthcare-store"
+   }
+  },
+  {
+   "rank": 25,
+   "slug": "stuut",
+   "name": "Stuut",
+   "round": "Series B · $52.5M · Oct 2026",
+   "lead": "Insight Partners",
+   "why": "AI agents for accounts receivable; raised its B ten months after its A, with most collections now running hands-free.",
+   "source": {
+    "label": "Stuut, Oct 2026",
+    "url": "https://www.stuut.ai/blog/why-we-raised-series-b"
+   }
+  }
+ ]
+}
