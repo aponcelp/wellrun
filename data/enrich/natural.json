@@ -1,0 +1,82 @@
+{
+  "slug": "natural",
+  "checked": "Nov 12, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "San Francisco, CA",
+  "headcount_est": 21,
+  "leadership": [
+    {
+      "name": "Kahlil Lalji",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/bykahlil",
+      "source": "https://www.natural.com/about"
+    },
+    {
+      "name": "Eric Wang",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/"
+    },
+    {
+      "name": "Walt Leung",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-10",
+      "amount": "$9.8M",
+      "valuation": null,
+      "lead": "Abstract, Human Capital",
+      "source": "https://www.natural.com/blog/natural-seed-round"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-07",
+      "amount": "$30M",
+      "valuation": "$150M post (Dealroom)",
+      "lead": "Forerunner",
+      "source": "https://www.prnewswire.com/news-releases/natural-raises-30m-series-a-to-build-payments-infrastructure-for-ai-agents-302829855.html"
+    },
+    {
+      "round": "Credit facility",
+      "date": "2026-08",
+      "amount": "Up to $100M (debt)",
+      "valuation": null,
+      "lead": "Upper90",
+      "source": "https://www.fintechfutures.com/venture-capital-funding/natural-100m-credit-facility-upper90"
+    }
+  ],
+  "total_raised": "$40M equity (+ up to $100M debt facility)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Named to The Information's 50 Most Promising Startups of 2026",
+      "url": "https://x.com/kirstenagreen/status/2120755962537468112"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Secures up to $100M credit facility from Upper90",
+      "url": "https://www.fintechfutures.com/venture-capital-funding/natural-100m-credit-facility-upper90"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Raises $30M Series A led by Forerunner; six products GA",
+      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/"
+    }
+  ],
+  "competitors": [
+    "Stripe",
+    "Skyfire",
+    "Payman",
+    "Coinbase x402"
+  ]
+}

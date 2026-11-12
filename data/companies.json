@@ -42230,5 +42230,150 @@
   "hiring_locations": [
    "Toronto"
   ]
+ },
+ {
+  "name": "Artificial Analysis",
+  "slug": "artificial-analysis",
+  "site": "https://artificialanalysis.ai",
+  "careers_url": "https://jobs.ashbyhq.com/artificialanalysis",
+  "what_they_do": "Independent benchmarks of AI models, agents, inference clouds and chips",
+  "problem": "Teams can't tell which AI model, provider or chip is best for their cost, speed and quality needs",
+  "industry": "AI benchmarking / evaluation data",
+  "stage": "Seed",
+  "last_round": "Undisclosed (~$2.6M est.)",
+  "last_round_date": "Sep 2024",
+  "lead_investors": "AI Grant (Nat Friedman, Daniel Gross)",
+  "total_open_roles": "20",
+  "ops_roles": "Member of Technical Staff (Commercial) - Strategy Consulting track; Member of Technical Staff (Commercial) - Tech/Start Up track; Forward Deployed Engineer - Language Models",
+  "hiring_trend": "Headcount ~22 (Jan 2026) -> ~52-54 (Sep-Nov 2026), +145% YoY on LinkedIn",
+  "headcount": "~54",
+  "latest_news": "Named to The Information's 50 Most Promising Startups of 2026",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://blogdocemagia.blogspot.com/2026/11/join-us-today-wed-1111-informations-50.html",
+  "traction": "Revenue undisclosed; headcount 22 -> 54 in 2026; cited by OpenAI, Google, NVIDIA launches",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "10K",
+  "distance_why": "The most-cited independent AI scoreboard (quoted in OpenAI and Google launches), selling subscriptions and private benchmarks; a16z-backed Vals AI and Epoch compete, and critics question whether its Index v5 weighting tilts against open-weight models.",
+  "distance_sources": [
+   {
+    "label": "Artificial Analysis: About (company, founders, scale)",
+    "url": "https://artificialanalysis.ai/about"
+   },
+   {
+    "label": "Interconnects: Artificial Analysis v5 and the benchmarker's dilemma (Oct 2026)",
+    "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Melbourne"
+  ]
+ },
+ {
+  "name": "Ollama",
+  "slug": "ollama",
+  "site": "https://ollama.com",
+  "careers_url": "https://jobs.ashbyhq.com/ollama",
+  "what_they_do": "Run open AI models locally on your own machine or in Ollama's cloud",
+  "problem": "Developers struggle to download, run and build with open-weight models without heavy setup or cloud lock-in",
+  "industry": "AI developer tools / open-model runtime",
+  "stage": "Series B",
+  "last_round": "$65M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Theory Ventures (B), Benchmark (A)",
+  "total_open_roles": "7",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~38 -> ~77 on LinkedIn (+103% YoY); company said 14 staff at Jul 2026 round",
+  "headcount": "~70-77",
+  "latest_news": "Named to The Information's 50 Most Promising Startups of 2026",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://agihunt.info/p/1a1cbc318554b78821880a6b157",
+  "traction": "8.9M monthly active developers; used in 85% of Fortune 500; revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Default way developers run open models (8.9M monthly devs, 85% of the Fortune 500), but the core runtime is free and open source, monetization through its cloud is early, and llama.cpp and LM Studio are close substitutes.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Ollama raises $65M, nearly 9M users (Jul 2026)",
+    "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/"
+   },
+   {
+    "label": "Ollama blog: all aboard open models (Jul 2026)",
+    "url": "https://www.ollama.com/blog/all-aboard-open-models"
+   }
+  ],
+  "hiring_locations": [
+   "Palo Alto"
+  ]
+ },
+ {
+  "name": "Natural",
+  "slug": "natural",
+  "site": "https://www.natural.com",
+  "careers_url": "https://www.natural.com/careers",
+  "what_they_do": "Payments stack for AI agents: wallets, transfers, cards, billing and credit",
+  "problem": "AI agents can't safely hold money, pay or get paid on rails built for humans",
+  "industry": "Fintech / agentic payments infrastructure",
+  "stage": "Series A",
+  "last_round": "$30M",
+  "last_round_date": "Jul 2026",
+  "lead_investors": "Forerunner (Kirsten Green)",
+  "total_open_roles": "18",
+  "ops_roles": "AML Operations; Founding GTM, Strategic Partnerships; Head of Finance",
+  "hiring_trend": "Team ~17 (mid 2026) -> 21 (Nov 2026); 18 open roles",
+  "headcount": "~21",
+  "latest_news": "Named to The Information's 50 Most Promising Startups of 2026",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://x.com/kirstenagreen/status/2120755962537468112",
+  "traction": "Six products GA since Jul 2026; revenue undisclosed (reported pre-revenue); $100M credit facility",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Early mover building its own ledger, bank integrations and compliance for agent payments, backed by Forerunner and a $100M Upper90 facility; still roughly pre-revenue and up against Stripe, Coinbase x402 and card networks moving into agentic commerce.",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Natural raises $30M to reinvent payments for AI agents (Jul 2026)",
+    "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/"
+   },
+   {
+    "label": "FinTech Futures: Natural lands $100M Upper90 facility (Aug 2026)",
+    "url": "https://www.fintechfutures.com/venture-capital-funding/natural-100m-credit-facility-upper90"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
  }
 ]

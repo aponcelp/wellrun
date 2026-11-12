@@ -323,6 +323,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "artificial-analysis": {
+  "url": "https://artificialanalysis.ai/opengraph-image.png?ab13fbb533329573",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
+ },
  "artisan": {
   "url": "https://www.artisan.co/assets/common/gtm-stack/seo-general.webp",
   "kind": "og",
@@ -2441,6 +2447,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "natural": {
+  "url": "https://www.natural.com/opengraph.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-12"
+ },
  "nebex": {
   "url": "https://cdn.prod.website-files.com/69d7ce76ca1b5fcddfbd6f08/69e4ee154fb05506898127bf_safeimagekit-resized-logoW%20(1).png",
   "kind": "icon",
@@ -2584,6 +2596,12 @@
   "kind": "icon",
   "type": "image/png",
   "checked": "2026-10-20"
+ },
+ "ollama": {
+  "url": "https://ollama.com/public/og.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-12"
  },
  "omnea": {
   "url": "https://framerusercontent.com/assets/KD14DjlLQWwsBspqat2ZYFHW5I.png",
