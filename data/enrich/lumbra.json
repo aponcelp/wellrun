@@ -1,0 +1,65 @@
+{
+  "slug": "lumbra",
+  "checked": "Nov 12, 2026",
+  "founded": 2025,
+  "hq": "Arlington, VA (also Washington, DC and New York)",
+  "headcount_est": {
+    "value": "~32 (LinkedIn); 40+ (company)",
+    "as_of": "Nov 2026",
+    "source": "https://www.businesswire.com/news/home/20261110290340/en/Lumbra-Raises-%2425M-Series-A-to-Scale-Agentic-AI-for-High-Consequence-Environments"
+  },
+  "leadership": [
+    {
+      "name": "Aaron Brown",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20261110290340/en/Lumbra-Raises-%2425M-Series-A-to-Scale-Agentic-AI-for-High-Consequence-Environments"
+    },
+    {
+      "name": "Michael Hiebert",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.tectonicdefense.com/exclusive-agentic-ai-startup-lumbra-raises-25m-series-a"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": null,
+      "amount": null,
+      "valuation": null,
+      "lead": "Costanoa",
+      "source": "https://siliconangle.com/2026/11/10/lumbra-gets-25m-in-backing-to-help-the-intelligence-community-deploy-reliable-ai-agents"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-11",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": "Point72 Ventures, Ansa",
+      "source": "https://www.businesswire.com/news/home/20261110290340/en/Lumbra-Raises-%2425M-Series-A-to-Scale-Agentic-AI-for-High-Consequence-Environments"
+    }
+  ],
+  "total_raised": "$25M+ (seed undisclosed)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$25M Series A co-led by Point72 Ventures and Ansa; expanding to regulated commercial sectors",
+      "url": "https://www.businesswire.com/news/home/20261110290340/en/Lumbra-Raises-%2425M-Series-A-to-Scale-Agentic-AI-for-High-Consequence-Environments"
+    },
+    {
+      "date": "2026-11",
+      "headline": "Named as one of two companies behind the Department of War's Agent Network project",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4526862/dow-unleashes-agent-network-to-transform-ai-enabled-battle-management-and-targe/"
+    }
+  ],
+  "competitors": [
+    "Palantir",
+    "scale-ai",
+    "vannevar-labs",
+    "Legion Intelligence"
+  ]
+}

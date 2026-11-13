@@ -1,0 +1,66 @@
+{
+  "slug": "delphina",
+  "checked": "Nov 12, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~28",
+    "as_of": "Nov 2026",
+    "source": "https://linkedin.com/company/delphina-ai"
+  },
+  "leadership": [
+    {
+      "name": "Jeremy Hermann",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/jeremyhermann/",
+      "source": "https://delphina.ai/our-story"
+    },
+    {
+      "name": "Duncan Gilchrist",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/dsgilchrist/",
+      "source": "https://delphina.ai/our-story"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-12",
+      "amount": "$7.5M",
+      "valuation": null,
+      "lead": "Costanoa, Radical Ventures",
+      "source": "https://www.globenewswire.com/news-release/2023/12/13/2795668/0/en/Delphina-Raises-7-5-Million-to-Build-Copilot-for-Data-Science.html"
+    },
+    {
+      "round": "Seed extension",
+      "date": "2026-11",
+      "amount": "$7.5M",
+      "valuation": null,
+      "lead": "Radical Ventures, Costanoa",
+      "source": "https://www.prnewswire.com/news-releases/delphina-brings-total-funding-to-15m-to-take-trusted-ai-analytics-from-the-data-team-to-the-ceos-office-302937371.html"
+    }
+  ],
+  "total_raised": "$15M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$7.5M from Radical and Costanoa ($15M total); launches the Context Factory",
+      "url": "https://www.prnewswire.com/news-releases/delphina-brings-total-funding-to-15m-to-take-trusted-ai-analytics-from-the-data-team-to-the-ceos-office-302937371.html"
+    },
+    {
+      "date": "2023-12",
+      "headline": "$7.5M seed to build a copilot for data science",
+      "url": "https://www.globenewswire.com/news-release/2023/12/13/2795668/0/en/Delphina-Raises-7-5-Million-to-Build-Copilot-for-Data-Science.html"
+    }
+  ],
+  "competitors": [
+    "omni",
+    "hex",
+    "ThoughtSpot",
+    "Snowflake Cortex Analyst",
+    "Databricks Genie"
+  ]
+}

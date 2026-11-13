@@ -1109,6 +1109,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "delphina": {
+  "url": "https://delphina.ai/images/site/og-default.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-13"
+ },
  "densityai": {
   "url": "https://www.densityai.com/assets/images/og/og-default.jpg",
   "kind": "og",

@@ -43250,5 +43250,103 @@
   "hiring_locations": [
    "Hayward"
   ]
+ },
+ {
+  "name": "Lumbra",
+  "slug": "lumbra",
+  "site": "https://lumbra.ai",
+  "careers_url": "https://jobs.ashbyhq.com/lumbra",
+  "what_they_do": "Operating system for AI agent networks in classified defense and intelligence settings",
+  "problem": "Agencies and regulated firms can't trust AI agents at scale without audit trails, data controls and verifiable results",
+  "industry": "Defense & national-security AI / agent orchestration",
+  "stage": "Series A",
+  "last_round": "$25M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Point72 Ventures, Ansa",
+  "total_open_roles": "11",
+  "ops_roles": "Deployment Strategist (TS/SCI); Deployment Strategist, Intel (TS/SCI + CI poly)",
+  "hiring_trend": "LinkedIn headcount 6 -> 32 (+433% YoY); company says 40+ staff; 11 Ashby roles, raise funds deployment hiring",
+  "headcount": "~32-40",
+  "latest_news": "$25M Series A co-led by Point72 Ventures and Ansa to expand into regulated commercial sectors",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20261110290340/en/Lumbra-Raises-%2425M-Series-A-to-Scale-Agentic-AI-for-High-Consequence-Environments",
+  "traction": "In production on Pentagon/IC top-secret networks; 4 competed prime contracts in first 10 months; revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.25",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Founded 2025 and already underpinning the Department of War's Agent Network Pace-Setting Project on top-secret networks, which is sticky once accredited; the commercial expansion is unproven and it competes with Palantir, Scale AI and other defense-AI startups.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Lumbra raises $25M Series A (Nov 2026)",
+    "url": "https://www.businesswire.com/news/home/20261110290340/en/Lumbra-Raises-%2425M-Series-A-to-Scale-Agentic-AI-for-High-Consequence-Environments"
+   },
+   {
+    "label": "FinSMEs: Lumbra raises $25M Series A (Nov 2026)",
+    "url": "https://www.finsmes.com/2026/11/lumbra-raises-25m-in-series-a-funding.html"
+   }
+  ],
+  "hiring_locations": [
+   "Arlington",
+   "New York",
+   "Hawaii"
+  ]
+ },
+ {
+  "name": "Delphina",
+  "slug": "delphina",
+  "site": "https://delphina.ai",
+  "careers_url": "https://jobs.ashbyhq.com/Delphina",
+  "what_they_do": "AI agents that build and maintain the business context behind trusted AI analytics",
+  "problem": "AI answers about company data are wrong without trusted tables, metric definitions and institutional knowledge, which data teams maintain by hand",
+  "industry": "Data & analytics / AI analytics",
+  "stage": "Seed",
+  "last_round": "$7.5M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Radical Ventures, Costanoa",
+  "total_open_roles": "3",
+  "ops_roles": "",
+  "hiring_trend": "LinkedIn ~28 staff, +16.7% YoY (+4); 3 open Ashby roles; raise funds GTM and customer engineering",
+  "headcount": "~28",
+  "latest_news": "$7.5M from Radical and Costanoa ($15M total); launched the Context Factory",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/delphina-brings-total-funding-to-15m-to-take-trusted-ai-analytics-from-the-data-team-to-the-ceos-office-302937371.html",
+  "traction": "Customers incl. Substack, LATAM Airlines, Coursera, Upstart, Udemy; 73% of questions from business users",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 12, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Ex-Uber Michelangelo team with logos like Substack and LATAM, but small (~28 staff, $15M raised), revenue undisclosed, and the AI-analytics context layer is crowded (Omni, Hex, Snowflake, Databricks, ThoughtSpot).",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Delphina brings total funding to $15M (Nov 2026)",
+    "url": "https://www.prnewswire.com/news-releases/delphina-brings-total-funding-to-15m-to-take-trusted-ai-analytics-from-the-data-team-to-the-ceos-office-302937371.html"
+   },
+   {
+    "label": "FinSMEs: Delphina raises $7.5M (Nov 2026)",
+    "url": "https://www.finsmes.com/2026/11/delphina-raises-7-5m-in-funding.html"
+   }
+  ],
+  "hiring_locations": [
+   "SF Bay Area"
+  ]
  }
 ]
