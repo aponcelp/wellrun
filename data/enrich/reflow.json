@@ -1,0 +1,53 @@
+{
+  "slug": "reflow",
+  "checked": "Nov 13, 2026",
+  "founded": 2024,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~22",
+    "as_of": "Nov 2026",
+    "source": "https://linkedin.com/company/reflowai"
+  },
+  "leadership": [
+    {
+      "name": "Uğur Kaner",
+      "title": "Founder",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/ukaner/",
+      "source": "https://www.reflow.ai/"
+    },
+    {
+      "name": "Akbay Tabak",
+      "title": "Head of Engineering",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/akbay-tabak/",
+      "source": "https://jobs.ashbyhq.com/reflow/fb7d9adf-2003-4552-8cc7-10ad2dac86d0"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-02",
+      "amount": "$15M+",
+      "valuation": null,
+      "lead": "Basis Set",
+      "source": "https://www.basisset.com/insights/reflows-15m-seed-bringing-workflow-intelligence-to-ai-ops"
+    }
+  ],
+  "total_raised": "$15M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-02",
+      "headline": "Launches workforce and workflow intelligence platform with $15M+ seed (Basis Set, Bling, Better Tomorrow, Designer Fund, e2vc)",
+      "url": "https://www.prnewswire.com/news-releases/reflow-launches-with-15m-seed-to-make-enterprise-operations-observable-at-scale-302684424.html"
+    }
+  ],
+  "competitors": [
+    "Celonis",
+    "Skan.ai",
+    "KYP.ai",
+    "Soroco",
+    "Mimica"
+  ]
+}

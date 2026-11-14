@@ -43348,5 +43348,55 @@
   "hiring_locations": [
    "SF Bay Area"
   ]
+ },
+ {
+  "name": "Reflow",
+  "slug": "reflow",
+  "site": "https://www.reflow.ai",
+  "careers_url": "https://jobs.ashbyhq.com/reflow",
+  "what_they_do": "Workflow intelligence that maps how operations teams work and measures automation ROI",
+  "problem": "Ops leaders can't see how work actually flows across people and systems, so automation bets rest on guesswork",
+  "industry": "Enterprise software / workflow & process intelligence",
+  "stage": "Seed",
+  "last_round": "$15M+",
+  "last_round_date": "Feb 2026",
+  "lead_investors": "Basis Set",
+  "total_open_roles": "15",
+  "ops_roles": "Product Operations; Customer Success; GTM",
+  "hiring_trend": "LinkedIn ~22 staff, +175% YoY (est.); 15 open Ashby roles, flat over the last month",
+  "headcount": "~22",
+  "latest_news": "Launched out of stealth with a $15M+ seed led by Basis Set",
+  "latest_news_date": "Feb 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/reflow-launches-with-15m-seed-to-make-enterprise-operations-observable-at-scale-302684424.html",
+  "traction": "Design partners Collective, Boundless, Proper AI, Aspire; one says $1.2M saved in two months",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 13, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Repeat founder (Collective) with named design partners and a $15M+ seed, but ~22 staff, revenue undisclosed, and process/task-mining is crowded (Celonis, Skan.ai, KYP.ai, Soroco, Mimica).",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Reflow launches with $15M+ seed (Feb 2026)",
+    "url": "https://www.prnewswire.com/news-releases/reflow-launches-with-15m-seed-to-make-enterprise-operations-observable-at-scale-302684424.html"
+   },
+   {
+    "label": "Basis Set: Reflow's $15M seed (Feb 2026)",
+    "url": "https://www.basisset.com/insights/reflows-15m-seed-bringing-workflow-intelligence-to-ai-ops"
+   }
+  ],
+  "hiring_locations": [
+   "Europe",
+   "LatAm",
+   "Remote (US)"
+  ]
  }
 ]
