@@ -43398,5 +43398,153 @@
    "LatAm",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Vumedi",
+  "slug": "vumedi",
+  "site": "https://www.vumedi.com",
+  "careers_url": "https://job-boards.greenhouse.io/vumedi",
+  "what_they_do": "Peer-to-peer video learning platform and AI clinical search for physicians",
+  "problem": "Doctors can't keep up with new therapies and procedures from papers alone; they need specialists' real-world experience fast",
+  "industry": "Healthcare / physician education",
+  "stage": "Series B",
+  "last_round": "$104M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Oak HC/FT",
+  "total_open_roles": "6",
+  "ops_roles": "",
+  "hiring_trend": "LinkedIn ~277 (+1.1% YoY); Revelio ~344 Jun 2026; postings 28 in 2026 (-3.5% YoY)",
+  "headcount": "~280-340",
+  "latest_news": "Disclosed $104M Series B from Oak HC/FT alongside expanded AI physician learning tools",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20261110245713/en/Vumedi-Expands-AI-Powered-Physician-Learning-as-Medical-Innovation-Accelerates",
+  "traction": "150K+ NPI-verified clinicians use its AI; 56M learning minutes in 12 mo; est. ~$45M revenue",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "67",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/VuMedi-Reviews-E656367.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 14, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "Eighteen-year-old physician video community with 100K+ expert videos, 150K+ verified clinicians on its AI and pharma partners paying for reach; a niche category, but engagement is a moat and the $104M Oak HC/FT round funds the AI push.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Vumedi expands AI physician learning after $104M Oak HC/FT Series B (Nov 2026)",
+    "url": "https://www.businesswire.com/news/home/20261110245713/en/Vumedi-Expands-AI-Powered-Physician-Learning-as-Medical-Innovation-Accelerates"
+   },
+   {
+    "label": "Oak HC/FT: Vumedi, connecting physicians to expertise (Nov 2026)",
+    "url": "https://www.oakhcft.com/blog-post/vumedi-connecting-physicians-to-the-expertise-that-advances-care"
+   }
+  ],
+  "hiring_locations": [
+   "US OAK",
+   "New York",
+   "Croatia"
+  ]
+ },
+ {
+  "name": "Duet",
+  "slug": "duet",
+  "site": "https://joinduet.com",
+  "careers_url": "https://jobs.ashbyhq.com/duet",
+  "what_they_do": "Network giving nurse-practitioner-owned primary care clinics billing, contracting and AI tools",
+  "problem": "Independent NP clinics drown in billing, credentialing and payer contracts and get paid less than physicians",
+  "industry": "Primary care / value-based care enablement",
+  "stage": "Series A",
+  "last_round": "$15M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Kairos",
+  "total_open_roles": "10",
+  "ops_roles": "Chief of Staff; Strategy & Operations Manager, Talent; Senior Product Manager, New Clinic Launches",
+  "hiring_trend": "Headcount ~80 on LinkedIn, +74% YoY; 10 open roles (all NYC hybrid)",
+  "headcount": "~80",
+  "latest_news": "Raised $15M Series A led by Kairos; plans first NP-led Medicare ACO in 2027",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20261112435343/en/Duet-Raises-%2415M-to-Scale-Nurse-Practitioner-Owned-Clinics-Filling-Critical-Primary-Care-Gap",
+  "traction": "130+ clinics in 21 states (100+ mid-2026), ~150K patients, ~$100M patient spend managed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.25",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "4",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Duet-Reviews-E10492018.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 14, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Largest network of NP-owned primary care practices (130+ clinics, ~400K visits a year) with risk contracts at Anthem, Cigna, Centene and Molina; still early at $22.5M raised, and value-based care margins are thin and hard.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Duet raises $15M Series A (Nov 2026)",
+    "url": "https://www.businesswire.com/news/home/20261112435343/en/Duet-Raises-%2415M-to-Scale-Nurse-Practitioner-Owned-Clinics-Filling-Critical-Primary-Care-Gap"
+   },
+   {
+    "label": "Fierce Healthcare: Duet plans first NP-led ACO in 2027 (Nov 2026)",
+    "url": "https://www.fiercehealthcare.com/finance/duet-nabs-15m-series-plans-launch-first-np-led-aco-2027"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Kindo",
+  "slug": "kindo",
+  "site": "https://www.kindo.ai",
+  "careers_url": "https://jobs.ashbyhq.com/kindo",
+  "what_they_do": "Control center to discover, govern and cap spend on enterprise AI agents",
+  "problem": "IT, security and finance teams can't see or control what thousands of AI agents access, do and cost",
+  "industry": "Enterprise AI governance / security",
+  "stage": "Series B",
+  "last_round": "$30M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Crosspoint Capital, Forgepoint Capital",
+  "total_open_roles": "1",
+  "ops_roles": "",
+  "hiring_trend": "Flat, ~53 (Sep 2025) to ~55 (Nov 2026) staff; 1 open role",
+  "headcount": "~55",
+  "latest_news": "Raised $30M co-led by Crosspoint and Forgepoint; $57.6M total",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/kindo-secures-57-6-million-to-expand-enterprise-control-over-ai-agent-actions-and-reduce-costs-302937058.html",
+  "traction": "Revenue up ~800% YoY in 2026 (company-stated, base undisclosed); Aireon reports $2M+ yearly savings",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.5",
+  "glassdoor_reviews": "2",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Kindo-Los-Angeles-Reviews-EI_IE9061733.0,5_IL.6,17_IM508.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 14, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "SOC 2 control plane in production at large and mid-market enterprises with run-anywhere/air-gapped deployment and its own Deep Hat security models; revenue base is undisclosed and model vendors and cloud platforms can bundle governance.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Kindo secures $57.6M (Nov 2026)",
+    "url": "https://www.prnewswire.com/news-releases/kindo-secures-57-6-million-to-expand-enterprise-control-over-ai-agent-actions-and-reduce-costs-302937058.html"
+   },
+   {
+    "label": "Forgepoint: Kindo, why we invested (Nov 2026)",
+    "url": "https://forgepointcap.com/perspectives/kindo-why-we-invested/"
+   }
+  ],
+  "hiring_locations": [
+   "Venice",
+   "Remote"
+  ]
  }
 ]
