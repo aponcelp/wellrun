@@ -1,7 +1,7 @@
 {
  "week": "2026-11-15",
  "title": "Nominal, Rox and Imprint break into the 100",
- "lede": "Fresh rounds pushed Nominal, Rox and Imprint into the 100, and nine companies new to Well Run landed straight on the chart, led by Temporal at #16. Twelve came in and twelve went out. Nine of the twelve exits kept their score and were only pushed down by the new arrivals; three lost points on hiring.",
+ "lede": "Fresh rounds pushed Nominal, Rox and Imprint into the 100, and nine companies new to Well Run landed straight on the chart, led by Temporal at #15. Twelve came in and twelve went out. Two of the exits are red flags: Fireworks AI and WorkOS each lost a point for customer-data breaches, and Kalshi lost one over a possible CFTC enforcement action.",
  "sections": [
   {
    "heading": "The climbers",
@@ -9,7 +9,7 @@
     {
      "slug": "nominal",
      "name": "Nominal",
-     "move": "#141 → #36",
+     "move": "#141 → #35",
      "score": "4.5 → 5.5",
      "zone": "Race → Sprint",
      "why": "A $240M Series C at a $3B valuation led by Lightspeed, co-led by Insight (Nov 9). That triples its value since March."
@@ -17,7 +17,7 @@
     {
      "slug": "rox",
      "name": "Rox",
-     "move": "#154 → #44",
+     "move": "#154 → #43",
      "score": "4.5 → 5.5",
      "zone": "Race → Sprint",
      "why": "A $100M Series B at a $1.3B valuation, co-led by General Catalyst and March Capital (Nov 11)."
@@ -25,7 +25,7 @@
     {
      "slug": "imprint",
      "name": "Imprint",
-     "move": "#139 → #73",
+     "move": "#139 → #72",
      "score": "4.5 → 5.0",
      "zone": "Race → Sprint",
      "why": "$130M at about $1.9B led by Khosla Ventures (Nov 11), up from $1.2B a year ago. It also launched a Fanatics card."
@@ -33,15 +33,15 @@
     {
      "slug": "langchain",
      "name": "LangChain",
-     "move": "#268 → #104",
+     "move": "#268 → #102",
      "score": "3.75 → 4.75",
      "zone": "Tempo → Sprint",
-     "why": "A $300M Series C at a $3B valuation led by CapitalG (Nov 13), with 7,000 companies on LangSmith. It stops four places short of the 100."
+     "why": "A $300M Series C at a $3B valuation led by CapitalG (Nov 13), with 7,000 companies on LangSmith. It stops two places short of the 100."
     },
     {
      "slug": "mercor",
      "name": "Mercor",
-     "move": "#299 → #136",
+     "move": "#299 → #133",
      "score": "3.5 → 4.5",
      "zone": "Tempo → Race",
      "why": "A $750M Series D at a $20B valuation (Nov 10), double its 2025 mark, with Nvidia and Salesforce joining. Part of it is an employee tender."
@@ -49,7 +49,7 @@
     {
      "slug": "coframe",
      "name": "Coframe",
-     "move": "#621 → #326",
+     "move": "#621 → #325",
      "score": "2.25 → 3.75",
      "zone": "Warm-up → Tempo",
      "why": "The biggest jump on the board: a $25M Series A co-led by Khosla Ventures and Hanabi Capital (Nov 9). It was a seed company in Warm-up; now it is out."
@@ -57,7 +57,7 @@
     {
      "slug": "replit",
      "name": "Replit",
-     "move": "#84 → #55",
+     "move": "#84 → #54",
      "score": "4.75 → 5.0",
      "zone": "Sprint → Sprint",
      "why": "Open roles grew from 28 to 30, back to full hiring points."
@@ -70,7 +70,7 @@
     {
      "slug": "skydio",
      "name": "Skydio",
-     "move": "#349 → #276",
+     "move": "#349 → #274",
      "score": "3.25 → 3.75",
      "zone": "Steady → Tempo",
      "why": "Axon is putting about $1.2B into Skydio at a $5.2B pre-money valuation and becomes its exclusive public-safety distributor. Only $254.9M is new money for Skydio; the rest buys existing shares, so that is the part we count."
@@ -91,7 +91,7 @@
     {
      "slug": "numeral",
      "name": "Numeral",
-     "move": "#45 → #116",
+     "move": "#45 → #114",
      "score": "5.25 → 4.75",
      "zone": "Sprint → Sprint",
      "why": "Open roles fell from 21 to 12, two steps down in hiring points."
@@ -99,7 +99,7 @@
     {
      "slug": "general-medicine",
      "name": "General Medicine",
-     "move": "#76 → #115",
+     "move": "#76 → #113",
      "score": "5.0 → 4.75",
      "zone": "Sprint → Sprint",
      "why": "Open roles fell from 16 to 13, one step down in hiring points."
@@ -107,7 +107,7 @@
     {
      "slug": "pelico",
      "name": "Pelico",
-     "move": "#92 → #163",
+     "move": "#92 → #161",
      "score": "4.75 → 4.5",
      "zone": "Sprint → Race",
      "why": "Open roles fell from 20 to 17, one step down in hiring points."
@@ -123,12 +123,41 @@
    ]
   },
   {
+   "heading": "The red flags",
+   "items": [
+    {
+     "slug": "fireworks-ai",
+     "name": "Fireworks AI",
+     "move": "#9 → #134",
+     "score": "5.5 → 4.5",
+     "zone": "Sprint → Race",
+     "why": "Its second customer-data breach in about five weeks. Attackers reached its development machines through a third-party cloud provider; Notion said AI chat transcripts from a small number of its workspaces were exposed. Red flag, minus one point."
+    },
+    {
+     "slug": "workos",
+     "name": "WorkOS",
+     "move": "#87 → #280",
+     "score": "4.75 → 3.75",
+     "zone": "Sprint → Tempo",
+     "why": "An AI hacking agent got into an internal sales and support tool and pulled customer contact details and messages over several days. A researcher says the agent escaped its testing environment and the data was deleted. Red flag, minus one point."
+    },
+    {
+     "slug": "kalshi",
+     "name": "Kalshi",
+     "move": "#118 → #333",
+     "score": "4.5 → 3.5",
+     "zone": "Race → Tempo",
+     "why": "Reuters and Politico report the CFTC warned it of imminent charges over how it notified the agency about dozens of new contracts. Kalshi calls it a procedural error involving a handful of contracts. Red flag, minus one point."
+    }
+   ]
+  },
+  {
    "heading": "The new entries",
    "items": [
     {
      "slug": "temporal",
      "name": "Temporal",
-     "move": "NEW at #16",
+     "move": "NEW at #15",
      "score": "5.5",
      "zone": "Sprint",
      "why": "New to Well Run this week, from the AI 100 list."
@@ -136,7 +165,7 @@
     {
      "slug": "nominal",
      "name": "Nominal",
-     "move": "NEW at #36",
+     "move": "NEW at #35",
      "score": "5.5",
      "zone": "Sprint",
      "why": "See above: $240M Series C at $3B."
@@ -144,7 +173,7 @@
     {
      "slug": "zipline",
      "name": "Zipline",
-     "move": "NEW at #39",
+     "move": "NEW at #38",
      "score": "5.5",
      "zone": "Sprint",
      "why": "New to Well Run: $1.5B at a $21.5B valuation as Walmart adds 300 drone sites."
@@ -152,7 +181,7 @@
     {
      "slug": "rox",
      "name": "Rox",
-     "move": "NEW at #44",
+     "move": "NEW at #43",
      "score": "5.5",
      "zone": "Sprint",
      "why": "See above: $100M Series B at $1.3B."
@@ -160,7 +189,7 @@
     {
      "slug": "chai-discovery",
      "name": "Chai Discovery",
-     "move": "NEW at #51",
+     "move": "NEW at #50",
      "score": "5.25",
      "zone": "Sprint",
      "why": "New to Well Run this week, from the AI 100 list."
@@ -168,7 +197,7 @@
     {
      "slug": "fractile",
      "name": "Fractile",
-     "move": "NEW at #52",
+     "move": "NEW at #51",
      "score": "5.25",
      "zone": "Sprint",
      "why": "New to Well Run: a $720M Series C at about $7B (Nov 11) for its AI inference chips."
@@ -176,7 +205,7 @@
     {
      "slug": "grafana-labs",
      "name": "Grafana Labs",
-     "move": "NEW at #56",
+     "move": "NEW at #55",
      "score": "5.0",
      "zone": "Sprint",
      "why": "New to Well Run this week, from the AI 100 list."
@@ -184,7 +213,7 @@
     {
      "slug": "databento",
      "name": "Databento",
-     "move": "NEW at #70",
+     "move": "NEW at #69",
      "score": "5.0",
      "zone": "Sprint",
      "why": "New to Well Run: a $100M Series C at $1.1B (Nov 12), four months after its Series B."
@@ -192,7 +221,7 @@
     {
      "slug": "imprint",
      "name": "Imprint",
-     "move": "NEW at #73",
+     "move": "NEW at #72",
      "score": "5.0",
      "zone": "Sprint",
      "why": "See above: $130M at about $1.9B."
@@ -200,7 +229,7 @@
     {
      "slug": "lambda",
      "name": "Lambda",
-     "move": "NEW at #74",
+     "move": "NEW at #73",
      "score": "5.0",
      "zone": "Sprint",
      "why": "New to Well Run this week, from the AI 100 list."
@@ -208,7 +237,7 @@
     {
      "slug": "tutor-intelligence",
      "name": "Tutor Intelligence",
-     "move": "NEW at #80",
+     "move": "NEW at #79",
      "score": "5.0",
      "zone": "Sprint",
      "why": "New to Well Run: a $75M Series B led by a16z, with its robot fleet up 4x in a year."
@@ -216,7 +245,7 @@
     {
      "slug": "daylight",
      "name": "Daylight",
-     "move": "NEW at #85",
+     "move": "NEW at #84",
      "score": "5.0",
      "zone": "Sprint",
      "why": "New to Well Run: an $80M Series B led by Goldman Sachs Alternatives (Nov 10) after 40x revenue growth."
@@ -225,7 +254,7 @@
   },
   {
    "heading": "The exits",
-   "body": "Canals (#88), Firecrawl (#89), Granola (#90), Nevis (#91), Viktor (#95), xDOF (#96), Broccoli AI (#97), Positron AI (#98) and BackOps (#99) kept their 4.75 and now sit at #101 to #112. Nothing changed for them; the new arrivals above pushed them out. Numeral, General Medicine and Pelico left on hiring, as noted above.",
+   "body": "Granola (#90), Nevis (#91), Viktor (#95), xDOF (#96), Broccoli AI (#97), Positron AI (#98) and BackOps (#99) kept their 4.75 and now sit at #101 to #110. Nothing changed for them; the new arrivals above pushed them out. Numeral, General Medicine and Pelico left on hiring, and Fireworks AI and WorkOS on red flags, as noted above. Canals and Firecrawl hold on at #98 and #99.",
    "items": []
   },
   {
@@ -242,5 +271,56 @@
    ]
   }
  ],
+ "spotlight": {
+  "label": "Featured this week",
+  "slug": "lorikeet",
+  "name": "Lorikeet",
+  "tagline": "AI concierges that resolve complex support cases for fintech, health and insurance companies.",
+  "facts": [
+   {
+    "k": "Does",
+    "v": "AI concierges that take action to solve customer issues end to end across chat, email and voice, within each company's guardrails, instead of pointing people to FAQ steps."
+   },
+   {
+    "k": "Money",
+    "v": "$35M Series A in Aug 2025, led by QED Investors with Blackbird, Square Peg and Airtree."
+   },
+   {
+    "k": "Customers",
+    "v": "Fintech, health and insurance scale-ups in the US, Europe and Australia, including Airwallex, Linktree, Flex and Eucalyptus."
+   },
+   {
+    "k": "Traction",
+    "v": "Revenue up 10x from its Oct 2024 launch to Aug 2025. Its CRO cites triple-digit ARR growth and its three largest customers renewing early at seven figures. Launched B2A in Sep 2026 so businesses can serve customers' personal AI agents."
+   },
+   {
+    "k": "Risk",
+    "v": "A crowded category where Sierra, Decagon and Intercom Fin are bigger. Early GTM leaders, including its first US hire and its GTM ops lead, left in mid-2026."
+   },
+   {
+    "k": "Board",
+    "v": "Steady, 3.25"
+   }
+  ],
+  "why": "Most AI support tools are judged on deflection: how many tickets they keep away from a person. Lorikeet is judged on resolution, and in fintech, health and insurance that is the number that matters, because a frozen account or a denied claim has to be answered right the first time. What I like is that its concierges actually take the action, like replacing a lost card, inside permissions the company sets, which is how an ops team would want any agent to work. The proof is customers paying more over time: its three largest renewed early, at seven figures. It is a crowded space and the board has it at Steady, but this is the approach I would bet on.",
+  "sources": [
+   {
+    "label": "Series A announcement",
+    "url": "https://www.prnewswire.com/news-releases/lorikeet-raises-35-million-usd-series-a-to-deliver-ai-powered-universal-customer-concierges-able-to-solve-real-challenges-not-just-chatbots-302522821.html"
+   },
+   {
+    "label": "Jerry Brooner joins as CRO",
+    "url": "https://www.prnewswire.com/news-releases/lorikeet-names-jerry-brooner-chief-revenue-officer-to-scale-its-ai-concierge-platform-across-fintech-healthcare-and-insurance-302832696.html"
+   },
+   {
+    "label": "Jerry Brooner on his first quarter (LinkedIn)",
+    "url": "https://www.linkedin.com/posts/jerrybrooner_just-wrapped-my-first-quarter-at-lorikeet-activity-7491142787686600704-mWr4"
+   },
+   {
+    "label": "Launching B2A",
+    "url": "https://www.lorikeetcx.ai/blog/launching-b2a"
+   }
+  ]
+ },
  "outro": "The chart re-ranks every Sunday."
 }
