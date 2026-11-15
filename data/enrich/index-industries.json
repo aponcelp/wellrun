@@ -1,0 +1,57 @@
+{
+  "slug": "index-industries",
+  "checked": "Nov 15, 2026",
+  "founded": 2026,
+  "hq": "New York, NY",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Josh Rosenthal",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/index-industries-raises-50-million-in-funding-to-reinvent-how-the-world-invests-in-real-estate-302935231.html"
+    },
+    {
+      "name": "Brian Hardecker",
+      "title": "Co-founder & Chairman",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/index-industries-raises-50-million-in-funding-to-reinvent-how-the-world-invests-in-real-estate-302935231.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-11",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://www.prnewswire.com/news-releases/index-industries-raises-50-million-in-funding-to-reinvent-how-the-world-invests-in-real-estate-302935231.html"
+    }
+  ],
+  "total_raised": "$50M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Emerges from stealth with $50M seed led by Lightspeed",
+      "url": "https://www.prnewswire.com/news-releases/index-industries-raises-50-million-in-funding-to-reinvent-how-the-world-invests-in-real-estate-302935231.html"
+    },
+    {
+      "date": "2026-11",
+      "headline": "Axios Pro: Lightspeed leads $50M round in real estate indexing startup",
+      "url": "https://www.axios.com/pro/all-deals/2026/11/10/lightspeed-50m-real-estate-indexing"
+    },
+    {
+      "date": "2026-11",
+      "headline": "USHP token to be offered only to eligible non-U.S. persons via BVI issuer",
+      "url": "https://blockonomi.com/u-s-home-price-token-backed-by-50-million-will-not-be-sold-to-americans/"
+    }
+  ],
+  "competitors": [
+    "S&P CoreLogic Case-Shiller",
+    "Lofty",
+    "Parcl"
+  ]
+}

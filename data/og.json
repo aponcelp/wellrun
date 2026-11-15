@@ -1937,6 +1937,12 @@
   "type": "image/png",
   "checked": "2026-10-20"
  },
+ "index-industries": {
+  "url": "https://www.indexindustries.com/og/index-industries.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-15"
+ },
  "infisical": {
   "url": "https://infisical.com/images/ogimage.png",
   "kind": "og",
