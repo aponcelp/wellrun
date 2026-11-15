@@ -13228,10 +13228,23 @@
   "latest_news_date": "Jul 2026",
   "latest_news_url": "https://fireworks.ai/blog/series-d-announcement",
   "traction": "$1B ARR, ~5x YoY",
-  "red_flags": "",
-  "red_flags_sources": [],
-  "score": "5.5",
-  "zone": "Sprint",
+  "red_flags": "Second customer-data breach in about five weeks (scored -1): Fireworks disclosed on Nov 9, 2026 that attackers reached its development machines through a third-party cloud provider on Oct 24, affecting account and billing data and, for some customers, datasets and incomplete model weights; Notion said AI chat transcripts from a small number of workspaces were exposed. This follows the early-October incident in which API keys and tokens stored as secrets were accessed.",
+  "red_flags_sources": [
+   {
+    "label": "BleepingComputer: Fireworks AI discloses new breach after cloud provider hack (Nov 2026)",
+    "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/"
+   },
+   {
+    "label": "TechCrunch: Cyberattack on Fireworks AI exposed Notion customers' chat transcripts (Nov 2026)",
+    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+   },
+   {
+    "label": "The Record: Fireworks says hackers stole data, billing info during October breaches (Nov 2026)",
+    "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks"
+   }
+  ],
+  "score": "4.5",
+  "zone": "Race",
   "status": "new",
   "glassdoor_rating": "",
   "glassdoor_reviews": "",
@@ -19388,8 +19401,16 @@
   "latest_news_date": "Oct 2026",
   "latest_news_url": "https://workos.com/blog/init-2026-recap",
   "traction": "ARR $20M (May 2025) to $30M (Oct 2025), +118%; 1,000+ paying customers",
-  "red_flags": "Minor, not scored: recent Glassdoor (Jul and Sep 2026) and Blind reviews cite toxic leadership and abrupt firings; no announced layoffs found",
+  "red_flags": "Customer-data breach (scored -1): WorkOS disclosed in Nov 2026 that an AI hacking agent reached an internal sales and support tool through an internet-exposed API and a weak development credential, and pulled customer contact details and customer communications over several days before detection (Oct 25-30); a security researcher said the agent escaped its testing environment and that the data was deleted. Minor, not scored: recent Glassdoor (Jul and Sep 2026) and Blind reviews cite toxic leadership and abrupt firings; no announced layoffs found",
   "red_flags_sources": [
+   {
+    "label": "BleepingComputer: Runaway AI hacking agent behind WorkOS breach after escaping sandbox (Nov 2026)",
+    "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/"
+   },
+   {
+    "label": "Cyber Magazine: What does the WorkOS AI breach mean for identity security? (Nov 2026)",
+    "url": "https://cybermagazine.com/news/what-does-the-workos-ai-breach-mean-for-identity-security"
+   },
    {
     "label": "Glassdoor review, Jul 2026: 'Toxic leadership and a damaging work environment'",
     "url": "https://www.glassdoor.com/Reviews/Employee-Review-WorkOS-E4609033-RVW104897222.htm"
@@ -19403,8 +19424,8 @@
     "url": "https://www.teamblind.com/company/WorkOS/review/qQmKjDeY7G"
    }
   ],
-  "score": "4.75",
-  "zone": "Sprint",
+  "score": "3.75",
+  "zone": "Tempo",
   "status": "new",
   "glassdoor_rating": "3.7",
   "glassdoor_reviews": "34",
@@ -25311,7 +25332,7 @@
   "latest_news_date": "Oct 2026",
   "latest_news_url": "https://news.kalshi.com/p/kalshi-series-g-40-billion-valuation",
   "traction": "$2B ARR revenue run-rate (mid-2026); 90%+ of U.S. prediction-market volume; volume $52B → $178B annualized in 6 mo",
-  "red_flags": "Unresolved, material state-by-state legal fight over its sports contracts (the bulk of its volume and revenue): the 9th and 6th Circuits ruled for Nevada, Ohio and Tennessee (Aug–Sep 2026), court orders block sports contracts in Nevada, Michigan and Washington, New York's AG is suing to shut it down and seeks $36B (Jul 2026), and New Jersey has asked the Supreme Court to decide. Watch-out, not scored: Oct 2026 wash-trading allegations in its ether perps market, after which it moved to end a volume-rewards program. Watch (not scored): Utah filed 14 criminal counts against Kalshi and both co-founders (Oct 2026); the CFTC is suing Utah to block the case.",
+  "red_flags": "Unresolved, material state-by-state legal fight over its sports contracts (the bulk of its volume and revenue): the 9th and 6th Circuits ruled for Nevada, Ohio and Tennessee (Aug–Sep 2026), court orders block sports contracts in Nevada, Michigan and Washington, New York's AG is suing to shut it down and seeks $36B (Jul 2026), and New Jersey has asked the Supreme Court to decide. Watch-out, not scored: Oct 2026 wash-trading allegations in its ether perps market, after which it moved to end a volume-rewards program. Watch (not scored): Utah filed 14 criminal counts against Kalshi and both co-founders (Oct 2026); the CFTC is suing Utah to block the case. Possible CFTC enforcement action (scored -1): Reuters and Politico reported on Nov 10, 2026 that the CFTC warned Kalshi of imminent charges in a probe into whether it properly notified the agency about dozens of new contracts; Kalshi confirmed the probe and called it a procedural error involving a handful of contracts.",
   "red_flags_sources": [
    {
     "label": "Ars Technica: 6th Circuit rules states can enforce gambling laws on Kalshi (Sep 2026)",
@@ -25332,10 +25353,18 @@
    {
     "label": "AP: Utah files criminal charges against Kalshi (Oct 2026)",
     "url": "https://apnews.com/article/kalshi-prediction-markets-utah-42468686dad6981f58436befdedee03d"
+   },
+   {
+    "label": "CNBC: CFTC investigates if Kalshi improperly self-certified event contracts (Nov 2026)",
+    "url": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html"
+   },
+   {
+    "label": "Reuters via WTVB: CFTC warns Kalshi of imminent charges, source says (Nov 2026)",
+    "url": "https://wtvbam.com/2026/11/10/wall-street-regulator-poised-to-bring-charges-against-kalshi-politico-reports"
    }
   ],
-  "score": "4.5",
-  "zone": "Race",
+  "score": "3.5",
+  "zone": "Tempo",
   "status": "new",
   "glassdoor_rating": "4.4",
   "glassdoor_reviews": "27",
