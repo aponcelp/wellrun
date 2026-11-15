@@ -1,0 +1,81 @@
+{
+  "slug": "vumedi",
+  "checked": "Nov 14, 2026",
+  "founded": 2008,
+  "hq": "Oakland, CA",
+  "headcount_est": {
+    "value": "~277",
+    "as_of": "Sep 2026",
+    "source": "https://pitchbook.com/profiles/company/103489-66"
+  },
+  "leadership": [
+    {
+      "name": "Roman Giverts",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/romangiverts/",
+      "source": "https://www.businesswire.com/news/home/20261110245713/en/Vumedi-Expands-AI-Powered-Physician-Learning-as-Medical-Innovation-Accelerates"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2012-08",
+      "amount": "$834K",
+      "valuation": null,
+      "lead": null,
+      "source": "https://pitchbook.com/profiles/company/103489-66"
+    },
+    {
+      "round": "Series A",
+      "date": "2018-01",
+      "amount": "$1.27M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://pitchbook.com/profiles/company/103489-66"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-11",
+      "amount": "$104M",
+      "valuation": null,
+      "lead": "Oak HC/FT",
+      "source": "https://www.businesswire.com/news/home/20261110245713/en/Vumedi-Expands-AI-Powered-Physician-Learning-as-Medical-Innovation-Accelerates"
+    }
+  ],
+  "total_raised": "$106M",
+  "revenue_est": {
+    "value": "~$45.5M revenue",
+    "as_of": "Jun 2025",
+    "basis": "estimate",
+    "source": "https://6figr.com/company/vumedi"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Discloses $104M Series B from Oak HC/FT; expands AI physician learning tools",
+      "url": "https://www.businesswire.com/news/home/20261110245713/en/Vumedi-Expands-AI-Powered-Physician-Learning-as-Medical-Innovation-Accelerates"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Wins summary judgment in ex-employee's sex discrimination suit (Roach v. VuMedi)",
+      "url": "https://www.grsm.com/insight/grsm-secures-complete-summary-judgment-victory-for-vumedi-in-employment-discrimination-and-retaliation-action/"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Opens new Zagreb office; team there tops 80 of 300+ staff",
+      "url": "https://after5.hr/zivot-prije-5/vumedi-ured-zagreb/"
+    },
+    {
+      "date": "2025-05",
+      "headline": "Closes ~$80M equity sale (Form D), first tranche of the Oak HC/FT Series B",
+      "url": "https://specstream.ai/data/form-d/company/vumedi-inc-1557016"
+    }
+  ],
+  "competitors": [
+    "Docquity",
+    "Medscape",
+    "Doximity",
+    "Touch Surgery"
+  ]
+}

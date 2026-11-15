@@ -1,0 +1,76 @@
+{
+  "slug": "duet",
+  "checked": "Nov 14, 2026",
+  "founded": 2023,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~80",
+    "as_of": "Nov 2026",
+    "source": "https://linkedin.com/company/joinduet"
+  },
+  "leadership": [
+    {
+      "name": "Jonathan Goldberg",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/jonathanrgoldberg",
+      "source": "https://www.businesswire.com/news/home/20261112435343/en/Duet-Raises-%2415M-to-Scale-Nurse-Practitioner-Owned-Clinics-Filling-Critical-Primary-Care-Gap"
+    },
+    {
+      "name": "Alicia Korpi Ortiz",
+      "title": "COO",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/alicia-korpi-ortiz-mph-07a4623a",
+      "source": "https://joinduet.com/about"
+    },
+    {
+      "name": "Charles Donner",
+      "title": "CFO",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://joinduet.com/about"
+    },
+    {
+      "name": "Wendy Wright",
+      "title": "Chief Clinical Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://linkedin.com/company/joinduet"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2026-11",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Kairos",
+      "source": "https://www.businesswire.com/news/home/20261112435343/en/Duet-Raises-%2415M-to-Scale-Nurse-Practitioner-Owned-Clinics-Filling-Critical-Primary-Care-Gap"
+    }
+  ],
+  "total_raised": "$22.5M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Raises $15M Series A led by Kairos with Lerer Hippeau; $22.5M total",
+      "url": "https://www.businesswire.com/news/home/20261112435343/en/Duet-Raises-%2415M-to-Scale-Nurse-Practitioner-Owned-Clinics-Filling-Critical-Primary-Care-Gap"
+    },
+    {
+      "date": "2026-11",
+      "headline": "Plans first NP-led Medicare ACO for 2027",
+      "url": "https://www.fiercehealthcare.com/finance/duet-nabs-15m-series-plans-launch-first-np-led-aco-2027"
+    },
+    {
+      "date": "2026-10",
+      "headline": "CEO and team on SEE YOU NOW podcast on NP-owned primary care",
+      "url": "https://healthpodcastlibrary.com/shows/see-you-now/episodes/episode-136-expanding-access-to-primary-care-nurse-practitioners"
+    }
+  ],
+  "competitors": [
+    "Aledade",
+    "Privia Health",
+    "Pearl Health",
+    "Vytalize Health"
+  ]
+}

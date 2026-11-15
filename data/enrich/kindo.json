@@ -1,0 +1,71 @@
+{
+  "slug": "kindo",
+  "checked": "Nov 14, 2026",
+  "founded": 2022,
+  "hq": "Venice, CA",
+  "headcount_est": {
+    "value": "~55",
+    "as_of": "Nov 2026",
+    "source": "https://content.pitchbook.com/profiles/company/522211-42"
+  },
+  "leadership": [
+    {
+      "name": "Ron Williams",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.finsmes.com/2026/11/kindo-raises-30m-in-funding.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-09",
+      "amount": "$7M",
+      "valuation": null,
+      "lead": "Riot Ventures",
+      "source": "https://gamesbeat.com/kindo-raises-20-6m-to-bring-security-to-enterprise-ai/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-07",
+      "amount": "$20.6M",
+      "valuation": null,
+      "lead": "Drive Capital",
+      "source": "https://siliconangle.com/2024/07/15/kindo-raises-20-6m-secure-enterprise-ai-management/"
+    },
+    {
+      "round": "Series B (unnamed)",
+      "date": "2026-11",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Crosspoint Capital, Forgepoint Capital",
+      "source": "https://www.prnewswire.com/news-releases/kindo-secures-57-6-million-to-expand-enterprise-control-over-ai-agent-actions-and-reduce-costs-302937058.html"
+    }
+  ],
+  "total_raised": "$57.6M",
+  "revenue_est": {
+    "value": "~$6M annual revenue",
+    "as_of": "Sep 2025",
+    "basis": "estimate",
+    "source": "https://getlatka.com/companies/kindo.ai"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Raises $30M co-led by Crosspoint and Forgepoint; claims ~800% revenue growth in 2026",
+      "url": "https://www.prnewswire.com/news-releases/kindo-secures-57-6-million-to-expand-enterprise-control-over-ai-agent-actions-and-reduce-costs-302937058.html"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Rebrands open-source security model WhiteRabbitNeo as Deep Hat; 3x enterprise deployments in Q2",
+      "url": "https://www.prnewswire.com/news-releases/kindoai-announces-record-growth-and-product-momentum-ahead-of-black-hat-usa-2025-302515526.html"
+    }
+  ],
+  "competitors": [
+    "Zenity",
+    "Credo AI",
+    "Noma Security",
+    "Airia"
+  ]
+}
