@@ -16,7 +16,7 @@ export default function CoRun({ run, rank }: { run: ChartRun; rank: number }) {
         <div><dt>Peak</dt><dd>#{peak}</dd></div>
         <div><dt>Weeks in the 100</dt><dd>{wks}</dd></div>
       </dl>
-      <Link href="/chart?tab=chart" className="corun__all">The Chart →</Link>
+      <Link prefetch={false} href="/chart?tab=chart" className="corun__all">The Chart →</Link>
     </div>
   );
 }

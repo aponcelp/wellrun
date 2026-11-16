@@ -33,10 +33,10 @@ export default async function Home() {
             <small>daily</small>
           </p>
           <nav className="navchart" aria-label="Charts and lists">
-            <Link className="navchart__b navchart__b--week" href="/chart?tab=week">This Week</Link>
-            <Link className="navchart__b" href="/chart?tab=chart">The Chart</Link>
-            <Link className="navchart__b" href="/next">Next 25</Link>
-            <Link className="navchart__b" href="/growing">Growing 25</Link>
+            <Link prefetch={false} className="navchart__b navchart__b--week" href="/chart?tab=week">This Week</Link>
+            <Link prefetch={false} className="navchart__b" href="/chart?tab=chart">The Chart</Link>
+            <Link prefetch={false} className="navchart__b" href="/next">Next 25</Link>
+            <Link prefetch={false} className="navchart__b" href="/growing">Growing 25</Link>
           </nav>
           <span className="by">
             by <a href="https://www.linkedin.com/in/alfredoponcedeleon" target="_blank" rel="noopener">Alfredo Ponce de León</a>

@@ -9,7 +9,7 @@ type Item = { c: Company; rank: number };
 function Mini({ c, rank }: Item) {
   return (
     <li>
-      <Link href={`/${c.slug}`} className="kg__item">
+      <Link prefetch={false} href={`/${c.slug}`} className="kg__item">
         <span className="kg__rank">{rank}</span>
         <Logo name={c.name} host={hostOf(c.site)} className="kg__logo" />
         <span className="kg__name">
@@ -50,9 +50,9 @@ export default function KeepGoing({ all, c }: { all: Company[]; c: Company }) {
         )}
       </div>
       <nav className="kg__go">
-        <Link className="navchart__b navchart__b--week" href="/chart?tab=week">This week&apos;s moves</Link>
-        <Link className="navchart__b" href="/chart?tab=chart">The Chart</Link>
-        <Link className="navchart__b" href="/">The full board</Link>
+        <Link prefetch={false} className="navchart__b navchart__b--week" href="/chart?tab=week">This week&apos;s moves</Link>
+        <Link prefetch={false} className="navchart__b" href="/chart?tab=chart">The Chart</Link>
+        <Link prefetch={false} className="navchart__b" href="/">The full board</Link>
       </nav>
     </section>
   );

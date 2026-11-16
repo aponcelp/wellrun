@@ -17,7 +17,7 @@ export default async function RisingList({ r }: { r: Rising }) {
   return (
     <div className="page page--rise">
       <nav className="back">
-        <Link href="/">← Back to the board</Link>
+        <Link prefetch={false} href="/">← Back to the board</Link>
         <span className="back__brand">Well Run</span>
       </nav>
       <header className="wkhead rise__head">
@@ -30,7 +30,7 @@ export default async function RisingList({ r }: { r: Rising }) {
           ))}
         </ul>
         <p className="rise__sib">
-          Also: <Link href={r.sibling.href}>{r.sibling.title}</Link> ({r.sibling.blurb}) →
+          Also: <Link prefetch={false} href={r.sibling.href}>{r.sibling.title}</Link> ({r.sibling.blurb}) →
         </p>
       </header>
       <div className="rise__cols" aria-hidden="true">
@@ -46,7 +46,7 @@ export default async function RisingList({ r }: { r: Rising }) {
             <li key={p.slug} id={p.slug} className={"rise__row" + (p.rank === 1 ? " rise__row--lead" : "")}>
               <span className="rise__rank">{p.rank}</span>
               <div className="rise__who">
-                <Link className="rise__name" href={`/${p.slug}`}>
+                <Link prefetch={false} className="rise__name" href={`/${p.slug}`}>
                   <Logo name={p.name} host={c ? hostOf(c.site) : ""} className="rise__logo" />
                   {p.name}
                 </Link>
@@ -71,8 +71,8 @@ export default async function RisingList({ r }: { r: Rising }) {
         <p>{r.method}</p>
       </section>
       <p className="back back--end">
-        <Link href={r.sibling.href}>{r.sibling.title} →</Link>
-        <Link href="/">← Back to the board</Link>
+        <Link prefetch={false} href={r.sibling.href}>{r.sibling.title} →</Link>
+        <Link prefetch={false} href="/">← Back to the board</Link>
       </p>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
     </div>

@@ -185,7 +185,7 @@ export default function Board({ rows, bb = {}, bbWeek = "" }: { rows: Row[]; bb?
       <h2 className="chartline__title">The Well Run 100</h2>
       <p className="chartline__sub">the top 100 by Pace, re-ranked every Sunday</p>
       {bbWeek && (
-        <Link className="chartline__wk" href="/chart" onClick={() => cap("chart_link_clicked", { spot: "board" })}>
+        <Link prefetch={false} className="chartline__wk" href="/chart" onClick={() => cap("chart_link_clicked", { spot: "board" })}>
           {bbWeek} →
         </Link>
       )}

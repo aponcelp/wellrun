@@ -18,7 +18,7 @@ export function WeekPicker({ week, weeks }: { week: string; weeks: WeekLabel[] }
   return (
     <nav className="wkpick" aria-label="Chart weeks">
       {older ? (
-        <Link className="wkpick__b" href={`/chart/${older.week}`} onClick={() => go(older.week, "prev")}>
+        <Link prefetch={false} className="wkpick__b" href={`/chart/${older.week}`} onClick={() => go(older.week, "prev")}>
           ← <span>Prev week</span>
         </Link>
       ) : (
@@ -41,7 +41,7 @@ export function WeekPicker({ week, weeks }: { week: string; weeks: WeekLabel[] }
         </select>
       </label>
       {newer ? (
-        <Link className="wkpick__b" href={`/chart/${newer.week}`} onClick={() => go(newer.week, "next")}>
+        <Link prefetch={false} className="wkpick__b" href={`/chart/${newer.week}`} onClick={() => go(newer.week, "next")}>
           <span>Next week</span> →
         </Link>
       ) : (

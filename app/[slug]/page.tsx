@@ -74,7 +74,7 @@ export default async function CompanyPage({ params }: Props) {
   return (
     <div className="page page--co">
       <nav className="back">
-        <Link href="/">← Back to the board</Link>
+        <Link prefetch={false} href="/">← Back to the board</Link>
         <span className="back__brand">Well Run</span>
       </nav>
       <header className={"co" + (lead ? " co--lead" : "") + (c.og ? " co--shot" : "")}>
@@ -83,7 +83,7 @@ export default async function CompanyPage({ params }: Props) {
           <span className="co__badge">Well Run profile</span>
           {rank <= 100 ? "The Well Run 100" : "The Chase Pack"} · #{rank} of {(await getCompanies()).length}
           {rising && (
-            <Link className="co__rising" href={rising.href}>
+            <Link prefetch={false} className="co__rising" href={rising.href}>
               #{rising.rank} on {rising.title} →
             </Link>
           )}
@@ -147,7 +147,7 @@ export default async function CompanyPage({ params }: Props) {
       {e?.checked && <p className="d-checked pf-checked">Profile facts checked {e.checked}. Every fact links to its public source.</p>}
       <KeepGoing all={await getCompanies()} c={c} />
       <p className="back back--end">
-        <Link href="/">← Back to the board</Link>
+        <Link prefetch={false} href="/">← Back to the board</Link>
       </p>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
     </div>

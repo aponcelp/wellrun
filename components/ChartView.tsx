@@ -8,7 +8,7 @@ import type { Article, ChartWeek, WeekLabel } from "@/lib/chart";
 
 function Name({ slug, name, live }: { slug: string; name: string; live: Set<string> }) {
   return live.has(slug) ? (
-    <Link className="wk__name" href={`/${slug}`}>
+    <Link prefetch={false} className="wk__name" href={`/${slug}`}>
       {name}
     </Link>
   ) : (
@@ -162,7 +162,7 @@ export default async function ChartView({ w, weeks, article }: { w: ChartWeek; w
   return (
     <div className="page page--wk">
       <nav className="back">
-        <Link href="/">← Back to the board</Link>
+        <Link prefetch={false} href="/">← Back to the board</Link>
         <span className="back__brand">Well Run</span>
       </nav>
       <header className="wkhead">

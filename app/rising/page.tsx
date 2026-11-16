@@ -19,7 +19,7 @@ export default function RisingIndex() {
   return (
     <div className="page page--rise">
       <nav className="back">
-        <Link href="/">← Back to the board</Link>
+        <Link prefetch={false} href="/">← Back to the board</Link>
         <span className="back__brand">Well Run</span>
       </nav>
       <header className="wkhead rise__head">
@@ -31,19 +31,19 @@ export default function RisingIndex() {
         {lists.map(({ k, r }) => (
           <section key={k} className="rise__card">
             <h2 className="rise__h">
-              <Link href={`/${k}`}>{r!.title}</Link>
+              <Link prefetch={false} href={`/${k}`}>{r!.title}</Link>
             </h2>
             <p className="rise__what">{r!.lede}</p>
             <ol className="rise__top">
               {r!.picks.slice(0, 5).map((p) => (
                 <li key={p.slug}>
                   <span className="rise__toprank">{p.rank}</span>
-                  <Link href={`/${k}#${p.slug}`}>{p.name}</Link>
+                  <Link prefetch={false} href={`/${k}#${p.slug}`}>{p.name}</Link>
                   <small>{p.round.split(" · ")[0]}</small>
                 </li>
               ))}
             </ol>
-            <Link className="rise__more" href={`/${k}`}>
+            <Link prefetch={false} className="rise__more" href={`/${k}`}>
               See all 25 →
             </Link>
           </section>
