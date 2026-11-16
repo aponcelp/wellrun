@@ -1,0 +1,20 @@
+{
+  "slug": "general-translation",
+  "checked": "Nov 15, 2026",
+  "founded": 2023,
+  "hq": "San Francisco, CA",
+  "headcount_est": {"value": "~13", "as_of": "Nov 2026", "source": "https://www.linkedin.com/company/generaltranslation"},
+  "leadership": [
+    {"name": "Archie McKenzie", "title": "Founder & CEO", "founder": true, "linkedin": "https://www.linkedin.com/in/archie-mckenzie", "source": "https://generaltranslation.com/en-US/blog/authors/archie"}
+  ],
+  "funding_history": [
+    {"round": "Seed", "date": "2024-11", "amount": "~$2.7M (SEC Form D, amended Apr 2025)", "valuation": null, "lead": "Upfront Ventures", "source": "https://www.sec.gov/Archives/edgar/data/2044762/000204476225000001/xslFormDX01/primary_doc.xml"},
+    {"round": "Series A", "date": "2026-11", "amount": "Undisclosed ($27M across seed + A)", "valuation": null, "lead": "Andreessen Horowitz", "source": "https://generaltranslation.com/en-US/blog/a"}
+  ],
+  "total_raised": "$27M",
+  "revenue_est": null,
+  "news_timeline": [
+    {"date": "2026-11", "headline": "Raises $27M across seed and Series A; a16z (Martin Casado, Jennifer Li) led the A, Upfront (Aditi Maliwal) the seed; Casado and Maliwal join the board", "url": "https://generaltranslation.com/en-US/blog/a"}
+  ],
+  "competitors": ["Phrase", "Lokalise", "Crowdin", "Smartling"]
+}
