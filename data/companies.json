@@ -43623,5 +43623,53 @@
   "hiring_locations": [
    "Chicago"
   ]
+ },
+ {
+  "name": "General Translation",
+  "slug": "general-translation",
+  "site": "https://generaltranslation.com",
+  "careers_url": "https://jobs.ashbyhq.com/generaltranslation",
+  "what_they_do": "Full-stack localization that builds translation into code, docs and content workflows",
+  "problem": "Shipping a product in other languages means months of code refactors, agencies and translations drifting out of sync",
+  "industry": "Developer tools / AI localization",
+  "stage": "Series A",
+  "last_round": "$27M (seed + A combined)",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Andreessen Horowitz (A); Upfront Ventures (seed)",
+  "total_open_roles": "3",
+  "ops_roles": "",
+  "hiring_trend": "LinkedIn ~13 staff, +86% YoY (7 to 13); 3 open Ashby roles, 2 posted Nov 9",
+  "headcount": "~13",
+  "latest_news": "Raised $27M across seed and Series A; a16z (Martin Casado) led the A",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://generaltranslation.com/en-US/blog/a",
+  "traction": "Customers include Cursor, Ramp, Cognition, ClickHouse, Sierra; largest ship in 60+ languages; revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 15, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Marquee AI-native customers and an a16z-led A, but ~13 staff, revenue undisclosed, and incumbents (Phrase, Lokalise, Crowdin, Smartling) are shipping the same GitHub-native automation.",
+  "distance_sources": [
+   {
+    "label": "a16z: Investing in General Translation (Nov 2026)",
+    "url": "https://a16z.com/announcement/investing-in-general-translation/"
+   },
+   {
+    "label": "Slator: General Translation gets $27M; Phrase launches similar Zero-Touch Localization (Nov 2026)",
+    "url": "https://slator.com/general-translation-raises-27-million/"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
  }
 ]

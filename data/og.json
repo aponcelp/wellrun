@@ -1649,6 +1649,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "general-translation": {
+  "url": "https://generaltranslation.com/api/og-home",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-16"
+ },
  "generalist": {
   "url": "https://generalistai.com/assets/images/generalist-og-image.jpg",
   "kind": "og",
