@@ -279,42 +279,54 @@
   "facts": [
    {
     "k": "Does",
-    "v": "AI concierges that take action to solve customer issues end to end across chat, email and voice, within each company's guardrails, instead of pointing people to FAQ steps."
+    "v": "AI concierges that resolve complex support cases end to end across chat, email, voice and SMS, inside each company's guardrails. Customers pay per resolved ticket; escalations to a person aren't charged."
    },
    {
     "k": "Money",
-    "v": "$35M Series A in Aug 2025, led by QED Investors with Blackbird, Square Peg and Airtree."
+    "v": "Over $50M raised, per the company, including a $35M Series A in Aug 2025 led by QED Investors with Blackbird, Square Peg and Airtree."
    },
    {
     "k": "Customers",
-    "v": "Fintech, health and insurance scale-ups in the US, Europe and Australia, including Airwallex, Linktree, Flex and Eucalyptus."
+    "v": "Fintech, health and insurance companies in the US, Europe and Australia, including Airwallex, PayJoy, Flex and Eucalyptus."
    },
    {
     "k": "Traction",
-    "v": "Revenue up 10x from its Oct 2024 launch to Aug 2025. Its CRO cites triple-digit ARR growth and its three largest customers renewing early at seven figures. Launched B2A in Sep 2026 so businesses can serve customers' personal AI agents."
+    "v": "Its CRO says ARR doubled in four months, with record quarters back to back in Q2 and Q3 2026. Its CEO says it grew through 2026 with virtually no new headcount."
+   },
+   {
+    "k": "New",
+    "v": "Coach (Jan 2026), B2A for customers' AI agents (Sep 2026), and Dreamweaver (Nov 4, 2026), an AI account manager for each customer, already serving 20,000+ people. At PayJoy, 30% more new customers used their credit line within 14 days."
    },
    {
     "k": "Risk",
-    "v": "A crowded category where Sierra, Decagon and Intercom Fin are bigger. Early GTM leaders, including its first US hire and its GTM ops lead, left in mid-2026."
+    "v": "A crowded category where Sierra, Decagon and Intercom Fin are bigger, and its newest products are only weeks old."
    },
    {
     "k": "Board",
     "v": "Steady, 3.25"
    }
   ],
-  "why": "Most AI support tools are judged on deflection: how many tickets they keep away from a person. Lorikeet is judged on resolution, and in fintech, health and insurance that is the number that matters, because a frozen account or a denied claim has to be answered right the first time. What I like is that its concierges actually take the action, like replacing a lost card, inside permissions the company sets, which is how an ops team would want any agent to work. The proof is customers paying more over time: its three largest renewed early, at seven figures. It is a crowded space and the board has it at Steady, but this is the approach I would bet on.",
+  "why": "Most AI support tools are judged on deflection. Lorikeet is judged on resolution, and it prices that way: customers pay per resolved ticket, and handing a case to a person costs nothing. In fintech, health and insurance that is the right incentive, because a frozen account or a denied claim has to be answered right the first time. What stands out this fall is the pace. ARR doubled in four months on a team that barely grew, while it shipped a way to serve customers' AI agents and then Dreamweaver, which turns support into an account manager for every customer. It is a crowded space and the board has it at Steady, but this is the approach I would bet on.",
   "sources": [
    {
     "label": "Series A announcement",
     "url": "https://www.prnewswire.com/news-releases/lorikeet-raises-35-million-usd-series-a-to-deliver-ai-powered-universal-customer-concierges-able-to-solve-real-challenges-not-just-chatbots-302522821.html"
    },
    {
-    "label": "Jerry Brooner joins as CRO",
-    "url": "https://www.prnewswire.com/news-releases/lorikeet-names-jerry-brooner-chief-revenue-officer-to-scale-its-ai-concierge-platform-across-fintech-healthcare-and-insurance-302832696.html"
+    "label": "Dreamweaver launch",
+    "url": "https://www.prnewswire.com/news-releases/lorikeet-dreamweaver-enables-businesses-to-give-every-customer-an-ai-account-manager-302928831.html"
    },
    {
-    "label": "Jerry Brooner on his first quarter (LinkedIn)",
-    "url": "https://www.linkedin.com/posts/jerrybrooner_just-wrapped-my-first-quarter-at-lorikeet-activity-7491142787686600704-mWr4"
+    "label": "Introducing Dreamweaver (PayJoy results)",
+    "url": "https://www.lorikeetcx.ai/blog/introducing-lorikeet-dreamweaver"
+   },
+   {
+    "label": "Jerry Brooner on Q3 (LinkedIn)",
+    "url": "https://www.linkedin.com/posts/jerrybrooner_back-to-back-biggest-quarters-in-lorikeet-activity-7523882300296790016-LQko"
+   },
+   {
+    "label": "Steve Hind on AI Native Speakers",
+    "url": "https://www.youtube.com/watch?v=D3xJveRUrj0"
    },
    {
     "label": "Launching B2A",
