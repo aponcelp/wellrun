@@ -43868,5 +43868,51 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "loopworks",
+  "slug": "loopworks",
+  "site": "https://getloopworks.com",
+  "careers_url": "https://ats.rippling.com/loopworks/jobs",
+  "what_they_do": "AI personal operating system that spots changes across work and life and drafts next steps",
+  "problem": "People juggling a job, team, board and family carry scattered context in their heads and miss what changed",
+  "industry": "AI personal assistant / productivity",
+  "stage": "Seed",
+  "last_round": "$5.5M",
+  "last_round_date": "Oct 2026",
+  "lead_investors": "Undisclosed (Form D: 3 investors); site names TomorrowVentures, McGeehan & Co., Ultra Alpha Investments as strategic capital",
+  "total_open_roles": "10",
+  "ops_roles": "Product Operations Manager; Product Support & Onboarding Specialist; People & Talent Operations Lead; Manager, Platform Strategy & Integrations",
+  "hiring_trend": "Open roles 7 → 10 since Oct 23 (all Miami Beach hybrid); LinkedIn lists ~4-7 staff, est.",
+  "headcount": "~4-7 (LinkedIn, est.)",
+  "latest_news": "Form D: $5.5M first raise from 3 investors (first sale Oct 15; amended Nov 9)",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.sec.gov/Archives/edgar/data/2162922/000216292226000002/primary_doc.xml",
+  "traction": "Pre-launch: product in development, invitation-only; 0 disclosed users, customers or revenue",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes (note: pre-launch and invitation-only; product shown as 'in development'; Miami Beach, 4 office days/week)",
+  "is_new": true,
+  "last_checked": "Nov 17, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Pre-launch with a ~4-7 person team and no users disclosed; it enters a crowded proactive-assistant field where OpenAI, Google and Microsoft sell similar assistants directly to the same people.",
+  "distance_sources": [
+   {
+    "label": "loopworks: product shown as 'illustrative experience, in development', request an invitation (Nov 2026)",
+    "url": "https://getloopworks.com/"
+   },
+   {
+    "label": "SEC Form D/A: $5.5M sold, 3 investors, first sale Oct 15, 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/2162922/000216292226000002/primary_doc.xml"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

@@ -1,0 +1,84 @@
+{
+  "slug": "loopworks",
+  "checked": "Nov 17, 2026",
+  "founded": 2025,
+  "hq": "Miami Beach, FL (Form D business address: Delray Beach, FL; Wyoming LLC)",
+  "headcount_est": {
+    "value": "~4-7",
+    "as_of": "Nov 2026",
+    "source": "https://linkedin.com/company/get-loop-works"
+  },
+  "leadership": [
+    {
+      "name": "Colan McGeehan",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/colanmcgeehan",
+      "source": "https://www.sec.gov/Archives/edgar/data/2162922/000216292226000002/primary_doc.xml"
+    },
+    {
+      "name": "John Christopher",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/johnpchristopher",
+      "source": "https://linkedin.com/in/johnpchristopher"
+    },
+    {
+      "name": "Cristy Lee McGeehan",
+      "title": "Co-founder & Chief Brand Officer",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/cristy-lee",
+      "source": "https://linkedin.com/in/cristy-lee"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-10",
+      "amount": "$5.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/2162922/000216292226000002/primary_doc.xml"
+    }
+  ],
+  "total_raised": "$5.5M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Amended Form D confirms $5.5M sold to 3 investors (first sale Oct 15)",
+      "url": "https://www.sec.gov/Archives/edgar/data/2162922/000216292226000002/primary_doc.xml"
+    },
+    {
+      "date": "2026-11",
+      "headline": "Careers page grows to 10 open roles, all hybrid in Miami Beach",
+      "url": "https://getloopworks.com/join"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Files first SEC Form D for a $5.5M raise",
+      "url": "https://www.sec.gov/Archives/edgar/data/2162922/000216292226000001/0002162922-26-000001-index.htm"
+    },
+    {
+      "date": "2026-10",
+      "headline": "CEO posts seven open roles to build the Miami Beach team",
+      "url": "https://www.linkedin.com/posts/colanmcgeehan_the-next-era-of-ai-should-be-organized-around-activity-7519473627692597248-D-Np"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Files LOOPWORKS trademark with USPTO (serial 50110010)",
+      "url": "https://www.trademarkia.com/loopworks-50110010"
+    },
+    {
+      "date": "2025-07",
+      "headline": "Founded by Colan McGeehan, John Christopher and Cristy Lee McGeehan",
+      "url": "https://linkedin.com/in/cristy-lee"
+    }
+  ],
+  "competitors": [
+    "hark",
+    "lindy",
+    "Motion",
+    "Reclaim.ai"
+  ]
+}
