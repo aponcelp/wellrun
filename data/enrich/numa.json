@@ -1,0 +1,142 @@
+{
+  "slug": "numa",
+  "checked": "Nov 16, 2026",
+  "founded": 2017,
+  "hq": "Oakland, CA (offices in Kansas City and Montreal)",
+  "headcount_est": {
+    "value": "~160 (Fortune); 173 on LinkedIn",
+    "as_of": "Nov 2026",
+    "source": "https://fortune.com/2026/11/16/ai-startup-numa-45-million-car-dealerships-paperwork/"
+  },
+  "leadership": [
+    {
+      "name": "Tasso Roumeliotis",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.numa.com/about"
+    },
+    {
+      "name": "Joel Grossman",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fortune.com/2026/11/16/ai-startup-numa-45-million-car-dealerships-paperwork/"
+    },
+    {
+      "name": "Andy Ruff",
+      "title": "Co-founder & CPO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fortune.com/2026/11/16/ai-startup-numa-45-million-car-dealerships-paperwork/"
+    },
+    {
+      "name": "Steven Ginn",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://fortune.com/2026/11/16/ai-startup-numa-45-million-car-dealerships-paperwork/"
+    },
+    {
+      "name": "Derek Simonds",
+      "title": "EVP Automotive",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.numa.com/about"
+    },
+    {
+      "name": "Jenny Draxl",
+      "title": "VP of People",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.numa.com/about"
+    },
+    {
+      "name": "Monty Wanless",
+      "title": "VP of Sales",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.numa.com/about"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2017-10",
+      "amount": "$1.6M",
+      "valuation": null,
+      "lead": "DFJ",
+      "source": "https://techcrunch.com/2017/10/11/numberai-raises-1-6m-to-make-business-landline-numbers-smarter/"
+    },
+    {
+      "round": "Series A",
+      "date": "2019-01",
+      "amount": "$10.5M",
+      "valuation": null,
+      "lead": "Costanoa Ventures",
+      "source": "https://venturebeat.com/business/numberai-raises-10-5-million-to-add-texting-intelligence-to-business-landlines"
+    },
+    {
+      "round": "Series B",
+      "date": "2024-10",
+      "amount": "$32M",
+      "valuation": null,
+      "lead": "Touring Capital, Mitsui & Co.",
+      "source": "https://siliconangle.com/2024/10/01/numa-raises-32m-develop-ai-tools-car-dealerships/"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-11",
+      "amount": "$45M",
+      "valuation": "$500M post-money (reported, source familiar)",
+      "lead": "Blue Cloud Ventures",
+      "source": "https://fortune.com/2026/11/16/ai-startup-numa-45-million-car-dealerships-paperwork/"
+    }
+  ],
+  "total_raised": "$96M",
+  "revenue_est": {
+    "value": "ARR tripled in 2026 (amount undisclosed); 793% 3-year revenue growth per Inc. 5000",
+    "as_of": "Nov 2026",
+    "basis": "company-stated",
+    "source": "https://www.prnewswire.com/news-releases/numa-triples-arr-raises-45m-series-c-to-run-the-entire-dealership-302940271.html"
+  },
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "$45M Series C led by Blue Cloud Ventures; total $96M; ARR tripled; 1,500+ dealerships",
+      "url": "https://www.prnewswire.com/news-releases/numa-triples-arr-raises-45m-series-c-to-run-the-entire-dealership-302940271.html"
+    },
+    {
+      "date": "2026-11",
+      "headline": "Launches Numa for Sales, an inventory-aware AI sales agent",
+      "url": "https://www.prnewswire.com/news-releases/numa-triples-arr-raises-45m-series-c-to-run-the-entire-dealership-302940271.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Launches Operator, AI receptionist with precision call routing",
+      "url": "https://www.prnewswire.com/news-releases/numa-launches-operator-an-ai-receptionist-with-the-first-precision-routing-system-that-puts-every-caller-in-the-right-hands-302885839.html"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Acquires SocketTime to extend into fixed-ops and shop workflows",
+      "url": "https://www.prnewswire.com/news-releases/numa-acquires-sockettime-to-deepen-its-ai-operating-system-in-dealership-fixed-operations-and-shop-302860244.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Sues rival Flai for patent infringement (also suing Dream Lab AI/Pam)",
+      "url": "https://www.courtlistener.com/docket/73654724/1/numberai-inc-v-flai-technologies-inc"
+    },
+    {
+      "date": "2026-04",
+      "headline": "Revenue up 200%, 1,300+ dealerships; acquires Ficus to expand into sales",
+      "url": "https://www.prnewswire.com/news-releases/numa-triples-revenue-surpasses-1-300-dealerships-and-acquires-ficus-to-expand-into-ai-powered-dealership-sales-302737809.html"
+    }
+  ],
+  "competitors": [
+    "Impel",
+    "Podium",
+    "Toma",
+    "flai",
+    "CDK Global"
+  ]
+}

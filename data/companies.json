@@ -43671,5 +43671,105 @@
   "hiring_locations": [
    "San Francisco"
   ]
+ },
+ {
+  "name": "Numa",
+  "slug": "numa",
+  "site": "https://numa.com",
+  "careers_url": "https://job-boards.greenhouse.io/numa",
+  "what_they_do": "AI agents that answer dealership calls and texts, book service and route customers",
+  "problem": "Dealerships miss calls, leave customers waiting on repair updates and lose service and sales revenue to slow follow-up",
+  "industry": "Automotive retail software / dealership AI",
+  "stage": "Series C",
+  "last_round": "$45M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Blue Cloud Ventures",
+  "total_open_roles": "7",
+  "ops_roles": "Field Implementation Manager; Performance Architect (post-launch CS)",
+  "hiring_trend": "Headcount ~70 (Oct 2024) to ~160-173 (Nov 2026, Fortune/LinkedIn); company says tripled in size this year; 7 open roles",
+  "headcount": "~160-173",
+  "latest_news": "$45M Series C led by Blue Cloud Ventures at a reported $500M valuation",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://fortune.com/2026/11/16/ai-startup-numa-45-million-car-dealerships-paperwork/",
+  "traction": "ARR tripled in 2026; 1,500+ dealerships (600 in Oct 2024); Inc. 5000 793% 3-yr growth",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.0",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.5",
+  "glassdoor_reviews": "10",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Numa-Reviews-E1959007.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 16, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A leading AI vendor for dealership customer operations: 1,500+ stores, DMS integrations covering ~90% of the market, and GM iMR, FordDirect and Stellantis approvals make it sticky; still competes with Impel, Podium, Toma and DMS incumbents like CDK that could bundle similar agents.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Numa triples ARR, raises $45M Series C (Nov 2026)",
+    "url": "https://www.prnewswire.com/news-releases/numa-triples-arr-raises-45m-series-c-to-run-the-entire-dealership-302940271.html"
+   },
+   {
+    "label": "Fortune: Numa raises $45M at reported $500M valuation (Nov 2026)",
+    "url": "https://fortune.com/2026/11/16/ai-startup-numa-45-million-car-dealerships-paperwork/"
+   },
+   {
+    "label": "Numa: AI agent platform launch, DMS integrations cover 90% of market (Jan 2025)",
+    "url": "https://numa.com/news/numa-unveils-the-first-ai-agent-platform-for-auto-dealerships"
+   }
+  ],
+  "hiring_locations": [
+   "Kansas City",
+   "Montréal",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Dreamteam",
+  "slug": "dreamteam",
+  "site": "https://www.dreamteam.ai",
+  "careers_url": "https://careers.kula.ai/dreamteam",
+  "what_they_do": "AI-native CRM that self-updates from sales conversations, with four AI teammates",
+  "problem": "Sales teams waste hours feeding a CRM nobody trusts, so pipeline and forecasts stay incomplete and stale",
+  "industry": "CRM / AI sales software",
+  "stage": "Series A",
+  "last_round": "$53M (seed + Series A combined)",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Together Fund (seed), Accel (Series A)",
+  "total_open_roles": "8",
+  "ops_roles": "Forward Deployed Engineer (Remote US, SF)",
+  "hiring_trend": "New company: ~35+ staff (company), 8 open roles (3 US remote, 5 Chennai) after launch round",
+  "headcount": "~35+",
+  "latest_news": "Out of stealth with $53M seed + Series A led by Together Fund and Accel",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+  "traction": "100+ customers in 13 countries in 3 months of selling, most paying; revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 16, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Founded 2025 and selling for only three months; early wins replacing Salesforce and HubSpot at small B2B teams, but it faces entrenched incumbents and a crowded field of AI-native CRMs (Attio, Day.ai, Lightfield).",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Freshworks alums raise $53M for AI-native CRM (Nov 2026)",
+    "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
+   },
+   {
+    "label": "Business Standard: Dreamteam emerges from stealth with $53M (Nov 2026)",
+    "url": "https://www.business-standard.com/companies/start-ups/dreamteam-emerges-from-stealth-with-53-million-to-build-ai-native-crm-126111601767_1.html"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

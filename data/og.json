@@ -1175,6 +1175,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-26"
  },
+ "dreamteam": {
+  "url": "https://cdn.prod.website-files.com/6ae71fd0be66c6cfefaf4a84/6afb3374cdb21d77e76c70fc_dreamteam-og-image-v2.webp",
+  "kind": "og",
+  "type": "image/webp",
+  "checked": "2026-11-17"
+ },
  "dualentry": {
   "url": "https://cdn.prod.website-files.com/66bf861737ab5a556a15c52b/6a67632aeae0d92b9bcde40e_dualentry-og-default-1200x630.jpg",
   "kind": "og",
@@ -2668,6 +2674,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-10-19"
+ },
+ "numa": {
+  "url": "https://framerusercontent.com/images/a7Vu3IYlYsnzLBStTg6iDYMRUNg.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-17"
  },
  "numeral": {
   "url": "https://cdn.prod.website-files.com/6a219d3ca4f9ef92939b285c/6a73a8ebd77e023c4e326b2b_Globe.png",
