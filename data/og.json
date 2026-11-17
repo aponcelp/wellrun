@@ -743,6 +743,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "cleanview": {
+  "url": "https://cleanview.co/images/website/share-image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-17"
+ },
  "clerk": {
   "url": "https://clerk.com/opengraph-image.jpg?opengraph-image.17r31whircaqh.jpg",
   "kind": "og",
@@ -3292,6 +3298,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-10-19"
+ },
+ "remanence": {
+  "url": "https://www.remanencelabs.ai/opengraph.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-17"
  },
  "remote": {
   "url": "https://eu-images.contentstack.com/v3/assets/bltbf56d62bc360c2d8/blt88bbfd6639aab5d6/6ace19c7fd2cb7dc41e2788c/remote-share-image-logo-lockup.webp?branch=production",

@@ -1,0 +1,70 @@
+{
+  "slug": "remanence",
+  "checked": "Nov 17, 2026",
+  "founded": 2026,
+  "hq": "Paris, France (231 rue Saint-Honoré; early presence planned in London and San Francisco)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Pierre-Louis Cedoz",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://fr.linkedin.com/in/pierre-louis-cedoz-3b317ba7",
+      "source": "https://techfundingnews.com/ex-h-company-researchers-remanence-raises-30m-to-turn-ai-agent-data-into-models-companies-own/"
+    },
+    {
+      "name": "Hamza Benchekroun",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": "https://fr.linkedin.com/in/hamzabenchekroun",
+      "source": "https://techfundingnews.com/ex-h-company-researchers-remanence-raises-30m-to-turn-ai-agent-data-into-models-companies-own/"
+    },
+    {
+      "name": "Axel Moyal",
+      "title": "Co-founder",
+      "founder": true,
+      "linkedin": "https://fr.linkedin.com/in/axel-moyal-aba50b147",
+      "source": "https://techfundingnews.com/ex-h-company-researchers-remanence-raises-30m-to-turn-ai-agent-data-into-models-companies-own/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-11",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "EQT Ventures, FirstMark",
+      "source": "https://techfundingnews.com/ex-h-company-researchers-remanence-raises-30m-to-turn-ai-agent-data-into-models-companies-own/"
+    }
+  ],
+  "total_raised": "$30M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Emerges from stealth with $30M seed co-led by EQT Ventures and FirstMark",
+      "url": "https://techfundingnews.com/ex-h-company-researchers-remanence-raises-30m-to-turn-ai-agent-data-into-models-companies-own/"
+    },
+    {
+      "date": "2026-11",
+      "headline": "Angels include Datadog CEO Olivier Pomel and Synthesia co-founders",
+      "url": "https://tech.eu/2026/11/17/synthesia-and-datadog-ceos-back-french-ai-startup-remanence"
+    },
+    {
+      "date": "2026-11",
+      "headline": "Plans GPU cluster, Paris hiring, and early London and San Francisco presence",
+      "url": "https://techfundingnews.com/ex-h-company-researchers-remanence-raises-30m-to-turn-ai-agent-data-into-models-companies-own/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Remanence SAS incorporated in Paris",
+      "url": "https://entreprises.lefigaro.fr/remanence-75/entreprise-130681620"
+    }
+  ],
+  "competitors": [
+    "applied-compute",
+    "river-ai",
+    "mercor",
+    "Bespoke Labs"
+  ]
+}

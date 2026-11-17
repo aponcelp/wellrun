@@ -1,0 +1,56 @@
+{
+  "slug": "cleanview",
+  "checked": "Nov 17, 2026",
+  "founded": 2024,
+  "hq": "Boulder, CO",
+  "headcount_est": {
+    "value": "7",
+    "as_of": "Nov 2026",
+    "source": "https://cleanview.co/careers/chief-of-staff"
+  },
+  "leadership": [
+    {
+      "name": "Michael Thomas",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/michael-thomas-4b01054a",
+      "source": "https://cleanview.co/about"
+    }
+  ],
+  "funding_history": [],
+  "total_raised": "$0 (bootstrapped)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Analysis: governors backing data center pauses cover 41% of planned US capacity",
+      "url": "https://newsletter.cleanview.co/p/newly-elected-governors-could-pause"
+    },
+    {
+      "date": "2026-11",
+      "headline": "Hiring first Chief of Staff and Founding AE; says company grew 15x in a year",
+      "url": "https://cleanview.co/careers"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Biggest data center tracker update; broke Amazon 7.65 GW West Texas gas plant story",
+      "url": "https://newsletter.cleanview.co/p/announcing-cleanviews-biggest-update"
+    },
+    {
+      "date": "2026-07",
+      "headline": "CEO: company grew 5x in H1 2026; Senate used its BTM report to open a probe",
+      "url": "https://www.linkedin.com/posts/michael-thomas-4b01054a_a-huge-thank-you-to-everyone-who-helped-spread-activity-7483581915002793984-gBYM"
+    },
+    {
+      "date": "2025-12",
+      "headline": "Launched free Project Explorer for solar, wind, battery and data center projects",
+      "url": "https://newsletter.cleanview.co/p/introducing-cleanviews-new-project"
+    }
+  ],
+  "competitors": [
+    "Sightline Climate",
+    "Enverus",
+    "S&P Global Commodity Insights",
+    "Wood Mackenzie"
+  ]
+}

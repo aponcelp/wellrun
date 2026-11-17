@@ -43771,5 +43771,102 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Remanence",
+  "slug": "remanence",
+  "site": "https://www.remanencelabs.ai",
+  "careers_url": "https://jobs.ashbyhq.com/remanence",
+  "what_they_do": "Turns companies' AI-agent traces into RL-trained open-weight models they own",
+  "problem": "Companies pay rising bills to rent frontier models for agents, and the execution data their agents generate goes unused",
+  "industry": "Enterprise AI / model post-training (reinforcement learning)",
+  "stage": "Seed",
+  "last_round": "$30M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "EQT Ventures, FirstMark",
+  "total_open_roles": "7",
+  "ops_roles": "",
+  "hiring_trend": "New company (incorporated Sep 2026): 7 open roles, all Paris/London hybrid (incl. 2 interns); only Founding GTM Lead lists SF",
+  "headcount": "n.a. (early team, undisclosed)",
+  "latest_news": "Out of stealth with $30M seed co-led by EQT Ventures and FirstMark",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://techfundingnews.com/ex-h-company-researchers-remanence-raises-30m-to-turn-ai-agent-data-into-models-companies-own/",
+  "traction": "Design partners in legal, support and enterprise software (EU/US); no named customers or revenue",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes (note: Paris HQ, not US; RL post-training infra, deeper engineering than his usual taste; no US ops roles yet)",
+  "is_new": true,
+  "last_checked": "Nov 17, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Incorporated Sep 2026 and just out of stealth with design partners only; strong ex-H Company post-training pedigree, but it enters a crowded field (Applied Compute, River AI, Bespoke Labs, Mercor) where labs and inference platforms also sell fine-tuning.",
+  "distance_sources": [
+   {
+    "label": "TFN: Remanence raises $30M seed; competitors Bespoke Labs, Mercor, River AI (Nov 2026)",
+    "url": "https://techfundingnews.com/ex-h-company-researchers-remanence-raises-30m-to-turn-ai-agent-data-into-models-companies-own/"
+   },
+   {
+    "label": "Ventureburn: no named customers or pilots yet (Nov 2026)",
+    "url": "https://ventureburn.com/remanence-raises-30-million-companies-train-own-ai-models/"
+   }
+  ],
+  "hiring_locations": [
+   "Paris",
+   "London",
+   "San Francisco",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Cleanview",
+  "slug": "cleanview",
+  "site": "https://cleanview.co",
+  "careers_url": "https://cleanview.co/careers",
+  "what_they_do": "Tracks every US data center and power project from first permit to completion",
+  "problem": "Developers, investors and BD teams can't see which data centers and power plants are really being built, by whom",
+  "industry": "Energy & data center market intelligence",
+  "stage": "Bootstrapped (no outside funding)",
+  "last_round": "none (bootstrapped, profitable)",
+  "last_round_date": "",
+  "lead_investors": "",
+  "total_open_roles": "2",
+  "ops_roles": "Chief of Staff",
+  "hiring_trend": "Team of 7 (Nov 2026), up from ~4-5 in 2025; CEO plans ~25 within a year; 2 open roles",
+  "headcount": "~7",
+  "latest_news": "Election analysis: governors backing data center pauses cover 41% of planned US pipeline",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://newsletter.cleanview.co/p/newly-elected-governors-could-pause",
+  "traction": "CEO says company grew 15x in a year (5x in H1 2026); profitable; revenue undisclosed",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "1.25",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 17, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "A 7-person bootstrapped data shop whose permit-and-satellite research is widely cited (NYT, Reuters, Senate briefings), but it is too early to judge staying power against funded rivals like Sightline Climate and incumbents such as Enverus and S&P.",
+  "distance_sources": [
+   {
+    "label": "Cleanview careers: Chief of Staff (grew 15x, 7 to ~25 people, Nov 2026)",
+    "url": "https://cleanview.co/careers/chief-of-staff"
+   },
+   {
+    "label": "Cleanview: About (small bootstrapped team in Colorado)",
+    "url": "https://cleanview.co/about"
+   }
+  ],
+  "hiring_locations": []
  }
 ]
