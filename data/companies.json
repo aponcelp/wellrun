@@ -43914,5 +43914,51 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Marble",
+  "slug": "marble-restaurants",
+  "site": "https://joinmarble.ai",
+  "careers_url": "https://www.ycombinator.com/companies/joinmarble/jobs",
+  "what_they_do": "AI operating system for restaurant inventory, purchasing, prep and labor scheduling",
+  "problem": "Restaurant back-of-house runs on clipboards, spreadsheets and disconnected tools, causing food waste, stockouts and labor overage",
+  "industry": "Restaurant tech / back-of-house operations AI",
+  "stage": "Seed",
+  "last_round": "$5.5M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Contrary",
+  "total_open_roles": "2",
+  "ops_roles": "Founding Operations Lead",
+  "hiring_trend": "Early: team 3 (YC) to ~5 on LinkedIn; 2 open roles after seed",
+  "headcount": "~5",
+  "latest_news": "Raised $5.5M seed led by Contrary with YC, Robinhood Ventures, Restive",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.restaurantbusinessonline.com/technology/marble-raises-55m-back-house-ai-app",
+  "traction": "~5 months old; on track for $1M contracted revenue; several active customers (company claims)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "2.75",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 18, 2026",
+  "engine": "Lock-in",
+  "distance": "Unproven",
+  "distance_why": "Five months old with a handful of customers and self-reported savings; aims to become the back-of-house system of record, but MarginEdge (13,000+ restaurants, $80M raise) and other incumbents are far ahead.",
+  "distance_sources": [
+   {
+    "label": "Dealroom: Restaurant AI startup Marble raises $5.5M seed (Nov 2026)",
+    "url": "https://dealroom.co/news/173475-restaurant-ai-startup-marble-raises-5-5m-seed-round/"
+   },
+   {
+    "label": "Restaurant Business: Marble raises $5.5M for back-of-house AI app (Nov 2026)",
+    "url": "https://www.restaurantbusinessonline.com/technology/marble-raises-55m-back-house-ai-app"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

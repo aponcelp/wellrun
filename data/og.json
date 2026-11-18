@@ -2321,6 +2321,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "marble-restaurants": {
+  "url": "https://joinmarble.ai/og-image-marble-full-v5.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-18"
+ },
  "marpipe": {
   "url": "https://cdn.prod.website-files.com/69301a51e43dea6635d90db8/69a57cdc30be07d1c353fd5b_og.jpg",
   "kind": "og",

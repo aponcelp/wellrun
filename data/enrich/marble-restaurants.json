@@ -1,0 +1,50 @@
+{
+  "slug": "marble-restaurants",
+  "checked": "Nov 18, 2026",
+  "depth": "light",
+  "founded": 2026,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~5",
+    "as_of": "Nov 2026",
+    "source": "https://www.linkedin.com/company/joinmarble"
+  },
+  "leadership": [
+    {
+      "name": "Aakar Khanna",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/joinmarble"
+    },
+    {
+      "name": "Arjun Chaliha",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/joinmarble"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed (Y Combinator S26)",
+      "date": "2026-09",
+      "amount": null,
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://joinmarble.ai/blogs/pre-seed-announcement"
+    },
+    {
+      "round": "Seed",
+      "date": "2026-11",
+      "amount": "$5.5M",
+      "valuation": null,
+      "lead": "Contrary",
+      "source": "https://contrary.com/blog/investing-in-marble"
+    }
+  ],
+  "total_raised": "$6M (reported, incl. YC pre-seed)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}
