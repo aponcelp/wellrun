@@ -43960,5 +43960,55 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Arva AI",
+  "slug": "arva-ai",
+  "site": "https://arva.ai",
+  "careers_url": "https://arva.ai/careers",
+  "what_they_do": "AI agents and proprietary models that automate AML, KYC/KYB and lending reviews for banks",
+  "problem": "Banks review sanctions alerts, onboarding and AML cases by hand, so queues grow and compliance costs balloon",
+  "industry": "RegTech / financial crime compliance AI",
+  "stage": "Series A",
+  "last_round": "$20M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Arthur Ventures",
+  "total_open_roles": "8",
+  "ops_roles": "Head of Customer Success; Forward Deployed Engineer",
+  "hiring_trend": "Headcount ~12 → ~20 YoY (+67%, Revelio Jun 2026); postings 3 → 9 in 2026",
+  "headcount": "~20",
+  "latest_news": "Raised $20M Series A led by Arthur Ventures, with YC and Gradient",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://arva.ai/blog/arva-ai-raises-20m-series-a",
+  "traction": "Seven-figure ARR, 32x ARR growth in 2025, zero churn (company claims); top-10 US bank, Wise",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "5.0",
+  "glassdoor_reviews": "5",
+  "glassdoor_url": "https://www.glassdoor.co.uk/Reviews/-Arva-AI-Reviews-E11139220.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 18, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Real production wins (a top-10 US bank, Wise, Fiserv partnership) and claimed zero churn, but it trails better-funded AML-agent rivals like Bretton AI ($75M Series B) in a crowded field.",
+  "distance_sources": [
+   {
+    "label": "Arva AI: $20M Series A announcement (Nov 2026)",
+    "url": "https://arva.ai/blog/arva-ai-raises-20m-series-a"
+   },
+   {
+    "label": "Arva AI: Closing out 2025 (32x ARR growth, zero churn, Dec 2025)",
+    "url": "https://arva.ai/blog/closing-out-2025-at-arva-ai"
+   },
+   {
+    "label": "Business Wire: Bretton AI (formerly Greenlite) raises $75M Series B (Feb 2026)",
+    "url": "https://www.businesswire.com/news/home/20260209387593/en/Bretton-AI-Raises-%2475M-Series-B-Rebrands-from-Greenlite-AI-to-Build-the-AI-Standard-for-Financial-Crime"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

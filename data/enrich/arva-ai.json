@@ -1,0 +1,58 @@
+{
+  "slug": "arva-ai",
+  "checked": "Nov 18, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "New York, NY",
+  "headcount_est": {
+    "value": "~20",
+    "as_of": "Jun 2026",
+    "source": "https://www.reveliolabs.com/companies/arva-ai/employees"
+  },
+  "leadership": [
+    {
+      "name": "Rhim Shah",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/arva-ai"
+    },
+    {
+      "name": "Oli Wales",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.ycombinator.com/companies/arva-ai"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed (Y Combinator S24)",
+      "date": "2024-07",
+      "amount": "$125K",
+      "valuation": null,
+      "lead": "Y Combinator",
+      "source": "https://app.dealroom.co/companies/arva_ai_yc_s24_"
+    },
+    {
+      "round": "Seed",
+      "date": "2025-01",
+      "amount": "$3M",
+      "valuation": null,
+      "lead": "Gradient Ventures",
+      "source": "https://fstech.co.uk/fst/Google_ai_fund_leads_3m_funding_round_in_arva_ai.php"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-11",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "Arthur Ventures",
+      "source": "https://arva.ai/blog/arva-ai-raises-20m-series-a"
+    }
+  ],
+  "total_raised": "~$23M (reported, incl. YC pre-seed and $3M seed)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}
