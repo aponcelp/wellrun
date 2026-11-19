@@ -1,0 +1,79 @@
+{
+  "slug": "change-org",
+  "checked": "Nov 19, 2026",
+  "depth": "light",
+  "founded": 2007,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~303 (Revelio, Jun 2026) / ~383 (LinkedIn)",
+    "as_of": "Jun-Jul 2026",
+    "source": "https://www.reveliolabs.com/companies/change-org/employees"
+  },
+  "leadership": [
+    {
+      "name": "Ben Rattray",
+      "title": "Founder & CEO; leads Change.org Foundation",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/changeorg-names-steve-dziedzic-president-as-it-rebuilds-the-worlds-largest-petition-platform-302918251.html"
+    },
+    {
+      "name": "Steve Dziedzic",
+      "title": "President (formerly Chief Product Officer)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/changeorg-names-steve-dziedzic-president-as-it-rebuilds-the-worlds-largest-petition-platform-302918251.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2013-05",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Omidyar Network",
+      "source": "https://app.dealroom.co/companies/change_org"
+    },
+    {
+      "round": "Series C",
+      "date": "2014-12",
+      "amount": "$25M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.change.org/l/us/announcing-25-million-investment-and-the-future"
+    },
+    {
+      "round": "Series D",
+      "date": "2017-05",
+      "amount": "$30M",
+      "valuation": null,
+      "lead": "Reid Hoffman",
+      "source": "https://www.change.org/l/us/scaling-and-sustaining-change"
+    },
+    {
+      "round": "Ownership change: 50+ investors donated equity; 100% owned by Change.org Foundation",
+      "date": "2021-09",
+      "amount": null,
+      "valuation": null,
+      "lead": null,
+      "source": "https://change-org.medium.com/change-org-is-now-100-nonprofit-owned-c2aeaf8d0c66"
+    },
+    {
+      "round": "Self-funded investment (not outside capital): $100M over 3 years",
+      "date": "2026-10",
+      "amount": "$100M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.prnewswire.com/news-releases/changeorg-invests-100-million-to-give-people-a-more-powerful-voice-in-local-democracy-302898489.html"
+    }
+  ],
+  "total_raised": "~$73M in VC, 2012-2017 (CB Insights); investors donated their equity to the nonprofit foundation in 2021",
+  "revenue_est": {
+    "value": "$50M-$75M",
+    "as_of": "Oct 2026",
+    "basis": "estimate",
+    "source": "https://www.similarweb.com/company/change.org/"
+  },
+  "news_timeline": [],
+  "competitors": []
+}

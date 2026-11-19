@@ -45,9 +45,17 @@
       "valuation": null,
       "lead": "HSBC Asset Management",
       "source": "https://www.ftpartners.com/transactions/model-ml-hsbc"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-11",
+      "amount": "$250M",
+      "valuation": "$1.5B",
+      "lead": "General Atlantic, QED Investors",
+      "source": "https://www.generalatlantic.com/media-article/model-ml-raises-250-million-at-1-5-billion-valuation-18-months-after-launching-from-stealth"
     }
   ],
-  "total_raised": "$100M+ (company-stated)",
+  "total_raised": "$350M",
   "revenue_est": null,
   "news_timeline": [],
   "competitors": []

@@ -119,6 +119,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "airslate": {
+  "url": "https://cdn.airslate.com/me-landings/1.8.0/assets/images/social/airslate-og-1200w.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-19"
+ },
  "airspace-intelligence": {
   "url": "https://cdn.sanity.io/images/n4bes7z7/production/f41d43ca688a19f59fe3c51cae072e5a361cd38e-1000x1000.png?rect=0,238,1000,525&w=1200&h=630&fit=crop",
   "kind": "og",
@@ -701,6 +707,12 @@
   "type": "image/jpeg",
   "checked": "2026-10-19"
  },
+ "change-org": {
+  "url": "https://static.change.org/favicon/favicon-400x400.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-19"
+ },
  "chargeflow": {
   "url": "https://cdn.prod.website-files.com/66eafaec075d9e2e60131e26/6aa924d7c8cf641bcd48e6b0_og_image.png",
   "kind": "og",
@@ -832,6 +844,12 @@
   "kind": "og",
   "type": "image/jpeg",
   "checked": "2026-11-12"
+ },
+ "codex-fx": {
+  "url": "https://codex.xyz/og-home.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-19"
  },
  "coframe": {
   "url": "https://media.cofra.me/u/aHR0cHM6Ly9jZG4uY29mcmFtZS5jb20vYXNzZXRzL2Fzc2V0cy9vZy9hMjQ2MzkyNi0xMTNkLTRjYmMtOWI0Ni1mZTZiYmNlZjE4MTcucG5n?w=1280&f=jpeg",
@@ -1679,6 +1697,12 @@
   "type": "image/jpeg",
   "checked": "2026-11-12"
  },
+ "genesis-ai": {
+  "url": "https://www.datocms-assets.com/199265/1790235967-genesis-favicon.png?auto=format&h=192&w=192",
+  "kind": "icon",
+  "type": "image/png",
+  "checked": "2026-11-19"
+ },
  "geom": {
   "url": "https://geom.ai/__l5e/assets-v1/a1e7b70c-560a-410b-8b12-06fc9daba49e/geom-imessage-share.jpg",
   "kind": "og",
@@ -2255,6 +2279,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "lob": {
+  "url": "https://cdn.prod.website-files.com/5e1e5c62fa3d4447af417098/69a9d099a7cf4c794d5ed046_home-meta.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-19"
+ },
  "loop": {
   "url": "https://cdn.prod.website-files.com/668bb14a7a97da320e5022ed/66c70f294893e981b7a38704_OG%20Image.webp",
   "kind": "og",
@@ -2794,6 +2824,12 @@
   "kind": "og",
   "type": "image/png",
   "checked": "2026-11-12"
+ },
+ "orderful": {
+  "url": "https://www.orderful.com/cms/og-image.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-19"
  },
  "ossium-health": {
   "url": "https://ossiumhealth.com/wp-content/themes/ossium/assets/images/favicon/apple-icon-180x180.png",
@@ -3556,6 +3592,12 @@
   "kind": "og",
   "type": "image/svg+xml;charset=utf-8",
   "checked": "2026-10-19"
+ },
+ "science-corp": {
+  "url": "https://science.xyz/_astro/share-preview.DVJNqkvl_Z1fH4BK.jpeg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-19"
  },
  "scope-ai": {
   "url": "https://framerusercontent.com/assets/rDsZLgbbDkkwqEG5toiPqRSZU.png",

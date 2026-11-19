@@ -1,0 +1,50 @@
+{
+  "slug": "genesis-ai",
+  "checked": "Nov 19, 2026",
+  "depth": "light",
+  "founded": 2024,
+  "hq": "Paris, France (US office in San Carlos, CA)",
+  "headcount_est": {
+    "value": "~100",
+    "as_of": "Nov 2026",
+    "source": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/"
+  },
+  "leadership": [
+    {
+      "name": "Zhou Xian",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/zhou-xian-588128150",
+      "source": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html"
+    },
+    {
+      "name": "Théophile Gervet",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://thenextweb.com/news/genesis-ai-500m-series-a-3-5bn-valuation-eno-robot"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2025-07",
+      "amount": "$105M",
+      "valuation": null,
+      "lead": "Eclipse, Khosla Ventures",
+      "source": "https://techcrunch.com/2025/07/01/genesis-ai-launches-with-105m-seed-funding-from-eclipse-khosla-to-build-ai-models-for-robots/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-11",
+      "amount": "$500M",
+      "valuation": "$3.5B post-money",
+      "lead": "Premji Invest, Khosla Ventures, Eclipse",
+      "source": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html"
+    }
+  ],
+  "total_raised": "$605M",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

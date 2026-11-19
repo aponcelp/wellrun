@@ -11779,40 +11779,53 @@
   "name": "Model ML",
   "slug": "model-ml",
   "site": "https://www.modelml.com",
-  "careers_url": "",
-  "what_they_do": "AI agents that produce decks, models and diligence for banks and asset managers",
+  "careers_url": "https://app.nodi.global/company/Model%20ML",
+  "what_they_do": "Personal AI agents that build decks, models and diligence for bankers, consultants and investors",
   "problem": "Junior bankers spend nights building pitch decks and memos by hand",
   "industry": "Vertical AI for financial services",
-  "stage": "Series A",
-  "last_round": "$75M",
-  "last_round_date": "Nov 2025",
-  "lead_investors": "FT Partners",
-  "total_open_roles": "n.a.",
-  "ops_roles": "",
-  "hiring_trend": "~90 staff (Harmonic Q1 2026); no public job board found",
-  "headcount": "~90",
-  "latest_news": "HSBC Asset Management invested; reported in talks for $100M+ round at $1B+",
-  "latest_news_date": "Aug 2026",
-  "latest_news_url": "https://tech.eu/2026/08/11/hsbc-asset-management-invests-in-london-founded-model-ml",
-  "traction": "Used by 8 of the top 10 European banks and 3 of the Big Four",
-  "red_flags": "",
-  "red_flags_sources": [],
-  "score": "2.5",
-  "zone": "Steady",
+  "stage": "Series B",
+  "last_round": "$250M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "General Atlantic, QED Investors",
+  "total_open_roles": "29",
+  "ops_roles": "Product Specialist - Credit (LevFin, DCM); Product Specialist - Asset Management",
+  "hiring_trend": "Headcount ~90 (Q1 2026) → ~200 (CEO, Nov 2026); 29 open roles vs no public board in Oct",
+  "headcount": "~200",
+  "latest_news": "Raised $250M Series B at $1.5B valuation, co-led by General Atlantic and QED",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://modelml.com/articles/model-ml-raises-250-million-at-1.5-billion-valuation-18-months-after-launching-from-stealth",
+  "traction": "ARR up 12x YoY in Q3 2026, DAUs up 26x (company-stated); used by HSBC, Deloitte, PwC",
+  "red_flags": "Watch (not scored): Glassdoor 3.2 (8 reviews) with recent reviews citing a 'hire-and-fire' culture, extreme hours and job-security worries; no layoffs or lawsuits found.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor review: 'Global exposure but a hire-and-fire culture' (Oct 2026)",
+    "url": "https://www.glassdoor.com.hk/Reviews/Employee-Review-Model-ML-E10711942-RVW105900130.htm"
+   },
+   {
+    "label": "Glassdoor: Model ML reviews (3.2, 8 reviews)",
+    "url": "https://www.glassdoor.co.uk/Reviews/Model-ML-Reviews-E10711942.htm"
+   }
+  ],
+  "score": "4.5",
+  "zone": "Race",
   "status": "new",
-  "glassdoor_rating": "",
-  "glassdoor_reviews": "",
-  "glassdoor_url": "",
+  "glassdoor_rating": "3.2",
+  "glassdoor_reviews": "8",
+  "glassdoor_url": "https://www.glassdoor.co.uk/Reviews/Model-ML-Reviews-E10711942.htm",
   "keep": "yes",
   "is_new": true,
-  "last_checked": "Oct 13, 2026",
+  "last_checked": "Nov 19, 2026",
   "engine": "Lock-in",
   "distance": "10K",
-  "distance_why": "Used by 8 of the top 10 European banks, but OpenAI sells to bankers directly and rivals compete.",
+  "distance_why": "Fast adoption at HSBC, Deloitte, PwC and top European banks with 12x ARR growth, but OpenAI and Anthropic sell finance agents to the same buyers and Rogo and Hebbia compete.",
   "distance_sources": [
    {
     "label": "SiliconANGLE: Model ML $75M, runs on OpenAI, Anthropic competes",
     "url": "https://siliconangle.com/2025/11/24/financial-ai-startup-model-ml-nabs-75m-investment/"
+   },
+   {
+    "label": "Model ML: $250M Series B, ARR 12x YoY (Nov 2026)",
+    "url": "https://modelml.com/articles/model-ml-raises-250-million-at-1.5-billion-valuation-18-months-after-launching-from-stealth"
    }
   ],
   "hiring_locations": [
@@ -44168,6 +44181,461 @@
    "San Francisco",
    "New York",
    "Birmingham"
+  ]
+ },
+ {
+  "name": "Codex",
+  "slug": "codex-fx",
+  "site": "https://codex.xyz",
+  "careers_url": "https://jobs.ashbyhq.com/codex",
+  "what_they_do": "Stablecoin-based FX and cross-border payment rails for payment companies and fintechs",
+  "problem": "Payment providers in emerging markets pay high spreads, slow settlement and must prefund accounts to move money abroad",
+  "industry": "Cross-border payments / stablecoin FX",
+  "stage": "Series A",
+  "last_round": "$30M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Pantera Capital",
+  "total_open_roles": "6",
+  "ops_roles": "",
+  "hiring_trend": "Small team ~35 (LinkedIn/Tracxn, Sep-Oct 2026); plans to add sales, partnerships, compliance and recruiting heads post-Series A",
+  "headcount": "~35",
+  "latest_news": "Raised $30M Series A led by Pantera at $130M post-money",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://codex.xyz/blogs/codex-raises-30-million-series-a-to-scale-stablecoin-fx-platform",
+  "traction": "Annualized transaction volume ~$25B, up ~10x in 2026 (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 19, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Fast-growing but early (founded 2024) in a crowded stablecoin-payments field where Bridge (Stripe), BVNK and Circle are bigger; volume growth is company-stated and regulation can shift corridors quickly.",
+  "distance_sources": [
+   {
+    "label": "Codex: $30M Series A, ~$25B annualized volume (Nov 2026)",
+    "url": "https://codex.xyz/blogs/codex-raises-30-million-series-a-to-scale-stablecoin-fx-platform"
+   },
+   {
+    "label": "Fortune: Pantera-backed Codex raises $30M (Nov 2026)",
+    "url": "https://fortune.com/2026/11/17/pantera-backed-codex-30-million-asia-global-markets-stablecoins/"
+   }
+  ],
+  "hiring_locations": [
+   "Flexible",
+   "Hong Kong",
+   "Remote (LatAm)"
+  ]
+ },
+ {
+  "name": "General Flash",
+  "slug": "general-flash",
+  "site": "https://generalflash.com",
+  "careers_url": "https://jobs.ashbyhq.com/generalflash",
+  "what_they_do": "Solid-state electrolysis process that turns metal oxides into high-purity critical metals",
+  "problem": "US defense and chip makers depend on China for refined tungsten, titanium and rare earths",
+  "industry": "Critical metals refining / advanced manufacturing",
+  "stage": "Series A",
+  "last_round": "$128M (Seed + Series A combined)",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Lux Capital, Construct Capital, Overmatch Ventures",
+  "total_open_roles": "8",
+  "ops_roles": "",
+  "hiring_trend": "New company (founded Dec 2025), 11-50 staff (Dealroom); all 8 roles posted Nov 2026 in Cambridge, MA",
+  "headcount": "~11-50",
+  "latest_news": "Emerged from stealth with $128M seed + Series A to build 1,000 t/yr plant",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/general-flash-announces-128-million-in-funding-to-scale-us-production-of-critical-metals-302941551.html",
+  "traction": "Pre-revenue; 20 t/yr pilot line near MIT, 1,000 t/yr plant targeted summer 2027",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes (note: deep-engineering heavy industry, pre-revenue, just out of stealth; Cambridge MA onsite only; no ops roles yet)",
+  "is_new": true,
+  "last_checked": "Nov 19, 2026",
+  "engine": "Scale",
+  "distance": "Unproven",
+  "distance_why": "Just out of stealth with a pilot line only; the process still has to prove it works at commercial scale in 2027.",
+  "distance_sources": [
+   {
+    "label": "Heatmap: General Flash emerges from stealth with $128M (Nov 2026)",
+    "url": "https://heatmap.news/climate-tech/general-flash-stealth"
+   },
+   {
+    "label": "PR Newswire: General Flash $128M announcement (Nov 2026)",
+    "url": "https://www.prnewswire.com/news-releases/general-flash-announces-128-million-in-funding-to-scale-us-production-of-critical-metals-302941551.html"
+   }
+  ],
+  "hiring_locations": [
+   "Cambridge"
+  ]
+ },
+ {
+  "name": "Science Corp",
+  "slug": "science-corp",
+  "site": "https://science.xyz",
+  "careers_url": "https://science.xyz/careers/open-positions/",
+  "what_they_do": "Brain-computer interfaces, starting with the PRIMA retinal implant that restores reading vision",
+  "problem": "Patients blinded by late-stage macular degeneration have no treatment that restores sight",
+  "industry": "Medical devices / brain-computer interfaces",
+  "stage": "Series D",
+  "last_round": "$400M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Khosla Ventures (per SiliconANGLE; company named no lead)",
+  "total_open_roles": "19",
+  "ops_roles": "Head of Clinical Services",
+  "hiring_trend": "Headcount 233 → 267 (+20% YoY, Revelio, Jun 2026); postings 41 in 2026, up 115% vs 2025",
+  "headcount": "~270-330",
+  "latest_news": "Raised $400M Series D at reported $3.5B valuation to launch PRIMA in US",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://science.xyz/news/series-d/",
+  "traction": "PRIMA CE-marked and on sale in Europe since Jul 2026; first commercial implants in Germany; FDA filing pending",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.25",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "3.2",
+  "glassdoor_reviews": "36",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Science-Corporation-Reviews-E8099381.htm",
+  "keep": "yes (note: deep-engineering medtech, patient/clinic-facing rather than business software; nearly all roles onsite in Alameda CA / Durham NC)",
+  "is_new": true,
+  "last_checked": "Nov 19, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "First BCI CE-marked to restore form vision, with 36-month durable trial data and its own chip fab; regulatory head start is a real edge, but commercial adoption is only starting and US approval is still pending.",
+  "distance_sources": [
+   {
+    "label": "Science: Series D and PRIMA European launch (Nov 2026)",
+    "url": "https://science.xyz/news/series-d/"
+   },
+   {
+    "label": "MedTech Dive: Science raises $400M to commercialize BCI (Nov 2026)",
+    "url": "https://www.medtechdive.com/news/science-corporation-raises-400m-to-commercialize-bci-device/875009/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Genesis AI",
+  "slug": "genesis-ai",
+  "site": "https://www.genesis.ai",
+  "careers_url": "https://jobs.ashbyhq.com/genesis",
+  "what_they_do": "Full-stack general-purpose robot (Eno) with its own GENE foundation model, simulator and data gloves",
+  "problem": "Factories, warehouses and labs can't automate varied hand-dexterous tasks; today's robots do one programmed job",
+  "industry": "Physical AI / general-purpose robotics",
+  "stage": "Series A",
+  "last_round": "$500M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Premji Invest, Khosla Ventures, Eclipse",
+  "total_open_roles": "66",
+  "ops_roles": "Chief of Staff & Investor Relations; Deployment Program and Operation Manager; Senior Data Operations Manager; Technical Product Manager (Deployment)",
+  "hiring_trend": "Headcount ~20+ (Jul 2025) → ~60 (May 2026) → ~100 (Nov 2026); 66 open roles",
+  "headcount": "~100",
+  "latest_news": "Raised $500M Series A at $3.5B post-money, co-led by Premji, Khosla and Eclipse",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html",
+  "traction": "Pre-revenue; Eno piloting with a handful of customers, LG CNS partnership; headcount ~5x in 16 mo",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.75",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 19, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Well-funded full-stack bet (model, simulator, glove data, robot) but pre-revenue with only pilots; hands last weeks before replacement and mass production starts 2027, in a crowded field (Physical Intelligence, Figure, Skild).",
+  "distance_sources": [
+   {
+    "label": "TechCrunch: Genesis AI raises $500M; hands last a few weeks, piloting with a handful of customers (Nov 2026)",
+    "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/"
+   },
+   {
+    "label": "Crunchbase News: no revenue or paying-customer count disclosed (Nov 2026)",
+    "url": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/"
+   }
+  ],
+  "hiring_locations": [
+   "San Carlos",
+   "London",
+   "Paris",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Orderful",
+  "slug": "orderful",
+  "site": "https://www.orderful.com",
+  "careers_url": "https://jobs.ashbyhq.com/orderful",
+  "what_they_do": "AI-native EDI platform that connects brands, retailers and 3PLs with their trading partners",
+  "problem": "Setting up and maintaining EDI links with each retailer or carrier takes months of manual mapping and causes chargebacks",
+  "industry": "Supply chain software / EDI integration",
+  "stage": "Series C",
+  "last_round": "$35M",
+  "last_round_date": "Jun 2026",
+  "lead_investors": "Koch Disruptive Technologies (with NewRoad Capital)",
+  "total_open_roles": "8",
+  "ops_roles": "Director, Product Operations; Sr. Customer Success Manager; Solution Architect",
+  "hiring_trend": "Headcount 46 (2023) → 98 (Mar 2026) but -4.5% YoY (Revelio); ~90 on LinkedIn; 8 open roles",
+  "headcount": "~90",
+  "latest_news": "Launched AI agents for EDI inside Oracle NetSuite at SuiteWorld 2026",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.orderful.com/press-releases/orderful-ai-agents-edi-netsuite-suiteworld-2026",
+  "traction": "400+ customers (Koch, Liquid Death, Stord, NFI); 6B+ transactions processed; revenue undisclosed",
+  "red_flags": "Layoffs in 2026: recent Glassdoor reviews (Sep, Oct, Nov 2026) cite a \"huge layoff\" tied to an AI push, lack of transparency about layoffs, and low morale; headcount down ~4.5% YoY.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor review: \"AI Psychosis, Mass Layoffs\" (Sep 2026; Nov 2026 review cites a huge layoff)",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Orderful-E2413917-RVW105641915.htm"
+   },
+   {
+    "label": "Glassdoor: Orderful Senior Software Engineer review on layoff transparency (Oct 2026)",
+    "url": "https://www.glassdoor.ca/Reviews/Orderful-Senior-Software-Engineer-Reviews-EI_IE2413917.0,8_KO9,33.htm"
+   },
+   {
+    "label": "Revelio Labs: Orderful headcount down 4.5% YoY in 2026",
+    "url": "https://www.reveliolabs.com/companies/orderful/employees"
+   }
+  ],
+  "score": "2.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.7",
+  "glassdoor_reviews": "13",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Orderful-Reviews-E2413917.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 19, 2026",
+  "engine": "Network",
+  "distance": "10K",
+  "distance_why": "Modern, API-first challenger with a growing trading-partner network, but a small follower in a market led by SPS Commerce (~$751M revenue, 96% recurring), TrueCommerce and Cleo, and showing 2026 layoffs.",
+  "distance_sources": [
+   {
+    "label": "FreightWaves: Orderful $35M Series C; SPS Commerce $751M 2025 revenue (Jun 2026)",
+    "url": "https://www.freightwaves.com/news/orderful-35m-series-c-edi"
+   },
+   {
+    "label": "Orderful: $35M Series C press release (Jun 2026)",
+    "url": "https://www.orderful.com/press-releases/orderful-raises-series-c-to-grow-ai-native-edi"
+   }
+  ],
+  "hiring_locations": [
+   "Canada",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Lob",
+  "slug": "lob",
+  "site": "https://www.lob.com",
+  "careers_url": "https://www.lob.com/careers",
+  "what_they_do": "Direct mail automation API and nationwide print-delivery network for marketing and transactional mail",
+  "problem": "Sending personalized physical mail at scale is manual, slow and hard to track compared with digital channels",
+  "industry": "Marketing tech / direct mail automation",
+  "stage": "Series C",
+  "last_round": "$50M",
+  "last_round_date": "Feb 2021",
+  "lead_investors": "Y Combinator Continuity",
+  "total_open_roles": "4",
+  "ops_roles": "Business Operations Manager; Partner Operations Manager",
+  "hiring_trend": "Headcount 205 (2023) → 180 (Mar 2026), -12.5% (Revelio); low of 168 in Q1 2025, +1.2% YoY since",
+  "headcount": "~180-200",
+  "latest_news": "Named winners of its inaugural Postmark Awards for direct mail programs",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/10/27/3389504/0/en/lob-names-the-brands-pushing-the-envelope-in-direct-mail-with-inaugural-postmark-awards.html",
+  "traction": "12,000+ customers (Nov 2025), up from 8,500 at the 2021 Series C; revenue undisclosed",
+  "red_flags": "Multiple layoff rounds in 2024 and a further RIF in Jan 2025; headcount down ~12.5% since 2023; Glassdoor reviews describe sweeping cuts. No new funding since 2021.",
+  "red_flags_sources": [
+   {
+    "label": "Glassdoor: Lob reviews mentioning layoffs (Jan and Aug 2025)",
+    "url": "https://www.glassdoor.com/Reviews/Lob-layoff-Reviews-EI_IE907973.0,3_KH4,10.htm"
+   },
+   {
+    "label": "LinkedIn: former Lob AE on the latest RIF after several rounds (Jan 2025)",
+    "url": "https://www.linkedin.com/posts/jordanspencer1_after-dodging-several-rounds-of-layoffs-activity-7285044628074967040-pd2D"
+   },
+   {
+    "label": "Revelio Labs: Lob headcount 205 (2023) to 180 (2026)",
+    "url": "https://www.reveliolabs.com/companies/lob/employees"
+   }
+  ],
+  "score": "0.5",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.4",
+  "glassdoor_reviews": "100",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Lob-Reviews-E907973.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 19, 2026",
+  "engine": "Scale",
+  "distance": "Half",
+  "distance_why": "Category leader in API-driven direct mail (12,000+ customers, reaches 1 in 2 US households) with a print-delivery network that gets cheaper at scale; held back by 2024-25 layoffs, no new capital since 2021, and a slow-growing channel.",
+  "distance_sources": [
+   {
+    "label": "Lob: Delivery Platform of the Year, print-delivery network and Postal IQ (Jun 2026)",
+    "url": "https://www.lob.com/news/lob-named-2026-delivery-platform-of-the-year-by-supplytech-breakthrough"
+   },
+   {
+    "label": "GlobeNewswire: Lob exec appointments, 12,000+ brands (Nov 2025)",
+    "url": "https://www.globenewswire.com/news-release/2025/11/12/3186623/0/en/lob-strengthens-executive-leadership-team-with-appointments-of-cfo-cpo-and-cro.html"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Change.org",
+  "slug": "change-org",
+  "site": "https://www.change.org",
+  "careers_url": "https://jobs.ashbyhq.com/change",
+  "what_they_do": "Petition platform where people start campaigns and pressure decision-makers, funded by members",
+  "problem": "Ordinary people can't get officials or companies to listen to a local or public concern without organizing power",
+  "industry": "Civic tech / petitions platform",
+  "stage": "Nonprofit-owned PBC (last VC: Series D 2017)",
+  "last_round": "$30M",
+  "last_round_date": "May 2017",
+  "lead_investors": "Reid Hoffman",
+  "total_open_roles": "5",
+  "ops_roles": "Sr. Product Manager, Internal Tools & Analysis",
+  "hiring_trend": "Headcount ~235 → ~303 Q2 2025 to Q2 2026 (Revelio, +29% YoY); ~383 on LinkedIn (+25% YoY); postings flat (14 → 15)",
+  "headcount": "~300-380",
+  "latest_news": "Named CPO Steve Dziedzic President to lead its $100M self-funded AI platform rebuild",
+  "latest_news_date": "Oct 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/changeorg-names-steve-dziedzic-president-as-it-rebuilds-the-worlds-largest-petition-platform-302918251.html",
+  "traction": "Citizen-funded revenue up 50%+ in ~2 years; 3M+ paying contributors a year; 500M+ users",
+  "red_flags": "Watch (not scored): Mar 2026 Moscow court fine (RUB 1M) under Russia's data-localization law and a Jun–Jul 2026 Turkey access block later lifted; BBB billing complaints about recurring memberships. No layoffs since Jul 2022.",
+  "red_flags_sources": [
+   {
+    "label": "Vedomosti: Moscow court fines Change.org under personal-data law (Mar 2026)",
+    "url": "https://www.vedomosti.ru/technology/news/2026/03/23/1185176-changeorg-personalnih-dannih"
+   },
+   {
+    "label": "Turkish Minute: Turkey blocks access to Change.org (Jun 2026)",
+    "url": "https://www.turkishminute.com/2026/06/19/turkey-blocks-access-to-global-petition-platform-change-org/"
+   },
+   {
+    "label": "Bianet: Change.org access restored in Turkey (Jul 2026)",
+    "url": "https://bianet.org/haber/change-org-turkiye-yeniden-erisime-acildi-321347"
+   }
+  ],
+  "score": "3.75",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.1",
+  "glassdoor_reviews": "164",
+  "glassdoor_url": "https://www.glassdoor.co.uk/Reviews/Change-org-Reviews-E582921.htm",
+  "keep": "yes: strong-brand, private, nonprofit-owned PBC (Change.org Foundation owns 100% since 2021); not a classic VC startup",
+  "is_new": true,
+  "last_checked": "Nov 19, 2026",
+  "engine": "Network",
+  "distance": "Half",
+  "distance_why": "The clear #1 petition platform (500M+ users, 196 countries) where reach and decision-maker response compound with use; revenue is modest (~$50-65M est.) and member-donation funded, and it is rebuilding the product around AI.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Change.org invests $100M in AI platform rebuild (Oct 2026)",
+    "url": "https://www.prnewswire.com/news-releases/changeorg-invests-100-million-to-give-people-a-more-powerful-voice-in-local-democracy-302898489.html"
+   },
+   {
+    "label": "Similarweb: Change.org revenue $50M-$75M (est.)",
+    "url": "https://www.similarweb.com/company/change.org/"
+   }
+  ],
+  "hiring_locations": [
+   "Berlin",
+   "UK",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "airSlate",
+  "slug": "airslate",
+  "site": "https://www.airslate.com",
+  "careers_url": "https://jobs.lever.co/airslate",
+  "what_they_do": "SMB document tools: pdfFiller, SignNow e-signature, DocHub, altaFlow workflows, US Legal Forms",
+  "problem": "Small businesses waste hours editing, signing and routing paperwork without affordable, simple tools",
+  "industry": "Document workflow / e-signature",
+  "stage": "Series C",
+  "last_round": "$51.5M",
+  "last_round_date": "Jun 2022",
+  "lead_investors": "G Squared",
+  "total_open_roles": "14",
+  "ops_roles": "Strategy & BizOps Manager",
+  "hiring_trend": "Shrinking: ~1,031 → ~792 Q2 2025 to Q2 2026 (Revelio, -23% YoY); 1,221 in 2023",
+  "headcount": "~650-800",
+  "latest_news": "Hired former Adobe executive Claude Alexandre as President",
+  "latest_news_date": "Jul 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/07/06/3322448/0/en/airSlate-Appoints-Former-Adobe-Executive-Claude-Alexandre-as-President.html",
+  "traction": "CEO says ~$200M revenue and 1.1M paying customers (Jul 2026), up from ~$100M in 2022",
+  "red_flags": "Repeated layoffs: ~20 roles Jan 2025 and ~170 globally Oct 2025 (restructuring; ~100 more in Oct 2024). Headcount shrinking 23% YoY (Revelio, 792 in Q2 2026, down from 1,221 in 2023), with Glassdoor reviews citing constant restructuring. Watch (not scored): CEO put value at 'optimistically maybe 800' million vs the $1.25B 2022 round; no priced round in 4+ years.",
+  "red_flags_sources": [
+   {
+    "label": "Boston Business Journal: airSlate cuts 170 jobs worldwide (Oct 2025)",
+    "url": "https://www.bizjournals.com/boston/news/2025/10/23/airslate-layoffs-2025.html"
+   },
+   {
+    "label": "dev.ua: airSlate restructuring layoffs of ~170 (Oct 2025)",
+    "url": "https://dev.ua/en/news/my-transformuiemo-kompaniiu-shchob-rukhatysia-shvydshe-airslate-provodyt-masshtabni-skorochennia-1760524156"
+   },
+   {
+    "label": "TrueUp: airSlate layoff history (Oct 2024, Jan 2025, Oct 2025)",
+    "url": "https://www.trueup.io/co/airslate"
+   },
+   {
+    "label": "Revelio Labs: airSlate headcount 792, -23.2% YoY (Jun 2026)",
+    "url": "https://www.reveliolabs.com/companies/airslate/employees"
+   },
+   {
+    "label": "Glassdoor review: 'Constant restructuring and layoffs' (Jul 2026)",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-airSlate-E3182935-RVW104613609.htm"
+   },
+   {
+    "label": "GetLatka interview: CEO values company at ~$800M optimistically (Jul 2026)",
+    "url": "https://getlatka.com/companies/airslate/interviews/airslate-vadim-yasinovsky-2026"
+   }
+  ],
+  "score": "0",
+  "zone": "Cool-down",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "119",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/airSlate-Reviews-E3182935.htm",
+  "keep": "yes: private, VC-backed (no IPO); fit is weak given shrinking headcount",
+  "is_new": true,
+  "last_checked": "Nov 19, 2026",
+  "engine": "Scale",
+  "distance": "10K",
+  "distance_why": "Large SMB footprint (1.1M paying customers) built on SEO-driven acquisition, but it trails DocuSign and Adobe in e-signature and PDF, faces AI commoditization of its core tools, and is shrinking headcount.",
+  "distance_sources": [
+   {
+    "label": "GetLatka interview with CEO Vadim Yasinovsky (Jul 2026)",
+    "url": "https://getlatka.com/companies/airslate/interviews/airslate-vadim-yasinovsky-2026"
+   },
+   {
+    "label": "Revelio Labs: airSlate headcount trend",
+    "url": "https://www.reveliolabs.com/companies/airslate/employees"
+   }
+  ],
+  "hiring_locations": [
+   "Tel Aviv",
+   "Bucharest",
+   "Czech Republic",
+   "Remote (Poland)"
   ]
  }
 ]

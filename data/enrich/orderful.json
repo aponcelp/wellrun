@@ -1,0 +1,58 @@
+{
+  "slug": "orderful",
+  "checked": "Nov 19, 2026",
+  "depth": "light",
+  "founded": 2016,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~90",
+    "as_of": "Nov 2026",
+    "source": "https://linkedin.com/company/orderful"
+  },
+  "leadership": [
+    {
+      "name": "Erik Kiser",
+      "title": "Founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/ekiser/",
+      "source": "https://www.orderful.com/press-releases/orderful-raises-series-c-to-grow-ai-native-edi"
+    },
+    {
+      "name": "Mike Head",
+      "title": "Chief Revenue Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.orderful.com/press-releases/orderfuls-new-cro-mike-head"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series B",
+      "date": "2021-09",
+      "amount": "$19M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://www.orderful.com/blog/orderful-secures-19m-in-series-b-funding-to-power-global-trade"
+    },
+    {
+      "round": "Growth",
+      "date": "2024-11",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "NewRoad Capital Partners",
+      "source": "https://www.prweb.com/releases/orderful-raises-15m-growth-round-led-by-newroad-capital-partners-to-transform-b2b-integration-with-modern-edi-solutions-302306730.html"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-06",
+      "amount": "$35M",
+      "valuation": null,
+      "lead": "Koch Disruptive Technologies",
+      "source": "https://www.orderful.com/press-releases/orderful-raises-series-c-to-grow-ai-native-edi"
+    }
+  ],
+  "total_raised": "$85M (company-stated, Jun 2026)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

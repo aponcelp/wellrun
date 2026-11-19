@@ -1,0 +1,57 @@
+{
+  "slug": "science-corp",
+  "checked": "Nov 19, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "Alameda, CA (offices in Research Triangle Park, NC and Paris)",
+  "headcount_est": {
+    "value": "~267",
+    "as_of": "Jun 2026",
+    "source": "https://www.reveliolabs.com/companies/science/employees"
+  },
+  "leadership": [
+    {
+      "name": "Max Hodak",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://science.xyz/company/team/max-hodak"
+    },
+    {
+      "name": "Darius Shahida",
+      "title": "President & Chief Strategy Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.businesswire.com/news/home/20260917593792/en/Science-Corporation-Names-Darius-Shahida-as-President"
+    },
+    {
+      "name": "Alan Mardinly",
+      "title": "Co-founder & Chief Scientific Officer",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconvalleyinvestclub.com/companies/science/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series C",
+      "date": "2026-03",
+      "amount": "$230M",
+      "valuation": "$1.5B post-money (reported)",
+      "lead": null,
+      "source": "https://techcrunch.com/2026/03/05/science-corp-closes-230m-round-as-it-pushes-to-get-its-brain-implant-to-patients/"
+    },
+    {
+      "round": "Series D",
+      "date": "2026-11",
+      "amount": "$400M",
+      "valuation": "$3.5B (reported)",
+      "lead": "Khosla Ventures (per SiliconANGLE; company named no lead)",
+      "source": "https://science.xyz/news/series-d/"
+    }
+  ],
+  "total_raised": "$900M+ (company-stated, Nov 2026)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

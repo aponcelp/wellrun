@@ -1,0 +1,71 @@
+{
+  "slug": "airslate",
+  "checked": "Nov 19, 2026",
+  "depth": "light",
+  "founded": 2008,
+  "hq": "Boston (Brookline), MA",
+  "headcount_est": {
+    "value": "~792 (Revelio, Jun 2026) / ~650 full-time (CEO, Jul 2026)",
+    "as_of": "Jun-Jul 2026",
+    "source": "https://www.reveliolabs.com/companies/airslate/employees"
+  },
+  "leadership": [
+    {
+      "name": "Vadim Yasinovsky",
+      "title": "Co-founder & CEO (returned Jul 2025)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://getlatka.com/companies/airslate/interviews/airslate-vadim-yasinovsky-2026"
+    },
+    {
+      "name": "Claude Alexandre",
+      "title": "President",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.globenewswire.com/news-release/2026/07/06/3322448/0/en/airSlate-Appoints-Former-Adobe-Executive-Claude-Alexandre-as-President.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series A",
+      "date": "2017-07",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "General Catalyst",
+      "source": "https://www.businessinsider.com/airslate-funding-round-gsquared-no-code-pitch-deck-2022-7"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-01",
+      "amount": "$40M",
+      "valuation": null,
+      "lead": "Morgan Stanley Expansion Capital",
+      "source": "https://multiples.vc/private-comps/airslate"
+    },
+    {
+      "round": "Debt",
+      "date": "2021-02",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Silicon Valley Bank",
+      "source": "https://tracxn.com/d/companies/airslate/__CJkHLRBEXB73w-xAjSQd87uSlXx5u2kjO7txjedrvnU/funding-and-investors"
+    },
+    {
+      "round": "Series C",
+      "date": "2022-06",
+      "amount": "$51.5M",
+      "valuation": "$1.25B",
+      "lead": "G Squared",
+      "source": "https://techcrunch.com/2022/06/16/uipaths-new-venture-arm-backs-workflow-automation-startup-airslate/"
+    }
+  ],
+  "total_raised": "$185.3M including debt (TechCrunch, Jun 2022)",
+  "revenue_est": {
+    "value": "~$200M",
+    "as_of": "Jul 2026",
+    "basis": "company-stated (CEO interview)",
+    "source": "https://getlatka.com/companies/airslate/interviews/airslate-vadim-yasinovsky-2026"
+  },
+  "news_timeline": [],
+  "competitors": []
+}

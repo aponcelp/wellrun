@@ -1,0 +1,35 @@
+{
+  "slug": "general-flash",
+  "checked": "Nov 19, 2026",
+  "depth": "light",
+  "founded": 2025,
+  "hq": "Cambridge, MA (pilot facility near MIT)",
+  "headcount_est": {
+    "value": "11-50",
+    "as_of": "Nov 2026",
+    "source": "https://app.dealroom.co/companies/general_flash"
+  },
+  "leadership": [
+    {
+      "name": "Ric Fulop",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/ricfulop/",
+      "source": "https://www.prnewswire.com/news-releases/general-flash-announces-128-million-in-funding-to-scale-us-production-of-critical-metals-302941551.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed + Series A (combined)",
+      "date": "2026-11",
+      "amount": "$128M",
+      "valuation": null,
+      "lead": "Lux Capital, Construct Capital, Overmatch Ventures",
+      "source": "https://www.axios.com/2026/11/17/general-flash-critical-metals"
+    }
+  ],
+  "total_raised": "$128M (company-stated, seed + Series A, Nov 2026)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

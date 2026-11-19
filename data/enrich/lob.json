@@ -1,0 +1,49 @@
+{
+  "slug": "lob",
+  "checked": "Nov 19, 2026",
+  "depth": "light",
+  "founded": 2013,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~180",
+    "as_of": "Mar 2026",
+    "source": "https://www.reveliolabs.com/companies/lob/employees"
+  },
+  "leadership": [
+    {
+      "name": "Ryan Ferrier",
+      "title": "CEO",
+      "founder": false,
+      "linkedin": "https://www.linkedin.com/in/ryanferrier/",
+      "source": "https://www.lob.com/about"
+    },
+    {
+      "name": "Leore Avidar",
+      "title": "Co-founder (CEO 2013-2024)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://getlatka.com/companies/lob.com"
+    },
+    {
+      "name": "Harry Zhang",
+      "title": "Co-founder, board member",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://getlatka.com/companies/lob.com"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Series C",
+      "date": "2021-02",
+      "amount": "$50M",
+      "valuation": null,
+      "lead": "Y Combinator Continuity",
+      "source": "https://www.lob.com/news/lob-raises-50-million-in-series-c-funding-to-scale-its-direct-mail-platform"
+    }
+  ],
+  "total_raised": "$82.3M (company-stated)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}
