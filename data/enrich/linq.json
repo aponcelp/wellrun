@@ -1,0 +1,65 @@
+{
+  "slug": "linq",
+  "checked": "Nov 18, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "San Francisco, CA (founded in Birmingham, AL; offices in Birmingham and NYC)",
+  "headcount_est": {
+    "value": "~60",
+    "as_of": "Nov 2026",
+    "source": "https://a16zjobs.substack.com/p/linq-just-raised-90m-to-give-ai-agents"
+  },
+  "leadership": [
+    {
+      "name": "Elliott Potter",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/elliottpotter/",
+      "source": "https://www.webwire.com/ViewPressRel.asp?aId=349883"
+    },
+    {
+      "name": "Patrick Sullivan",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/patrickdsullivan/",
+      "source": "https://www.webwire.com/ViewPressRel.asp?aId=349883"
+    },
+    {
+      "name": "Jared Mattsson",
+      "title": "Co-founder & President",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/jaredmattsson",
+      "source": "https://www.webwire.com/ViewPressRel.asp?aId=349883"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2021-05",
+      "amount": "$2.5M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://fundingdata.com/company/linq%40us"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-02",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "TQ Ventures",
+      "source": "https://www.webwire.com/ViewPressRel.asp?aId=349883"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-11",
+      "amount": "$90M",
+      "valuation": "$1B",
+      "lead": "Andreessen Horowitz",
+      "source": "https://linqapp.com/blog/linq-raises-90m-welcomes-ben-horowitz-to-the-board"
+    }
+  ],
+  "total_raised": "$120M+ (company-stated, Nov 2026)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

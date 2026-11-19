@@ -1,0 +1,73 @@
+{
+  "slug": "sequel",
+  "checked": "Nov 18, 2026",
+  "depth": "light",
+  "founded": 2019,
+  "hq": "San Francisco, CA",
+  "headcount_est": {
+    "value": "~24",
+    "as_of": "Nov 2026",
+    "source": "https://linkedin.com/company/35679319"
+  },
+  "leadership": [
+    {
+      "name": "Oana Manolache",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": "https://www.linkedin.com/in/oana-m-manolache",
+      "source": "https://www.prnewswire.com/news-releases/sequelio-raises-15m-to-build-a-new-category-in-video-driven-audience-intelligence-302943074.html"
+    },
+    {
+      "name": "Andrei Ermilov",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://socialleverage.com/stories/sequel-raises-15m"
+    },
+    {
+      "name": "Kathleen Booth",
+      "title": "VP of Marketing",
+      "founder": false,
+      "linkedin": "https://linkedin.com/in/kathleenslatterybooth/",
+      "source": "https://deepline.com/blog/kathleen-booth-gtm-as-code"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Pre-seed (Techstars)",
+      "date": "2020-09",
+      "amount": null,
+      "valuation": null,
+      "lead": "Techstars",
+      "source": "https://seedtable.com/companies/sequel"
+    },
+    {
+      "round": "Seed (as Introvoke)",
+      "date": "2021-04",
+      "amount": "$2.7M",
+      "valuation": null,
+      "lead": null,
+      "source": "https://seedtable.com/companies/sequel"
+    },
+    {
+      "round": "Series A",
+      "date": "2022-08",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "Javelin Venture Partners",
+      "source": "https://www.prweb.com/releases/sequel-announces-8-million-series-a-funding-to-power-the-next-generation-of-online-video-communities-800532785.html"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-11",
+      "amount": "$15M",
+      "valuation": null,
+      "lead": "Sorenson Capital",
+      "source": "https://www.unite.ai/sequel-io-raises-15m-series-b-to-expand-ai-agents-and-personalization/"
+    }
+  ],
+  "total_raised": "~$26M (company-reported, incl. $15M Series B)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

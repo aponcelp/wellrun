@@ -1,0 +1,88 @@
+{
+  "slug": "payhawk",
+  "checked": "Nov 18, 2026",
+  "depth": "light",
+  "founded": 2018,
+  "hq": "London, UK (founded in Sofia, Bulgaria)",
+  "headcount_est": {
+    "value": "~560",
+    "as_of": "Jun 2026",
+    "source": "https://www.reveliolabs.com/companies/payhawk/employees"
+  },
+  "leadership": [
+    {
+      "name": "Hristo Borisov",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://payhawk.com/about"
+    },
+    {
+      "name": "Konstantin Dzhengozov",
+      "title": "Co-founder & CFO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://payhawk.com/about"
+    },
+    {
+      "name": "Boyko Karadzhov",
+      "title": "Co-founder & CTO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://payhawk.com/about"
+    },
+    {
+      "name": "Dan Osburn",
+      "title": "Chief Payments Officer",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://payhawk.com/blog/payhawk-quadruples-ifrs-revenue-in-two-years-2025"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-03",
+      "amount": "€3M",
+      "valuation": null,
+      "lead": "Bek Ventures (then Earlybird Digital East)",
+      "source": "https://payhawk.com/about"
+    },
+    {
+      "round": "Series A",
+      "date": "2021-04",
+      "amount": "$20M",
+      "valuation": null,
+      "lead": "QED Investors",
+      "source": "https://payhawk.com/blog/payhawk-raises-20m-series-a-from-klarna-backers-qed-investors"
+    },
+    {
+      "round": "Series B",
+      "date": "2021-11",
+      "amount": "$112M",
+      "valuation": "$570M",
+      "lead": "Greenoaks",
+      "source": "https://payhawk.com/blog/payhawk-raises-112-million-in-the-second-largest-series-b-in-central-and-eastern-europe"
+    },
+    {
+      "round": "Series B extension",
+      "date": "2022-03",
+      "amount": "$100M",
+      "valuation": "$1B",
+      "lead": "Lightspeed Venture Partners",
+      "source": "https://payhawk.com/about"
+    },
+    {
+      "round": "Series C",
+      "date": "2026-11",
+      "amount": "$280M",
+      "valuation": "$2B",
+      "lead": "Goldman Sachs Alternatives (Growth Equity)",
+      "source": "https://www.globenewswire.com/news-release/2026/11/18/3405403/0/en/payhawk-raises-280m-at-a-2b-valuation-as-it-evolves-into-the-global-finance-os-for-the-ai-era.html"
+    }
+  ],
+  "total_raised": "$515M+ (company-reported, incl. Nov 2026 Series C)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

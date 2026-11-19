@@ -44010,5 +44010,164 @@
    }
   ],
   "hiring_locations": []
+ },
+ {
+  "name": "Sequel",
+  "slug": "sequel",
+  "site": "https://sequel.io",
+  "careers_url": "https://jobs.ashbyhq.com/sequel-io",
+  "what_they_do": "Webinars and video hosted on a brand's own website, plus AI agents for B2B marketers",
+  "problem": "Webinar tools pull buyers off-site and silo engagement data, so marketers can't tie video to pipeline",
+  "industry": "B2B marketing tech / webinars and video engagement",
+  "stage": "Series B",
+  "last_round": "$15M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Sorenson Capital",
+  "total_open_roles": "7",
+  "ops_roles": "Account Manager (post-sale CS); Solutions Engineer (Customer Success)",
+  "hiring_trend": "Small and growing: ~24 staff, +14% YoY (~21 Jul 2025, est.); open roles 7, adding first VP Sales",
+  "headcount": "~24",
+  "latest_news": "Raised $15M Series B led by Sorenson Capital; total funding ~$26M",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/sequelio-raises-15m-to-build-a-new-category-in-video-driven-audience-intelligence-302943074.html",
+  "traction": "400+ customers; company says revenue tripled two years running, enterprise customers 5x in 2026",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.25",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "2.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.co.uk/Reviews/Sequel-CA-Reviews-E8006248.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 18, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Embedded on customers' sites with integrations and claimed zero mid-market/enterprise churn, but a ~24-person follower in a crowded webinar market (it tracks 19 competitors) with small revenue so far.",
+  "distance_sources": [
+   {
+    "label": "Deepline: Sequel VP Marketing on tracking 19 competitors in a crowded webinar market (May 2026)",
+    "url": "https://deepline.com/blog/kathleen-booth-gtm-as-code"
+   },
+   {
+    "label": "Sequel Ashby posting: zero churn among mid-market and enterprise customers (Nov 2026)",
+    "url": "https://jobs.ashbyhq.com/sequel-io/5c34ef08-29dd-4156-9158-4e74ee76f7ab"
+   },
+   {
+    "label": "PR Newswire: Sequel.io raises $15M (Nov 2026)",
+    "url": "https://www.prnewswire.com/news-releases/sequelio-raises-15m-to-build-a-new-category-in-video-driven-audience-intelligence-302943074.html"
+   }
+  ],
+  "hiring_locations": [
+   "US - On Site",
+   "New York",
+   "San Francisco",
+   "Remote (US)"
+  ]
+ },
+ {
+  "name": "Payhawk",
+  "slug": "payhawk",
+  "site": "https://payhawk.com",
+  "careers_url": "https://job-boards.eu.greenhouse.io/payhawkio",
+  "what_they_do": "AI-native spend management: corporate cards, expenses, accounts payable, procurement and travel",
+  "problem": "Mid-market and enterprise finance teams lose control of spend scattered across cards, invoices, entities and manual approvals",
+  "industry": "Spend management / finance automation",
+  "stage": "Series C",
+  "last_round": "$280M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Goldman Sachs Alternatives (Growth Equity)",
+  "total_open_roles": "71",
+  "ops_roles": "Director of Finance Operations; Founder's Associate; Implementation Manager; Team Lead, Implementation",
+  "hiring_trend": "Headcount ~541 → ~560 YoY (+3.5%, Revelio Jun 2026), slowing from +23% in 2025; 71 open roles now",
+  "headcount": "~560",
+  "latest_news": "Raised $280M Series C at $2B valuation led by Goldman Sachs Alternatives",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.globenewswire.com/news-release/2026/11/18/3405403/0/en/payhawk-raises-280m-at-a-2b-valuation-as-it-evolves-into-the-global-finance-os-for-the-ai-era.html",
+  "traction": "$100M+ ARR (Jul 2026), up from €39.5M ARR end-2024 (+78% that year); cash-flow positive Q3 2026",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "5.5",
+  "zone": "Sprint",
+  "status": "new",
+  "glassdoor_rating": "3.6",
+  "glassdoor_reviews": "115",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Payhawk-Reviews-E5141574.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 18, 2026",
+  "engine": "Lock-in",
+  "distance": "Half",
+  "distance_why": "A leading European spend platform with audited 173.5% NRR, $100M+ ARR and added AP, procurement and travel lines, embedded in ERPs with its own EU/UK e-money licences; still trails Ramp and Brex globally and fights Pleo, Spendesk and Moss in Europe.",
+  "distance_sources": [
+   {
+    "label": "Payhawk: FY2024 audited results, ARR €39.5M, NRR 173.5% (Sep 2025)",
+    "url": "https://payhawk.com/blog/payhawk-quadruples-ifrs-revenue-in-two-years-2025"
+   },
+   {
+    "label": "Payhawk: surpasses $100M ARR (Jul 2026)",
+    "url": "https://payhawk.com/blog/news-payhawk-passes-100m-arr"
+   },
+   {
+    "label": "TechCrunch: Payhawk $280M at $2B; competes with Pleo, Moss, Spendesk (Nov 2026)",
+    "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Linq",
+  "slug": "linq",
+  "site": "https://linqapp.com",
+  "careers_url": "https://jobs.ashbyhq.com/linqapp",
+  "what_they_do": "APIs that let businesses and AI agents text, call and act over iMessage, RCS, WhatsApp, SMS",
+  "problem": "Agents and apps can't reach users where they already chat; SMS is green-bubble, filtered, and apps need downloads",
+  "industry": "Messaging infrastructure for AI agents (CPaaS)",
+  "stage": "Series B",
+  "last_round": "$90M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Andreessen Horowitz (a16z)",
+  "total_open_roles": "12",
+  "ops_roles": "Chief of Staff; Partner Experience Manager; Partner Success Manager; Office Manager & Executive Assistant",
+  "hiring_trend": "Open roles 7 → 12 since Aug; team ~60, plans to double workforce in 2027",
+  "headcount": "~60",
+  "latest_news": "Raised $90M Series B led by a16z at $1B valuation; Ben Horowitz joins board",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://linqapp.com/blog/linq-raises-90m-welcomes-ben-horowitz-to-the-board",
+  "traction": "1B+ messages processed, +150M/month (30M/month in Feb); revenue up 10x (company-stated)",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "2.1",
+  "glassdoor_reviews": "8",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Linqapp-Reviews-E1289780.htm",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 18, 2026",
+  "engine": "Lock-in",
+  "distance": "10K",
+  "distance_why": "Fast-growing pick of AI-agent builders (Poke, DoorDash, Lindy) and an official Apple Messages for Business provider, but its core blue-bubble iMessage API runs on Apple hardware and accounts outside any official Apple API, so Apple can restrict it at will; Sendblue and others sell the same thing.",
+  "distance_sources": [
+   {
+    "label": "Lindy Engineering: Apple banned our iMessage account; rebuilt on Linq (Mar 2026)",
+    "url": "https://www.lindy.ai/engineering/imessage-api"
+   },
+   {
+    "label": "amb.directory: iMessage phone farms and Apple platform risk (Aug 2026)",
+    "url": "https://amb.directory/posts/imessage-phone-farms-blue-bubble-risks"
+   },
+   {
+    "label": "Linq: $90M raise, 1B+ messages, DoorDash on Apple Messages for Business (Nov 2026)",
+    "url": "https://linqapp.com/blog/linq-raises-90m-welcomes-ben-horowitz-to-the-board"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "New York",
+   "Birmingham"
+  ]
  }
 ]

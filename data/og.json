@@ -2231,6 +2231,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "linq": {
+  "url": "https://res.cloudinary.com/linq/image/upload/c_fill,g_auto,w_1200,h_630,q_auto,f_auto/v1795018003/website/Home-page-2026/AMB%20version/Home_b5nfcu.png",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-19"
+ },
  "listen-labs": {
   "url": "https://framerusercontent.com/images/dbvdE5wpNAcvbsmVZtbg44jdcY.png",
   "kind": "og",
@@ -2921,6 +2927,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "payhawk": {
+  "url": "https://storage.googleapis.com/payhawk-website/images/000/018/228/original/Meta-Default-1200x630.png",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-19"
+ },
  "peec-ai": {
   "url": "https://framerusercontent.com/images/SKe1b9R9eEsHXj6qa8N3ZFlThs.png",
   "kind": "og",
@@ -3574,6 +3586,12 @@
   "kind": "og",
   "type": "image/webp",
   "checked": "2026-10-19"
+ },
+ "sequel": {
+  "url": "https://sequel.io/api/og?title=Host%20webinars%20on%20your%20domain%20with%20AI-driven%20action",
+  "kind": "og",
+  "type": "image/png",
+  "checked": "2026-11-19"
  },
  "serval": {
   "url": "https://cdn.sanity.io/images/0dz925b3/production/da4f03bece37bc665ec580a5a43ceef3cd046c2b-2400x1260.png?w=1200&h=630",
