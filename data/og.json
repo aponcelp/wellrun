@@ -3221,6 +3221,12 @@
   "type": "image/png",
   "checked": "2026-10-19"
  },
+ "pulley-permitting": {
+  "url": "https://www.withpulley.com/opengraph.jpg",
+  "kind": "og",
+  "type": "image/jpeg",
+  "checked": "2026-11-20"
+ },
  "pylon": {
   "url": "https://cdn.prod.website-files.com/6a2c6d7ab6674379553c0824/6ac6a7c25f73a94a812c0d67_pylon%20open%20graph%20image.png",
   "kind": "og",

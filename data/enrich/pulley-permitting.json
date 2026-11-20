@@ -1,0 +1,58 @@
+{
+  "slug": "pulley-permitting",
+  "checked": "Nov 20, 2026",
+  "depth": "light",
+  "founded": 2021,
+  "hq": "San Francisco, CA (sales hub in New York; permit ops team remote across the US)",
+  "headcount_est": {
+    "value": "~110-122",
+    "as_of": "Nov 2026",
+    "source": "https://linkedin.com/company/pulley-permitting"
+  },
+  "leadership": [
+    {
+      "name": "Charlie Jacobson",
+      "title": "Co-founder & CEO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.withpulley.com/company"
+    },
+    {
+      "name": "Andreas Rotenberg",
+      "title": "Co-founder & COO",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.withpulley.com/company"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2022-06",
+      "amount": "$4.4M",
+      "valuation": null,
+      "lead": "Susa Ventures",
+      "source": "https://techcrunch.com/2022/06/02/pulley-raises-4-4m-seed-to-shorten-the-construction-permitting-process-from-months-to-days-with-its-software/"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-11",
+      "amount": "$23M",
+      "valuation": null,
+      "lead": "CRV, Susa Ventures",
+      "source": "https://www.businesswire.com/news/home/20261118446586/en/Pulley-Raises-%2464M-to-Accelerate-Every-Phase-of-Real-Estate-Development"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-11",
+      "amount": "$41M",
+      "valuation": null,
+      "lead": "Jump Capital",
+      "source": "https://www.businesswire.com/news/home/20261118446586/en/Pulley-Raises-%2464M-to-Accelerate-Every-Phase-of-Real-Estate-Development"
+    }
+  ],
+  "total_raised": "~$68M ($4.4M seed + $64M Series A and B, Nov 2026)",
+  "revenue_est": null,
+  "news_timeline": [],
+  "competitors": []
+}

@@ -44637,5 +44637,60 @@
    "Czech Republic",
    "Remote (Poland)"
   ]
+ },
+ {
+  "name": "Pulley",
+  "slug": "pulley-permitting",
+  "site": "https://www.withpulley.com",
+  "careers_url": "https://jobs.ashbyhq.com/withpulley",
+  "what_they_do": "AI agents plus licensed permitting experts that get commercial construction projects approved",
+  "problem": "Developers lose months waiting on permits across 20,000 jurisdictions with fragmented local expediters",
+  "industry": "Construction permitting / proptech",
+  "stage": "Series B",
+  "last_round": "$41M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Jump Capital (Series B); CRV, Susa Ventures (Series A)",
+  "total_open_roles": "14",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~55 → ~110-122 in ~12 mo (doubled); permit ops team more than doubled; ~16 postings, steady",
+  "headcount": "~110-122",
+  "latest_news": "Raised $64M: $41M Series B led by Jump plus $23M Series A led by CRV, Susa",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.businesswire.com/news/home/20261118446586/en/Pulley-Raises-%2464M-to-Accelerate-Every-Phase-of-Real-Estate-Development",
+  "traction": "ARR up 5x YoY (no absolute figure); $21B projects supported; Amazon, Starbucks, Meta, JLL, Equinix",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Tempo",
+  "status": "new",
+  "glassdoor_rating": "4.8",
+  "glassdoor_reviews": "13",
+  "glassdoor_url": "https://www.glassdoor.com/Overview/Working-at-Pulley-EI_IE10103265.11,17.htm",
+  "keep": "yes: private, VC-backed construction-permitting startup (withpulley.com), not the cap-table Pulley",
+  "is_new": true,
+  "last_checked": "Nov 20, 2026",
+  "engine": "Data",
+  "distance": "Half",
+  "distance_why": "A strong #2-3 in AI permitting behind or alongside PermitFlow and GreenLite, with broad enterprise adoption (Amazon, Starbucks, Meta, Equinix), a compounding regulatory-data edge and new product lines (private plan review, site diligence); its expert-heavy service model is less scalable than pure software.",
+  "distance_sources": [
+   {
+    "label": "Business Wire: Pulley raises $64M (Nov 2026)",
+    "url": "https://www.businesswire.com/news/home/20261118446586/en/Pulley-Raises-%2464M-to-Accelerate-Every-Phase-of-Real-Estate-Development"
+   },
+   {
+    "label": "Jump Capital: Why we invested in Pulley (Nov 2026)",
+    "url": "https://jumpcap.com/insights/why-we-invested-in-pulley/"
+   },
+   {
+    "label": "PermitFlow: $54M Series B led by Accel",
+    "url": "https://www.permitflow.com/blog/permitflow-series-b"
+   }
+  ],
+  "hiring_locations": [
+   "New York",
+   "San Francisco",
+   "California",
+   "Remote (US)"
+  ]
  }
 ]
