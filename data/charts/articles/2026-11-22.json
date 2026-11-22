@@ -1,0 +1,132 @@
+{
+ "week": "2026-11-22",
+ "title": "Quartermaster and Simile climb on hiring, Firecrawl falls out",
+ "lede": "A quiet week for new money: the big rounds on the board (Applied Intuition, Sierra, Ramp, Cognition) are still talks, not closings. The moves came from hiring. Quartermaster, Simile and Function Health pushed up, Firecrawl and Synthesia slid, and Payhawk's $280M round put it straight at #24.",
+ "sections": [
+  {
+   "heading": "The climbers",
+   "items": [
+    {
+     "slug": "model-ml",
+     "name": "Model ML",
+     "move": "#535 → #182",
+     "score": "2.5 → 4.5",
+     "zone": "Warm-up → Race",
+     "why": "A $250M Series B at a $1.5B valuation, 18 months after launching from stealth (General Atlantic, Nov 17). It is the biggest jump on the board."
+    },
+    {
+     "slug": "quartermaster",
+     "name": "Quartermaster",
+     "move": "#125 → #94",
+     "score": "4.75 → 5.0",
+     "zone": "Sprint → Sprint",
+     "why": "Open roles grew from 11 to 19, two steps up in hiring points. It is back in the 100."
+    },
+    {
+     "slug": "simile",
+     "name": "Simile",
+     "move": "#104 → #79",
+     "score": "4.75 → 5.0",
+     "zone": "Sprint → Sprint",
+     "why": "Open roles grew from 13 to 15, one step up in hiring points."
+    },
+    {
+     "slug": "function-health",
+     "name": "Function Health",
+     "move": "#95 → #61",
+     "score": "4.75 → 5.0",
+     "zone": "Sprint → Sprint",
+     "why": "Open roles reached 30, back to full hiring points."
+    },
+    {
+     "slug": "wispr-flow",
+     "name": "Wispr Flow",
+     "move": "#49 → #39",
+     "score": "5.25 → 5.5",
+     "zone": "Sprint → Sprint",
+     "why": "Open roles reached 30, back to full hiring points."
+    },
+    {
+     "slug": "outmarket-ai",
+     "name": "Outmarket AI",
+     "move": "#179 → #115",
+     "score": "4.5 → 4.75",
+     "zone": "Race → Sprint",
+     "why": "Open roles grew from 18 to 21, one step up in hiring points. Picogrid made the same jump (19 to 24 roles, #181 → #116)."
+    }
+   ]
+  },
+  {
+   "heading": "The big deals",
+   "items": [
+    {
+     "slug": "payhawk",
+     "name": "Payhawk",
+     "move": "new → #24",
+     "score": "5.5",
+     "zone": "Sprint",
+     "why": "A $280M Series C at a $2B valuation (Nov 18), straight onto the chart."
+    },
+    {
+     "slug": "applied-compute",
+     "name": "Applied Compute",
+     "move": "#81 → #83",
+     "score": "5.0 → 5.0",
+     "zone": "Sprint → Sprint",
+     "why": "Palo Alto Networks agreed to buy it for $4.5B in stock (Nov 18), weeks after its $350M round at $3.25B. The deal is expected to close in Palo Alto's fiscal Q3 2027, so it stays on the board for now."
+    },
+    {
+     "slug": "mistral-ai",
+     "name": "Mistral AI",
+     "move": "#9 → #9",
+     "score": "5.5 → 5.5",
+     "zone": "Sprint → Sprint",
+     "why": "Deutsche Telekom's T.Capital put in about €100M (Nov 19) as a first step in a wider partnership. It was already at full funding points."
+    }
+   ]
+  },
+  {
+   "heading": "The drops",
+   "items": [
+    {
+     "slug": "firecrawl",
+     "name": "Firecrawl",
+     "move": "#99 → #202",
+     "score": "4.75 → 4.25",
+     "zone": "Sprint → Race",
+     "why": "Open roles fell from 24 to 14, two steps down in hiring points."
+    },
+    {
+     "slug": "synthesia",
+     "name": "Synthesia",
+     "move": "#59 → #98",
+     "score": "5.0 → 4.75",
+     "zone": "Sprint → Sprint",
+     "why": "Open roles fell from 31 to 27, one step down in hiring points. It just holds on."
+    },
+    {
+     "slug": "general-medicine",
+     "name": "General Medicine",
+     "move": "#113 → #178",
+     "score": "4.75 → 4.5",
+     "zone": "Sprint → Race",
+     "why": "Open roles fell from 13 to 8, one step down in hiring points."
+    },
+    {
+     "slug": "netic",
+     "name": "Netic",
+     "move": "#178 → #219",
+     "score": "4.5 → 4.25",
+     "zone": "Race → Race",
+     "why": "Open roles fell from 36 to 26, one step down in hiring points."
+    }
+   ]
+  },
+  {
+   "heading": "The exits",
+   "body": "Albert Invent (#97) and Canals (#98) kept their 4.75 and now sit at #101 and #102; the new arrivals above pushed them out. Firecrawl left on hiring, as noted above.",
+   "items": []
+  }
+ ],
+ "outro": "The chart re-ranks every Sunday."
+}
