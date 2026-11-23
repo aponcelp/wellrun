@@ -128,5 +128,60 @@
    "items": []
   }
  ],
+ "spotlight": {
+  "label": "Featured this week",
+  "slug": "ambrook",
+  "name": "Ambrook",
+  "tagline": "Accounting, payments and cash management for America's independent businesses, starting with farms and ranches.",
+  "facts": [
+   {
+    "k": "Does",
+    "v": "Accounting, bill pay, invoicing, payments and cash management for family farms and ranches, and now trucking companies, contractors and property managers. Many are replacing QuickBooks; for about half, Ambrook is their first software."
+   },
+   {
+    "k": "Money",
+    "v": "A $30M Series B led by Lachy Groom (Aug 2026), after a $26.1M Series A led by Thrive Capital (Jul 2025)."
+   },
+   {
+    "k": "Traction",
+    "v": "More than 8,000 businesses, up from about 2,500 a year earlier. It took three years to win its first 30 customers."
+   },
+   {
+    "k": "Team",
+    "v": "Founded in 2020 by Mackenzie Burnett (CEO), Dan Schlosser and Jeff Anders, based in New York. A four-person customer success team now supports a customer base 10x larger, with an AI agent that can fix bugs and ship product changes."
+   },
+   {
+    "k": "Risk",
+    "v": "Most customers are still in agriculture, a cyclical business, and it goes up against Intuit as it moves into new industries."
+   },
+   {
+    "k": "Board",
+    "v": "Tempo, 4.0"
+   }
+  ],
+  "why": "I got to meet some of the Ambrook team recently, and I left inspired. They build for businesses most software ignores, family farms, ranches and truckers, many of them still running millions of dollars on paper. Listening to Mackenzie Burnett on a podcast, what surprised me was how much she genuinely cares about their customers. Their support team says it plainly: they don't want to be more efficient with customers, they want to build with them. It took three years to earn their first 30 customers, and now there are more than 8,000. It is a very human company, and it shows in the design too.",
+  "sources": [
+   {
+    "label": "Series B (Upstarts)",
+    "url": "https://www.upstartsmedia.com/p/ambrook-raises-30m-series-b-real-economy"
+   },
+   {
+    "label": "Ambrook's Series B letter",
+    "url": "https://ambrook.com/series-b"
+   },
+   {
+    "label": "From Inbox to Pull Request",
+    "url": "https://ambrook.com/blog/inside-ambrook/from-inbox-to-pull-request"
+   },
+   {
+    "label": "Mackenzie Burnett on Fortune's Term Sheet",
+    "url": "https://ambrook.com/blog/press/watch-ambrook-on-fortune-term-sheet"
+   },
+   {
+    "label": "Series A (Fortune)",
+    "url": "https://fortune.com/2025/07/01/exclusive-ambrook-raises-26-1-million-series-a-to-provide-farmers-and-ranchers-with-better-accounting-software/"
+   }
+  ]
+ },
  "outro": "The chart re-ranks every Sunday."
 }
