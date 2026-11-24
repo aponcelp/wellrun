@@ -1,0 +1,65 @@
+{
+  "slug": "embo",
+  "checked": "Nov 23, 2026",
+  "depth": "full",
+  "founded": 2025,
+  "hq": "San Francisco, CA (SoMa / downtown)",
+  "headcount_est": null,
+  "leadership": [
+    {
+      "name": "Danijar Hafner",
+      "title": "Co-founder & CEO (creator of Dreamer; ~10 years at Google Brain/DeepMind)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://embo.com/company"
+    },
+    {
+      "name": "Wilson Yan",
+      "title": "Co-founder & CTO (created VideoGPT; ex-Google DeepMind)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://embo.com/company"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2026-11",
+      "amount": "$110M",
+      "valuation": null,
+      "lead": "Andreessen Horowitz (with Khosla Ventures, DST Global, NVentures, Striker VP and strategics)",
+      "source": "https://embo.com/introducing-embo"
+    }
+  ],
+  "total_raised": "$110M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Came out of stealth with a $110M seed led by a16z; Khosla, DST, NVentures joined",
+      "url": "https://embo.com/introducing-embo"
+    },
+    {
+      "date": "2026-11",
+      "headline": "a16z: Embo is building 'the brain for the humanoid workforce' on world models",
+      "url": "https://a16z.com/announcement/investing-in-embo/"
+    },
+    {
+      "date": "2026-09",
+      "headline": "MIT Tech Review names Hafner an Innovator Under 35; stealth SoMa office full of humanoids",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents"
+    },
+    {
+      "date": "2026-03",
+      "headline": "The Information: ex-DeepMind researchers raising $100M+ seed for world models",
+      "url": "https://www.theinformation.com/briefings/exclusive-ex-google-deepmind-researchers-raising-100-million-build-world-models"
+    }
+  ],
+  "competitors": [
+    "physical-intelligence",
+    "skild-ai",
+    "genesis-ai",
+    "general-intuition",
+    "World Labs"
+  ]
+}

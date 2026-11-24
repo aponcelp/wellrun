@@ -44702,5 +44702,156 @@
    "California",
    "Remote (US)"
   ]
+ },
+ {
+  "name": "Embo",
+  "slug": "embo",
+  "site": "https://embo.com",
+  "careers_url": "https://jobs.ashbyhq.com/Embo",
+  "what_they_do": "World-model AI 'brain' that lets humanoid robots work in unfamiliar places",
+  "problem": "Robots trained on demos break when objects, lighting or rooms change, so they can't deploy broadly",
+  "industry": "Robotics foundation models / physical AI",
+  "stage": "Seed",
+  "last_round": "$110M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Andreessen Horowitz (with Khosla Ventures, DST Global, NVentures)",
+  "total_open_roles": "9",
+  "ops_roles": "",
+  "hiring_trend": "Just out of stealth: 9 postings all opened Nov 23, 2026; ~2 people at MIT Tech Review visit earlier in 2026",
+  "headcount": "n.a. (undisclosed; tiny, founders plus early team)",
+  "latest_news": "Came out of stealth with a $110M seed led by a16z",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://embo.com/introducing-embo",
+  "traction": "Pre-product, pre-revenue; no customers disclosed; own humanoid fleet collecting training data",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes: private, VC-backed robotics foundation-model startup (embo.com); research-heavy with no ops roles yet",
+  "is_new": true,
+  "last_checked": "Nov 23, 2026",
+  "engine": "None yet",
+  "distance": "Unproven",
+  "distance_why": "Elite world-model team (Dreamer, VideoGPT) and a record seed, but no product or customers yet, and Physical Intelligence, Skild AI and Genesis AI have raised far more chasing the same robot brain.",
+  "distance_sources": [
+   {
+    "label": "Embo: Introducing Embo, $110M seed (Nov 2026)",
+    "url": "https://embo.com/introducing-embo"
+   },
+   {
+    "label": "Dealroom News: Embo raises $110M seed; no product, customers or valuation disclosed (Nov 2026)",
+    "url": "https://dealroom.co/news/175093-embo-raises-110m-seed-to-build-robot-brains-with-world-models"
+   },
+   {
+    "label": "MIT Technology Review: Danijar Hafner profile, startup in stealth (Sep 2026)",
+    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco"
+  ]
+ },
+ {
+  "name": "Marlowe",
+  "slug": "marlowe",
+  "site": "https://marlowe.ai",
+  "careers_url": "https://jobs.ashbyhq.com/marlowe-ai",
+  "what_they_do": "Designs, builds and runs inference data centers on non-Nvidia chips (Etched, AMD)",
+  "problem": "AI companies pay too much for scarce, Nvidia-only inference compute that wastes power and alternative chips",
+  "industry": "AI infrastructure / inference neocloud",
+  "stage": "Seed",
+  "last_round": "$277M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Accel (seed); Eclipse (earlier initial round)",
+  "total_open_roles": "3",
+  "ops_roles": "Procurement, Sourcing & Supply Chain Lead, Data Center Engineering",
+  "hiring_trend": "Founded May 2026, ~30 staff at launch (25 named on site); 3 on-site postings live but unlisted on Ashby board",
+  "headcount": "~30",
+  "latest_news": "Out of stealth with $277M seed at $1.15B valuation led by Accel",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.geekwire.com/2026/beyond-nvidia-convoy-co-founder-and-former-microsoft-leader-raise-277m-to-rethink-ai-infrastructure",
+  "traction": "Pre-revenue; 3 customer agreements signed, 2 sites under contract, first site live Dec 2026",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes: private, VC-backed independent startup; note it is heavy AI-infra/data-center (SPEC exclusion), added at Alfredo's request like General Compute",
+  "is_new": true,
+  "last_checked": "Nov 23, 2026",
+  "engine": "Scale",
+  "distance": "Unproven",
+  "distance_why": "Six months old, pre-revenue, with ~30 staff; its edge is tuning non-Nvidia chips, networking and data centers per workload (claimed 2-3x tokens per watt, self-reported), but it is capital-hungry, sells into a crowded inference-neocloud field (Gimlet Labs, General Compute, Parasail) and its first site only goes live in December.",
+  "distance_sources": [
+   {
+    "label": "GeekWire: Marlowe raises $277M seed, first site live in December (Nov 2026)",
+    "url": "https://www.geekwire.com/2026/beyond-nvidia-convoy-co-founder-and-former-microsoft-leader-raise-277m-to-rethink-ai-infrastructure"
+   },
+   {
+    "label": "Quartz/Bloomberg: Marlowe $277M; board chair calls it 'a really tough execution problem' (Nov 2026)",
+    "url": "https://qz.com/marlowe-277-million-non-nvidia-ai-chips-seed-112326"
+   },
+   {
+    "label": "Accel: Our investment in Marlowe (Nov 2026)",
+    "url": "https://www.accel.com/news/our-investment-in-marlowe-the-multi-silicon-ai-factory"
+   }
+  ],
+  "hiring_locations": []
+ },
+ {
+  "name": "Remedy Robotics",
+  "slug": "remedy-robotics",
+  "site": "https://www.remedyrobotics.com",
+  "careers_url": "https://jobs.ashbyhq.com/remedyrobotics",
+  "what_they_do": "AI-powered robot that lets specialists perform stroke and heart catheter procedures remotely",
+  "problem": "Fewer than 3% of eligible stroke patients get endovascular treatment in time because specialists are scarce",
+  "industry": "Medical robotics / endovascular intervention",
+  "stage": "Series B",
+  "last_round": "$62M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "DCVC",
+  "total_open_roles": "4",
+  "ops_roles": "",
+  "hiring_trend": "Headcount ~19 → ~26-30 (LinkedIn +36% YoY); open roles 6 → 4 since Sep 2026",
+  "headcount": "~25-30",
+  "latest_news": "Raised $62M Series B led by DCVC to fund a pivotal UC trial toward FDA approval",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/remedy-robotics-raises-62-million-series-b-to-bring-life-saving-cardiovascular-intervention-to-patients-everywhere-302939871.html",
+  "traction": "Pre-revenue (N1 investigational); works with 100+ hospitals; first fully remote neurointerventions Oct 2025",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.0",
+  "zone": "Steady",
+  "status": "new",
+  "glassdoor_rating": "3.0",
+  "glassdoor_reviews": "1",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Remedy-Robotics-Reviews-E7248885.htm",
+  "keep": "yes: private, VC-backed SF medtech robotics startup selling to hospitals; deep-hardware and pre-revenue, so few ops roles yet",
+  "is_new": true,
+  "last_checked": "Nov 23, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "First to do fully remote robotic neurointervention, with data from 40+ hospitals and 48 patents, but the N1 is investigational and pre-revenue, and FDA approval and hospital adoption are still ahead.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Remedy Robotics raises $62M Series B (Nov 2026)",
+    "url": "https://www.prnewswire.com/news-releases/remedy-robotics-raises-62-million-series-b-to-bring-life-saving-cardiovascular-intervention-to-patients-everywhere-302939871.html"
+   },
+   {
+    "label": "The Robotics Media: Remedy's $62M Series B and rivals Microbot, Stereotaxis (Nov 2026)",
+    "url": "https://theroboticsmedia.com/article/remedy-robotics-raises-62m-series-b-n1-endovascular-robot"
+   }
+  ],
+  "hiring_locations": [
+   "San Francisco",
+   "Remote"
+  ]
  }
 ]

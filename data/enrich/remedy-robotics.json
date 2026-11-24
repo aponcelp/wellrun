@@ -1,0 +1,82 @@
+{
+  "slug": "remedy-robotics",
+  "checked": "Nov 23, 2026",
+  "depth": "full",
+  "founded": 2020,
+  "hq": "San Francisco, CA (small team in Australia; clinical partners in the US, Canada and Australia)",
+  "headcount_est": {
+    "value": "~26-30 (LinkedIn, +36% YoY) / ~21 (Tracxn, Jun 2026) / ~25 (press)",
+    "as_of": "Jun-Nov 2026",
+    "source": "https://linkedin.com/company/remedyrobotics"
+  },
+  "leadership": [
+    {
+      "name": "David Bell",
+      "title": "Co-founder & CEO (physician; Stanford MBA)",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/david-bell-rr",
+      "source": "https://www.prnewswire.com/news-releases/remedy-robotics-raises-62-million-series-b-to-bring-life-saving-cardiovascular-intervention-to-patients-everywhere-302939871.html"
+    },
+    {
+      "name": "Jake Sganga",
+      "title": "Co-founder & CTO (Stanford PhD, surgical robotics)",
+      "founder": true,
+      "linkedin": "https://linkedin.com/in/jakesganga",
+      "source": "https://www.prnewswire.com/news-releases/remedy-robotics-raises-62-million-series-b-to-bring-life-saving-cardiovascular-intervention-to-patients-everywhere-302939871.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2020-06",
+      "amount": null,
+      "valuation": null,
+      "lead": "DCVC",
+      "source": "https://www.dcvc.com/news-insights/remedys-ai-powered-robot-supports-worlds-first-remote-neurointervention/"
+    },
+    {
+      "round": "Series A",
+      "date": "2025-10",
+      "amount": "$35M (seed + Series A combined, disclosed Oct 2025; Series A closed earlier, date varies by source)",
+      "valuation": null,
+      "lead": "Blackbird",
+      "source": "https://www.dcvc.com/news-insights/remedys-ai-powered-robot-supports-worlds-first-remote-neurointervention/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-11",
+      "amount": "$62M",
+      "valuation": null,
+      "lead": "DCVC",
+      "source": "https://www.prnewswire.com/news-releases/remedy-robotics-raises-62-million-series-b-to-bring-life-saving-cardiovascular-intervention-to-patients-everywhere-302939871.html"
+    }
+  ],
+  "total_raised": "~$97M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Raised $62M Series B led by DCVC; pivotal trial planned across the UC network",
+      "url": "https://www.prnewswire.com/news-releases/remedy-robotics-raises-62-million-series-b-to-bring-life-saving-cardiovascular-intervention-to-patients-everywhere-302939871.html"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Profiled on its stroke-telesurgery strategy ahead of pivotal trials",
+      "url": "https://www.medicaldesignandoutsourcing.com/remedy-robotics-n1-system-stroke-telesurgery-robot/"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Emerged from stealth with world's first fully remote neurointerventions in Toronto",
+      "url": "https://www.dcvc.com/news-insights/remedys-ai-powered-robot-supports-worlds-first-remote-neurointervention/"
+    },
+    {
+      "date": "2025-10",
+      "headline": "Disclosed $35M in seed and Series A funding (DCVC, Blackbird, Build Collective)",
+      "url": "https://www.blackbird.vc/blog/investment-notes-remedy-robotics"
+    }
+  ],
+  "competitors": [
+    "Microbot Medical",
+    "Stereotaxis"
+  ]
+}
