@@ -1,0 +1,82 @@
+{
+  "slug": "zipher",
+  "checked": "Nov 24, 2026",
+  "depth": "full",
+  "founded": 2024,
+  "hq": "New York, NY (R&D office in Tel Aviv, Israel; legal entity Zipher Technologies Ltd.)",
+  "headcount_est": {
+    "value": "~40 (CTech, Nov 2026) / ~34 (PitchBook) / ~25-29 on LinkedIn (+61% YoY)",
+    "as_of": "Nov 2026",
+    "source": "https://www.calcalistech.com/ctechnews/article/bkreuwq1xg"
+  },
+  "leadership": [
+    {
+      "name": "Dan Coster",
+      "title": "Co-founder & CEO (Unit 8200 alumnus)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://www.calcalistech.com/ctechnews/article/bkreuwq1xg"
+    },
+    {
+      "name": "Yoav Gill Ben Ephraim",
+      "title": "Co-founder & CTO (Unit 8200; ex-Director of Data Platform at Payoneer, ex-Microsoft)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://siliconangle.com/2026/11/24/zipher-lands-53m-to-put-ai-agents-not-data-engineers-in-charge-of-data-workloads/"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2024-08",
+      "amount": "$8M",
+      "valuation": null,
+      "lead": "TLV Partners",
+      "source": "https://www.calcalistech.com/ctechnews/article/bkreuwq1xg"
+    },
+    {
+      "round": "Series A",
+      "date": "2026-11",
+      "amount": "$45M",
+      "valuation": null,
+      "lead": "Maor Investments, Glilot Capital Partners (co-leads; TLV Partners participated)",
+      "source": "https://www.calcalistech.com/ctechnews/article/bkreuwq1xg"
+    }
+  ],
+  "total_raised": "$53M",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Came out of stealth with $53M across an $8M seed and $45M Series A; 40 staff",
+      "url": "https://www.calcalistech.com/ctechnews/article/bkreuwq1xg"
+    },
+    {
+      "date": "2026-11",
+      "headline": "Named Hertz as a customer (25-40% compute cost cuts); Fortune 500 customers in finance, travel, CPG and energy",
+      "url": "https://siliconangle.com/2026/11/24/zipher-lands-53m-to-put-ai-agents-not-data-engineers-in-charge-of-data-workloads/"
+    },
+    {
+      "date": "2026-11",
+      "headline": "Plans to build US enterprise sales and expand across EMEA, LATAM and APAC",
+      "url": "https://www.businesswire.com/news/home/20261124091381/en/Zipher-Raises-%2453M-to-Rebuild-Data-Infrastructure-for-Agents-by-Agents"
+    },
+    {
+      "date": "2026-01",
+      "headline": "Repositioned from Databricks cost optimization to an execution layer for agentic workloads; 50K workloads managed daily",
+      "url": "https://zipher.ai/about"
+    },
+    {
+      "date": "2024-08",
+      "headline": "Raised $8M seed led by TLV Partners",
+      "url": "https://www.calcalistech.com/ctechnews/article/bkreuwq1xg"
+    }
+  ],
+  "competitors": [
+    "Databricks (native serverless/autoscaling)",
+    "Sync Computing",
+    "Unravel Data",
+    "Pepperdata",
+    "Granulate (Intel)"
+  ]
+}

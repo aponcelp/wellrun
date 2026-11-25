@@ -44853,5 +44853,102 @@
    "San Francisco",
    "Remote"
   ]
+ },
+ {
+  "name": "Peak Energy",
+  "slug": "peak-energy",
+  "site": "https://peakenergy.com",
+  "careers_url": "https://job-boards.greenhouse.io/peakenergy",
+  "what_they_do": "Passively cooled sodium-ion battery storage systems for the grid and data centers",
+  "problem": "Utilities, power producers and data centers need cheaper, safer storage without lithium fire risk, cooling upkeep or Chinese supply",
+  "industry": "Grid energy storage / sodium-ion batteries",
+  "stage": "Series B",
+  "last_round": "$132M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "General Motors Ventures",
+  "total_open_roles": "21",
+  "ops_roles": "Senior Staff Technical Program Manager, ESS; Technical Program Manager, ESS; Senior Director of Manufacturing; Facilities Engineering Lead",
+  "hiring_trend": "Headcount ~158 → ~216 (Revelio, +38% YoY), ~213 on LinkedIn; open roles 28 → 21 since Sep 2026",
+  "headcount": "~200-215",
+  "latest_news": "Expanded Series B to $157M: $132M equity led by GM Ventures plus $25M HSBC debt",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.prnewswire.com/news-releases/peak-energy-expands-series-b-total-financing-to-157-million-to-accelerate-manufacturing-amid-growing-customer-backlog-302949087.html",
+  "traction": "$2.5B+ customer agreements (up from $1B in Oct); Jupiter Power deal up to 4.75 GWh; 4 GWh Sacramento factory",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "4.5",
+  "zone": "Race",
+  "status": "new",
+  "glassdoor_rating": "4.1",
+  "glassdoor_reviews": "8",
+  "glassdoor_url": "https://www.glassdoor.com/Reviews/Peak-Energy-Reviews-E2295442.htm",
+  "keep": "yes: private, VC-backed US hard-tech startup selling to utilities, IPPs and data centers; manufacturing-heavy, so ops roles skew to programs, factory and supply chain",
+  "is_new": true,
+  "last_checked": "Nov 24, 2026",
+  "engine": "Scale",
+  "distance": "Unproven",
+  "distance_why": "Leading US sodium-ion storage maker with $2.5B+ in agreements, GM as cell partner and a 4 GWh factory, but commercial deliveries only start in 2027 and it must beat cheap Chinese LFP and sodium-ion at scale.",
+  "distance_sources": [
+   {
+    "label": "PR Newswire: Peak Energy expands Series B to $157M (Nov 2026)",
+    "url": "https://www.prnewswire.com/news-releases/peak-energy-expands-series-b-total-financing-to-157-million-to-accelerate-manufacturing-amid-growing-customer-backlog-302949087.html"
+   },
+   {
+    "label": "Canary Media: Peak's Sacramento grid-battery factory (Jul 2026)",
+    "url": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california"
+   }
+  ],
+  "hiring_locations": [
+   "Burlingame",
+   "Sacramento",
+   "Broomfield",
+   "Remote"
+  ]
+ },
+ {
+  "name": "Zipher",
+  "slug": "zipher",
+  "site": "https://zipher.ai",
+  "careers_url": "https://zipher.ai/careers/",
+  "what_they_do": "AI agents that decide how enterprise data workloads run: compute, engine, scheduling",
+  "problem": "Data teams hand-tune clusters and engines for exploding agent-made workloads, overspending and missing SLAs",
+  "industry": "Data infrastructure / autonomous workload optimization",
+  "stage": "Series A",
+  "last_round": "$45M",
+  "last_round_date": "Nov 2026",
+  "lead_investors": "Maor Investments, Glilot Capital (TLV Partners led $8M seed)",
+  "total_open_roles": "14",
+  "ops_roles": "Solution Engineer (FDE); Technical Support Engineer",
+  "hiring_trend": "Headcount ~25 → ~40 (+61% YoY on LinkedIn; 40 per CTech); open roles 6 → 14 since Oct",
+  "headcount": "~40",
+  "latest_news": "Out of stealth with $53M across seed and $45M Series A",
+  "latest_news_date": "Nov 2026",
+  "latest_news_url": "https://www.calcalistech.com/ctechnews/article/bkreuwq1xg",
+  "traction": "Several Fortune 500 customers incl. Hertz (25-40% compute savings); 50K workloads/day; selling since late 2025",
+  "red_flags": "",
+  "red_flags_sources": [],
+  "score": "3.5",
+  "zone": "Warm-up",
+  "status": "new",
+  "glassdoor_rating": "",
+  "glassdoor_reviews": "",
+  "glassdoor_url": "",
+  "keep": "yes",
+  "is_new": true,
+  "last_checked": "Nov 24, 2026",
+  "engine": "Data",
+  "distance": "Unproven",
+  "distance_why": "Agents that learn each workload get better with every run they manage, and sit in the production path at Hertz and other Fortune 500s; but commercial selling only began late 2025 and Databricks, Snowflake and cloud cost tools can bundle similar optimization.",
+  "distance_sources": [
+   {
+    "label": "CTech: Zipher raises $45M Series A, $53M total (Nov 2026)",
+    "url": "https://www.calcalistech.com/ctechnews/article/bkreuwq1xg"
+   },
+   {
+    "label": "SiliconANGLE: Zipher lands $53M (Nov 2026)",
+    "url": "https://siliconangle.com/2026/11/24/zipher-lands-53m-to-put-ai-agents-not-data-engineers-in-charge-of-data-workloads/"
+   }
+  ],
+  "hiring_locations": []
  }
 ]

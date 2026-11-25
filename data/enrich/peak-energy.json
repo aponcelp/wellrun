@@ -1,0 +1,148 @@
+{
+  "slug": "peak-energy",
+  "checked": "Nov 24, 2026",
+  "depth": "full",
+  "founded": 2023,
+  "hq": "Burlingame, CA (cell R&D in Broomfield, CO; 4 GWh factory in Sacramento, CA)",
+  "headcount_est": {
+    "value": "~216 (Revelio, Jun 2026, +38% YoY) / ~213 (LinkedIn, Nov 2026; Caplight: 184 → 213, +16% QoQ) / ~205 (Tracxn, Sep 2026)",
+    "as_of": "Jun-Nov 2026",
+    "source": "https://www.reveliolabs.com/companies/peak-energy/employees"
+  },
+  "leadership": [
+    {
+      "name": "Landon Mossburg",
+      "title": "Co-founder & CEO (ex-Northvolt President North America, ex-Einride COO, ex-Tesla)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://peakenergy.com/company/about"
+    },
+    {
+      "name": "Liam O'Connor",
+      "title": "Co-founder & COO (ex-Zipline COO, ex-Lyft CPO, ex-Tesla VP Global Supply)",
+      "founder": true,
+      "linkedin": null,
+      "source": "https://peakenergy.com/company/about"
+    },
+    {
+      "name": "Cameron Dales",
+      "title": "President & Chief Commercial Officer (ex-Enovix GM/CCO)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://peakenergy.com/company/about"
+    },
+    {
+      "name": "Geoff Brown",
+      "title": "Chief Strategy Officer, leads strategy and special projects (ex-Powin CEO)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://peakenergy.com/company/about"
+    },
+    {
+      "name": "Paul Durkee",
+      "title": "CTO (since Feb 2026)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://peakenergy.com/company/about"
+    },
+    {
+      "name": "Peter Breuer",
+      "title": "VP Operations & Manufacturing (Chief of Staff / VP Strategy & Programs Aug 2023-Jan 2026)",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://peakenergy.com/company/about"
+    },
+    {
+      "name": "Zack Jacobson",
+      "title": "VP Finance",
+      "founder": false,
+      "linkedin": null,
+      "source": "https://www.prnewswire.com/news-releases/peak-energy-expands-series-b-total-financing-to-157-million-to-accelerate-manufacturing-amid-growing-customer-backlog-302949087.html"
+    }
+  ],
+  "funding_history": [
+    {
+      "round": "Seed",
+      "date": "2023-10",
+      "amount": "$10M",
+      "valuation": null,
+      "lead": "Eclipse",
+      "source": "https://www.ess-news.com/2024/07/18/peak-energy-secures-55-million-series-a-funding-to-manufacture-sodium-ion-batteries/"
+    },
+    {
+      "round": "Series A",
+      "date": "2024-07",
+      "amount": "$55M",
+      "valuation": null,
+      "lead": "Xora Innovation (Temasek)",
+      "source": "https://www.ess-news.com/2024/07/18/peak-energy-secures-55-million-series-a-funding-to-manufacture-sodium-ion-batteries/"
+    },
+    {
+      "round": "Series B",
+      "date": "2026-10",
+      "amount": "$108M",
+      "valuation": null,
+      "lead": "General Motors Ventures",
+      "source": "https://www.prnewswire.com/news-releases/peak-energy-raises-108-million-in-new-capital-announces-oversubscribed-series-b-to-scale-next-generation-energy-infrastructure-302914879.html"
+    },
+    {
+      "round": "Series B (expanded) + debt",
+      "date": "2026-11",
+      "amount": "$132M equity + $25M HSBC debt ($157M total)",
+      "valuation": "$500M-1B range (Dealroom, undisclosed)",
+      "lead": "General Motors Ventures",
+      "source": "https://www.prnewswire.com/news-releases/peak-energy-expands-series-b-total-financing-to-157-million-to-accelerate-manufacturing-amid-growing-customer-backlog-302949087.html"
+    }
+  ],
+  "total_raised": "~$197M equity (+$25M HSBC debt facility)",
+  "revenue_est": null,
+  "news_timeline": [
+    {
+      "date": "2026-11",
+      "headline": "Expanded Series B to $157M ($132M equity led by GM Ventures + $25M HSBC debt); $2.5B+ customer agreements",
+      "url": "https://www.prnewswire.com/news-releases/peak-energy-expands-series-b-total-financing-to-157-million-to-accelerate-manufacturing-amid-growing-customer-backlog-302949087.html"
+    },
+    {
+      "date": "2026-10",
+      "headline": "Closed oversubscribed $108M Series B led by GM Ventures; $1B+ customer orders; data center launch",
+      "url": "https://www.prnewswire.com/news-releases/peak-energy-raises-108-million-in-new-capital-announces-oversubscribed-series-b-to-scale-next-generation-energy-infrastructure-302914879.html"
+    },
+    {
+      "date": "2026-09",
+      "headline": "Began moving equipment into Sacramento factory; first of a planned 250 local hires",
+      "url": "https://www.bizjournals.com/sacramento/news/2026/09/30/peak-energy-factory-equipment-installing-hiring.html"
+    },
+    {
+      "date": "2026-08",
+      "headline": "Named Paul D. Menson first VP of Sales",
+      "url": "https://www.prnewswire.com/news-releases/peak-energy-names-paul-d-menson-as-first-vice-president-of-sales-302841908.html"
+    },
+    {
+      "date": "2026-07",
+      "headline": "Picked Sacramento for a 183,000 sq ft, 4 GWh sodium-ion factory, production from Q1 2027",
+      "url": "https://greatersacramento.com/press-release/peak-energy-selects-sacramento-to-build-americas-first-sodium-ion-grid-storage-factory/"
+    },
+    {
+      "date": "2026-06",
+      "headline": "Partnership with GM to co-develop next-gen sodium-ion storage cells",
+      "url": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california"
+    },
+    {
+      "date": "2025-11",
+      "headline": "Signed up to 4.75 GWh supply deal with Jupiter Power, potentially $500M+",
+      "url": "https://www.utilitydive.com/news/peak-energy-jupiter-sodium-ion-batteries/805784/"
+    },
+    {
+      "date": "2025-08",
+      "headline": "Energized first US grid-scale passively cooled sodium-ion system in Colorado",
+      "url": "https://peakenergy.com/company/about"
+    }
+  ],
+  "competitors": [
+    "Tesla Megapack (LFP)",
+    "Fluence",
+    "CATL (sodium-ion and LFP)",
+    "BYD",
+    "Unigrid / Proper Voltage"
+  ]
+}
