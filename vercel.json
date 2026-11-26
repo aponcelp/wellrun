@@ -1,4 +1,13 @@
 {
-  "framework": "nextjs",
-  "ignoreCommand": "if [ \"$VERCEL_GIT_COMMIT_REF\" = \"data\" ]; then exit 0; else exit 1; fi"
+  "framework": null,
+  "buildCommand": "next build",
+  "outputDirectory": "out",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "ignoreCommand": "if [ \"$VERCEL_GIT_COMMIT_REF\" = \"data\" ]; then exit 0; else exit 1; fi",
+  "headers": [
+    { "source": "/opengraph-image", "headers": [{ "key": "Content-Type", "value": "image/png" }] },
+    { "source": "/:slug/opengraph-image", "headers": [{ "key": "Content-Type", "value": "image/png" }] },
+    { "source": "/d/:slug", "headers": [{ "key": "Content-Type", "value": "application/json; charset=utf-8" }] }
+  ]
 }

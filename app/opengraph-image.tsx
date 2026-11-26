@@ -3,6 +3,7 @@ import { getCompanies } from "@/lib/data";
 import { C, OG_SIZE, TrackStrip, Wordmark, ZONE_COLOR, laneSpot, ogFonts, type StripRunner } from "@/lib/og";
 import { ZONES, fmtScore, zoneOf } from "@/lib/rank";
 
+export const dynamic = "force-static";
 export const size = OG_SIZE;
 export const contentType = "image/png";
 export const alt = "Well Run · Startups that run well";

@@ -2,7 +2,9 @@ import type { NextConfig } from "next";
 import { withSentryConfig } from "@sentry/nextjs/config";
 
 const nextConfig: NextConfig = {
+  output: "export",
   trailingSlash: false,
+  images: { unoptimized: true },
   poweredByHeader: false,
 };
 
