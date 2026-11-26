@@ -1,17 +1,15 @@
 // Vercel Function (the site itself is a static export, so this lives outside app/).
 // Adds a subscriber to the Well Run Weekly publication on Beehiiv.
 // Needs BEEHIIV_API_KEY and BEEHIIV_PUBLICATION_ID (Vercel env).
-type Req = { method?: string; body?: unknown };
-type Res = { status: (n: number) => Res; json: (b: unknown) => void; setHeader: (k: string, v: string) => void };
 
-export default async function handler(req: Req, res: Res) {
+export default async function handler(req, res) {
   if (req.method !== "POST") {
     res.setHeader("Allow", "POST");
     return res.status(405).json({ ok: false, error: "Method not allowed." });
   }
-  let body: { email?: unknown } = {};
+  let body = {};
   try {
-    body = typeof req.body === "string" ? JSON.parse(req.body) : ((req.body as { email?: unknown }) || {});
+    body = typeof req.body === "string" ? JSON.parse(req.body) : (req.body || {});
   } catch {}
   const email = String(body?.email || "").trim().toLowerCase();
   if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email) || email.length > 254) {
